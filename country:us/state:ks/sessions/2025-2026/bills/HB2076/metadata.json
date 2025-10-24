@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB2076",
+  "title": "Reducing the authorized amount of days that a child may be placed in a secure facility and eliminating the court's option to extend such authorization.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT concerning minors; relating to the revised Kansas code for care of children; reducing the number of days that a custodian may be authorized by the court to place a child in custody of the secretary in a secure facility; eliminating the option for a court to extend the period of authorization for a custodian to place a child in custody of the secretary in a secure facility; amending K.S.A. 38-2260 and repealing the existing section."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Child Welfare and Foster Care",
+      "date": "2025-01-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As introduced",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2076_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As introduced Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2076_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2076/",
+      "note": ""
+    },
+    {
+      "url": "http://kslegislature.org/li/b2025_26/measures/hb2076/",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "introduced"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:29:35Z"
+  }
+}

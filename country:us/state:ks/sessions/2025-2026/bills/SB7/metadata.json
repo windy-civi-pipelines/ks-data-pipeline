@@ -1,0 +1,277 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB7",
+  "title": "Increasing the statutory limits on bonds issued by a township based on township population and purpose of the bond issuance.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT concerning townships; relating to the bonding authority thereof; increasing the statutory limits on such bonding authority based on the population of the township; increasing the statutory limit on bonding authority for improvements to a township fire department; amending K.S.A. 80-113 and 80-1910 and repealing the existing sections."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Local Government, Transparency and Ethics",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Hearing: Tuesday, January 28, 2025, 9:30 AM Room 142-S",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed by Committee on Local Government, Transparency and Ethics",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Now working on",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Emergency Final Action - Passed;   Yea: 39 Nay: 0",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Received and Introduced",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Local Government",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Hearing: Monday, March 3, 2025, 9:00 AM Room 281-N",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed by Committee on Local Government",
+      "date": "2025-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Now working on",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Emergency Final Action - Passed;   Yea: 116 Nay: 5",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to Governor on Friday, March 14, 2025",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Approved by Governor on Friday, March 21, 2025",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As introduced",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb7_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb7_enrolled.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As introduced Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_sb7_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As introduced Supp Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_sb7_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB7/",
+      "note": ""
+    },
+    {
+      "url": "http://kslegislature.org/li/b2025_26/measures/sb7/",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "enacted"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:29:36Z"
+  }
+}

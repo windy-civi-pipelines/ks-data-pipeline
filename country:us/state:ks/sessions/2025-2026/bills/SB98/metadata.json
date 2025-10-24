@@ -1,0 +1,403 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB98",
+  "title": "Providing a sales tax exemption for the construction or remodeling of a qualified data center in Kansas and the purchase of data center equipment, eligible data center costs and certain labor costs to qualified firms that commit to a minimum investment of at least $250,000,000 and meet new Kansas jobs and other requirements.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT concerning data centers; relating to economic development; providing a sales tax exemption for the construction or remodeling of a qualified data center in Kansas, the purchase of data center equipment, eligible data center costs and certain labor costs to qualified firms that commit to a minimum investment of $250,000,000 and meet new Kansas jobs and other requirements; prohibiting public utilities from authorizing discounted economic development electric rates for customers that construct new or expanded facilities that are data centers; requiring qualified data centers to be reviewed and approved by the Kansas intelligence fusion center prior to awarding public financial assistance or benefits; amending K.S.A. 2024 Supp. 66-101j and 79-3606 and repealing the existing sections."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Transportation",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Hearing: Wednesday, February 12, 2025, 8:30 AM Room 546-S",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed by Committee on Transportation",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Now working on",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Final Action - Passed;   Yea: 39 Nay: 1",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Received and Introduced",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Transportation",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Hearing: Wednesday, March 5, 2025, 1:30 PM Room 582-N",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed as amended by Committee on Transportation",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Now working on",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Committee Report be adopted",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed as amended",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Final Action - Passed as amended;  Yea: 105 Nay: 17",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Nonconcurred with amendments; Conference Committee requested; appointed",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Motion to accede adopted;  Representative Francis,  Representative Essex and  Representative Helgerson appointed as  conferees",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Representative Tarwater,  Representative Turk, and  Representative Sawyer Clayton are appointed to replace  Representative Francis,  Representative Essex, and  Representative Helgerson on the Conference Committee",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Senator Alley,  Senator Owens, and  Senator Ware are appointed to replace  Senator Petersen,  Senator Kloos, and  Senator Corson on the Conference Committee",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Conference committee report now available",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Motion to suspend Joint Rule 4 (k) to allow consideration adopted;",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report was adopted;  Yea: 85 Nay: 37",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Motion to suspend Joint Rule 4 (k) to allow consideration adopted;",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report was adopted;  Yea: 26 Nay: 8",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to Governor on Friday, April 18, 2025",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Approved by Governor on Thursday, April 24, 2025",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As introduced",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb98_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Amended by House Committee",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb98_01_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb98_enrolled.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As introduced Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_sb98_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As introduced Supp Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_sb98_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Amended by House Committee Supp Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_sb98_01_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB98/",
+      "note": ""
+    },
+    {
+      "url": "http://kslegislature.org/li/b2025_26/measures/sb98/",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "enacted"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:29:36Z"
+  }
+}

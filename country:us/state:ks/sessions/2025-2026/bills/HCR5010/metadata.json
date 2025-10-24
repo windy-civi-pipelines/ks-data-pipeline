@@ -1,0 +1,71 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HCR5010",
+  "title": "Supporting the authorization and funding of the public safety autonomous technologies research, testing, certification and commercialization program and the passage of the national defense authorization act for fiscal year 2025 .",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A CONCURRENT RESOLUTION supporting the full authorization and funding of the public safety autonomous technologies research, testing, certification and commercialization program and supporting the passage of the national defense authorization act for fiscal year 2025."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Federal and State Affairs",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HCR5010/",
+      "note": ""
+    },
+    {
+      "url": "http://kslegislature.org/li/b2025_26/measures/hcr5010/",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "introduced"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:29:35Z"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB195",
+  "title": "Establishing the property tax task force that shall study the property tax system in Kansas and develop recommendations and suggest improvements to law.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT concerning taxation; relating to property tax; establishing the property tax task force that shall study the property tax system in Kansas and develop recommendations and suggest improvements to law."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Assessment and Taxation",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Hearing: Monday, March 3, 2025, 9:30 AM Room 548-S",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As introduced",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb195_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As introduced Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_sb195_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB195/",
+      "note": ""
+    },
+    {
+      "url": "http://kslegislature.org/li/b2025_26/measures/sb195/",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "introduced"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:29:35Z"
+  }
+}

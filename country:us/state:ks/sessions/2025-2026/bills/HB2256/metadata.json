@@ -1,0 +1,148 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB2256",
+  "title": "Directing the governor to create and award the order of the sunflower to recognize military spouses' service to their communities.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT concerning the governor; creating the order of the sunflower; directing the governor to award the order of the sunflower to recognize military spouses' service to their communities."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Veterans and Military",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Hearing: Tuesday, February 11, 2025, 9:00 AM Room 281-N - CANCELED",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Hearing: Thursday, February 13, 2025, 9:00 AM Room 281-N",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed by Committee on Veterans and Military",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Stricken from Calendar by Rule 1507",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As introduced",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2256_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As introduced Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2256_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As introduced Supp Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_hb2256_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2256/",
+      "note": ""
+    },
+    {
+      "url": "http://kslegislature.org/li/b2025_26/measures/hb2256/",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "dead"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:29:36Z"
+  }
+}

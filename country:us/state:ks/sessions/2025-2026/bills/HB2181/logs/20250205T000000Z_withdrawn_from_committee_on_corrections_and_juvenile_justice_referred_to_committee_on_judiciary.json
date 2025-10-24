@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from  Committee on Corrections and Juvenile Justice; Referred to Committee on Judiciary",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2181"
+}

@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB132",
+  "title": "Establishing certain license fees and training requirements, creating a process for day care facility licensees to apply for temporary waiver of certain statutory requirements and authorizing the secretary to develop and operate pilot programs to increase child care facility availability or capacity, transferring certain child care programs to the Kansas office of early childhood and separating licensing duties between the secretary for health and environment and the executive director of early childhood.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT concerning child care; relating to licensure of day care facilities, child care homes and child care centers; reducing license fees and training requirements; creating a process for day care facility licensees to apply for a temporary waiver of certain statutory requirements; authorizing the secretary of health and environment to develop and operate pilot programs to increase child care facility availability and capacity; establishing the Kansas office of early childhood; transferring administration of day care licensing, parent education programs and the child care subsidy program to the Kansas office of early childhood; creating the day care facilities and child care resource and referral agencies licensing fee fund and the day care criminal background and fingerprinting fund; defining youth development programs; amending section 1, as enacted by this act, section 3, as enacted by this act, section 5, as enacted by this act, section 7, as enacted by this act, section 9, as enacted by this act, section 11, as enacted by this act, section 13, as enacted by this act, section 15, as enacted by this act, K.S.A. 38-1901, 38-2103, 65-504, 65-505, 65-508, 65-508, as amended by section 54 of this act, 65-512, 65-527, 65-531, 72-4161, 72-4162, 72-4163, 72-4164 and 72-4166 and K.S.A. 2024 Supp. 48-3406, 65-503, 65-503, as amended by section 50 of this act, and 65-516 and repealing the existing sections."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Public Health and Welfare",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As introduced",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb132_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As introduced Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_sb132_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB132/",
+      "note": ""
+    },
+    {
+      "url": "http://kslegislature.org/li/b2025_26/measures/sb132/",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "introduced"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:29:35Z"
+  }
+}

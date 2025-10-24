@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed by Governor; Returned to House on Wednesday, April 9, 2025",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2062"
+}

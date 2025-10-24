@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Representative Xu is appointed to replace  Representative Sawyer Clayton on the Conference Committee",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB9"
+}

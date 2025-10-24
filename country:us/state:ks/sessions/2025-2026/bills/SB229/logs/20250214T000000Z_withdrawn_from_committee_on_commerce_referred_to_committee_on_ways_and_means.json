@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from  Committee on Commerce; Referred to Committee on Ways and Means",
+    "date": "2025-02-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB229"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Final Action - Substitute passed;   Yea: 40 Nay: 0",
+    "date": "2025-02-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB33"
+}

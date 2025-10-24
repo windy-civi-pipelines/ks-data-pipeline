@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced Joint Committee on State -Tribal Relations",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR1716"
+}

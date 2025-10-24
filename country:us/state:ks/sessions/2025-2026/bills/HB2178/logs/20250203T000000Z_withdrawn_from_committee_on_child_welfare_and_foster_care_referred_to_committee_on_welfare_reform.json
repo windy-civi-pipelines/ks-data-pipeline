@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from  Committee on Child Welfare and Foster Care; Referred to Committee on Welfare Reform",
+    "date": "2025-02-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2178"
+}

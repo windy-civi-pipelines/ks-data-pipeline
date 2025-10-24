@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB2345",
+  "title": "Creating the Kansas office of natural resources within the executive branch and transferring certain duties of the Kansas water office, and the department of agriculture, division of conservation and division of water resources to such office.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT concerning natural resources; creating the Kansas office of natural resources within the executive branch of government; establishing the division of water resources, division of conservation and division of water policy and planning therein; transferring certain powers, duties and functions; abolishing the Kansas water office, the Kansas department of agriculture, division of conservation and the Kansas department of agriculture, division of water resources; updating statutory references thereof; amending K.S.A. 2-1903, 2-1904, 2-1907, 2-1915, 2-1930, 2-1933, 12-541, 12-636, 12-761, 12-766, 12-2713, 19-2963, 24-407, 24-418, 24-656, 24-659, 24-1202, 24-1204, 24-1211, 24-1212, 42-701, 42-703, 42-722, 42-722a, 42-725, 68-1414, 68-2203, 74-506b, 74-5,121, 74-2608, 74-2609, 74-99f04, 82a-301, 82a-301a, 82a-303a, 82a-328, 82a-405, 82a-603, 82a-612, 82a-701, 82a-711, 82a-718, 82a-724, 82a-731, 82a-732, 82a-733, 82a-737, 82a-739, 82a-762, 82a-767, 82a-770, 82a-771, 82a-773, 82a-902, 82a-905, 82a-906, 82a-907, 82a-910, 82a-911, 82a-915, 82a-920, 82a-922, 82a-923, 82a-932, 82a-933, 82a-934, 82a-954, 82a-1021, 82a-1023, 82a-1042, 82a-1301, 82a-1303, 82a-1311a, 82a-1315b, 82a-1315c, 82a-1332, 82a-1333, 82a-1335, 82a-1345, 82a-1347, 82a-1348, 82a-1349, 82a-1360, 82a-1361, 82a-1362, 82a-1363, 82a-1364, 82a-1367, 82a-1368, 82a-1370, 82a-1402, 82a-1502, 82a-1604, 82a-1605, 82a-1606, 82a-1608, 82a-1609, 82a-1703, 82a-1704, 82a-1803, 82a-1804, 82a-1805, 82a-1904, 82a-1905, 82a-1906, 82a-2007, 82a-2101, 82a-2302, 82a-2303, 82a-2304, 82a-2305, 82a-2310, 82a-2311, 82a-2312, 82a-2313, 82a-2314, 82a-2317, 82a-2324, 82a-2402, 82a-2403, 82a-2404, 82a-2406, 82a-2407, 82a-2408, 82a-2411, 82a-2412, 82a-2414, 82a-2415, 82a-2416 and 82a-2419 and K.S.A. 2024 Supp. 32-1403, 49-603, 49-606, 49-611, 49-613, 49-618, 49-620, 49-621, 49-623, 55-153, 74-2622, 75-3036, 75-37,121, 75-5133, 82a-220, 82a-326, 82a-708b, 82a-714, 82a-736, 82a-903, 82a-1038, 82a-1041, 82a-1501, 82a-1602, 82a-1603, 82a-1607 and 82a-1702 and repealing the existing sections; also repealing K.S.A. 74-506a, 74-5,126, 74-5,127, 74-5,128, 74-5,129, 74-5,130, 74-5,131, 74-5,132, 74-5,132a, 74-2613, 82a-738 and 82a-1901."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Water",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As introduced",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2345_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As introduced Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2345_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2345/",
+      "note": ""
+    },
+    {
+      "url": "http://kslegislature.org/li/b2025_26/measures/hb2345/",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "introduced"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:29:35Z"
+  }
+}

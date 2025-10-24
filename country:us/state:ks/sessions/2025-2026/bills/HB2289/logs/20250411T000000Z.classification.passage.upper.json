@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Conference Committee Report was adopted;  Yea: 33 Nay: 7",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2289"
+}

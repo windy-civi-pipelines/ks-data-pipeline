@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrolled and presented to Governor on Wednesday, February 5, 2025",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB63"
+}

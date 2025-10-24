@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senator Thompson and  Senator Faust Goudeau are appointed to replace  Senator Gossage and  Senator Holscher on the Conference Committee",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2280"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senator Alley,  Senator Owens, and  Senator Ware are appointed to replace  Senator Petersen,  Senator Kloos, and  Senator Corson on the Conference Committee",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2169"
+}

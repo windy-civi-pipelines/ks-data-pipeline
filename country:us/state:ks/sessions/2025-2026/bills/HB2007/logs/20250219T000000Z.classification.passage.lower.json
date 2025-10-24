@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Final Action - Substitute passed as amended;   Yea: 83 Nay: 36",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2007"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senator Sykes is appointed to replace  Senator Holscher on the Conference Committee",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2045"
+}

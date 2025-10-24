@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from  Committee on Appropriations; Referred to Committee on K-12 Education Budget",
+    "date": "2025-02-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2382"
+}

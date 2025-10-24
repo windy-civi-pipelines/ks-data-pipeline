@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Emergency Final Action - Passed as amended;  Yea: 31 Nay: 9",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB229"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from  Committee on Agriculture and Natural Resources; Referred to Committee on Ways and Means",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2113"
+}

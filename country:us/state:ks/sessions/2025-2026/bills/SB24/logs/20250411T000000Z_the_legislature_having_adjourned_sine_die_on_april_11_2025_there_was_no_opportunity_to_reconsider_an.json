@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "The Legislature having adjourned sine die on April 11, 2025, there was no opportunity to reconsider and the veto is sustained.",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB24"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Emergency Final Action - Substitute passed;   Yea: 29 Nay: 11",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2240"
+}

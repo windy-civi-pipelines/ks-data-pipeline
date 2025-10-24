@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Died in Committee",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR1709"
+}

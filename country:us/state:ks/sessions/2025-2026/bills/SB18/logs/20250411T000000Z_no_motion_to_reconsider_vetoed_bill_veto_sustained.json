@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "No motion to reconsider vetoed bill; Veto sustained",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "veto-override-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB18"
+}

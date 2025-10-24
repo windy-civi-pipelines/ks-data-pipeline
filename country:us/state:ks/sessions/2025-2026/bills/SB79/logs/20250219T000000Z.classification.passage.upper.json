@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Final Action - Passed as amended;  Yea: 29 Nay: 11",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB79"
+}

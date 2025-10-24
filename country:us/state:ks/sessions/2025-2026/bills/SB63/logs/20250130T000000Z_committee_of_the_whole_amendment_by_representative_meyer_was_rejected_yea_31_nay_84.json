@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Amendment by  Representative Meyer was rejected  Yea: 31 Nay: 84",
+    "date": "2025-01-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB63"
+}

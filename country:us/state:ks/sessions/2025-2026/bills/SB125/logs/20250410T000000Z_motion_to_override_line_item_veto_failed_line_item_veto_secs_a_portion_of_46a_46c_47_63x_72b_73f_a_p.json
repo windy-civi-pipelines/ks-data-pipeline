@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to override line item veto failed; Line item veto Secs. a portion of 46(a), 46(c), 47, 63(x), 72(b), 73(f), a portion of 76(a), a portion of 76(b),a portion of  83(a), a portion of 89(a), 89(aa), a portion of 92(a), 118(h), 118(i), a portion of 121(a), 135(a), 177(b), 187(h), 188 sustained;  Yea: 82 Nay: 42",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "veto-override-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB125"
+}

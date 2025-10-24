@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to not adopt Conference Committee Report passed;  Yea: 26 Nay: 14 (Bill is killed)",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR5011"
+}

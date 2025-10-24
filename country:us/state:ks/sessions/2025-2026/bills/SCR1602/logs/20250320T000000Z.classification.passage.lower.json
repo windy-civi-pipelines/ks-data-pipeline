@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Emergency Final Action - Adopted;   Yea: 82 Nay: 35",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR1602"
+}

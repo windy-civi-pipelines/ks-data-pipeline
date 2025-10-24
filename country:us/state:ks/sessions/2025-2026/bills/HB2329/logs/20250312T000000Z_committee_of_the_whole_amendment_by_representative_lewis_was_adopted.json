@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Amendment by  Representative Lewis was adopted",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2329"
+}

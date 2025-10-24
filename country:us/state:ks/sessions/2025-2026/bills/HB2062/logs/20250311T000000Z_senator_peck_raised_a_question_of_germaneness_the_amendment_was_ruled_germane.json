@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senator Peck raised a question of germaneness. The amendment was ruled germane.",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2062"
+}

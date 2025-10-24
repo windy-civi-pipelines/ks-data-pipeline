@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Report recommending bill be passed as amended by Committee on Federal and State Affairs",
+    "date": "2025-03-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2016"
+}

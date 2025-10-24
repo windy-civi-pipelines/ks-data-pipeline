@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to override veto prevailed;  Yea: 32 Nay: 8",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "veto-override-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2033"
+}

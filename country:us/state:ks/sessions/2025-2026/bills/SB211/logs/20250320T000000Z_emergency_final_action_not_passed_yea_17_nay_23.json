@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Emergency Final Action - Not passed;   Yea: 17 Nay: 23",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB211"
+}

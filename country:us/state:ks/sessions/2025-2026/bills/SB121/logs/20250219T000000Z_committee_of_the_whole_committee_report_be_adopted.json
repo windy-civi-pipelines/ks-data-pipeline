@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Committee Report be adopted",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB121"
+}

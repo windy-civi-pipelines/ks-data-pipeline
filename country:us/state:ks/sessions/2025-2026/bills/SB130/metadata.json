@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB130",
+  "title": "Amending the Kansas pet animal act to require the Kansas department of agriculture to maintain records of inspections for not less than five years and removing the requirement that the commissioner only apply federal rules and regulations to United States department of agriculture licensed animal distributors and animal breeders.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT concerning agriculture; relating to the Kansas pet animal act; updating provisions for operating an animal shelter or pound; making changes to certain defined terms; modifying authority pertaining to refusal to issue or renew and the modification, limitation, suspension or revocation of any license or permit; providing for making immediate actions to protect the public interest; requiring the posting of a cash or security bond to pay for the costs of caring for a seized or impounded pet animal; requiring certain licensees that cease to engage in licensed activity to notify the commissioner at least 10 days prior to ceasing business, or if extenuating circumstances exist, not later than the date such activity ceases; requiring a closing inspection to confirm that licensed activity has ceased prior to expiration of the license period; requiring certain additional rules and regulations; increasing the maximum amount of certain fees; clarifying the conditions required for a licensed veterinarian to act as or be a boarding or training kennel operator; changing the date during which a licensee or permit holder that is in the process of ceasing to do business may be issued a temporary closing permit; amending K.S.A. 47-1701, 47-1704, 47-1706, 47-1706a, 47-1707, 47-1709, 47-1712, 47-1715, 47-1721, 47-1723 and 47-1732 and repealing the existing sections."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Agriculture and Natural Resources",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Withdrawn from  Committee on Agriculture and Natural Resources; Referred to Committee on Ways and Means",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Withdrawn from  Committee on Ways and Means; Rereferred to Committee on Agriculture and Natural Resources",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As introduced",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb130_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As introduced Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_sb130_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB130/",
+      "note": ""
+    },
+    {
+      "url": "http://kslegislature.org/li/b2025_26/measures/sb130/",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "introduced"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:29:35Z"
+  }
+}

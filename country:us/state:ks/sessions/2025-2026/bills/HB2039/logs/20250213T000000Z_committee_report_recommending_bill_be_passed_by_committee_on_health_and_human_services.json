@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Report recommending bill be passed by Committee on Health and Human Services",
+    "date": "2025-02-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2039"
+}

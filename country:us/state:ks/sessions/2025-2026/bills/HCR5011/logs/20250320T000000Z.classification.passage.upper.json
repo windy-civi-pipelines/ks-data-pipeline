@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Emergency Final Action - Substitute adopted;  Yea: 30 Nay: 10",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR5011"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Passed over and retain a place on the calendar",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB87"
+}

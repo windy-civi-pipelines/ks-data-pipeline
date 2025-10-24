@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB2010",
+  "title": "Prohibiting abortion procedures and creating the crimes of unlawful performance of an abortion and unlawful destruction of a fertilized embryo.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT concerning abortion; prohibiting abortion; creating the crimes of unlawful performance of an abortion and unlawful destruction of a fertilized embryo and establishing penalties therefor; restricting the use of fetal tissue; relating to exclusions from sales and use tax exemptions for certain abortion providers; amending K.S.A. 21-5301, 21-5302, 21-5303, 65-2837, 65-6731, 65-6732, 65-67a01, 65-67a02, 65-67a04, 65-67a07, 76-3308 and 79-32,195 and K.S.A. 2024 Supp. 60-1901, 60-1906, 65-2401, 79-32,182b, 79-32,261 and 79-3606 and repealing the existing sections; also repealing K.S.A. 38-2003, 65-4a02, 65-4a03, 65-4a04, 65-4a05, 65-4a06, 65-4a07, 65-4a08, 65-4a09, 65-4a10, 65-4a11, 65-4a12, 65-6702, 65-6703, 65-6704, 65-6705, 65-6707, 65-6709, 65-6710, 65-6711, 65-6712, 65-6714, 65-6715, 65-6721, 65-6722, 65-6724, 65-6725, 65-6726, 65-6741, 65-6743, 65-6744, 65-6745, 65-6746, 65-6747, 65-6748, 65-6749 and 65-67a09 and K.S.A. 2024 Supp. 65-445, 65-4a01, 65-6701, 65-6708, 65-6723 and 65-6742."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Health and Human Services",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Withdrawn from  Committee on Health and Human Services; Referred to Committee on Interstate Cooperation",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Withdrawn from  Committee on Interstate Cooperation; Rereferred to Committee on Health and Human Services",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    },
+    {
+      "description": "Withdrawn from  Committee on Health and Human Services; Rereferred to Committee on Interstate Cooperation",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:35Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As introduced",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2010_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As introduced Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2010_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2010/",
+      "note": ""
+    },
+    {
+      "url": "http://kslegislature.org/li/b2025_26/measures/hb2010/",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "introduced"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:29:35Z"
+  }
+}

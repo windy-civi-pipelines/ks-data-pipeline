@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Motion by  Representative Hoheisel to rerefer to  Committee on Taxation passed",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB51"
+}

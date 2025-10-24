@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing: Thursday, January 30, 2025, 9:00 AM Room 218-N",
+    "date": "2025-01-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2085"
+}

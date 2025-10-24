@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by Governor on Friday, March 21, 2025",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB175"
+}

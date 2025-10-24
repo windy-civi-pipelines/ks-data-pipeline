@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by Governor except line item veto of 35a, 40d, 41g, 46a(part), 46c, 47, 62d, 63w, 63x, 72b, 73f, 76a (part), 76b (part), 83a (part), 84e, 85o, 88a (part), 89a (part), 89aa, 90, 92a (part), 96n, 96p, 96s, 108c, 116a (part), 118h, 118i, 121a (part), 129a (part), 135a, 153, 156, 158, 159a (part), 159b, 177b, 187h, 188 on Wednesday, April 9, 2025",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB125"
+}

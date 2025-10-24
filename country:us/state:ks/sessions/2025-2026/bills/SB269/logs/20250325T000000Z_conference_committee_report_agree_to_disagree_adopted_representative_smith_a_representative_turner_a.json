@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference Committee Report agree to disagree adopted;  Representative Smith, A.,  Representative Turner and  Representative Sawyer appointed as second conferees",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB269"
+}

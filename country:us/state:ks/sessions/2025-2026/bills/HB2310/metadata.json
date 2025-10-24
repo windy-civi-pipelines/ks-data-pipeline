@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB2310",
+  "title": "Enacting the career advancement, resources, employment and supports for the disability workforce act, providing for career education programs for students and career enhancement programs for professionals, requiring performance-based contracting for disability services providers, facilitating choice in services by individuals with disabilities, mandating rate parity across all state waiver programs, providing for an online data portal system for waitlist management and services-related communications, requiring the secretary of labor to publish information regarding the disability service provider workforce and providing that direct support workers may be covered by the state health plan.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT concerning individuals with developmental or intellectual disabilities and direct support workers; enacting the career advancement, resources, employment and supports for the disability workforce act, providing for the development of career education programs and other efforts by the secretary for aging and disability services to encourage the growth of support for individuals with disabilities as a profession; requiring the secretary to develop career education and enhancement programs for such professionals; mandating performance-based contracting for managed care organizations and other disability services providers; providing for the development of processes and procedures that facilitate choice by individuals with disabilities of service providers and the nature of the service; requiring rate parity across all state waiver programs; requiring the secretary to develop and implement an online data portal system for the management of waitlists and the provision of information to and communication with individuals with disabilities on a waitlist or receiving services through a waiver program administered by the secretary; requiring the secretary of labor to initiate or enhance classification of and information regarding the disability service provider workforce and publish such information; providing that certain direct support workers may be covered by the state health plan; amending K.S.A. 75-6506 and repealing the existing section."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Commerce, Labor and Economic Development",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    },
+    {
+      "description": "Hearing: Tuesday, February 11, 2025, 1:30 PM Room 346-S",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:29:36Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As introduced",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2310_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As introduced Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2310_00_0000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2310/",
+      "note": ""
+    },
+    {
+      "url": "http://kslegislature.org/li/b2025_26/measures/hb2310/",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "introduced"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:29:36Z"
+  }
+}

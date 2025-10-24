@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Amendment by  Senator Sykes was rejected  Yea: 9 Nay: 31",
+    "date": "2025-02-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB87"
+}

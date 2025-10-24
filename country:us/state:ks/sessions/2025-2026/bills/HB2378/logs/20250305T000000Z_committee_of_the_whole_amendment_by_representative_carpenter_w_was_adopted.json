@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Amendment by  Representative Carpenter, W. was adopted",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2378"
+}

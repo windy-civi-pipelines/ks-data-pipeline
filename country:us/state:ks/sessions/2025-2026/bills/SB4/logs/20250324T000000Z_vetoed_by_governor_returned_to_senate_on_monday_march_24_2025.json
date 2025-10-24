@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed by Governor; Returned to Senate on Monday, March 24, 2025",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB4"
+}

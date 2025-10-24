@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Consent Calendar Passed  Yea: 39 Nay: 0",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB9"
+}

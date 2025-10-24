@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Amendment by  Representative Haskins was rejected  Yea: 30 Nay: 85",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2020"
+}
