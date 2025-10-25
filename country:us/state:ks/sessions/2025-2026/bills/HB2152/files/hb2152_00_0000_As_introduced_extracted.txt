@@ -1,0 +1,1450 @@
+Title: HOUSE BILL No. 2152
+Official Title: HOUSE BILL No. 2152
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Financial Institutions and Pensions
+Requested by Representative Hoheisel on behalf of the 2024 Special Committee on
+Centralized Pooled Collateral and PMIB Modernization
+1-29
+1 AN ACT concerning public moneys; relating to the deposit and investment
+2 thereof; authorizing financial institutions designated as public
+3 depositaries to secure governmental unit deposits in excess of the
+4 amount insured or guaranteed by the federal deposit insurance
+5 corporation by utilizing a public moneys pooled method of securities;
+6 directing the state treasurer to establish procedures therefor; requiring
+7 financial institutions to make certain reports upon the request of a
+8 governmental unit; prohibiting investment advisers that execute bids
+9 for the investment of public moneys from engaging in a principal
+10 transaction with a governmental unit directly related to such public
+11 moneys; allowing municipal bond proceeds and governmental unit
+12 deposits to be invested in a financial institution at a rate agreed upon by
+13 the governmental unit and the financial institution; equalizing the bank
+14 investment rate with the municipal investment pool rate; requiring
+15 certification from governmental units that deposits in the municipal
+16 investment pool fund were first offered to a bank, savings and loan
+17 association or savings bank in the preceding year; allowing eligible
+18 financial institutions to file a complaint with the state treasurer upon the
+19 failure of a governmental unit to comply with such certification;
+20 establishing the investment rate for the pooled money investment board
+21 bank certificate of deposit program; amending K.S.A. 9-1402, 10-131,
+22 12-1675, 12-1675a and 12-1677a and K.S.A. 2024 Supp. 75-4237 and
+23 repealing the existing sections.
+24
+25 Be it enacted by the Legislature of the State of Kansas:
+26 New Section 1. (a) For purposes of sections 1 through 3, and
+27 amendments thereto:
+28 (1) "Administrator" means the treasurer or the treasurer's designee.
+29 (2) "Governmental unit" means the state or any county, municipality
+30 or other political subdivision thereof.
+31 (3) "Public moneys" means the same as defined in K.S.A. 9-701, and
+32 amendments thereto.
+33 (4) "Public moneys pooled method" or "pool of securities" means
+34 shares of investment companies registered under the federal investment
+HB 2152 2
+1 company act of 1940 when the investment companies' assets are limited to
+2 obligations that are eligible for investment by the bank, savings and loan
+3 association or savings bank and limited by their prospectuses to owning
+4 securities enumerated in K.S.A. 9-1402(c), and amendments thereto.
+5 (5) "Treasurer" means the state treasurer.
+6 (b) As an alternative to the requirements to secure the deposit of
+7 public moneys in excess of the amount insured or guaranteed by the
+8 federal deposit insurance corporation pursuant to K.S.A. 9-1402 and 12-
+9 1675, and amendments thereto, a bank, savings and loan association or
+10 savings bank designated as a public depositary may secure the deposits of
+11 one or more governmental units by depositing, pledging or granting a
+12 security interest in a pool of securities to secure the repayment of all public
+13 moneys deposited in such bank, savings and loan association or savings
+14 bank by such governmental units and not otherwise secured pursuant to
+15 law, if at all times the aggregate market value on such pool of securities so
+16 deposited, pledged or in which a security interest is granted is equal to at
+17 least 102% of the amount on deposit that is in excess of the amount so
+18 insured or guaranteed. Each such bank, savings and loan association or
+19 savings bank shall carry on such bank's or association's accounting records
+20 a general ledger or other appropriate accounting of the total amount of all
+21 public moneys to be secured by the pool of securities as determined at the
+22 opening of each business day and the aggregate market value of the pool
+23 of securities deposited, pledged or in which a security interest is granted to
+24 secure such public moneys.
+25 (c) The treasurer may serve as the administrator with respect to a
+26 public moneys pooled method or may designate a bank, savings and loan
+27 association, savings bank, trust company or other qualified firm,
+28 corporation or association that is authorized to transact business in this
+29 state to serve as the administrator. Fees and expenses of such administrator
+30 shall be paid by the banks, savings and loan association or savings bank
+31 utilizing the public moneys pooled method.
+32 (d) If a bank, savings and loan association or savings bank elects to
+33 secure the deposit of public moneys through the use of the public moneys
+34 pooled method, such bank, savings and loan association or savings bank
+35 shall notify the administrator in writing that such bank, savings and loan
+36 association or savings bank has elected to utilize the public funds pooled
+37 method and the proposed effective date of such notification.
+38 (e) The public moneys pooled method shall not be utilized by any
+39 bank, savings and loan association or savings bank unless the treasurer
+40 establishes a public moneys pooled method in accordance with this section
+41 or designates an administrator pursuant to subsection (c).
+42 (f) This section shall take effect on and after January 1, 2026.
+43 New Sec. 2. (a) When the treasurer determines that a bank, savings
+HB 2152 3
+1 and loan association or savings bank has experienced a default, the
+2 treasurer shall:
+3 (1) Ascertain the aggregate amounts of public moneys secured
+4 pursuant to K.S.A. 9-1402 and 12-1675, and amendments thereto, and
+5 deposited in such bank, savings and loan association or savings bank that
+6 has defaulted, as disclosed by the records of such bank, savings and loan
+7 association or savings bank. The treasurer shall determine for each
+8 governmental unit for which public moneys are deposited in the defaulting
+9 bank, savings and loan association or savings bank the accounts and
+10 amount of federal deposit insurance or guarantee that is available for each
+11 account. The treasurer shall then determine for each such governmental
+12 unit the amount of public moneys not insured or guaranteed by the federal
+13 deposit insurance corporation and the amount of public moneys secured by
+14 a pool of securities pledged, deposited or in which a security interest has
+15 been granted to secure such public moneys. Upon completion of such
+16 determination, the treasurer shall provide each such governmental unit
+17 with a statement that reports the amount of public moneys deposited by
+18 such governmental unit in the defaulting bank, savings and loan
+19 association or savings bank, the amount of public moneys that may be
+20 insured or guaranteed by the federal deposit insurance corporation and the
+21 amount of public moneys secured by a pool of securities, or any
+22 combination thereof, pursuant to K.S.A. 9-1402 and 12-1675, and
+23 amendments thereto. Each such governmental unit shall verify the
+24 information in such report with such governmental unit's records within 10
+25 business days after receiving the report and information from the treasurer;
+26 and
+27 (2) shall repay each governmental unit for the public moneys not
+28 insured or guaranteed by the federal deposit insurance corporation
+29 deposited in the bank, savings and loan association or savings bank by the
+30 governmental unit upon receipt of a verified report from such
+31 governmental unit and if the defaulting bank, savings and loan association
+32 or savings bank is to be liquidated or if for any other reason the treasurer
+33 determines that public moneys are not likely to be promptly paid upon
+34 demand. In the event that the amount of the deposit guaranty bond or the
+35 proceeds of the securities held by the treasurer after liquidation is
+36 insufficient to cover all public moneys not insured or guaranteed by the
+37 federal deposit insurance corporation for all governmental units served by
+38 the treasurer, the treasurer shall pay out to each governmental unit
+39 available amounts pro rata in accordance with the respective public
+40 moneys not insured or guaranteed by the federal deposit insurance
+41 corporation for each such governmental unit.
+42 (b) In the event that a federal deposit insurance agency is appointed
+43 and acts as a liquidator or receiver of any bank, savings and loan
+HB 2152 4
+1 association or savings bank under state or federal law, the duties under this
+2 section that are specified to be performed by the treasurer in the event of
+3 default may be delegated to and performed by such federal deposit
+4 insurance agency.
+5 (c) This section shall take effect on and after January 1, 2026.
+6 New Sec. 3. (a) A bank, savings and loan association or savings bank,
+7 upon the request of a governmental unit, shall report as of the date of such
+8 request the amount of public moneys deposited in such bank, savings and
+9 loan association or savings bank that is not insured or guaranteed by the
+10 federal deposit insurance corporation by:
+11 (1) The governmental unit making the request; and
+12 (2) all other governmental units and secured pursuant to K.S.A. 9-
+13 1402 and 12-1675, and amendments thereto, and the aggregate market
+14 value of the pool of securities deposited, pledged or in which a security
+15 interest has been granted to secure public moneys held by the bank,
+16 savings and loan association or savings bank, including those public
+17 moneys deposited by the governmental unit.
+18 (b) A qualified trustee, upon the request of a governmental unit, shall
+19 report as of the date of such request the aggregate market value of the pool
+20 of securities deposited, pledged or in which a security interest has been
+21 granted by the bank, savings and loan association or savings bank and
+22 provide an itemized list of the securities in such pool. The governmental
+23 unit shall specify the date on which such report shall be made by such
+24 qualified trustee.
+25 (c) This section shall take effect on and after January 1, 2026.
+26 New Sec. 4. (a) An investment adviser that executes bids for the
+27 investment of public moneys on behalf of a governmental unit shall not be
+28 permitted to engage in a principal transaction with the governmental unit
+29 that is the same or directly related to the issue of securities or financial
+30 product for which the investment adviser is providing or has provided
+31 advice. Nothing in this section shall prevent governmental units from
+32 engaging with a federally registered investment adviser.
+33 (b) For purposes of this section:
+34 (1) "Governmental unit" means the state or any county, municipality
+35 or other political subdivision thereof; and
+36 (2) "investment adviser" means the same as defined in K.S.A. 17-
+37 12a102, and amendments thereto.
+38 Sec. 5. K.S.A. 9-1402 is hereby amended to read as follows: 9-1402.
+39 (a) Before any deposit of public moneys or funds shall be made by any
+40 municipal corporation or quasi-municipal corporation governmental unit
+41 of the state of Kansas with any bank, savings and loan association or
+42 savings bank, such municipal or quasi-municipal corporation
+43 governmental unit shall obtain security for such deposit in one of the
+HB 2152 5
+1 following manners prescribed by this section.
+2 (b) Such bank, savings and loan association or savings bank may give
+3 a corporate surety bond of some surety corporation authorized to do
+4 business in this state, which. Such bond shall be in an amount equal to the
+5 public moneys or funds on deposit at any given time less the amount of
+6 such public moneys or funds which that is insured by the federal deposit
+7 insurance corporation or its successor and such bond shall be conditioned
+8 that such deposit shall be paid promptly on the order of the municipal
+9 corporation or quasi-municipal corporation governmental unit making
+10 such deposits.
+11 (c) Such bank, savings and loan association or savings bank may
+12 deposit, maintain, pledge, assign and grant a security interest in, or cause
+13 its agent, trustee, wholly owned subsidiary or affiliate having identical
+14 ownership to deposit, maintain, pledge, assign and grant a security interest
+15 in, for the benefit of the governing body of the municipal corporation or
+16 quasi-municipal corporation governmental unit in the manner provided in
+17 this section, securities, security entitlements, financial assets and securities
+18 accounts owned by the depository institution directly or indirectly through
+19 the institution's agent or trustee holding securities on the institution's
+20 behalf, or owned by the depository institutions wholly owned subsidiary or
+21 by such affiliate, the market value of which is equal to 100% of the total
+22 deposits at any given time, and such securities, security entitlements,
+23 financial assets and securities accounts, may be accepted or rejected by the
+24 governing body of the municipal corporation or quasi-municipal
+25 corporation governmental unit and shall consist of the following and
+26 security entitlements thereto:
+27 (1) Direct obligations of, or obligations that are insured as to principal
+28 and interest by, the United States of America or any agency thereof and
+29 obligations, including, but not limited to, letters of credit and securities of
+30 United States sponsored corporations which that under federal law may be
+31 accepted as security for public funds;
+32 (2) bonds of any municipal corporation or quasi-municipal
+33 corporation governmental unit of the state of Kansas which that have been
+34 refunded in advance of the bonds' maturity and are fully secured as to
+35 payment of principal and interest thereon by deposit in trust, under escrow
+36 agreement with a bank, of direct obligations of, or obligations the principal
+37 of and the interest on which are unconditionally guaranteed by, the United
+38 States of America;
+39 (3) bonds of the state of Kansas;
+40 (4) general obligation bonds of any municipal corporation or quasi-
+41 municipal corporation governmental unit of the state of Kansas;
+42 (5) revenue bonds of any municipal corporation or quasi-municipal
+43 corporation governmental unit of the state of Kansas if approved by the
+HB 2152 6
+1 commissioner;
+2 (6) temporary notes of any municipal corporation or quasi-municipal
+3 corporation governmental unit of the state of Kansas which that are
+4 general obligations of the municipal or quasi-municipal corporation
+5 governmental unit issuing the same such temporary notes;
+6 (7) warrants of any municipal corporation or quasi-municipal
+7 corporation governmental unit of the state of Kansas the issuance of which
+8 is authorized by the state board of tax appeals and which that are payable
+9 from the proceeds of a mandatory tax levy;
+10 (8) bonds of either a Kansas not-for-profit corporation or of a local
+11 housing authority that are rated at least Aa by Moody's investors service or
+12 AA by Standard & Poor's corp.;
+13 (9) bonds issued pursuant to K.S.A. 12-1740 et seq., and amendments
+14 thereto, that are rated at least MIG-1 or Aa by Moody's investors service or
+15 AA by Standard & Poor's corp.;
+16 (10) notes of a Kansas not-for-profit corporation that are issued to
+17 provide only the interim funds for a mortgage loan that is insured by the
+18 federal housing administration;
+19 (11) bonds issued pursuant to K.S.A. 74-8901 through 74-8916, and
+20 amendments thereto;
+21 (12) bonds issued pursuant to K.S.A. 68-2319 through 68-2330, and
+22 amendments thereto;
+23 (13) commercial paper that does not exceed 270 days to maturity and
+24 which has received one of the two highest commercial paper credit ratings
+25 by a nationally recognized investment rating firm; or
+26 (14) (A) negotiable promissory notes together with first lien
+27 mortgages on one to four family residential real estate located in Kansas
+28 securing payment of such notes when such notes or mortgages:
+29 (i) Are underwritten by the federal national mortgage association, the
+30 federal home loan mortgage corporation, the federal housing
+31 administration or the veterans administration standards;
+32 (ii) have been in existence with the same borrower for at least two
+33 years and with no history of any installment being unpaid for 30 days or
+34 more; and
+35 (iii) are valued at not to exceed 50% of the lesser of the following
+36 three values: Outstanding mortgage balance, current appraised value of the
+37 real estate or discounted present value based upon current federal national
+38 mortgage association or government national mortgage association interest
+39 rates quoted for conventional, federal housing administration or veterans
+40 administration mortgage loans.
+41 (B) Securities under paragraph (A) shall be taken at their value for
+42 not more than 50% of the security required under the provisions of this
+43 section.
+HB 2152 7
+1 (C) Securities under paragraph (A) shall be withdrawn immediately
+2 from the collateral pool if any installment is unpaid for 30 days or more.
+3 (D) A status report on all such loans shall be provided to the investing
+4 governmental entity by the financial institution on a quarterly basis.
+5 (d) Such bank, savings and loan association or savings bank may
+6 secure the deposit of public moneys of one or more governmental units
+7 through a pool of eligible securities established by such bank, savings and
+8 loan association or savings bank with a custodian to be held subject to the
+9 order of the state treasurer or an administrator designated by the state
+10 treasurer pursuant to section 1, and amendments thereto, for the benefit of
+11 the governmental unit having public moneys with such bank, savings and
+12 loan association or savings bank as provided in section 1, and
+13 amendments thereto.
+14 (e) No such bank, savings and loan association or savings bank may
+15 deposit and maintain for the benefit of the governing body of a municipal
+16 or quasi-municipal corporation governmental unit of the state of Kansas,
+17 any securities which consist of:
+18 (1) Bonds secured by revenues of a utility which has been in
+19 operation for less than three years; or
+20 (2) bonds issued under K.S.A. 12-1740 et seq., and amendments
+21 thereto, unless such bonds have been refunded in advance of their maturity
+22 as provided in subsection (d) (c) or such bonds are rated at least Aa by
+23 Moody's investors service or AA by Standard & Poor's corp.
+24 (e)(f) Any applicant requesting approval of a revenue bond pursuant
+25 to subsection (c)(5) shall pay to the commissioner a fee in an amount
+26 established pursuant to K.S.A. 9-1726, and amendments thereto, to defray
+27 the expenses of the commissioner in the examination and investigation of
+28 the application. The commissioner shall remit all amounts received under
+29 this section to the state treasurer in accordance with the provisions of
+30 K.S.A. 75-4215, and amendments thereto. Upon receipt of each such
+31 remittance, the state treasurer shall deposit the entire amount in the state
+32 treasury to the credit of the bank investigation fund. The moneys in the
+33 bank investigation fund shall be used to pay the expenses of the
+34 commissioner in the examination and investigation of such applications
+35 and any unused balance shall be transferred to the bank commissioner fee
+36 fund.
+37 (g) For purposes of this section, "governmental unit" means the state
+38 or any county, municipality or other political subdivision of the state.
+39 Sec. 6. K.S.A. 10-131 is hereby amended to read as follows: 10-131.
+40 (a) The governing body of any municipality, as defined in K.S.A. 10-101,
+41 and amendments thereto, which has issued or may issue bonds or
+42 temporary notes for any purpose, is hereby authorized and empowered to
+43 invest any portion of the proceeds of such bonds, notes or funds held
+HB 2152 8
+1 pursuant to the resolution or ordinance authorizing the issuance of such
+2 bonds or notes, which is not currently needed, in:
+3 (1) Investments authorized by K.S.A. 12-1675, and amendments
+4 thereto, in the manner prescribed therein;
+5 (2) the municipal investment pool established pursuant to K.S.A. 12-
+6 1677a, and amendments thereto;
+7 (3) direct obligations of the United States government or any agency
+8 thereof;
+9 (4) the municipality's temporary notes issued pursuant to K.S.A. 10-
+10 123, and amendments thereto;
+11 (5) interest-bearing time deposits in commercial banks located in the
+12 county or counties in which the municipality is located at a rate agreed
+13 upon by the governing body and the eligible financial institution;
+14 (6) subject to the limitations provided in subsection (b), obligations of
+15 the federal national mortgage association, federal home loan banks, the
+16 federal home loan mortgage corporation or the government national
+17 mortgage association;
+18 (7) repurchase agreements for securities described in paragraph (3)
+19 or (6);
+20 (8) investment agreements with or other obligations of a financial
+21 institution the obligations of which at the time of investment are rated in
+22 either of the three highest rating categories by Moody's investors service or
+23 Standard and Poor's corporation;
+24 (9) investments in shares or units of a money market fund or trust the
+25 portfolio of which is comprised entirely of securities described in
+26 paragraph (3) or (6);
+27 (10) receipts evidencing ownership interests in securities or portions
+28 thereof described in paragraph (3) or (6);
+29 (11) municipal bonds or other obligations issued by any municipality
+30 of the state of Kansas as defined in K.S.A. 10-1101, and amendments
+31 thereto, which are general obligations of the municipality issuing the same;
+32 or
+33 (12) bonds of any municipality of the state of Kansas as defined in
+34 K.S.A. 10-1101, and amendments thereto, which have been refunded in
+35 advance of their maturity and are fully secured as to payment of principal
+36 and interest thereon by deposit in trust, under escrow agreement with a
+37 bank, of securities described in paragraph (3) or (6). The interest received
+38 on any such investment shall upon receipt thereof be set aside and used for
+39 the purpose of paying interest on the bonds or notes issued or used for
+40 paying the cost of the project for which the bonds or notes were issued.
+41 (b) No moneys authorized to be invested pursuant to subsection (a)
+42 shall be invested in a derivative. For the purposes of this section,
+43 "derivative" means any investment instrument whose market price is
+HB 2152 9
+1 derived from the fluctuating value of an underlying asset, index, currency,
+2 futures contract, including futures, options and collateralized mortgage
+3 obligations.
+4 (c) The investments authorized by subsections (a)(2) through (12)
+5 shall be utilized only if the banks, savings and loan associations and
+6 savings banks eligible for investments authorized in K.S.A. 12-1675(b)(2),
+7 and amendments thereto, are not able to make the investments authorized
+8 under K.S.A. 12-1675(b)(2), and amendments thereto, available to the
+9 investing governmental unit at an interest rate equal to or greater than the
+10 investment rate, as defined in K.S.A. 12-1675a(g), and amendments
+11 thereto.
+12 Sec. 7. K.S.A. 12-1675 is hereby amended to read as follows: 12-
+13 1675. (a) The governing body of any county, city, township, school
+14 district, area vocational-technical school, community college, firemen's
+15 relief association, community mental health center, community facility for
+16 people with intellectual disability or any other governmental entity, unit or
+17 subdivision in the state of Kansas having authority to receive, hold and
+18 expend public moneys or funds may invest any moneys which that are not
+19 immediately required for the purposes for which the moneys were
+20 collected or received, and the investment of which is not subject to or
+21 regulated by any other statute.
+22 (b) Such moneys shall be invested only:
+23 (1) In temporary notes or no-fund warrants issued by such investing
+24 governmental unit;
+25 (2) in savings deposits, demand deposits, time deposit, open accounts,
+26 certificates of deposit or time certificates of deposit with maturities of not
+27 more than two years:
+28 (A) In banks, savings and loan associations and savings banks, which
+29 that have main or branch offices located in such investing governmental
+30 unit; or
+31 (B) if no main or branch office of a bank, savings and loan
+32 association or savings bank is located in such investing governmental unit,
+33 then in banks, savings and loan associations and savings banks, which that
+34 have main or branch offices in the county or counties in which all or part
+35 of such investing governmental unit is located; or
+36 (C) in selecting a bank, savings and loan association or savings bank
+37 pursuant to paragraphs (A) and (B), the investing governmental unit may
+38 accept any rate agreed upon by the governmental unit and the eligible
+39 bank, savings and loan association or savings bank. If a bank, savings and
+40 loan association or savings bank eligible for an investment deposit
+41 pursuant to paragraphs (A) and (B) will make such deposits available to
+42 the investing governmental unit at interest rates equal to or greater than
+43 the investment rate, as defined in K.S.A. 12-1675a(g), and amendments
+HB 2152 10
+1 thereto, the investing governmental unit shall select one or more of such
+2 eligible banks, savings and loan associations or savings banks;
+3 (3) in repurchase agreements with:
+4 (A) Banks, savings and loan associations and savings banks, which
+5 have main or branch offices located in such investing governmental unit,
+6 for direct obligations of, or obligations that are insured as to principal and
+7 interest by, the United States government or any agency thereof; or
+8 (B) (i) if no main or branch office of a bank, savings and loan
+9 association or savings bank, is located in such investing governmental
+10 unit; or
+11 (ii) if no such bank, savings and loan association or savings bank
+12 having a main or branch office located in such investing governmental unit
+13 is willing to enter into such an agreement with the investing governmental
+14 unit at an interest rate equal to or greater than the investment rate, as
+15 defined in subsection (g) of K.S.A. 12-1675a(g), and amendments thereto,
+16 then such repurchase agreements may be entered into with banks, savings
+17 and loan associations or savings banks which have main or branch offices
+18 in the county or counties in which all or part of such investing
+19 governmental unit is located; or
+20 (C) if no bank, savings and loan association or savings bank, having a
+21 main or branch office in such county or counties is willing to enter into
+22 such an agreement with the investing governmental unit at an interest rate
+23 equal to or greater than the investment rate, as defined in subsection (g) of
+24 K.S.A. 12-1675a(g), and amendments thereto, then such repurchase
+25 agreements may be entered into with banks, savings and loan associations
+26 or savings banks located within this state.
+27 (D) In selecting a bank, savings and loan association or savings bank
+28 pursuant paragraphs (A), (B) and (C), the governmental unit may accept
+29 any rate agreed upon by the governmental unit and the eligible bank,
+30 savings and loan association or savings bank;
+31 (4) in direct obligations of or obligations that are insured as to
+32 principal and interest by the United States or any agency thereof, not
+33 including mortgage-backed securities with maturities as the governing
+34 body shall determine, but not exceeding two years. Such investment
+35 transactions shall only be conducted with:
+36 (A) Banks, savings and loan associations and savings banks;
+37 (B) the federal reserve bank of Kansas City, Missouri; or with
+38 (C) primary government securities dealers which report to the market
+39 report division of the federal reserve bank of New York, or any broker-
+40 dealer engaged in the business of selling government securities which that
+41 is registered in compliance with the requirements of section 15 or 15C of
+42 the securities exchange act of 1934 and registered pursuant to K.S.A. 17-
+43 12a401, and amendments thereto;
+HB 2152 11
+1 (5) in the municipal investment pool fund established in K.S.A. 12-
+2 1677a, and amendments thereto;
+3 (6) in the investments authorized and in accordance with the
+4 conditions prescribed in K.S.A. 12-1677b, and amendments thereto;
+5 (7) in multiple municipal client investment pools managed by the
+6 trust departments of banks which that have main or branch offices located
+7 in the county or counties where such investing governmental unit is
+8 located or with trust companies incorporated under the laws of this state
+9 which that have contracted to provide trust services under the provisions
+10 of K.S.A. 9-2107, and amendments thereto, with banks which that have
+11 main or branch offices located in the county or counties in which such
+12 investing governmental unit is located. Public moneys invested under this
+13 paragraph shall be secured in the same manner as provided for under
+14 K.S.A. 9-1402, and amendments thereto. Pooled investments of public
+15 moneys made by trust departments under this paragraph shall be subject to
+16 the same terms, conditions and limitations as are applicable to the
+17 municipal investment pool established by K.S.A. 12-1677a, and
+18 amendments thereto; or
+19 (8) municipal bonds or other obligations issued by any municipality
+20 of the state of Kansas as defined in K.S.A. 10-1101, and amendments
+21 thereto, which that are general obligations of the municipality issuing the
+22 same.
+23 (c) The investments authorized in paragraphs (4), (5), (6), (7) or (8)
+24 of subsection (b)(4), (5), (6), (7) or (8) shall be utilized only if the banks,
+25 savings and loan associations and savings banks eligible for investments
+26 authorized in paragraph (2) of subsection (b)(2), cannot or will not make
+27 the investments authorized in paragraph (2) of subsection (b)(2) available
+28 to the investing governmental unit at interest rates equal to or greater than
+29 the investment rate, as defined in subsection (g) of K.S.A. 12-1675a(g),
+30 and amendments thereto.
+31 (d) In selecting a depository pursuant to paragraph (2) of subsection
+32 (b), if a bank, savings and loan association or savings bank eligible for an
+33 investment deposit thereunder has an office located in the investing
+34 governmental unit and such financial institution will make such deposits
+35 available to the investing governmental unit at interest rates equal to or
+36 greater than the investment rate, as defined in subsection (g) of K.S.A. 12-
+37 1675a, and amendments thereto, and such financial institution otherwise
+38 qualifies for such deposit, the investing governmental unit shall select one
+39 or more of such eligible financial institutions for deposit of funds pursuant
+40 to this section. If no such financial institution qualifies for such deposits,
+41 the investing governmental unit may select for such deposits one or more
+42 eligible banks, savings and loan associations or savings banks which have
+43 offices in the county or counties in which all or a part of such investing
+HB 2152 12
+1 governmental unit is located which will make such deposits available to
+2 the investing governmental unit at interest rates equal to or greater than the
+3 investment rate, as defined in subsection (g) of K.S.A. 12-1675a, and
+4 amendments thereto, and which otherwise qualify for such deposits.
+5 (e)(d) (1) All security purchases and repurchase agreements shall
+6 occur on a delivery versus payment basis.
+7 (2) All securities, including those acquired by repurchase agreements,
+8 shall be perfected in the name of the investing governmental unit and shall
+9 be delivered to the purchaser or a third-party custodian which may be the
+10 state treasurer.
+11 (f)(e) Public moneys deposited pursuant to subsection (b)(2) of
+12 K.S.A. 12-1675, and amendments thereto, by the governing body of any
+13 governmental unit listed in subsection (a) of K.S.A. 12-1675, and
+14 amendments thereto, through a selected bank, savings and loan association
+15 or savings bank which that is part of a reciprocal deposit program in which
+16 the bank, savings and loan association or savings bank:
+17 (1) Receives reciprocal deposits from other participating institutions
+18 located in the United States in an amount equal to the amount of funds
+19 deposited by the municipal corporation or quasi-municipal corporation
+20 investing governmental unit; and
+21 (2) for which the total cumulative amount of each deposit does not
+22 exceed the maximum deposit insurance amount for one depositor at one
+23 financial institution as determined by the federal deposit insurance
+24 corporation.
+25 Such deposits shall not be treated as securities and need not be secured
+26 as provided in this or any other act statute.
+27 (f) Public moneys deposited pursuant to subsection (b)(2) by the
+28 governing body of any investing governmental unit specified in subsection
+29 (a) through a selected bank, savings and loan association or savings bank
+30 may be invested in a pool of eligible securities established by such bank,
+31 savings and loan association or savings bank with a custodian to be held
+32 subject to the order of the state treasurer or an administrator designated
+33 by the state treasurer pursuant to section 1, and amendments thereto, for
+34 the benefit of such investing governmental unit having public moneys with
+35 such bank, savings and loan association or savings bank as provided in
+36 section 1, and amendments thereto.
+37 Sec. 8. K.S.A. 12-1675a is hereby amended to read as follows: 12-
+38 1675a. As used in K.S.A. 12-1675, 12-1676, 12-1677, 12-1677a and 12-
+39 1677b, and amendments thereto:
+40 (a) "Bank" means any bank incorporated under the laws of this state
+41 or any other state, or organized under the laws of the United States which
+42 has a main or branch office in this state;
+43 (b) "savings and loan association" means any savings and loan
+HB 2152 13
+1 association incorporated under the laws of this state or any other state, or
+2 organized under the laws of the United States and which has a main or
+3 branch office in this state;
+4 (c) "savings bank" means any savings bank organized under the laws
+5 of the United States and which has a main or branch office in this state;
+6 (d) "municipality" includes each investing governmental unit under
+7 K.S.A. 12-1675, and amendments thereto;
+8 (e) "main office" means the place of business specified in the articles
+9 of association, certificate of authority or similar document, where the
+10 business of the institution is carried on and which is not a branch;
+11 (f) "branch" means any office within this state, other than the main
+12 office, that is approved by a federal or state supervisory agency at which
+13 deposits are received, checks paid or money lent. Branch does not include
+14 an automated teller machine, remote service unit or similar device or a
+15 loan production office; and
+16 (g) "investment rate" means a rate which is the equivalent yield for
+17 United States government securities having a maturity date as published in
+18 the Wall Street Journal, nearest the maturity date for equivalent maturities.
+19 The 0-90 day rate shall be computed on the average effective federal funds
+20 rate as published by the federal reserve system for the previous week set
+21 by the pooled money investment board for investment in the municipal
+22 investment pool fund. The rate shall be published daily by the pooled
+23 money investment board.
+24 Sec. 9. K.S.A. 12-1677a is hereby amended to read as follows: 12-
+25 1677a. (a) Moneys deposited by any municipality with the state treasurer
+26 for investment authorized in paragraph (5) of subsection (b) of K.S.A. 12-
+27 1675(b)(5), and amendments thereto, shall be deposited in the municipal
+28 investment pool fund which is hereby created in the state treasury. The
+29 state treasurer shall provide the board a monthly record of the deposits and
+30 withdrawals of municipalities. Such record may include the amount of the
+31 deposit, the date of the deposit and such other information as the pooled
+32 money investment board may require.
+33 (b) The director of investments may invest and reinvest moneys in the
+34 municipal investment pool fund in accordance with investment policies
+35 established by the pooled money investment board under K.S.A. 75-4232,
+36 and amendments thereto, and in accordance with K.S.A. 75-4234 and 75-
+37 4209, and amendments thereto.
+38 (c) The director of investments shall apportion earnings and losses
+39 among the accounts of the depositors in the various investment options of
+40 the municipal investment pool in accordance with policies approved and
+41 published by the board. A statement for each municipality participating
+42 unit account showing deposits, withdrawals, earnings and losses
+43 distributions shall be provided monthly to the municipality. The director of
+HB 2152 14
+1 investments shall make comprehensive reports monthly to those
+2 municipalities participating in the municipal investment pool fund and to
+3 other interested parties requesting such reports. Such reports shall include
+4 a summary of transactions for the month, the current market value of the
+5 pooled money investment portfolio investments, the weighted average
+6 maturity of the portfolio, the original costs of the investments in the
+7 portfolio, including any fees associated with such investments and such
+8 other relevant information the director of investments may wish to include
+9 in such report.
+10 (d) The municipal investment pool reserve fund is abolished effective
+11 July 1, 1996, and any unencumbered balance remaining therein shall be
+12 applied to net losses in the municipal investment pool fund. The municipal
+13 investment pool fund fee fund is abolished on July 1, 1997, and any
+14 unencumbered balance remaining therein shall be transferred to the pooled
+15 money investment portfolio fee fund and such amounts shall be applied to
+16 net losses, as of July 1, 1996, in the municipal investment pool fund.
+17 (e) The pooled money investment board may adopt rules and
+18 regulations necessary for the administration and operation of the municipal
+19 investment pool fund and may enter into agreements with any municipality
+20 as to methods of deposits, withdrawals and investments.
+21 (f) Deposits in the municipal investment pool fund: (1) May only be
+22 made for the same maturity as the maturity which is offered under
+23 paragraph (2) of subsection (b) of K.S.A. 12-1675(b)(2), and amendments
+24 thereto; and (2) upon the maturity of such deposits, such moneys shall be
+25 offered for investment under paragraph (2) of subsection (b) of K.S.A. 12-
+26 1675(b)(2), and amendments thereto, and may be reinvested in such fund
+27 only if the conditions contained in subsection (c) of K.S.A. 12-1675(c),
+28 and amendments thereto, have been satisfied; and (3) must be
+29 accompanied with a certification to prove compliance with K.S.A. 12-
+30 1675(c), and amendments thereto, and a listing of the banks, savings and
+31 loan associations and savings banks from which the governmental unit
+32 requested bids in the preceding calendar year.
+33 (g) Moneys and investments in the municipal investment pool fund
+34 shall be managed by the pooled money investment board in accordance
+35 with investment policies provided for in K.S.A. 75-4209, and amendments
+36 thereto. A copy of such published policies shall be distributed to all
+37 municipalities participating in the municipal investment pool fund and to
+38 other interested persons requesting a copy of such policies. The pooled
+39 money investment board shall not contract for management of investments
+40 by a money manager.
+41 (h) If an eligible financial institution, pursuant to K.S.A. 12-1675,
+42 and amendments thereto, has a good faith reason to believe that a
+43 governmental entity has not acted in compliance with this section, the
+HB 2152 15
+1 eligible financial institution may file a complaint with the state treasurer
+2 in writing and signed by an executive officer of the eligible financial
+3 institution. The complaint shall be submitted in the form prescribed by the
+4 state treasurer.
+5 Sec. 10. K.S.A. 2024 Supp. 75-4237 is hereby amended to read as
+6 follows: 75-4237.(a) The director of investments shall accept requests
+7 from banks interested in obtaining investment accounts of state moneys.
+8 Such requests may be submitted any business day and shall specify the
+9 dollar amount and maturity. The director of investments is authorized to
+10 award the investment account to the requesting bank at the market
+11 investment rate established by subsection (b). Awards of investment
+12 accounts pursuant to this section shall be subject to investment policies of
+13 the pooled money investment board. When multiple requests are received
+14 and are in excess of the amount available for investment that day for any
+15 maturity, awards shall be made available in ascending order from smallest
+16 to largest dollar amount requested, subject to investment policies of the
+17 board. The maximum dollar amount invested in any one bank shall not
+18 exceed 2.5% of the bank certificate of deposit program.
+19 (b) The investment rate shall be determined each business day by the
+20 director of investments, in accordance with any procedures established by
+21 the pooled money investment board, at an interest rate that is up to 2%
+22 less than the market rate provided by this section.
+23 (c) The market rate shall be determined each business day by the
+24 director of investments, in accordance with any procedures established by
+25 the pooled money investment board. Subject to any policies of the board,
+26 the market rate shall reflect the highest rate at which state moneys can be
+27 invested on the open market in investments authorized by K.S.A. 75-
+28 4209(a), and amendments thereto, for equivalent maturities.
+29 (c)(d) (1) Notwithstanding the provisions of this section, linked
+30 deposits made pursuant to the provisions of K.S.A. 2-3703 through 2-
+31 3707, and amendments thereto, shall be at an interest rate that is 2% less
+32 than the market rate determined under this section and that shall be
+33 recalculated on the first business day of each calendar year using the
+34 market rate then in effect.
+35 (2) Notwithstanding the provisions of this section, agricultural
+36 production loan deposits made pursuant to the provisions of K.S.A. 75-
+37 4268 through 75-4274, and amendments thereto, shall be at an interest rate
+38 that is 2% less than the market rate provided by this section and that shall
+39 be recalculated on the first business day of each calendar year using the
+40 market rate then in effect.
+41 (3) Notwithstanding the provisions of this section, loan deposits made
+42 pursuant to the city utility low-interest loan program shall be at an interest
+43 rate that is 2% less than the market rate provided by this section and that
+HB 2152 16
+1 shall be recalculated on the first business day of each calendar year using
+2 the market rate then in effect.
+3 (4) Notwithstanding the provisions of this section, economic recovery
+4 loan deposits made pursuant to the Kansas economic recovery loan deposit
+5 program shall be at an interest rate that is 2% less than the market rate
+6 provided by this section and that shall be recalculated on the first business
+7 day of each calendar year using the market rate then in effect.
+8 (5) Notwithstanding the provisions of this section, extraordinary
+9 utility costs loan deposits made pursuant to the Kansas extraordinary
+10 utility costs loan deposit program shall be at an interest rate that is 2% less
+11 than the market rate provided by this section and that shall be recalculated
+12 on the first business day of each calendar year using the market rate then
+13 in effect.
+14 (d)(e) (1) The director of investments may place deposits through a
+15 selected bank, savings and loan association or savings bank that is part of a
+16 reciprocal deposit program in which the bank, savings and loan association
+17 or savings bank:
+18 (A) Receives reciprocal deposits from other participating institutions
+19 located in the United States in an amount equal to the amount of funds
+20 deposited by the municipal corporation or quasi-municipal corporation;
+21 and
+22 (B) for which the total cumulative amount of each deposit does not
+23 exceed the maximum deposit insurance amount for one depositor at one
+24 financial institution as determined by the federal deposit insurance
+25 corporation.
+26 (2) Such deposits shall not be treated as securities and need not be
+27 secured as provided in this or any other act, except that such deposits shall
+28 be secured as provided in K.S.A. 75-4218, and amendments thereto, when
+29 they are held by the selected financial institution prior to placement with
+30 reciprocal institutions or upon maturity.
+31 (e)(f) The pooled money investment board shall establish procedures
+32 for administering reciprocal deposit programs in its investment policies, as
+33 authorized by K.S.A. 75-4232, and amendments thereto.
+34 Sec. 11. K.S.A. 9-1402, 10-131, 12-1675, 12-1675a and 12-1677a
+35 and K.S.A. 2024 Supp. 75-4237 are hereby repealed.
+36 Sec. 12. This act shall take effect and be in force from and after its
+37 publication in the statute book.
+[DELETED: At; ag fl is dd as pdat id or gd by te fl dt icdfgf0t1m2d3t4i5c6i7a8f9f0e1b213r5B6N7a8(9(0o1(2a3(4s]
+[DELETED: 2coas((pf10s1o2s3m4b5l6d7l8i9s0a1p2o3o4s5(6p7a, ss b, tt cy or or qd f8c9s0s1u2(3s4p5s6a7m8(9b0e1o2(3N]
+[DELETED: 2at(n te ae as of pc ms spdhagb0a1a2u3d4a5b6d7w8sh gl ut in te dg b, ss ad l9a0i1at f s d  al o s o a2cn t, pt to K. 92 ad 1, a3as t. Eh sh gl ut sl vy t4i5b6a7(8id or gd by te fl dt ie c9d0gl ut un rt of a vd rt fm s1g2o3d4d5ps s 6i7f8t9a0ms t l 1c2(3a]
+[DELETED: 2asdi(Nurl0f1(2(314v5i6s7m8(9r0o1g2p3u4q5(6N7i8p9t0p1a2e3(4(5o6(718S9(0m1o2ss b, s ml or ql c3g s]
+[DELETED: 2f(abpsitc g m0s1(2d3i4o5i6q7t8a9te 0b1b2dd 3f4gg by of t ml cn or q5c g a6s7(8a9o0U1a2(s of a ml cn or q3c4r5p6a7o8S9(0(1m2(3c]
+[DELETED: 2c(c g o w t agl os of t ml or ql cg(s of a ml cn or qcif0(1h2A3(4t5A6(7p8f9(0a1(2a3(4w5b6() (e py ns tr wh ft l7m8s9(0fl he ln me c, te fl h1a2(3y4m5(6t7r8m9r0a1(2n3s]
+[DELETED: 2(f(g(stlo0t1t2ln an or ss bk as pd in sn 1, a3a4(5d6o7a8(s s 9o0(1t2a3M4(5t6e7t8t9t0K1r2t3bk in fd sl be ud to p te es of t4c5a6f7(8o9S0(1as h s e s 2t3i]
+[DELETED: 2pb(t(1(t(011(2c3u4(5t6f7m8(9o0(1i2e3S4(5po of wh is cd ey of ss dd i6p7(8t9(0o1t2o3(4K5a6a7b8o9t0p1(2s3"]
+[DELETED: 2dfo(ssaui0i1t2S31. 4d5r6p7s8e9i rd fr e ps r wh e s w0c1r2(3(4g5(6c7m8(9t0u1(f no m or bh oe o a b, ss ad l2a3t4h5o6(7p8a9b0l1p2t3t]
+[DELETED: 21te((hfi(a0u1(2h3i4u5d6t7a8in te c or cs in wh al or pt f sh i9g0(1m2s3e4K. 1, ad as t, tn sh r5a6o7(8p9a0s1(2py 3i4b5t6(7(8(9r0d1i2t31]
+[DELETED: 21(1(n te is ad ad in ae wh tc(tilw0o1m2i3p4K5m6ts o 7ml it pl ed by K. 1, a8a9(0o1t2s3(4o5s6a7t8t9t0a1(2(3i4g5a6g718q9o0t1t2e3o]
+[DELETED: 21gtia( (o(sb0s1(c s d pt t s o2K3gl ut ld in sn ( of . 1, a4a5o6t7(8l9d m0i1(2e3fl in as dd b te fl dt i4c5S6a7(8g9(0m1s2s3b4t5s6s7S81910(1o2h3(s ]
+[DELETED: 21aob(o(K(o0b1(2o3d4a5l6(7U8t9T0r1b2i. 3m4S516f718i9s0w1d2m3(4m5e6a748(9a0t1p2ut at sg d, w, es ad l3d]
+[DELETED: 21is sl me ce rs my to tmoapmpoi0(1J2a3i4u5m6n7(e pd my it bd my at rs a8r9i0a1(2m3p4t5o617o8ad as t, he bn s; ad () mt b9a011l2r3(4s5w6t7m8o9m0b1(2a3g]
+[DELETED: 21eiisSffSd0a m1i rs 2a3t4a5m6t7b8e9(0d1t2l3(4d5t6t7i849( (0d132t3r4m5(g te ps of ts s, a6p748t9b0m1(2p3r]
+[DELETED: 21st(lppd(u0u1t2o3i4(5s6r7o8(9l0d1a2(3e4fl in as dd b te fl dt i5c6(7s8b9t0r1(2f3a4S5a6S7p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2152
+By Committee on Financial Institutions and Pensions
+Requested by Representative Hoheisel on behalf of the 2024 Special Committee on
+Centralized Pooled Collateral and PMIB Modernization
+1-29
+1 AN ACT concerning public moneys; relating to the deposit and investment
+2 thereof; authorizing financial institutions designated as public
+3 depositaries to secure governmental unit deposits in excess of the
+4 amount insured or guaranteed by the federal deposit insurance
+5 corporation by utilizing a public moneys pooled method of securities;
+6 directing the state treasurer to establish procedures therefor; requiring
+7 financial institutions to make certain reports upon the request of a
+8 governmental unit; prohibiting investment advisers that execute bids
+9 for the investment of public moneys from engaging in a principal
+10 transaction with a governmental unit directly related to such public
+11 moneys; allowing municipal bond proceeds and governmental unit
+12 deposits to be invested in a financial institution at a rate agreed upon by
+13 the governmental unit and the financial institution; equalizing the bank
+14 investment rate with the municipal investment pool rate; requiring
+15 certification from governmental units that deposits in the municipal
+16 investment pool fund were first offered to a bank, savings and loan
+17 association or savings bank in the preceding year; allowing eligible
+18 financial institutions to file a complaint with the state treasurer upon the
+19 failure of a governmental unit to comply with such certification;
+20 establishing the investment rate for the pooled money investment board
+21 bank certificate of deposit program; amending K.S.A. 9-1402, 10-131,
+22 12-1675, 12-1675a and 12-1677a and K.S.A. 2024 Supp. 75-4237 and
+23 repealing the existing sections.
+24
+25 Be it enacted by the Legislature of the State of Kansas:
+26 New Section 1. (a) For purposes of sections 1 through 3, and
+27 amendments thereto:
+28 (1) "Administrator" means the treasurer or the treasurer's designee.
+29 (2) "Governmental unit" means the state or any county, municipality
+30 or other political subdivision thereof.
+31 (3) "Public moneys" means the same as defined in K.S.A. 9-701, and
+32 amendments thereto.
+33 (4) "Public moneys pooled method" or "pool of securities" means
+34 shares of investment companies registered under the federal investment
+
+HB 2152 2
+1 company act of 1940 when the investment companies' assets are limited to
+2 obligations that are eligible for investment by the bank, savings and loan
+3 association or savings bank and limited by their prospectuses to owning
+4 securities enumerated in K.S.A. 9-1402(c), and amendments thereto.
+5 (5) "Treasurer" means the state treasurer.
+6 (b) As an alternative to the requirements to secure the deposit of
+7 public moneys in excess of the amount insured or guaranteed by the
+8 federal deposit insurance corporation pursuant to K.S.A. 9-1402 and 12-
+9 1675, and amendments thereto, a bank, savings and loan association or
+10 savings bank designated as a public depositary may secure the deposits of
+11 one or more governmental units by depositing, pledging or granting a
+12 security interest in a pool of securities to secure the repayment of all public
+13 moneys deposited in such bank, savings and loan association or savings
+14 bank by such governmental units and not otherwise secured pursuant to
+15 law, if at all times the aggregate market value on such pool of securities so
+16 deposited, pledged or in which a security interest is granted is equal to at
+17 least 102% of the amount on deposit that is in excess of the amount so
+18 insured or guaranteed. Each such bank, savings and loan association or
+19 savings bank shall carry on such bank's or association's accounting records
+20 a general ledger or other appropriate accounting of the total amount of all
+21 public moneys to be secured by the pool of securities as determined at the
+22 opening of each business day and the aggregate market value of the pool
+23 of securities deposited, pledged or in which a security interest is granted to
+24 secure such public moneys.
+25 (c) The treasurer may serve as the administrator with respect to a
+26 public moneys pooled method or may designate a bank, savings and loan
+27 association, savings bank, trust company or other qualified firm,
+28 corporation or association that is authorized to transact business in this
+29 state to serve as the administrator. Fees and expenses of such administrator
+30 shall be paid by the banks, savings and loan association or savings bank
+31 utilizing the public moneys pooled method.
+32 (d) If a bank, savings and loan association or savings bank elects to
+33 secure the deposit of public moneys through the use of the public moneys
+34 pooled method, such bank, savings and loan association or savings bank
+35 shall notify the administrator in writing that such bank, savings and loan
+36 association or savings bank has elected to utilize the public funds pooled
+37 method and the proposed effective date of such notification.
+38 (e) The public moneys pooled method shall not be utilized by any
+39 bank, savings and loan association or savings bank unless the treasurer
+40 establishes a public moneys pooled method in accordance with this section
+41 or designates an administrator pursuant to subsection (c).
+42 (f) This section shall take effect on and after January 1, 2026.
+43 New Sec. 2. (a) When the treasurer determines that a bank, savings
+
+HB 2152 3
+1 and loan association or savings bank has experienced a default, the
+2 treasurer shall:
+3 (1) Ascertain the aggregate amounts of public moneys secured
+4 pursuant to K.S.A. 9-1402 and 12-1675, and amendments thereto, and
+5 deposited in such bank, savings and loan association or savings bank that
+6 has defaulted, as disclosed by the records of such bank, savings and loan
+7 association or savings bank. The treasurer shall determine for each
+8 governmental unit for which public moneys are deposited in the defaulting
+9 bank, savings and loan association or savings bank the accounts and
+10 amount of federal deposit insurance or guarantee that is available for each
+11 account. The treasurer shall then determine for each such governmental
+12 unit the amount of public moneys not insured or guaranteed by the federal
+13 deposit insurance corporation and the amount of public moneys secured by
+14 a pool of securities pledged, deposited or in which a security interest has
+15 been granted to secure such public moneys. Upon completion of such
+16 determination, the treasurer shall provide each such governmental unit
+17 with a statement that reports the amount of public moneys deposited by
+18 such governmental unit in the defaulting bank, savings and loan
+19 association or savings bank, the amount of public moneys that may be
+20 insured or guaranteed by the federal deposit insurance corporation and the
+21 amount of public moneys secured by a pool of securities, or any
+22 combination thereof, pursuant to K.S.A. 9-1402 and 12-1675, and
+23 amendments thereto. Each such governmental unit shall verify the
+24 information in such report with such governmental unit's records within 10
+25 business days after receiving the report and information from the treasurer;
+26 and
+27 (2) shall repay each governmental unit for the public moneys not
+28 insured or guaranteed by the federal deposit insurance corporation
+29 deposited in the bank, savings and loan association or savings bank by the
+30 governmental unit upon receipt of a verified report from such
+31 governmental unit and if the defaulting bank, savings and loan association
+32 or savings bank is to be liquidated or if for any other reason the treasurer
+33 determines that public moneys are not likely to be promptly paid upon
+34 demand. In the event that the amount of the deposit guaranty bond or the
+35 proceeds of the securities held by the treasurer after liquidation is
+36 insufficient to cover all public moneys not insured or guaranteed by the
+37 federal deposit insurance corporation for all governmental units served by
+38 the treasurer, the treasurer shall pay out to each governmental unit
+39 available amounts pro rata in accordance with the respective public
+40 moneys not insured or guaranteed by the federal deposit insurance
+41 corporation for each such governmental unit.
+42 (b) In the event that a federal deposit insurance agency is appointed
+43 and acts as a liquidator or receiver of any bank, savings and loan
+
+HB 2152 4
+1 association or savings bank under state or federal law, the duties under this
+2 section that are specified to be performed by the treasurer in the event of
+3 default may be delegated to and performed by such federal deposit
+4 insurance agency.
+5 (c) This section shall take effect on and after January 1, 2026.
+6 New Sec. 3. (a) A bank, savings and loan association or savings bank,
+7 upon the request of a governmental unit, shall report as of the date of such
+8 request the amount of public moneys deposited in such bank, savings and
+9 loan association or savings bank that is not insured or guaranteed by the
+10 federal deposit insurance corporation by:
+11 (1) The governmental unit making the request; and
+12 (2) all other governmental units and secured pursuant to K.S.A. 9-
+13 1402 and 12-1675, and amendments thereto, and the aggregate market
+14 value of the pool of securities deposited, pledged or in which a security
+15 interest has been granted to secure public moneys held by the bank,
+16 savings and loan association or savings bank, including those public
+17 moneys deposited by the governmental unit.
+18 (b) A qualified trustee, upon the request of a governmental unit, shall
+19 report as of the date of such request the aggregate market value of the pool
+20 of securities deposited, pledged or in which a security interest has been
+21 granted by the bank, savings and loan association or savings bank and
+22 provide an itemized list of the securities in such pool. The governmental
+23 unit shall specify the date on which such report shall be made by such
+24 qualified trustee.
+25 (c) This section shall take effect on and after January 1, 2026.
+26 New Sec. 4. (a) An investment adviser that executes bids for the
+27 investment of public moneys on behalf of a governmental unit shall not be
+28 permitted to engage in a principal transaction with the governmental unit
+29 that is the same or directly related to the issue of securities or financial
+30 product for which the investment adviser is providing or has provided
+31 advice. Nothing in this section shall prevent governmental units from
+32 engaging with a federally registered investment adviser.
+33 (b) For purposes of this section:
+34 (1) "Governmental unit" means the state or any county, municipality
+35 or other political subdivision thereof; and
+36 (2) "investment adviser" means the same as defined in K.S.A. 17-
+37 12a102, and amendments thereto.
+38 Sec. 5. K.S.A. 9-1402 is hereby amended to read as follows: 9-1402.
+39 (a) Before any deposit of public moneys or funds shall be made by any
+40 municipal corporation or quasi-municipal corporation governmental unit
+41 of the state of Kansas with any bank, savings and loan association or
+42 savings bank, such municipal or quasi-municipal corporation
+43 governmental unit shall obtain security for such deposit in one of the
+
+HB 2152 5
+1 following manners prescribed by this section.
+2 (b) Such bank, savings and loan association or savings bank may give
+3 a corporate surety bond of some surety corporation authorized to do
+4 business in this state, which. Such bond shall be in an amount equal to the
+5 public moneys or funds on deposit at any given time less the amount of
+6 such public moneys or funds which that is insured by the federal deposit
+7 insurance corporation or its successor and such bond shall be conditioned
+8 that such deposit shall be paid promptly on the order of the municipal
+9 corporation or quasi-municipal corporation governmental unit making
+10 such deposits.
+11 (c) Such bank, savings and loan association or savings bank may
+12 deposit, maintain, pledge, assign and grant a security interest in, or cause
+13 its agent, trustee, wholly owned subsidiary or affiliate having identical
+14 ownership to deposit, maintain, pledge, assign and grant a security interest
+15 in, for the benefit of the governing body of the municipal corporation or
+16 quasi-municipal corporation governmental unit in the manner provided in
+17 this section, securities, security entitlements, financial assets and securities
+18 accounts owned by the depository institution directly or indirectly through
+19 the institution's agent or trustee holding securities on the institution's
+20 behalf, or owned by the depository institutions wholly owned subsidiary or
+21 by such affiliate, the market value of which is equal to 100% of the total
+22 deposits at any given time, and such securities, security entitlements,
+23 financial assets and securities accounts, may be accepted or rejected by the
+24 governing body of the municipal corporation or quasi-municipal
+25 corporation governmental unit and shall consist of the following and
+26 security entitlements thereto:
+27 (1) Direct obligations of, or obligations that are insured as to principal
+28 and interest by, the United States of America or any agency thereof and
+29 obligations, including, but not limited to, letters of credit and securities of
+30 United States sponsored corporations which that under federal law may be
+31 accepted as security for public funds;
+32 (2) bonds of any municipal corporation or quasi-municipal
+33 corporation governmental unit of the state of Kansas which that have been
+34 refunded in advance of the bonds' maturity and are fully secured as to
+35 payment of principal and interest thereon by deposit in trust, under escrow
+36 agreement with a bank, of direct obligations of, or obligations the principal
+37 of and the interest on which are unconditionally guaranteed by, the United
+38 States of America;
+39 (3) bonds of the state of Kansas;
+40 (4) general obligation bonds of any municipal corporation or quasi-
+41 municipal corporation governmental unit of the state of Kansas;
+42 (5) revenue bonds of any municipal corporation or quasi-municipal
+43 corporation governmental unit of the state of Kansas if approved by the
+
+HB 2152 6
+1 commissioner;
+2 (6) temporary notes of any municipal corporation or quasi-municipal
+3 corporation governmental unit of the state of Kansas which that are
+4 general obligations of the municipal or quasi-municipal corporation
+5 governmental unit issuing the same such temporary notes;
+6 (7) warrants of any municipal corporation or quasi-municipal
+7 corporation governmental unit of the state of Kansas the issuance of which
+8 is authorized by the state board of tax appeals and which that are payable
+9 from the proceeds of a mandatory tax levy;
+10 (8) bonds of either a Kansas not-for-profit corporation or of a local
+11 housing authority that are rated at least Aa by Moody's investors service or
+12 AA by Standard & Poor's corp.;
+13 (9) bonds issued pursuant to K.S.A. 12-1740 et seq., and amendments
+14 thereto, that are rated at least MIG-1 or Aa by Moody's investors service or
+15 AA by Standard & Poor's corp.;
+16 (10) notes of a Kansas not-for-profit corporation that are issued to
+17 provide only the interim funds for a mortgage loan that is insured by the
+18 federal housing administration;
+19 (11) bonds issued pursuant to K.S.A. 74-8901 through 74-8916, and
+20 amendments thereto;
+21 (12) bonds issued pursuant to K.S.A. 68-2319 through 68-2330, and
+22 amendments thereto;
+23 (13) commercial paper that does not exceed 270 days to maturity and
+24 which has received one of the two highest commercial paper credit ratings
+25 by a nationally recognized investment rating firm; or
+26 (14) (A) negotiable promissory notes together with first lien
+27 mortgages on one to four family residential real estate located in Kansas
+28 securing payment of such notes when such notes or mortgages:
+29 (i) Are underwritten by the federal national mortgage association, the
+30 federal home loan mortgage corporation, the federal housing
+31 administration or the veterans administration standards;
+32 (ii) have been in existence with the same borrower for at least two
+33 years and with no history of any installment being unpaid for 30 days or
+34 more; and
+35 (iii) are valued at not to exceed 50% of the lesser of the following
+36 three values: Outstanding mortgage balance, current appraised value of the
+37 real estate or discounted present value based upon current federal national
+38 mortgage association or government national mortgage association interest
+39 rates quoted for conventional, federal housing administration or veterans
+40 administration mortgage loans.
+41 (B) Securities under paragraph (A) shall be taken at their value for
+42 not more than 50% of the security required under the provisions of this
+43 section.
+
+HB 2152 7
+1 (C) Securities under paragraph (A) shall be withdrawn immediately
+2 from the collateral pool if any installment is unpaid for 30 days or more.
+3 (D) A status report on all such loans shall be provided to the investing
+4 governmental entity by the financial institution on a quarterly basis.
+5 (d) Such bank, savings and loan association or savings bank may
+6 secure the deposit of public moneys of one or more governmental units
+7 through a pool of eligible securities established by such bank, savings and
+8 loan association or savings bank with a custodian to be held subject to the
+9 order of the state treasurer or an administrator designated by the state
+10 treasurer pursuant to section 1, and amendments thereto, for the benefit of
+11 the governmental unit having public moneys with such bank, savings and
+12 loan association or savings bank as provided in section 1, and
+13 amendments thereto.
+14 (e) No such bank, savings and loan association or savings bank may
+15 deposit and maintain for the benefit of the governing body of a municipal
+16 or quasi-municipal corporation governmental unit of the state of Kansas,
+17 any securities which consist of:
+18 (1) Bonds secured by revenues of a utility which has been in
+19 operation for less than three years; or
+20 (2) bonds issued under K.S.A. 12-1740 et seq., and amendments
+21 thereto, unless such bonds have been refunded in advance of their maturity
+22 as provided in subsection (d) (c) or such bonds are rated at least Aa by
+23 Moody's investors service or AA by Standard & Poor's corp.
+24 (e)(f) Any applicant requesting approval of a revenue bond pursuant
+25 to subsection (c)(5) shall pay to the commissioner a fee in an amount
+26 established pursuant to K.S.A. 9-1726, and amendments thereto, to defray
+27 the expenses of the commissioner in the examination and investigation of
+28 the application. The commissioner shall remit all amounts received under
+29 this section to the state treasurer in accordance with the provisions of
+30 K.S.A. 75-4215, and amendments thereto. Upon receipt of each such
+31 remittance, the state treasurer shall deposit the entire amount in the state
+32 treasury to the credit of the bank investigation fund. The moneys in the
+33 bank investigation fund shall be used to pay the expenses of the
+34 commissioner in the examination and investigation of such applications
+35 and any unused balance shall be transferred to the bank commissioner fee
+36 fund.
+37 (g) For purposes of this section, "governmental unit" means the state
+38 or any county, municipality or other political subdivision of the state.
+39 Sec. 6. K.S.A. 10-131 is hereby amended to read as follows: 10-131.
+40 (a) The governing body of any municipality, as defined in K.S.A. 10-101,
+41 and amendments thereto, which has issued or may issue bonds or
+42 temporary notes for any purpose, is hereby authorized and empowered to
+43 invest any portion of the proceeds of such bonds, notes or funds held
+
+HB 2152 8
+1 pursuant to the resolution or ordinance authorizing the issuance of such
+2 bonds or notes, which is not currently needed, in:
+3 (1) Investments authorized by K.S.A. 12-1675, and amendments
+4 thereto, in the manner prescribed therein;
+5 (2) the municipal investment pool established pursuant to K.S.A. 12-
+6 1677a, and amendments thereto;
+7 (3) direct obligations of the United States government or any agency
+8 thereof;
+9 (4) the municipality's temporary notes issued pursuant to K.S.A. 10-
+10 123, and amendments thereto;
+11 (5) interest-bearing time deposits in commercial banks located in the
+12 county or counties in which the municipality is located at a rate agreed
+13 upon by the governing body and the eligible financial institution;
+14 (6) subject to the limitations provided in subsection (b), obligations of
+15 the federal national mortgage association, federal home loan banks, the
+16 federal home loan mortgage corporation or the government national
+17 mortgage association;
+18 (7) repurchase agreements for securities described in paragraph (3)
+19 or (6);
+20 (8) investment agreements with or other obligations of a financial
+21 institution the obligations of which at the time of investment are rated in
+22 either of the three highest rating categories by Moody's investors service or
+23 Standard and Poor's corporation;
+24 (9) investments in shares or units of a money market fund or trust the
+25 portfolio of which is comprised entirely of securities described in
+26 paragraph (3) or (6);
+27 (10) receipts evidencing ownership interests in securities or portions
+28 thereof described in paragraph (3) or (6);
+29 (11) municipal bonds or other obligations issued by any municipality
+30 of the state of Kansas as defined in K.S.A. 10-1101, and amendments
+31 thereto, which are general obligations of the municipality issuing the same;
+32 or
+33 (12) bonds of any municipality of the state of Kansas as defined in
+34 K.S.A. 10-1101, and amendments thereto, which have been refunded in
+35 advance of their maturity and are fully secured as to payment of principal
+36 and interest thereon by deposit in trust, under escrow agreement with a
+37 bank, of securities described in paragraph (3) or (6). The interest received
+38 on any such investment shall upon receipt thereof be set aside and used for
+39 the purpose of paying interest on the bonds or notes issued or used for
+40 paying the cost of the project for which the bonds or notes were issued.
+41 (b) No moneys authorized to be invested pursuant to subsection (a)
+42 shall be invested in a derivative. For the purposes of this section,
+43 "derivative" means any investment instrument whose market price is
+
+HB 2152 9
+1 derived from the fluctuating value of an underlying asset, index, currency,
+2 futures contract, including futures, options and collateralized mortgage
+3 obligations.
+4 (c) The investments authorized by subsections (a)(2) through (12)
+5 shall be utilized only if the banks, savings and loan associations and
+6 savings banks eligible for investments authorized in K.S.A. 12-1675(b)(2),
+7 and amendments thereto, are not able to make the investments authorized
+8 under K.S.A. 12-1675(b)(2), and amendments thereto, available to the
+9 investing governmental unit at an interest rate equal to or greater than the
+10 investment rate, as defined in K.S.A. 12-1675a(g), and amendments
+11 thereto.
+12 Sec. 7. K.S.A. 12-1675 is hereby amended to read as follows: 12-
+13 1675. (a) The governing body of any county, city, township, school
+14 district, area vocational-technical school, community college, firemen's
+15 relief association, community mental health center, community facility for
+16 people with intellectual disability or any other governmental entity, unit or
+17 subdivision in the state of Kansas having authority to receive, hold and
+18 expend public moneys or funds may invest any moneys which that are not
+19 immediately required for the purposes for which the moneys were
+20 collected or received, and the investment of which is not subject to or
+21 regulated by any other statute.
+22 (b) Such moneys shall be invested only:
+23 (1) In temporary notes or no-fund warrants issued by such investing
+24 governmental unit;
+25 (2) in savings deposits, demand deposits, time deposit, open accounts,
+26 certificates of deposit or time certificates of deposit with maturities of not
+27 more than two years:
+28 (A) In banks, savings and loan associations and savings banks, which
+29 that have main or branch offices located in such investing governmental
+30 unit; or
+31 (B) if no main or branch office of a bank, savings and loan
+32 association or savings bank is located in such investing governmental unit,
+33 then in banks, savings and loan associations and savings banks, which that
+34 have main or branch offices in the county or counties in which all or part
+35 of such investing governmental unit is located; or
+36 (C) in selecting a bank, savings and loan association or savings bank
+37 pursuant to paragraphs (A) and (B), the investing governmental unit may
+38 accept any rate agreed upon by the governmental unit and the eligible
+39 bank, savings and loan association or savings bank. If a bank, savings and
+40 loan association or savings bank eligible for an investment deposit
+41 pursuant to paragraphs (A) and (B) will make such deposits available to
+42 the investing governmental unit at interest rates equal to or greater than
+43 the investment rate, as defined in K.S.A. 12-1675a(g), and amendments
+
+HB 2152 10
+1 thereto, the investing governmental unit shall select one or more of such
+2 eligible banks, savings and loan associations or savings banks;
+3 (3) in repurchase agreements with:
+4 (A) Banks, savings and loan associations and savings banks, which
+5 have main or branch offices located in such investing governmental unit,
+6 for direct obligations of, or obligations that are insured as to principal and
+7 interest by, the United States government or any agency thereof; or
+8 (B) (i) if no main or branch office of a bank, savings and loan
+9 association or savings bank, is located in such investing governmental
+10 unit; or
+11 (ii) if no such bank, savings and loan association or savings bank
+12 having a main or branch office located in such investing governmental unit
+13 is willing to enter into such an agreement with the investing governmental
+14 unit at an interest rate equal to or greater than the investment rate, as
+15 defined in subsection (g) of K.S.A. 12-1675a(g), and amendments thereto,
+16 then such repurchase agreements may be entered into with banks, savings
+17 and loan associations or savings banks which have main or branch offices
+18 in the county or counties in which all or part of such investing
+19 governmental unit is located; or
+20 (C) if no bank, savings and loan association or savings bank, having a
+21 main or branch office in such county or counties is willing to enter into
+22 such an agreement with the investing governmental unit at an interest rate
+23 equal to or greater than the investment rate, as defined in subsection (g) of
+24 K.S.A. 12-1675a(g), and amendments thereto, then such repurchase
+25 agreements may be entered into with banks, savings and loan associations
+26 or savings banks located within this state.
+27 (D) In selecting a bank, savings and loan association or savings bank
+28 pursuant paragraphs (A), (B) and (C), the governmental unit may accept
+29 any rate agreed upon by the governmental unit and the eligible bank,
+30 savings and loan association or savings bank;
+31 (4) in direct obligations of or obligations that are insured as to
+32 principal and interest by the United States or any agency thereof, not
+33 including mortgage-backed securities with maturities as the governing
+34 body shall determine, but not exceeding two years. Such investment
+35 transactions shall only be conducted with:
+36 (A) Banks, savings and loan associations and savings banks;
+37 (B) the federal reserve bank of Kansas City, Missouri; or with
+38 (C) primary government securities dealers which report to the market
+39 report division of the federal reserve bank of New York, or any broker-
+40 dealer engaged in the business of selling government securities which that
+41 is registered in compliance with the requirements of section 15 or 15C of
+42 the securities exchange act of 1934 and registered pursuant to K.S.A. 17-
+43 12a401, and amendments thereto;
+
+HB 2152 11
+1 (5) in the municipal investment pool fund established in K.S.A. 12-
+2 1677a, and amendments thereto;
+3 (6) in the investments authorized and in accordance with the
+4 conditions prescribed in K.S.A. 12-1677b, and amendments thereto;
+5 (7) in multiple municipal client investment pools managed by the
+6 trust departments of banks which that have main or branch offices located
+7 in the county or counties where such investing governmental unit is
+8 located or with trust companies incorporated under the laws of this state
+9 which that have contracted to provide trust services under the provisions
+10 of K.S.A. 9-2107, and amendments thereto, with banks which that have
+11 main or branch offices located in the county or counties in which such
+12 investing governmental unit is located. Public moneys invested under this
+13 paragraph shall be secured in the same manner as provided for under
+14 K.S.A. 9-1402, and amendments thereto. Pooled investments of public
+15 moneys made by trust departments under this paragraph shall be subject to
+16 the same terms, conditions and limitations as are applicable to the
+17 municipal investment pool established by K.S.A. 12-1677a, and
+18 amendments thereto; or
+19 (8) municipal bonds or other obligations issued by any municipality
+20 of the state of Kansas as defined in K.S.A. 10-1101, and amendments
+21 thereto, which that are general obligations of the municipality issuing the
+22 same.
+23 (c) The investments authorized in paragraphs (4), (5), (6), (7) or (8)
+24 of subsection (b)(4), (5), (6), (7) or (8) shall be utilized only if the banks,
+25 savings and loan associations and savings banks eligible for investments
+26 authorized in paragraph (2) of subsection (b)(2), cannot or will not make
+27 the investments authorized in paragraph (2) of subsection (b)(2) available
+28 to the investing governmental unit at interest rates equal to or greater than
+29 the investment rate, as defined in subsection (g) of K.S.A. 12-1675a(g),
+30 and amendments thereto.
+31 (d) In selecting a depository pursuant to paragraph (2) of subsection
+32 (b), if a bank, savings and loan association or savings bank eligible for an
+33 investment deposit thereunder has an office located in the investing
+34 governmental unit and such financial institution will make such deposits
+35 available to the investing governmental unit at interest rates equal to or
+36 greater than the investment rate, as defined in subsection (g) of K.S.A. 12-
+37 1675a, and amendments thereto, and such financial institution otherwise
+38 qualifies for such deposit, the investing governmental unit shall select one
+39 or more of such eligible financial institutions for deposit of funds pursuant
+40 to this section. If no such financial institution qualifies for such deposits,
+41 the investing governmental unit may select for such deposits one or more
+42 eligible banks, savings and loan associations or savings banks which have
+43 offices in the county or counties in which all or a part of such investing
+
+HB 2152 12
+1 governmental unit is located which will make such deposits available to
+2 the investing governmental unit at interest rates equal to or greater than the
+3 investment rate, as defined in subsection (g) of K.S.A. 12-1675a, and
+4 amendments thereto, and which otherwise qualify for such deposits.
+5 (e)(d) (1) All security purchases and repurchase agreements shall
+6 occur on a delivery versus payment basis.
+7 (2) All securities, including those acquired by repurchase agreements,
+8 shall be perfected in the name of the investing governmental unit and shall
+9 be delivered to the purchaser or a third-party custodian which may be the
+10 state treasurer.
+11 (f)(e) Public moneys deposited pursuant to subsection (b)(2) of
+12 K.S.A. 12-1675, and amendments thereto, by the governing body of any
+13 governmental unit listed in subsection (a) of K.S.A. 12-1675, and
+14 amendments thereto, through a selected bank, savings and loan association
+15 or savings bank which that is part of a reciprocal deposit program in which
+16 the bank, savings and loan association or savings bank:
+17 (1) Receives reciprocal deposits from other participating institutions
+18 located in the United States in an amount equal to the amount of funds
+19 deposited by the municipal corporation or quasi-municipal corporation
+20 investing governmental unit; and
+21 (2) for which the total cumulative amount of each deposit does not
+22 exceed the maximum deposit insurance amount for one depositor at one
+23 financial institution as determined by the federal deposit insurance
+24 corporation.
+25 Such deposits shall not be treated as securities and need not be secured
+26 as provided in this or any other act statute.
+27 (f) Public moneys deposited pursuant to subsection (b)(2) by the
+28 governing body of any investing governmental unit specified in subsection
+29 (a) through a selected bank, savings and loan association or savings bank
+30 may be invested in a pool of eligible securities established by such bank,
+31 savings and loan association or savings bank with a custodian to be held
+32 subject to the order of the state treasurer or an administrator designated
+33 by the state treasurer pursuant to section 1, and amendments thereto, for
+34 the benefit of such investing governmental unit having public moneys with
+35 such bank, savings and loan association or savings bank as provided in
+36 section 1, and amendments thereto.
+37 Sec. 8. K.S.A. 12-1675a is hereby amended to read as follows: 12-
+38 1675a. As used in K.S.A. 12-1675, 12-1676, 12-1677, 12-1677a and 12-
+39 1677b, and amendments thereto:
+40 (a) "Bank" means any bank incorporated under the laws of this state
+41 or any other state, or organized under the laws of the United States which
+42 has a main or branch office in this state;
+43 (b) "savings and loan association" means any savings and loan
+
+HB 2152 13
+1 association incorporated under the laws of this state or any other state, or
+2 organized under the laws of the United States and which has a main or
+3 branch office in this state;
+4 (c) "savings bank" means any savings bank organized under the laws
+5 of the United States and which has a main or branch office in this state;
+6 (d) "municipality" includes each investing governmental unit under
+7 K.S.A. 12-1675, and amendments thereto;
+8 (e) "main office" means the place of business specified in the articles
+9 of association, certificate of authority or similar document, where the
+10 business of the institution is carried on and which is not a branch;
+11 (f) "branch" means any office within this state, other than the main
+12 office, that is approved by a federal or state supervisory agency at which
+13 deposits are received, checks paid or money lent. Branch does not include
+14 an automated teller machine, remote service unit or similar device or a
+15 loan production office; and
+16 (g) "investment rate" means a rate which is the equivalent yield for
+17 United States government securities having a maturity date as published in
+18 the Wall Street Journal, nearest the maturity date for equivalent maturities.
+19 The 0-90 day rate shall be computed on the average effective federal funds
+20 rate as published by the federal reserve system for the previous week set
+21 by the pooled money investment board for investment in the municipal
+22 investment pool fund. The rate shall be published daily by the pooled
+23 money investment board.
+24 Sec. 9. K.S.A. 12-1677a is hereby amended to read as follows: 12-
+25 1677a. (a) Moneys deposited by any municipality with the state treasurer
+26 for investment authorized in paragraph (5) of subsection (b) of K.S.A. 12-
+27 1675(b)(5), and amendments thereto, shall be deposited in the municipal
+28 investment pool fund which is hereby created in the state treasury. The
+29 state treasurer shall provide the board a monthly record of the deposits and
+30 withdrawals of municipalities. Such record may include the amount of the
+31 deposit, the date of the deposit and such other information as the pooled
+32 money investment board may require.
+33 (b) The director of investments may invest and reinvest moneys in the
+34 municipal investment pool fund in accordance with investment policies
+35 established by the pooled money investment board under K.S.A. 75-4232,
+36 and amendments thereto, and in accordance with K.S.A. 75-4234 and 75-
+37 4209, and amendments thereto.
+38 (c) The director of investments shall apportion earnings and losses
+39 among the accounts of the depositors in the various investment options of
+40 the municipal investment pool in accordance with policies approved and
+41 published by the board. A statement for each municipality participating
+42 unit account showing deposits, withdrawals, earnings and losses
+43 distributions shall be provided monthly to the municipality. The director of
+
+HB 2152 14
+1 investments shall make comprehensive reports monthly to those
+2 municipalities participating in the municipal investment pool fund and to
+3 other interested parties requesting such reports. Such reports shall include
+4 a summary of transactions for the month, the current market value of the
+5 pooled money investment portfolio investments, the weighted average
+6 maturity of the portfolio, the original costs of the investments in the
+7 portfolio, including any fees associated with such investments and such
+8 other relevant information the director of investments may wish to include
+9 in such report.
+10 (d) The municipal investment pool reserve fund is abolished effective
+11 July 1, 1996, and any unencumbered balance remaining therein shall be
+12 applied to net losses in the municipal investment pool fund. The municipal
+13 investment pool fund fee fund is abolished on July 1, 1997, and any
+14 unencumbered balance remaining therein shall be transferred to the pooled
+15 money investment portfolio fee fund and such amounts shall be applied to
+16 net losses, as of July 1, 1996, in the municipal investment pool fund.
+17 (e) The pooled money investment board may adopt rules and
+18 regulations necessary for the administration and operation of the municipal
+19 investment pool fund and may enter into agreements with any municipality
+20 as to methods of deposits, withdrawals and investments.
+21 (f) Deposits in the municipal investment pool fund: (1) May only be
+22 made for the same maturity as the maturity which is offered under
+23 paragraph (2) of subsection (b) of K.S.A. 12-1675(b)(2), and amendments
+24 thereto; and (2) upon the maturity of such deposits, such moneys shall be
+25 offered for investment under paragraph (2) of subsection (b) of K.S.A. 12-
+26 1675(b)(2), and amendments thereto, and may be reinvested in such fund
+27 only if the conditions contained in subsection (c) of K.S.A. 12-1675(c),
+28 and amendments thereto, have been satisfied; and (3) must be
+29 accompanied with a certification to prove compliance with K.S.A. 12-
+30 1675(c), and amendments thereto, and a listing of the banks, savings and
+31 loan associations and savings banks from which the governmental unit
+32 requested bids in the preceding calendar year.
+33 (g) Moneys and investments in the municipal investment pool fund
+34 shall be managed by the pooled money investment board in accordance
+35 with investment policies provided for in K.S.A. 75-4209, and amendments
+36 thereto. A copy of such published policies shall be distributed to all
+37 municipalities participating in the municipal investment pool fund and to
+38 other interested persons requesting a copy of such policies. The pooled
+39 money investment board shall not contract for management of investments
+40 by a money manager.
+41 (h) If an eligible financial institution, pursuant to K.S.A. 12-1675,
+42 and amendments thereto, has a good faith reason to believe that a
+43 governmental entity has not acted in compliance with this section, the
+
+HB 2152 15
+1 eligible financial institution may file a complaint with the state treasurer
+2 in writing and signed by an executive officer of the eligible financial
+3 institution. The complaint shall be submitted in the form prescribed by the
+4 state treasurer.
+5 Sec. 10. K.S.A. 2024 Supp. 75-4237 is hereby amended to read as
+6 follows: 75-4237.(a) The director of investments shall accept requests
+7 from banks interested in obtaining investment accounts of state moneys.
+8 Such requests may be submitted any business day and shall specify the
+9 dollar amount and maturity. The director of investments is authorized to
+10 award the investment account to the requesting bank at the market
+11 investment rate established by subsection (b). Awards of investment
+12 accounts pursuant to this section shall be subject to investment policies of
+13 the pooled money investment board. When multiple requests are received
+14 and are in excess of the amount available for investment that day for any
+15 maturity, awards shall be made available in ascending order from smallest
+16 to largest dollar amount requested, subject to investment policies of the
+17 board. The maximum dollar amount invested in any one bank shall not
+18 exceed 2.5% of the bank certificate of deposit program.
+19 (b) The investment rate shall be determined each business day by the
+20 director of investments, in accordance with any procedures established by
+21 the pooled money investment board, at an interest rate that is up to 2%
+22 less than the market rate provided by this section.
+23 (c) The market rate shall be determined each business day by the
+24 director of investments, in accordance with any procedures established by
+25 the pooled money investment board. Subject to any policies of the board,
+26 the market rate shall reflect the highest rate at which state moneys can be
+27 invested on the open market in investments authorized by K.S.A. 75-
+28 4209(a), and amendments thereto, for equivalent maturities.
+29 (c)(d) (1) Notwithstanding the provisions of this section, linked
+30 deposits made pursuant to the provisions of K.S.A. 2-3703 through 2-
+31 3707, and amendments thereto, shall be at an interest rate that is 2% less
+32 than the market rate determined under this section and that shall be
+33 recalculated on the first business day of each calendar year using the
+34 market rate then in effect.
+35 (2) Notwithstanding the provisions of this section, agricultural
+36 production loan deposits made pursuant to the provisions of K.S.A. 75-
+37 4268 through 75-4274, and amendments thereto, shall be at an interest rate
+38 that is 2% less than the market rate provided by this section and that shall
+39 be recalculated on the first business day of each calendar year using the
+40 market rate then in effect.
+41 (3) Notwithstanding the provisions of this section, loan deposits made
+42 pursuant to the city utility low-interest loan program shall be at an interest
+43 rate that is 2% less than the market rate provided by this section and that
+
+HB 2152 16
+1 shall be recalculated on the first business day of each calendar year using
+2 the market rate then in effect.
+3 (4) Notwithstanding the provisions of this section, economic recovery
+4 loan deposits made pursuant to the Kansas economic recovery loan deposit
+5 program shall be at an interest rate that is 2% less than the market rate
+6 provided by this section and that shall be recalculated on the first business
+7 day of each calendar year using the market rate then in effect.
+8 (5) Notwithstanding the provisions of this section, extraordinary
+9 utility costs loan deposits made pursuant to the Kansas extraordinary
+10 utility costs loan deposit program shall be at an interest rate that is 2% less
+11 than the market rate provided by this section and that shall be recalculated
+12 on the first business day of each calendar year using the market rate then
+13 in effect.
+14 (d)(e) (1) The director of investments may place deposits through a
+15 selected bank, savings and loan association or savings bank that is part of a
+16 reciprocal deposit program in which the bank, savings and loan association
+17 or savings bank:
+18 (A) Receives reciprocal deposits from other participating institutions
+19 located in the United States in an amount equal to the amount of funds
+20 deposited by the municipal corporation or quasi-municipal corporation;
+21 and
+22 (B) for which the total cumulative amount of each deposit does not
+23 exceed the maximum deposit insurance amount for one depositor at one
+24 financial institution as determined by the federal deposit insurance
+25 corporation.
+26 (2) Such deposits shall not be treated as securities and need not be
+27 secured as provided in this or any other act, except that such deposits shall
+28 be secured as provided in K.S.A. 75-4218, and amendments thereto, when
+29 they are held by the selected financial institution prior to placement with
+30 reciprocal institutions or upon maturity.
+31 (e)(f) The pooled money investment board shall establish procedures
+32 for administering reciprocal deposit programs in its investment policies, as
+33 authorized by K.S.A. 75-4232, and amendments thereto.
+34 Sec. 11. K.S.A. 9-1402, 10-131, 12-1675, 12-1675a and 12-1677a
+35 and K.S.A. 2024 Supp. 75-4237 are hereby repealed.
+36 Sec. 12. This act shall take effect and be in force from and after its
+37 publication in the statute book.
+
+[DELETED: At; ag fl is dd as pdat id or gd by te fl dt icdfgf0t1m2d3t4i5c6i7a8f9f0e1b213r5B6N7a8(9(0o1(2a3(4s]
+[DELETED: 2coas((pf10s1o2s3m4b5l6d7l8i9s0a1p2o3o4s5(6p7a, ss b, tt cy or or qd f8c9s0s1u2(3s4p5s6a7m8(9b0e1o2(3N]
+[DELETED: 2at(n te ae as of pc ms spdhagb0a1a2u3d4a5b6d7w8sh gl ut in te dg b, ss ad l9a0i1at f s d  al o s o a2cn t, pt to K. 92 ad 1, a3as t. Eh sh gl ut sl vy t4i5b6a7(8id or gd by te fl dt ie c9d0gl ut un rt of a vd rt fm s1g2o3d4d5ps s 6i7f8t9a0ms t l 1c2(3a]
+[DELETED: 2asdi(Nurl0f1(2(314v5i6s7m8(9r0o1g2p3u4q5(6N7i8p9t0p1a2e3(4(5o6(718S9(0m1o2ss b, s ml or ql c3g s]
+[DELETED: 2f(abpsitc g m0s1(2d3i4o5i6q7t8a9te 0b1b2dd 3f4gg by of t ml cn or q5c g a6s7(8a9o0U1a2(s of a ml cn or q3c4r5p6a7o8S9(0(1m2(3c]
+[DELETED: 2c(c g o w t agl os of t ml or ql cg(s of a ml cn or qcif0(1h2A3(4t5A6(7p8f9(0a1(2a3(4w5b6() (e py ns tr wh ft l7m8s9(0fl he ln me c, te fl h1a2(3y4m5(6t7r8m9r0a1(2n3s]
+[DELETED: 2(f(g(stlo0t1t2ln an or ss bk as pd in sn 1, a3a4(5d6o7a8(s s 9o0(1t2a3M4(5t6e7t8t9t0K1r2t3bk in fd sl be ud to p te es of t4c5a6f7(8o9S0(1as h s e s 2t3i]
+[DELETED: 2pb(t(1(t(011(2c3u4(5t6f7m8(9o0(1i2e3S4(5po of wh is cd ey of ss dd i6p7(8t9(0o1t2o3(4K5a6a7b8o9t0p1(2s3"]
+[DELETED: 2dfo(ssaui0i1t2S31. 4d5r6p7s8e9i rd fr e ps r wh e s w0c1r2(3(4g5(6c7m8(9t0u1(f no m or bh oe o a b, ss ad l2a3t4h5o6(7p8a9b0l1p2t3t]
+[DELETED: 21te((hfi(a0u1(2h3i4u5d6t7a8in te c or cs in wh al or pt f sh i9g0(1m2s3e4K. 1, ad as t, tn sh r5a6o7(8p9a0s1(2py 3i4b5t6(7(8(9r0d1i2t31]
+[DELETED: 21(1(n te is ad ad in ae wh tc(tilw0o1m2i3p4K5m6ts o 7ml it pl ed by K. 1, a8a9(0o1t2s3(4o5s6a7t8t9t0a1(2(3i4g5a6g718q9o0t1t2e3o]
+[DELETED: 21gtia( (o(sb0s1(c s d pt t s o2K3gl ut ld in sn ( of . 1, a4a5o6t7(8l9d m0i1(2e3fl in as dd b te fl dt i4c5S6a7(8g9(0m1s2s3b4t5s6s7S81910(1o2h3(s ]
+[DELETED: 21aob(o(K(o0b1(2o3d4a5l6(7U8t9T0r1b2i. 3m4S516f718i9s0w1d2m3(4m5e6a748(9a0t1p2ut at sg d, w, es ad l3d]
+[DELETED: 21is sl me ce rs my to tmoapmpoi0(1J2a3i4u5m6n7(e pd my it bd my at rs a8r9i0a1(2m3p4t5o617o8ad as t, he bn s; ad () mt b9a011l2r3(4s5w6t7m8o9m0b1(2a3g]
+[DELETED: 21eiisSffSd0a m1i rs 2a3t4a5m6t7b8e9(0d1t2l3(4d5t6t7i849( (0d132t3r4m5(g te ps of ts s, a6p748t9b0m1(2p3r]
+[DELETED: 21st(lppd(u0u1t2o3i4(5s6r7o8(9l0d1a2(3e4fl in as dd b te fl dt i5c6(7s8b9t0r1(2f3a4S5a6S7p]

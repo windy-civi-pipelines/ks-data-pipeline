@@ -1,0 +1,170 @@
+Title: HOUSE BILL No. 2003
+Official Title: HOUSE BILL No. 2003
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Representative Rhiley
+1-10
+1 AN ACT concerning taxation; relating to electric vehicles; establishing the
+2 EV energy equity road repair tax act and providing for a road repair tax
+3 on the distribution of electricity from public charging stations.
+4
+5 WHEREAS, Battery-powered electric vehicles are expected to account
+6 for 20% of global light-vehicle sales in 2025 and 59% of sales in 2035;
+7 and
+8 WHEREAS, Just over 50% of passenger cars sold in the United States
+9 will be electric vehicles by 2030, according to a report from Bloomberg
+10 NEF; and
+11 WHEREAS, About 45% of new car sales could be electric by 2035,
+12 according to IHS Markit.
+13 Now, therefore:
+14 Be it enacted by the Legislature of the State of Kansas:
+15 Section 1. (a) This section shall be known and may be cited as the EV
+16 energy equity road repair tax act (EVEERRT act).
+17 (b) As used in this section:
+18 (1) "Electric vehicle" means any vehicle that is an:
+19 (A) All-electric vehicle; or
+20 (B) electric hybrid or plug-in electric hybrid vehicle.
+21 (2) "Kilowatt-hour" means a unit of energy equal to one kilowatt of
+22 power sustained for one hour or 3,600 kilojoules.
+23 (3) "Public charging station" means any device or infrastructure that
+24 supplies electricity to the public for the charging of an electric vehicle.
+25 "Public charging station" does not include such a device or infrastructure
+26 located at a primary residence.
+27 (4) "Road repair tax" means the tax on energy used in electric vehicle
+28 operations on state highways and is intended to fund road construction and
+29 repair as would otherwise be provided for in the motor fuel tax law
+30 pursuant to K.S.A. 79-3402, and amendments thereto.
+31 (c) There is hereby imposed a road repair tax on electricity distributed
+32 at a public charging station location. The tax shall be imposed regardless
+33 of whether the public charging station charges for the electricity or
+34 provides the electricity for free. The road repair tax shall be equal to $0.09
+35 per kilowatt-hour, or portion thereof, of electricity provided to an electric
+36 vehicle at a public charging station. The owner of the public charging
+HB 2003 2
+1 station shall collect and remit the road repair tax imposed pursuant to this
+2 section to the director of taxation. The owner of the public charging station
+3 shall be entitled to charge and collect an amount equal to the road repair
+4 tax as part of the selling price.
+5 (d) The director of taxation shall remit all taxes collected under this
+6 section to the state treasurer in accordance with the provisions of K.S.A.
+7 75-4215, and amendments thereto. Upon receipt of each such remittance,
+8 the state treasurer shall deposit the entire amount in the state treasury to
+9 the credit of the state highway fund.
+10 (e) The provisions of K.S.A. 79-3464d, and amendments thereto,
+11 concerning the liability for the owner for the collection or payment of the
+12 motor vehicle or special fuel taxes are hereby adopted for the purpose
+13 relating to liability for the collection or payment of the road repair tax, to
+14 the extent practicable.
+15 (f) The secretary of revenue shall adopt rules and regulations
+16 establishing the criteria and procedures for the licensing of public charging
+17 stations and reporting by such public charging stations of the energy
+18 provided.
+19 (g) (1) The owner of a public charging station shall:
+20 (A) Render the road repair tax to the director of taxation at the
+21 director's office, within the time required by the director, under rules and
+22 regulations adopted by the director; and
+23 (B) keep and maintain for a period of three years, or make fully and
+24 freely accessible during business hours to the director, the director's deputy
+25 or agent, all books, papers and records required by this act to be kept and
+26 maintained and so made accessible.
+27 (2) Violation of paragraph (1) involving failure, neglect or refusal to
+28 render the road repair tax to the director of taxation is an unclassified
+29 misdemeanor punishable by a fine of $25 per kilowatt-hour of energy that
+30 such tax is found to not have been remitted to the department of revenue
+31 pursuant to this section, imprisonment in the county jail for not less than
+32 30 days nor more than one year, or both such fine and imprisonment.
+33 Sec. 2. This act shall take effect and be in force from and after its
+34 publication in the statute book.
+[DELETED: AEoWfaWw0N1W2a3N4B5S6e7(8(9(0(1(2p3(4s5"6l7(8o9r0p1(2a3o4p5p6v]
+[DELETED: 3ssst(s7tt0(1c2m3r4t5(e sy of re sl at rs ad r6e7s8p9(0(1d2r3(4f5o6m7(8r9m0s1p233S4p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2003
+By Representative Rhiley
+1-10
+1 AN ACT concerning taxation; relating to electric vehicles; establishing the
+2 EV energy equity road repair tax act and providing for a road repair tax
+3 on the distribution of electricity from public charging stations.
+4
+5 WHEREAS, Battery-powered electric vehicles are expected to account
+6 for 20% of global light-vehicle sales in 2025 and 59% of sales in 2035;
+7 and
+8 WHEREAS, Just over 50% of passenger cars sold in the United States
+9 will be electric vehicles by 2030, according to a report from Bloomberg
+10 NEF; and
+11 WHEREAS, About 45% of new car sales could be electric by 2035,
+12 according to IHS Markit.
+13 Now, therefore:
+14 Be it enacted by the Legislature of the State of Kansas:
+15 Section 1. (a) This section shall be known and may be cited as the EV
+16 energy equity road repair tax act (EVEERRT act).
+17 (b) As used in this section:
+18 (1) "Electric vehicle" means any vehicle that is an:
+19 (A) All-electric vehicle; or
+20 (B) electric hybrid or plug-in electric hybrid vehicle.
+21 (2) "Kilowatt-hour" means a unit of energy equal to one kilowatt of
+22 power sustained for one hour or 3,600 kilojoules.
+23 (3) "Public charging station" means any device or infrastructure that
+24 supplies electricity to the public for the charging of an electric vehicle.
+25 "Public charging station" does not include such a device or infrastructure
+26 located at a primary residence.
+27 (4) "Road repair tax" means the tax on energy used in electric vehicle
+28 operations on state highways and is intended to fund road construction and
+29 repair as would otherwise be provided for in the motor fuel tax law
+30 pursuant to K.S.A. 79-3402, and amendments thereto.
+31 (c) There is hereby imposed a road repair tax on electricity distributed
+32 at a public charging station location. The tax shall be imposed regardless
+33 of whether the public charging station charges for the electricity or
+34 provides the electricity for free. The road repair tax shall be equal to $0.09
+35 per kilowatt-hour, or portion thereof, of electricity provided to an electric
+36 vehicle at a public charging station. The owner of the public charging
+
+HB 2003 2
+1 station shall collect and remit the road repair tax imposed pursuant to this
+2 section to the director of taxation. The owner of the public charging station
+3 shall be entitled to charge and collect an amount equal to the road repair
+4 tax as part of the selling price.
+5 (d) The director of taxation shall remit all taxes collected under this
+6 section to the state treasurer in accordance with the provisions of K.S.A.
+7 75-4215, and amendments thereto. Upon receipt of each such remittance,
+8 the state treasurer shall deposit the entire amount in the state treasury to
+9 the credit of the state highway fund.
+10 (e) The provisions of K.S.A. 79-3464d, and amendments thereto,
+11 concerning the liability for the owner for the collection or payment of the
+12 motor vehicle or special fuel taxes are hereby adopted for the purpose
+13 relating to liability for the collection or payment of the road repair tax, to
+14 the extent practicable.
+15 (f) The secretary of revenue shall adopt rules and regulations
+16 establishing the criteria and procedures for the licensing of public charging
+17 stations and reporting by such public charging stations of the energy
+18 provided.
+19 (g) (1) The owner of a public charging station shall:
+20 (A) Render the road repair tax to the director of taxation at the
+21 director's office, within the time required by the director, under rules and
+22 regulations adopted by the director; and
+23 (B) keep and maintain for a period of three years, or make fully and
+24 freely accessible during business hours to the director, the director's deputy
+25 or agent, all books, papers and records required by this act to be kept and
+26 maintained and so made accessible.
+27 (2) Violation of paragraph (1) involving failure, neglect or refusal to
+28 render the road repair tax to the director of taxation is an unclassified
+29 misdemeanor punishable by a fine of $25 per kilowatt-hour of energy that
+30 such tax is found to not have been remitted to the department of revenue
+31 pursuant to this section, imprisonment in the county jail for not less than
+32 30 days nor more than one year, or both such fine and imprisonment.
+33 Sec. 2. This act shall take effect and be in force from and after its
+34 publication in the statute book.
+
+[DELETED: AEoWfaWw0N1W2a3N4B5S6e7(8(9(0(1(2p3(4s5"6l7(8o9r0p1(2a3o4p5p6v]
+[DELETED: 3ssst(s7tt0(1c2m3r4t5(e sy of re sl at rs ad r6e7s8p9(0(1d2r3(4f5o6m7(8r9m0s1p233S4p]

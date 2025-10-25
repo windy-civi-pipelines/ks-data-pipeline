@@ -1,0 +1,205 @@
+Title: HOUSE BILL No. 2247
+Official Title: HOUSE BILL No. 2247
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Health and Human Services
+Requested by Representative Reavis on behalf of the Kansas Dental Association
+2-4
+1 AN ACT concerning insurance; relating to contracts between an insurer
+2 and a dental healthcare provider; requiring reviews, audits or
+3 investigations be completed within six months; prohibiting denial for
+4 claims submitted by dentists for procedures included in a prior
+5 authorization; amending K.S.A. 40-2,185 and repealing the existing
+6 section.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 New Section 1. (a) Except as otherwise provided, any review, audit or
+10 investigation by a nonprofit dental service corporation concerning
+11 healthcare provider claims that result in the recoupment or setoff of funds
+12 previously paid to the healthcare provider shall be completed not more
+13 than six months after the completed claims were initially paid.
+14 (b) This section shall not restrict any review, audit or investigation
+15 concerning the following:
+16 (1) Fraudulently submitted claims;
+17 (2) claims that the healthcare provider knew, or should have known,
+18 to be a pattern of inappropriate billing according to the standards of the
+19 respective dental or medical specialty;
+20 (3) claims that are related to the coordination of benefits; or
+21 (4) claims that are subjected to any federal law or regulation that
+22 permits claims review beyond the specified period in subsection (a).
+23 New Sec. 2. (a) As used in this section:
+24 (1) "Prior authorization" means any written communication by a
+25 dental benefit plan or utilization review entity indicating that a specific
+26 procedure is covered under the patient's dental plan and is reimbursable at
+27 a specific amount, subject to the applicable coinsurance and deductibles,
+28 and is issued in response to a request submitted by a dentist using a format
+29 prescribed by the health insurer.
+30 (2) "Utilization review entity" means an individual or entity that
+31 performs prior authorization for:
+32 (A) An employer with employees in Kansas who are covered under a
+33 health benefit plan or health insurance policy;
+34 (B) an insurer that writes health insurance policies;
+35 (C) a preferred provider organization or health maintenance
+HB 2247 2
+1 organization; or
+2 (D) any other individual or entity that provides, offers to provide or
+3 administers hospital, outpatient, medical, prescription drug or other health
+4 benefits to a person treated by a healthcare professional in Kansas under a
+5 policy, plan or contract.
+6 (b) A dental benefit plan or utilization review entity shall not deny a
+7 claim submitted by a dentist for procedures specifically included in a prior
+8 authorization, unless for each procedure denied:
+9 (1) Benefit limitations, including annual maximums and frequency
+10 limitations, that were not applicable at the time of the prior authorization
+11 are reached due to utilization subsequent to the issuance of the prior
+12 authorization;
+13 (2) the documentation for the claim provided by the person
+14 submitting the claim clearly fails to support the claim as originally
+15 authorized;
+16 (3) new procedures are provided to the patient subsequent to the
+17 issuance of the prior authorization or the patient's condition changes such
+18 that the prior authorized procedure would no longer be considered
+19 medically necessary based on the prevailing standard of care; or
+20 (4) new procedures are provided to the patient subsequent to the
+21 issuance of the prior authorization or the patient's condition changes such
+22 that the prior authorized procedure would presently require disapproval.
+23 Sec. 3. K.S.A. 40-2,185 is hereby amended to read as follows: 40-
+24 2,185. No contract issued or renewed after July 1, 2010, between a health
+25 insurer and a dentist who is a participating provider with respect to such
+26 health insurer's health benefit plan shall contain any provision which that
+27 requires the dentist who provides to provide any service to an insured
+28 under such health benefit plan at a fee set or prescribed by the health
+29 insurer unless such service is a covered service.
+30 (b) A contract between an insurer and a dentist shall not:
+31 (1) Limit the fee that the dentist may charge for a service that is not a
+32 covered service; or
+33 (2) include a provision that both:
+34 (A) Allows the insurer to disallow a service, resulting in denial of
+35 payment to the dentist for a service that ordinarily would have been
+36 covered; and
+37 (B) prohibits the dentist from billing for and collecting the amount
+38 owed from the patient for such service if there is a dental necessity for
+39 such service.
+40 (c) As used in this section, "dental necessity" means whether a
+41 prudent dentist, acting in accordance with generally accepted practices of
+42 the professional dental community and within the American dental
+43 association's parameters of care for dentistry and the quality assurance
+HB 2247 3
+1 criteria of the American academy of pediatric dentistry, as applicable,
+2 would provide the service or product to a patient to diagnose, prevent or
+3 treat orofacial pain, infection, disease, dysfunction or disfiguration.
+4 Sec. 4. K.S.A. 40-2,185 is hereby repealed.
+5 Sec. 5. This act shall take effect and be in force from and after its
+6 publication in the statute book.
+[DELETED: Aad a dl he p; rg r, as oics sd b ds fr ps id in a pasBN0in by a nt dl se cn c1h2p3t4(5c6(7(8t9r0(1(2p3N4(5d6p7a8a9p0(1p2(3h4(5(a pd pr on or hh m]
+[DELETED: 7o(abp(ca(0l1a2a3(e dn fr te cm pd by te p4s5a6(7i8tt r d e e 9m0(1i2t3S425i6h7r w t a8u9i0(1(2c3(4(5p6c7(8o9s0(1p2te pl dl cy ad wn te n d3a]
+[DELETED: 7cwtSSp]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2247
+By Committee on Health and Human Services
+Requested by Representative Reavis on behalf of the Kansas Dental Association
+2-4
+1 AN ACT concerning insurance; relating to contracts between an insurer
+2 and a dental healthcare provider; requiring reviews, audits or
+3 investigations be completed within six months; prohibiting denial for
+4 claims submitted by dentists for procedures included in a prior
+5 authorization; amending K.S.A. 40-2,185 and repealing the existing
+6 section.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 New Section 1. (a) Except as otherwise provided, any review, audit or
+10 investigation by a nonprofit dental service corporation concerning
+11 healthcare provider claims that result in the recoupment or setoff of funds
+12 previously paid to the healthcare provider shall be completed not more
+13 than six months after the completed claims were initially paid.
+14 (b) This section shall not restrict any review, audit or investigation
+15 concerning the following:
+16 (1) Fraudulently submitted claims;
+17 (2) claims that the healthcare provider knew, or should have known,
+18 to be a pattern of inappropriate billing according to the standards of the
+19 respective dental or medical specialty;
+20 (3) claims that are related to the coordination of benefits; or
+21 (4) claims that are subjected to any federal law or regulation that
+22 permits claims review beyond the specified period in subsection (a).
+23 New Sec. 2. (a) As used in this section:
+24 (1) "Prior authorization" means any written communication by a
+25 dental benefit plan or utilization review entity indicating that a specific
+26 procedure is covered under the patient's dental plan and is reimbursable at
+27 a specific amount, subject to the applicable coinsurance and deductibles,
+28 and is issued in response to a request submitted by a dentist using a format
+29 prescribed by the health insurer.
+30 (2) "Utilization review entity" means an individual or entity that
+31 performs prior authorization for:
+32 (A) An employer with employees in Kansas who are covered under a
+33 health benefit plan or health insurance policy;
+34 (B) an insurer that writes health insurance policies;
+35 (C) a preferred provider organization or health maintenance
+
+HB 2247 2
+1 organization; or
+2 (D) any other individual or entity that provides, offers to provide or
+3 administers hospital, outpatient, medical, prescription drug or other health
+4 benefits to a person treated by a healthcare professional in Kansas under a
+5 policy, plan or contract.
+6 (b) A dental benefit plan or utilization review entity shall not deny a
+7 claim submitted by a dentist for procedures specifically included in a prior
+8 authorization, unless for each procedure denied:
+9 (1) Benefit limitations, including annual maximums and frequency
+10 limitations, that were not applicable at the time of the prior authorization
+11 are reached due to utilization subsequent to the issuance of the prior
+12 authorization;
+13 (2) the documentation for the claim provided by the person
+14 submitting the claim clearly fails to support the claim as originally
+15 authorized;
+16 (3) new procedures are provided to the patient subsequent to the
+17 issuance of the prior authorization or the patient's condition changes such
+18 that the prior authorized procedure would no longer be considered
+19 medically necessary based on the prevailing standard of care; or
+20 (4) new procedures are provided to the patient subsequent to the
+21 issuance of the prior authorization or the patient's condition changes such
+22 that the prior authorized procedure would presently require disapproval.
+23 Sec. 3. K.S.A. 40-2,185 is hereby amended to read as follows: 40-
+24 2,185. No contract issued or renewed after July 1, 2010, between a health
+25 insurer and a dentist who is a participating provider with respect to such
+26 health insurer's health benefit plan shall contain any provision which that
+27 requires the dentist who provides to provide any service to an insured
+28 under such health benefit plan at a fee set or prescribed by the health
+29 insurer unless such service is a covered service.
+30 (b) A contract between an insurer and a dentist shall not:
+31 (1) Limit the fee that the dentist may charge for a service that is not a
+32 covered service; or
+33 (2) include a provision that both:
+34 (A) Allows the insurer to disallow a service, resulting in denial of
+35 payment to the dentist for a service that ordinarily would have been
+36 covered; and
+37 (B) prohibits the dentist from billing for and collecting the amount
+38 owed from the patient for such service if there is a dental necessity for
+39 such service.
+40 (c) As used in this section, "dental necessity" means whether a
+41 prudent dentist, acting in accordance with generally accepted practices of
+42 the professional dental community and within the American dental
+43 association's parameters of care for dentistry and the quality assurance
+
+HB 2247 3
+1 criteria of the American academy of pediatric dentistry, as applicable,
+2 would provide the service or product to a patient to diagnose, prevent or
+3 treat orofacial pain, infection, disease, dysfunction or disfiguration.
+4 Sec. 4. K.S.A. 40-2,185 is hereby repealed.
+5 Sec. 5. This act shall take effect and be in force from and after its
+6 publication in the statute book.
+
+[DELETED: Aad a dl he p; rg r, as oics sd b ds fr ps id in a pasBN0in by a nt dl se cn c1h2p3t4(5c6(7(8t9r0(1(2p3N4(5d6p7a8a9p0(1p2(3h4(5(a pd pr on or hh m]
+[DELETED: 7o(abp(ca(0l1a2a3(e dn fr te cm pd by te p4s5a6(7i8tt r d e e 9m0(1i2t3S425i6h7r w t a8u9i0(1(2c3(4(5p6c7(8o9s0(1p2te pl dl cy ad wn te n d3a]
+[DELETED: 7cwtSSp]

@@ -1,0 +1,567 @@
+Title: SENATE BILL No. 127
+Official Title: SENATE BILL No. 127
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Judiciary
+1-30
+1 AN ACT concerning the rules of evidence; relating to hearsay; expanding
+2 the exception to the hearsay rule for statements made to a physician to
+3 other healthcare providers; amending K.S.A. 2024 Supp. 60-460 and
+4 repealing the existing section.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 Section 1. K.S.A. 2024 Supp. 60-460 is hereby amended to read as
+8 follows: 60-460. Evidence of a statement which is made other than by a
+9 witness while testifying at the hearing, offered to prove the truth of the
+10 matter stated, is hearsay evidence and inadmissible except:
+11 (a) Previous statements of persons present. A statement previously
+12 made by a person who is present at the hearing and available for cross-
+13 examination with respect to the statement and its subject matter, provided
+14 the statement would be admissible if made by the declarant while
+15 testifying as a witness.
+16 (b) Affidavits. Affidavits, to the extent admissible by the statutes of
+17 this state.
+18 (c) Depositions and prior testimony. Subject to the same limitations
+19 and objections as though the declarant were testifying in person: (1)
+20 Testimony in the form of a deposition taken in compliance with the law of
+21 this state for use as testimony in the trial of the action in which offered; or
+22 (2) if the judge finds that the declarant is unavailable as a witness at the
+23 hearing, testimony given as a witness in another action or in a preliminary
+24 hearing or former trial in the same action, or in a deposition taken in
+25 compliance with law for use as testimony in the trial of another action,
+26 when: (A) The testimony is offered against a party who offered it in the
+27 party's own behalf on the former occasion or against the successor in
+28 interest of such party; or (B) the issue is such that the adverse party on the
+29 former occasion had the right and opportunity for cross-examination with
+30 an interest and motive similar to that which the adverse party has in the
+31 action in which the testimony is offered, but the provisions of this
+32 subsection shall not apply in criminal actions if it denies to the accused the
+33 right to meet the witness face to face.
+34 (d) Contemporaneous statements and statements admissible on
+35 ground of necessity generally. A statement which the judge finds was
+36 made: (1) While the declarant was perceiving the event or condition which
+SB 127 2
+1 the statement narrates, describes or explains; (2) while the declarant was
+2 under the stress of a nervous excitement caused by such perception; or (3)
+3 if the declarant is unavailable as a witness, by the declarant at a time when
+4 the matter had been recently perceived by the declarant and while the
+5 declarant's recollection was clear and was made in good faith prior to the
+6 commencement of the action and with no incentive to falsify or to distort.
+7 (e) Dying declarations. A statement by a person unavailable as a
+8 witness because of the person's death if the judge finds that it was made:
+9 (1) Voluntarily and in good faith; and (2) while the declarant was
+10 conscious of the declarant's impending death and believed that there was
+11 no hope of recovery.
+12 (f) Confessions. In a criminal proceeding as against the accused, a
+13 previous statement by the accused relative to the offense charged, but only
+14 if the judge finds that the accused: (1) When making the statement was
+15 conscious and was capable of understanding what the accused said and
+16 did; and (2) was not induced to make the statement: (A) Under compulsion
+17 or by infliction or threats of infliction of suffering upon the accused or
+18 another, or by prolonged interrogation under such circumstances as to
+19 render the statement involuntary; or (B) by threats or promises concerning
+20 action to be taken by a public official with reference to the crime, likely to
+21 cause the accused to make such a statement falsely, and made by a person
+22 whom the accused reasonably believed to have the power or authority to
+23 execute the same.
+24 (g) Admissions by parties. As against a party, a statement by the
+25 person who is the party to the action in the person's individual or a
+26 representative capacity and, if the latter, who was acting in such
+27 representative capacity in making the statement.
+28 (h) Authorized and adoptive admissions. As against a party, a
+29 statement: (1) By a person authorized by the party to make a statement or
+30 statements for the party concerning the subject of the statement; or (2) of
+31 which the party with knowledge of the content thereof has, by words or
+32 other conduct, manifested the party's adoption or belief in its truth.
+33 (i) Vicarious admissions. As against a party, a statement which would
+34 be admissible if made by the declarant at the hearing if: (1) The statement
+35 concerned a matter within the scope of an agency or employment of the
+36 declarant for the party and was made before the termination of such
+37 relationship; (2) the party and the declarant were participating in a plan to
+38 commit a crime or a civil wrong and the statement was relevant to the plan
+39 or its subject matter and was made while the plan was in existence and
+40 before its complete execution or other termination; or (3) one of the issues
+41 between the party and the proponent of the evidence of the statement is a
+42 legal liability of the declarant, and the statement tends to establish that
+43 liability.
+SB 127 3
+1 (j) Declarations against interest. Subject to the limitations of the
+2 exception in subsection (f), a statement which the judge finds was at the
+3 time of the assertion so far contrary to the declarant's pecuniary or
+4 proprietary interest or so far subjected the declarant to civil or criminal
+5 liability or so far rendered invalid a claim by the declarant against another
+6 or created such risk of making the declarant an object of hatred, ridicule or
+7 social disapproval in the community that a reasonable person in the
+8 declarant's position would not have made the statement unless the person
+9 believed it to be true.
+10 (k) Voter's statements. A statement by a voter concerning the voter's
+11 qualifications to vote or the fact or content of the voter's vote.
+12 (l) Statements of physical or mental condition of declarant. Unless
+13 the judge finds it was made in bad faith, a statement of the declarant's: (1)
+14 Then existing state of mind, emotion or physical sensation, including
+15 statements of intent, plan, motive, design, mental feeling, pain and bodily
+16 health, but not including memory or belief to prove the fact remembered or
+17 believed, when such a mental or physical condition is in issue or is
+18 relevant to prove or explain acts or conduct of the declarant; or (2)
+19 previous symptoms, pain or physical sensation, made to a physician
+20 healthcare provider as defined in K.S.A. 65-4915, and amendments
+21 thereto, consulted for treatment or for diagnosis with a view to treatment,
+22 and relevant to an issue of declarant's bodily condition.
+23 (m) Business entries and the like. Writings offered as memoranda or
+24 records of acts, conditions or events to prove the facts stated therein, if the
+25 following conditions are shown by the testimony of the custodian or other
+26 qualified witness, or by a certification that complies with K.S.A. 60-465(b)
+27 (7) or (8), and amendments thereto: (1) They were made in the regular
+28 course of a business at or about the time of the act, condition or event
+29 recorded; and (2) the sources of information from which made and the
+30 method and circumstances of their preparation were such as to indicate
+31 their trustworthiness.
+32 If the procedure specified by K.S.A. 60-245a(b), and amendments
+33 thereto, for providing business records has been complied with and no
+34 party has required the personal attendance of a custodian of the records or
+35 the production of the original records, the affidavit or declaration of the
+36 custodian shall be prima facie evidence that the records satisfy the
+37 requirements of this subsection.
+38 (n) Absence of entry in business records. Evidence of the absence of a
+39 memorandum or record from the memoranda or records of a business of an
+40 asserted act, event or condition, to prove the nonoccurrence of the act or
+41 event, or the nonexistence of the condition, if the judge finds that it was
+42 the regular course of that business to make such memoranda of all such
+43 acts, events or conditions at the time thereof or within a reasonable time
+SB 127 4
+1 thereafter and to preserve them.
+2 (o) Content of official record. Subject to K.S.A. 60-461, and
+3 amendments thereto: (1) If meeting the requirements of authentication
+4 under K.S.A. 60-465, and amendments thereto, to prove the content of the
+5 record, a writing purporting to be a copy of an official record or of an entry
+6 therein; (2) to prove the absence of a record in a specified office, a writing
+7 made by the official custodian of the official records of the office, reciting
+8 diligent search and failure to find such record; or (3) to prove the absence
+9 of a record in the criminal justice information system central repository
+10 maintained by the Kansas bureau of investigation pursuant to K.S.A. 22-
+11 4705, and amendments thereto, a writing made by a person purporting to
+12 be an official custodian of the records of the Kansas bureau of
+13 investigation, reciting diligent search of criminal history record
+14 information and electronically stored information, as defined in K.S.A. 22-
+15 4701, and amendments thereto, and failure to find such record.
+16 (p) Certificate of marriage. Subject to K.S.A. 60-461, and
+17 amendments thereto, certificates that the maker thereof performed
+18 marriage ceremonies, to prove the truth of the recitals thereof, if the judge
+19 finds that: (1) The maker of the certificates, at the time and place certified
+20 as the times and places of the marriages, was authorized by law to perform
+21 marriage ceremonies; and (2) the certificate was issued at that time or
+22 within a reasonable time thereafter.
+23 (q) Records of documents affecting an interest in property. Subject to
+24 K.S.A. 60-461, and amendments thereto, the official record of a document
+25 purporting to establish or affect an interest in property, to prove the content
+26 of the original recorded document and its execution and delivery by each
+27 person by whom it purports to have been executed, if the judge finds that:
+28 (1) The record is in fact a record of an office of a state or nation or of any
+29 governmental subdivision thereof; and (2) an applicable statute authorized
+30 such a document to be recorded in that office.
+31 (r) Judgment of previous conviction. Evidence of a final judgment
+32 adjudging a person guilty of a felony, to prove any fact essential to sustain
+33 the judgment.
+34 (s) Judgment against persons entitled to indemnity. To prove the
+35 wrong of the adverse party and the amount of damages sustained by the
+36 judgment creditor, evidence of a final judgment if offered by a judgment
+37 debtor in an action in which the debtor seeks to recover partial or total
+38 indemnity or exoneration for money paid or liability incurred by the debtor
+39 because of the judgment, provided the judge finds that the judgment was
+40 rendered for damages sustained by the judgment creditor as a result of the
+41 wrong of the adverse party to the present action.
+42 (t) Judgment determining public interest in land. To prove any fact
+43 which was essential to the judgment, evidence of a final judgment
+SB 127 5
+1 determining the interest or lack of interest of the public or of a state or
+2 nation or governmental division thereof in land, if offered by a party in an
+3 action in which any such fact or such interest or lack of interest is a
+4 material matter.
+5 (u) Statement concerning one's own family history. A statement of a
+6 matter concerning a declarant's own birth, marriage, divorce, legitimacy,
+7 relationship by blood or marriage, race-ancestry or other similar fact of the
+8 declarant's family history, even though the declarant had no means of
+9 acquiring personal knowledge of the matter declared, if the judge finds
+10 that the declarant is unavailable.
+11 (v) Statement concerning family history of another. A statement
+12 concerning the birth, marriage, divorce, death, legitimacy, race-ancestry,
+13 relationship by blood or marriage or other similar fact of the family history
+14 of a person other than the declarant if the judge finds that the declarant: (1)
+15 Was related to the other by blood or marriage, or was otherwise so
+16 intimately associated with the other's family as to be likely to have
+17 accurate information concerning the matter declared, and made the
+18 statement as upon information received from the other or from a person
+19 related by blood or marriage to the other or as upon repute in the other's
+20 family; and (2) is unavailable as a witness.
+21 (w) Statement concerning family history based on statement of
+22 another declarant. A statement of a declarant that a statement admissible
+23 under the exceptions in subsections (u) or (v) was made by another
+24 declarant, offered as tending to prove the truth of the matter declared by
+25 both declarants, if the judge finds that both declarants are unavailable as
+26 witnesses.
+27 (x) Reputation in family concerning family history. Evidence of
+28 reputation among members of a family, if the reputation concerns the birth,
+29 marriage, divorce, death, legitimacy, race-ancestry or other fact of the
+30 family history of a member of the family by blood or marriage.
+31 (y) Reputation—boundaries, general history, family history. Evidence
+32 of reputation in a community as tending to prove the truth of the matter
+33 reputed, if the reputation concerns: (1) Boundaries of or customs affecting,
+34 land in the community and the judge finds that the reputation, if any, arose
+35 before controversy; (2) an event of general history of the community or of
+36 the state or nation of which the community is a part and the judge finds
+37 that the event was of importance to the community; or (3) the birth,
+38 marriage, divorce, death, legitimacy, relationship by blood or marriage, or
+39 race-ancestry of a person resident in the community at the time of the
+40 reputation, or some other similar fact of the person's family history or of
+41 the person's personal status or condition which the judge finds likely to
+42 have been the subject of a reliable reputation in that community.
+43 (z) Reputation as to character. If a trait of a person's character at a
+SB 127 6
+1 specified time is material, evidence of the person's reputation with
+2 reference thereto at a relevant time in the community in which the person
+3 then resided or in a group with which the person then habitually
+4 associated, to prove the truth of the matter reputed.
+5 (aa) Recitals in documents affecting property. Evidence of a statement
+6 relevant to a material matter, contained in a deed of conveyance or a will
+7 or other document purporting to affect an interest in property, offered as
+8 tending to prove the truth of the matter stated, if the judge finds that: (1)
+9 The matter stated would be relevant upon an issue as to an interest in the
+10 property; and (2) the dealings with the property since the statement was
+11 made have not been inconsistent with the truth of the statement.
+12 (bb) Commercial lists and the like. Evidence of statements of matters
+13 of interest to persons engaged in an occupation contained in a list, register,
+14 periodical or other published compilation, to prove the truth of any
+15 relevant matter so stated, if the judge finds that the compilation is
+16 published for use by persons engaged in that occupation and is generally
+17 used and relied upon by them.
+18 (cc) Learned treatises. A published treatise, periodical or pamphlet on
+19 a subject of history, science or art, to prove the truth of a matter stated
+20 therein, if the judge takes judicial notice, or a witness expert in the subject
+21 testifies, that the treatise, periodical or pamphlet is a reliable authority in
+22 the subject.
+23 (dd) Actions involving children. In a criminal proceeding or a
+24 proceeding pursuant to the revised Kansas juvenile justice code or in a
+25 proceeding to determine if a child is a child in need of care under the
+26 revised Kansas code for care of children, a statement made by a child, to
+27 prove the crime or that a child is a juvenile offender or a child in need of
+28 care, if:
+29 (1) The child is alleged to be a victim of the crime or offense or a
+30 child in need of care; and
+31 (2) the trial judge finds, after a hearing on the matter, that the child is
+32 disqualified or unavailable as a witness, the statement is apparently
+33 reliable and the child was not induced to make the statement falsely by use
+34 of threats or promises.
+35 If a statement is admitted pursuant to this subsection in a trial to a jury,
+36 the trial judge shall instruct the jury that it is for the jury to determine the
+37 weight and credit to be given the statement and that, in making the
+38 determination, it shall consider the age and maturity of the child, the
+39 nature of the statement, the circumstances under which the statement was
+40 made, any possible threats or promises that might have been made to the
+41 child to obtain the statement and any other relevant factor.
+42 (ee) Certified motor vehicle certificate of title history. Subject to
+43 K.S.A. 60-461, and amendments thereto, a certified motor vehicle
+SB 127 7
+1 certificate of title history prepared by the division of vehicles of the
+2 Kansas department of revenue.
+3 Sec. 2. K.S.A. 2024 Supp. 60-460 is hereby repealed.
+4 Sec. 3. This act shall take effect and be in force from and after its
+5 publication in the statute book.
+[DELETED: AtorBSfw0m1(2m3e4tt t 5t6(7t8(9a0T1t2(3h4h5c6w7p8i9f0a1a2s3r4(s ss ad ss ae o5g6m]
+[DELETED: 7tuitdc(w(0c1n2(3p4i5c6d7o8a9r0a1c2w3e4(5p6re cy a, if te l, wo ws ag in s7r8(d ad ae a As at a p, a9s0s1w2o3(4b5c6d7r8c9o0b1b2l3l]
+[DELETED: 7( Setplosdb0(1q2(3t4T5s6h7b8r9p p0hr 1t2a3(4r5f6q7(8c9r0m1t2I3t4p5t6c7r8(9m0a1e2t3a]
+[DELETED: 7t(t of ol r St to K. 6, aaurtmdo0m142be an ol cn of te rs of te Ks bu o3i, rg dt sh of cl hy r4i546(e of m St to K. 6, a7as t, cs tt te mr tf p8m9f0a1m2w3(4K5p6o7p8(9g0s1( E2a3t4( T5w6j7d8i9b0r1w2(3w]
+[DELETED: 7dnam(mrda0t1(t  A2c3r4o5W6i7ae in cg te mr d, ad me t8s9r0f1(t cg f hy bd o st o2a3u4d5b6w7( E8r9m0f1(2o3r4l5b6t7t8m9r0r1t2h3(]
+[DELETED: 7ss rtn d r in a gp  wh e n n a(rotT0p1m2(3o4p5r6p7u8(9a0t1t2t3(s ig c In a cl pg or a4p5p6r7p8c9(0c1(2d3r4o5I6t7w8d9n0m1c2( S3K. 6, ad as t, a cd mr v]
+[DELETED: 7cKSSp]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 127
+By Committee on Judiciary
+1-30
+1 AN ACT concerning the rules of evidence; relating to hearsay; expanding
+2 the exception to the hearsay rule for statements made to a physician to
+3 other healthcare providers; amending K.S.A. 2024 Supp. 60-460 and
+4 repealing the existing section.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 Section 1. K.S.A. 2024 Supp. 60-460 is hereby amended to read as
+8 follows: 60-460. Evidence of a statement which is made other than by a
+9 witness while testifying at the hearing, offered to prove the truth of the
+10 matter stated, is hearsay evidence and inadmissible except:
+11 (a) Previous statements of persons present. A statement previously
+12 made by a person who is present at the hearing and available for cross-
+13 examination with respect to the statement and its subject matter, provided
+14 the statement would be admissible if made by the declarant while
+15 testifying as a witness.
+16 (b) Affidavits. Affidavits, to the extent admissible by the statutes of
+17 this state.
+18 (c) Depositions and prior testimony. Subject to the same limitations
+19 and objections as though the declarant were testifying in person: (1)
+20 Testimony in the form of a deposition taken in compliance with the law of
+21 this state for use as testimony in the trial of the action in which offered; or
+22 (2) if the judge finds that the declarant is unavailable as a witness at the
+23 hearing, testimony given as a witness in another action or in a preliminary
+24 hearing or former trial in the same action, or in a deposition taken in
+25 compliance with law for use as testimony in the trial of another action,
+26 when: (A) The testimony is offered against a party who offered it in the
+27 party's own behalf on the former occasion or against the successor in
+28 interest of such party; or (B) the issue is such that the adverse party on the
+29 former occasion had the right and opportunity for cross-examination with
+30 an interest and motive similar to that which the adverse party has in the
+31 action in which the testimony is offered, but the provisions of this
+32 subsection shall not apply in criminal actions if it denies to the accused the
+33 right to meet the witness face to face.
+34 (d) Contemporaneous statements and statements admissible on
+35 ground of necessity generally. A statement which the judge finds was
+36 made: (1) While the declarant was perceiving the event or condition which
+
+SB 127 2
+1 the statement narrates, describes or explains; (2) while the declarant was
+2 under the stress of a nervous excitement caused by such perception; or (3)
+3 if the declarant is unavailable as a witness, by the declarant at a time when
+4 the matter had been recently perceived by the declarant and while the
+5 declarant's recollection was clear and was made in good faith prior to the
+6 commencement of the action and with no incentive to falsify or to distort.
+7 (e) Dying declarations. A statement by a person unavailable as a
+8 witness because of the person's death if the judge finds that it was made:
+9 (1) Voluntarily and in good faith; and (2) while the declarant was
+10 conscious of the declarant's impending death and believed that there was
+11 no hope of recovery.
+12 (f) Confessions. In a criminal proceeding as against the accused, a
+13 previous statement by the accused relative to the offense charged, but only
+14 if the judge finds that the accused: (1) When making the statement was
+15 conscious and was capable of understanding what the accused said and
+16 did; and (2) was not induced to make the statement: (A) Under compulsion
+17 or by infliction or threats of infliction of suffering upon the accused or
+18 another, or by prolonged interrogation under such circumstances as to
+19 render the statement involuntary; or (B) by threats or promises concerning
+20 action to be taken by a public official with reference to the crime, likely to
+21 cause the accused to make such a statement falsely, and made by a person
+22 whom the accused reasonably believed to have the power or authority to
+23 execute the same.
+24 (g) Admissions by parties. As against a party, a statement by the
+25 person who is the party to the action in the person's individual or a
+26 representative capacity and, if the latter, who was acting in such
+27 representative capacity in making the statement.
+28 (h) Authorized and adoptive admissions. As against a party, a
+29 statement: (1) By a person authorized by the party to make a statement or
+30 statements for the party concerning the subject of the statement; or (2) of
+31 which the party with knowledge of the content thereof has, by words or
+32 other conduct, manifested the party's adoption or belief in its truth.
+33 (i) Vicarious admissions. As against a party, a statement which would
+34 be admissible if made by the declarant at the hearing if: (1) The statement
+35 concerned a matter within the scope of an agency or employment of the
+36 declarant for the party and was made before the termination of such
+37 relationship; (2) the party and the declarant were participating in a plan to
+38 commit a crime or a civil wrong and the statement was relevant to the plan
+39 or its subject matter and was made while the plan was in existence and
+40 before its complete execution or other termination; or (3) one of the issues
+41 between the party and the proponent of the evidence of the statement is a
+42 legal liability of the declarant, and the statement tends to establish that
+43 liability.
+
+SB 127 3
+1 (j) Declarations against interest. Subject to the limitations of the
+2 exception in subsection (f), a statement which the judge finds was at the
+3 time of the assertion so far contrary to the declarant's pecuniary or
+4 proprietary interest or so far subjected the declarant to civil or criminal
+5 liability or so far rendered invalid a claim by the declarant against another
+6 or created such risk of making the declarant an object of hatred, ridicule or
+7 social disapproval in the community that a reasonable person in the
+8 declarant's position would not have made the statement unless the person
+9 believed it to be true.
+10 (k) Voter's statements. A statement by a voter concerning the voter's
+11 qualifications to vote or the fact or content of the voter's vote.
+12 (l) Statements of physical or mental condition of declarant. Unless
+13 the judge finds it was made in bad faith, a statement of the declarant's: (1)
+14 Then existing state of mind, emotion or physical sensation, including
+15 statements of intent, plan, motive, design, mental feeling, pain and bodily
+16 health, but not including memory or belief to prove the fact remembered or
+17 believed, when such a mental or physical condition is in issue or is
+18 relevant to prove or explain acts or conduct of the declarant; or (2)
+19 previous symptoms, pain or physical sensation, made to a physician
+20 healthcare provider as defined in K.S.A. 65-4915, and amendments
+21 thereto, consulted for treatment or for diagnosis with a view to treatment,
+22 and relevant to an issue of declarant's bodily condition.
+23 (m) Business entries and the like. Writings offered as memoranda or
+24 records of acts, conditions or events to prove the facts stated therein, if the
+25 following conditions are shown by the testimony of the custodian or other
+26 qualified witness, or by a certification that complies with K.S.A. 60-465(b)
+27 (7) or (8), and amendments thereto: (1) They were made in the regular
+28 course of a business at or about the time of the act, condition or event
+29 recorded; and (2) the sources of information from which made and the
+30 method and circumstances of their preparation were such as to indicate
+31 their trustworthiness.
+32 If the procedure specified by K.S.A. 60-245a(b), and amendments
+33 thereto, for providing business records has been complied with and no
+34 party has required the personal attendance of a custodian of the records or
+35 the production of the original records, the affidavit or declaration of the
+36 custodian shall be prima facie evidence that the records satisfy the
+37 requirements of this subsection.
+38 (n) Absence of entry in business records. Evidence of the absence of a
+39 memorandum or record from the memoranda or records of a business of an
+40 asserted act, event or condition, to prove the nonoccurrence of the act or
+41 event, or the nonexistence of the condition, if the judge finds that it was
+42 the regular course of that business to make such memoranda of all such
+43 acts, events or conditions at the time thereof or within a reasonable time
+
+SB 127 4
+1 thereafter and to preserve them.
+2 (o) Content of official record. Subject to K.S.A. 60-461, and
+3 amendments thereto: (1) If meeting the requirements of authentication
+4 under K.S.A. 60-465, and amendments thereto, to prove the content of the
+5 record, a writing purporting to be a copy of an official record or of an entry
+6 therein; (2) to prove the absence of a record in a specified office, a writing
+7 made by the official custodian of the official records of the office, reciting
+8 diligent search and failure to find such record; or (3) to prove the absence
+9 of a record in the criminal justice information system central repository
+10 maintained by the Kansas bureau of investigation pursuant to K.S.A. 22-
+11 4705, and amendments thereto, a writing made by a person purporting to
+12 be an official custodian of the records of the Kansas bureau of
+13 investigation, reciting diligent search of criminal history record
+14 information and electronically stored information, as defined in K.S.A. 22-
+15 4701, and amendments thereto, and failure to find such record.
+16 (p) Certificate of marriage. Subject to K.S.A. 60-461, and
+17 amendments thereto, certificates that the maker thereof performed
+18 marriage ceremonies, to prove the truth of the recitals thereof, if the judge
+19 finds that: (1) The maker of the certificates, at the time and place certified
+20 as the times and places of the marriages, was authorized by law to perform
+21 marriage ceremonies; and (2) the certificate was issued at that time or
+22 within a reasonable time thereafter.
+23 (q) Records of documents affecting an interest in property. Subject to
+24 K.S.A. 60-461, and amendments thereto, the official record of a document
+25 purporting to establish or affect an interest in property, to prove the content
+26 of the original recorded document and its execution and delivery by each
+27 person by whom it purports to have been executed, if the judge finds that:
+28 (1) The record is in fact a record of an office of a state or nation or of any
+29 governmental subdivision thereof; and (2) an applicable statute authorized
+30 such a document to be recorded in that office.
+31 (r) Judgment of previous conviction. Evidence of a final judgment
+32 adjudging a person guilty of a felony, to prove any fact essential to sustain
+33 the judgment.
+34 (s) Judgment against persons entitled to indemnity. To prove the
+35 wrong of the adverse party and the amount of damages sustained by the
+36 judgment creditor, evidence of a final judgment if offered by a judgment
+37 debtor in an action in which the debtor seeks to recover partial or total
+38 indemnity or exoneration for money paid or liability incurred by the debtor
+39 because of the judgment, provided the judge finds that the judgment was
+40 rendered for damages sustained by the judgment creditor as a result of the
+41 wrong of the adverse party to the present action.
+42 (t) Judgment determining public interest in land. To prove any fact
+43 which was essential to the judgment, evidence of a final judgment
+
+SB 127 5
+1 determining the interest or lack of interest of the public or of a state or
+2 nation or governmental division thereof in land, if offered by a party in an
+3 action in which any such fact or such interest or lack of interest is a
+4 material matter.
+5 (u) Statement concerning one's own family history. A statement of a
+6 matter concerning a declarant's own birth, marriage, divorce, legitimacy,
+7 relationship by blood or marriage, race-ancestry or other similar fact of the
+8 declarant's family history, even though the declarant had no means of
+9 acquiring personal knowledge of the matter declared, if the judge finds
+10 that the declarant is unavailable.
+11 (v) Statement concerning family history of another. A statement
+12 concerning the birth, marriage, divorce, death, legitimacy, race-ancestry,
+13 relationship by blood or marriage or other similar fact of the family history
+14 of a person other than the declarant if the judge finds that the declarant: (1)
+15 Was related to the other by blood or marriage, or was otherwise so
+16 intimately associated with the other's family as to be likely to have
+17 accurate information concerning the matter declared, and made the
+18 statement as upon information received from the other or from a person
+19 related by blood or marriage to the other or as upon repute in the other's
+20 family; and (2) is unavailable as a witness.
+21 (w) Statement concerning family history based on statement of
+22 another declarant. A statement of a declarant that a statement admissible
+23 under the exceptions in subsections (u) or (v) was made by another
+24 declarant, offered as tending to prove the truth of the matter declared by
+25 both declarants, if the judge finds that both declarants are unavailable as
+26 witnesses.
+27 (x) Reputation in family concerning family history. Evidence of
+28 reputation among members of a family, if the reputation concerns the birth,
+29 marriage, divorce, death, legitimacy, race-ancestry or other fact of the
+30 family history of a member of the family by blood or marriage.
+31 (y) Reputation—boundaries, general history, family history. Evidence
+32 of reputation in a community as tending to prove the truth of the matter
+33 reputed, if the reputation concerns: (1) Boundaries of or customs affecting,
+34 land in the community and the judge finds that the reputation, if any, arose
+35 before controversy; (2) an event of general history of the community or of
+36 the state or nation of which the community is a part and the judge finds
+37 that the event was of importance to the community; or (3) the birth,
+38 marriage, divorce, death, legitimacy, relationship by blood or marriage, or
+39 race-ancestry of a person resident in the community at the time of the
+40 reputation, or some other similar fact of the person's family history or of
+41 the person's personal status or condition which the judge finds likely to
+42 have been the subject of a reliable reputation in that community.
+43 (z) Reputation as to character. If a trait of a person's character at a
+
+SB 127 6
+1 specified time is material, evidence of the person's reputation with
+2 reference thereto at a relevant time in the community in which the person
+3 then resided or in a group with which the person then habitually
+4 associated, to prove the truth of the matter reputed.
+5 (aa) Recitals in documents affecting property. Evidence of a statement
+6 relevant to a material matter, contained in a deed of conveyance or a will
+7 or other document purporting to affect an interest in property, offered as
+8 tending to prove the truth of the matter stated, if the judge finds that: (1)
+9 The matter stated would be relevant upon an issue as to an interest in the
+10 property; and (2) the dealings with the property since the statement was
+11 made have not been inconsistent with the truth of the statement.
+12 (bb) Commercial lists and the like. Evidence of statements of matters
+13 of interest to persons engaged in an occupation contained in a list, register,
+14 periodical or other published compilation, to prove the truth of any
+15 relevant matter so stated, if the judge finds that the compilation is
+16 published for use by persons engaged in that occupation and is generally
+17 used and relied upon by them.
+18 (cc) Learned treatises. A published treatise, periodical or pamphlet on
+19 a subject of history, science or art, to prove the truth of a matter stated
+20 therein, if the judge takes judicial notice, or a witness expert in the subject
+21 testifies, that the treatise, periodical or pamphlet is a reliable authority in
+22 the subject.
+23 (dd) Actions involving children. In a criminal proceeding or a
+24 proceeding pursuant to the revised Kansas juvenile justice code or in a
+25 proceeding to determine if a child is a child in need of care under the
+26 revised Kansas code for care of children, a statement made by a child, to
+27 prove the crime or that a child is a juvenile offender or a child in need of
+28 care, if:
+29 (1) The child is alleged to be a victim of the crime or offense or a
+30 child in need of care; and
+31 (2) the trial judge finds, after a hearing on the matter, that the child is
+32 disqualified or unavailable as a witness, the statement is apparently
+33 reliable and the child was not induced to make the statement falsely by use
+34 of threats or promises.
+35 If a statement is admitted pursuant to this subsection in a trial to a jury,
+36 the trial judge shall instruct the jury that it is for the jury to determine the
+37 weight and credit to be given the statement and that, in making the
+38 determination, it shall consider the age and maturity of the child, the
+39 nature of the statement, the circumstances under which the statement was
+40 made, any possible threats or promises that might have been made to the
+41 child to obtain the statement and any other relevant factor.
+42 (ee) Certified motor vehicle certificate of title history. Subject to
+43 K.S.A. 60-461, and amendments thereto, a certified motor vehicle
+
+SB 127 7
+1 certificate of title history prepared by the division of vehicles of the
+2 Kansas department of revenue.
+3 Sec. 2. K.S.A. 2024 Supp. 60-460 is hereby repealed.
+4 Sec. 3. This act shall take effect and be in force from and after its
+5 publication in the statute book.
+
+[DELETED: AtorBSfw0m1(2m3e4tt t 5t6(7t8(9a0T1t2(3h4h5c6w7p8i9f0a1a2s3r4(s ss ad ss ae o5g6m]
+[DELETED: 7tuitdc(w(0c1n2(3p4i5c6d7o8a9r0a1c2w3e4(5p6re cy a, if te l, wo ws ag in s7r8(d ad ae a As at a p, a9s0s1w2o3(4b5c6d7r8c9o0b1b2l3l]
+[DELETED: 7( Setplosdb0(1q2(3t4T5s6h7b8r9p p0hr 1t2a3(4r5f6q7(8c9r0m1t2I3t4p5t6c7r8(9m0a1e2t3a]
+[DELETED: 7t(t of ol r St to K. 6, aaurtmdo0m142be an ol cn of te rs of te Ks bu o3i, rg dt sh of cl hy r4i546(e of m St to K. 6, a7as t, cs tt te mr tf p8m9f0a1m2w3(4K5p6o7p8(9g0s1( E2a3t4( T5w6j7d8i9b0r1w2(3w]
+[DELETED: 7dnam(mrda0t1(t  A2c3r4o5W6i7ae in cg te mr d, ad me t8s9r0f1(t cg f hy bd o st o2a3u4d5b6w7( E8r9m0f1(2o3r4l5b6t7t8m9r0r1t2h3(]
+[DELETED: 7ss rtn d r in a gp  wh e n n a(rotT0p1m2(3o4p5r6p7u8(9a0t1t2t3(s ig c In a cl pg or a4p5p6r7p8c9(0c1(2d3r4o5I6t7w8d9n0m1c2( S3K. 6, ad as t, a cd mr v]
+[DELETED: 7cKSSp]

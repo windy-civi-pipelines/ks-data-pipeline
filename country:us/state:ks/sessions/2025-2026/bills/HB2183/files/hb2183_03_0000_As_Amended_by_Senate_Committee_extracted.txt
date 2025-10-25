@@ -1,0 +1,583 @@
+Title: HOUSE BILL No. 2183
+Official Title: HOUSE BILL No. 2183
+Number of Sections: 1
+Source: versions - As Amended by Senate Committee
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+As Amended by Senate Committee
+{As Amended by House Committee of the Whole}
+As Amended by House Committee
+Session of 2025
+By Committee on Judiciary
+Requested by Representative Barrett
+1-30
+1 AN ACT concerning crimes, punishment and criminal procedure;
+2 including any photograph, film, video picture, digital or computer-
+3 generated image or picture that has been created, altered or modified by
+4 artificial intelligence or any digital means in the definition of a visual
+5 depiction for certain criminal offenses; modifying elements in the
+6 crimes of sexual exploitation of a child, unlawful transmission of a
+7 visual depiction of a child and breach of privacy; prohibiting certain
+8 acts related to visual depictions in which the person depicted is
+9 indistinguishable from a real child, morphed from a real child's
+10 image or generated without any actual child involvement;
+11 providing an exception for cable services in the crime of breach of
+12 privacy; prohibiting dissemination of certain items that appear to
+13 depict or purport to depict an identifiable person; amending K.S.A.
+14 21-5510 and 21-5611 and K.S.A. 2024 Supp. 21-6101 and repealing the
+15 existing sections.
+16
+17 Be it enacted by the Legislature of the State of Kansas:
+18 Section 1. K.S.A. 21-5510 is hereby amended to read as follows: 21-
+19 5510. (a) Except as provided in K.S.A. 21-5610 and 21-5611, and
+20 amendments thereto, sexual exploitation of a child is:
+21 (1) Employing, using, persuading, inducing, enticing or coercing a
+22 child under 18 years of age, or a person whom the offender believes to be a
+23 child under 18 years of age, to engage in sexually explicit conduct with the
+24 intent to promote any performance;
+25 (2) (A) possessing any visual depiction of a child under 18 years of
+26 age shown or heard engaging in sexually explicit conduct with intent to
+27 arouse or satisfy the sexual desires or appeal to the prurient interest of the
+28 offender or any other person, regardless of whether an actual child under
+29 18 years of age was involved in the creation of the original image; or
+30 (B) possessing any artificially generated visual depiction with
+31 intent to arouse or satisfy the sexual desires or appeal to the prurient
+HB 2183—Am. by SC 2
+1 interest of the offender or any other person;
+2 (3) being a parent, guardian or other person having custody or control
+3 of a child under l8 years of age and knowingly permitting such child to
+4 engage in, or assist another to engage in, sexually explicit conduct for any
+5 purpose described in subsection (a)(1) or (2); or
+6 (4) promoting any performance that includes sexually explicit
+7 conduct by a child under 18 years of age, or a person whom the offender
+8 believes to be a child under 18 years of age, knowing the character and
+9 content of the performance.
+10 (b) (1) Sexual exploitation of a child as defined in:
+11 (A) Subsection (a)(2) or (a)(3) is a severity level 5, person felony;
+12 and
+13 (B) subsection (a)(1) or (a)(4) is a severity level 3, person felony,
+14 except as provided in subsection (b)(2).
+15 (2) Sexual exploitation of a child as defined in subsection (a)(1) or (a)
+16 (4) or attempt, conspiracy or criminal solicitation to commit sexual
+17 exploitation of a child as defined in subsection (a)(1) or (a)(4) is an off-
+18 grid person felony, when the offender is 18 years of age or older and the
+19 child is under 14 years of age.
+20 (c) If the offender is 18 years of age or older and the child is under 14
+21 years of age, the provisions of:
+22 (1) K.S.A. 21-5301(c), and amendments thereto, shall not apply to a
+23 violation of attempting to commit the crime of sexual exploitation of a
+24 child as defined in subsection (a)(1) or (a)(4);
+25 (2) K.S.A. 21-5302(d), and amendments thereto, shall not apply to a
+26 violation of conspiracy to commit the crime of sexual exploitation of a
+27 child as defined in subsection (a)(1) or (a)(4); and
+28 (3) K.S.A. 21-5303(d), and amendments thereto, shall not apply to a
+29 violation of criminal solicitation to commit the crime of sexual
+30 exploitation of a child as defined in subsection (a)(1) or (a)(4).
+31 (d) As used in this section:
+32 (1) "Sexually explicit conduct" means actual or simulated: Exhibition
+33 in the nude; sexual intercourse or sodomy, including genital-genital, oral-
+34 genital, anal-genital or oral-anal contact, whether between persons of the
+35 same or opposite sex; masturbation; sado-masochistic abuse with the intent
+36 of sexual stimulation; or lewd exhibition of the genitals, female breasts or
+37 pubic area of any person;
+38 (2) "promoting" means procuring, transmitting, distributing,
+39 circulating, presenting, producing, directing, manufacturing, issuing,
+40 publishing, displaying, exhibiting or advertising:
+41 (A) For pecuniary profit; or
+42 (B) with intent to arouse or gratify the sexual desire or appeal to the
+43 prurient interest of the offender or any other person;
+HB 2183—Am. by SC 3
+1 (3) "performance" means any film, photograph, negative, slide, book,
+2 magazine or other printed or visual medium, any audio tape recording or
+3 any photocopy, video tape, video laser disk, computer hardware, software,
+4 floppy disk or any other computer related equipment or computer
+5 generated image that contains or incorporates in any manner any film,
+6 photograph, negative, photocopy, video tape or video laser disk or any
+7 play or other live presentation;
+8 (4) "nude" means any state of undress in which the human genitals,
+9 pubic region, buttock or female breast, at a point below the top of the
+10 areola, is less than completely and opaquely covered;
+11 (5) "obscene" means a visual depiction or artificially generated
+12 visual depiction that, taken as a whole, appeals to the prurient interest
+13 of an average person, applying contemporary community standards,
+14 that is patently offensive and that, taken as a whole, lacks serious
+15 literary, artistic, political or scientific value;
+16 (6) "artificially generated visual depiction" means a visual
+17 depiction that is obscene and produced through the use of computer
+18 software, digital manipulation or other means that creates an image or
+19 video that appears to depict a child under 18 years of age shown or
+20 heard engaging in sexually explicit conduct. "Artificially generated
+21 visual depiction" includes depictions that are obscene and
+22 indistinguishable from a real child, morphed from a real child's image
+23 or generated without any actual child involvement; and
+24 (5)(7) "visual depiction" means any photograph, film, video picture,
+25 digital or computer-generated image or picture, whether made or produced
+26 by electronic, mechanical or other means. "Visual depiction" includes any
+27 photograph, film, video picture, digital or computer-generated image or
+28 picture that has been created, in whole or in part, altered or modified by
+29 artificial intelligence or any digital means to appear to depict or purport
+30 to depict a child engaging in sexually explicit conduct.
+31 (e) The provisions of this section shall not apply to possession of a
+32 visual depiction of a child in a state of nudity if the person possessing such
+33 visual depiction is the child who is the subject of such visual depiction.
+34 Sec. 2. K.S.A. 21-5611 is hereby amended to read as follows: 21-
+35 5611. (a) Unlawful transmission of a visual depiction of a child is
+36 knowingly transmitting a visual depiction of a {an identifiable} child 12
+37 or more years of age but less than 18 years of age in a state of nudity when
+38 the offender is less than 19 years of age.
+39 (b) Aggravated unlawful transmission of a visual depiction of a child
+40 is:
+41 (1) Knowingly transmitting a visual depiction of a {an identifiable}
+42 child 12 or more years of age but less than 18 years of age in a state of
+43 nudity:
+HB 2183—Am. by SC 4
+1 (A) With the intent to harass, embarrass, intimidate, defame or
+2 otherwise inflict emotional, psychological or physical harm;
+3 (B) for pecuniary or tangible gain; or
+4 (C) with the intent to exhibit or transmit such visual depiction to more
+5 than one person; and
+6 (2) when the offender is less than 19 years of age.
+7 (c) (1) Unlawful transmission of a visual depiction of a child is a:
+8 (A) Class A person misdemeanor, except as provided in subsection (c)
+9 (1)(B); and
+10 (B) severity level 10, person felony upon a second or subsequent
+11 conviction.
+12 (2) Aggravated unlawful transmission of a visual depiction of a child
+13 is a:
+14 (A) Severity level 9, person felony, except as provided in subsection
+15 (c)(2)(B); and
+16 (B) severity level 7, person felony upon a second or subsequent
+17 conviction.
+18 (d) It shall be a rebuttable presumption that an offender had the intent
+19 to harass, embarrass, intimidate, defame or otherwise inflict emotional,
+20 psychological or physical harm if the offender transmitted a visual
+21 depiction of a person other than such child in a state of nudity to more than
+22 one person.
+23 (e) The provisions of this section shall not apply to transmission of a
+24 visual depiction of a child in a state of nudity by the child who is the
+25 subject of such visual depiction.
+26 (f) The provisions of this section shall not apply to a visual depiction
+27 of a child engaged in sexually explicit conduct or a visual depiction that
+28 constitutes obscenity as defined in K.S.A. 21-6401(f)(1), and amendments
+29 thereto.
+30 (g) As used in this section and K.S.A. 21-5610, and amendments
+31 thereto:
+32 (1) "Sexually explicit conduct" means actual or simulated: Sexual
+33 intercourse or sodomy, including genital-genital, oral-genital, anal-genital
+34 or oral-anal contact, whether between persons of the same or opposite sex;
+35 masturbation and sado-masochistic abuse for the purpose of sexual
+36 stimulation;
+37 (2) "state of nudity" means any state of undress in which the human
+38 genitals, pubic region, buttock or female breast, at a point below the top of
+39 the areola, is less than completely and opaquely covered;
+40 (3) "transmission" means any form of communication, including, but
+41 not limited to, physical transmission of paper and electronic transmission
+42 that creates a record that may be retained and reviewed by a recipient
+43 thereof, and that may be directly reproduced in paper form by such a
+HB 2183—Am. by SC 5
+1 recipient through an automated process. Transmission also includes a
+2 request to receive a transmission of a visual depiction; and
+3 (4) "visual depiction" means any photograph, film, video picture,
+4 digital or computer-generated image or picture made or produced by
+5 electronic, mechanical or other means, including, but not limited to, such
+6 items in which the person depicted is indistinguishable from a real
+7 child, morphed from a real child's image or generated without any
+8 actual child involvement {any such item created, in whole or in part,
+9 altered or modified by artificial intelligence or any digital means to
+10 appear to depict or purport to depict an identifiable child, regardless
+11 of whether such identifiable child was involved in the creation of the
+12 original image}. "Visual depiction" includes any photograph, film, video
+13 picture, digital or computer-generated image or picture that has been
+14 created, in whole or in part, altered or modified by artificial intelligence
+15 or any digital means to appear to depict or purport to depict a child
+16 engaging in sexually explicit conduct.
+17 Sec. 3. K.S.A. 2024 Supp. 21-6101 is hereby amended to read as
+18 follows: 21-6101. (a) Breach of privacy is knowingly and without lawful
+19 authority:
+20 (1) Intercepting, without the consent of the sender or receiver, a
+21 message by telephone, telegraph, letter or other means of private
+22 communication;
+23 (2) divulging, without the consent of the sender or receiver, the
+24 existence or contents of such message if such person knows that the
+25 message was illegally intercepted, or if such person illegally learned of the
+26 message in the course of employment with an agency in transmitting such
+27 message;
+28 (3) entering with intent to listen surreptitiously to private
+29 conversations in a private place or to observe the personal conduct of any
+30 other person or persons entitled to privacy therein;
+31 (4) installing or using outside or inside a private place any device for
+32 hearing, recording, amplifying or broadcasting sounds originating in such
+33 place, which sounds would not ordinarily be audible or comprehensible
+34 without the use of such device, without the consent of the person or
+35 persons entitled to privacy therein;
+36 (5) installing or using any device or equipment for the interception of
+37 any telephone, telegraph or other wire or wireless communication without
+38 the consent of the person in possession or control of the facilities for such
+39 communication;
+40 (6) installing or using a camcorder, motion picture camera or
+41 photographic camera of any type to videotape, film, photograph or record,
+42 by electronic or other means, another identifiable person under or through
+43 the clothing being worn by that other person or another identifiable person
+HB 2183—Am. by SC 6
+1 who is nude or in a state of undress, for the purpose of viewing the body
+2 of, or the undergarments worn by, that other person, without the consent or
+3 knowledge of that other person, with the intent to invade the privacy of
+4 that other person, under circumstances in which that other person has a
+5 reasonable expectation of privacy;
+6 (7) disseminating or permitting the dissemination of any videotape,
+7 photograph, film or image obtained in violation of subsection (a)(6); or
+8 (8) disseminating any videotape, photograph, film or image of
+9 another identifiable person 18 years of age or older who is nude or
+10 engaged in sexual activity and under circumstances in which such
+11 identifiable person had a reasonable expectation of privacy, with the intent
+12 to harass, threaten or intimidate such identifiable person, and such
+13 identifiable person did not consent to such dissemination. This includes
+14 disseminating any videotape, photograph, film or image that has been
+15 created, in whole or in part, altered or modified by artificial intelligence
+16 or any digital means to appear to depict or purport to depict such
+17 identifiable person, regardless of whether such identifiable person was
+18 involved in the creation of the original image.
+19 (b) Breach of privacy as defined in:
+20 (1) Subsection (a)(1) through (a)(5) is a class A nonperson
+21 misdemeanor;
+22 (2) subsection (a)(6) or (a)(8) is a:
+23 (A) Severity level 8, person felony, except as provided in subsection
+24 (b)(2)(B); and
+25 (B) severity level 5, person felony upon a second or subsequent
+26 conviction within the previous five years; and
+27 (3) subsection (a)(7) is a severity level 5, person felony.
+28 (c) Subsection (a)(1) shall not apply to messages overheard through a
+29 regularly installed instrument on a telephone party line or on an extension.
+30 (d) The provisions of this section shall not apply to:
+31 (1) An operator of a switchboard, or any officer, employee or agent of
+32 any public utility providing telephone communications service, whose
+33 facilities are used in the transmission of a communication, to intercept,
+34 disclose or use that communication in the normal course of employment
+35 while engaged in any activity which is incident to the rendition of public
+36 utility service or to the protection of the rights of property of such public
+37 utility;
+38 (2) a provider of an interactive computer service, as defined in 47
+39 U.S.C. § 230, for content provided by another person;
+40 (3) a radio common carrier, as defined in K.S.A. 66-1,143, and
+41 amendments thereto; and
+42 (4) a local exchange carrier or telecommunications carrier as defined
+43 in K.S.A. 66-1,187, and amendments thereto; and
+HB 2183—Am. by SC 7
+1 (5) a cable service, as defined in 47 U.S.C. § 522;
+2 (6) a provider of direct-to-home satellite services, as defined in 47
+3 U.S.C. § 303(v); and
+4 (7) a multichannel video programming distributor, as defined in 47
+5 U.S.C. § 522(13), or an affiliate thereof.
+6 (e) The provisions of subsection (a)(8) shall not apply to a person
+7 acting with a bona fide and lawful scientific, educational, governmental,
+8 news or other similar public purpose.
+9 (f) As used in this section, "private place" means a place where one
+10 may reasonably expect to be safe from uninvited intrusion or surveillance.
+11 Sec. 4. K.S.A. 21-5510 and 21-5611 and K.S.A. 2024 Supp. 21-6101
+12 are hereby repealed.
+13 Sec. 5. This act shall take effect and be in force from and after its
+14 publication in the statute book.
+[DELETED: AN AT cg c, pt ad cl pigad mcvai0ie or gd wt ay al cd i1p2p3d425e7B8S950a1(2c3c4i5(6a7a8o910(1i]
+[DELETED: Ci(oep(g ay pe tt is sy ecbc0(1(2a3(4e5(6(7e8g9c0(1y2(3v4c5(6v7c8(9vn of cl sn to ct te ce of s0e1(2(3i4g5s6o7p8(" ms p, t, d9c, p, p, d, m, i0p1(2(3p]
+[DELETED: C(maf dk or ay or cr rd et or cgpp(p0a1(2v3o4t5l6( gd vl d" ms a v7d8s9v0h g1vl d" is ds tt ae oe a2i3o4(5d6b7p8p9a0t1(2v3v4S556k7o8t9(0i1(2c3n]
+[DELETED: C(o((t((((0(1c2(3i4(5(6(7c8(9t0pl m 1d2o3(4v5s6(7o8c9t0(1t2(3i4o5m ad sc ae fr te pe of s6s7(8g9t0(1n2t3t]
+[DELETED: Crr(deicaa0a1o2o3p4c5o6e7S8f9a0(1me by t, t, lr or or ms of p2c3(4e5m6m7m8(g wh it to ln sy to p9c0o1(2h3p4w5p6(7a8t9c0(g or ug a c, mn pe ca o1p2b3t]
+[DELETED: Cwoktr(p(g ay v, p, fm or ie oa0ed in sl a ad ur cs in w s1i2t, n h e , 3i4d5c6o7i8i9(0(n () th () is a cs A n1m2(3(4(5(6c7(8(9r0(1(2a3f4d5w6u7u8(9U0(1a2(3i]
+[DELETED: C((U(U(an(0m1S2a3S4p]
+
+
+================================================================================
+
+Raw Text:
+As Amended by Senate Committee
+{As Amended by House Committee of the Whole}
+As Amended by House Committee
+Session of 2025
+HOUSE BILL No. 2183
+By Committee on Judiciary
+Requested by Representative Barrett
+1-30
+1 AN ACT concerning crimes, punishment and criminal procedure;
+2 including any photograph, film, video picture, digital or computer-
+3 generated image or picture that has been created, altered or modified by
+4 artificial intelligence or any digital means in the definition of a visual
+5 depiction for certain criminal offenses; modifying elements in the
+6 crimes of sexual exploitation of a child, unlawful transmission of a
+7 visual depiction of a child and breach of privacy; prohibiting certain
+8 acts related to visual depictions in which the person depicted is
+9 indistinguishable from a real child, morphed from a real child's
+10 image or generated without any actual child involvement;
+11 providing an exception for cable services in the crime of breach of
+12 privacy; prohibiting dissemination of certain items that appear to
+13 depict or purport to depict an identifiable person; amending K.S.A.
+14 21-5510 and 21-5611 and K.S.A. 2024 Supp. 21-6101 and repealing the
+15 existing sections.
+16
+17 Be it enacted by the Legislature of the State of Kansas:
+18 Section 1. K.S.A. 21-5510 is hereby amended to read as follows: 21-
+19 5510. (a) Except as provided in K.S.A. 21-5610 and 21-5611, and
+20 amendments thereto, sexual exploitation of a child is:
+21 (1) Employing, using, persuading, inducing, enticing or coercing a
+22 child under 18 years of age, or a person whom the offender believes to be a
+23 child under 18 years of age, to engage in sexually explicit conduct with the
+24 intent to promote any performance;
+25 (2) (A) possessing any visual depiction of a child under 18 years of
+26 age shown or heard engaging in sexually explicit conduct with intent to
+27 arouse or satisfy the sexual desires or appeal to the prurient interest of the
+28 offender or any other person, regardless of whether an actual child under
+29 18 years of age was involved in the creation of the original image; or
+30 (B) possessing any artificially generated visual depiction with
+31 intent to arouse or satisfy the sexual desires or appeal to the prurient
+
+HB 2183—Am. by SC 2
+1 interest of the offender or any other person;
+2 (3) being a parent, guardian or other person having custody or control
+3 of a child under l8 years of age and knowingly permitting such child to
+4 engage in, or assist another to engage in, sexually explicit conduct for any
+5 purpose described in subsection (a)(1) or (2); or
+6 (4) promoting any performance that includes sexually explicit
+7 conduct by a child under 18 years of age, or a person whom the offender
+8 believes to be a child under 18 years of age, knowing the character and
+9 content of the performance.
+10 (b) (1) Sexual exploitation of a child as defined in:
+11 (A) Subsection (a)(2) or (a)(3) is a severity level 5, person felony;
+12 and
+13 (B) subsection (a)(1) or (a)(4) is a severity level 3, person felony,
+14 except as provided in subsection (b)(2).
+15 (2) Sexual exploitation of a child as defined in subsection (a)(1) or (a)
+16 (4) or attempt, conspiracy or criminal solicitation to commit sexual
+17 exploitation of a child as defined in subsection (a)(1) or (a)(4) is an off-
+18 grid person felony, when the offender is 18 years of age or older and the
+19 child is under 14 years of age.
+20 (c) If the offender is 18 years of age or older and the child is under 14
+21 years of age, the provisions of:
+22 (1) K.S.A. 21-5301(c), and amendments thereto, shall not apply to a
+23 violation of attempting to commit the crime of sexual exploitation of a
+24 child as defined in subsection (a)(1) or (a)(4);
+25 (2) K.S.A. 21-5302(d), and amendments thereto, shall not apply to a
+26 violation of conspiracy to commit the crime of sexual exploitation of a
+27 child as defined in subsection (a)(1) or (a)(4); and
+28 (3) K.S.A. 21-5303(d), and amendments thereto, shall not apply to a
+29 violation of criminal solicitation to commit the crime of sexual
+30 exploitation of a child as defined in subsection (a)(1) or (a)(4).
+31 (d) As used in this section:
+32 (1) "Sexually explicit conduct" means actual or simulated: Exhibition
+33 in the nude; sexual intercourse or sodomy, including genital-genital, oral-
+34 genital, anal-genital or oral-anal contact, whether between persons of the
+35 same or opposite sex; masturbation; sado-masochistic abuse with the intent
+36 of sexual stimulation; or lewd exhibition of the genitals, female breasts or
+37 pubic area of any person;
+38 (2) "promoting" means procuring, transmitting, distributing,
+39 circulating, presenting, producing, directing, manufacturing, issuing,
+40 publishing, displaying, exhibiting or advertising:
+41 (A) For pecuniary profit; or
+42 (B) with intent to arouse or gratify the sexual desire or appeal to the
+43 prurient interest of the offender or any other person;
+
+HB 2183—Am. by SC 3
+1 (3) "performance" means any film, photograph, negative, slide, book,
+2 magazine or other printed or visual medium, any audio tape recording or
+3 any photocopy, video tape, video laser disk, computer hardware, software,
+4 floppy disk or any other computer related equipment or computer
+5 generated image that contains or incorporates in any manner any film,
+6 photograph, negative, photocopy, video tape or video laser disk or any
+7 play or other live presentation;
+8 (4) "nude" means any state of undress in which the human genitals,
+9 pubic region, buttock or female breast, at a point below the top of the
+10 areola, is less than completely and opaquely covered;
+11 (5) "obscene" means a visual depiction or artificially generated
+12 visual depiction that, taken as a whole, appeals to the prurient interest
+13 of an average person, applying contemporary community standards,
+14 that is patently offensive and that, taken as a whole, lacks serious
+15 literary, artistic, political or scientific value;
+16 (6) "artificially generated visual depiction" means a visual
+17 depiction that is obscene and produced through the use of computer
+18 software, digital manipulation or other means that creates an image or
+19 video that appears to depict a child under 18 years of age shown or
+20 heard engaging in sexually explicit conduct. "Artificially generated
+21 visual depiction" includes depictions that are obscene and
+22 indistinguishable from a real child, morphed from a real child's image
+23 or generated without any actual child involvement; and
+24 (5)(7) "visual depiction" means any photograph, film, video picture,
+25 digital or computer-generated image or picture, whether made or produced
+26 by electronic, mechanical or other means. "Visual depiction" includes any
+27 photograph, film, video picture, digital or computer-generated image or
+28 picture that has been created, in whole or in part, altered or modified by
+29 artificial intelligence or any digital means to appear to depict or purport
+30 to depict a child engaging in sexually explicit conduct.
+31 (e) The provisions of this section shall not apply to possession of a
+32 visual depiction of a child in a state of nudity if the person possessing such
+33 visual depiction is the child who is the subject of such visual depiction.
+34 Sec. 2. K.S.A. 21-5611 is hereby amended to read as follows: 21-
+35 5611. (a) Unlawful transmission of a visual depiction of a child is
+36 knowingly transmitting a visual depiction of a {an identifiable} child 12
+37 or more years of age but less than 18 years of age in a state of nudity when
+38 the offender is less than 19 years of age.
+39 (b) Aggravated unlawful transmission of a visual depiction of a child
+40 is:
+41 (1) Knowingly transmitting a visual depiction of a {an identifiable}
+42 child 12 or more years of age but less than 18 years of age in a state of
+43 nudity:
+
+HB 2183—Am. by SC 4
+1 (A) With the intent to harass, embarrass, intimidate, defame or
+2 otherwise inflict emotional, psychological or physical harm;
+3 (B) for pecuniary or tangible gain; or
+4 (C) with the intent to exhibit or transmit such visual depiction to more
+5 than one person; and
+6 (2) when the offender is less than 19 years of age.
+7 (c) (1) Unlawful transmission of a visual depiction of a child is a:
+8 (A) Class A person misdemeanor, except as provided in subsection (c)
+9 (1)(B); and
+10 (B) severity level 10, person felony upon a second or subsequent
+11 conviction.
+12 (2) Aggravated unlawful transmission of a visual depiction of a child
+13 is a:
+14 (A) Severity level 9, person felony, except as provided in subsection
+15 (c)(2)(B); and
+16 (B) severity level 7, person felony upon a second or subsequent
+17 conviction.
+18 (d) It shall be a rebuttable presumption that an offender had the intent
+19 to harass, embarrass, intimidate, defame or otherwise inflict emotional,
+20 psychological or physical harm if the offender transmitted a visual
+21 depiction of a person other than such child in a state of nudity to more than
+22 one person.
+23 (e) The provisions of this section shall not apply to transmission of a
+24 visual depiction of a child in a state of nudity by the child who is the
+25 subject of such visual depiction.
+26 (f) The provisions of this section shall not apply to a visual depiction
+27 of a child engaged in sexually explicit conduct or a visual depiction that
+28 constitutes obscenity as defined in K.S.A. 21-6401(f)(1), and amendments
+29 thereto.
+30 (g) As used in this section and K.S.A. 21-5610, and amendments
+31 thereto:
+32 (1) "Sexually explicit conduct" means actual or simulated: Sexual
+33 intercourse or sodomy, including genital-genital, oral-genital, anal-genital
+34 or oral-anal contact, whether between persons of the same or opposite sex;
+35 masturbation and sado-masochistic abuse for the purpose of sexual
+36 stimulation;
+37 (2) "state of nudity" means any state of undress in which the human
+38 genitals, pubic region, buttock or female breast, at a point below the top of
+39 the areola, is less than completely and opaquely covered;
+40 (3) "transmission" means any form of communication, including, but
+41 not limited to, physical transmission of paper and electronic transmission
+42 that creates a record that may be retained and reviewed by a recipient
+43 thereof, and that may be directly reproduced in paper form by such a
+
+HB 2183—Am. by SC 5
+1 recipient through an automated process. Transmission also includes a
+2 request to receive a transmission of a visual depiction; and
+3 (4) "visual depiction" means any photograph, film, video picture,
+4 digital or computer-generated image or picture made or produced by
+5 electronic, mechanical or other means, including, but not limited to, such
+6 items in which the person depicted is indistinguishable from a real
+7 child, morphed from a real child's image or generated without any
+8 actual child involvement {any such item created, in whole or in part,
+9 altered or modified by artificial intelligence or any digital means to
+10 appear to depict or purport to depict an identifiable child, regardless
+11 of whether such identifiable child was involved in the creation of the
+12 original image}. "Visual depiction" includes any photograph, film, video
+13 picture, digital or computer-generated image or picture that has been
+14 created, in whole or in part, altered or modified by artificial intelligence
+15 or any digital means to appear to depict or purport to depict a child
+16 engaging in sexually explicit conduct.
+17 Sec. 3. K.S.A. 2024 Supp. 21-6101 is hereby amended to read as
+18 follows: 21-6101. (a) Breach of privacy is knowingly and without lawful
+19 authority:
+20 (1) Intercepting, without the consent of the sender or receiver, a
+21 message by telephone, telegraph, letter or other means of private
+22 communication;
+23 (2) divulging, without the consent of the sender or receiver, the
+24 existence or contents of such message if such person knows that the
+25 message was illegally intercepted, or if such person illegally learned of the
+26 message in the course of employment with an agency in transmitting such
+27 message;
+28 (3) entering with intent to listen surreptitiously to private
+29 conversations in a private place or to observe the personal conduct of any
+30 other person or persons entitled to privacy therein;
+31 (4) installing or using outside or inside a private place any device for
+32 hearing, recording, amplifying or broadcasting sounds originating in such
+33 place, which sounds would not ordinarily be audible or comprehensible
+34 without the use of such device, without the consent of the person or
+35 persons entitled to privacy therein;
+36 (5) installing or using any device or equipment for the interception of
+37 any telephone, telegraph or other wire or wireless communication without
+38 the consent of the person in possession or control of the facilities for such
+39 communication;
+40 (6) installing or using a camcorder, motion picture camera or
+41 photographic camera of any type to videotape, film, photograph or record,
+42 by electronic or other means, another identifiable person under or through
+43 the clothing being worn by that other person or another identifiable person
+
+HB 2183—Am. by SC 6
+1 who is nude or in a state of undress, for the purpose of viewing the body
+2 of, or the undergarments worn by, that other person, without the consent or
+3 knowledge of that other person, with the intent to invade the privacy of
+4 that other person, under circumstances in which that other person has a
+5 reasonable expectation of privacy;
+6 (7) disseminating or permitting the dissemination of any videotape,
+7 photograph, film or image obtained in violation of subsection (a)(6); or
+8 (8) disseminating any videotape, photograph, film or image of
+9 another identifiable person 18 years of age or older who is nude or
+10 engaged in sexual activity and under circumstances in which such
+11 identifiable person had a reasonable expectation of privacy, with the intent
+12 to harass, threaten or intimidate such identifiable person, and such
+13 identifiable person did not consent to such dissemination. This includes
+14 disseminating any videotape, photograph, film or image that has been
+15 created, in whole or in part, altered or modified by artificial intelligence
+16 or any digital means to appear to depict or purport to depict such
+17 identifiable person, regardless of whether such identifiable person was
+18 involved in the creation of the original image.
+19 (b) Breach of privacy as defined in:
+20 (1) Subsection (a)(1) through (a)(5) is a class A nonperson
+21 misdemeanor;
+22 (2) subsection (a)(6) or (a)(8) is a:
+23 (A) Severity level 8, person felony, except as provided in subsection
+24 (b)(2)(B); and
+25 (B) severity level 5, person felony upon a second or subsequent
+26 conviction within the previous five years; and
+27 (3) subsection (a)(7) is a severity level 5, person felony.
+28 (c) Subsection (a)(1) shall not apply to messages overheard through a
+29 regularly installed instrument on a telephone party line or on an extension.
+30 (d) The provisions of this section shall not apply to:
+31 (1) An operator of a switchboard, or any officer, employee or agent of
+32 any public utility providing telephone communications service, whose
+33 facilities are used in the transmission of a communication, to intercept,
+34 disclose or use that communication in the normal course of employment
+35 while engaged in any activity which is incident to the rendition of public
+36 utility service or to the protection of the rights of property of such public
+37 utility;
+38 (2) a provider of an interactive computer service, as defined in 47
+39 U.S.C. § 230, for content provided by another person;
+40 (3) a radio common carrier, as defined in K.S.A. 66-1,143, and
+41 amendments thereto; and
+42 (4) a local exchange carrier or telecommunications carrier as defined
+43 in K.S.A. 66-1,187, and amendments thereto; and
+
+HB 2183—Am. by SC 7
+1 (5) a cable service, as defined in 47 U.S.C. § 522;
+2 (6) a provider of direct-to-home satellite services, as defined in 47
+3 U.S.C. § 303(v); and
+4 (7) a multichannel video programming distributor, as defined in 47
+5 U.S.C. § 522(13), or an affiliate thereof.
+6 (e) The provisions of subsection (a)(8) shall not apply to a person
+7 acting with a bona fide and lawful scientific, educational, governmental,
+8 news or other similar public purpose.
+9 (f) As used in this section, "private place" means a place where one
+10 may reasonably expect to be safe from uninvited intrusion or surveillance.
+11 Sec. 4. K.S.A. 21-5510 and 21-5611 and K.S.A. 2024 Supp. 21-6101
+12 are hereby repealed.
+13 Sec. 5. This act shall take effect and be in force from and after its
+14 publication in the statute book.
+
+[DELETED: AN AT cg c, pt ad cl pigad mcvai0ie or gd wt ay al cd i1p2p3d425e7B8S950a1(2c3c4i5(6a7a8o910(1i]
+[DELETED: Ci(oep(g ay pe tt is sy ecbc0(1(2a3(4e5(6(7e8g9c0(1y2(3v4c5(6v7c8(9vn of cl sn to ct te ce of s0e1(2(3i4g5s6o7p8(" ms p, t, d9c, p, p, d, m, i0p1(2(3p]
+[DELETED: C(maf dk or ay or cr rd et or cgpp(p0a1(2v3o4t5l6( gd vl d" ms a v7d8s9v0h g1vl d" is ds tt ae oe a2i3o4(5d6b7p8p9a0t1(2v3v4S556k7o8t9(0i1(2c3n]
+[DELETED: C(o((t((((0(1c2(3i4(5(6(7c8(9t0pl m 1d2o3(4v5s6(7o8c9t0(1t2(3i4o5m ad sc ae fr te pe of s6s7(8g9t0(1n2t3t]
+[DELETED: Crr(deicaa0a1o2o3p4c5o6e7S8f9a0(1me by t, t, lr or or ms of p2c3(4e5m6m7m8(g wh it to ln sy to p9c0o1(2h3p4w5p6(7a8t9c0(g or ug a c, mn pe ca o1p2b3t]
+[DELETED: Cwoktr(p(g ay v, p, fm or ie oa0ed in sl a ad ur cs in w s1i2t, n h e , 3i4d5c6o7i8i9(0(n () th () is a cs A n1m2(3(4(5(6c7(8(9r0(1(2a3f4d5w6u7u8(9U0(1a2(3i]
+[DELETED: C((U(U(an(0m1S2a3S4p]

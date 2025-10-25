@@ -1,0 +1,1242 @@
+Title: SENATE BILL No. 260
+Official Title: SENATE BILL No. 260
+Number of Sections: 1
+Source: versions - As Amended by Senate Committee
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+As Amended by Senate Committee
+Session of 2025
+By Committee on Ways and Means
+2-11
+1 AN ACT concerning parimutuel wagering; relating to the Kansas
+2 parimutuel racing act; modifying the qualifications for an organization
+3 license; redefining horesemen's associations and horsemen's nonprofit
+4 organizations; changing the distribution of certain tax revenues;
+5 amending K.S.A. 74-8815, 74-8826, 74-8829 and 74-8838 and K.S.A.
+6 2024 Supp. 74-8802 and 74-8814 and repealing the existing sections.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 Section 1. K.S.A. 2024 Supp. 74-8802 is hereby amended to read as
+10 follows: 74-8802. As used in the Kansas parimutuel racing act unless the
+11 context otherwise requires:
+12 (a) "Breakage" means the odd cents by which the amount payable on
+13 each dollar wagered exceeds:
+14 (1) A multiple of $.10, for parimutuel pools from races conducted in
+15 this state; and
+16 (2) a multiple of such other number of cents as provided by law of the
+17 host jurisdiction, for interstate combined wagering pools.
+18 (b) "Commission" means the Kansas racing and gaming commission
+19 created by this act.
+20 (c) "Concessionaire licensee" means a person, partnership,
+21 corporation or association licensed by the commission to utilize a space or
+22 privilege within a racetrack facility to sell goods or services.
+23 (d) "Contract" means an agreement, written or oral, between two or
+24 more persons, partnerships, corporations or associations, or any
+25 combination thereof that creates an obligation between the parties.
+26 (e) "Crossover employment" means a situation in which an
+27 occupational licensee is concurrently employed at the same racing facility
+28 by an organization licensee and a facility owner licensee or facility
+29 manager licensee.
+30 (f) "Dual racetrack facility" means a racetrack facility for the racing
+31 of both horses and greyhounds or two immediately adjacent racetrack
+32 facilities, owned by the same licensee, one for racing horses and one for
+33 racing greyhounds.
+34 (g) "Employee" means a person who has applied for a position of
+35 employment or is currently employed by the commission.
+36 (h) "Executive director" means the executive director of the
+SB 260—Am. by SC 2
+1 commission.
+2 (i) "Facility manager licensee" means a person, partnership,
+3 corporation or association licensed by the commission and having a
+4 contract with an organization licensee to manage a racetrack facility
+5 located in Sedgwick county.
+6 (j) "Facility owner licensee" means a person, partnership, corporation
+7 or association, or the state of Kansas or any political subdivision thereof,
+8 licensed by the commission to construct or own a racetrack facility located
+9 in Sedgwick county. "Facility owner licensee" does not mean an
+10 organization licensee that owns the racetrack facility in which it conducts
+11 horse or greyhound racing.
+12 (k) "Fair association" means an association organized pursuant to
+13 K.S.A. 2-125 et seq., and amendments thereto or a nonprofit association
+14 determined by the commission to be otherwise organized to conduct fair
+15 activities pursuant to findings of fact entered by the commission in a
+16 license order.
+17 (l) "Financial interest" means an interest that could result directly or
+18 indirectly in receiving a pecuniary gain or sustaining a pecuniary loss as a
+19 result of ownership or interest in a business entity or activity or as a result
+20 of a salary, gratuity or other compensation or remuneration from any
+21 person.
+22 (m) "Greyhound" means any greyhound breed of dog properly
+23 registered with the national greyhound association of Abilene, Kansas.
+24 (n) "Historical horse race machine" means any electronic,
+25 electromechanical, video or computerized device, contrivance or machine
+26 authorized by the commission that, upon insertion of cash, tokens,
+27 electronic cards or any consideration, is available to accept wagers on and
+28 simulate the running of historical horse races, and that may deliver or
+29 entitle the patron operating the machine to receive cash, tokens,
+30 merchandise or credits that may be redeemed for cash. Historical horse
+31 race machines shall use historically accurate information of the horse race
+32 selected to determine the place of finish of each horse. No random number
+33 generator or other algorithm shall be used for determining the results of an
+34 historical horse race. Historical horse race machines shall be directly
+35 linked to a central computer at a location determined by the commission
+36 for purposes of security, monitoring and auditing.
+37 (o) "Horsemen's association" means any association or corporation:
+38 (1) All officers, directors, members and shareholders of which are
+39 licensed owners of horses or licensed trainers of horses, or both;
+40 (2) applying for or has been issued a facility owner license
+41 authorizing ownership of Eureka Downs, Anthony Downs or a racetrack
+42 facility on or adjacent to premises used by a fair association to conduct fair
+43 activities; and
+SB 260—Am. by SC 3
+1 (3) none of the officers, directors, members or shareholders of which
+2 holds another facility owner license or is an officer, director, member or
+3 shareholder of another facility owner licensee.
+4 (p) "Horsemen's nonprofit organization" means any nonprofit
+5 organization:
+6 (1) All officers, directors, members or shareholders of which are
+7 licensed owners of horses or licensed trainers of horses, or both; and
+8 (2) applying for or has been issued an organization license
+9 authorizing the conduct of horse races at Eureka Downs, Anthony Downs
+10 or a racetrack facility on or adjacent to premises used by a fair association
+11 to conduct fair activities.
+12 (q) "Host facility" means the racetrack at which the race is run or, if
+13 the race is run in a jurisdiction that is not participating in the interstate
+14 combined wagering pool, the racetrack or other facility that is designated
+15 as the host facility.
+16 (r) "Host jurisdiction" means the jurisdiction where the host facility is
+17 located.
+18 (s) "Interstate combined wagering pool" means a parimutuel pool
+19 established in one jurisdiction that is combined with comparable
+20 parimutuel pools from one or more racing jurisdictions for the purpose of
+21 establishing the amount of money returned on a successful wager in the
+22 participating jurisdictions.
+23 (t) "Intertrack wagering" means wagering on a simulcast race at a
+24 licensed racetrack facility or at a facility that is licensed in its racing
+25 jurisdiction to conduct live races.
+26 (u) "Intrastate combined wagering pool" means a parimutuel pool that
+27 is combined with comparable parimutuel pools from one or more racetrack
+28 facilities for the purpose of establishing the amount of money returned on
+29 a successful wager at the participating racetrack facilities.
+30 (v) "Kansas-whelped greyhound" means a greyhound whelped and
+31 raised in Kansas for the first six months of its life.
+32 (w) "Licensee" means a person who has submitted an application for
+33 licesure or currently holds a license issued by the commission.
+34 (x) "Minus pool" means a parimutuel pool in which, after deducting
+35 the takeout, not enough money remains in the pool to pay the legally
+36 prescribed minimum return to those placing winning wagers, and in which
+37 the organization licensee would be required to pay the remaining amount
+38 due.
+39 (y) "Nonprofit organization" means:
+40 (1) A corporation that is incorporated in Kansas as a not-for-profit
+41 corporation pursuant to the Kansas general corporation code and the net
+42 earnings of which do not inure to the benefit of any shareholder, individual
+43 member or person; or
+SB 260—Am. by SC 4
+1 (2) a fair association.
+2 (z) "Occupation licensee" means a person licensed by the commission
+3 to perform an occupation or provide services that the commission has
+4 identified as requiring a license pursuant to this act.
+5 (aa) "Off-track wagering" means wagering on a simulcast race at a
+6 facility that is not licensed in its jurisdiction to conduct live races.
+7 (bb) "Organization licensee" means a nonprofit organization licensed
+8 by the commission to conduct races pursuant to this act and, if the license
+9 so provides, to construct or own a racetrack facility.
+10 (cc) "Parimutuel pool" means the total money wagered by individuals
+11 on one or more horses or greyhounds in a particular horse or greyhound
+12 race to win, place or show, or combinations thereof, as established by the
+13 commission, and, except in the case of an interstate or intrastate combined
+14 wagering pool, held by the organization licensee pursuant to the
+15 parimutuel system of wagering. There is a separate parimutuel pool for
+16 win, for place, for show and for each of the other forms of betting
+17 provided for by the rules and regulations of the commission.
+18 (dd) "Parimutuel wagering" means a form of wagering on the
+19 outcome of horse and greyhound races, including historical horse races
+20 conducted by an historical horse race machine, in which those who wager
+21 purchase tickets of various denominations on one or more horses or
+22 greyhounds and all wagers for each race are pooled and the winning ticket
+23 holders are paid prizes from such pool in amounts proportional to the total
+24 receipts in the pool.
+25 (ee) "Race meeting" means one or more periods of racing days during
+26 a calendar year designated by the commission for which an organization
+27 licensee has been approved by the commission to hold live horse or
+28 greyhound races or simulcast horse races at which parimutuel wagering is
+29 conducted, including such additional time as designated by the
+30 commission for the conduct of official business before and after the races.
+31 (ff) "Racetrack facility" means a racetrack within Kansas used for the
+32 racing of horses or greyhounds, or both, including the track surface,
+33 grandstands, clubhouse, all animal housing and handling areas, other areas
+34 in which a person may enter only upon payment of an admission fee or
+35 upon presentation of authorized credentials and such additional areas as
+36 designated by the commission. The term "racetrack facility" includes a
+37 facility used for the display of and wagering on simulcast races and the
+38 operation of historical horse race machines without any live horse or
+39 greyhound races being conducted.
+40 (gg) "Racing jurisdiction" or "jurisdiction" means a governmental
+41 authority that is responsible for the regulation of live or simulcast racing in
+42 its jurisdiction.
+43 (hh) "Racing or wagering equipment or services licensee" means any
+SB 260—Am. by SC 5
+1 person, partnership, corporation or association licensed by the commission
+2 to provide integral racing or wagering equipment or services, as designated
+3 by the commission, to an organization licensee.
+4 (ii) "Recognized greyhound owners' group" means the duly
+5 recognized group elected in accordance with rules and regulations of the
+6 commission by a majority of the Kansas licensed greyhound owners at the
+7 racetrack facility voting in the election. The commission may designate an
+8 organization such as the national greyhound association of Abilene,
+9 Kansas, to conduct the election.
+10 (jj) "Recognized horsemen's group" means the duly recognized
+11 group, representing the breeds of horses running at a racetrack facility,
+12 elected in accordance with rules and regulations of the commission by a
+13 majority of the licensed owners and trainers at the racetrack facility voting
+14 in the election. If the licensee does not have a recognized horsemen's
+15 group, the commission shall designate as the recognized horsemen's group
+16 one that serves another organization licensee, but not one that serves a fair
+17 association organization licensee.
+18 (kk) "Simulcast" means a live audio-visual broadcast of an actual
+19 horse race at the time it is run.
+20 (ll) "Takeout" means the total amount of money withheld from each
+21 parimutuel pool for the payment of purses, taxes and the share to be kept
+22 by the organization licensee. Takeout does not include the breakage. The
+23 balance of each pool less the breakage is distributed to the holders of
+24 winning parimutuel tickets.
+25 Sec. 2. K.S.A. 2024 Supp. 74-8814 is hereby amended to read as
+26 follows: 74-8814. (a) (1) Subject to the provisions of subsection (b), the
+27 commission shall establish by rules and regulations an application fee not
+28 exceeding $50 for an organization license and a license fee of $25 for each
+29 day of racing approved by the commission for any organization granted an
+30 organization license.
+31 (2) Subject to paragraphs (3) and (4), any fair association,
+32 horsemen's nonprofit organization or the national greyhound association of
+33 Abilene, Kansas, may apply for an organization license if:
+34 (A) Such organization conducts not more than two race meetings
+35 each year; and
+36 (B) such race meets are held within the boundaries of the county
+37 where the applicant is located; and
+38 (C) such race meetings are held for a total of not more than 40 days
+39 per year.
+40 (3) If the applicant is a fair association intending to conduct live
+41 horse racing, then, along with an application for an organization license,
+42 such applicant shall submit documentation demonstrating such applicant
+43 is approved for such license by:
+SB 260—Am. by SC 6
+1 (A) The Kansas quarter horse racing association and the Kansas
+2 thoroughbred association; or
+3 (B) a horsemen's nonprofit organization.
+4 (4) If the applicant is a horsemen's nonprofit organization and:
+5 (A) Intending to conduct live horse racing, such applicant shall not
+6 conduct live horse racing prior to March 1, 2028, unless such licensee
+7 intends to conduct such races at Eureka Downs; and
+8 (B) such applicant shall not operate historical horse race machines.
+9 (b) The commission shall adopt rules and regulations providing for
+10 simplified and less costly procedures and requirements for fair associations
+11 and horsemen's nonprofit organizations applying for or holding a license to
+12 conduct race meetings.
+13 (c) The Kansas racing and gaming commission shall investigate:
+14 (1) The president, vice-president vice president, secretary and
+15 treasurer of a fair association, and such other members as the commission
+16 considers necessary, to determine eligibility for an organization license;
+17 (2) each officer and each director of a nonprofit horsemen's nonprofit
+18 organization, and such other members or shareholders as the commission
+19 considers necessary to determine eligibility for an organization license.
+20 (d) Except as otherwise provided by this section, all applicants for
+21 organization licenses for the conduct of race meetings pursuant to the
+22 provisions of this section shall be required to comply with all the
+23 provisions of K.S.A. 74-8813, and amendments thereto.
+24 Sec. 3. K.S.A. 74-8815 is hereby amended to read as follows: 74-
+25 8815. (a) Any person, partnership, corporation or association, or the
+26 state of Kansas or any political subdivision thereof, may apply to the
+27 commission for a facility owner license to construct or own, or both, a
+28 racetrack facility which that includes a racetrack and other areas
+29 designed for horse racing or greyhound racing, or both.
+30 (b) Any person, partnership, corporation or association may apply
+31 to the commission for a facility manager license to manage a racetrack
+32 facility.
+33 (c) A facility owner license or a facility manager license shall be
+34 issued for a period established by the commission but not to exceed 25
+35 years. The application for a facility owner license shall be accompanied
+36 by a nonrefundable fee of $5,000. An application for a facility manager
+37 license shall be accompanied by a nonrefundable fee of $5,000. If the
+38 application fee is insufficient to pay the reasonable expenses of
+39 processing the application and investigating the applicant's
+40 qualifications for licensure, the commission shall require the applicant
+41 to pay to the commission, at such times and in such form as required by
+42 the commission, any additional amounts necessary to pay such expenses.
+43 No license shall be issued to an applicant until the applicant has paid
+SB 260—Am. by SC 7
+1 such additional amounts in full, and such amounts shall not be
+2 refundable except to the extent that they exceed the actual expenses of
+3 processing the application and investigating the applicant's
+4 qualifications for licensure.
+5 (d) If an applicant for a facility owner license is proposing to
+6 construct a racetrack facility, such applicant, at the time of submitting
+7 the application, shall deposit with the commission, in such form as
+8 prescribed by rules and regulations of the commission, the sum of: (1)
+9 $500,000, if the number of racing days applied for by organization
+10 licensee applicants proposing to race at the facility is 150 days or more
+11 in a racing season; (2) $250,000, if such number of racing days applied
+12 for is less than 150 days; or (3) a lesser sum established by the
+13 commission, if the applicant is the state or a political subdivision of the
+14 state. Only one such deposit shall be required for a dual racetrack
+15 facility. The executive director shall remit any deposit received pursuant
+16 to this subsection to the state treasurer in accordance with the provisions
+17 of K.S.A. 75-4215, and amendments thereto. Upon receipt of each such
+18 remittance, the state treasurer shall deposit the entire amount in the
+19 state treasury to the credit of the racing applicant deposit fund created
+20 by K.S.A. 74-8828, and amendments thereto. If the application is denied
+21 by the commission, the deposit, and any interest accrued thereon, shall
+22 be refunded to the applicant. If the license is granted by the commission
+23 in accordance with the terms of the application or other terms
+24 satisfactory to the applicant, the deposit, and any interest accrued
+25 thereon, shall be refunded to the licensee upon completion of the
+26 racetrack facility in accordance with the terms of the license. If the
+27 licensee fails to complete the racetrack facility in accordance with the
+28 terms of the license, the deposit, and any interest accrued thereon, shall
+29 be forfeited by the applicant.
+30 (e) A facility owner license shall be granted only to an applicant
+31 that already owns an existing racetrack facility or has submitted with its
+32 application detailed plans for the construction of such facility, including
+33 the means and source of financing such construction and operation
+34 sufficient to convince the commission that such plans are feasible. A
+35 facility manager license shall be granted only to an applicant that has a
+36 facility management contract with an organization licensed pursuant to
+37 K.S.A. 74-8813, and amendments thereto.
+38 (f) An applicant for a facility owner license or facility manager
+39 license, or both, shall not be granted a license if there is substantial
+40 evidence that the applicant for the license, or any officer or director,
+41 stockholder, member or owner of or other person having a financial
+42 interest in the applicant:
+43 (1) Has been suspended or ordered to cease operation of a
+SB 260—Am. by SC 8
+1 parimutuel racing facility in another jurisdiction by the appropriate
+2 authorities in that jurisdiction, has been ordered to cease association or
+3 affiliation with such a racing facility or has been banned from such a
+4 racing facility;
+5 (2) has been convicted by a court of any state or of the United
+6 States of any criminal act involving fixing or manipulation of
+7 parimutuel races, violation of any law involving gambling or controlled
+8 substances or drug violations involving horses or greyhounds, or has
+9 been adjudicated in the last five years in any such court of committing
+10 as a juvenile an act which, if committed by an adult, would constitute
+11 such a criminal act, or if any employee or agent assisting the applicant
+12 in activities relating to ownership or management of a racetrack facility
+13 or to the conduct of races has been so convicted or adjudicated;
+14 (3) has been convicted by a court of any state or of the United
+15 States of any felony involving dishonesty, fraud, theft, counterfeiting,
+16 alcohol violations or embezzlement, or has been adjudicated in the last
+17 five years in any such court of committing as a juvenile an act which, if
+18 committed by an adult, would constitute such a felony, or if any
+19 employee or agent assisting the applicant in activities relating to
+20 ownership or management of a racetrack facility or to the conduct of
+21 races has been so convicted or adjudicated;
+22 (4) has not demonstrated financial responsibility sufficient to meet
+23 the obligations being undertaken pursuant to its contract with the
+24 organization licensee;
+25 (5) is not in fact the person or entity authorized to or engaged in the
+26 licensed activity;
+27 (6) is or becomes subject to a contract or option to purchase under
+28 which 10% or more of the ownership or other financial interest or
+29 membership interest are subject to purchase or transfer, unless the
+30 contract or option has been disclosed to the commission and the
+31 commission has approved the sale or transfer during the license period;
+32 (7) has made a statement of a material fact in the application or
+33 otherwise in response to official inquiry by the commission knowing
+34 such statement to be false; or
+35 (8) has failed to meet any monetary or tax obligation to the federal
+36 government or to any state or local government, whether or not relating
+37 to the conduct or operation of a race meet held in this state or any other
+38 jurisdiction.
+39 (g) No person or entity shall be qualified to hold a facility manager
+40 license if such person or entity, or any director, officer, employee or
+41 agent thereof, is addicted to, and a user of, alcohol or a controlled
+42 substance.
+43 (h) If the applicant for a facility owner license or facility manager
+SB 260—Am. by SC 9
+1 license is a horsemen's association, such applicant shall not operate
+2 historical horse race machines at such racetrack facility.
+3 (i) All facility owner licenses and facility manager licenses shall be
+4 reviewed annually by the commission to determine if the licensee is
+5 complying with the provisions of this act and rules and regulations of
+6 the commission and following such proposed plans and operating
+7 procedures as were approved by the commission. The commission may
+8 review a facility owner license or facility manager license more often
+9 than annually upon its own initiative or upon the request of any
+10 interested party. The commission shall require each facility owner
+11 licensee and each facility manager licensee to file annually with the
+12 commission a certified financial audit of the licensee by an independent
+13 certified public accountant, which audit shall be open to inspection by
+14 the public, and may require any such licensee to provide any other
+15 information necessary for the commission to conduct the annual or
+16 periodic review.
+17 (i)(j) Subject to the provisions of subsection (j) (k), the commission,
+18 in accordance with the Kansas administrative procedure act, may
+19 suspend or revoke a facility owner or facility manager license or may
+20 impose a civil fine not exceeding $10,000 per failure or violation, or may
+21 both suspend such license and impose such fine, if the commission finds
+22 probable cause to believe that:
+23 (1) In the case of a facility owner licensee, the licensee has failed to
+24 follow one or more provisions of the licensee's plans for the financing,
+25 construction or operation of a racetrack facility as submitted to and
+26 approved by the commission; or
+27 (2) in the case of either a facility owner licensee or facility manager
+28 licensee, the licensee has violated any of the terms and conditions of
+29 licensure provided by this section or any other provision of this act or
+30 any rule and regulation of the commission.
+31 (j)(k) Prior to suspension or revocation of a license pursuant to
+32 subsection (i)(j), the commission shall give written notice of the reason
+33 therefor to the licensee and all other interested parties. The licensee
+34 shall have 30 days from receipt of the notice to cure the alleged failure
+35 or violation, if it can be cured. If the commission finds that the failure or
+36 violation has not been cured upon expiration of the 30 days or upon a
+37 later deadline granted by the commission, or if the alleged violation is of
+38 such a nature that it cannot be cured, the commission may proceed to
+39 suspend or revoke the licensee's license pursuant to subsection (i) (j).
+40 Nothing in this subsection shall be construed to preclude the
+41 commission from imposing a fine pursuant to subsection (i) (j) even if
+42 the violation is cured within 30 days or such other period as provided by
+43 the commission.
+SB 260—Am. by SC 10
+1 (k)(l) If an applicant for a facility owner license proposes to
+2 construct a racetrack facility and the commission determines that such
+3 license should be issued to the applicant, the commission shall issue to
+4 the applicant a facility owner license conditioned on the submission by
+5 the licensee to the commission, within a period of time prescribed by the
+6 commission, of a commitment for financing the construction of the
+7 racetrack facility by a financial institution or other source, subject to
+8 approval by the commission. If such commitment is not submitted within
+9 the period of time originally prescribed by the commission or such
+10 additional time as authorized by the commission, the license shall expire
+11 at the end of such period.
+12 (l)(m) If a facility owner licensee's license authorizes the
+13 construction of a dual racetrack facility, such license shall be
+14 conditioned on the completion of such facility within a time specified by
+15 the commission. If, within the time specified by the commission, the
+16 licensee has not constructed a dual racetrack facility in accordance with
+17 the plans submitted to the commission pursuant to subsection (e), the
+18 commission, in accordance with the Kansas administrative procedure
+19 act, shall:
+20 (1) Impose upon the licensee a civil fine equal to 5% of the total
+21 parimutuel pools for all races held at the licensee's facility on and after
+22 the date that racing with parimutuel wagering is first conducted at such
+23 facility and until the date that construction of the dual racetrack facility
+24 is completed and horse racing has begun; and
+25 (2) revoke the licensee's license unless the licensee demonstrates
+26 reasonable cause for the failure to complete the facility.
+27 (m)(n) The refusal to renew a facility owner license or a facility
+28 manager license shall be in accordance with the Kansas administrative
+29 procedure act and shall be subject to review under the Kansas judicial
+30 review act.
+31 (n)(o) The grant or denial of an original facility owner license or
+32 facility manager license shall not be subject to the Kansas administrative
+33 procedure act. Such grant or denial shall be a matter to be determined in
+34 the sole discretion of the commission, whose decision shall be final upon
+35 the grant of a license to one of two or more competing applicants
+36 without the necessity of a hearing on the denial of a license to each
+37 other competing applicant. Any action for judicial review of such
+38 decision shall be by appeal to the supreme court in accordance with the
+39 Kansas judicial review act, except that the scope of review shall be
+40 limited to whether the action of the commission was arbitrary or
+41 capricious or constituted an abuse of discretion. All competing
+42 applicants for the facility owner license or facility manager license shall
+43 be parties to such appeal. Any such appeal shall have priority over other
+SB 260—Am. by SC 11
+1 cases except those having statutory priority.
+2 (o)(p) The commission may adopt rules and regulations regulating
+3 crossover employment between facility manager licensees and facility
+4 owner licensees and organization licensees.
+5 Sec. 3. 4. K.S.A. 74-8826 is hereby amended to read as follows: 74-
+6 8826. (a) There is hereby created the state racing fund in the state treasury.
+7 (b) Except as otherwise provided by K.S.A. 74-8824 and 74-8835,
+8 and amendments thereto, all taxes on parimutuel wagering, admissions tax,
+9 application fees, license fees and fines which that are collected by the
+10 commission shall be remitted to the state treasurer in accordance with the
+11 provisions of K.S.A. 75-4215, and amendments thereto. Upon receipt of
+12 each such remittance, the state treasurer shall deposit the entire amount in
+13 the state treasury to the credit of the state racing fund. All moneys credited
+14 to such fund shall be expended or transferred only for the purposes and in
+15 the manner provided by this act. Expenditures from such fund shall be
+16 made in accordance with appropriation acts upon warrants of the director
+17 of accounts and reports issued pursuant to vouchers approved by the
+18 chairperson of the commission or a person designated by the chairperson.
+19 (c) Except as otherwise provided by this act, all operating expenses of
+20 the commission and moneys for the promotion of horse and greyhound
+21 racing appropriated by the legislature shall be paid from the state racing
+22 fund. On January 15, 1990, and on the 15th day of each month thereafter,
+23 and at such other times as provided by law, the director of accounts and
+24 reports shall transfer to the state gaming revenues fund created by K.S.A.
+25 79-4801, and amendments thereto, any moneys in the state racing fund on
+26 each such date in excess of the amount required for operating
+27 expenditures, transfers made pursuant to subsection (d) and an adequate
+28 fund balance, taking into consideration encumbrances, anticipated
+29 revenues, revenue and expenditure experience to date and other relevant
+30 factors, as determined by the executive director and the director of
+31 accounts and reports.
+32 (d) (1) On or before July 15, 2025, and on the 15th day of each month
+33 thereafter, of the moneys in the state racing fund in excess of the amount
+34 required for operating expenditures of the commission, 30% of such
+35 moneys credited to the state racing fund from tax revenues collected on
+36 wagers on historical horse races pursuant to K.S.A. 74-8823(a)(5), and
+37 amendments thereto, shall be transferred by the director of accounts and
+38 reports from the state racing fund to the Kansas horse breeding
+39 development fund established in K.S.A. 74-8829, and amendments thereto.
+40 (2) On or before July 15, 2025, and on the 15th day of each month
+41 thereafter, of the moneys in the state racing fund in excess of the amount
+42 required for operating expenditures of the commission, 70% of such
+43 moneys credited to the state racing fund from tax revenues collected on
+SB 260—Am. by SC 12
+1 wagers on historical horse races pursuant to K.S.A. 74-8823(a)(5), and
+2 amendments thereto, shall be transferred by the director of accounts and
+3 reports from the state racing fund to the horse fair racing benefit fund
+4 established in K.S.A. 74-8838, and amendments thereto.
+5 (e) Any appropriation or transfer of state general fund moneys for the
+6 operation of the commission or the office of the executive director and any
+7 other expenses incurred in connection with the administration and
+8 enforcement of this act shall be considered a loan and shall be repaid with
+9 interest to the state general fund in accordance with appropriation acts.
+10 Such loan shall not be considered an indebtedness or debt of the state
+11 within the meaning of section 6 of article 11 of the constitution of the state
+12 of Kansas. Such loan shall bear interest at a rate equal to the rate
+13 prescribed by K.S.A. 75-4210, and amendments thereto, for inactive
+14 accounts of the state effective on the first day of the month during which
+15 the appropriation or transfer takes effect.
+16 (e)(f) At the time of repayment of a loan pursuant to subsection (d),
+17 the executive director shall certify to the director of accounts and reports
+18 the amount to be repaid and any interest due thereon. Upon receipt of such
+19 certification, the director of accounts and reports shall promptly transfer
+20 the amount certified from the state racing fund to the state general fund.
+21 Sec. 4. 5. K.S.A. 74-8829 is hereby amended to read as follows: 74-
+22 8829. (a) There is hereby created in the state treasury the Kansas horse
+23 breeding development fund to which moneys shall be credited as provided
+24 by this act. Expenditures from such fund shall be made in accordance with
+25 appropriation acts upon warrants of the director of accounts and reports
+26 issued pursuant to vouchers approved by the chairperson of the
+27 commission or a person designated by the chairperson.
+28 (b) Moneys credited to the Kansas horse breeding development fund,
+29 including any moneys in the fund on March 24, 1994, and any moneys
+30 credited to the fund on or after that date, shall be apportioned into
+31 categories corresponding with the various breeds of horses which that are
+32 participating in live races with parimutuel wagering conducted by
+33 organization licensees in direct proportion to the number of horses in each
+34 category participating in such live races and shall be used in each category
+35 to provide:
+36 (1) Purse supplements to owners of Kansas-bred horses;
+37 (2) stakes and awards to be paid to the owners of the winning Kansas-
+38 bred horses in certain races as determined by the commission;
+39 (3) a stallion award to each owner of a Kansas-registered stallion
+40 which that is the sire of a Kansas-bred horse if such horse wins or wins,
+41 places or shows competes in any recognized parimutuel race conducted at
+42 a Kansas race meeting, but and finishes at a level determined by the
+43 commission for such award. No such award shall be paid to the owner of a
+SB 260—Am. by SC 13
+1 Kansas Kansas-registered stallion that served outside Kansas at any time
+2 during the calendar year in which the winning Kansas-bred horse was
+3 conceived;
+4 (4) a breeder's award to each owner of a Kansas-registered mare
+5 which is the dam of a Kansas-bred horse if such horse wins or wins, places
+6 or shows competes in any recognized parimutuel race conducted at a
+7 Kansas race meeting and finishes at a level determined by the commission
+8 for such award; and
+9 (5) moneys for equine research through institutions of higher
+10 education under the state board of regents.
+11 Sec. 5. 6. K.S.A. 74-8838 is hereby amended to read as follows: 74-
+12 8838. (a) The state treasurer shall credit 1/ of the taxes on the takeout from
+3
+13 parimutuel pools for simulcast races, as certified by the executive director,
+14 to the horse fair racing benefit fund, which is hereby created in the state
+15 treasury.
+16 (b) Twenty-five percent of all moneys credited to the horse fair racing
+17 benefit fund may be expended, upon application to the commission, for
+18 capital improvements to racetrack facilities on or adjacent to premises
+19 used by a fair association to conduct fair racing activities.
+20 (c) Fifteen percent of all moneys credited to the horse fair racing
+21 benefit fund may be expended, upon application to the commission, by a
+22 nonprofit horsemen's organization for the promotion of the parimutuel
+23 racing industry in this state.
+24 (d) The remaining moneys in the horse fair racing benefit fund shall
+25 be expended only for:
+26 (1) Reimbursement of the commission for the commission's
+27 administrative costs, as established by rules and regulations of the
+28 commission, related to race meetings conducted by a fair association or a
+29 horsemen's nonprofit organization, including the cost of stewards, racing
+30 judges and assistant animal health officers performing services at such race
+31 meetings;
+32 (2) paying the costs of totalisator expenses incurred by an
+33 organization licensee that is a fair association or horsemen's nonprofit
+34 organization;
+35 (3) paying the costs of background investigations required under the
+36 Kansas parimutuel racing act for members of a fair association or
+37 horsemen's nonprofit organization;
+38 (4) paying the costs related to any lease agreement for land,
+39 equipment or other materials necessary to conduct a race meeting;
+40 (5) purse supplements at race meetings conducted by a fair
+41 association or horsemen's nonprofit organization;
+42 (5)(6) basic operating assistance grants to an organization licensee
+43 that is a fair association or horsemen's nonprofit organization; and
+SB 260—Am. by SC 14
+1 (6)(7) costs for employment of key racing officials, as determined by
+2 the commission, incurred by an organization licensee that is a fair
+3 association or horsemen's nonprofit organization.
+4 (d)(e) The commission shall adopt rules and regulations establishing
+5 procedures for distributing moneys in the horse fair racing benefit fund to
+6 fair associations and nonprofit horsemen's organizations for the purposes
+7 provided by this section.
+8 (e)(f) Expenditures from the horse fair racing benefit fund related to
+9 the conduct of a race meeting shall not be allocated to any organization
+10 licensee for a period exceeding 40 days.
+11 (f)(g) Expenditures from the horse fair racing benefit fund shall not
+12 be allocated to any organization licensee to support the conduct of
+13 parimutuel greyhound races unless the organization licensee conducts an
+14 equal or greater number of parimutuel horse races during the race meeting.
+15 (g)(h) Expenditures from the horse fair racing benefit fund shall be
+16 made in accordance with appropriation acts upon warrants of the director
+17 of accounts and reports issued pursuant to vouchers approved by the
+18 chairperson of the commission or a person designated by the chairperson.
+19 Sec. 6. 7. K.S.A. 74-8815, 74-8826, 74-8829 and 74-8838 and K.S.A.
+20 2024 Supp. 74-8802 and 74-8814 are hereby repealed.
+21 Sec. 7. 8. This act shall take effect and be in force from and after its
+22 publication in the statute book.
+[DELETED: AN T cg pl w; rg to te Kplo; cg te dn of cn tx ra2BS0f1c2(3e4(5t6(7h8(9c0(e l" ms a p, p1c2p3(4me p, p, cs or a, or a5c6(r e" ms a sn in wh a7o8b9m0(1o2f3r4(5e6(e d" ms te ee dr of t]
+[DELETED: Cc(y mr l" ms a p, pccl(olin Sk c. "y or l" ds nt mn a0o1h2(3K4d5a6l7(8i9r0o1p2(" ms ay gd bd of dg p3r4(l he re m" ms ay e5e6ad n 7e8s9ee te pn og te me to re c, t0m1r2s3g4h5l6f7(8(9l0(g fr or hs bn id a fy or l1a2f3a]
+[DELETED: C(hs(s nt o" ms ay no(l(g fr or hs bn id an on la0o1t2(3t4c5a6(7l8(9ed in oe jn tt is cd wh c0p1e2p3(4l5j6(7i8f9a0(1r2(3l4(5t6p7t8d9(0(1c2e3m]
+[DELETED: C((ti(f(bs0(1o2r3c4wg p, hd by te on le pt to t5p6w7p8(l w" ms a fm of wg on t9o0c1p2g3h4r5(6a7l8g9c, ig sh al te as dd by t0c1(2r3g4i5u6d7f8o9g0(1a2i3(]
+[DELETED: Cptb(d gd o' g" ms te drcroK0(d hs g" ms te dy r1g2e3m4i5g6o7a8(9h0(1p2b3b4w5S6f7c8e9d0o1(t to ps () ad (, y fr a2h3A4(5e6(7w8(9p0(1h2s3i]
+[DELETED: C(t(((ci((0s1a2c3(4(e p v ve p, sy a5t6c7(8o9c0(1o2p3p4S586s7c8r w t i9d0(1t2f3(4i5y6b7l8an fe is it to py te re es o9pg te an ad ig te a0q1t2t3N]
+[DELETED: Csh l s n fh s rpg te an ad ig te aq(ctp$0l1i2f3c4s5f6t7o8r9s0b1b2b3in ae wh te ts of te an or or t4s5t6r7l8t9b0(1t2a3t4s5f6f7K8(9l0e1s2i3(s bn sd or od to ce on of a]
+[DELETED: Cpaar(Ss of ay cl at ig fg or mn opsb0a1s2i3o4(5S6a7f8c9ee r at t n s 0o1r2(3t4o5(6l7(8w9m0c1c2(3o4s5(6g7t8j9(0l1a2s3(]
+[DELETED: Clh(rctprt0i1l2c3c4t5i6p7(8in h 9s0i1b2p3(4f5c6a7(8l9l0a1(2s3t4s5o6v7l8s9s0Ng in ts sn sl be cd to pe t1c2t3t]
+[DELETED: C1(clttcrat0a1a2(f a fy or ls le as t3cn of a dl rk f, sh le sl b4c5t6l7t8c9a0(1p2t3f4i5(6r7(8m9p0r1(2f3p4t5t6w7o8d9K0l1cs or cd an ae of d. Al c2a3b]
+[DELETED: C1c(coS8(aa0c1p2e3t4t5t6m7o8c9(0t1r2f5 3a4r576eh sh de in es of te at rd fr o7e8fd b, tg io cn e, a9r0f1a2(5 3t4r o 35m6w7a8rs fm te se rg fd to te Ks he b9d0(5 1t2r o 73m]
+[DELETED: C1ware(oor es id in cn wh te an aei0S1w2o3p4a5t6(7t8t9c0t1S283b4b5a6id pt to vs ad by te cn of t7c8(9i0c1c2pg in le rs wh pl wg cd b3o4c5t6(7(8b9(0w1p2a a3c]
+[DELETED: C1Kd w Kc(wo c i r r cKf(s fr ee rh th is of h0e1S28t/ 3p4t5t6(7b8c o9u0(1b2n3r4(5b6(t of te cn fr te c7ae c as d s ad s o t8c9h0j1m2(g te cs of tr es id by a3o4o5(6Ks t s 7h8(g te cs rd to ay le at fr l9e0(e ss at re ms cd by a f1a2(3t]
+[DELETED: C1(ta(pfp(t0l1(2b3p4e5(6m7o8c9S021S2p]
+
+
+================================================================================
+
+Raw Text:
+As Amended by Senate Committee
+Session of 2025
+SENATE BILL No. 260
+By Committee on Ways and Means
+2-11
+1 AN ACT concerning parimutuel wagering; relating to the Kansas
+2 parimutuel racing act; modifying the qualifications for an organization
+3 license; redefining horesemen's associations and horsemen's nonprofit
+4 organizations; changing the distribution of certain tax revenues;
+5 amending K.S.A. 74-8815, 74-8826, 74-8829 and 74-8838 and K.S.A.
+6 2024 Supp. 74-8802 and 74-8814 and repealing the existing sections.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 Section 1. K.S.A. 2024 Supp. 74-8802 is hereby amended to read as
+10 follows: 74-8802. As used in the Kansas parimutuel racing act unless the
+11 context otherwise requires:
+12 (a) "Breakage" means the odd cents by which the amount payable on
+13 each dollar wagered exceeds:
+14 (1) A multiple of $.10, for parimutuel pools from races conducted in
+15 this state; and
+16 (2) a multiple of such other number of cents as provided by law of the
+17 host jurisdiction, for interstate combined wagering pools.
+18 (b) "Commission" means the Kansas racing and gaming commission
+19 created by this act.
+20 (c) "Concessionaire licensee" means a person, partnership,
+21 corporation or association licensed by the commission to utilize a space or
+22 privilege within a racetrack facility to sell goods or services.
+23 (d) "Contract" means an agreement, written or oral, between two or
+24 more persons, partnerships, corporations or associations, or any
+25 combination thereof that creates an obligation between the parties.
+26 (e) "Crossover employment" means a situation in which an
+27 occupational licensee is concurrently employed at the same racing facility
+28 by an organization licensee and a facility owner licensee or facility
+29 manager licensee.
+30 (f) "Dual racetrack facility" means a racetrack facility for the racing
+31 of both horses and greyhounds or two immediately adjacent racetrack
+32 facilities, owned by the same licensee, one for racing horses and one for
+33 racing greyhounds.
+34 (g) "Employee" means a person who has applied for a position of
+35 employment or is currently employed by the commission.
+36 (h) "Executive director" means the executive director of the
+
+SB 260—Am. by SC 2
+1 commission.
+2 (i) "Facility manager licensee" means a person, partnership,
+3 corporation or association licensed by the commission and having a
+4 contract with an organization licensee to manage a racetrack facility
+5 located in Sedgwick county.
+6 (j) "Facility owner licensee" means a person, partnership, corporation
+7 or association, or the state of Kansas or any political subdivision thereof,
+8 licensed by the commission to construct or own a racetrack facility located
+9 in Sedgwick county. "Facility owner licensee" does not mean an
+10 organization licensee that owns the racetrack facility in which it conducts
+11 horse or greyhound racing.
+12 (k) "Fair association" means an association organized pursuant to
+13 K.S.A. 2-125 et seq., and amendments thereto or a nonprofit association
+14 determined by the commission to be otherwise organized to conduct fair
+15 activities pursuant to findings of fact entered by the commission in a
+16 license order.
+17 (l) "Financial interest" means an interest that could result directly or
+18 indirectly in receiving a pecuniary gain or sustaining a pecuniary loss as a
+19 result of ownership or interest in a business entity or activity or as a result
+20 of a salary, gratuity or other compensation or remuneration from any
+21 person.
+22 (m) "Greyhound" means any greyhound breed of dog properly
+23 registered with the national greyhound association of Abilene, Kansas.
+24 (n) "Historical horse race machine" means any electronic,
+25 electromechanical, video or computerized device, contrivance or machine
+26 authorized by the commission that, upon insertion of cash, tokens,
+27 electronic cards or any consideration, is available to accept wagers on and
+28 simulate the running of historical horse races, and that may deliver or
+29 entitle the patron operating the machine to receive cash, tokens,
+30 merchandise or credits that may be redeemed for cash. Historical horse
+31 race machines shall use historically accurate information of the horse race
+32 selected to determine the place of finish of each horse. No random number
+33 generator or other algorithm shall be used for determining the results of an
+34 historical horse race. Historical horse race machines shall be directly
+35 linked to a central computer at a location determined by the commission
+36 for purposes of security, monitoring and auditing.
+37 (o) "Horsemen's association" means any association or corporation:
+38 (1) All officers, directors, members and shareholders of which are
+39 licensed owners of horses or licensed trainers of horses, or both;
+40 (2) applying for or has been issued a facility owner license
+41 authorizing ownership of Eureka Downs, Anthony Downs or a racetrack
+42 facility on or adjacent to premises used by a fair association to conduct fair
+43 activities; and
+
+SB 260—Am. by SC 3
+1 (3) none of the officers, directors, members or shareholders of which
+2 holds another facility owner license or is an officer, director, member or
+3 shareholder of another facility owner licensee.
+4 (p) "Horsemen's nonprofit organization" means any nonprofit
+5 organization:
+6 (1) All officers, directors, members or shareholders of which are
+7 licensed owners of horses or licensed trainers of horses, or both; and
+8 (2) applying for or has been issued an organization license
+9 authorizing the conduct of horse races at Eureka Downs, Anthony Downs
+10 or a racetrack facility on or adjacent to premises used by a fair association
+11 to conduct fair activities.
+12 (q) "Host facility" means the racetrack at which the race is run or, if
+13 the race is run in a jurisdiction that is not participating in the interstate
+14 combined wagering pool, the racetrack or other facility that is designated
+15 as the host facility.
+16 (r) "Host jurisdiction" means the jurisdiction where the host facility is
+17 located.
+18 (s) "Interstate combined wagering pool" means a parimutuel pool
+19 established in one jurisdiction that is combined with comparable
+20 parimutuel pools from one or more racing jurisdictions for the purpose of
+21 establishing the amount of money returned on a successful wager in the
+22 participating jurisdictions.
+23 (t) "Intertrack wagering" means wagering on a simulcast race at a
+24 licensed racetrack facility or at a facility that is licensed in its racing
+25 jurisdiction to conduct live races.
+26 (u) "Intrastate combined wagering pool" means a parimutuel pool that
+27 is combined with comparable parimutuel pools from one or more racetrack
+28 facilities for the purpose of establishing the amount of money returned on
+29 a successful wager at the participating racetrack facilities.
+30 (v) "Kansas-whelped greyhound" means a greyhound whelped and
+31 raised in Kansas for the first six months of its life.
+32 (w) "Licensee" means a person who has submitted an application for
+33 licesure or currently holds a license issued by the commission.
+34 (x) "Minus pool" means a parimutuel pool in which, after deducting
+35 the takeout, not enough money remains in the pool to pay the legally
+36 prescribed minimum return to those placing winning wagers, and in which
+37 the organization licensee would be required to pay the remaining amount
+38 due.
+39 (y) "Nonprofit organization" means:
+40 (1) A corporation that is incorporated in Kansas as a not-for-profit
+41 corporation pursuant to the Kansas general corporation code and the net
+42 earnings of which do not inure to the benefit of any shareholder, individual
+43 member or person; or
+
+SB 260—Am. by SC 4
+1 (2) a fair association.
+2 (z) "Occupation licensee" means a person licensed by the commission
+3 to perform an occupation or provide services that the commission has
+4 identified as requiring a license pursuant to this act.
+5 (aa) "Off-track wagering" means wagering on a simulcast race at a
+6 facility that is not licensed in its jurisdiction to conduct live races.
+7 (bb) "Organization licensee" means a nonprofit organization licensed
+8 by the commission to conduct races pursuant to this act and, if the license
+9 so provides, to construct or own a racetrack facility.
+10 (cc) "Parimutuel pool" means the total money wagered by individuals
+11 on one or more horses or greyhounds in a particular horse or greyhound
+12 race to win, place or show, or combinations thereof, as established by the
+13 commission, and, except in the case of an interstate or intrastate combined
+14 wagering pool, held by the organization licensee pursuant to the
+15 parimutuel system of wagering. There is a separate parimutuel pool for
+16 win, for place, for show and for each of the other forms of betting
+17 provided for by the rules and regulations of the commission.
+18 (dd) "Parimutuel wagering" means a form of wagering on the
+19 outcome of horse and greyhound races, including historical horse races
+20 conducted by an historical horse race machine, in which those who wager
+21 purchase tickets of various denominations on one or more horses or
+22 greyhounds and all wagers for each race are pooled and the winning ticket
+23 holders are paid prizes from such pool in amounts proportional to the total
+24 receipts in the pool.
+25 (ee) "Race meeting" means one or more periods of racing days during
+26 a calendar year designated by the commission for which an organization
+27 licensee has been approved by the commission to hold live horse or
+28 greyhound races or simulcast horse races at which parimutuel wagering is
+29 conducted, including such additional time as designated by the
+30 commission for the conduct of official business before and after the races.
+31 (ff) "Racetrack facility" means a racetrack within Kansas used for the
+32 racing of horses or greyhounds, or both, including the track surface,
+33 grandstands, clubhouse, all animal housing and handling areas, other areas
+34 in which a person may enter only upon payment of an admission fee or
+35 upon presentation of authorized credentials and such additional areas as
+36 designated by the commission. The term "racetrack facility" includes a
+37 facility used for the display of and wagering on simulcast races and the
+38 operation of historical horse race machines without any live horse or
+39 greyhound races being conducted.
+40 (gg) "Racing jurisdiction" or "jurisdiction" means a governmental
+41 authority that is responsible for the regulation of live or simulcast racing in
+42 its jurisdiction.
+43 (hh) "Racing or wagering equipment or services licensee" means any
+
+SB 260—Am. by SC 5
+1 person, partnership, corporation or association licensed by the commission
+2 to provide integral racing or wagering equipment or services, as designated
+3 by the commission, to an organization licensee.
+4 (ii) "Recognized greyhound owners' group" means the duly
+5 recognized group elected in accordance with rules and regulations of the
+6 commission by a majority of the Kansas licensed greyhound owners at the
+7 racetrack facility voting in the election. The commission may designate an
+8 organization such as the national greyhound association of Abilene,
+9 Kansas, to conduct the election.
+10 (jj) "Recognized horsemen's group" means the duly recognized
+11 group, representing the breeds of horses running at a racetrack facility,
+12 elected in accordance with rules and regulations of the commission by a
+13 majority of the licensed owners and trainers at the racetrack facility voting
+14 in the election. If the licensee does not have a recognized horsemen's
+15 group, the commission shall designate as the recognized horsemen's group
+16 one that serves another organization licensee, but not one that serves a fair
+17 association organization licensee.
+18 (kk) "Simulcast" means a live audio-visual broadcast of an actual
+19 horse race at the time it is run.
+20 (ll) "Takeout" means the total amount of money withheld from each
+21 parimutuel pool for the payment of purses, taxes and the share to be kept
+22 by the organization licensee. Takeout does not include the breakage. The
+23 balance of each pool less the breakage is distributed to the holders of
+24 winning parimutuel tickets.
+25 Sec. 2. K.S.A. 2024 Supp. 74-8814 is hereby amended to read as
+26 follows: 74-8814. (a) (1) Subject to the provisions of subsection (b), the
+27 commission shall establish by rules and regulations an application fee not
+28 exceeding $50 for an organization license and a license fee of $25 for each
+29 day of racing approved by the commission for any organization granted an
+30 organization license.
+31 (2) Subject to paragraphs (3) and (4), any fair association,
+32 horsemen's nonprofit organization or the national greyhound association of
+33 Abilene, Kansas, may apply for an organization license if:
+34 (A) Such organization conducts not more than two race meetings
+35 each year; and
+36 (B) such race meets are held within the boundaries of the county
+37 where the applicant is located; and
+38 (C) such race meetings are held for a total of not more than 40 days
+39 per year.
+40 (3) If the applicant is a fair association intending to conduct live
+41 horse racing, then, along with an application for an organization license,
+42 such applicant shall submit documentation demonstrating such applicant
+43 is approved for such license by:
+
+SB 260—Am. by SC 6
+1 (A) The Kansas quarter horse racing association and the Kansas
+2 thoroughbred association; or
+3 (B) a horsemen's nonprofit organization.
+4 (4) If the applicant is a horsemen's nonprofit organization and:
+5 (A) Intending to conduct live horse racing, such applicant shall not
+6 conduct live horse racing prior to March 1, 2028, unless such licensee
+7 intends to conduct such races at Eureka Downs; and
+8 (B) such applicant shall not operate historical horse race machines.
+9 (b) The commission shall adopt rules and regulations providing for
+10 simplified and less costly procedures and requirements for fair associations
+11 and horsemen's nonprofit organizations applying for or holding a license to
+12 conduct race meetings.
+13 (c) The Kansas racing and gaming commission shall investigate:
+14 (1) The president, vice-president vice president, secretary and
+15 treasurer of a fair association, and such other members as the commission
+16 considers necessary, to determine eligibility for an organization license;
+17 (2) each officer and each director of a nonprofit horsemen's nonprofit
+18 organization, and such other members or shareholders as the commission
+19 considers necessary to determine eligibility for an organization license.
+20 (d) Except as otherwise provided by this section, all applicants for
+21 organization licenses for the conduct of race meetings pursuant to the
+22 provisions of this section shall be required to comply with all the
+23 provisions of K.S.A. 74-8813, and amendments thereto.
+24 Sec. 3. K.S.A. 74-8815 is hereby amended to read as follows: 74-
+25 8815. (a) Any person, partnership, corporation or association, or the
+26 state of Kansas or any political subdivision thereof, may apply to the
+27 commission for a facility owner license to construct or own, or both, a
+28 racetrack facility which that includes a racetrack and other areas
+29 designed for horse racing or greyhound racing, or both.
+30 (b) Any person, partnership, corporation or association may apply
+31 to the commission for a facility manager license to manage a racetrack
+32 facility.
+33 (c) A facility owner license or a facility manager license shall be
+34 issued for a period established by the commission but not to exceed 25
+35 years. The application for a facility owner license shall be accompanied
+36 by a nonrefundable fee of $5,000. An application for a facility manager
+37 license shall be accompanied by a nonrefundable fee of $5,000. If the
+38 application fee is insufficient to pay the reasonable expenses of
+39 processing the application and investigating the applicant's
+40 qualifications for licensure, the commission shall require the applicant
+41 to pay to the commission, at such times and in such form as required by
+42 the commission, any additional amounts necessary to pay such expenses.
+43 No license shall be issued to an applicant until the applicant has paid
+
+SB 260—Am. by SC 7
+1 such additional amounts in full, and such amounts shall not be
+2 refundable except to the extent that they exceed the actual expenses of
+3 processing the application and investigating the applicant's
+4 qualifications for licensure.
+5 (d) If an applicant for a facility owner license is proposing to
+6 construct a racetrack facility, such applicant, at the time of submitting
+7 the application, shall deposit with the commission, in such form as
+8 prescribed by rules and regulations of the commission, the sum of: (1)
+9 $500,000, if the number of racing days applied for by organization
+10 licensee applicants proposing to race at the facility is 150 days or more
+11 in a racing season; (2) $250,000, if such number of racing days applied
+12 for is less than 150 days; or (3) a lesser sum established by the
+13 commission, if the applicant is the state or a political subdivision of the
+14 state. Only one such deposit shall be required for a dual racetrack
+15 facility. The executive director shall remit any deposit received pursuant
+16 to this subsection to the state treasurer in accordance with the provisions
+17 of K.S.A. 75-4215, and amendments thereto. Upon receipt of each such
+18 remittance, the state treasurer shall deposit the entire amount in the
+19 state treasury to the credit of the racing applicant deposit fund created
+20 by K.S.A. 74-8828, and amendments thereto. If the application is denied
+21 by the commission, the deposit, and any interest accrued thereon, shall
+22 be refunded to the applicant. If the license is granted by the commission
+23 in accordance with the terms of the application or other terms
+24 satisfactory to the applicant, the deposit, and any interest accrued
+25 thereon, shall be refunded to the licensee upon completion of the
+26 racetrack facility in accordance with the terms of the license. If the
+27 licensee fails to complete the racetrack facility in accordance with the
+28 terms of the license, the deposit, and any interest accrued thereon, shall
+29 be forfeited by the applicant.
+30 (e) A facility owner license shall be granted only to an applicant
+31 that already owns an existing racetrack facility or has submitted with its
+32 application detailed plans for the construction of such facility, including
+33 the means and source of financing such construction and operation
+34 sufficient to convince the commission that such plans are feasible. A
+35 facility manager license shall be granted only to an applicant that has a
+36 facility management contract with an organization licensed pursuant to
+37 K.S.A. 74-8813, and amendments thereto.
+38 (f) An applicant for a facility owner license or facility manager
+39 license, or both, shall not be granted a license if there is substantial
+40 evidence that the applicant for the license, or any officer or director,
+41 stockholder, member or owner of or other person having a financial
+42 interest in the applicant:
+43 (1) Has been suspended or ordered to cease operation of a
+
+SB 260—Am. by SC 8
+1 parimutuel racing facility in another jurisdiction by the appropriate
+2 authorities in that jurisdiction, has been ordered to cease association or
+3 affiliation with such a racing facility or has been banned from such a
+4 racing facility;
+5 (2) has been convicted by a court of any state or of the United
+6 States of any criminal act involving fixing or manipulation of
+7 parimutuel races, violation of any law involving gambling or controlled
+8 substances or drug violations involving horses or greyhounds, or has
+9 been adjudicated in the last five years in any such court of committing
+10 as a juvenile an act which, if committed by an adult, would constitute
+11 such a criminal act, or if any employee or agent assisting the applicant
+12 in activities relating to ownership or management of a racetrack facility
+13 or to the conduct of races has been so convicted or adjudicated;
+14 (3) has been convicted by a court of any state or of the United
+15 States of any felony involving dishonesty, fraud, theft, counterfeiting,
+16 alcohol violations or embezzlement, or has been adjudicated in the last
+17 five years in any such court of committing as a juvenile an act which, if
+18 committed by an adult, would constitute such a felony, or if any
+19 employee or agent assisting the applicant in activities relating to
+20 ownership or management of a racetrack facility or to the conduct of
+21 races has been so convicted or adjudicated;
+22 (4) has not demonstrated financial responsibility sufficient to meet
+23 the obligations being undertaken pursuant to its contract with the
+24 organization licensee;
+25 (5) is not in fact the person or entity authorized to or engaged in the
+26 licensed activity;
+27 (6) is or becomes subject to a contract or option to purchase under
+28 which 10% or more of the ownership or other financial interest or
+29 membership interest are subject to purchase or transfer, unless the
+30 contract or option has been disclosed to the commission and the
+31 commission has approved the sale or transfer during the license period;
+32 (7) has made a statement of a material fact in the application or
+33 otherwise in response to official inquiry by the commission knowing
+34 such statement to be false; or
+35 (8) has failed to meet any monetary or tax obligation to the federal
+36 government or to any state or local government, whether or not relating
+37 to the conduct or operation of a race meet held in this state or any other
+38 jurisdiction.
+39 (g) No person or entity shall be qualified to hold a facility manager
+40 license if such person or entity, or any director, officer, employee or
+41 agent thereof, is addicted to, and a user of, alcohol or a controlled
+42 substance.
+43 (h) If the applicant for a facility owner license or facility manager
+
+SB 260—Am. by SC 9
+1 license is a horsemen's association, such applicant shall not operate
+2 historical horse race machines at such racetrack facility.
+3 (i) All facility owner licenses and facility manager licenses shall be
+4 reviewed annually by the commission to determine if the licensee is
+5 complying with the provisions of this act and rules and regulations of
+6 the commission and following such proposed plans and operating
+7 procedures as were approved by the commission. The commission may
+8 review a facility owner license or facility manager license more often
+9 than annually upon its own initiative or upon the request of any
+10 interested party. The commission shall require each facility owner
+11 licensee and each facility manager licensee to file annually with the
+12 commission a certified financial audit of the licensee by an independent
+13 certified public accountant, which audit shall be open to inspection by
+14 the public, and may require any such licensee to provide any other
+15 information necessary for the commission to conduct the annual or
+16 periodic review.
+17 (i)(j) Subject to the provisions of subsection (j) (k), the commission,
+18 in accordance with the Kansas administrative procedure act, may
+19 suspend or revoke a facility owner or facility manager license or may
+20 impose a civil fine not exceeding $10,000 per failure or violation, or may
+21 both suspend such license and impose such fine, if the commission finds
+22 probable cause to believe that:
+23 (1) In the case of a facility owner licensee, the licensee has failed to
+24 follow one or more provisions of the licensee's plans for the financing,
+25 construction or operation of a racetrack facility as submitted to and
+26 approved by the commission; or
+27 (2) in the case of either a facility owner licensee or facility manager
+28 licensee, the licensee has violated any of the terms and conditions of
+29 licensure provided by this section or any other provision of this act or
+30 any rule and regulation of the commission.
+31 (j)(k) Prior to suspension or revocation of a license pursuant to
+32 subsection (i)(j), the commission shall give written notice of the reason
+33 therefor to the licensee and all other interested parties. The licensee
+34 shall have 30 days from receipt of the notice to cure the alleged failure
+35 or violation, if it can be cured. If the commission finds that the failure or
+36 violation has not been cured upon expiration of the 30 days or upon a
+37 later deadline granted by the commission, or if the alleged violation is of
+38 such a nature that it cannot be cured, the commission may proceed to
+39 suspend or revoke the licensee's license pursuant to subsection (i) (j).
+40 Nothing in this subsection shall be construed to preclude the
+41 commission from imposing a fine pursuant to subsection (i) (j) even if
+42 the violation is cured within 30 days or such other period as provided by
+43 the commission.
+
+SB 260—Am. by SC 10
+1 (k)(l) If an applicant for a facility owner license proposes to
+2 construct a racetrack facility and the commission determines that such
+3 license should be issued to the applicant, the commission shall issue to
+4 the applicant a facility owner license conditioned on the submission by
+5 the licensee to the commission, within a period of time prescribed by the
+6 commission, of a commitment for financing the construction of the
+7 racetrack facility by a financial institution or other source, subject to
+8 approval by the commission. If such commitment is not submitted within
+9 the period of time originally prescribed by the commission or such
+10 additional time as authorized by the commission, the license shall expire
+11 at the end of such period.
+12 (l)(m) If a facility owner licensee's license authorizes the
+13 construction of a dual racetrack facility, such license shall be
+14 conditioned on the completion of such facility within a time specified by
+15 the commission. If, within the time specified by the commission, the
+16 licensee has not constructed a dual racetrack facility in accordance with
+17 the plans submitted to the commission pursuant to subsection (e), the
+18 commission, in accordance with the Kansas administrative procedure
+19 act, shall:
+20 (1) Impose upon the licensee a civil fine equal to 5% of the total
+21 parimutuel pools for all races held at the licensee's facility on and after
+22 the date that racing with parimutuel wagering is first conducted at such
+23 facility and until the date that construction of the dual racetrack facility
+24 is completed and horse racing has begun; and
+25 (2) revoke the licensee's license unless the licensee demonstrates
+26 reasonable cause for the failure to complete the facility.
+27 (m)(n) The refusal to renew a facility owner license or a facility
+28 manager license shall be in accordance with the Kansas administrative
+29 procedure act and shall be subject to review under the Kansas judicial
+30 review act.
+31 (n)(o) The grant or denial of an original facility owner license or
+32 facility manager license shall not be subject to the Kansas administrative
+33 procedure act. Such grant or denial shall be a matter to be determined in
+34 the sole discretion of the commission, whose decision shall be final upon
+35 the grant of a license to one of two or more competing applicants
+36 without the necessity of a hearing on the denial of a license to each
+37 other competing applicant. Any action for judicial review of such
+38 decision shall be by appeal to the supreme court in accordance with the
+39 Kansas judicial review act, except that the scope of review shall be
+40 limited to whether the action of the commission was arbitrary or
+41 capricious or constituted an abuse of discretion. All competing
+42 applicants for the facility owner license or facility manager license shall
+43 be parties to such appeal. Any such appeal shall have priority over other
+
+SB 260—Am. by SC 11
+1 cases except those having statutory priority.
+2 (o)(p) The commission may adopt rules and regulations regulating
+3 crossover employment between facility manager licensees and facility
+4 owner licensees and organization licensees.
+5 Sec. 3. 4. K.S.A. 74-8826 is hereby amended to read as follows: 74-
+6 8826. (a) There is hereby created the state racing fund in the state treasury.
+7 (b) Except as otherwise provided by K.S.A. 74-8824 and 74-8835,
+8 and amendments thereto, all taxes on parimutuel wagering, admissions tax,
+9 application fees, license fees and fines which that are collected by the
+10 commission shall be remitted to the state treasurer in accordance with the
+11 provisions of K.S.A. 75-4215, and amendments thereto. Upon receipt of
+12 each such remittance, the state treasurer shall deposit the entire amount in
+13 the state treasury to the credit of the state racing fund. All moneys credited
+14 to such fund shall be expended or transferred only for the purposes and in
+15 the manner provided by this act. Expenditures from such fund shall be
+16 made in accordance with appropriation acts upon warrants of the director
+17 of accounts and reports issued pursuant to vouchers approved by the
+18 chairperson of the commission or a person designated by the chairperson.
+19 (c) Except as otherwise provided by this act, all operating expenses of
+20 the commission and moneys for the promotion of horse and greyhound
+21 racing appropriated by the legislature shall be paid from the state racing
+22 fund. On January 15, 1990, and on the 15th day of each month thereafter,
+23 and at such other times as provided by law, the director of accounts and
+24 reports shall transfer to the state gaming revenues fund created by K.S.A.
+25 79-4801, and amendments thereto, any moneys in the state racing fund on
+26 each such date in excess of the amount required for operating
+27 expenditures, transfers made pursuant to subsection (d) and an adequate
+28 fund balance, taking into consideration encumbrances, anticipated
+29 revenues, revenue and expenditure experience to date and other relevant
+30 factors, as determined by the executive director and the director of
+31 accounts and reports.
+32 (d) (1) On or before July 15, 2025, and on the 15th day of each month
+33 thereafter, of the moneys in the state racing fund in excess of the amount
+34 required for operating expenditures of the commission, 30% of such
+35 moneys credited to the state racing fund from tax revenues collected on
+36 wagers on historical horse races pursuant to K.S.A. 74-8823(a)(5), and
+37 amendments thereto, shall be transferred by the director of accounts and
+38 reports from the state racing fund to the Kansas horse breeding
+39 development fund established in K.S.A. 74-8829, and amendments thereto.
+40 (2) On or before July 15, 2025, and on the 15th day of each month
+41 thereafter, of the moneys in the state racing fund in excess of the amount
+42 required for operating expenditures of the commission, 70% of such
+43 moneys credited to the state racing fund from tax revenues collected on
+
+SB 260—Am. by SC 12
+1 wagers on historical horse races pursuant to K.S.A. 74-8823(a)(5), and
+2 amendments thereto, shall be transferred by the director of accounts and
+3 reports from the state racing fund to the horse fair racing benefit fund
+4 established in K.S.A. 74-8838, and amendments thereto.
+5 (e) Any appropriation or transfer of state general fund moneys for the
+6 operation of the commission or the office of the executive director and any
+7 other expenses incurred in connection with the administration and
+8 enforcement of this act shall be considered a loan and shall be repaid with
+9 interest to the state general fund in accordance with appropriation acts.
+10 Such loan shall not be considered an indebtedness or debt of the state
+11 within the meaning of section 6 of article 11 of the constitution of the state
+12 of Kansas. Such loan shall bear interest at a rate equal to the rate
+13 prescribed by K.S.A. 75-4210, and amendments thereto, for inactive
+14 accounts of the state effective on the first day of the month during which
+15 the appropriation or transfer takes effect.
+16 (e)(f) At the time of repayment of a loan pursuant to subsection (d),
+17 the executive director shall certify to the director of accounts and reports
+18 the amount to be repaid and any interest due thereon. Upon receipt of such
+19 certification, the director of accounts and reports shall promptly transfer
+20 the amount certified from the state racing fund to the state general fund.
+21 Sec. 4. 5. K.S.A. 74-8829 is hereby amended to read as follows: 74-
+22 8829. (a) There is hereby created in the state treasury the Kansas horse
+23 breeding development fund to which moneys shall be credited as provided
+24 by this act. Expenditures from such fund shall be made in accordance with
+25 appropriation acts upon warrants of the director of accounts and reports
+26 issued pursuant to vouchers approved by the chairperson of the
+27 commission or a person designated by the chairperson.
+28 (b) Moneys credited to the Kansas horse breeding development fund,
+29 including any moneys in the fund on March 24, 1994, and any moneys
+30 credited to the fund on or after that date, shall be apportioned into
+31 categories corresponding with the various breeds of horses which that are
+32 participating in live races with parimutuel wagering conducted by
+33 organization licensees in direct proportion to the number of horses in each
+34 category participating in such live races and shall be used in each category
+35 to provide:
+36 (1) Purse supplements to owners of Kansas-bred horses;
+37 (2) stakes and awards to be paid to the owners of the winning Kansas-
+38 bred horses in certain races as determined by the commission;
+39 (3) a stallion award to each owner of a Kansas-registered stallion
+40 which that is the sire of a Kansas-bred horse if such horse wins or wins,
+41 places or shows competes in any recognized parimutuel race conducted at
+42 a Kansas race meeting, but and finishes at a level determined by the
+43 commission for such award. No such award shall be paid to the owner of a
+
+SB 260—Am. by SC 13
+1 Kansas Kansas-registered stallion that served outside Kansas at any time
+2 during the calendar year in which the winning Kansas-bred horse was
+3 conceived;
+4 (4) a breeder's award to each owner of a Kansas-registered mare
+5 which is the dam of a Kansas-bred horse if such horse wins or wins, places
+6 or shows competes in any recognized parimutuel race conducted at a
+7 Kansas race meeting and finishes at a level determined by the commission
+8 for such award; and
+9 (5) moneys for equine research through institutions of higher
+10 education under the state board of regents.
+11 Sec. 5. 6. K.S.A. 74-8838 is hereby amended to read as follows: 74-
+12 8838. (a) The state treasurer shall credit 1/ of the taxes on the takeout from
+3
+13 parimutuel pools for simulcast races, as certified by the executive director,
+14 to the horse fair racing benefit fund, which is hereby created in the state
+15 treasury.
+16 (b) Twenty-five percent of all moneys credited to the horse fair racing
+17 benefit fund may be expended, upon application to the commission, for
+18 capital improvements to racetrack facilities on or adjacent to premises
+19 used by a fair association to conduct fair racing activities.
+20 (c) Fifteen percent of all moneys credited to the horse fair racing
+21 benefit fund may be expended, upon application to the commission, by a
+22 nonprofit horsemen's organization for the promotion of the parimutuel
+23 racing industry in this state.
+24 (d) The remaining moneys in the horse fair racing benefit fund shall
+25 be expended only for:
+26 (1) Reimbursement of the commission for the commission's
+27 administrative costs, as established by rules and regulations of the
+28 commission, related to race meetings conducted by a fair association or a
+29 horsemen's nonprofit organization, including the cost of stewards, racing
+30 judges and assistant animal health officers performing services at such race
+31 meetings;
+32 (2) paying the costs of totalisator expenses incurred by an
+33 organization licensee that is a fair association or horsemen's nonprofit
+34 organization;
+35 (3) paying the costs of background investigations required under the
+36 Kansas parimutuel racing act for members of a fair association or
+37 horsemen's nonprofit organization;
+38 (4) paying the costs related to any lease agreement for land,
+39 equipment or other materials necessary to conduct a race meeting;
+40 (5) purse supplements at race meetings conducted by a fair
+41 association or horsemen's nonprofit organization;
+42 (5)(6) basic operating assistance grants to an organization licensee
+43 that is a fair association or horsemen's nonprofit organization; and
+
+SB 260—Am. by SC 14
+1 (6)(7) costs for employment of key racing officials, as determined by
+2 the commission, incurred by an organization licensee that is a fair
+3 association or horsemen's nonprofit organization.
+4 (d)(e) The commission shall adopt rules and regulations establishing
+5 procedures for distributing moneys in the horse fair racing benefit fund to
+6 fair associations and nonprofit horsemen's organizations for the purposes
+7 provided by this section.
+8 (e)(f) Expenditures from the horse fair racing benefit fund related to
+9 the conduct of a race meeting shall not be allocated to any organization
+10 licensee for a period exceeding 40 days.
+11 (f)(g) Expenditures from the horse fair racing benefit fund shall not
+12 be allocated to any organization licensee to support the conduct of
+13 parimutuel greyhound races unless the organization licensee conducts an
+14 equal or greater number of parimutuel horse races during the race meeting.
+15 (g)(h) Expenditures from the horse fair racing benefit fund shall be
+16 made in accordance with appropriation acts upon warrants of the director
+17 of accounts and reports issued pursuant to vouchers approved by the
+18 chairperson of the commission or a person designated by the chairperson.
+19 Sec. 6. 7. K.S.A. 74-8815, 74-8826, 74-8829 and 74-8838 and K.S.A.
+20 2024 Supp. 74-8802 and 74-8814 are hereby repealed.
+21 Sec. 7. 8. This act shall take effect and be in force from and after its
+22 publication in the statute book.
+
+[DELETED: AN T cg pl w; rg to te Kplo; cg te dn of cn tx ra2BS0f1c2(3e4(5t6(7h8(9c0(e l" ms a p, p1c2p3(4me p, p, cs or a, or a5c6(r e" ms a sn in wh a7o8b9m0(1o2f3r4(5e6(e d" ms te ee dr of t]
+[DELETED: Cc(y mr l" ms a p, pccl(olin Sk c. "y or l" ds nt mn a0o1h2(3K4d5a6l7(8i9r0o1p2(" ms ay gd bd of dg p3r4(l he re m" ms ay e5e6ad n 7e8s9ee te pn og te me to re c, t0m1r2s3g4h5l6f7(8(9l0(g fr or hs bn id a fy or l1a2f3a]
+[DELETED: C(hs(s nt o" ms ay no(l(g fr or hs bn id an on la0o1t2(3t4c5a6(7l8(9ed in oe jn tt is cd wh c0p1e2p3(4l5j6(7i8f9a0(1r2(3l4(5t6p7t8d9(0(1c2e3m]
+[DELETED: C((ti(f(bs0(1o2r3c4wg p, hd by te on le pt to t5p6w7p8(l w" ms a fm of wg on t9o0c1p2g3h4r5(6a7l8g9c, ig sh al te as dd by t0c1(2r3g4i5u6d7f8o9g0(1a2i3(]
+[DELETED: Cptb(d gd o' g" ms te drcroK0(d hs g" ms te dy r1g2e3m4i5g6o7a8(9h0(1p2b3b4w5S6f7c8e9d0o1(t to ps () ad (, y fr a2h3A4(5e6(7w8(9p0(1h2s3i]
+[DELETED: C(t(((ci((0s1a2c3(4(e p v ve p, sy a5t6c7(8o9c0(1o2p3p4S586s7c8r w t i9d0(1t2f3(4i5y6b7l8an fe is it to py te re es o9pg te an ad ig te a0q1t2t3N]
+[DELETED: Csh l s n fh s rpg te an ad ig te aq(ctp$0l1i2f3c4s5f6t7o8r9s0b1b2b3in ae wh te ts of te an or or t4s5t6r7l8t9b0(1t2a3t4s5f6f7K8(9l0e1s2i3(s bn sd or od to ce on of a]
+[DELETED: Cpaar(Ss of ay cl at ig fg or mn opsb0a1s2i3o4(5S6a7f8c9ee r at t n s 0o1r2(3t4o5(6l7(8w9m0c1c2(3o4s5(6g7t8j9(0l1a2s3(]
+[DELETED: Clh(rctprt0i1l2c3c4t5i6p7(8in h 9s0i1b2p3(4f5c6a7(8l9l0a1(2s3t4s5o6v7l8s9s0Ng in ts sn sl be cd to pe t1c2t3t]
+[DELETED: C1(clttcrat0a1a2(f a fy or ls le as t3cn of a dl rk f, sh le sl b4c5t6l7t8c9a0(1p2t3f4i5(6r7(8m9p0r1(2f3p4t5t6w7o8d9K0l1cs or cd an ae of d. Al c2a3b]
+[DELETED: C1c(coS8(aa0c1p2e3t4t5t6m7o8c9(0t1r2f5 3a4r576eh sh de in es of te at rd fr o7e8fd b, tg io cn e, a9r0f1a2(5 3t4r o 35m6w7a8rs fm te se rg fd to te Ks he b9d0(5 1t2r o 73m]
+[DELETED: C1ware(oor es id in cn wh te an aei0S1w2o3p4a5t6(7t8t9c0t1S283b4b5a6id pt to vs ad by te cn of t7c8(9i0c1c2pg in le rs wh pl wg cd b3o4c5t6(7(8b9(0w1p2a a3c]
+[DELETED: C1Kd w Kc(wo c i r r cKf(s fr ee rh th is of h0e1S28t/ 3p4t5t6(7b8c o9u0(1b2n3r4(5b6(t of te cn fr te c7ae c as d s ad s o t8c9h0j1m2(g te cs of tr es id by a3o4o5(6Ks t s 7h8(g te cs rd to ay le at fr l9e0(e ss at re ms cd by a f1a2(3t]
+[DELETED: C1(ta(pfp(t0l1(2b3p4e5(6m7o8c9S021S2p]

@@ -1,0 +1,201 @@
+Title: HOUSE BILL No. 2360
+Official Title: HOUSE BILL No. 2360
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Welfare Reform
+Requested by Representative Awerkamp
+2-7
+1 AN ACT concerning public assistance; relating to the secretary for
+2 children and families and the secretary of health and environment;
+3 directing the secretaries to enter into agreements with commercial
+4 entities and state agencies for the continuous review and comparison of
+5 data for public assistance eligibility; requiring the secretary for children
+6 and families to review federal sources to verify such eligibility.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 Section 1. (a) (1) To verify eligibility for the food assistance program
+10 pursuant to K.S.A. 39-709, and amendments thereto, the secretary for
+11 children and families and the secretary of health and environment shall:
+12 (A) Enter into data matching agreements to compare data related to
+13 households enrolled in food assistance, child support services, medicaid
+14 and other public assistance programs with commercial entities that collect
+15 or maintain data regarding employment and wages as a "payroll data
+16 provider" as defined by the fair credit reporting act, 15 U.S.C. § 1681 et
+17 seq., as in effect on July 1, 2025, to obtain real-time employment and
+18 income data, including up-to-date, non- modeled employment and income
+19 data provided by employers or payroll providers; or
+20 (B) present to the legislative coordinating council prior to November
+21 1, 2025, commercial, state and federal agency options to compare data
+22 options. Upon receipt and review of such options from the secretary for
+23 children and families and the secretary of health and environment, the
+24 legislative coordinating council shall make the determination of approval
+25 of the data matching agreement.
+26 (2) The appropriate secretary shall receive and review data
+27 concerning individuals or households enrolled in food assistance, child
+28 support services, medicaid and other public assistance programs that
+29 indicates a change in circumstances that may affect eligibility for a public
+30 assistance program on at least a:
+31 (A) Monthly basis, from the office of vital statistics, including, but
+32 not limited to, death records;
+33 (B) quarterly basis, from the department of labor, including, but not
+34 limited to, changes in employment or wages;
+35 (C) monthly basis, including, but not limited to, potential changes in
+HB 2360 2
+1 residency as identified by out-of-state electronic benefit transfer
+2 transactions;
+3 (D) quarterly basis, from the department of revenue, including, but
+4 not limited to, potential changes in income, wages or residency as
+5 identified by tax records;
+6 (E) monthly basis, from the department of corrections, including, but
+7 not limited to, incarceration status;
+8 (F) semi-monthly basis, from the department of labor, including, but
+9 not limited to, potential changes in employment, income or assets; and
+10 (G) monthly basis, from the Kansas lottery and the Kansas racing and
+11 gaming commission, to identify households with lottery or gambling
+12 winnings of $3,000 or greater and, to the extent permissible under federal
+13 law, deem the data verified upon receipt, and if such data is not verified
+14 upon receipt, the department shall make referrals for further investigation
+15 to identify households with winnings equal to or greater than the resource
+16 limit for elderly or disabled households as defined in 7 C.F.R. § 273.8(b).
+17 (b) On at least a monthly basis, to assess continued eligibility and act
+18 on findings, the secretary for children and families shall review and act on
+19 the following data from federal sources:
+20 (1) Earned income information, death records, incarceration records,
+21 supplemental security income information, beneficiary records, earnings
+22 information and pension information maintained by the United States
+23 social security administration;
+24 (2) income and employment information maintained in the national
+25 directory of new hires and child support enforcement data maintained by
+26 the United States department of health and human services;
+27 (3) payment and earnings information maintained by the United
+28 States department of housing and urban development; and
+29 (4) fleeing felon information maintained by the United States federal
+30 bureau of investigation.
+31 (c) On at least a quarterly basis, the secretary shall make available to
+32 the public on the Kansas department for children and families website data
+33 from findings of noncompliance and fraud investigations in food
+34 assistance for the following aggregate, nonconfidential and non-
+35 personally identifying information:
+36 (1) Number of households investigated for intentional program
+37 violations or fraud;
+38 (2) total number of households referred to the attorney general's
+39 office for prosecution;
+40 (3) improper payments and expenditures;
+41 (4) moneys recovered;
+42 (5) data concerning improper payments and ineligible recipients as a
+43 percentage of those investigated and reviewed; and
+HB 2360 3
+1 (6) amount of funds expended by electronic benefit card transactions
+2 in each state outside of Kansas.
+3 Sec. 2. This act shall take effect and be in force from and after its
+4 publication in the statute book.
+[DELETED: AcdedaBS0p1c2(3h4a5o6p7s8i9d0(112o3c4l5o6(e ae sy sl re ad rw d7c8s9i0a1(2n3(4l5(]
+[DELETED: 0ry as id by oe ec bt tt(ni(n(n0(1g2w3l4u5t6l7(8o9t0(1s2i3s4(5d6t7(8S9(0b1(2t3fm fs of ne ad fd is in f4ae fr te fg a, nl ad n5p6(r of hs id fr il p7v8(9o0(1(2(3p]
+[DELETED: 0(iSp]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2360
+By Committee on Welfare Reform
+Requested by Representative Awerkamp
+2-7
+1 AN ACT concerning public assistance; relating to the secretary for
+2 children and families and the secretary of health and environment;
+3 directing the secretaries to enter into agreements with commercial
+4 entities and state agencies for the continuous review and comparison of
+5 data for public assistance eligibility; requiring the secretary for children
+6 and families to review federal sources to verify such eligibility.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 Section 1. (a) (1) To verify eligibility for the food assistance program
+10 pursuant to K.S.A. 39-709, and amendments thereto, the secretary for
+11 children and families and the secretary of health and environment shall:
+12 (A) Enter into data matching agreements to compare data related to
+13 households enrolled in food assistance, child support services, medicaid
+14 and other public assistance programs with commercial entities that collect
+15 or maintain data regarding employment and wages as a "payroll data
+16 provider" as defined by the fair credit reporting act, 15 U.S.C. § 1681 et
+17 seq., as in effect on July 1, 2025, to obtain real-time employment and
+18 income data, including up-to-date, non- modeled employment and income
+19 data provided by employers or payroll providers; or
+20 (B) present to the legislative coordinating council prior to November
+21 1, 2025, commercial, state and federal agency options to compare data
+22 options. Upon receipt and review of such options from the secretary for
+23 children and families and the secretary of health and environment, the
+24 legislative coordinating council shall make the determination of approval
+25 of the data matching agreement.
+26 (2) The appropriate secretary shall receive and review data
+27 concerning individuals or households enrolled in food assistance, child
+28 support services, medicaid and other public assistance programs that
+29 indicates a change in circumstances that may affect eligibility for a public
+30 assistance program on at least a:
+31 (A) Monthly basis, from the office of vital statistics, including, but
+32 not limited to, death records;
+33 (B) quarterly basis, from the department of labor, including, but not
+34 limited to, changes in employment or wages;
+35 (C) monthly basis, including, but not limited to, potential changes in
+
+HB 2360 2
+1 residency as identified by out-of-state electronic benefit transfer
+2 transactions;
+3 (D) quarterly basis, from the department of revenue, including, but
+4 not limited to, potential changes in income, wages or residency as
+5 identified by tax records;
+6 (E) monthly basis, from the department of corrections, including, but
+7 not limited to, incarceration status;
+8 (F) semi-monthly basis, from the department of labor, including, but
+9 not limited to, potential changes in employment, income or assets; and
+10 (G) monthly basis, from the Kansas lottery and the Kansas racing and
+11 gaming commission, to identify households with lottery or gambling
+12 winnings of $3,000 or greater and, to the extent permissible under federal
+13 law, deem the data verified upon receipt, and if such data is not verified
+14 upon receipt, the department shall make referrals for further investigation
+15 to identify households with winnings equal to or greater than the resource
+16 limit for elderly or disabled households as defined in 7 C.F.R. § 273.8(b).
+17 (b) On at least a monthly basis, to assess continued eligibility and act
+18 on findings, the secretary for children and families shall review and act on
+19 the following data from federal sources:
+20 (1) Earned income information, death records, incarceration records,
+21 supplemental security income information, beneficiary records, earnings
+22 information and pension information maintained by the United States
+23 social security administration;
+24 (2) income and employment information maintained in the national
+25 directory of new hires and child support enforcement data maintained by
+26 the United States department of health and human services;
+27 (3) payment and earnings information maintained by the United
+28 States department of housing and urban development; and
+29 (4) fleeing felon information maintained by the United States federal
+30 bureau of investigation.
+31 (c) On at least a quarterly basis, the secretary shall make available to
+32 the public on the Kansas department for children and families website data
+33 from findings of noncompliance and fraud investigations in food
+34 assistance for the following aggregate, nonconfidential and non-
+35 personally identifying information:
+36 (1) Number of households investigated for intentional program
+37 violations or fraud;
+38 (2) total number of households referred to the attorney general's
+39 office for prosecution;
+40 (3) improper payments and expenditures;
+41 (4) moneys recovered;
+42 (5) data concerning improper payments and ineligible recipients as a
+43 percentage of those investigated and reviewed; and
+
+HB 2360 3
+1 (6) amount of funds expended by electronic benefit card transactions
+2 in each state outside of Kansas.
+3 Sec. 2. This act shall take effect and be in force from and after its
+4 publication in the statute book.
+
+[DELETED: AcdedaBS0p1c2(3h4a5o6p7s8i9d0(112o3c4l5o6(e ae sy sl re ad rw d7c8s9i0a1(2n3(4l5(]
+[DELETED: 0ry as id by oe ec bt tt(ni(n(n0(1g2w3l4u5t6l7(8o9t0(1s2i3s4(5d6t7(8S9(0b1(2t3fm fs of ne ad fd is in f4ae fr te fg a, nl ad n5p6(r of hs id fr il p7v8(9o0(1(2(3p]
+[DELETED: 0(iSp]

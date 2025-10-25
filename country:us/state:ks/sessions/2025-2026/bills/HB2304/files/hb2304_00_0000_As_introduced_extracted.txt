@@ -1,0 +1,544 @@
+Title: HOUSE BILL No. 2304
+Official Title: HOUSE BILL No. 2304
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Commerce, Labor and Economic Development
+Requested by Representative K. Williams
+2-5
+1 AN ACT concerning economic development; relating to government
+2 transparency; requiring local governments to report certain local
+3 economic development incentive program information to the secretary
+4 of commerce; defining such programs; requiring the secretary of
+5 commerce to post such information on the economic development
+6 incentive program database maintained by the secretary; requiring
+7 certain search result presentation formats, a comprehensive report and a
+8 summary report; amending K.S.A. 2024 Supp. 74-50,226 and 74-
+9 50,227 and repealing the existing sections.
+10
+11 Be it enacted by the Legislature of the State of Kansas:
+12 Section 1. K.S.A. 2024 Supp. 74-50,226 is hereby amended to read as
+13 follows: 74-50,226. As used in K.S.A. 2024 Supp. 74-50,226 and 74-
+14 50,227, and amendments thereto:
+15 (a) "Administering agency" means the state agency or department
+16 charged with administering a particular economic development incentive
+17 program, as set forth by the program's enacting statute or, where no
+18 department or agency is set forth, the department of revenue.
+19 (b) "Economic development incentive program" means:
+20 (1) Any economic development incentive program administered
+21 wholly or in part by the secretary of commerce;
+22 (2) any tax credit program, except for social and domestic tax credits,
+23 regardless of the administering agency;
+24 (3) property that has been exempted from ad valorem taxation under
+25 the provisions of section 13 of article 11 of the constitution of the state of
+26 Kansas;
+27 (4) property that has been purchased, acquired, constructed,
+28 reconstructed, improved, equipped, furnished, repaired, enlarged or
+29 remodeled with all or any part of the proceeds of revenue bonds issued
+30 under the authority of K.S.A. 12-1740 through 12-1749a, and amendments
+31 thereto, that is exempt from ad valorem taxation under K.S.A. 79-201a
+32 Second, and amendments thereto; and
+33 (5) any economic development fund, including, but not limited to, the
+34 job creation program fund established by K.S.A. 74-50,224, and
+35 amendments thereto, and the economic development initiatives fund,
+HB 2304 2
+1 established by K.S.A. 79-4804, and amendments thereto; and
+2 (6) local government-based economic development programs or
+3 incentives, including, but not limited to:
+4 (A) Community improvement districts, K.S.A. 12-6a26 et seq., and
+5 amendments thereto;
+6 (B) tax increment financing, K.S.A. 12-1770 et seq., and amendments
+7 thereto;
+8 (C) business improvement districts, K.S.A. 12-1781 et seq., and
+9 amendments thereto;
+10 (D) self-supported municipal improvement districts, K.S.A. 12-1794
+11 et seq., and amendments thereto;
+12 (E) neighborhood revitalization act, K.S.A. 12-17,114 et seq., and
+13 amendments thereto;
+14 (F) downtown redevelopment act, K.S.A. 12-17,121 et seq., and
+15 amendments thereto;
+16 (G) transportation development districts, K.S.A. 12-17,140 et seq.,
+17 and amendments thereto;
+18 (H) public improvement districts, K.S.A. 12-17,152 et seq., and
+19 amendments thereto;
+20 (I) industrial development bonds, K.S.A. 12-3801 et seq., and
+21 amendments thereto; and
+22 (J) any grant, loan, lease, land acquisition, site preparation, utilities,
+23 facilities, streets or roadways, workforce development, workforce training
+24 or any other incentive offered by the local government and accepted by the
+25 recipient that may be quantified as to the value provided to the recipient.
+26 (c) "Enterprise" means a corporation, limited liability company, S
+27 corporation, partnership, registered limited liability partnership,
+28 foundation, association, nonprofit entity, sole proprietorship, business trust
+29 or other entity engaged in business.
+30 (d) "Local government" means:
+31 (1) Any city, county or unified government, or any subdivision
+32 thereof; or
+33 (2) any instrumentality of a city, county or unified government,
+34 established for the purpose of economic development of such city, county
+35 or unified government, that is funded in whole or in part by such local
+36 government.
+37 (e) "Recipient" means the enterprise, identified by the business name
+38 filed with the secretary of state, that is the original applicant for and that
+39 receives proceeds from an economic development incentive program
+40 directly from the administering agency. "Recipient" includes an enterprise
+41 that is no longer solvent due to bankruptcy and a recipient with respect to
+42 an economic development project that has failed. If the "recipient" is an
+43 enterprise created primarily for the purpose of the economic development
+HB 2304 3
+1 project, "recipient" includes the enterprise or enterprises, partners or
+2 principals that own or, individually or with other enterprises, have a
+3 controlling interest in the "recipient."
+4 (f) "Searchable website or web page" means a website or web page
+5 that allows the public to search and aggregate the information identified
+6 and required to be provided by this section and K.S.A. 74-50,227, and
+7 amendments thereto, including requirements that the website or web page
+8 offer users the ability to efficiently search and display data at least by
+9 economic development incentive program, recipient and location of the
+10 economic development project by county.
+11 (e)(g) "Social and domestic tax credits" means the adoption credit
+12 created pursuant to K.S.A. 79-202a 79-32,202a, and amendments thereto,
+13 the earned income tax credit created pursuant to K.S.A. 79-32,205, and
+14 amendments thereto, the food sales tax credit created pursuant to K.S.A.
+15 79-32,271, and amendments thereto, the child and dependent care tax
+16 credit created pursuant to K.S.A. 79-32,111c, and amendments thereto, and
+17 the homestead property tax refund created pursuant to K.S.A. 79-4501 et
+18 seq., and amendments thereto.
+19 (f)(h) "Tax credit program" means any credit allowed against the tax
+20 imposed by the Kansas income tax act, the premium or privilege fees
+21 imposed pursuant to K.S.A. 40-252, and amendments thereto, or the
+22 privilege tax as measured by net income of financial institutions imposed
+23 pursuant to article 11 of chapter 79 of the Kansas Statutes Annotated, and
+24 amendments thereto.
+25 Sec. 2. K.S.A. 2024 Supp. 74-50,227 is hereby amended to read as
+26 follows: 74-50,227. (a) The department of commerce shall collect
+27 incentive data from economic development incentive programs that
+28 provide more than $50,000 of annual incentives from administering
+29 agencies or local governments as required by this section. Such data shall
+30 be collected from administering agencies or local governments and be
+31 stored in a database that is available to the public in a digital format. The
+32 database shall contain information from multiple years and must be
+33 searchable, printable and available to access over the internet on the
+34 department of commerce's website on a permanently accessible web page
+35 that may be accessed via a conspicuous link to that web page placed on the
+36 front page of the department's website. Information included in the
+37 database shall be updated by the department of commerce at least on an
+38 annual basis and such update shall be completed prior to the end of the
+39 following fiscal year in which such incentive was earned or distributed.
+40 The database shall be a searchable website or web page that is
+41 comprehensive of all information required by this section for all years as
+42 required by this section and shall permit searches by a user of such
+43 information by economic development incentive program, county and
+HB 2304 4
+1 recipient. The database shall permit the user, on one web page and by
+2 means of an easily accessible drop-down menu or other similar prompt, to
+3 select to search at least by keyword or phrase within separately identified
+4 categories of economic development incentive program, county and
+5 recipient name. A search result shall include all information required by
+6 this section, and such information applicable to the search result shall be
+7 in one printable or downloadable report. In addition to such a
+8 comprehensive report, the database shall be configured to provide a
+9 summary report in response to a search when requested. The summary
+10 report shall provide the total incentives awarded to the recipient and the
+11 total incentives that have been provided to the recipient. Such information
+12 shall be produced by economic development incentive program, county
+13 and recipient name.
+14 (b) (1) Local governments shall provide the department of commerce
+15 with all available and reasonably obtainable information required by this
+16 section for all active economic development incentive programs of such
+17 local government commenced prior to July 1, 2025, that provide more
+18 than $50,000 in value in annual incentives. On and after July 1, 2025,
+19 requiring the provision of all information required by this section as
+20 necessary from a recipient and providing such information to the
+21 department of commerce by the local government shall be a condition of
+22 commencing or providing any incentive to a recipient pursuant to any
+23 economic development incentive program that will provide more than
+24 $50,000 in value in annual incentives. Information required by this section
+25 for programs commencing after July 1, 2025, shall be provided to the
+26 department of commerce within 30 days of the execution of an economic
+27 development incentive program agreement between the local government
+28 and the recipient. The local government shall provide updates of all
+29 applicable information required by this section to the secretary of
+30 commerce, in the manner and form as required by the secretary, at least
+31 annually and at such additional time or times as may be required by the
+32 secretary.
+33 (2) On an after July 1, 2025, any recipient that will receive more than
+34 $50,000 in value in annual incentives from any economic development
+35 incentive program provided by a local government or any administering
+36 agency shall, as a condition of the award of such incentives, agree to
+37 provide all information required by this section to the secretary, at such
+38 times and in the form and manner as required by the secretary, for
+39 publication on the department's database as provided by this section.
+40 (b)(c) The database required to be created by subsection (a) shall
+41 contain the following information or shall contain a link by which the user
+42 can access such information:
+43 (1) User information for each economic development incentive
+HB 2304 5
+1 program, including the:
+2 (A) Names and addresses, including county, of recipients receiving
+3 benefits from the program and, for sales tax and revenue bonds issued
+4 under the STAR bond financing act, K.S.A. 12-17,162 et seq., and
+5 amendments thereto, the names of principals and officers for each project
+6 developer;
+7 (B) annual amount of incentives claimed, distributed to or received
+8 by each recipient and any remaining balance of the total amount of
+9 incentives claimed or awarded to the recipient;
+10 (C) qualification criteria for the economic development incentive
+11 program, including, if available, qualification criteria specific to the
+12 recipient. Qualification criteria shall include, but not be limited to, any
+13 requirements regarding the number of jobs created or the amount of initial
+14 or annual capital improvement;
+15 (D) required benchmarks for continued participation in the economic
+16 development incentive program and progress made toward the
+17 benchmarks; and
+18 (E) years for which the recipient has received benefits under the
+19 economic development incentive program;
+20 (2) descriptive information for each economic development program,
+21 which shall include:
+22 (A) A description and history of the program, including its inception
+23 date;
+24 (B) the purpose or goals of the program and the criteria for
+25 qualification;
+26 (C) applications for the program, if any, and relevant resources or
+27 contacts;
+28 (D) the program cost and return on investment, including
+29 assumptions used to calculate the return on investment;
+30 (E) the program compliance rate;
+31 (F) annual reports, if required by statute; and
+32 (G) evaluations of the program, if any; and
+33 (3) annual data, which shall be organized by recipient, county and
+34 program and shall include the:
+35 (A) Total amount of annual incentives from a program claimed or
+36 received by a recipient;
+37 (B) total amount of incentives received by recipients in each county;
+38 and
+39 (C) total amount of incentives distributed by each program.
+40 (c)(d) Data collected pursuant to this section must shall be aggregated
+41 and provided by program, recipient and county.
+42 (d)(e) Except as otherwise provided in this subsection, and
+43 notwithstanding any information publication requirements listed in this
+HB 2304 6
+1 section, no information shall be disclosed by the secretary of commerce
+2 under this section if such disclosure would:
+3 (1) Violate any federal law;
+4 (2) violate the confidentiality provisions of any agreement executed
+5 before July 1, 2019 2025;
+6 (3) in the discretion of the secretary of commerce, be detrimental to
+7 the development of a STAR bond project or jeopardize an economic
+8 development incentive program or project; or
+9 (4) disclose the names or other personally identifying information of
+10 individuals who have made contributions or investments pursuant to the
+11 provisions of an economic development incentive program for the purpose
+12 of receiving a tax credit.
+13 Information that is otherwise publicly available shall not be considered
+14 confidential and shall be subject to publication as provided in this section.
+15 (e)(f) (1) The secretary of commerce shall report in writing to the
+16 standing committee on commerce, labor and economic development of the
+17 house of representatives and the standing committee on commerce of the
+18 senate any information not disclosed by the secretary pursuant to
+19 subsection (d)(3) and the reason why the information was not disclosed.
+20 Commencing on January 31, 2026, such reports shall be made on or
+21 before January 31 of each year for such information not disclosed in the
+22 fiscal year ending the preceding June 30. Any testimony or oral
+23 presentation before the committee or discussion by the committee with
+24 respect to the report shall be considered the discussion of data relating to
+25 financial affairs or trade secrets of corporations, partnerships, trusts, and
+26 individual proprietorships pursuant to the provisions of K.S.A. 75-4319(b)
+27 (4), and amendments thereto, for purposes of the Kansas open meetings
+28 act, and shall be closed to the public.
+29 (2) The report of the secretary pursuant to subsection (e)(1) (f)(1)
+30 shall be confidential and shall not be subject to the provisions of the
+31 Kansas open records act, K.S.A. 45-215 et seq., and amendments thereto,
+32 except that two years after the report is submitted to a legislative
+33 committee, such report shall be a public record open for inspection under
+34 the Kansas open records act, K.S.A. 45-215 et seq., and amendments
+35 thereto.
+36 Sec. 3. K.S.A. 2024 Supp. 74-50,226 and 74-50,227 are hereby
+37 repealed.
+38 Sec. 4. This act shall take effect and be in force from and after its
+39 publication in the statute book.
+[DELETED: At; rg ll gs to rt cn leocics51B2S3f455(6c7p8d9(0(y ec dt ie pm a1w2(3r4(5t6K7(y tt hs bn p, a, c8r, i, e, f, r, ed o9r0u1t2S3(4jb cn pm fd ed by K. 7, a5a]
+[DELETED: 4e(l gd ec dt ps oi(a(t(a0(1e2(3a4(5a6(7a8(t t 9a0(l dt b, K. 11 et s, a1a2(3f4o5r6(7c, p, rd ld ly p8f9o0(1(r 2t3(4e5o6g7(8f9r0d1t2a3e]
+[DELETED: 4ppc(taaoe0e1(2c3t4a576c7t8s9(0i1i2p3p4a5S6f: 7. () Te dt of ce sl c7ie da fm ec dt ie ps t8p9a0b o a1s2d c b3s a4d5t6f7d8a9f0Te de sl be a se we or wb pe tt i1c2r3i]
+[DELETED: 4rmscs of ec dt ie p, cy artin oe pe or de r. In an to sh acs0r1t2s3a4(5w6s7l8t9r0ny fm a rt ad pg sh in to t1d2c3e4$5f6d7d8a9ae in rd by ts sn to t sy o0c1a2s3(4$5i6a7p8t9p0(1c2c3(r in fr eh ec dt i]
+[DELETED: 4p(buad(bi0(1p2r3r4o5(6dt ie pm ad ps me td t7b8(9e0(1w2(3d4(e pe or gs of te pm ad te ca f5q6(7c8(e pm ct ad rn on i, i9a0(1(2(3(4p5(6r7(8a9(0(1a2(t as oe pd in ts s, a3n]
+[DELETED: 4su((b(td(0i1p2o3I4c5(6s7h8se ay in nt dd by te sy pt t9s0C1b2fl yr eg te pg Je 3 Ay ty or o3p4r5f6i7(8a9( ( (0s1K2es t 3c4t5t6S7r8S9p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2304
+By Committee on Commerce, Labor and Economic Development
+Requested by Representative K. Williams
+2-5
+1 AN ACT concerning economic development; relating to government
+2 transparency; requiring local governments to report certain local
+3 economic development incentive program information to the secretary
+4 of commerce; defining such programs; requiring the secretary of
+5 commerce to post such information on the economic development
+6 incentive program database maintained by the secretary; requiring
+7 certain search result presentation formats, a comprehensive report and a
+8 summary report; amending K.S.A. 2024 Supp. 74-50,226 and 74-
+9 50,227 and repealing the existing sections.
+10
+11 Be it enacted by the Legislature of the State of Kansas:
+12 Section 1. K.S.A. 2024 Supp. 74-50,226 is hereby amended to read as
+13 follows: 74-50,226. As used in K.S.A. 2024 Supp. 74-50,226 and 74-
+14 50,227, and amendments thereto:
+15 (a) "Administering agency" means the state agency or department
+16 charged with administering a particular economic development incentive
+17 program, as set forth by the program's enacting statute or, where no
+18 department or agency is set forth, the department of revenue.
+19 (b) "Economic development incentive program" means:
+20 (1) Any economic development incentive program administered
+21 wholly or in part by the secretary of commerce;
+22 (2) any tax credit program, except for social and domestic tax credits,
+23 regardless of the administering agency;
+24 (3) property that has been exempted from ad valorem taxation under
+25 the provisions of section 13 of article 11 of the constitution of the state of
+26 Kansas;
+27 (4) property that has been purchased, acquired, constructed,
+28 reconstructed, improved, equipped, furnished, repaired, enlarged or
+29 remodeled with all or any part of the proceeds of revenue bonds issued
+30 under the authority of K.S.A. 12-1740 through 12-1749a, and amendments
+31 thereto, that is exempt from ad valorem taxation under K.S.A. 79-201a
+32 Second, and amendments thereto; and
+33 (5) any economic development fund, including, but not limited to, the
+34 job creation program fund established by K.S.A. 74-50,224, and
+35 amendments thereto, and the economic development initiatives fund,
+
+HB 2304 2
+1 established by K.S.A. 79-4804, and amendments thereto; and
+2 (6) local government-based economic development programs or
+3 incentives, including, but not limited to:
+4 (A) Community improvement districts, K.S.A. 12-6a26 et seq., and
+5 amendments thereto;
+6 (B) tax increment financing, K.S.A. 12-1770 et seq., and amendments
+7 thereto;
+8 (C) business improvement districts, K.S.A. 12-1781 et seq., and
+9 amendments thereto;
+10 (D) self-supported municipal improvement districts, K.S.A. 12-1794
+11 et seq., and amendments thereto;
+12 (E) neighborhood revitalization act, K.S.A. 12-17,114 et seq., and
+13 amendments thereto;
+14 (F) downtown redevelopment act, K.S.A. 12-17,121 et seq., and
+15 amendments thereto;
+16 (G) transportation development districts, K.S.A. 12-17,140 et seq.,
+17 and amendments thereto;
+18 (H) public improvement districts, K.S.A. 12-17,152 et seq., and
+19 amendments thereto;
+20 (I) industrial development bonds, K.S.A. 12-3801 et seq., and
+21 amendments thereto; and
+22 (J) any grant, loan, lease, land acquisition, site preparation, utilities,
+23 facilities, streets or roadways, workforce development, workforce training
+24 or any other incentive offered by the local government and accepted by the
+25 recipient that may be quantified as to the value provided to the recipient.
+26 (c) "Enterprise" means a corporation, limited liability company, S
+27 corporation, partnership, registered limited liability partnership,
+28 foundation, association, nonprofit entity, sole proprietorship, business trust
+29 or other entity engaged in business.
+30 (d) "Local government" means:
+31 (1) Any city, county or unified government, or any subdivision
+32 thereof; or
+33 (2) any instrumentality of a city, county or unified government,
+34 established for the purpose of economic development of such city, county
+35 or unified government, that is funded in whole or in part by such local
+36 government.
+37 (e) "Recipient" means the enterprise, identified by the business name
+38 filed with the secretary of state, that is the original applicant for and that
+39 receives proceeds from an economic development incentive program
+40 directly from the administering agency. "Recipient" includes an enterprise
+41 that is no longer solvent due to bankruptcy and a recipient with respect to
+42 an economic development project that has failed. If the "recipient" is an
+43 enterprise created primarily for the purpose of the economic development
+
+HB 2304 3
+1 project, "recipient" includes the enterprise or enterprises, partners or
+2 principals that own or, individually or with other enterprises, have a
+3 controlling interest in the "recipient."
+4 (f) "Searchable website or web page" means a website or web page
+5 that allows the public to search and aggregate the information identified
+6 and required to be provided by this section and K.S.A. 74-50,227, and
+7 amendments thereto, including requirements that the website or web page
+8 offer users the ability to efficiently search and display data at least by
+9 economic development incentive program, recipient and location of the
+10 economic development project by county.
+11 (e)(g) "Social and domestic tax credits" means the adoption credit
+12 created pursuant to K.S.A. 79-202a 79-32,202a, and amendments thereto,
+13 the earned income tax credit created pursuant to K.S.A. 79-32,205, and
+14 amendments thereto, the food sales tax credit created pursuant to K.S.A.
+15 79-32,271, and amendments thereto, the child and dependent care tax
+16 credit created pursuant to K.S.A. 79-32,111c, and amendments thereto, and
+17 the homestead property tax refund created pursuant to K.S.A. 79-4501 et
+18 seq., and amendments thereto.
+19 (f)(h) "Tax credit program" means any credit allowed against the tax
+20 imposed by the Kansas income tax act, the premium or privilege fees
+21 imposed pursuant to K.S.A. 40-252, and amendments thereto, or the
+22 privilege tax as measured by net income of financial institutions imposed
+23 pursuant to article 11 of chapter 79 of the Kansas Statutes Annotated, and
+24 amendments thereto.
+25 Sec. 2. K.S.A. 2024 Supp. 74-50,227 is hereby amended to read as
+26 follows: 74-50,227. (a) The department of commerce shall collect
+27 incentive data from economic development incentive programs that
+28 provide more than $50,000 of annual incentives from administering
+29 agencies or local governments as required by this section. Such data shall
+30 be collected from administering agencies or local governments and be
+31 stored in a database that is available to the public in a digital format. The
+32 database shall contain information from multiple years and must be
+33 searchable, printable and available to access over the internet on the
+34 department of commerce's website on a permanently accessible web page
+35 that may be accessed via a conspicuous link to that web page placed on the
+36 front page of the department's website. Information included in the
+37 database shall be updated by the department of commerce at least on an
+38 annual basis and such update shall be completed prior to the end of the
+39 following fiscal year in which such incentive was earned or distributed.
+40 The database shall be a searchable website or web page that is
+41 comprehensive of all information required by this section for all years as
+42 required by this section and shall permit searches by a user of such
+43 information by economic development incentive program, county and
+
+HB 2304 4
+1 recipient. The database shall permit the user, on one web page and by
+2 means of an easily accessible drop-down menu or other similar prompt, to
+3 select to search at least by keyword or phrase within separately identified
+4 categories of economic development incentive program, county and
+5 recipient name. A search result shall include all information required by
+6 this section, and such information applicable to the search result shall be
+7 in one printable or downloadable report. In addition to such a
+8 comprehensive report, the database shall be configured to provide a
+9 summary report in response to a search when requested. The summary
+10 report shall provide the total incentives awarded to the recipient and the
+11 total incentives that have been provided to the recipient. Such information
+12 shall be produced by economic development incentive program, county
+13 and recipient name.
+14 (b) (1) Local governments shall provide the department of commerce
+15 with all available and reasonably obtainable information required by this
+16 section for all active economic development incentive programs of such
+17 local government commenced prior to July 1, 2025, that provide more
+18 than $50,000 in value in annual incentives. On and after July 1, 2025,
+19 requiring the provision of all information required by this section as
+20 necessary from a recipient and providing such information to the
+21 department of commerce by the local government shall be a condition of
+22 commencing or providing any incentive to a recipient pursuant to any
+23 economic development incentive program that will provide more than
+24 $50,000 in value in annual incentives. Information required by this section
+25 for programs commencing after July 1, 2025, shall be provided to the
+26 department of commerce within 30 days of the execution of an economic
+27 development incentive program agreement between the local government
+28 and the recipient. The local government shall provide updates of all
+29 applicable information required by this section to the secretary of
+30 commerce, in the manner and form as required by the secretary, at least
+31 annually and at such additional time or times as may be required by the
+32 secretary.
+33 (2) On an after July 1, 2025, any recipient that will receive more than
+34 $50,000 in value in annual incentives from any economic development
+35 incentive program provided by a local government or any administering
+36 agency shall, as a condition of the award of such incentives, agree to
+37 provide all information required by this section to the secretary, at such
+38 times and in the form and manner as required by the secretary, for
+39 publication on the department's database as provided by this section.
+40 (b)(c) The database required to be created by subsection (a) shall
+41 contain the following information or shall contain a link by which the user
+42 can access such information:
+43 (1) User information for each economic development incentive
+
+HB 2304 5
+1 program, including the:
+2 (A) Names and addresses, including county, of recipients receiving
+3 benefits from the program and, for sales tax and revenue bonds issued
+4 under the STAR bond financing act, K.S.A. 12-17,162 et seq., and
+5 amendments thereto, the names of principals and officers for each project
+6 developer;
+7 (B) annual amount of incentives claimed, distributed to or received
+8 by each recipient and any remaining balance of the total amount of
+9 incentives claimed or awarded to the recipient;
+10 (C) qualification criteria for the economic development incentive
+11 program, including, if available, qualification criteria specific to the
+12 recipient. Qualification criteria shall include, but not be limited to, any
+13 requirements regarding the number of jobs created or the amount of initial
+14 or annual capital improvement;
+15 (D) required benchmarks for continued participation in the economic
+16 development incentive program and progress made toward the
+17 benchmarks; and
+18 (E) years for which the recipient has received benefits under the
+19 economic development incentive program;
+20 (2) descriptive information for each economic development program,
+21 which shall include:
+22 (A) A description and history of the program, including its inception
+23 date;
+24 (B) the purpose or goals of the program and the criteria for
+25 qualification;
+26 (C) applications for the program, if any, and relevant resources or
+27 contacts;
+28 (D) the program cost and return on investment, including
+29 assumptions used to calculate the return on investment;
+30 (E) the program compliance rate;
+31 (F) annual reports, if required by statute; and
+32 (G) evaluations of the program, if any; and
+33 (3) annual data, which shall be organized by recipient, county and
+34 program and shall include the:
+35 (A) Total amount of annual incentives from a program claimed or
+36 received by a recipient;
+37 (B) total amount of incentives received by recipients in each county;
+38 and
+39 (C) total amount of incentives distributed by each program.
+40 (c)(d) Data collected pursuant to this section must shall be aggregated
+41 and provided by program, recipient and county.
+42 (d)(e) Except as otherwise provided in this subsection, and
+43 notwithstanding any information publication requirements listed in this
+
+HB 2304 6
+1 section, no information shall be disclosed by the secretary of commerce
+2 under this section if such disclosure would:
+3 (1) Violate any federal law;
+4 (2) violate the confidentiality provisions of any agreement executed
+5 before July 1, 2019 2025;
+6 (3) in the discretion of the secretary of commerce, be detrimental to
+7 the development of a STAR bond project or jeopardize an economic
+8 development incentive program or project; or
+9 (4) disclose the names or other personally identifying information of
+10 individuals who have made contributions or investments pursuant to the
+11 provisions of an economic development incentive program for the purpose
+12 of receiving a tax credit.
+13 Information that is otherwise publicly available shall not be considered
+14 confidential and shall be subject to publication as provided in this section.
+15 (e)(f) (1) The secretary of commerce shall report in writing to the
+16 standing committee on commerce, labor and economic development of the
+17 house of representatives and the standing committee on commerce of the
+18 senate any information not disclosed by the secretary pursuant to
+19 subsection (d)(3) and the reason why the information was not disclosed.
+20 Commencing on January 31, 2026, such reports shall be made on or
+21 before January 31 of each year for such information not disclosed in the
+22 fiscal year ending the preceding June 30. Any testimony or oral
+23 presentation before the committee or discussion by the committee with
+24 respect to the report shall be considered the discussion of data relating to
+25 financial affairs or trade secrets of corporations, partnerships, trusts, and
+26 individual proprietorships pursuant to the provisions of K.S.A. 75-4319(b)
+27 (4), and amendments thereto, for purposes of the Kansas open meetings
+28 act, and shall be closed to the public.
+29 (2) The report of the secretary pursuant to subsection (e)(1) (f)(1)
+30 shall be confidential and shall not be subject to the provisions of the
+31 Kansas open records act, K.S.A. 45-215 et seq., and amendments thereto,
+32 except that two years after the report is submitted to a legislative
+33 committee, such report shall be a public record open for inspection under
+34 the Kansas open records act, K.S.A. 45-215 et seq., and amendments
+35 thereto.
+36 Sec. 3. K.S.A. 2024 Supp. 74-50,226 and 74-50,227 are hereby
+37 repealed.
+38 Sec. 4. This act shall take effect and be in force from and after its
+39 publication in the statute book.
+
+[DELETED: At; rg ll gs to rt cn leocics51B2S3f455(6c7p8d9(0(y ec dt ie pm a1w2(3r4(5t6K7(y tt hs bn p, a, c8r, i, e, f, r, ed o9r0u1t2S3(4jb cn pm fd ed by K. 7, a5a]
+[DELETED: 4e(l gd ec dt ps oi(a(t(a0(1e2(3a4(5a6(7a8(t t 9a0(l dt b, K. 11 et s, a1a2(3f4o5r6(7c, p, rd ld ly p8f9o0(1(r 2t3(4e5o6g7(8f9r0d1t2a3e]
+[DELETED: 4ppc(taaoe0e1(2c3t4a576c7t8s9(0i1i2p3p4a5S6f: 7. () Te dt of ce sl c7ie da fm ec dt ie ps t8p9a0b o a1s2d c b3s a4d5t6f7d8a9f0Te de sl be a se we or wb pe tt i1c2r3i]
+[DELETED: 4rmscs of ec dt ie p, cy artin oe pe or de r. In an to sh acs0r1t2s3a4(5w6s7l8t9r0ny fm a rt ad pg sh in to t1d2c3e4$5f6d7d8a9ae in rd by ts sn to t sy o0c1a2s3(4$5i6a7p8t9p0(1c2c3(r in fr eh ec dt i]
+[DELETED: 4p(buad(bi0(1p2r3r4o5(6dt ie pm ad ps me td t7b8(9e0(1w2(3d4(e pe or gs of te pm ad te ca f5q6(7c8(e pm ct ad rn on i, i9a0(1(2(3(4p5(6r7(8a9(0(1a2(t as oe pd in ts s, a3n]
+[DELETED: 4su((b(td(0i1p2o3I4c5(6s7h8se ay in nt dd by te sy pt t9s0C1b2fl yr eg te pg Je 3 Ay ty or o3p4r5f6i7(8a9( ( (0s1K2es t 3c4t5t6S7r8S9p]

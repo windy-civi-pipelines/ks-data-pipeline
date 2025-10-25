@@ -1,0 +1,977 @@
+Title: HOUSE BILL No. 2375
+Official Title: HOUSE BILL No. 2375
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Appropriations
+Requested by Representative Ballard on behalf of the Office of the Governor
+2-11
+1 AN ACT concerning health and healthcare; relating to health insurance
+2 coverage; expanding medical assistance eligibility; enacting the
+3 healthcare access for working Kansans (HAWK) act; directing the
+4 department of health and environment to study certain medicaid
+5 expansion topics; adding meeting days to the Robert G. (Bob) Bethell
+6 joint committee on home and community based services and KanCare
+7 oversight to monitor implementation of expanded medical assistance
+8 eligibility; amending K.S.A. 39-7,160 and 40-3213 and repealing the
+9 existing sections.
+10
+11 Be it enacted by the Legislature of the State of Kansas:
+12 New Section 1. (a) Sections 1 through 11, and amendments thereto,
+13 shall be known and may be cited as the healthcare access for working
+14 Kansans (HAWK) act.
+15 (b) The legislature expressly consents to expand eligibility for receipt
+16 of benefits under the Kansas program of medical assistance, as required by
+17 K.S.A. 39-709(e)(2), and amendments thereto, by the passage and
+18 enactment of the act, subject to all requirements and limitations established
+19 in the act.
+20 (c) The secretary of health and environment shall adopt rules and
+21 regulations as necessary to implement and administer the act.
+22 (d) As used in sections 1 through 11, and amendments thereto, unless
+23 otherwise specified:
+24 (1) "138% of the federal poverty level," or words of like effect,
+25 includes a 5% income disregard permitted under the federal patient
+26 protection and affordable care act.
+27 (2) "Act" means the healthcare access for working Kansans (HAWK)
+28 act.
+29 New Sec. 2. (a) The secretary of health and environment shall submit
+30 to the United States centers for medicare and medicaid services any state
+31 plan amendment, waiver request or other approval request necessary to
+32 implement the act. At least 10 calendar days prior to submission of any
+33 such approval request to the United States centers for medicare and
+34 medicaid services, the secretary of health and environment shall submit
+35 such approval request application to the state finance council.
+HB 2375 2
+1 (b) For purposes of eligibility determinations under the Kansas
+2 program of medical assistance on and after January 1, 2026, medical
+3 assistance shall be granted to any adult under 65 years of age who is not
+4 pregnant and whose income meets the limitation established in subsection
+5 (c), as permitted under the provisions of 42 U.S.C. § 1396a, as it exists on
+6 the effective date of the act, and subject to a 90% federal medical
+7 assistance percentage and all requirements and limitations established in
+8 the act.
+9 (c) The secretary of health and environment shall submit to the
+10 United States centers for medicare and medicaid services any approval
+11 request necessary to provide medical assistance eligibility to individuals
+12 described in subsection (b) whose modified adjusted gross income does
+13 not exceed 138% of the federal poverty level.
+14 New Sec. 3. (a) The secretary of health and environment shall require
+15 each applicant for coverage under the act to provide employment
+16 verification at the time of initial application or renewal application. Such
+17 verification shall be a prerequisite for coverage under the act.
+18 (b) "Employment verification" means documentation demonstrating
+19 employment during the preceding 12 months that meets the eligibility
+20 requirements of the act. "Employment verification" includes, but is not
+21 limited to:
+22 (1) Federal form W-2 wage and tax statement;
+23 (2) a pay stub demonstrating gross income;
+24 (3) employment records;
+25 (4) federal form 1099 demonstrating payments for contract labor;
+26 (5) compliance with the requirements of K.S.A. 39-709(b), and
+27 amendments thereto; and
+28 (6) any other documentation as determined by the secretary of health
+29 and environment.
+30 (c) The following individuals shall be exempt from the requirements
+31 of this subsection:
+32 (1) A full-time student enrolled in a postsecondary educational
+33 institution or technical college, as defined by K.S.A. 74-3201b, and
+34 amendments thereto, for each year the student is enrolled in such
+35 educational setting;
+36 (2) a parent or guardian of a dependent child under 18 years of age or
+37 a parent or guardian of an incapacitated adult;
+38 (3) an individual who is mentally or physically unfit for employment,
+39 as defined by the secretary of health and environment, or has a pending
+40 application for supplemental security income or social security disability
+41 insurance;
+42 (4) an individual who has a permanent partial disability, as such term
+43 is used in K.S.A. 44-510e, and amendments thereto;
+HB 2375 3
+1 (5) an individual who is engaged in volunteer work for at least 20
+2 hours per week at a nonprofit organization, as such term is defined in
+3 K.S.A. 17-1779, and amendments thereto;
+4 (6) an individual experiencing homelessness, as such term is defined
+5 in 42 U.S.C. § 11302, as in effect on the effective date of this act;
+6 (7) an individual who served in the active military, naval, air or space
+7 service and was discharged or released from such military service under
+8 conditions other than dishonorable;
+9 (8) an individual who is not more than 22 years of age and in the
+10 custody of the secretary of children and families on the date that the
+11 individual reached 18 years of age; and
+12 (9) any individual who the secretary determines is experiencing
+13 hardship.
+14 New Sec. 4. (a) Except to the extent prohibited by 42 U.S.C. §
+15 1396u-2(a)(2), as it exists on the effective date of this act, the secretary of
+16 health and environment shall administer medical assistance benefits using
+17 a managed care delivery system using organizations subject to assessment
+18 of the privilege fee under K.S.A. 40-3213, and amendments thereto. If the
+19 United States centers for medicare and medicaid services determines that
+20 the assessment of a privilege fee provided in K.S.A. 40-3213, and
+21 amendments thereto, is unlawful or otherwise invalid, then the secretary of
+22 health and environment shall administer state medicaid services using a
+23 managed care delivery system.
+24 (b) In awarding a contract for an entity to administer state medicaid
+25 services using a managed care delivery system, the secretary of health and
+26 environment shall:
+27 (1) Not provide favorable or unfavorable treatment in awarding a
+28 contract based on an entity's for-profit or not-for-profit tax status;
+29 (2) give preference in awarding a contract to an entity that provides
+30 health insurance coverage plans on the health benefit exchange in Kansas
+31 established under the federal patient protection and affordable care act; and
+32 (3) require that any entity administering state medicaid services
+33 provide tiered benefit plans with enhanced benefits for covered individuals
+34 who demonstrate healthy behaviors, as determined by the secretary of
+35 health and environment, to be implemented on or before July 1, 2027.
+36 New Sec. 5. If the federal medical assistance percentage for coverage
+37 of medical assistance participants described in section 1902(a)(10)(A)(i)
+38 (VIII) of the federal social security act, 42 U.S.C. § 1396a, as it exists on
+39 the effective date of this act, becomes lower than 90%, then the secretary
+40 of health and environment shall terminate coverage under the act over a
+41 12-month period, beginning on the first day that the federal medical
+42 assistance percentage becomes lower than 90%. No individual shall be
+43 newly enrolled for coverage under the act after such date.
+HB 2375 4
+1 New Sec. 6. (a) Section 5, and amendments thereto, shall be
+2 nonseverable from the remainder of the act. If the provisions of section 5,
+3 and amendments thereto, are not approved by the United States centers for
+4 medicare and medicaid services, then the act shall be null and void and
+5 shall have no force and effect.
+6 (b) A denial of federal approval or federal financial participation that
+7 applies to any provision of the act not enumerated in subsection (a) shall
+8 not prohibit the secretary of health and environment from implementing
+9 any other provision of the act.
+10 New Sec. 7. (a) On or before January 10, 2027, and on or before the
+11 first day of the regular session of the legislature each year thereafter, the
+12 secretary of health and environment shall prepare and deliver a report to
+13 the legislature that summarizes the cost savings achieved by the state from
+14 the movement of covered individuals from the KanCare program to
+15 coverage under the act, including, but not limited to, the MediKan
+16 program, the medically needy spend-down program and the breast and
+17 cervical cancer program.
+18 (b) State cost savings shall be determined by calculating the cost of
+19 providing services to covered individuals in the KanCare program less the
+20 cost of services provided to covered individuals under the act.
+21 (c) If the secretary of health and environment implements other
+22 initiatives using cost savings achieved through the implementation of the
+23 act, the secretary shall include such initiatives as part of the report required
+24 in subsection (a).
+25 New Sec. 8. (a) The secretary of corrections and the secretary of
+26 health and environment shall coordinate with a county sheriff or such
+27 sheriff's deputy who requests assistance in facilitating medicaid coverage
+28 for any individual committed to a county jail or correctional facility during
+29 any time period that such individual is eligible for coverage under state or
+30 federal law.
+31 (b) If an individual is enrolled in medicaid when such individual is
+32 committed to a county jail or correctional facility, such medicaid status
+33 shall not be suspended or terminated based on such individual's
+34 incarceration for a minimum of 30 days. After 30 days, medicaid coverage
+35 may be suspended, but not terminated, up to the maximum amount of time
+36 permitted by state and federal law.
+37 (c) The secretary of health and environment shall coordinate with a
+38 county sheriff or such sheriff's deputy and the department of corrections to
+39 assist any individual who is committed to a county jail or correctional
+40 facility in applying for medicaid coverage prior to such individual's release
+41 from custody if such individual is likely to meet the requirements for
+42 medicaid coverage to allow adequate time for medicaid coverage to begin
+43 promptly upon release.
+HB 2375 5
+1 (d) The secretary of health and environment shall adopt any rules and
+2 regulations and supporting policies and procedures as necessary to
+3 implement and administer this section prior to January 1, 2026.
+4 New Sec. 9. On or before February 15, 2027, and on or before
+5 February 15 of each year thereafter, the secretary of health and
+6 environment shall present a report to the house of representatives standing
+7 committee on appropriations and the senate standing committee on ways
+8 and means that summarizes the costs of the act and the cost savings and
+9 additional revenues generated during the preceding fiscal year.
+10 New Sec. 10. (a) There is hereby established the rural health advisory
+11 committee.
+12 (b) The rural health advisory committee shall consist of 15 members
+13 appointed by the governor. The membership shall be comprised of
+14 individuals with a variety of backgrounds including medicine, education,
+15 farming, finance, business and individuals representing community
+16 interests in rural Kansas.
+17 (c) The governor shall designate one of the appointed members to be
+18 chairperson of the committee. The members of the advisory committee
+19 shall select a vice chairperson from the membership of the advisory
+20 committee.
+21 (d) Upon first appointment, five of the members shall serve for a term
+22 of one year, five of the members shall be appointed for a term of two years
+23 and five of the members shall be appointed for term of three years, as
+24 designated by the governor. The member designated as chairperson shall
+25 serve for a term of three years. Subsequent appointees shall serve terms of
+26 three years.
+27 (e) (1) The advisory committee may meet at any time and at any
+28 place within the state on the call of the chairperson. The advisory
+29 committee shall meet regularly, but shall meet at least once every calendar
+30 quarter.
+31 (2) A quorum of the advisory committee shall be eight voting
+32 members. All actions of the advisory committee shall be adopted by a
+33 majority of those voting members present when there is a quorum.
+34 (f) The advisory committee shall:
+35 (1) Advise the governor and other state agencies on rural health
+36 issues;
+37 (2) recommend and evaluate mechanisms to encourage greater
+38 cooperation between rural communities and rural health providers;
+39 (3) recommend and evaluate approaches to rural health issues that are
+40 sensitive to the needs of local communities;
+41 (4) develop methods to identify individuals who are underserved by
+42 the Kansas rural healthcare system; and
+43 (5) beginning in 2026, provide an annual report to the governor
+HB 2375 6
+1 containing the advice, recommendations and conclusions of the advisory
+2 committee.
+3 (g) The secretary of health and environment shall facilitate the work
+4 of the committee by providing access to meeting space and other necessary
+5 staff and office support. The secretary of health and environment may
+6 adopt any rules and regulations and supporting policies and procedures
+7 that are necessary to support the work of the advisory committee.
+8 New Sec. 11. The healthcare access for working Kansans (HAWK)
+9 act shall not provide coverage for abortion services, except in cases where
+10 coverage is mandated by federal law and federal financial participation is
+11 available.
+12 Sec. 12. K.S.A. 39-7,160 is hereby amended to read as follows: 39-
+13 7,160. (a) There is hereby established the Robert G. (Bob) Bethell joint
+14 committee on home and community based services and KanCare
+15 oversight. The joint committee shall review the number of individuals who
+16 are transferred from state or private institutions and long-term care
+17 facilities to the home and community based services and the associated
+18 cost savings and other outcomes of the money-follows-the-person
+19 program. The joint committee shall review the funding targets
+20 recommended by the interim report submitted for the 2007 legislature by
+21 the joint committee on legislative budget and use them as guidelines for
+22 future funding planning and policy making. The joint committee shall have
+23 oversight of savings resulting from the transfer of individuals from state or
+24 private institutions to home and community based services. As used in
+25 K.S.A. 39-7,159 through 39-7,162, and amendments thereto, "savings"
+26 means the difference between the average cost of providing services for
+27 individuals in an institutional setting and the cost of providing services in a
+28 home and community based setting. The joint committee shall study and
+29 determine the effectiveness of the program and cost-analysis of the state
+30 institutions or long-term care facilities based on the success of the transfer
+31 of individuals to home and community based services. The joint
+32 committee shall consider the issues of whether sufficient funding is
+33 provided for enhancement of wages and benefits of direct individual care
+34 workers and their staff training and whether adequate progress is being
+35 made to transfer individuals from the institutions and to move them from
+36 the waiver waiting lists to receive home and community based services.
+37 The joint committee shall review and ensure that any proceeds resulting
+38 from the successful transfer be applied to the system of provision of
+39 services for long-term care and home and community based services. The
+40 joint committee shall monitor and study the implementation and operations
+41 of the home and community based service programs, the children's health
+42 insurance program, the program for the all-inclusive care of the elderly
+43 and the state medicaid programs including, but not limited to, access to
+HB 2375 7
+1 and quality of services provided and any financial information and
+2 budgetary issues. Any state agency shall provide data and information on
+3 KanCare programs, including, but not limited to, pay for performance
+4 measures, quality measures and enrollment and disenrollment in specific
+5 plans, KanCare provider network data and appeals and grievances made to
+6 the KanCare ombudsman, to the joint committee, as requested.
+7 (b) The joint committee shall consist of 11 members of the legislature
+8 appointed as follows: (1) Two members of the house committee on health
+9 and human services appointed by the speaker of the house of
+10 representatives; (2) one member of the house committee on health and
+11 human services appointed by the minority leader of the house of
+12 representatives; (3) two members of the senate committee on public health
+13 and welfare appointed by the president of the senate; (4) one member of
+14 the senate committee on public health and welfare appointed by the
+15 minority leader of the senate; (5) two members of the house of
+16 representatives appointed by the speaker of the house of representatives,
+17 one of whom shall be a member of the house committee on appropriations;
+18 (6) one member of the house of representatives appointed by the minority
+19 leader of the house of representatives; and (7) two members of the senate
+20 appointed by the president of the senate, one of whom shall be a member
+21 of the senate committee on ways and means.
+22 (c) Members shall be appointed for terms coinciding with the
+23 legislative terms for which such members are elected or appointed. All
+24 members appointed to fill vacancies in the membership of the joint
+25 committee and all members appointed to succeed members appointed to
+26 membership on the joint committee shall be appointed in the manner
+27 provided for the original appointment of the member succeeded.
+28 (d) (1) The members originally appointed as members of the joint
+29 committee shall meet upon the call of the member appointed by the
+30 speaker of the house of representatives, who shall be the first chairperson,
+31 within 30 days of the effective date of this act. The vice-chairperson of the
+32 joint committee shall be appointed by the president of the senate.
+33 Chairperson and vice-chairperson shall alternate annually between the
+34 members appointed by the speaker of the house of representatives and the
+35 president of the senate. The ranking minority member shall be from the
+36 same chamber as the chairperson. On and after the effective date of this act
+37 Except as provided in paragraph (2), the joint committee shall meet at
+38 least once in January and once in April when the legislature is in regular
+39 session and at least once for two consecutive days during each of the third
+40 and fourth calendar quarters, on the call of the chairperson, but not to
+41 exceed six meetings in a calendar year, except additional meetings may be
+42 held on call of the chairperson when urgent circumstances exist which
+43 require such meetings. Six members of the joint committee shall constitute
+HB 2375 8
+1 a quorum.
+2 (2) During calendar year 2026 and calendar year 2027, the joint
+3 committee shall meet for one additional day per meeting pursuant to
+4 paragraph (1) in order to monitor the implementation of the healthcare
+5 access for working Kansans act and to review the following topics relating
+6 to such implementation:
+7 (A) Payment integrity and eligibility audits;
+8 (B) outcomes related to section 3, and amendments thereto;
+9 (C) health outcomes for individuals covered under the act;
+10 (D) budget projections and actual expenditures related to
+11 implementation of the act; and
+12 (E) expenses incurred by hospitals arising from charity care and
+13 services provided to patients who are unwilling or unable to pay for such
+14 services.
+15 (e) (1) At the beginning of each regular session of the legislature, the
+16 committee shall submit to the president of the senate, the speaker of the
+17 house of representatives, the house committee on health and human
+18 services and the senate committee on public health and welfare a written
+19 report on numbers of individuals transferred from the state or private
+20 institutions to the home and community based services including the
+21 average daily census in the state institutions and long-term care facilities,
+22 savings resulting from the transfer certified by the secretary for aging and
+23 disability services in a quarterly report filed in accordance with K.S.A. 39-
+24 7,162, and amendments thereto, and the current balance in the home and
+25 community based services savings fund of the Kansas department for
+26 aging and disability services.
+27 (2) Such report submitted under this subsection shall also include, but
+28 not be limited to, the following information on the KanCare program:
+29 (A) Quality of care and health outcomes of individuals receiving state
+30 medicaid services under the KanCare program, as compared to the
+31 provision of state medicaid services prior to January 1, 2013;
+32 (B) integration and coordination of health care healthcare procedures
+33 for individuals receiving state medicaid services under the KanCare
+34 program;
+35 (C) availability of information to the public about the provision of
+36 state medicaid services under the KanCare program, including, but not
+37 limited to, accessibility to health services, expenditures for health services,
+38 extent of consumer satisfaction with health services provided and
+39 grievance procedures, including quantitative case data and summaries of
+40 case resolution by the KanCare ombudsman;
+41 (D) provisions for community outreach and efforts to promote the
+42 public understanding of the KanCare program;
+43 (E) comparison of the actual medicaid costs expended in providing
+HB 2375 9
+1 state medicaid services under the KanCare program after January 1, 2013,
+2 to the actual costs expended under the provision of state medicaid services
+3 prior to January 1, 2013, including the manner in which such cost
+4 expenditures are calculated;
+5 (F) comparison of the estimated costs expended in a managed care
+6 system of providing state medicaid services under the KanCare program
+7 after January 1, 2013, to the actual costs expended under the KanCare
+8 program of providing state medicaid services after January 1, 2013;
+9 (G) comparison of caseload information for individuals receiving
+10 state medicaid services prior to January 1, 2013, to the caseload
+11 information for individuals receiving state medicaid services under the
+12 KanCare program after January 1, 2013; and
+13 (H) all written testimony provided to the joint committee regarding
+14 the impact of the provision of state medicaid services under the KanCare
+15 program upon residents of adult care homes.
+16 (3) The joint committee shall consider the external quality review
+17 reports and quality assessment and performance improvement program
+18 plans of each managed care organization providing state medicaid services
+19 under the KanCare program in the development of the report submitted
+20 under this subsection.
+21 (4) The report submitted under this subsection shall be published on
+22 the official website of the legislative research department.
+23 (f) Members of the committee shall have access to any medical
+24 assistance report and caseload data generated by the Kansas department of
+25 health and environment division of health care finance. Members of the
+26 committee shall have access to any report submitted by the Kansas
+27 department of health and environment division of health care finance to
+28 the centers for medicare and medicaid services of the United States
+29 department of health and human services.
+30 (g) Members of the committee shall be paid compensation, travel
+31 expenses and subsistence expenses or allowance as provided in K.S.A. 75-
+32 3212, and amendments thereto, for attendance at any meeting of the joint
+33 committee or any subcommittee meeting authorized by the committee.
+34 (h) In accordance with K.S.A. 46-1204, and amendments thereto, the
+35 legislative coordinating council may provide for such professional services
+36 as may be requested by the joint committee.
+37 (i) The joint committee may make recommendations and introduce
+38 legislation as it deems necessary in performing its functions.
+39 Sec. 13. K.S.A. 40-3213 is hereby amended to read as follows: 40-
+40 3213. (a) Every health maintenance organization and medicare provider
+41 organization subject to this act shall pay to the commissioner the following
+42 fees:
+43 (1) For filing an application for a certificate of authority, $150;
+HB 2375 10
+1 (2) for filing each annual report, $50; and
+2 (3) for filing an amendment to the certificate of authority, $10.
+3 (b) Every health maintenance organization subject to this act shall
+4 pay annually to the commissioner at the time such organization files its
+5 annual report, a privilege fee in an amount equal to the following
+6 percentages 5.77% of the total of all premiums, subscription charges or
+7 any other term that may be used to describe the charges made by such
+8 organization to enrollees: 3.31% during the reporting period beginning
+9 January 1, 2015, and ending December 31, 2017; and 5.77% on and after
+10 January 1, 2018. In such computations all such organizations shall be
+11 entitled to deduct therefrom any premiums or subscription charges
+12 returned on account of cancellations and dividends returned to enrollees. If
+13 the commissioner shall determine at any time that the application of the
+14 privilege fee, or a change in the rate of the privilege fee, would cause a
+15 denial of, reduction in or elimination of federal financial assistance to the
+16 state or to any health maintenance organization subject to this act, the
+17 commissioner is hereby authorized to terminate the operation of such
+18 privilege fee or the change in such privilege fee.
+19 (c) For the purpose of insuring the collection of the privilege fee
+20 provided for by subsection (b), every health maintenance organization
+21 subject to this act and required by subsection (b) to pay such privilege fee
+22 shall at the time it files its annual report, as required by K.S.A. 40-3220,
+23 and amendments thereto, make a return, generated by or at the direction of
+24 its chief officer or principal managing director, under penalty of K.S.A.
+25 21-5824, and amendments thereto, to the commissioner, stating the amount
+26 of all premiums, assessments and charges received by the health
+27 maintenance organization, whether in cash or notes, during the year ending
+28 on the last day of the preceding calendar year. Upon the receipt of such
+29 returns the commissioner of insurance shall verify such returns and
+30 reconcile the fees pursuant to subsection (f) upon such organization on the
+31 basis and at the rate provided in this section.
+32 (d) Premiums or other charges received by an insurance company
+33 from the operation of a health maintenance organization subject to this act
+34 shall not be subject to any fee or tax imposed under the provisions of
+35 K.S.A. 40-252, and amendments thereto.
+36 (e) Fees charged under this section shall be remitted to the state
+37 treasurer in accordance with the provisions of K.S.A. 75-4215, and
+38 amendments thereto. Upon receipt of each such remittance, the state
+39 treasurer shall deposit the entire amount in the state treasury to the credit
+40 of the medical assistance fee fund created by K.S.A. 40-3236, and
+41 amendments thereto.
+42 (f) (1) On and after January 1, 2018, In addition to any other filing or
+43 return required by this section, each health maintenance organization shall
+HB 2375 11
+1 submit a report to the commissioner on or before March 31 and September
+2 30 of each year containing an estimate of the total amount of all premiums,
+3 subscription charges or any other term that may be used to describe the
+4 charges made by such organization to enrollees that the organization
+5 expects to collect during the current calendar year. Upon filing each March
+6 31 report, the organization shall submit payment equal to ½ of the
+7 privilege fee that would be assessed by the commissioner for the current
+8 calendar year based upon the organization's reported estimate. Upon filing
+9 each September 30 report, the organization shall submit payment equal to
+10 the balance of the privilege fee that would be assessed by the
+11 commissioner for the current calendar year based upon the organization's
+12 reported estimates.
+13 (2) Any amount of privilege fees actually owed by a health
+14 maintenance organization during any calendar year in excess of estimated
+15 privilege fees paid shall be assessed by the commissioner and shall be due
+16 and payable upon issuance of such assessment.
+17 (3) Any amount of estimated privilege fees paid by a health
+18 maintenance organization during any calendar year in excess of privilege
+19 fees actually owed shall be reconciled when the commissioner assesses
+20 privilege fees in the ensuing calendar year. The commissioner shall credit
+21 such excess amount against future privilege fee assessments. Any such
+22 excess amount paid by a health maintenance organization that is no longer
+23 doing business in Kansas and that no longer has a duty to pay the privilege
+24 fee shall be refunded by the commissioner from funds appropriated by the
+25 legislature for such purpose.
+26 Sec. 14. K.S.A. 39-7,160 and 40-3213 are hereby repealed.
+27 Sec. 15. This act shall take effect and be in force from and after its
+28 publication in the Kansas register.
+[DELETED: Ac; eg ml ae e; eg thdt d t n ejoee1B2N3s4K5(6o7K. 3, ad as t, by te pe a8e9i0(1r2(3o4(5i6p7(8a9N0t1p2i3s4m5s]
+[DELETED: 5(r s of  ds r te pap(tat(0U1r2d3n4N5eh at fr ce ur te at to pe e6v7v8(9e0r1l2(3(4(5(6(7a8(9a0(1o2( fe st ed in a p e3i4as t, r h r e st s d i s5e6(7a8(9a0a1i2(3i]
+[DELETED: 5(hK(i(sc(0c1i2(3h4N516h7a8o9U0t1a2h3m4(5s6e7(8c9(0h1e2(3p4w5h6N7o8(9t0o112a3n]
+[DELETED: 5Nw S. 6) Sn 5, ad as t, sl bnams(ana0N1f2s3t4t5c6p7c8(9p0c1(2i3a4i5N6h7s8f9a0f1(2c3sl nt be sd or td bd on sh i4i5m6p7(8c9a0f1f2m3p]
+[DELETED: 5(rs ad sg ps ad ps as n tiNFy 15 of eh yr t, te sy of hh aecaa0N1c2(3al 4i5f, f, bs ad is rg c6i7(8c9s0c1(2o3a4d5s6t7(8p9c0q1(2m3m4(5(6i7(d ad ee ms to ee g8c9(0s1(2t3(]
+[DELETED: 5cc(osatNa0c1a2S374ce on he ad cy bd ss ad K5o6a7f8ct ss ad or os of te m9p. Te jt ce sl rw te fg t0r1t2f3o4p5K6m7i8h9d0i1of is to he ad cy bd s. Te j2c3p4w5m6t7T8f9s0j1o2i3a]
+[DELETED: 5al bKmpt(aad hn ss ad by te sr of te he o0r1hn ss ad b te m lr of te he o2r3a4t5my lr of te s; () to ms of te he o6r7o8(9l0a1o2(s sl be ad fr ts cg wh t3l4m5c6m7p8(9c0s1w2jt  sl b a b pt o te 3C4m5p6s7E8l9s0a1e2hn 3r]
+[DELETED: 5a(cpat(((0(t ps ad al es rd t1i2(3s4s5(6c7h8s9r0i1a2s3d475c6a7(8n9(0ms 1p2(3f4p5(6s7l8et of cr sn wh hh ss pd a9g0c1(2p3(]
+[DELETED: 5stpe(sap(0se md ss pr to Jy 1, 2, to te c1i2K3(4t5p6(7r8p9u0u1(2t3(4a5h6c7d8t9d0(1e233c4(5l6a7(8l9S031o2f3(]
+[DELETED: 51(((pa tpaoJ0J1ed to dt tm ay ps or sn c2r3t4p5d6s7c8p9(0p1s2s3a4i526of al p, as ad cs rd by te h7m8o9r0r1b2(3f4s5K6(7t8a9t0o1a2(3r]
+[DELETED: 51s3sce3o pce0te be of te pe fe tt wd be ad by t1c2r3(y at of pe fs ay od by a h4m5p6a7(y at of ed pe fs pd by a h8m9f0p1s2e3d4f5l6S7S8p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2375
+By Committee on Appropriations
+Requested by Representative Ballard on behalf of the Office of the Governor
+2-11
+1 AN ACT concerning health and healthcare; relating to health insurance
+2 coverage; expanding medical assistance eligibility; enacting the
+3 healthcare access for working Kansans (HAWK) act; directing the
+4 department of health and environment to study certain medicaid
+5 expansion topics; adding meeting days to the Robert G. (Bob) Bethell
+6 joint committee on home and community based services and KanCare
+7 oversight to monitor implementation of expanded medical assistance
+8 eligibility; amending K.S.A. 39-7,160 and 40-3213 and repealing the
+9 existing sections.
+10
+11 Be it enacted by the Legislature of the State of Kansas:
+12 New Section 1. (a) Sections 1 through 11, and amendments thereto,
+13 shall be known and may be cited as the healthcare access for working
+14 Kansans (HAWK) act.
+15 (b) The legislature expressly consents to expand eligibility for receipt
+16 of benefits under the Kansas program of medical assistance, as required by
+17 K.S.A. 39-709(e)(2), and amendments thereto, by the passage and
+18 enactment of the act, subject to all requirements and limitations established
+19 in the act.
+20 (c) The secretary of health and environment shall adopt rules and
+21 regulations as necessary to implement and administer the act.
+22 (d) As used in sections 1 through 11, and amendments thereto, unless
+23 otherwise specified:
+24 (1) "138% of the federal poverty level," or words of like effect,
+25 includes a 5% income disregard permitted under the federal patient
+26 protection and affordable care act.
+27 (2) "Act" means the healthcare access for working Kansans (HAWK)
+28 act.
+29 New Sec. 2. (a) The secretary of health and environment shall submit
+30 to the United States centers for medicare and medicaid services any state
+31 plan amendment, waiver request or other approval request necessary to
+32 implement the act. At least 10 calendar days prior to submission of any
+33 such approval request to the United States centers for medicare and
+34 medicaid services, the secretary of health and environment shall submit
+35 such approval request application to the state finance council.
+
+HB 2375 2
+1 (b) For purposes of eligibility determinations under the Kansas
+2 program of medical assistance on and after January 1, 2026, medical
+3 assistance shall be granted to any adult under 65 years of age who is not
+4 pregnant and whose income meets the limitation established in subsection
+5 (c), as permitted under the provisions of 42 U.S.C. § 1396a, as it exists on
+6 the effective date of the act, and subject to a 90% federal medical
+7 assistance percentage and all requirements and limitations established in
+8 the act.
+9 (c) The secretary of health and environment shall submit to the
+10 United States centers for medicare and medicaid services any approval
+11 request necessary to provide medical assistance eligibility to individuals
+12 described in subsection (b) whose modified adjusted gross income does
+13 not exceed 138% of the federal poverty level.
+14 New Sec. 3. (a) The secretary of health and environment shall require
+15 each applicant for coverage under the act to provide employment
+16 verification at the time of initial application or renewal application. Such
+17 verification shall be a prerequisite for coverage under the act.
+18 (b) "Employment verification" means documentation demonstrating
+19 employment during the preceding 12 months that meets the eligibility
+20 requirements of the act. "Employment verification" includes, but is not
+21 limited to:
+22 (1) Federal form W-2 wage and tax statement;
+23 (2) a pay stub demonstrating gross income;
+24 (3) employment records;
+25 (4) federal form 1099 demonstrating payments for contract labor;
+26 (5) compliance with the requirements of K.S.A. 39-709(b), and
+27 amendments thereto; and
+28 (6) any other documentation as determined by the secretary of health
+29 and environment.
+30 (c) The following individuals shall be exempt from the requirements
+31 of this subsection:
+32 (1) A full-time student enrolled in a postsecondary educational
+33 institution or technical college, as defined by K.S.A. 74-3201b, and
+34 amendments thereto, for each year the student is enrolled in such
+35 educational setting;
+36 (2) a parent or guardian of a dependent child under 18 years of age or
+37 a parent or guardian of an incapacitated adult;
+38 (3) an individual who is mentally or physically unfit for employment,
+39 as defined by the secretary of health and environment, or has a pending
+40 application for supplemental security income or social security disability
+41 insurance;
+42 (4) an individual who has a permanent partial disability, as such term
+43 is used in K.S.A. 44-510e, and amendments thereto;
+
+HB 2375 3
+1 (5) an individual who is engaged in volunteer work for at least 20
+2 hours per week at a nonprofit organization, as such term is defined in
+3 K.S.A. 17-1779, and amendments thereto;
+4 (6) an individual experiencing homelessness, as such term is defined
+5 in 42 U.S.C. § 11302, as in effect on the effective date of this act;
+6 (7) an individual who served in the active military, naval, air or space
+7 service and was discharged or released from such military service under
+8 conditions other than dishonorable;
+9 (8) an individual who is not more than 22 years of age and in the
+10 custody of the secretary of children and families on the date that the
+11 individual reached 18 years of age; and
+12 (9) any individual who the secretary determines is experiencing
+13 hardship.
+14 New Sec. 4. (a) Except to the extent prohibited by 42 U.S.C. §
+15 1396u-2(a)(2), as it exists on the effective date of this act, the secretary of
+16 health and environment shall administer medical assistance benefits using
+17 a managed care delivery system using organizations subject to assessment
+18 of the privilege fee under K.S.A. 40-3213, and amendments thereto. If the
+19 United States centers for medicare and medicaid services determines that
+20 the assessment of a privilege fee provided in K.S.A. 40-3213, and
+21 amendments thereto, is unlawful or otherwise invalid, then the secretary of
+22 health and environment shall administer state medicaid services using a
+23 managed care delivery system.
+24 (b) In awarding a contract for an entity to administer state medicaid
+25 services using a managed care delivery system, the secretary of health and
+26 environment shall:
+27 (1) Not provide favorable or unfavorable treatment in awarding a
+28 contract based on an entity's for-profit or not-for-profit tax status;
+29 (2) give preference in awarding a contract to an entity that provides
+30 health insurance coverage plans on the health benefit exchange in Kansas
+31 established under the federal patient protection and affordable care act; and
+32 (3) require that any entity administering state medicaid services
+33 provide tiered benefit plans with enhanced benefits for covered individuals
+34 who demonstrate healthy behaviors, as determined by the secretary of
+35 health and environment, to be implemented on or before July 1, 2027.
+36 New Sec. 5. If the federal medical assistance percentage for coverage
+37 of medical assistance participants described in section 1902(a)(10)(A)(i)
+38 (VIII) of the federal social security act, 42 U.S.C. § 1396a, as it exists on
+39 the effective date of this act, becomes lower than 90%, then the secretary
+40 of health and environment shall terminate coverage under the act over a
+41 12-month period, beginning on the first day that the federal medical
+42 assistance percentage becomes lower than 90%. No individual shall be
+43 newly enrolled for coverage under the act after such date.
+
+HB 2375 4
+1 New Sec. 6. (a) Section 5, and amendments thereto, shall be
+2 nonseverable from the remainder of the act. If the provisions of section 5,
+3 and amendments thereto, are not approved by the United States centers for
+4 medicare and medicaid services, then the act shall be null and void and
+5 shall have no force and effect.
+6 (b) A denial of federal approval or federal financial participation that
+7 applies to any provision of the act not enumerated in subsection (a) shall
+8 not prohibit the secretary of health and environment from implementing
+9 any other provision of the act.
+10 New Sec. 7. (a) On or before January 10, 2027, and on or before the
+11 first day of the regular session of the legislature each year thereafter, the
+12 secretary of health and environment shall prepare and deliver a report to
+13 the legislature that summarizes the cost savings achieved by the state from
+14 the movement of covered individuals from the KanCare program to
+15 coverage under the act, including, but not limited to, the MediKan
+16 program, the medically needy spend-down program and the breast and
+17 cervical cancer program.
+18 (b) State cost savings shall be determined by calculating the cost of
+19 providing services to covered individuals in the KanCare program less the
+20 cost of services provided to covered individuals under the act.
+21 (c) If the secretary of health and environment implements other
+22 initiatives using cost savings achieved through the implementation of the
+23 act, the secretary shall include such initiatives as part of the report required
+24 in subsection (a).
+25 New Sec. 8. (a) The secretary of corrections and the secretary of
+26 health and environment shall coordinate with a county sheriff or such
+27 sheriff's deputy who requests assistance in facilitating medicaid coverage
+28 for any individual committed to a county jail or correctional facility during
+29 any time period that such individual is eligible for coverage under state or
+30 federal law.
+31 (b) If an individual is enrolled in medicaid when such individual is
+32 committed to a county jail or correctional facility, such medicaid status
+33 shall not be suspended or terminated based on such individual's
+34 incarceration for a minimum of 30 days. After 30 days, medicaid coverage
+35 may be suspended, but not terminated, up to the maximum amount of time
+36 permitted by state and federal law.
+37 (c) The secretary of health and environment shall coordinate with a
+38 county sheriff or such sheriff's deputy and the department of corrections to
+39 assist any individual who is committed to a county jail or correctional
+40 facility in applying for medicaid coverage prior to such individual's release
+41 from custody if such individual is likely to meet the requirements for
+42 medicaid coverage to allow adequate time for medicaid coverage to begin
+43 promptly upon release.
+
+HB 2375 5
+1 (d) The secretary of health and environment shall adopt any rules and
+2 regulations and supporting policies and procedures as necessary to
+3 implement and administer this section prior to January 1, 2026.
+4 New Sec. 9. On or before February 15, 2027, and on or before
+5 February 15 of each year thereafter, the secretary of health and
+6 environment shall present a report to the house of representatives standing
+7 committee on appropriations and the senate standing committee on ways
+8 and means that summarizes the costs of the act and the cost savings and
+9 additional revenues generated during the preceding fiscal year.
+10 New Sec. 10. (a) There is hereby established the rural health advisory
+11 committee.
+12 (b) The rural health advisory committee shall consist of 15 members
+13 appointed by the governor. The membership shall be comprised of
+14 individuals with a variety of backgrounds including medicine, education,
+15 farming, finance, business and individuals representing community
+16 interests in rural Kansas.
+17 (c) The governor shall designate one of the appointed members to be
+18 chairperson of the committee. The members of the advisory committee
+19 shall select a vice chairperson from the membership of the advisory
+20 committee.
+21 (d) Upon first appointment, five of the members shall serve for a term
+22 of one year, five of the members shall be appointed for a term of two years
+23 and five of the members shall be appointed for term of three years, as
+24 designated by the governor. The member designated as chairperson shall
+25 serve for a term of three years. Subsequent appointees shall serve terms of
+26 three years.
+27 (e) (1) The advisory committee may meet at any time and at any
+28 place within the state on the call of the chairperson. The advisory
+29 committee shall meet regularly, but shall meet at least once every calendar
+30 quarter.
+31 (2) A quorum of the advisory committee shall be eight voting
+32 members. All actions of the advisory committee shall be adopted by a
+33 majority of those voting members present when there is a quorum.
+34 (f) The advisory committee shall:
+35 (1) Advise the governor and other state agencies on rural health
+36 issues;
+37 (2) recommend and evaluate mechanisms to encourage greater
+38 cooperation between rural communities and rural health providers;
+39 (3) recommend and evaluate approaches to rural health issues that are
+40 sensitive to the needs of local communities;
+41 (4) develop methods to identify individuals who are underserved by
+42 the Kansas rural healthcare system; and
+43 (5) beginning in 2026, provide an annual report to the governor
+
+HB 2375 6
+1 containing the advice, recommendations and conclusions of the advisory
+2 committee.
+3 (g) The secretary of health and environment shall facilitate the work
+4 of the committee by providing access to meeting space and other necessary
+5 staff and office support. The secretary of health and environment may
+6 adopt any rules and regulations and supporting policies and procedures
+7 that are necessary to support the work of the advisory committee.
+8 New Sec. 11. The healthcare access for working Kansans (HAWK)
+9 act shall not provide coverage for abortion services, except in cases where
+10 coverage is mandated by federal law and federal financial participation is
+11 available.
+12 Sec. 12. K.S.A. 39-7,160 is hereby amended to read as follows: 39-
+13 7,160. (a) There is hereby established the Robert G. (Bob) Bethell joint
+14 committee on home and community based services and KanCare
+15 oversight. The joint committee shall review the number of individuals who
+16 are transferred from state or private institutions and long-term care
+17 facilities to the home and community based services and the associated
+18 cost savings and other outcomes of the money-follows-the-person
+19 program. The joint committee shall review the funding targets
+20 recommended by the interim report submitted for the 2007 legislature by
+21 the joint committee on legislative budget and use them as guidelines for
+22 future funding planning and policy making. The joint committee shall have
+23 oversight of savings resulting from the transfer of individuals from state or
+24 private institutions to home and community based services. As used in
+25 K.S.A. 39-7,159 through 39-7,162, and amendments thereto, "savings"
+26 means the difference between the average cost of providing services for
+27 individuals in an institutional setting and the cost of providing services in a
+28 home and community based setting. The joint committee shall study and
+29 determine the effectiveness of the program and cost-analysis of the state
+30 institutions or long-term care facilities based on the success of the transfer
+31 of individuals to home and community based services. The joint
+32 committee shall consider the issues of whether sufficient funding is
+33 provided for enhancement of wages and benefits of direct individual care
+34 workers and their staff training and whether adequate progress is being
+35 made to transfer individuals from the institutions and to move them from
+36 the waiver waiting lists to receive home and community based services.
+37 The joint committee shall review and ensure that any proceeds resulting
+38 from the successful transfer be applied to the system of provision of
+39 services for long-term care and home and community based services. The
+40 joint committee shall monitor and study the implementation and operations
+41 of the home and community based service programs, the children's health
+42 insurance program, the program for the all-inclusive care of the elderly
+43 and the state medicaid programs including, but not limited to, access to
+
+HB 2375 7
+1 and quality of services provided and any financial information and
+2 budgetary issues. Any state agency shall provide data and information on
+3 KanCare programs, including, but not limited to, pay for performance
+4 measures, quality measures and enrollment and disenrollment in specific
+5 plans, KanCare provider network data and appeals and grievances made to
+6 the KanCare ombudsman, to the joint committee, as requested.
+7 (b) The joint committee shall consist of 11 members of the legislature
+8 appointed as follows: (1) Two members of the house committee on health
+9 and human services appointed by the speaker of the house of
+10 representatives; (2) one member of the house committee on health and
+11 human services appointed by the minority leader of the house of
+12 representatives; (3) two members of the senate committee on public health
+13 and welfare appointed by the president of the senate; (4) one member of
+14 the senate committee on public health and welfare appointed by the
+15 minority leader of the senate; (5) two members of the house of
+16 representatives appointed by the speaker of the house of representatives,
+17 one of whom shall be a member of the house committee on appropriations;
+18 (6) one member of the house of representatives appointed by the minority
+19 leader of the house of representatives; and (7) two members of the senate
+20 appointed by the president of the senate, one of whom shall be a member
+21 of the senate committee on ways and means.
+22 (c) Members shall be appointed for terms coinciding with the
+23 legislative terms for which such members are elected or appointed. All
+24 members appointed to fill vacancies in the membership of the joint
+25 committee and all members appointed to succeed members appointed to
+26 membership on the joint committee shall be appointed in the manner
+27 provided for the original appointment of the member succeeded.
+28 (d) (1) The members originally appointed as members of the joint
+29 committee shall meet upon the call of the member appointed by the
+30 speaker of the house of representatives, who shall be the first chairperson,
+31 within 30 days of the effective date of this act. The vice-chairperson of the
+32 joint committee shall be appointed by the president of the senate.
+33 Chairperson and vice-chairperson shall alternate annually between the
+34 members appointed by the speaker of the house of representatives and the
+35 president of the senate. The ranking minority member shall be from the
+36 same chamber as the chairperson. On and after the effective date of this act
+37 Except as provided in paragraph (2), the joint committee shall meet at
+38 least once in January and once in April when the legislature is in regular
+39 session and at least once for two consecutive days during each of the third
+40 and fourth calendar quarters, on the call of the chairperson, but not to
+41 exceed six meetings in a calendar year, except additional meetings may be
+42 held on call of the chairperson when urgent circumstances exist which
+43 require such meetings. Six members of the joint committee shall constitute
+
+HB 2375 8
+1 a quorum.
+2 (2) During calendar year 2026 and calendar year 2027, the joint
+3 committee shall meet for one additional day per meeting pursuant to
+4 paragraph (1) in order to monitor the implementation of the healthcare
+5 access for working Kansans act and to review the following topics relating
+6 to such implementation:
+7 (A) Payment integrity and eligibility audits;
+8 (B) outcomes related to section 3, and amendments thereto;
+9 (C) health outcomes for individuals covered under the act;
+10 (D) budget projections and actual expenditures related to
+11 implementation of the act; and
+12 (E) expenses incurred by hospitals arising from charity care and
+13 services provided to patients who are unwilling or unable to pay for such
+14 services.
+15 (e) (1) At the beginning of each regular session of the legislature, the
+16 committee shall submit to the president of the senate, the speaker of the
+17 house of representatives, the house committee on health and human
+18 services and the senate committee on public health and welfare a written
+19 report on numbers of individuals transferred from the state or private
+20 institutions to the home and community based services including the
+21 average daily census in the state institutions and long-term care facilities,
+22 savings resulting from the transfer certified by the secretary for aging and
+23 disability services in a quarterly report filed in accordance with K.S.A. 39-
+24 7,162, and amendments thereto, and the current balance in the home and
+25 community based services savings fund of the Kansas department for
+26 aging and disability services.
+27 (2) Such report submitted under this subsection shall also include, but
+28 not be limited to, the following information on the KanCare program:
+29 (A) Quality of care and health outcomes of individuals receiving state
+30 medicaid services under the KanCare program, as compared to the
+31 provision of state medicaid services prior to January 1, 2013;
+32 (B) integration and coordination of health care healthcare procedures
+33 for individuals receiving state medicaid services under the KanCare
+34 program;
+35 (C) availability of information to the public about the provision of
+36 state medicaid services under the KanCare program, including, but not
+37 limited to, accessibility to health services, expenditures for health services,
+38 extent of consumer satisfaction with health services provided and
+39 grievance procedures, including quantitative case data and summaries of
+40 case resolution by the KanCare ombudsman;
+41 (D) provisions for community outreach and efforts to promote the
+42 public understanding of the KanCare program;
+43 (E) comparison of the actual medicaid costs expended in providing
+
+HB 2375 9
+1 state medicaid services under the KanCare program after January 1, 2013,
+2 to the actual costs expended under the provision of state medicaid services
+3 prior to January 1, 2013, including the manner in which such cost
+4 expenditures are calculated;
+5 (F) comparison of the estimated costs expended in a managed care
+6 system of providing state medicaid services under the KanCare program
+7 after January 1, 2013, to the actual costs expended under the KanCare
+8 program of providing state medicaid services after January 1, 2013;
+9 (G) comparison of caseload information for individuals receiving
+10 state medicaid services prior to January 1, 2013, to the caseload
+11 information for individuals receiving state medicaid services under the
+12 KanCare program after January 1, 2013; and
+13 (H) all written testimony provided to the joint committee regarding
+14 the impact of the provision of state medicaid services under the KanCare
+15 program upon residents of adult care homes.
+16 (3) The joint committee shall consider the external quality review
+17 reports and quality assessment and performance improvement program
+18 plans of each managed care organization providing state medicaid services
+19 under the KanCare program in the development of the report submitted
+20 under this subsection.
+21 (4) The report submitted under this subsection shall be published on
+22 the official website of the legislative research department.
+23 (f) Members of the committee shall have access to any medical
+24 assistance report and caseload data generated by the Kansas department of
+25 health and environment division of health care finance. Members of the
+26 committee shall have access to any report submitted by the Kansas
+27 department of health and environment division of health care finance to
+28 the centers for medicare and medicaid services of the United States
+29 department of health and human services.
+30 (g) Members of the committee shall be paid compensation, travel
+31 expenses and subsistence expenses or allowance as provided in K.S.A. 75-
+32 3212, and amendments thereto, for attendance at any meeting of the joint
+33 committee or any subcommittee meeting authorized by the committee.
+34 (h) In accordance with K.S.A. 46-1204, and amendments thereto, the
+35 legislative coordinating council may provide for such professional services
+36 as may be requested by the joint committee.
+37 (i) The joint committee may make recommendations and introduce
+38 legislation as it deems necessary in performing its functions.
+39 Sec. 13. K.S.A. 40-3213 is hereby amended to read as follows: 40-
+40 3213. (a) Every health maintenance organization and medicare provider
+41 organization subject to this act shall pay to the commissioner the following
+42 fees:
+43 (1) For filing an application for a certificate of authority, $150;
+
+HB 2375 10
+1 (2) for filing each annual report, $50; and
+2 (3) for filing an amendment to the certificate of authority, $10.
+3 (b) Every health maintenance organization subject to this act shall
+4 pay annually to the commissioner at the time such organization files its
+5 annual report, a privilege fee in an amount equal to the following
+6 percentages 5.77% of the total of all premiums, subscription charges or
+7 any other term that may be used to describe the charges made by such
+8 organization to enrollees: 3.31% during the reporting period beginning
+9 January 1, 2015, and ending December 31, 2017; and 5.77% on and after
+10 January 1, 2018. In such computations all such organizations shall be
+11 entitled to deduct therefrom any premiums or subscription charges
+12 returned on account of cancellations and dividends returned to enrollees. If
+13 the commissioner shall determine at any time that the application of the
+14 privilege fee, or a change in the rate of the privilege fee, would cause a
+15 denial of, reduction in or elimination of federal financial assistance to the
+16 state or to any health maintenance organization subject to this act, the
+17 commissioner is hereby authorized to terminate the operation of such
+18 privilege fee or the change in such privilege fee.
+19 (c) For the purpose of insuring the collection of the privilege fee
+20 provided for by subsection (b), every health maintenance organization
+21 subject to this act and required by subsection (b) to pay such privilege fee
+22 shall at the time it files its annual report, as required by K.S.A. 40-3220,
+23 and amendments thereto, make a return, generated by or at the direction of
+24 its chief officer or principal managing director, under penalty of K.S.A.
+25 21-5824, and amendments thereto, to the commissioner, stating the amount
+26 of all premiums, assessments and charges received by the health
+27 maintenance organization, whether in cash or notes, during the year ending
+28 on the last day of the preceding calendar year. Upon the receipt of such
+29 returns the commissioner of insurance shall verify such returns and
+30 reconcile the fees pursuant to subsection (f) upon such organization on the
+31 basis and at the rate provided in this section.
+32 (d) Premiums or other charges received by an insurance company
+33 from the operation of a health maintenance organization subject to this act
+34 shall not be subject to any fee or tax imposed under the provisions of
+35 K.S.A. 40-252, and amendments thereto.
+36 (e) Fees charged under this section shall be remitted to the state
+37 treasurer in accordance with the provisions of K.S.A. 75-4215, and
+38 amendments thereto. Upon receipt of each such remittance, the state
+39 treasurer shall deposit the entire amount in the state treasury to the credit
+40 of the medical assistance fee fund created by K.S.A. 40-3236, and
+41 amendments thereto.
+42 (f) (1) On and after January 1, 2018, In addition to any other filing or
+43 return required by this section, each health maintenance organization shall
+
+HB 2375 11
+1 submit a report to the commissioner on or before March 31 and September
+2 30 of each year containing an estimate of the total amount of all premiums,
+3 subscription charges or any other term that may be used to describe the
+4 charges made by such organization to enrollees that the organization
+5 expects to collect during the current calendar year. Upon filing each March
+6 31 report, the organization shall submit payment equal to ½ of the
+7 privilege fee that would be assessed by the commissioner for the current
+8 calendar year based upon the organization's reported estimate. Upon filing
+9 each September 30 report, the organization shall submit payment equal to
+10 the balance of the privilege fee that would be assessed by the
+11 commissioner for the current calendar year based upon the organization's
+12 reported estimates.
+13 (2) Any amount of privilege fees actually owed by a health
+14 maintenance organization during any calendar year in excess of estimated
+15 privilege fees paid shall be assessed by the commissioner and shall be due
+16 and payable upon issuance of such assessment.
+17 (3) Any amount of estimated privilege fees paid by a health
+18 maintenance organization during any calendar year in excess of privilege
+19 fees actually owed shall be reconciled when the commissioner assesses
+20 privilege fees in the ensuing calendar year. The commissioner shall credit
+21 such excess amount against future privilege fee assessments. Any such
+22 excess amount paid by a health maintenance organization that is no longer
+23 doing business in Kansas and that no longer has a duty to pay the privilege
+24 fee shall be refunded by the commissioner from funds appropriated by the
+25 legislature for such purpose.
+26 Sec. 14. K.S.A. 39-7,160 and 40-3213 are hereby repealed.
+27 Sec. 15. This act shall take effect and be in force from and after its
+28 publication in the Kansas register.
+
+[DELETED: Ac; eg ml ae e; eg thdt d t n ejoee1B2N3s4K5(6o7K. 3, ad as t, by te pe a8e9i0(1r2(3o4(5i6p7(8a9N0t1p2i3s4m5s]
+[DELETED: 5(r s of  ds r te pap(tat(0U1r2d3n4N5eh at fr ce ur te at to pe e6v7v8(9e0r1l2(3(4(5(6(7a8(9a0(1o2( fe st ed in a p e3i4as t, r h r e st s d i s5e6(7a8(9a0a1i2(3i]
+[DELETED: 5(hK(i(sc(0c1i2(3h4N516h7a8o9U0t1a2h3m4(5s6e7(8c9(0h1e2(3p4w5h6N7o8(9t0o112a3n]
+[DELETED: 5Nw S. 6) Sn 5, ad as t, sl bnams(ana0N1f2s3t4t5c6p7c8(9p0c1(2i3a4i5N6h7s8f9a0f1(2c3sl nt be sd or td bd on sh i4i5m6p7(8c9a0f1f2m3p]
+[DELETED: 5(rs ad sg ps ad ps as n tiNFy 15 of eh yr t, te sy of hh aecaa0N1c2(3al 4i5f, f, bs ad is rg c6i7(8c9s0c1(2o3a4d5s6t7(8p9c0q1(2m3m4(5(6i7(d ad ee ms to ee g8c9(0s1(2t3(]
+[DELETED: 5cc(osatNa0c1a2S374ce on he ad cy bd ss ad K5o6a7f8ct ss ad or os of te m9p. Te jt ce sl rw te fg t0r1t2f3o4p5K6m7i8h9d0i1of is to he ad cy bd s. Te j2c3p4w5m6t7T8f9s0j1o2i3a]
+[DELETED: 5al bKmpt(aad hn ss ad by te sr of te he o0r1hn ss ad b te m lr of te he o2r3a4t5my lr of te s; () to ms of te he o6r7o8(9l0a1o2(s sl be ad fr ts cg wh t3l4m5c6m7p8(9c0s1w2jt  sl b a b pt o te 3C4m5p6s7E8l9s0a1e2hn 3r]
+[DELETED: 5a(cpat(((0(t ps ad al es rd t1i2(3s4s5(6c7h8s9r0i1a2s3d475c6a7(8n9(0ms 1p2(3f4p5(6s7l8et of cr sn wh hh ss pd a9g0c1(2p3(]
+[DELETED: 5stpe(sap(0se md ss pr to Jy 1, 2, to te c1i2K3(4t5p6(7r8p9u0u1(2t3(4a5h6c7d8t9d0(1e233c4(5l6a7(8l9S031o2f3(]
+[DELETED: 51(((pa tpaoJ0J1ed to dt tm ay ps or sn c2r3t4p5d6s7c8p9(0p1s2s3a4i526of al p, as ad cs rd by te h7m8o9r0r1b2(3f4s5K6(7t8a9t0o1a2(3r]
+[DELETED: 51s3sce3o pce0te be of te pe fe tt wd be ad by t1c2r3(y at of pe fs ay od by a h4m5p6a7(y at of ed pe fs pd by a h8m9f0p1s2e3d4f5l6S7S8p]

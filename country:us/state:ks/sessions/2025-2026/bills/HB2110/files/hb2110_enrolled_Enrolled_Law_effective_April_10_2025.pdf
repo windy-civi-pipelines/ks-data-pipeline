@@ -1,0 +1,696 @@
+HOUSE BILL No. 2110
+AN ACT concerning emergency communication services; relating to the Kansas 911 act;
+eliminating the requirement that the state 911 board shall contract with a local
+collection point administrator for services; rescheduling the date on which the state
+911 operations fund, state 911 grant fund and state 911 fund shall be established in
+the state treasury; rescheduling the date on which all moneys collected pursuant to
+the Kansas 911 act are to be transferred to the state treasury; requiring certain
+transfers to be made to the state 911 operations fund; authorizing the state 911 board
+to transfer annually any unencumbered moneys of the state 911 operations fund to the
+state 911 grant fund; amending K.S.A. 12-5363, as amended by section 11 of chapter
+53 of the 2024 Session Laws of Kansas, 12-5367, as amended by section 15 of
+chapter 53 of the 2024 Session Laws of Kansas, 12-5368, as amended by section 18
+of chapter 53 of the 2024 Session Laws of Kansas, 12-5369, as amended by section
+19 of chapter 53 of the 2024 Session Laws of Kansas, 12-5370, as amended by
+section 20 of chapter 53 of the 2024 Session Laws of Kansas, 12-5372, as amended
+by section 22 of chapter 53 of the 2024 Session Laws of Kansas, 12-5374, as
+amended by section 25 of chapter 53 of the 2024 Session Laws of Kansas, and 12-
+5375, as amended by section 28 of chapter 53 of the 2024 Session Laws of Kansas,
+and K.S.A. 2024 Supp. 12-5377, 12-5387, 12-5388, 12-5389 and 12-5390 and
+repealing the existing sections.
+Be it enacted by the Legislature of the State of Kansas:
+New Section 1. (a) Upon receipt of the 911 fees remitted by a
+provider to the state board pursuant to K.S.A. 12-5370, and
+amendments thereto, the state board shall remit such moneys to the
+state treasurer in accordance with the provisions of K.S.A. 75-4215,
+and amendments thereto. Upon receipt of each such remittance, the
+state treasurer shall deposit the entire amount in the state treasury and,
+except as provided in subsection (b), shall credit $.23 from every 911
+fee remitted to the state 911 operations fund, $.01 from every 911 fee
+remitted to the state 911 grant fund and the remaining amount of 911
+fees remitted to the state 911 fund.
+(b) If the amount of moneys credited to the state 911 operations
+fund pursuant to subsection (a) exceeds 15% of the total amount of the
+911 fees remitted to the state treasurer over the prior three years, upon
+receipt of each such remittance pursuant to this section, the state
+treasurer shall credit any such moneys remitted to the state treasurer in
+excess of such 15% total to the state 911 grant fund.
+(c) The provisions of this section shall take effect and be in force
+from and after January 1, 2026.
+Sec. 2. K.S.A. 12-5363, as amended by section 11 of chapter 53 of
+the 2024 Session Laws of Kansas, is hereby amended to read as
+follows: 12-5363. As used in the Kansas 911 act:
+(a) "Board" means the state 911 board.
+(b) ''Consumer'' means a person who purchases prepaid wireless
+service in a retail transaction.
+(c) ''Department'' means the Kansas department of revenue.
+(d) ''Enhanced 911 service'' or "E-911 service" means an
+emergency telephone service that generally may provide, but is not
+limited to, selective routing, automatic number identification and
+automatic location identification features.
+(e) ''Exchange telecommunications service'' means the service that
+provides local telecommunications exchange access to a service user.
+(f) "GIS" means a geographic information system for capturing,
+storing, displaying, analyzing and managing data and associated
+attributes that are spatially referenced.
+(g) "GIS data" means the geometry and associated attributes
+packaged in a geodatabase that defines the roads, address points and
+boundaries within a PSAP's jurisdiction.
+(h) "Governing body" means the board of county commissioners
+of a county or the governing body of a city.
+(i) "Local collection point administrator" or "LCPA" means the
+person designated by the board to serve as the local collection point
+administrator pursuant to K.S.A. 12-5367, and amendments thereto.
+(j) "Multi-line telephone system" means a system comprised of
+common control units, telephones and control hardware and software
+providing local telephone service to multiple end-use customers that
+may include VoIP service and network and premises based systems
+such as centrex, private branch exchange and hybrid key telephone
+
+HOUSE BILL No. 2110—page 2
+systems.
+(k)(j) ''Next generation 911'' means 911 service that conforms with
+national emergency number association (NENA) i3 standards and
+enables PSAPs to receive Enhanced 911 service calls and emergency
+calls from Internet Protocol (IP) based technologies and applications
+that may include text messaging, image, video and data information
+from callers.
+(l)(k) "Non-traditional PSAP" means a PSAP not operated by a
+city or county, including, but not limited to, PSAPs operated by
+universities, tribal governments or the state or federal government.
+(m)(l) ''Person'' means any individual, firm, partnership,
+copartnership, joint venture, association, cooperative organization,
+corporation, municipal or private, and whether organized for profit or
+not, state, county, political subdivision, state department, commission,
+board, bureau or fraternal organization, nonprofit organization, estate,
+trust, business or common law trust, receiver, assignee for the benefit of
+creditors, trustee or trustee in bankruptcy or any other legal entity.
+(n)(m) ''Prepaid wireless service'' means a wireless
+telecommunications service that allows a caller to dial 911 to access the
+911 system, that is paid for in advance and sold in predetermined units
+or dollars of which the number declines with use in a known amount.
+(o)(n) ''Place of primary use'' has the meaning provided in the
+mobile telecommunications act as defined by 4 U.S.C. § 116 et seq., as
+in effect on July 1, 2025.
+(p)(o) ''Provider'' means any person providing exchange
+telecommunications service, wireless telecommunications service, VoIP
+service or other service capable of contacting a PSAP. "Provider"
+includes a 911 system operator.
+(q)(p) ''PSAP'' means a public safety answering point operated by
+a city or county.
+(r)(q) ''Retail transaction'' means the purchase of prepaid wireless
+service from a seller for any purpose other than resale, not including the
+use, storage or consumption of such services.
+(s)(r) ''Seller'' means a person who sells prepaid wireless service to
+another person.
+(t)(s) ''Service user'' means any person who is provided exchange
+telecommunications service, wireless telecommunications service, VoIP
+service, prepaid wireless service or any other service capable of
+contacting a PSAP.
+(u)(t) ''Subscriber account'' means the 10-digit access number
+assigned to a service user by a provider for the purpose of billing a
+service user up to the maximum capacity of the simultaneous outbound
+calling capability of a multi-line telephone system or equivalent
+service.
+(v)(u) ''Subscriber radio equipment'' means mobile and portable
+radio equipment installed in vehicles or carried by persons for voice
+communication with a radio system.
+(w)(v) ''VoIP service'' means voice over internet protocol.
+(x)(w) ''Wireless telecommunications service'' means commercial
+mobile radio service as defined by 47 C.F.R. § 20.3 as in effect on July
+1, 2025.
+(y)(x) "911 call" means any electronic request for emergency
+response, presented by means of wireline, wireless, VoIP or
+telecommunications device for the deaf (TDD) technology, text
+message or any other technology by which a service user initiates an
+immediate information interchange or conversation with a PSAP.
+(z)(y) "911 system operator" means any entity that accepts 911
+calls from providers, processes those calls and presents those calls to
+the appropriate PSAP.
+Sec. 3. K.S.A. 12-5367, as amended by section 15 of chapter 53 of
+the 2024 Session Laws of Kansas, is hereby amended to read as
+follows: 12-5367. (a) The state 911 board, by an affirmative vote of
+nine voting members, shall select the local collection point
+administrator. In selecting the LCPA, the board shall contract with the
+
+HOUSE BILL No. 2110—page 3
+LCPA for services for no longer than two years, however, the board
+may, by an affirmative vote of nine voting members, extend such
+contract for up to two additional years. The board shall receive the
+approval of the legislative coordinating council in selecting an LCPA if
+the entity to be designated as the LCPA is different than the previous
+entity designated as the LCPA. The board shall annually review the
+designation of the LCPA and the contract with the LCPA.
+(b) Any contract made between the 911 coordinating council and
+an LCPA that is in existence on January 1, 2025, shall continue to be
+valid, effective and enforceable until extended, revised, revoked or
+terminated by the board.
+(c) The LCPA shall be subject to the requirements of the Kansas
+open meetings act and, except as provided in K.S.A. 12-5374, and
+amendments thereto, the Kansas open records act. The LCPA shall treat
+all moneys received by the LCPA as public funds pursuant to article 14
+of chapter 9 of the Kansas Statutes Annotated, and amendments thereto.
+Notwithstanding any other provision of law to the contrary, the LCPA
+shall not be considered a state agency.
+(d) This section shall expire on January 1, 2026.
+Sec. 4. On and after January 1, 2026, K.S.A. 12-5368, as amended
+by section 18 of chapter 53 of the 2024 Session Laws of Kansas, is
+hereby amended to read as follows: 12-5368. (a) (1) Except as provided
+for in paragraph (2), prior to the distribution of moneys pursuant to
+K.S.A. 12-5374, and amendments thereto, the LCPA shall withhold
+$.23 from every 911 fee remitted pursuant to K.S.A. 12-5369, and
+amendments thereto, and shall remit such moneys to the state treasurer
+in accordance with the provisions of K.S.A. 75-4215, and amendments
+thereto. Upon receipt of each such remittance, the state treasurer shall
+deposit the entire amount in the state treasury and credit such amount to
+the state 911 operations fund established pursuant to section 5, and
+amendments thereto.
+(2) If the moneys withheld from distribution pursuant to paragraph
+(1) exceed 15% of the total receipts received by the LCPA from
+providers and the department over the prior three years, such moneys in
+excess of that 15% total shall be remitted to the state treasurer in
+accordance with the provisions of K.S.A. 75-4215, and amendments
+thereto. Upon receipt of each such remittance, the state treasurer shall
+deposit the entire amount in the state treasury and credit such amount to
+the state 911 grant fund established pursuant to section 6, and
+amendments thereto.
+(3) If the balance in the state 911 grant fund is less than
+$2,000,000, prior to the distribution pursuant to K.S.A. 12-5374, and
+amendments thereto, the LCPA shall withhold $.01 from every 911 fee
+remitted pursuant to K.S.A. 12-5369, and amendments thereto, and
+shall remit such moneys to the state treasurer in accordance with the
+provisions of K.S.A. 75-4215, and amendments thereto. Upon receipt
+of each such remittance, the state treasurer shall deposit the entire
+amount in the state treasury and credit such amount to the state 911
+grant fund established pursuant to section 6, and amendments thereto.
+(b) The state 911 board shall be responsible for ensuring that the
+moneys collected from 911 fees and prepaid wireless 911 fees are only
+expended for purposes authorized pursuant to the Kansas 911 act.
+(c)(b) The state 911 board shall develop criteria for eligible
+purchases and for grant applicants and make the final determination as
+to the distribution of grant funds. Such criteria shall promote the
+procurement of equipment that meets open architecture and national
+technical standards. Grant moneys shall not be used to procure,
+maintain or upgrade subscriber radio equipment.
+(d)(c) The state 911 board or the LCPA shall be authorized to
+maintain an action to collect any moneys owed by any provider in the
+district court in the county of the registered office of such provider or,
+if such provider does not have a registered office in the state, such an
+action may be maintained in the county where such provider's principal
+office is located. If such provider has no principal office in the state,
+
+HOUSE BILL No. 2110—page 4
+such an action may be maintained in the district court of any county
+where such provider provides service.
+Sec. 5. K.S.A. 12-5369, as amended by section 19 of chapter 53 of
+the 2024 Session Laws of Kansas, is hereby amended to read as
+follows: 12-5369. (a) Except as provided in subsection (b), there is
+hereby imposed a 911 fee in the amount of $.90 per month per
+subscriber account of any exchange telecommunications service,
+wireless telecommunications service, VoIP service, or other service
+capable of contacting a PSAP. Such fee shall not be imposed on prepaid
+wireless service. It shall be the duty of each exchange
+telecommunications service provider, wireless telecommunications
+service provider, VoIP service provider or other service provider to
+remit such fees to the LCPA as provided in K.S.A. 12-5370, and
+amendments thereto.
+(b) The state 911 board may, pursuant to rules and regulations,
+lower the 911 fee established pursuant to subsection (a) upon a finding
+that the moneys generated by such 911 fee exceed the costs required to
+operate PSAPs in the state.
+Sec. 6. K.S.A. 12-5370, as amended by section 20 of chapter 53 of
+the 2024 Session Laws of Kansas, is hereby amended to read as
+follows: 12-5370. (a) Every billed service user shall be liable for the
+911 fee until such fees have been paid to the exchange
+telecommunications service provider, wireless telecommunications
+service provider, VoIP service provider or other service provider.
+(b) All providers shall have the duty to collect the 911 fee imposed
+pursuant to K.S.A. 12-5369, and amendments thereto. Such 911 fee
+shall be added to and may be stated separately in billings for the
+subscriber account. If stated separately in billings, the fees shall be
+labeled ''911 fees.''
+(c) The provider shall have no obligation to take any legal action
+to enforce the collection of the 911 fee. The provider shall provide
+annually to the LCPA state 911 board a list of the amount of
+uncollected 911 fees along with the names and addresses of those
+service users that carry a balance that can be determined by the
+provider to be nonpayment of such fees.
+(d) The 911 fee shall be collected insofar as practicable at the
+same time as, and along with, the charges for local exchange, wireless,
+VoIP or other service in accordance with regular billing practice of the
+provider.
+(e) Each provider shall remit the amount of all 911 fees collected
+in each calendar month to the LCPA state 911 board not more than 15
+days after the close of such calendar month. Upon each such
+remittance, the provider shall file a return for the preceding month with
+the LCPA board. Such remittance and return shall be provided in such
+form and manner as required by the board. The provider required to file
+the return shall deliver the return together with a remittance of the
+amount of fees payable to the LCPA. The provider shall maintain
+records of the amount of any such fees collected in accordance with
+this act for a period of three years from the time the fees are collected.
+(f) The provisions of this section shall not be construed to apply to
+the prepaid wireless 911 fee.
+Sec. 7. On and after January 1, 2026, K.S.A. 12-5372, as amended
+by section 22 of chapter 53 of the 2024 Session Laws of Kansas, is
+hereby amended to read as follows: 12-5372. (a) Prepaid wireless 911
+fees collected by sellers shall be remitted to the department by
+electronic filing that is consistent with the provisions of article 36 of
+chapter 79 of the Kansas Statutes Annotated, and amendments thereto.
+The department shall establish registration and payment procedures for
+the collection of the prepaid wireless 911 fee.
+(b) To minimize additional costs to the department, the department
+may conduct audits of sellers in conjunction with sales and use tax
+audits. The department is authorized to provide the board and LCPA
+with information obtained in such audits if such information indicates
+that a seller may not be complying with the provisions of this section
+
+HOUSE BILL No. 2110—page 5
+and K.S.A. 12-5371, and amendments thereto. The board or LCPA may
+request the department to initiate collection or audit procedures on
+individual sellers if collection efforts by the board or LCPA are
+unsuccessful.
+(c) The department shall establish procedures by which a seller
+may document that a sale is not a retail sale, which procedures shall
+substantially coincide with procedures for documenting sale for resale
+transactions for article 36 of chapter 79 of the Kansas Statutes
+Annotated, and amendments thereto.
+(d) (1) Except as provided in paragraph (2), the department shall
+remit all moneys collected from the prepaid wireless 911 fees to the
+state treasurer in accordance with K.S.A. 75-4215, and amendments
+thereto. Upon receipt of each such remittance, the state treasurer shall
+deposit the entire amount in the state treasury and credit such amount to
+the state 911 operations fund established pursuant to section 5, and
+amendments thereto.
+(2) If the department remits $3,000,000 to the state treasurer
+pursuant to paragraph (1) in any given year, then all remaining moneys
+collected from the prepaid wireless 911 fee shall be remitted to the state
+treasurer in accordance with K.S.A. 75-4215, and amendments thereto.
+Upon receipt of each such remittance, the state treasurer shall deposit
+the entire amount in the state treasury and credit such amount to the
+state 911 fund established pursuant to section 7, and amendments
+thereto. Such moneys shall be distributed to governing bodies and
+PSAPs in an amount proportional to each county's population as a
+percentage share of the population of the state. For each PSAP within a
+county, such moneys shall be distributed to each PSAP in an amount
+proportional to the PSAP's population as a percentage share of the
+population of the county. If there is no PSAP within a county, then such
+moneys shall be distributed to the governing body that contracts with
+another governing body of a PSAP for the provision of 911 PSAP
+services. Moneys distributed pursuant to this paragraph shall only be
+used for the uses authorized in K.S.A. 12-5375, and amendments
+thereto.
+Sec. 8. On and after January 1, 2026, K.S.A. 12-5374, as amended
+by section 25 of chapter 53 of the 2024 Session Laws of Kansas, is
+hereby amended to read as follows: 12-5374. (a) (1) Except for the
+amounts withheld by the LCPA pursuant to K.S.A. 12-5368, and
+amendments thereto credited to the state 911 operations fund and state
+911 grant fund pursuant to K.S.A. 12-5372, and amendments thereto,
+and section 1, and amendments thereto, and any amounts withheld
+from distribution pursuant to section 4 K.S.A. 2024 Supp. 12-5386, and
+amendments thereto, not later than 30 days after the receipt of 911 fees
+from providers pursuant to K.S.A. 12-5370, and amendments thereto,
+and prepaid wireless 911 fees from the department pursuant to K.S.A.
+12-5372, and amendments thereto, the state 911 board shall distribute
+such moneys to the PSAPs or to governing bodies that contract with
+another governing body of a PSAP for the provision of 911 PSAP
+services. The amount of money distributed to the PSAPs in each
+county, or to any governing body that contracts with another governing
+body of a PSAP for the provision of 911 PSAP services, shall be based
+upon the amount of 911 fees collected from service users located in that
+county, based on place of primary use information provided by the
+providers, by using the following distribution method:
+Population of county Percentage of collected
+911 fees to distribute
+Over 80,000................................................................................................................... 85%
+65,000 to 79,999............................................................................................................ 88%
+55,000 to 64,999............................................................................................................ 91%
+45,000 to 54,999............................................................................................................ 94%
+35,000 to 44,999............................................................................................................ 97%
+Less than 35,000.......................................................................................................... 100%
+(2) If the calculated amount for distribution within a county is less
+than $70,000, the $70,000 shall be distributed for services within that
+county.
+
+HOUSE BILL No. 2110—page 6
+(3) The state 911 board may increase the minimum county
+distribution amount not more than once per calendar year by an amount
+that shall not exceed the minimum county distribution amount
+established for the preceding calendar year multiplied by the average
+percentage increase in the consumer price index for all urban
+consumers in the midwest region as published by the bureau of labor
+statistics of the United States department of labor for the preceding
+calendar year. Prior to increasing the minimum county distribution
+amount, the state 911 board shall evaluate:
+(A) Whether an increase is needed based on the expenditures of
+the counties that are subject to such minimum distribution; and
+(B) the impact of any such proposed increase to the long-term
+financial stability of all other distributions to PSAPs and counties made
+pursuant to this section.
+(4) If there is a single PSAP providing services for a county, such
+PSAP shall receive the governing body's distribution, if any. If there is
+more than one PSAP in a county then distributions to each PSAP shall
+be proportionately divided between the PSAPs in the county.
+(5)(3) After each distribution that is made pursuant to this section,
+the state 911 board or LCPA shall certify to the director of accounts and
+reports the total amount of unencumbered moneys remaining in the
+state 911 fund and the amount of moneys that could not be attributed to
+a specific PSAP or governing body. Upon receipt of such certification,
+the director of accounts and reports shall transfer such certified amount
+from the state 911 fund to the state 911 operations fund.
+(b). The state 911 board and the LCPA shall keep accurate
+accounts of all receipts and disbursements of moneys from the 911 fees.
+(c) Records provided by any provider to the LCPA or to the state
+911 board pursuant to this act shall be treated as proprietary records and
+shall be withheld from the public upon request of the provider
+submitting such records.
+Sec. 9. On and after January 1, 2026, K.S.A. 12-5375, as amended
+by section 28 of chapter 53 of the 2024 Session Laws of Kansas, is
+hereby amended to read as follows: 12-5375. (a) (1) Moneys
+distributed to governing bodies and PSAPs pursuant to K.S.A. 12-5374,
+and amendments thereto, and any interest earned on revenue derived
+from such moneys, shall be used only for necessary and reasonable
+costs incurred or to be incurred by governing bodies and PSAPs for:
+(A) Implementation of 911 services;
+(B) purchase of 911 equipment and upgrades;
+(C) maintenance and license fees for 911 equipment;
+(D) training of personnel, not to include salaries;
+(E) monthly recurring charges billed by service suppliers;
+(F) installation, service establishment and nonrecurring start-up
+charges billed by the service supplier;
+(G) charges for capital improvements and equipment or other
+physical enhancements to the 911 system;
+(H) maintenance and updates that are necessary to maintain
+accurate GIS data;
+(I) emergency repair or replacement of a radio tower; or
+(J) the original acquisition and installation of road signs designed
+to aid in the delivery of emergency service.
+(2) Such costs shall not include expenditures to lease, construct,
+expand, acquire, remodel, renovate, repair, furnish or make
+improvements to buildings or similar facilities. Such costs shall also not
+include expenditures to purchase, procure, maintain or upgrade
+subscriber radio equipment.
+(3) A governing body may contract with another governing body
+of a PSAP for the provision of 911 PSAP services provided that the
+moneys distributed to any such governing body pursuant to K.S.A. 12-
+5374, and amendments thereto, shall only be used as authorized by this
+section. If a governing body serves as the provider of PSAP services for
+another governing body, both governing bodies shall enter into a
+contract or memorandum of agreement that addresses contingency
+
+HOUSE BILL No. 2110—page 7
+plans and overflow arrangements. Any such contract or memorandum
+of agreement shall be reviewed by the state 911 board with respect to
+the provisions that relate to contingency plans and overflow
+arrangements or that may conflict with the function of the statewide
+911 system. If the state 911 board determines that any such provisions
+are not acceptable, the state 911 board and the governing bodies shall
+collaborate and work to resolve such concerns prior to the effective
+date of such contract or memorandum of agreement. Any governing
+body contracting with another governing body of a PSAP for the
+provision of 911 PSAP services shall establish in the contract or
+memorandum of agreement an agreed upon percentage of the
+governing body's distribution amount for the LCPA state 911 board to
+distribute to the governing body of the PSAP that is providing the 911
+services.
+(b) The state 911 board shall, pursuant to rules and regulations,
+establish a process for a PSAP or governing body that contracts with
+another governing body of a PSAP for the provision of 911 PSAP
+services, to seek pre-approval of an expenditure. The state 911 board
+shall respond in writing to any pre-approval request within 30 days and
+inform the PSAP stating whether the requested expenditure is approved
+or disapproved. If the expenditure is disapproved, the written
+notification shall state the reason for the disapproval and such PSAP or
+governing body may, within 15 days after service of the notification,
+make a written request to the state 911 board to appeal the board's
+decision and for a hearing to be conducted in accordance with the
+provisions of the Kansas administrative procedure act.
+(c) The state 911 board shall annually review expenditures of 911
+moneys reported on the annual report for each PSAP or governing body
+that contracts with another governing body of a PSAP for the provision
+of 911 PSAP services and shall appoint a committee to review such
+expenditures. If the committee determines that a reported expenditure
+was not authorized by this act, the committee shall request that the
+expenditure be refunded by the PSAP or governing body to the PSAP's
+or governing body's 911 account. If a PSAP or governing body does not
+concur with the finding of the committee, the PSAP or governing body
+may request a review of the decision of the committee before the state
+911 board. If the state 911 board, based upon information obtained
+from an audit, determines that any PSAP or governing body has used
+any 911 fees for any purpose other than those authorized in this act, the
+governing body for such PSAP or governing body that contracts with
+another governing body of a PSAP for the provision of 911 PSAP
+services shall repay all such moneys used for any unauthorized
+purposes to the 911 fee fund of such PSAP or governing body. Upon a
+finding that the expenditure was made intentionally for a purpose
+clearly established as an unauthorized expenditure, the state 911 board
+may require such PSAP or governing body to pay the lesser of $500 or
+10%, of such misused moneys, to the LCPA state 911 board. Upon
+receipt of any moneys paid pursuant to this subsection, the LCPA state
+911 board shall remit such moneys to the state treasurer in accordance
+with K.S.A. 75-4215, and amendments thereto. Upon receipt of each
+such remittance, the state treasurer shall deposit the entire amount in
+the state treasury and credit such amount to the state 911 grant fund. No
+such repayment of 911 fees shall be imposed pursuant to this section
+except upon the written order of the state 911 board. Such order shall
+state the unauthorized purposes for which the funds were used, the
+amount of funds to be repaid and the right of such PSAP or governing
+body to appeal to a hearing before the Kansas office of administrative
+hearings. Any such PSAP or governing body may, within 15 days after
+service of the order, make a written request to the state 911 board for a
+hearing thereon. Hearings under this subsection shall be conducted in
+accordance with the provisions of the Kansas administrative procedure
+act.
+(d) Any final action of the state 911 board pursuant to subsection
+(b) or (c) is subject to review in accordance with the Kansas judicial
+
+HOUSE BILL No. 2110—page 8
+review act.
+Sec. 10. K.S.A. 2024 Supp. 12-5377 is hereby amended to read as
+follows: 12-5377. (a) The receipts and disbursements of the LCPA shall
+be audited yearly by a licensed municipal accountant or certified public
+accountant.
+(b) The LCPA may require an audit of any provider's books and
+records concerning the collection and remittance of fees pursuant to
+this act. The cost of any such audit shall be paid from the 911
+operations fund.
+(c) This section shall expire on January 1, 2026.
+Sec. 11. K.S.A. 2024 Supp. 12-5387 is hereby amended to read as
+follows: 12-5387. (a) On or before the 15th day of each month, the state
+911 board, or the entity that the board has contracted for services, shall
+require the LCPA to provide a monthly report that accounts for every
+transaction that has occurred during the previous month in the 911 state
+fund, 911 state grant fund and the 911 operations fund established
+outside the state treasury pursuant to K.S.A. 12-5368, and amendments
+thereto. Such report shall include line item amounts and details for
+every transaction, including debits, credits, transfers, fees assessed,
+interest earned, change in ownership, change in authorized signatories
+or any other event that may have altered the structure or balance of the
+account. The LCPA state 911 board, or the entity that the board has
+contracted for services, shall submit each monthly report to the
+secretary of administration and to the director of legislative research.
+On or before January 31, 2026, the state 911 board shall prepare and
+submit to the legislature a report that summarizes the transactions
+reported in such monthly reports and shall confirm that the accounts
+have been closed and all assets have been transferred to the state
+treasury in accordance with the requirements of K.S.A. 2024 Supp. 12-
+5388 through 12-5390, and amendments thereto.
+(b) The provisions of this section shall take effect and be in force
+on and after July 1, 2025.
+(c) This section shall expire on February 1, 2026.
+Sec. 12. K.S.A. 2024 Supp. 12-5388 is hereby amended to read as
+follows: 12-5388. (a) There is hereby created in the state treasury the
+state 911 operations fund. All moneys received pursuant to K.S.A. 12-
+5368, 12-5372 and 12-5374, and amendments thereto, for purposes of
+such fund shall be deposited into the state 911 operations fund. All
+expenditures from the state 911 operations fund shall be made in
+accordance with appropriation acts upon warrants of the director of
+accounts and reports issued pursuant to vouchers approved by the
+chairperson of the state 911 board or the chairperson's designee.
+(b) The state 911 operations fund shall be used only for the
+following purposes:
+(1) Administrative and operational expenses of the state 911
+board, including salaries of persons employed by the board;
+(2) payment and expenses incurred pursuant to contracts entered
+into by the board for the performance of the powers, duties and
+functions of the board;
+(3) payment to state agencies or independent contractors for
+expenses incurred in carrying out the powers, duties and functions of
+the board; and
+(4) development, deployment, implementation and maintenance of
+the statewide next generation 911 system.
+(c) On or before the 10th of each month, the director of accounts
+and reports shall transfer from the state general fund to the state 911
+operations fund interest earnings based on:
+(1) The average daily balance of moneys in the state 911
+operations fund for the preceding month; and
+(2) the net earnings rate for the pooled money investment portfolio
+for the preceding month.
+(d) The state 911 operations fund shall be used for the purposes set
+forth in this act and for no other governmental purposes. Moneys in the
+state 911 operations fund shall not be subject to the provisions of
+
+HOUSE BILL No. 2110—page 9
+K.S.A. 75-3722, 75-3725a and 75-3726a, and amendments thereto.
+(e) On July 1, 2025, the state 911 board, or the entity that the
+board has contracted for services, shall remit $1,000,000 from the 911
+operations fund established outside the state treasury pursuant to
+K.S.A. 12-5368, and amendments thereto, to the state treasurer in
+accordance with the provisions of K.S.A. 75-4215, and amendments
+thereto. Upon receipt of such remittance, the state treasurer shall
+deposit the entire amount in the state treasury and credit such amount
+to the state 911 operations fund.
+(f) If the state 911 board determines that unencumbered moneys
+remain in the state 911 operations fund from a prior fiscal year, upon
+the affirmative vote of a majority of the members of the state 911
+board, the chairperson of the state 911 board or the chairperson's
+designee may, once per fiscal year, certify to the director of accounts
+and reports an amount of such unencumbered moneys in the state 911
+operations fund. Upon receipt of such certification, the director of
+accounts and reports shall transfer such certified amount from the state
+911 operations fund to the state 911 grant fund. Prior to certifying such
+amount to the director of accounts and reports, the state 911 board
+shall ensure that such transfer is based on the board's assessment of
+operational needs and will not impair the board's ability to continue to
+meet the board's statutory obligations.
+(g) On January 1 2, 2026:
+(1) The LCPA state 911 board, or the entity that the board has
+contracted for services, shall remit to the state treasurer in accordance
+with the provisions of K.S.A. 75-4215, and amendments thereto, the
+balance of all moneys in the 911 operations fund established pursuant
+to K.S.A. 12-5368, and amendments thereto. Upon receipt of such
+remittance, the state treasurer shall deposit the entire amount in the
+state treasury and credit such amount to the state 911 operations fund.
+(2) All liabilities of the 911 operations fund are hereby transferred
+to and imposed on the state 911 operations fund.
+(3) The 911 operations fund established by the LCPA outside the
+state treasury pursuant to K.S.A. 12-5368, and amendments thereto, is
+hereby abolished.
+(f)(h) The provisions of this section shall take effect and be in
+force on and after January 1, 2026 July 1, 2025.
+Sec. 13. K.S.A. 2024 Supp. 12-5389 is hereby amended to read as
+follows: 12-5389. (a) There is hereby created in the state treasury the
+state 911 grant fund. All moneys received pursuant to K.S.A. 12-5368
+and 12-5374, and amendments thereto, for purposes of such fund shall
+be deposited into the state 911 grant fund. All expenditures from the
+state 911 grant fund shall be made in accordance with appropriation
+acts upon warrants of the director of accounts and reports issued
+pursuant to vouchers approved by the chairperson of the state 911
+board or the chairperson's designee.
+(b) The state 911 grant fund shall be used only for the following
+purposes:
+(1) Providing state grants for projects involving the development
+and implementation of next generation 911 services;
+(2) provide providing grants to PSAPs based on demonstrated
+need; and
+(3) costs associated with PSAP consolidation or cost-sharing
+projects.
+(c) On or before the 10th of each month, the director of accounts
+and reports shall transfer from the state general fund to the state 911
+grant fund interest earnings based on:
+(1) The average daily balance of moneys in the state 911 grant
+fund for the preceding month; and
+(2) the net earnings rate for the pooled money investment portfolio
+for the preceding month.
+(d) The state 911 grant fund shall be used for the purposes set
+forth in this act and for no other governmental purposes. Moneys in the
+state 911 grant fund shall not be subject to the provisions of K.S.A. 75-
+
+HOUSE BILL No. 2110—page 10
+3722, 75-3725a and 75-3726a, and amendments thereto.
+(e) On January 1 2, 2026:
+(1) The LCPA state 911 board, or the entity that the board has
+contracted for services, shall remit to the state treasurer in accordance
+with the provisions of K.S.A. 75-4215, and amendments thereto, the
+balance of all moneys in the 911 state grant fund established pursuant
+to K.S.A. 12-5368, and amendments thereto. Upon receipt of such
+remittance, the state treasurer shall deposit the entire amount in the
+state treasury and credit such amount to the state 911 grant fund.
+(2) All liabilities of the 911 state grant fund are hereby transferred
+to and imposed on the state 911 grant fund.
+(3) The 911 state grant fund established by the LCPA outside the
+state treasury pursuant to K.S.A. 12-5368, and amendments thereto, is
+hereby abolished.
+(f) The provisions of this section shall take effect and be in force
+on and after January 1, 2026 July 1, 2025.
+Sec. 14. K.S.A. 2024 Supp. 12-5390 is hereby amended to read as
+follows: 12-5390. (a) There is hereby created in the state treasury the
+state 911 fund. All moneys received pursuant to K.S.A. 12-5368 and
+12-5374, and amendments thereto, for purposes of such fund shall be
+deposited into the state 911 fund. All expenditures from the state 911
+fund shall be made in accordance with appropriation acts upon warrants
+of the director of accounts and reports issued pursuant to vouchers
+approved by the chairperson of the state 911 board or the chairperson's
+designee.
+(b) The state 911 fund shall be used for direct distributions of
+moneys pursuant to K.S.A. 12-5374, and amendments thereto.
+(c) On or before the 10th of each month, the director of accounts
+and reports shall transfer from the state general fund to the state 911
+fund interest earnings based on:
+(1) The average daily balance of moneys in the state 911 fund for
+the preceding month; and
+(2) the net earnings rate for the pooled money investment portfolio
+for the preceding month.
+(d) The state 911 fund shall be used for the purposes set forth in
+this act and for no other governmental purposes. Moneys in the state
+911 fund shall not be subject to the provisions of K.S.A. 75-3722, 75-
+3725a and 75-3726a, and amendments thereto.
+(e) On January 1 2, 2026:
+(1) The LCPA state 911 board, or the entity that the board has
+contracted for services, shall remit to the state treasurer in accordance
+with the provisions of K.S.A. 75-4215, and amendments thereto, the
+balance of all moneys in the 911 state fund established pursuant to
+K.S.A. 12-5368, and amendments thereto. Upon receipt of such
+remittance, the state treasurer shall deposit the entire amount in the
+state treasury and credit such amount to the state 911 fund.
+(2) All liabilities of the 911 state fund are hereby transferred to
+and imposed on the state 911 fund.
+(3) The 911 state fund established by the LCPA outside the state
+treasury pursuant to K.S.A. 12-5368, and amendments thereto, is
+hereby abolished.
+(f) The provisions of this section shall take effect and be in force
+on and after January 1, 2026 July 1, 2025.
+Sec. 15. K.S.A. 12-5363, as amended by section 11 of chapter 53
+of the 2024 Session Laws of Kansas, 12-5367, as amended by section
+15 of chapter 53 of the 2024 Session Laws of Kansas, 12-5369, as
+amended by section 19 of chapter 53 of the 2024 Session Laws of
+Kansas, and 12-5370, as amended by section 20 of chapter 53 of the
+2024 Session Laws of Kansas, and K.S.A. 2024 Supp. 12-5377, 12-
+5387, 12-5388, 12-5389 and 12-5390 are hereby repealed.
+
+HOUSE BILL No. 2110—page 11
+Sec. 16. On and after January 1, 2026, K.S.A. 12-5368, as
+amended by section 18 of chapter 53 of the 2024 Session Laws of
+Kansas, 12-5372, as amended by section 22 of chapter 53 of the 2024
+Session Laws of Kansas, 12-5374, as amended by section 25 of chapter
+53 of the 2024 Session Laws of Kansas, and 12-5375, as amended by
+section 28 of chapter 53 of the 2024 Session Laws of Kansas, are
+hereby repealed.
+Sec. 17. This act shall take effect and be in force from and after its
+publication in the Kansas register.
+I hereby certify that the above BILL originated in the House, and passed
+that body
+HOUSE concurred in
+SENATE amendments
+__________________________________________________________________
+Speaker of the House.
+Chief Clerk of the House.
+Passed the SENATE
+as amended
+President of the Senate.
+Secretary of the Senate.
+APPROVED __________________________________________
+____
+Governor.
+
+[DELETED:  A Cr to te se bd pt to K. 1, ad 91 s' or "1 s" ms a t, d, ag ad mg da ad aS s s ]
+[DELETED: r ' ms ay i, f, p, jt v, a, ce od ws s' ms a w' ms ay pn pg eg  a m t sm  e, pd by ms of w, w, VP os de fr te df () t, te vg m, sl st te ll cn p]
+[DELETED: y d  rf e se 91 gt fd d pt to sn 6, af te be in te se 91 gt fd is ls td , e l . t s  o s]
+[DELETED: : d r at of ay e ts ss s s. It sl be te dy of h es se p, ws r  t a1 fe ul sh fs he bn pd to te es se p, ws ty  L s at s a s r te ce of sh cr m. Un eh sr e  Ts s ]
+[DELETED: e f  o as s S1 s  e es t s r ,  wd a r o d yP]
+[DELETED: e se 91 bd m ie te mm ct sl nt ed te mm cy dn ae e in te cr pe ix fr al uo  a sl l m y ad to rd as f: 1. () () Me ad us tt ae n to m, a, r, r, r, fh or me es to p, p, mn or ur r ]
+[DELETED: e ps tt re to y ps ad or m of at an ad un pe of tr d. If te ee is d, te ws e y s l l h s r e , ]
+[DELETED: 5 . y r  se d m h s t s t s 0 e ae dy be of ms in te se 9]
+[DELETED: . e n e e . n o  gs ad w P c or c0 ]
+[DELETED: f 0 f  1, d as t Un rt o s po ]
+[DELETED: B    ]

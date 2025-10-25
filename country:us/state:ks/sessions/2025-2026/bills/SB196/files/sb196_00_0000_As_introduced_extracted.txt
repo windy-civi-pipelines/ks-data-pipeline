@@ -1,0 +1,1473 @@
+Title: SENATE BILL No. 196
+Official Title: SENATE BILL No. 196
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Federal and State Affairs
+2-4
+1 AN ACT concerning employment; prohibiting the employment of
+2 unauthorized aliens by business entities and public employers;
+3 requiring use and registration of the e-verify program; prohibiting the
+4 deduction of certain wages and remuneration to unauthorized aliens;
+5 amending K.S.A. 2024 Supp. 79-32,117 and repealing the existing
+6 section.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 New Section 1. For the purposes of sections 1 through 4, and
+10 amendments thereto:
+11 (a) "Alien" means the same as provided in 8 U.S.C. § 1101.
+12 (b) "Employee" means any person directed, allowed or permitted to
+13 perform labor or service of any kind by an employer, with the exception of
+14 casual domestic labor hired to work in or around an individual's personal
+15 place of residence. The employees of an independent contractor working
+16 for a business entity shall not be deemed as the employees of the business
+17 entity for the purposes of this section.
+18 (c) "Business entity" means any person or group of persons
+19 performing or engaging in any activity, enterprise, profession or
+20 occupation for gain, benefit, advantage or livelihood, whether for-profit or
+21 not-for-profit. "Business entity" includes, but is not limited to:
+22 (1) Self-employed individuals, business entities filing articles of
+23 incorporation, partnerships, limited partnerships, limited liability
+24 companies, foreign corporations, foreign limited partnerships, foreign
+25 limited liability companies authorized to transact business in this state,
+26 business trusts and any business entity that registers with the secretary of
+27 state; and
+28 (2) any business entity that possesses a business license or
+29 registration to do business issued by the state, is exempt by law from
+30 obtaining such a business license or operating unlawfully without such a
+31 business license.
+32 (d) "Business license" means a license, permit, certificate, approval,
+33 registration, charter or similar form of authorization to perform a service
+34 or conduct any activity, enterprise, profession or occupation issued to a
+35 business entity by this state or any subdivision of this state. "Business
+36 license" does not include registration with the secretary of state to transact
+SB 196 2
+1 business as a corporation, limited liability company, partnership or other
+2 business entity in this state.
+3 (e) "New employee" means a person who becomes an employee of an
+4 employer on or after July 1, 2025.
+5 (f) "Person" means a natural person.
+6 (g) "Public employer" means any department, agency, political
+7 subdivision or instrumentality of the state.
+8 (h) "Unauthorized alien" means an alien who does not have the legal
+9 right or authorization under federal law to work in the United States as
+10 described in 8 U.S.C. § 1324a(h)(3).
+11 (i) "E-verify" means the electronic verification of federal employment
+12 authorization program, or its successor program, used to compare
+13 information from form I-9 to governmental records to confirm that an
+14 employee is authorized to work in the United States pursuant to 8 U.S.C. §
+15 1324a and that is operated by the United States department of homeland
+16 security and the social security administration.
+17 New Sec. 2. (a) It is unlawful for an employer to knowingly hire or to
+18 recruit or refer for a fee an unauthorized alien for employment in this state.
+19 It shall be a violation of this section for an employer to:
+20 (1) Use a contract, subcontract or other independent contractor
+21 agreement to obtain the labor of an unauthorized alien in this state; or
+22 (2) knowingly contract with an unauthorized alien or with a person
+23 who employs or contracts with an unauthorized alien to perform the labor.
+24 (b) The provisions of this section may be enforced in the courts of
+25 this state by a civil action brought by any county or district attorney or the
+26 attorney general.
+27 (c) (1) The attorney general shall develop a complaint form for a
+28 person to allege a violation of subsection (a). The complainant shall not be
+29 required to list the complainant's social security number on the complaint
+30 form or to have the complaint form notarized. On receipt of a complaint on
+31 such complaint form that an employer has allegedly knowingly employed
+32 an unauthorized alien, the county or district attorney or attorney general
+33 shall investigate whether the business entity has violated the provisions of
+34 subsection (a). If a complaint is received but is not submitted on a
+35 complaint form developed by the attorney general, the county or district
+36 attorney or attorney general may investigate whether the employer has
+37 violated the provisions of subsection (a). The county or district attorney or
+38 attorney general shall not investigate complaints that are based solely on
+39 race, color or national origin. This subsection shall not be construed to
+40 prohibit the filing of anonymous complaints that are not submitted on a
+41 complaint form developed by the attorney general.
+42 (2) A complaint that is submitted to the attorney general or the county
+43 or district attorney shall be provided by the attorney general or, when
+SB 196 3
+1 submitted to a different county or the district attorney, by such county or
+2 district attorney to the county or district attorney of the county in which
+3 the alleged unauthorized alien is, or was previously, employed by the
+4 business entity. The county sheriff or any other local law enforcement
+5 agency may assist in investigating a complaint. When investigating a
+6 complaint, the county or district attorney or attorney general shall verify
+7 the employment authorization of the alleged unauthorized alien with the
+8 federal government pursuant to 8 U.S.C. § 1373(c).
+9 (3) A person who knowingly files a false and frivolous complaint
+10 under this subsection is guilty of a class C nonperson misdemeanor.
+11 (d) If the county or district attorney or attorney general elects to bring
+12 an action to enforce this section, the county or district attorney or attorney
+13 general shall notify the United States immigration and customs
+14 enforcement.
+15 (e) (1) If a business entity violates the provisions of this section, the
+16 court shall order the business entity to terminate the employment of all
+17 unauthorized aliens and file a signed affidavit with the relevant county or
+18 district attorney within three business days. The affidavit shall state that
+19 the business entity has terminated the employment of all unauthorized
+20 aliens in this state and will not intentionally or knowingly employ an
+21 unauthorized alien in this state. If the business entity fails to file a signed
+22 affidavit with the county or district attorney within three business days, the
+23 court shall order the suspension of all business licenses that are held by the
+24 business entity until the business entity files such signed affidavit with the
+25 county or district attorney.
+26 (2) (A) For a first violation of this section, the court shall order the
+27 suspension of all business licenses issued by the state or any subdivision of
+28 the state that are held by the business entity for at least one day but not
+29 more than 30 days.
+30 (B) For a second violation of this section, the court shall order the
+31 suspension of all licenses that are held by the business entity for at least 30
+32 days but not more than one year.
+33 (C) For a third violation of this section, the court shall order the
+34 permanent suspension of all business licenses that are held by the business
+35 entity and the revocation of the business entity's registration as a
+36 corporation, limited liability company or limited partnership in this state, if
+37 applicable.
+38 (f) (1) In enforcing the provisions of this section, no state, county or
+39 local official in this state shall attempt to independently determine whether
+40 an individual is an unauthorized alien or an alien not lawfully present in
+41 the United States. Such determination shall only be made by verifying the
+42 alien's employment authorization status with the federal government
+43 pursuant to 8 U.S.C. § 1373(c).
+SB 196 4
+1 (2) When making a determination of whether an employee is an
+2 unauthorized alien, a court shall only consider the federal government's
+3 determination pursuant to 8 U.S.C. § 1373(c). The court shall take judicial
+4 notice of any verification of the employment authorization status
+5 previously provided by the federal government. The court may, and at the
+6 request of a party shall, request the federal government to provide a new
+7 verification of the employment authorization status of the employee
+8 pursuant to 8 U.S.C. § 1373(c). The most recent determination of the
+9 employment authorization status of an employee by the federal
+10 government shall create a rebuttable presumption as to the employee's
+11 employment authorization status.
+12 (g) A business entity that has complied in good faith with:
+13 (1) This section through enrollment in e-verify and that has used e-
+14 verify to confirm the employment authorization of any employee in
+15 question shall have a rebuttable presumption that the business entity did
+16 not knowingly employ an unauthorized alien; and
+17 (2) the requirements of 8 U.S.C. § 1324a(b) shall have an affirmative
+18 defense that the business entity did not knowingly employ an unauthorized
+19 alien.
+20 (h) Any penalty imposed pursuant to this section may be imposed
+21 separate from, commensurate with or in addition to any other applicable
+22 civil or criminal penalty, including, but not limited to, any criminal penalty
+23 pursuant to K.S.A. 21-6509, and amendments thereto.
+24 New Sec. 3. (a) (1) On and after July 1, 2025, every business entity
+25 doing business within this state that employs one or more employees shall
+26 register with and utilize e-verify to verify the employment authorization of
+27 all new employees. The business entity shall retain all documentation
+28 received in connection with its participation in e-verify that verifies the
+29 employment authorization of any employee verified through e-verify for at
+30 least three years after the end of an employee's employment with such
+31 business entity. Upon request by any county or district attorney or the
+32 attorney general, the business entity shall provide this documentation to
+33 such county or district attorney or the attorney general.
+34 (2) The provisions of this subsection may be enforced in the courts of
+35 this state by a civil action brought by any county or district attorney or the
+36 attorney general. Upon a finding of a violation of this subsection by a
+37 business entity, the court shall order the suspension of all licenses issued
+38 by the state or any subdivision of the state that are held by the business
+39 entity for at least 10 days but not more than one year.
+40 (b) On and after July 1, 2025, every public employer in this state shall
+41 register with and utilize e-verify to verify the employment authorization of
+42 all new employees.
+43 (c) On and after July 1, 2025, no public employer shall enter into a
+SB 196 5
+1 contract for the performance of services within this state unless the
+2 contractor registers and participates in e-verify to verify the employment
+3 authorization of all new employees. This subsection shall not apply to any
+4 contracts entered into prior to July 1, 2025.
+5 New Sec. 4. (a) All business entities shall annually submit a signed
+6 affidavit to the secretary of revenue that states:
+7 (1) Whether the business entity:
+8 (A) Utilized a business expense or business loss deduction in
+9 determining federal adjusted gross income;
+10 (B) employed any employees or independent contractors for the tax
+11 year in question and the number of such employees or contractors;
+12 (C) is enrolled in and is actively participating in e-verify;
+13 (D) has used e-verify to confirm the employment authorization of
+14 every employee hired on or after July 1, 2025; and
+15 (E) has confirmed that any independent contractor paid by the
+16 business entity is an independent contractor who is registered with and
+17 utilizing e-verify to verify the employment authorization of all new
+18 employees; and
+19 (2) the business entity's identification number signifying the
+20 employer's enrollment in e-verify.
+21 (b) The secretary of revenue may audit any business entity that:
+22 (1) Fails to timely submit an affidavit required by this subsection; or
+23 (2) the secretary has probable cause to believe is out of compliance
+24 with this section.
+25 (c) If the secretary of revenue determines that a business entity has
+26 knowingly made material misrepresentations of fact regarding information
+27 contained in the affidavit, the business entity shall be required to add back
+28 business deductions taken, to the extent such deductions constitute wages
+29 or remuneration paid to employees whose employment authorization was
+30 not verified using e-verify, in determining the business entity's adjusted
+31 gross income used to calculate the business entity's state tax liability.
+32 Sec. 5. K.S.A. 2024 Supp. 79-32,117 is hereby amended to read as
+33 follows: 79-32,117. (a) The Kansas adjusted gross income of an individual
+34 means such individual's federal adjusted gross income for the taxable year,
+35 with the modifications specified in this section.
+36 (b) There shall be added to federal adjusted gross income:
+37 (i) Interest income less any related expenses directly incurred in the
+38 purchase of state or political subdivision obligations, to the extent that the
+39 same is not included in federal adjusted gross income, on obligations of
+40 any state or political subdivision thereof, but to the extent that interest
+41 income on obligations of this state or a political subdivision thereof issued
+42 prior to January 1, 1988, is specifically exempt from income tax under the
+43 laws of this state authorizing the issuance of such obligations, it shall be
+SB 196 6
+1 excluded from computation of Kansas adjusted gross income whether or
+2 not included in federal adjusted gross income. Interest income on
+3 obligations of this state or a political subdivision thereof issued after
+4 December 31, 1987, shall be excluded from computation of Kansas
+5 adjusted gross income whether or not included in federal adjusted gross
+6 income.
+7 (ii) Taxes on or measured by income or fees or payments in lieu of
+8 income taxes imposed by this state or any other taxing jurisdiction to the
+9 extent deductible in determining federal adjusted gross income and not
+10 credited against federal income tax. This paragraph shall not apply to taxes
+11 imposed under the provisions of K.S.A. 79-1107 or 79-1108, and
+12 amendments thereto, for privilege tax year 1995, and all such years
+13 thereafter.
+14 (iii) The federal net operating loss deduction, except that the federal
+15 net operating loss deduction shall not be added to an individual's federal
+16 adjusted gross income for tax years beginning after December 31, 2016.
+17 (iv) Federal income tax refunds received by the taxpayer if the
+18 deduction of the taxes being refunded resulted in a tax benefit for Kansas
+19 income tax purposes during a prior taxable year. Such refunds shall be
+20 included in income in the year actually received regardless of the method
+21 of accounting used by the taxpayer. For purposes hereof, a tax benefit shall
+22 be deemed to have resulted if the amount of the tax had been deducted in
+23 determining income subject to a Kansas income tax for a prior year
+24 regardless of the rate of taxation applied in such prior year to the Kansas
+25 taxable income, but only that portion of the refund shall be included as
+26 bears the same proportion to the total refund received as the federal taxes
+27 deducted in the year to which such refund is attributable bears to the total
+28 federal income taxes paid for such year. For purposes of the foregoing
+29 sentence, federal taxes shall be considered to have been deducted only to
+30 the extent such deduction does not reduce Kansas taxable income below
+31 zero.
+32 (v) The amount of any depreciation deduction or business expense
+33 deduction claimed on the taxpayer's federal income tax return for any
+34 capital expenditure in making any building or facility accessible to the
+35 handicapped, for which expenditure the taxpayer claimed the credit
+36 allowed by K.S.A. 79-32,177, and amendments thereto.
+37 (vi) Any amount of designated employee contributions picked up by
+38 an employer pursuant to K.S.A. 12-5005, 20-2603, 74-4919 and 74-4965,
+39 and amendments thereto.
+40 (vii) The amount of any charitable contribution made to the extent the
+41 same is claimed as the basis for the credit allowed pursuant to K.S.A. 79-
+42 32,196, and amendments thereto.
+43 (viii) The amount of any costs incurred for improvements to a swine
+SB 196 7
+1 facility, claimed for deduction in determining federal adjusted gross
+2 income, to the extent the same is claimed as the basis for any credit
+3 allowed pursuant to K.S.A. 79-32,204, and amendments thereto.
+4 (ix) The amount of any ad valorem taxes and assessments paid and
+5 the amount of any costs incurred for habitat management or construction
+6 and maintenance of improvements on real property, claimed for deduction
+7 in determining federal adjusted gross income, to the extent the same is
+8 claimed as the basis for any credit allowed pursuant to K.S.A. 79-32,203,
+9 and amendments thereto.
+10 (x) Amounts received as nonqualified withdrawals, as defined by
+11 K.S.A. 75-643, and amendments thereto, if, at the time of contribution to a
+12 family postsecondary education savings account, such amounts were
+13 subtracted from the federal adjusted gross income pursuant to subsection
+14 (c)(xv) or if such amounts are not already included in the federal adjusted
+15 gross income.
+16 (xi) The amount of any contribution made to the same extent the
+17 same is claimed as the basis for the credit allowed pursuant to K.S.A. 74-
+18 50,154, and amendments thereto.
+19 (xii) For taxable years commencing after December 31, 2004,
+20 amounts received as withdrawals not in accordance with the provisions of
+21 K.S.A. 74-50,204, and amendments thereto, if, at the time of contribution
+22 to an individual development account, such amounts were subtracted from
+23 the federal adjusted gross income pursuant to subsection (c)(xiii), or if
+24 such amounts are not already included in the federal adjusted gross
+25 income.
+26 (xiii) The amount of any expenditures claimed for deduction in
+27 determining federal adjusted gross income, to the extent the same is
+28 claimed as the basis for any credit allowed pursuant to K.S.A. 79-32,217
+29 through 79-32,220 or 79-32,222, and amendments thereto.
+30 (xiv) The amount of any amortization deduction claimed in
+31 determining federal adjusted gross income to the extent the same is
+32 claimed for deduction pursuant to K.S.A. 79-32,221, and amendments
+33 thereto.
+34 (xv) The amount of any expenditures claimed for deduction in
+35 determining federal adjusted gross income, to the extent the same is
+36 claimed as the basis for any credit allowed pursuant to K.S.A. 79-32,223
+37 through 79-32,226, 79-32,228 through 79-32,231, 79-32,233 through 79-
+38 32,236, 79-32,238 through 79-32,241, 79-32,245 through 79-32,248 or 79-
+39 32,251 through 79-32,254, and amendments thereto.
+40 (xvi) The amount of any amortization deduction claimed in
+41 determining federal adjusted gross income to the extent the same is
+42 claimed for deduction pursuant to K.S.A. 79-32,227, 79-32,232, 79-
+43 32,237, 79-32,249, 79-32,250 or 79-32,255, and amendments thereto.
+SB 196 8
+1 (xvii) The amount of any amortization deduction claimed in
+2 determining federal adjusted gross income to the extent the same is
+3 claimed for deduction pursuant to K.S.A. 79-32,256, and amendments
+4 thereto.
+5 (xviii) For taxable years commencing after December 31, 2006, the
+6 amount of any ad valorem or property taxes and assessments paid to a state
+7 other than Kansas or local government located in a state other than Kansas
+8 by a taxpayer who resides in a state other than Kansas, when the law of
+9 such state does not allow a resident of Kansas who earns income in such
+10 other state to claim a deduction for ad valorem or property taxes or
+11 assessments paid to a political subdivision of the state of Kansas in
+12 determining taxable income for income tax purposes in such other state, to
+13 the extent that such taxes and assessments are claimed as an itemized
+14 deduction for federal income tax purposes.
+15 (xix) For taxable years beginning after December 31, 2012, and
+16 ending before January 1, 2017, the amount of any: (1) Loss from business
+17 as determined under the federal internal revenue code and reported from
+18 schedule C and on line 12 of the taxpayer's form 1040 federal individual
+19 income tax return; (2) loss from rental real estate, royalties, partnerships, S
+20 corporations, except those with wholly owned subsidiaries subject to the
+21 Kansas privilege tax, estates, trusts, residual interest in real estate
+22 mortgage investment conduits and net farm rental as determined under the
+23 federal internal revenue code and reported from schedule E and on line 17
+24 of the taxpayer's form 1040 federal individual income tax return; and (3)
+25 farm loss as determined under the federal internal revenue code and
+26 reported from schedule F and on line 18 of the taxpayer's form 1040
+27 federal income tax return; all to the extent deducted or subtracted in
+28 determining the taxpayer's federal adjusted gross income. For purposes of
+29 this subsection, references to the federal form 1040 and federal schedule
+30 C, schedule E, and schedule F, shall be to such form and schedules as they
+31 existed for tax year 2011, and as revised thereafter by the internal revenue
+32 service.
+33 (xx) For taxable years beginning after December 31, 2012, and
+34 ending before January 1, 2017, the amount of any deduction for self-
+35 employment taxes under section 164(f) of the federal internal revenue
+36 code as in effect on January 1, 2012, and amendments thereto, in
+37 determining the federal adjusted gross income of an individual taxpayer, to
+38 the extent the deduction is attributable to income reported on schedule C,
+39 E or F and on line 12, 17 or 18 of the taxpayer's form 1040 federal income
+40 tax return.
+41 (xxi) For taxable years beginning after December 31, 2012, and
+42 ending before January 1, 2017, the amount of any deduction for pension,
+43 profit sharing, and annuity plans of self-employed individuals under
+SB 196 9
+1 section 62(a)(6) of the federal internal revenue code as in effect on January
+2 1, 2012, and amendments thereto, in determining the federal adjusted gross
+3 income of an individual taxpayer.
+4 (xxii) For taxable years beginning after December 31, 2012, and
+5 ending before January 1, 2017, the amount of any deduction for health
+6 insurance under section 162(l) of the federal internal revenue code as in
+7 effect on January 1, 2012, and amendments thereto, in determining the
+8 federal adjusted gross income of an individual taxpayer.
+9 (xxiii) For taxable years beginning after December 31, 2012, and
+10 ending before January 1, 2017, the amount of any deduction for domestic
+11 production activities under section 199 of the federal internal revenue code
+12 as in effect on January 1, 2012, and amendments thereto, in determining
+13 the federal adjusted gross income of an individual taxpayer.
+14 (xxiv) For taxable years commencing after December 31, 2013, that
+15 portion of the amount of any expenditure deduction claimed in
+16 determining federal adjusted gross income for expenses paid for medical
+17 care of the taxpayer or the taxpayer's spouse or dependents when such
+18 expenses were paid or incurred for an abortion, or for a health benefit plan,
+19 as defined in K.S.A. 65-6731, and amendments thereto, for the purchase of
+20 an optional rider for coverage of abortion in accordance with K.S.A. 40-
+21 2,190, and amendments thereto, to the extent that such taxes and
+22 assessments are claimed as an itemized deduction for federal income tax
+23 purposes.
+24 (xxv) For taxable years commencing after December 31, 2013, that
+25 portion of the amount of any expenditure deduction claimed in
+26 determining federal adjusted gross income for expenses paid by a taxpayer
+27 for health care when such expenses were paid or incurred for abortion
+28 coverage, a health benefit plan, as defined in K.S.A. 65-6731, and
+29 amendments thereto, when such expenses were paid or incurred for
+30 abortion coverage or amounts contributed to health savings accounts for
+31 such taxpayer's employees for the purchase of an optional rider for
+32 coverage of abortion in accordance with K.S.A. 40-2,190, and
+33 amendments thereto, to the extent that such taxes and assessments are
+34 claimed as a deduction for federal income tax purposes.
+35 (xxvi) For all taxable years beginning after December 31, 2016, the
+36 amount of any charitable contribution made to the extent the same is
+37 claimed as the basis for the credit allowed pursuant to K.S.A. 72-4357, and
+38 amendments thereto, and is also claimed as an itemized deduction for
+39 federal income tax purposes.
+40 (xxvii) For all taxable years commencing after December 31, 2020,
+41 the amount of any interest expense paid or accrued in a previous taxable
+42 year but allowed as a deduction pursuant to section 163 of the federal
+43 internal revenue code in the current taxable year by reason of the
+SB 196 10
+1 carryforward of disallowed business interest pursuant to section 163(j) of
+2 the federal internal revenue code. For purposes of this paragraph, an
+3 interest expense is considered paid or accrued only in the first taxable year
+4 the deduction would have been allowable pursuant to section 163 of the
+5 federal internal revenue code if the limitation pursuant to section 163(j) of
+6 the federal internal revenue code did not exist.
+7 (xxviii) For all taxable years beginning after December 31, 2021, the
+8 amount of any contributions to, or earnings from, a first-time home buyer
+9 savings account if distributions from the account were not used to pay for
+10 expenses or transactions authorized pursuant to K.S.A. 2024 Supp. 58-
+11 4904, and amendments thereto, or were not held for the minimum length
+12 of time required pursuant to K.S.A. 2024 Supp. 58-4904, and amendments
+13 thereto. Contributions to, or earnings from, such account shall also include
+14 any amount resulting from the account holder not designating a surviving
+15 payable on death beneficiary pursuant to K.S.A. 2024 Supp. 58-4904(e),
+16 and amendments thereto.
+17 (xxix) For all taxable years beginning after December 31, 2024, the
+18 amount of any contributions to, or earnings from, an adoption savings
+19 account if distributions from the account were not used to pay for expenses
+20 or transactions authorized pursuant to K.S.A. 2024 Supp. 38-2504, and
+21 amendments thereto, or were not held for the minimum length of time
+22 required pursuant to K.S.A. 2024 Supp. 38-2504, and amendments thereto.
+23 Contributions to, or earnings from, such account shall also include any
+24 amount resulting from the account holder not designating a surviving
+25 payable on death beneficiary pursuant to K.S.A. 2024 Supp. 38-2504(e),
+26 and amendments thereto.
+27 (xxx) (1) For all taxable years beginning after December 31, 2024:
+28 (A) Wages or remuneration for the performance of labor paid to an
+29 individual claimed as a deduction for federal income tax purposes by a
+30 taxpayer if the individual is an unauthorized alien. The provisions of this
+31 subsection shall apply regardless of whether an internal revenue service
+32 form 1099 is issued in conjunction with the wages or renumeration; and
+33 (B) any deductible business expense claimed as a deduction for
+34 federal income tax purposes of wages or remuneration for the
+35 performance of labor paid to an independent contractor who is not
+36 registered with and utilizing the e-verify system to verify the federal
+37 employment authorization of all new employees.
+38 (2) For purposes of this subsection, "e-verify," "new employee" and
+39 "unauthorized alien" mean the same as defined in section 1, and
+40 amendments thereto.
+41 (c) There shall be subtracted from federal adjusted gross income:
+42 (i) Interest or dividend income on obligations or securities of any
+43 authority, commission or instrumentality of the United States and its
+SB 196 11
+1 possessions less any related expenses directly incurred in the purchase of
+2 such obligations or securities, to the extent included in federal adjusted
+3 gross income but exempt from state income taxes under the laws of the
+4 United States.
+5 (ii) Any amounts received which are included in federal adjusted
+6 gross income but which are specifically exempt from Kansas income
+7 taxation under the laws of the state of Kansas.
+8 (iii) The portion of any gain or loss from the sale or other disposition
+9 of property having a higher adjusted basis for Kansas income tax purposes
+10 than for federal income tax purposes on the date such property was sold or
+11 disposed of in a transaction in which gain or loss was recognized for
+12 purposes of federal income tax that does not exceed such difference in
+13 basis, but if a gain is considered a long-term capital gain for federal
+14 income tax purposes, the modification shall be limited to that portion of
+15 such gain which is included in federal adjusted gross income.
+16 (iv) The amount necessary to prevent the taxation under this act of
+17 any annuity or other amount of income or gain which was properly
+18 included in income or gain and was taxed under the laws of this state for a
+19 taxable year prior to the effective date of this act, as amended, to the
+20 taxpayer, or to a decedent by reason of whose death the taxpayer acquired
+21 the right to receive the income or gain, or to a trust or estate from which
+22 the taxpayer received the income or gain.
+23 (v) The amount of any refund or credit for overpayment of taxes on
+24 or measured by income or fees or payments in lieu of income taxes
+25 imposed by this state, or any taxing jurisdiction, to the extent included in
+26 gross income for federal income tax purposes.
+27 (vi) Accumulation distributions received by a taxpayer as a
+28 beneficiary of a trust to the extent that the same are included in federal
+29 adjusted gross income.
+30 (vii) Amounts received as annuities under the federal civil service
+31 retirement system from the civil service retirement and disability fund and
+32 other amounts received as retirement benefits in whatever form which
+33 were earned for being employed by the federal government or for service
+34 in the armed forces of the United States.
+35 (viii) Amounts received by retired railroad employees as a
+36 supplemental annuity under the provisions of 45 U.S.C. §§ 228b(a) and
+37 228c(a)(1) et seq.
+38 (ix) Amounts received by retired employees of a city and by retired
+39 employees of any board of such city as retirement allowances pursuant to
+40 K.S.A. 13-14,106, and amendments thereto, or pursuant to any charter
+41 ordinance exempting a city from the provisions of K.S.A. 13-14,106, and
+42 amendments thereto.
+43 (x) (1) For taxable years beginning after December 31, 2021, the
+SB 196 12
+1 amount of any federal credit disallowance under the provisions of 26
+2 U.S.C. § 280C(a).
+3 (2) For taxable years beginning after December 31, 2019, and ending
+4 before January 1, 2022, 50% of the amount of the federal employee
+5 retention credit disallowance under rules similar to the rules of 26 U.S.C. §
+6 280C(a). The taxpayer shall be required to prove that such taxpayer
+7 previously filed Kansas income tax returns and paid Kansas income tax on
+8 the disallowed amount. Notwithstanding any other provision of law to the
+9 contrary, any claim for refund or amended return relating to this
+10 subparagraph shall be allowed to be filed on or before April 15, 2025, and
+11 no claim for refund or amended return shall be allowed or filed after April
+12 15, 2025.
+13 (xi) For taxable years beginning after December 31, 1986, dividend
+14 income on stock issued by Kansas venture capital, inc.
+15 (xii) For taxable years beginning after December 31, 1989, amounts
+16 received by retired employees of a board of public utilities as pension and
+17 retirement benefits pursuant to K.S.A. 13-1246, 13-1246a and 13-1249,
+18 and amendments thereto.
+19 (xiii) For taxable years beginning after December 31, 2004, amounts
+20 contributed to and the amount of income earned on contributions deposited
+21 to an individual development account under K.S.A. 74-50,201 et seq., and
+22 amendments thereto.
+23 (xiv) For all taxable years commencing after December 31, 1996, that
+24 portion of any income of a bank organized under the laws of this state or
+25 any other state, a national banking association organized under the laws of
+26 the United States, an association organized under the savings and loan
+27 code of this state or any other state, or a federal savings association
+28 organized under the laws of the United States, for which an election as an
+29 S corporation under subchapter S of the federal internal revenue code is in
+30 effect, which accrues to the taxpayer who is a stockholder of such
+31 corporation and which is not distributed to the stockholders as dividends of
+32 the corporation. For taxable years beginning after December 31, 2012, and
+33 ending before January 1, 2017, the amount of modification under this
+34 subsection shall exclude the portion of income or loss reported on schedule
+35 E and included on line 17 of the taxpayer's form 1040 federal individual
+36 income tax return.
+37 (xv) The cumulative amounts not exceeding $3,000, or $6,000 for a
+38 married couple filing a joint return, for each designated beneficiary that
+39 are contributed to: (1) A family postsecondary education savings account
+40 established under the Kansas postsecondary education savings program or
+41 a qualified tuition program established and maintained by another state or
+42 agency or instrumentality thereof pursuant to section 529 of the internal
+43 revenue code of 1986, as amended, for the purpose of paying the qualified
+SB 196 13
+1 higher education expenses of a designated beneficiary; or (2) an achieving
+2 a better life experience (ABLE) account established under the Kansas
+3 ABLE savings program or a qualified ABLE program established and
+4 maintained by another state or agency or instrumentality thereof pursuant
+5 to section 529A of the internal revenue code of 1986, as amended, for the
+6 purpose of saving private funds to support an individual with a disability.
+7 The terms and phrases used in this paragraph shall have the meaning
+8 respectively ascribed thereto by the provisions of K.S.A. 75-643 and 75-
+9 652, and amendments thereto, and the provisions of such sections are
+10 hereby incorporated by reference for all purposes thereof. For all taxable
+11 years beginning after December 31, 2022, contributions made to a
+12 qualified tuition program account or a qualified ABLE program account
+13 pursuant to this paragraph on and after January 1 but prior to the date
+14 required for filing a return pursuant to K.S.A. 79-3221, and amendments
+15 thereto, of the successive taxable year may be elected by the taxpayer to
+16 apply to the prior taxable year if such election is made at the time of filing
+17 the return. No contribution shall be used as a modification pursuant to this
+18 paragraph in more than one taxable year.
+19 (xvi) For all taxable years beginning after December 31, 2004,
+20 amounts received by taxpayers who are or were members of the armed
+21 forces of the United States, including service in the Kansas army and air
+22 national guard, as a recruitment, sign up or retention bonus received by
+23 such taxpayer as an incentive to join, enlist or remain in the armed services
+24 of the United States, including service in the Kansas army and air national
+25 guard, and amounts received for repayment of educational or student loans
+26 incurred by or obligated to such taxpayer and received by such taxpayer as
+27 a result of such taxpayer's service in the armed forces of the United States,
+28 including service in the Kansas army and air national guard.
+29 (xvii) For all taxable years beginning after December 31, 2004,
+30 amounts received by taxpayers who are eligible members of the Kansas
+31 army and air national guard as a reimbursement pursuant to K.S.A. 48-
+32 281, and amendments thereto, and amounts received for death benefits
+33 pursuant to K.S.A. 48-282, and amendments thereto, to the extent that
+34 such death benefits are included in federal adjusted gross income of the
+35 taxpayer.
+36 (xviii) (A) For all taxable years beginning after December 31, 2007,
+37 and ending before January 1, 2024, amounts received as benefits under the
+38 federal social security act which are included in federal adjusted gross
+39 income of a taxpayer with federal adjusted gross income of $75,000 or
+40 less, whether such taxpayer's filing status is single, head of household,
+41 married filing separate or married filing jointly.
+42 (B) For all taxable years beginning after December 31, 2023, amounts
+43 received as benefits under the federal social security act that are included
+SB 196 14
+1 in federal adjusted gross income of a taxpayer.
+2 (xix) Amounts received by retired employees of Washburn university
+3 as retirement and pension benefits under the university's retirement plan.
+4 (xx) For taxable years beginning after December 31, 2012, and
+5 ending before January 1, 2017, the amount of any: (1) Net profit from
+6 business as determined under the federal internal revenue code and
+7 reported from schedule C and on line 12 of the taxpayer's form 1040
+8 federal individual income tax return; (2) net income, not including
+9 guaranteed payments as defined in section 707(c) of the federal internal
+10 revenue code and as reported to the taxpayer from federal schedule K-1,
+11 (form 1065-B), in box 9, code F or as reported to the taxpayer from federal
+12 schedule K-1, (form 1065) in box 4, from rental real estate, royalties,
+13 partnerships, S corporations, estates, trusts, residual interest in real estate
+14 mortgage investment conduits and net farm rental as determined under the
+15 federal internal revenue code and reported from schedule E and on line 17
+16 of the taxpayer's form 1040 federal individual income tax return; and (3)
+17 net farm profit as determined under the federal internal revenue code and
+18 reported from schedule F and on line 18 of the taxpayer's form 1040
+19 federal income tax return; all to the extent included in the taxpayer's
+20 federal adjusted gross income. For purposes of this subsection, references
+21 to the federal form 1040 and federal schedule C, schedule E, and schedule
+22 F, shall be to such form and schedules as they existed for tax year 2011
+23 and as revised thereafter by the internal revenue service.
+24 (xxi) For all taxable years beginning after December 31, 2013,
+25 amounts equal to the unreimbursed travel, lodging and medical
+26 expenditures directly incurred by a taxpayer while living, or a dependent
+27 of the taxpayer while living, for the donation of one or more human organs
+28 of the taxpayer, or a dependent of the taxpayer, to another person for
+29 human organ transplantation. The expenses may be claimed as a
+30 subtraction modification provided for in this section to the extent the
+31 expenses are not already subtracted from the taxpayer's federal adjusted
+32 gross income. In no circumstances shall the subtraction modification
+33 provided for in this section for any individual, or a dependent, exceed
+34 $5,000. As used in this section, "human organ" means all or part of a liver,
+35 pancreas, kidney, intestine, lung or bone marrow. The provisions of this
+36 paragraph shall take effect on the day the secretary of revenue certifies to
+37 the director of the budget that the cost for the department of revenue of
+38 modifications to the automated tax system for the purpose of
+39 implementing this paragraph will not exceed $20,000.
+40 (xxii) For taxable years beginning after December 31, 2012, and
+41 ending before January 1, 2017, the amount of net gain from the sale of: (1)
+42 Cattle and horses, regardless of age, held by the taxpayer for draft,
+43 breeding, dairy or sporting purposes, and held by such taxpayer for 24
+SB 196 15
+1 months or more from the date of acquisition; and (2) other livestock,
+2 regardless of age, held by the taxpayer for draft, breeding, dairy or
+3 sporting purposes, and held by such taxpayer for 12 months or more from
+4 the date of acquisition. The subtraction from federal adjusted gross income
+5 shall be limited to the amount of the additions recognized under the
+6 provisions of subsection (b)(xix) attributable to the business in which the
+7 livestock sold had been used. As used in this paragraph, the term
+8 "livestock" shall not include poultry.
+9 (xxiii) For all taxable years beginning after December 31, 2012,
+10 amounts received under either the Overland Park, Kansas police
+11 department retirement plan or the Overland Park, Kansas fire department
+12 retirement plan, both as established by the city of Overland Park, pursuant
+13 to the city's home rule authority.
+14 (xxiv) For taxable years beginning after December 31, 2013, and
+15 ending before January 1, 2017, the net gain from the sale from Christmas
+16 trees grown in Kansas and held by the taxpayer for six years or more.
+17 (xxv) For all taxable years commencing after December 31, 2020,
+18 100% of global intangible low-taxed income under section 951A of the
+19 federal internal revenue code of 1986, before any deductions allowed
+20 under section 250(a)(1)(B) of such code.
+21 (xxvi) (1) For all taxable years commencing after December 31,
+22 2020, the amount of any interest expense paid or accrued in the current
+23 taxable year and disallowed as a deduction pursuant to section 163(j) of
+24 the federal internal revenue code.
+25 (2) For purposes of this paragraph, an interest expense is considered
+26 paid or accrued only in the first taxable year the deduction would have
+27 been allowable pursuant to section 163 of the federal internal revenue code
+28 if the limitation pursuant to section 163(j) of the federal internal revenue
+29 code did not exist.
+30 (3) For tax year 2021, an amount equal to the sum of any interest
+31 expenses paid or accrued in tax years 2018, 2019 and 2020 less the sum of
+32 amounts allowed as a deduction pursuant to section 163 of the federal
+33 internal revenue code in tax years 2018, 2019 and 2020.
+34 (xxvii) For taxable years commencing after December 31, 2020, the
+35 amount disallowed as a deduction pursuant to section 274 of the federal
+36 internal revenue code of 1986 for meal expenditures shall be allowed to
+37 the extent such expense was deductible for determining federal income tax
+38 and was allowed and in effect on December 31, 2017.
+39 (xxviii) For all taxable years beginning after December 31, 2021: (1)
+40 The amount contributed to a first-time home buyer savings account
+41 pursuant to K.S.A. 2024 Supp. 58-4903, and amendments thereto, in an
+42 amount not to exceed $3,000 for an individual or $6,000 for a married
+43 couple filing a joint return; or (2) amounts received as income earned from
+SB 196 16
+1 assets in a first-time home buyer savings account. For all taxable years
+2 beginning after December 31, 2022, contributions made to a first-time
+3 home buyer savings account pursuant to subparagraph (1) on and after
+4 January 1 but prior to the date required for filing a return pursuant to
+5 K.S.A. 79-3221, and amendments thereto, of the successive taxable year
+6 may be elected by the taxpayer to apply to the prior taxable year if such
+7 election is made at the time of filing the return. No contribution shall be
+8 used as a modification pursuant to subparagraph (1) in more than one
+9 taxable year.
+10 (xxix) For taxable years beginning after December 31, 2017, for an
+11 individual taxpayer who carried back federal net operating losses arising in
+12 a taxable year beginning after December 31, 2017, and before January 1,
+13 2021, pursuant to section 172(b)(1) of the federal internal revenue code as
+14 amended by the coronavirus aid, relief, and economic security act
+15 (CARES act), the amount of such federal net operating loss carryback for
+16 each applicable year. If the amount of such federal net operating loss
+17 carryback exceeds the taxpayer's Kansas adjusted gross income for such
+18 taxable year, the amount thereof that exceeds such Kansas adjusted gross
+19 income may be carried forward as a subtraction modification in the
+20 following taxable year or years until the total amount of such federal net
+21 operating loss carryback has been deducted, except that no such unused
+22 amount shall be carried forward for deduction as a subtraction
+23 modification after the 20th taxable year following the taxable year of the
+24 net operating loss. Notwithstanding any other provision of law to the
+25 contrary, an extension of time shall be allowed for a claim for refund or
+26 amended return for tax years 2018, 2019 or 2020 limited to the application
+27 of the provisions of this paragraph and such claim for refund or amended
+28 return must be filed on or before April 15, 2025.
+29 (xxx) For all taxable years beginning after December 31, 2024: (1)
+30 The amount contributed to an adoption savings account pursuant to K.S.A.
+31 2024 Supp. 38-2503, and amendments thereto, in an amount not to exceed
+32 $6,000 for an individual or $12,000 for a married couple filing a joint
+33 return; or (2) amounts received as income earned from assets in an
+34 adoption savings account.
+35 (d) There shall be added to or subtracted from federal adjusted gross
+36 income the taxpayer's share, as beneficiary of an estate or trust, of the
+37 Kansas fiduciary adjustment determined under K.S.A. 79-32,135, and
+38 amendments thereto.
+39 (e) The amount of modifications required to be made under this
+40 section by a partner which relates to items of income, gain, loss, deduction
+41 or credit of a partnership shall be determined under K.S.A. 79-32,131, and
+42 amendments thereto, to the extent that such items affect federal adjusted
+43 gross income of the partner.
+SB 196 17
+1 Sec. 6. K.S.A. 2024 Supp. 79-32,117 is hereby repealed.
+2 Sec. 7. This act shall take effect and be in force from and after its
+3 publication in the statute book.
+[DELETED: AN AT cg e; pg te et oud as by bs es ad pc erdasBN0a1(2(3p4c5p6f7e8(s e" ms ay pn or gp of p9pg or eg in ay a, e, pn o0o1n2(s s s 3i, p, ld p, ld l4c5l6b7s8(y bs ey tt ps a bs le o9r0o1b2(3r4o5b6l]
+[DELETED: 6bb(e((c e" ms ay d, a, ps(r0d1(2an p, or is sr p, ud to c3i4e516s7N8r9I0(e a c, st or or it c1a2(3w4(5t6a7(8p9r0f1s2a3s4s5c6a7v8a9r0p1c2(3o]
+[DELETED: 6sdtbactf(0u1(2a3gl sl ny te Ud Ss in ad c4e5(6c7u8d9t0a1u2a3c4b5c6(7s8t9m0(1s2d3(4p5e ad te rn of te bs es rn as a6c7a8(9l0a1t2as t l 3p]
+[DELETED: 6(udne of ay vn of te et an sprvpet an ss of an ee by te f0g1e2(3(4v5q6n7(8d9a0(1s2c3p4N5d6r7a8r9e0l1b2a3s4(5t6a7b8b9e0(1r2a3(]
+[DELETED: 6ccacNa((d a bs ee or bs ls dn id0(1y2(3(4e5(s cd t at c p t6b7u8e9(e bs es in nr sg t0e1(2(3(4w5(6k7c8b9o0n1g2S3f4m5w6(7(8p9s0a1i2p3l]
+[DELETED: 6ent id in fl ad gs i. It ie ooDai(ie0c1id ur te ps of K. 77 or 7, a2a3t4(5n6a7(8d9i0i1o2b3d4r5t6b7d8f9s0t1z2(3d4c5hr 6a7(8a9a0(1s233(]
+[DELETED: 6fia(taica0(1K2f3s4(5g6(7s859(r te ys cg ar Dr 3, 20a1K2t3t4s5i6(7d8c9t0(e at of ay an dn cd i1d2c3t4(s 5d6c7t83930(e at of ay an dn cd i1d2c33]
+[DELETED: 6(e at of ay an dn cd idct(aobs0o1a2d3t4d5(6e7a8s9i0c1Ks pe t, e, t, rl it in rl e2m3f4o5f6re 7f8d9t0C1e2s3(4e5e6c7d8t9E0t1(2e3p]
+[DELETED: 6s1i(eief(0e1p2a3t4(5pn of te at of ay ee dn cd i6d7c8e9a0a12, ad as t, to te et tt sh ts a2a3p4(5pn of te at of ay ee dn cd i6d7f8c9a0a1s2ce of an in ae wh K. 4, a3a4c5(6a7c8a9f0(1t2y3i]
+[DELETED: 61ctitft(as0e142o3t4a5p6a7(8a9a0o1a2r3C4a5p6a7(8(9i0t1s2f3(4fl ie tx s of ws or rn fr t5p6r7e8(9"d a" mn te se as dd in sn 1, a0a1(2(3a]
+[DELETED: 61psgU(gt(o0t1d2p3b4i5s6(7a8i9t0t1t2t3(4o5i6g7(n ds rd by a tr as a8b9a0(1r2o3w4i5(s rd by rd rd es as a6s728(9e0K1o2a3(]
+[DELETED: 61aU(b, r2ptc, ay cm fr rd or ad rn g to t0s1n213(4i5(6r7r8a9(0c1t2a3(4p5a6t7c8o9S0e1c2t3e4s5E6i7(8m9a0e1a2a3r]
+[DELETED: 61haAmtpTr60h1ys r r s e 2q3p4r5t6a7t8p9(0a1f2n3s4o5g6i7a8i9(0a1a223p4s5t6(7a8f9i0l1m2(3r]
+[DELETED: 61i(a(ebrfl ; t t g0r1(2s3p4m5f6o7n8r9f0f1t2F3a4(5as el to te ud t, lg ad m6e7o8o9hn on t. Te es my be cd as a0s1e2g3p4$5p6p7t8ms to te ad tx sm fr te pe o9i0(1e2Cy 3b]
+[DELETED: 61mrstspl"(0as rd ur er te Od P, Ks p1d2r3t4(5e6t7(819f0u1(223t4t5(6p7b8i9c0(1e2a3i4(5a6i7t8a9(0T1p2a3c]
+[DELETED: 61abhJKmeut0(1i2a324ad b te cs a, r, ad ec s a5(6ef 7c8t9i0f1o2at sl be cd fd fr dn as a s3m0 4n5c6a7o8r9(0T122$3r4a5(6i7K8a9(0s1o2a3g]
+[DELETED: 61SSp]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 196
+By Committee on Federal and State Affairs
+2-4
+1 AN ACT concerning employment; prohibiting the employment of
+2 unauthorized aliens by business entities and public employers;
+3 requiring use and registration of the e-verify program; prohibiting the
+4 deduction of certain wages and remuneration to unauthorized aliens;
+5 amending K.S.A. 2024 Supp. 79-32,117 and repealing the existing
+6 section.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 New Section 1. For the purposes of sections 1 through 4, and
+10 amendments thereto:
+11 (a) "Alien" means the same as provided in 8 U.S.C. § 1101.
+12 (b) "Employee" means any person directed, allowed or permitted to
+13 perform labor or service of any kind by an employer, with the exception of
+14 casual domestic labor hired to work in or around an individual's personal
+15 place of residence. The employees of an independent contractor working
+16 for a business entity shall not be deemed as the employees of the business
+17 entity for the purposes of this section.
+18 (c) "Business entity" means any person or group of persons
+19 performing or engaging in any activity, enterprise, profession or
+20 occupation for gain, benefit, advantage or livelihood, whether for-profit or
+21 not-for-profit. "Business entity" includes, but is not limited to:
+22 (1) Self-employed individuals, business entities filing articles of
+23 incorporation, partnerships, limited partnerships, limited liability
+24 companies, foreign corporations, foreign limited partnerships, foreign
+25 limited liability companies authorized to transact business in this state,
+26 business trusts and any business entity that registers with the secretary of
+27 state; and
+28 (2) any business entity that possesses a business license or
+29 registration to do business issued by the state, is exempt by law from
+30 obtaining such a business license or operating unlawfully without such a
+31 business license.
+32 (d) "Business license" means a license, permit, certificate, approval,
+33 registration, charter or similar form of authorization to perform a service
+34 or conduct any activity, enterprise, profession or occupation issued to a
+35 business entity by this state or any subdivision of this state. "Business
+36 license" does not include registration with the secretary of state to transact
+
+SB 196 2
+1 business as a corporation, limited liability company, partnership or other
+2 business entity in this state.
+3 (e) "New employee" means a person who becomes an employee of an
+4 employer on or after July 1, 2025.
+5 (f) "Person" means a natural person.
+6 (g) "Public employer" means any department, agency, political
+7 subdivision or instrumentality of the state.
+8 (h) "Unauthorized alien" means an alien who does not have the legal
+9 right or authorization under federal law to work in the United States as
+10 described in 8 U.S.C. § 1324a(h)(3).
+11 (i) "E-verify" means the electronic verification of federal employment
+12 authorization program, or its successor program, used to compare
+13 information from form I-9 to governmental records to confirm that an
+14 employee is authorized to work in the United States pursuant to 8 U.S.C. §
+15 1324a and that is operated by the United States department of homeland
+16 security and the social security administration.
+17 New Sec. 2. (a) It is unlawful for an employer to knowingly hire or to
+18 recruit or refer for a fee an unauthorized alien for employment in this state.
+19 It shall be a violation of this section for an employer to:
+20 (1) Use a contract, subcontract or other independent contractor
+21 agreement to obtain the labor of an unauthorized alien in this state; or
+22 (2) knowingly contract with an unauthorized alien or with a person
+23 who employs or contracts with an unauthorized alien to perform the labor.
+24 (b) The provisions of this section may be enforced in the courts of
+25 this state by a civil action brought by any county or district attorney or the
+26 attorney general.
+27 (c) (1) The attorney general shall develop a complaint form for a
+28 person to allege a violation of subsection (a). The complainant shall not be
+29 required to list the complainant's social security number on the complaint
+30 form or to have the complaint form notarized. On receipt of a complaint on
+31 such complaint form that an employer has allegedly knowingly employed
+32 an unauthorized alien, the county or district attorney or attorney general
+33 shall investigate whether the business entity has violated the provisions of
+34 subsection (a). If a complaint is received but is not submitted on a
+35 complaint form developed by the attorney general, the county or district
+36 attorney or attorney general may investigate whether the employer has
+37 violated the provisions of subsection (a). The county or district attorney or
+38 attorney general shall not investigate complaints that are based solely on
+39 race, color or national origin. This subsection shall not be construed to
+40 prohibit the filing of anonymous complaints that are not submitted on a
+41 complaint form developed by the attorney general.
+42 (2) A complaint that is submitted to the attorney general or the county
+43 or district attorney shall be provided by the attorney general or, when
+
+SB 196 3
+1 submitted to a different county or the district attorney, by such county or
+2 district attorney to the county or district attorney of the county in which
+3 the alleged unauthorized alien is, or was previously, employed by the
+4 business entity. The county sheriff or any other local law enforcement
+5 agency may assist in investigating a complaint. When investigating a
+6 complaint, the county or district attorney or attorney general shall verify
+7 the employment authorization of the alleged unauthorized alien with the
+8 federal government pursuant to 8 U.S.C. § 1373(c).
+9 (3) A person who knowingly files a false and frivolous complaint
+10 under this subsection is guilty of a class C nonperson misdemeanor.
+11 (d) If the county or district attorney or attorney general elects to bring
+12 an action to enforce this section, the county or district attorney or attorney
+13 general shall notify the United States immigration and customs
+14 enforcement.
+15 (e) (1) If a business entity violates the provisions of this section, the
+16 court shall order the business entity to terminate the employment of all
+17 unauthorized aliens and file a signed affidavit with the relevant county or
+18 district attorney within three business days. The affidavit shall state that
+19 the business entity has terminated the employment of all unauthorized
+20 aliens in this state and will not intentionally or knowingly employ an
+21 unauthorized alien in this state. If the business entity fails to file a signed
+22 affidavit with the county or district attorney within three business days, the
+23 court shall order the suspension of all business licenses that are held by the
+24 business entity until the business entity files such signed affidavit with the
+25 county or district attorney.
+26 (2) (A) For a first violation of this section, the court shall order the
+27 suspension of all business licenses issued by the state or any subdivision of
+28 the state that are held by the business entity for at least one day but not
+29 more than 30 days.
+30 (B) For a second violation of this section, the court shall order the
+31 suspension of all licenses that are held by the business entity for at least 30
+32 days but not more than one year.
+33 (C) For a third violation of this section, the court shall order the
+34 permanent suspension of all business licenses that are held by the business
+35 entity and the revocation of the business entity's registration as a
+36 corporation, limited liability company or limited partnership in this state, if
+37 applicable.
+38 (f) (1) In enforcing the provisions of this section, no state, county or
+39 local official in this state shall attempt to independently determine whether
+40 an individual is an unauthorized alien or an alien not lawfully present in
+41 the United States. Such determination shall only be made by verifying the
+42 alien's employment authorization status with the federal government
+43 pursuant to 8 U.S.C. § 1373(c).
+
+SB 196 4
+1 (2) When making a determination of whether an employee is an
+2 unauthorized alien, a court shall only consider the federal government's
+3 determination pursuant to 8 U.S.C. § 1373(c). The court shall take judicial
+4 notice of any verification of the employment authorization status
+5 previously provided by the federal government. The court may, and at the
+6 request of a party shall, request the federal government to provide a new
+7 verification of the employment authorization status of the employee
+8 pursuant to 8 U.S.C. § 1373(c). The most recent determination of the
+9 employment authorization status of an employee by the federal
+10 government shall create a rebuttable presumption as to the employee's
+11 employment authorization status.
+12 (g) A business entity that has complied in good faith with:
+13 (1) This section through enrollment in e-verify and that has used e-
+14 verify to confirm the employment authorization of any employee in
+15 question shall have a rebuttable presumption that the business entity did
+16 not knowingly employ an unauthorized alien; and
+17 (2) the requirements of 8 U.S.C. § 1324a(b) shall have an affirmative
+18 defense that the business entity did not knowingly employ an unauthorized
+19 alien.
+20 (h) Any penalty imposed pursuant to this section may be imposed
+21 separate from, commensurate with or in addition to any other applicable
+22 civil or criminal penalty, including, but not limited to, any criminal penalty
+23 pursuant to K.S.A. 21-6509, and amendments thereto.
+24 New Sec. 3. (a) (1) On and after July 1, 2025, every business entity
+25 doing business within this state that employs one or more employees shall
+26 register with and utilize e-verify to verify the employment authorization of
+27 all new employees. The business entity shall retain all documentation
+28 received in connection with its participation in e-verify that verifies the
+29 employment authorization of any employee verified through e-verify for at
+30 least three years after the end of an employee's employment with such
+31 business entity. Upon request by any county or district attorney or the
+32 attorney general, the business entity shall provide this documentation to
+33 such county or district attorney or the attorney general.
+34 (2) The provisions of this subsection may be enforced in the courts of
+35 this state by a civil action brought by any county or district attorney or the
+36 attorney general. Upon a finding of a violation of this subsection by a
+37 business entity, the court shall order the suspension of all licenses issued
+38 by the state or any subdivision of the state that are held by the business
+39 entity for at least 10 days but not more than one year.
+40 (b) On and after July 1, 2025, every public employer in this state shall
+41 register with and utilize e-verify to verify the employment authorization of
+42 all new employees.
+43 (c) On and after July 1, 2025, no public employer shall enter into a
+
+SB 196 5
+1 contract for the performance of services within this state unless the
+2 contractor registers and participates in e-verify to verify the employment
+3 authorization of all new employees. This subsection shall not apply to any
+4 contracts entered into prior to July 1, 2025.
+5 New Sec. 4. (a) All business entities shall annually submit a signed
+6 affidavit to the secretary of revenue that states:
+7 (1) Whether the business entity:
+8 (A) Utilized a business expense or business loss deduction in
+9 determining federal adjusted gross income;
+10 (B) employed any employees or independent contractors for the tax
+11 year in question and the number of such employees or contractors;
+12 (C) is enrolled in and is actively participating in e-verify;
+13 (D) has used e-verify to confirm the employment authorization of
+14 every employee hired on or after July 1, 2025; and
+15 (E) has confirmed that any independent contractor paid by the
+16 business entity is an independent contractor who is registered with and
+17 utilizing e-verify to verify the employment authorization of all new
+18 employees; and
+19 (2) the business entity's identification number signifying the
+20 employer's enrollment in e-verify.
+21 (b) The secretary of revenue may audit any business entity that:
+22 (1) Fails to timely submit an affidavit required by this subsection; or
+23 (2) the secretary has probable cause to believe is out of compliance
+24 with this section.
+25 (c) If the secretary of revenue determines that a business entity has
+26 knowingly made material misrepresentations of fact regarding information
+27 contained in the affidavit, the business entity shall be required to add back
+28 business deductions taken, to the extent such deductions constitute wages
+29 or remuneration paid to employees whose employment authorization was
+30 not verified using e-verify, in determining the business entity's adjusted
+31 gross income used to calculate the business entity's state tax liability.
+32 Sec. 5. K.S.A. 2024 Supp. 79-32,117 is hereby amended to read as
+33 follows: 79-32,117. (a) The Kansas adjusted gross income of an individual
+34 means such individual's federal adjusted gross income for the taxable year,
+35 with the modifications specified in this section.
+36 (b) There shall be added to federal adjusted gross income:
+37 (i) Interest income less any related expenses directly incurred in the
+38 purchase of state or political subdivision obligations, to the extent that the
+39 same is not included in federal adjusted gross income, on obligations of
+40 any state or political subdivision thereof, but to the extent that interest
+41 income on obligations of this state or a political subdivision thereof issued
+42 prior to January 1, 1988, is specifically exempt from income tax under the
+43 laws of this state authorizing the issuance of such obligations, it shall be
+
+SB 196 6
+1 excluded from computation of Kansas adjusted gross income whether or
+2 not included in federal adjusted gross income. Interest income on
+3 obligations of this state or a political subdivision thereof issued after
+4 December 31, 1987, shall be excluded from computation of Kansas
+5 adjusted gross income whether or not included in federal adjusted gross
+6 income.
+7 (ii) Taxes on or measured by income or fees or payments in lieu of
+8 income taxes imposed by this state or any other taxing jurisdiction to the
+9 extent deductible in determining federal adjusted gross income and not
+10 credited against federal income tax. This paragraph shall not apply to taxes
+11 imposed under the provisions of K.S.A. 79-1107 or 79-1108, and
+12 amendments thereto, for privilege tax year 1995, and all such years
+13 thereafter.
+14 (iii) The federal net operating loss deduction, except that the federal
+15 net operating loss deduction shall not be added to an individual's federal
+16 adjusted gross income for tax years beginning after December 31, 2016.
+17 (iv) Federal income tax refunds received by the taxpayer if the
+18 deduction of the taxes being refunded resulted in a tax benefit for Kansas
+19 income tax purposes during a prior taxable year. Such refunds shall be
+20 included in income in the year actually received regardless of the method
+21 of accounting used by the taxpayer. For purposes hereof, a tax benefit shall
+22 be deemed to have resulted if the amount of the tax had been deducted in
+23 determining income subject to a Kansas income tax for a prior year
+24 regardless of the rate of taxation applied in such prior year to the Kansas
+25 taxable income, but only that portion of the refund shall be included as
+26 bears the same proportion to the total refund received as the federal taxes
+27 deducted in the year to which such refund is attributable bears to the total
+28 federal income taxes paid for such year. For purposes of the foregoing
+29 sentence, federal taxes shall be considered to have been deducted only to
+30 the extent such deduction does not reduce Kansas taxable income below
+31 zero.
+32 (v) The amount of any depreciation deduction or business expense
+33 deduction claimed on the taxpayer's federal income tax return for any
+34 capital expenditure in making any building or facility accessible to the
+35 handicapped, for which expenditure the taxpayer claimed the credit
+36 allowed by K.S.A. 79-32,177, and amendments thereto.
+37 (vi) Any amount of designated employee contributions picked up by
+38 an employer pursuant to K.S.A. 12-5005, 20-2603, 74-4919 and 74-4965,
+39 and amendments thereto.
+40 (vii) The amount of any charitable contribution made to the extent the
+41 same is claimed as the basis for the credit allowed pursuant to K.S.A. 79-
+42 32,196, and amendments thereto.
+43 (viii) The amount of any costs incurred for improvements to a swine
+
+SB 196 7
+1 facility, claimed for deduction in determining federal adjusted gross
+2 income, to the extent the same is claimed as the basis for any credit
+3 allowed pursuant to K.S.A. 79-32,204, and amendments thereto.
+4 (ix) The amount of any ad valorem taxes and assessments paid and
+5 the amount of any costs incurred for habitat management or construction
+6 and maintenance of improvements on real property, claimed for deduction
+7 in determining federal adjusted gross income, to the extent the same is
+8 claimed as the basis for any credit allowed pursuant to K.S.A. 79-32,203,
+9 and amendments thereto.
+10 (x) Amounts received as nonqualified withdrawals, as defined by
+11 K.S.A. 75-643, and amendments thereto, if, at the time of contribution to a
+12 family postsecondary education savings account, such amounts were
+13 subtracted from the federal adjusted gross income pursuant to subsection
+14 (c)(xv) or if such amounts are not already included in the federal adjusted
+15 gross income.
+16 (xi) The amount of any contribution made to the same extent the
+17 same is claimed as the basis for the credit allowed pursuant to K.S.A. 74-
+18 50,154, and amendments thereto.
+19 (xii) For taxable years commencing after December 31, 2004,
+20 amounts received as withdrawals not in accordance with the provisions of
+21 K.S.A. 74-50,204, and amendments thereto, if, at the time of contribution
+22 to an individual development account, such amounts were subtracted from
+23 the federal adjusted gross income pursuant to subsection (c)(xiii), or if
+24 such amounts are not already included in the federal adjusted gross
+25 income.
+26 (xiii) The amount of any expenditures claimed for deduction in
+27 determining federal adjusted gross income, to the extent the same is
+28 claimed as the basis for any credit allowed pursuant to K.S.A. 79-32,217
+29 through 79-32,220 or 79-32,222, and amendments thereto.
+30 (xiv) The amount of any amortization deduction claimed in
+31 determining federal adjusted gross income to the extent the same is
+32 claimed for deduction pursuant to K.S.A. 79-32,221, and amendments
+33 thereto.
+34 (xv) The amount of any expenditures claimed for deduction in
+35 determining federal adjusted gross income, to the extent the same is
+36 claimed as the basis for any credit allowed pursuant to K.S.A. 79-32,223
+37 through 79-32,226, 79-32,228 through 79-32,231, 79-32,233 through 79-
+38 32,236, 79-32,238 through 79-32,241, 79-32,245 through 79-32,248 or 79-
+39 32,251 through 79-32,254, and amendments thereto.
+40 (xvi) The amount of any amortization deduction claimed in
+41 determining federal adjusted gross income to the extent the same is
+42 claimed for deduction pursuant to K.S.A. 79-32,227, 79-32,232, 79-
+43 32,237, 79-32,249, 79-32,250 or 79-32,255, and amendments thereto.
+
+SB 196 8
+1 (xvii) The amount of any amortization deduction claimed in
+2 determining federal adjusted gross income to the extent the same is
+3 claimed for deduction pursuant to K.S.A. 79-32,256, and amendments
+4 thereto.
+5 (xviii) For taxable years commencing after December 31, 2006, the
+6 amount of any ad valorem or property taxes and assessments paid to a state
+7 other than Kansas or local government located in a state other than Kansas
+8 by a taxpayer who resides in a state other than Kansas, when the law of
+9 such state does not allow a resident of Kansas who earns income in such
+10 other state to claim a deduction for ad valorem or property taxes or
+11 assessments paid to a political subdivision of the state of Kansas in
+12 determining taxable income for income tax purposes in such other state, to
+13 the extent that such taxes and assessments are claimed as an itemized
+14 deduction for federal income tax purposes.
+15 (xix) For taxable years beginning after December 31, 2012, and
+16 ending before January 1, 2017, the amount of any: (1) Loss from business
+17 as determined under the federal internal revenue code and reported from
+18 schedule C and on line 12 of the taxpayer's form 1040 federal individual
+19 income tax return; (2) loss from rental real estate, royalties, partnerships, S
+20 corporations, except those with wholly owned subsidiaries subject to the
+21 Kansas privilege tax, estates, trusts, residual interest in real estate
+22 mortgage investment conduits and net farm rental as determined under the
+23 federal internal revenue code and reported from schedule E and on line 17
+24 of the taxpayer's form 1040 federal individual income tax return; and (3)
+25 farm loss as determined under the federal internal revenue code and
+26 reported from schedule F and on line 18 of the taxpayer's form 1040
+27 federal income tax return; all to the extent deducted or subtracted in
+28 determining the taxpayer's federal adjusted gross income. For purposes of
+29 this subsection, references to the federal form 1040 and federal schedule
+30 C, schedule E, and schedule F, shall be to such form and schedules as they
+31 existed for tax year 2011, and as revised thereafter by the internal revenue
+32 service.
+33 (xx) For taxable years beginning after December 31, 2012, and
+34 ending before January 1, 2017, the amount of any deduction for self-
+35 employment taxes under section 164(f) of the federal internal revenue
+36 code as in effect on January 1, 2012, and amendments thereto, in
+37 determining the federal adjusted gross income of an individual taxpayer, to
+38 the extent the deduction is attributable to income reported on schedule C,
+39 E or F and on line 12, 17 or 18 of the taxpayer's form 1040 federal income
+40 tax return.
+41 (xxi) For taxable years beginning after December 31, 2012, and
+42 ending before January 1, 2017, the amount of any deduction for pension,
+43 profit sharing, and annuity plans of self-employed individuals under
+
+SB 196 9
+1 section 62(a)(6) of the federal internal revenue code as in effect on January
+2 1, 2012, and amendments thereto, in determining the federal adjusted gross
+3 income of an individual taxpayer.
+4 (xxii) For taxable years beginning after December 31, 2012, and
+5 ending before January 1, 2017, the amount of any deduction for health
+6 insurance under section 162(l) of the federal internal revenue code as in
+7 effect on January 1, 2012, and amendments thereto, in determining the
+8 federal adjusted gross income of an individual taxpayer.
+9 (xxiii) For taxable years beginning after December 31, 2012, and
+10 ending before January 1, 2017, the amount of any deduction for domestic
+11 production activities under section 199 of the federal internal revenue code
+12 as in effect on January 1, 2012, and amendments thereto, in determining
+13 the federal adjusted gross income of an individual taxpayer.
+14 (xxiv) For taxable years commencing after December 31, 2013, that
+15 portion of the amount of any expenditure deduction claimed in
+16 determining federal adjusted gross income for expenses paid for medical
+17 care of the taxpayer or the taxpayer's spouse or dependents when such
+18 expenses were paid or incurred for an abortion, or for a health benefit plan,
+19 as defined in K.S.A. 65-6731, and amendments thereto, for the purchase of
+20 an optional rider for coverage of abortion in accordance with K.S.A. 40-
+21 2,190, and amendments thereto, to the extent that such taxes and
+22 assessments are claimed as an itemized deduction for federal income tax
+23 purposes.
+24 (xxv) For taxable years commencing after December 31, 2013, that
+25 portion of the amount of any expenditure deduction claimed in
+26 determining federal adjusted gross income for expenses paid by a taxpayer
+27 for health care when such expenses were paid or incurred for abortion
+28 coverage, a health benefit plan, as defined in K.S.A. 65-6731, and
+29 amendments thereto, when such expenses were paid or incurred for
+30 abortion coverage or amounts contributed to health savings accounts for
+31 such taxpayer's employees for the purchase of an optional rider for
+32 coverage of abortion in accordance with K.S.A. 40-2,190, and
+33 amendments thereto, to the extent that such taxes and assessments are
+34 claimed as a deduction for federal income tax purposes.
+35 (xxvi) For all taxable years beginning after December 31, 2016, the
+36 amount of any charitable contribution made to the extent the same is
+37 claimed as the basis for the credit allowed pursuant to K.S.A. 72-4357, and
+38 amendments thereto, and is also claimed as an itemized deduction for
+39 federal income tax purposes.
+40 (xxvii) For all taxable years commencing after December 31, 2020,
+41 the amount of any interest expense paid or accrued in a previous taxable
+42 year but allowed as a deduction pursuant to section 163 of the federal
+43 internal revenue code in the current taxable year by reason of the
+
+SB 196 10
+1 carryforward of disallowed business interest pursuant to section 163(j) of
+2 the federal internal revenue code. For purposes of this paragraph, an
+3 interest expense is considered paid or accrued only in the first taxable year
+4 the deduction would have been allowable pursuant to section 163 of the
+5 federal internal revenue code if the limitation pursuant to section 163(j) of
+6 the federal internal revenue code did not exist.
+7 (xxviii) For all taxable years beginning after December 31, 2021, the
+8 amount of any contributions to, or earnings from, a first-time home buyer
+9 savings account if distributions from the account were not used to pay for
+10 expenses or transactions authorized pursuant to K.S.A. 2024 Supp. 58-
+11 4904, and amendments thereto, or were not held for the minimum length
+12 of time required pursuant to K.S.A. 2024 Supp. 58-4904, and amendments
+13 thereto. Contributions to, or earnings from, such account shall also include
+14 any amount resulting from the account holder not designating a surviving
+15 payable on death beneficiary pursuant to K.S.A. 2024 Supp. 58-4904(e),
+16 and amendments thereto.
+17 (xxix) For all taxable years beginning after December 31, 2024, the
+18 amount of any contributions to, or earnings from, an adoption savings
+19 account if distributions from the account were not used to pay for expenses
+20 or transactions authorized pursuant to K.S.A. 2024 Supp. 38-2504, and
+21 amendments thereto, or were not held for the minimum length of time
+22 required pursuant to K.S.A. 2024 Supp. 38-2504, and amendments thereto.
+23 Contributions to, or earnings from, such account shall also include any
+24 amount resulting from the account holder not designating a surviving
+25 payable on death beneficiary pursuant to K.S.A. 2024 Supp. 38-2504(e),
+26 and amendments thereto.
+27 (xxx) (1) For all taxable years beginning after December 31, 2024:
+28 (A) Wages or remuneration for the performance of labor paid to an
+29 individual claimed as a deduction for federal income tax purposes by a
+30 taxpayer if the individual is an unauthorized alien. The provisions of this
+31 subsection shall apply regardless of whether an internal revenue service
+32 form 1099 is issued in conjunction with the wages or renumeration; and
+33 (B) any deductible business expense claimed as a deduction for
+34 federal income tax purposes of wages or remuneration for the
+35 performance of labor paid to an independent contractor who is not
+36 registered with and utilizing the e-verify system to verify the federal
+37 employment authorization of all new employees.
+38 (2) For purposes of this subsection, "e-verify," "new employee" and
+39 "unauthorized alien" mean the same as defined in section 1, and
+40 amendments thereto.
+41 (c) There shall be subtracted from federal adjusted gross income:
+42 (i) Interest or dividend income on obligations or securities of any
+43 authority, commission or instrumentality of the United States and its
+
+SB 196 11
+1 possessions less any related expenses directly incurred in the purchase of
+2 such obligations or securities, to the extent included in federal adjusted
+3 gross income but exempt from state income taxes under the laws of the
+4 United States.
+5 (ii) Any amounts received which are included in federal adjusted
+6 gross income but which are specifically exempt from Kansas income
+7 taxation under the laws of the state of Kansas.
+8 (iii) The portion of any gain or loss from the sale or other disposition
+9 of property having a higher adjusted basis for Kansas income tax purposes
+10 than for federal income tax purposes on the date such property was sold or
+11 disposed of in a transaction in which gain or loss was recognized for
+12 purposes of federal income tax that does not exceed such difference in
+13 basis, but if a gain is considered a long-term capital gain for federal
+14 income tax purposes, the modification shall be limited to that portion of
+15 such gain which is included in federal adjusted gross income.
+16 (iv) The amount necessary to prevent the taxation under this act of
+17 any annuity or other amount of income or gain which was properly
+18 included in income or gain and was taxed under the laws of this state for a
+19 taxable year prior to the effective date of this act, as amended, to the
+20 taxpayer, or to a decedent by reason of whose death the taxpayer acquired
+21 the right to receive the income or gain, or to a trust or estate from which
+22 the taxpayer received the income or gain.
+23 (v) The amount of any refund or credit for overpayment of taxes on
+24 or measured by income or fees or payments in lieu of income taxes
+25 imposed by this state, or any taxing jurisdiction, to the extent included in
+26 gross income for federal income tax purposes.
+27 (vi) Accumulation distributions received by a taxpayer as a
+28 beneficiary of a trust to the extent that the same are included in federal
+29 adjusted gross income.
+30 (vii) Amounts received as annuities under the federal civil service
+31 retirement system from the civil service retirement and disability fund and
+32 other amounts received as retirement benefits in whatever form which
+33 were earned for being employed by the federal government or for service
+34 in the armed forces of the United States.
+35 (viii) Amounts received by retired railroad employees as a
+36 supplemental annuity under the provisions of 45 U.S.C. §§ 228b(a) and
+37 228c(a)(1) et seq.
+38 (ix) Amounts received by retired employees of a city and by retired
+39 employees of any board of such city as retirement allowances pursuant to
+40 K.S.A. 13-14,106, and amendments thereto, or pursuant to any charter
+41 ordinance exempting a city from the provisions of K.S.A. 13-14,106, and
+42 amendments thereto.
+43 (x) (1) For taxable years beginning after December 31, 2021, the
+
+SB 196 12
+1 amount of any federal credit disallowance under the provisions of 26
+2 U.S.C. § 280C(a).
+3 (2) For taxable years beginning after December 31, 2019, and ending
+4 before January 1, 2022, 50% of the amount of the federal employee
+5 retention credit disallowance under rules similar to the rules of 26 U.S.C. §
+6 280C(a). The taxpayer shall be required to prove that such taxpayer
+7 previously filed Kansas income tax returns and paid Kansas income tax on
+8 the disallowed amount. Notwithstanding any other provision of law to the
+9 contrary, any claim for refund or amended return relating to this
+10 subparagraph shall be allowed to be filed on or before April 15, 2025, and
+11 no claim for refund or amended return shall be allowed or filed after April
+12 15, 2025.
+13 (xi) For taxable years beginning after December 31, 1986, dividend
+14 income on stock issued by Kansas venture capital, inc.
+15 (xii) For taxable years beginning after December 31, 1989, amounts
+16 received by retired employees of a board of public utilities as pension and
+17 retirement benefits pursuant to K.S.A. 13-1246, 13-1246a and 13-1249,
+18 and amendments thereto.
+19 (xiii) For taxable years beginning after December 31, 2004, amounts
+20 contributed to and the amount of income earned on contributions deposited
+21 to an individual development account under K.S.A. 74-50,201 et seq., and
+22 amendments thereto.
+23 (xiv) For all taxable years commencing after December 31, 1996, that
+24 portion of any income of a bank organized under the laws of this state or
+25 any other state, a national banking association organized under the laws of
+26 the United States, an association organized under the savings and loan
+27 code of this state or any other state, or a federal savings association
+28 organized under the laws of the United States, for which an election as an
+29 S corporation under subchapter S of the federal internal revenue code is in
+30 effect, which accrues to the taxpayer who is a stockholder of such
+31 corporation and which is not distributed to the stockholders as dividends of
+32 the corporation. For taxable years beginning after December 31, 2012, and
+33 ending before January 1, 2017, the amount of modification under this
+34 subsection shall exclude the portion of income or loss reported on schedule
+35 E and included on line 17 of the taxpayer's form 1040 federal individual
+36 income tax return.
+37 (xv) The cumulative amounts not exceeding $3,000, or $6,000 for a
+38 married couple filing a joint return, for each designated beneficiary that
+39 are contributed to: (1) A family postsecondary education savings account
+40 established under the Kansas postsecondary education savings program or
+41 a qualified tuition program established and maintained by another state or
+42 agency or instrumentality thereof pursuant to section 529 of the internal
+43 revenue code of 1986, as amended, for the purpose of paying the qualified
+
+SB 196 13
+1 higher education expenses of a designated beneficiary; or (2) an achieving
+2 a better life experience (ABLE) account established under the Kansas
+3 ABLE savings program or a qualified ABLE program established and
+4 maintained by another state or agency or instrumentality thereof pursuant
+5 to section 529A of the internal revenue code of 1986, as amended, for the
+6 purpose of saving private funds to support an individual with a disability.
+7 The terms and phrases used in this paragraph shall have the meaning
+8 respectively ascribed thereto by the provisions of K.S.A. 75-643 and 75-
+9 652, and amendments thereto, and the provisions of such sections are
+10 hereby incorporated by reference for all purposes thereof. For all taxable
+11 years beginning after December 31, 2022, contributions made to a
+12 qualified tuition program account or a qualified ABLE program account
+13 pursuant to this paragraph on and after January 1 but prior to the date
+14 required for filing a return pursuant to K.S.A. 79-3221, and amendments
+15 thereto, of the successive taxable year may be elected by the taxpayer to
+16 apply to the prior taxable year if such election is made at the time of filing
+17 the return. No contribution shall be used as a modification pursuant to this
+18 paragraph in more than one taxable year.
+19 (xvi) For all taxable years beginning after December 31, 2004,
+20 amounts received by taxpayers who are or were members of the armed
+21 forces of the United States, including service in the Kansas army and air
+22 national guard, as a recruitment, sign up or retention bonus received by
+23 such taxpayer as an incentive to join, enlist or remain in the armed services
+24 of the United States, including service in the Kansas army and air national
+25 guard, and amounts received for repayment of educational or student loans
+26 incurred by or obligated to such taxpayer and received by such taxpayer as
+27 a result of such taxpayer's service in the armed forces of the United States,
+28 including service in the Kansas army and air national guard.
+29 (xvii) For all taxable years beginning after December 31, 2004,
+30 amounts received by taxpayers who are eligible members of the Kansas
+31 army and air national guard as a reimbursement pursuant to K.S.A. 48-
+32 281, and amendments thereto, and amounts received for death benefits
+33 pursuant to K.S.A. 48-282, and amendments thereto, to the extent that
+34 such death benefits are included in federal adjusted gross income of the
+35 taxpayer.
+36 (xviii) (A) For all taxable years beginning after December 31, 2007,
+37 and ending before January 1, 2024, amounts received as benefits under the
+38 federal social security act which are included in federal adjusted gross
+39 income of a taxpayer with federal adjusted gross income of $75,000 or
+40 less, whether such taxpayer's filing status is single, head of household,
+41 married filing separate or married filing jointly.
+42 (B) For all taxable years beginning after December 31, 2023, amounts
+43 received as benefits under the federal social security act that are included
+
+SB 196 14
+1 in federal adjusted gross income of a taxpayer.
+2 (xix) Amounts received by retired employees of Washburn university
+3 as retirement and pension benefits under the university's retirement plan.
+4 (xx) For taxable years beginning after December 31, 2012, and
+5 ending before January 1, 2017, the amount of any: (1) Net profit from
+6 business as determined under the federal internal revenue code and
+7 reported from schedule C and on line 12 of the taxpayer's form 1040
+8 federal individual income tax return; (2) net income, not including
+9 guaranteed payments as defined in section 707(c) of the federal internal
+10 revenue code and as reported to the taxpayer from federal schedule K-1,
+11 (form 1065-B), in box 9, code F or as reported to the taxpayer from federal
+12 schedule K-1, (form 1065) in box 4, from rental real estate, royalties,
+13 partnerships, S corporations, estates, trusts, residual interest in real estate
+14 mortgage investment conduits and net farm rental as determined under the
+15 federal internal revenue code and reported from schedule E and on line 17
+16 of the taxpayer's form 1040 federal individual income tax return; and (3)
+17 net farm profit as determined under the federal internal revenue code and
+18 reported from schedule F and on line 18 of the taxpayer's form 1040
+19 federal income tax return; all to the extent included in the taxpayer's
+20 federal adjusted gross income. For purposes of this subsection, references
+21 to the federal form 1040 and federal schedule C, schedule E, and schedule
+22 F, shall be to such form and schedules as they existed for tax year 2011
+23 and as revised thereafter by the internal revenue service.
+24 (xxi) For all taxable years beginning after December 31, 2013,
+25 amounts equal to the unreimbursed travel, lodging and medical
+26 expenditures directly incurred by a taxpayer while living, or a dependent
+27 of the taxpayer while living, for the donation of one or more human organs
+28 of the taxpayer, or a dependent of the taxpayer, to another person for
+29 human organ transplantation. The expenses may be claimed as a
+30 subtraction modification provided for in this section to the extent the
+31 expenses are not already subtracted from the taxpayer's federal adjusted
+32 gross income. In no circumstances shall the subtraction modification
+33 provided for in this section for any individual, or a dependent, exceed
+34 $5,000. As used in this section, "human organ" means all or part of a liver,
+35 pancreas, kidney, intestine, lung or bone marrow. The provisions of this
+36 paragraph shall take effect on the day the secretary of revenue certifies to
+37 the director of the budget that the cost for the department of revenue of
+38 modifications to the automated tax system for the purpose of
+39 implementing this paragraph will not exceed $20,000.
+40 (xxii) For taxable years beginning after December 31, 2012, and
+41 ending before January 1, 2017, the amount of net gain from the sale of: (1)
+42 Cattle and horses, regardless of age, held by the taxpayer for draft,
+43 breeding, dairy or sporting purposes, and held by such taxpayer for 24
+
+SB 196 15
+1 months or more from the date of acquisition; and (2) other livestock,
+2 regardless of age, held by the taxpayer for draft, breeding, dairy or
+3 sporting purposes, and held by such taxpayer for 12 months or more from
+4 the date of acquisition. The subtraction from federal adjusted gross income
+5 shall be limited to the amount of the additions recognized under the
+6 provisions of subsection (b)(xix) attributable to the business in which the
+7 livestock sold had been used. As used in this paragraph, the term
+8 "livestock" shall not include poultry.
+9 (xxiii) For all taxable years beginning after December 31, 2012,
+10 amounts received under either the Overland Park, Kansas police
+11 department retirement plan or the Overland Park, Kansas fire department
+12 retirement plan, both as established by the city of Overland Park, pursuant
+13 to the city's home rule authority.
+14 (xxiv) For taxable years beginning after December 31, 2013, and
+15 ending before January 1, 2017, the net gain from the sale from Christmas
+16 trees grown in Kansas and held by the taxpayer for six years or more.
+17 (xxv) For all taxable years commencing after December 31, 2020,
+18 100% of global intangible low-taxed income under section 951A of the
+19 federal internal revenue code of 1986, before any deductions allowed
+20 under section 250(a)(1)(B) of such code.
+21 (xxvi) (1) For all taxable years commencing after December 31,
+22 2020, the amount of any interest expense paid or accrued in the current
+23 taxable year and disallowed as a deduction pursuant to section 163(j) of
+24 the federal internal revenue code.
+25 (2) For purposes of this paragraph, an interest expense is considered
+26 paid or accrued only in the first taxable year the deduction would have
+27 been allowable pursuant to section 163 of the federal internal revenue code
+28 if the limitation pursuant to section 163(j) of the federal internal revenue
+29 code did not exist.
+30 (3) For tax year 2021, an amount equal to the sum of any interest
+31 expenses paid or accrued in tax years 2018, 2019 and 2020 less the sum of
+32 amounts allowed as a deduction pursuant to section 163 of the federal
+33 internal revenue code in tax years 2018, 2019 and 2020.
+34 (xxvii) For taxable years commencing after December 31, 2020, the
+35 amount disallowed as a deduction pursuant to section 274 of the federal
+36 internal revenue code of 1986 for meal expenditures shall be allowed to
+37 the extent such expense was deductible for determining federal income tax
+38 and was allowed and in effect on December 31, 2017.
+39 (xxviii) For all taxable years beginning after December 31, 2021: (1)
+40 The amount contributed to a first-time home buyer savings account
+41 pursuant to K.S.A. 2024 Supp. 58-4903, and amendments thereto, in an
+42 amount not to exceed $3,000 for an individual or $6,000 for a married
+43 couple filing a joint return; or (2) amounts received as income earned from
+
+SB 196 16
+1 assets in a first-time home buyer savings account. For all taxable years
+2 beginning after December 31, 2022, contributions made to a first-time
+3 home buyer savings account pursuant to subparagraph (1) on and after
+4 January 1 but prior to the date required for filing a return pursuant to
+5 K.S.A. 79-3221, and amendments thereto, of the successive taxable year
+6 may be elected by the taxpayer to apply to the prior taxable year if such
+7 election is made at the time of filing the return. No contribution shall be
+8 used as a modification pursuant to subparagraph (1) in more than one
+9 taxable year.
+10 (xxix) For taxable years beginning after December 31, 2017, for an
+11 individual taxpayer who carried back federal net operating losses arising in
+12 a taxable year beginning after December 31, 2017, and before January 1,
+13 2021, pursuant to section 172(b)(1) of the federal internal revenue code as
+14 amended by the coronavirus aid, relief, and economic security act
+15 (CARES act), the amount of such federal net operating loss carryback for
+16 each applicable year. If the amount of such federal net operating loss
+17 carryback exceeds the taxpayer's Kansas adjusted gross income for such
+18 taxable year, the amount thereof that exceeds such Kansas adjusted gross
+19 income may be carried forward as a subtraction modification in the
+20 following taxable year or years until the total amount of such federal net
+21 operating loss carryback has been deducted, except that no such unused
+22 amount shall be carried forward for deduction as a subtraction
+23 modification after the 20th taxable year following the taxable year of the
+24 net operating loss. Notwithstanding any other provision of law to the
+25 contrary, an extension of time shall be allowed for a claim for refund or
+26 amended return for tax years 2018, 2019 or 2020 limited to the application
+27 of the provisions of this paragraph and such claim for refund or amended
+28 return must be filed on or before April 15, 2025.
+29 (xxx) For all taxable years beginning after December 31, 2024: (1)
+30 The amount contributed to an adoption savings account pursuant to K.S.A.
+31 2024 Supp. 38-2503, and amendments thereto, in an amount not to exceed
+32 $6,000 for an individual or $12,000 for a married couple filing a joint
+33 return; or (2) amounts received as income earned from assets in an
+34 adoption savings account.
+35 (d) There shall be added to or subtracted from federal adjusted gross
+36 income the taxpayer's share, as beneficiary of an estate or trust, of the
+37 Kansas fiduciary adjustment determined under K.S.A. 79-32,135, and
+38 amendments thereto.
+39 (e) The amount of modifications required to be made under this
+40 section by a partner which relates to items of income, gain, loss, deduction
+41 or credit of a partnership shall be determined under K.S.A. 79-32,131, and
+42 amendments thereto, to the extent that such items affect federal adjusted
+43 gross income of the partner.
+
+SB 196 17
+1 Sec. 6. K.S.A. 2024 Supp. 79-32,117 is hereby repealed.
+2 Sec. 7. This act shall take effect and be in force from and after its
+3 publication in the statute book.
+
+[DELETED: AN AT cg e; pg te et oud as by bs es ad pc erdasBN0a1(2(3p4c5p6f7e8(s e" ms ay pn or gp of p9pg or eg in ay a, e, pn o0o1n2(s s s 3i, p, ld p, ld l4c5l6b7s8(y bs ey tt ps a bs le o9r0o1b2(3r4o5b6l]
+[DELETED: 6bb(e((c e" ms ay d, a, ps(r0d1(2an p, or is sr p, ud to c3i4e516s7N8r9I0(e a c, st or or it c1a2(3w4(5t6a7(8p9r0f1s2a3s4s5c6a7v8a9r0p1c2(3o]
+[DELETED: 6sdtbactf(0u1(2a3gl sl ny te Ud Ss in ad c4e5(6c7u8d9t0a1u2a3c4b5c6(7s8t9m0(1s2d3(4p5e ad te rn of te bs es rn as a6c7a8(9l0a1t2as t l 3p]
+[DELETED: 6(udne of ay vn of te et an sprvpet an ss of an ee by te f0g1e2(3(4v5q6n7(8d9a0(1s2c3p4N5d6r7a8r9e0l1b2a3s4(5t6a7b8b9e0(1r2a3(]
+[DELETED: 6ccacNa((d a bs ee or bs ls dn id0(1y2(3(4e5(s cd t at c p t6b7u8e9(e bs es in nr sg t0e1(2(3(4w5(6k7c8b9o0n1g2S3f4m5w6(7(8p9s0a1i2p3l]
+[DELETED: 6ent id in fl ad gs i. It ie ooDai(ie0c1id ur te ps of K. 77 or 7, a2a3t4(5n6a7(8d9i0i1o2b3d4r5t6b7d8f9s0t1z2(3d4c5hr 6a7(8a9a0(1s233(]
+[DELETED: 6fia(taica0(1K2f3s4(5g6(7s859(r te ys cg ar Dr 3, 20a1K2t3t4s5i6(7d8c9t0(e at of ay an dn cd i1d2c3t4(s 5d6c7t83930(e at of ay an dn cd i1d2c33]
+[DELETED: 6(e at of ay an dn cd idct(aobs0o1a2d3t4d5(6e7a8s9i0c1Ks pe t, e, t, rl it in rl e2m3f4o5f6re 7f8d9t0C1e2s3(4e5e6c7d8t9E0t1(2e3p]
+[DELETED: 6s1i(eief(0e1p2a3t4(5pn of te at of ay ee dn cd i6d7c8e9a0a12, ad as t, to te et tt sh ts a2a3p4(5pn of te at of ay ee dn cd i6d7f8c9a0a1s2ce of an in ae wh K. 4, a3a4c5(6a7c8a9f0(1t2y3i]
+[DELETED: 61ctitft(as0e142o3t4a5p6a7(8a9a0o1a2r3C4a5p6a7(8(9i0t1s2f3(4fl ie tx s of ws or rn fr t5p6r7e8(9"d a" mn te se as dd in sn 1, a0a1(2(3a]
+[DELETED: 61psgU(gt(o0t1d2p3b4i5s6(7a8i9t0t1t2t3(4o5i6g7(n ds rd by a tr as a8b9a0(1r2o3w4i5(s rd by rd rd es as a6s728(9e0K1o2a3(]
+[DELETED: 61aU(b, r2ptc, ay cm fr rd or ad rn g to t0s1n213(4i5(6r7r8a9(0c1t2a3(4p5a6t7c8o9S0e1c2t3e4s5E6i7(8m9a0e1a2a3r]
+[DELETED: 61haAmtpTr60h1ys r r s e 2q3p4r5t6a7t8p9(0a1f2n3s4o5g6i7a8i9(0a1a223p4s5t6(7a8f9i0l1m2(3r]
+[DELETED: 61i(a(ebrfl ; t t g0r1(2s3p4m5f6o7n8r9f0f1t2F3a4(5as el to te ud t, lg ad m6e7o8o9hn on t. Te es my be cd as a0s1e2g3p4$5p6p7t8ms to te ad tx sm fr te pe o9i0(1e2Cy 3b]
+[DELETED: 61mrstspl"(0as rd ur er te Od P, Ks p1d2r3t4(5e6t7(819f0u1(223t4t5(6p7b8i9c0(1e2a3i4(5a6i7t8a9(0T1p2a3c]
+[DELETED: 61abhJKmeut0(1i2a324ad b te cs a, r, ad ec s a5(6ef 7c8t9i0f1o2at sl be cd fd fr dn as a s3m0 4n5c6a7o8r9(0T122$3r4a5(6i7K8a9(0s1o2a3g]
+[DELETED: 61SSp]

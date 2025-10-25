@@ -1,0 +1,233 @@
+Title: HOUSE BILL No. 2305
+Official Title: HOUSE BILL No. 2305
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Health and Human Services
+Requested by Jeanne Gawdun on behalf of Kansans for Life
+2-5
+1 AN ACT concerning abortion; relating to health professions and practices;
+2 requiring that certain abortion complications be reported to the Kansas
+3 department of health and environment.
+4
+5 Be it enacted by the Legislature of the State of Kansas:
+6 Section 1. (a) As used in this section:
+7 (1) "Abortion complication" means the following physical or
+8 psychological conditions arising from the induction or performance of an
+9 abortion:
+10 (A) Uterine perforation;
+11 (B) cervical laceration;
+12 (C) infection;
+13 (D) vaginal bleeding that qualifies as a grade 2 or higher adverse
+14 event according to the common terminology criteria for adverse events;
+15 (E) pulmonary embolism;
+16 (F) deep vein thrombosis;
+17 (G) failure to terminate the pregnancy;
+18 (H) incomplete abortion or retained tissue;
+19 (I) pelvic inflammatory disease;
+20 (J) missed ectopic pregnancy;
+21 (K) cardiac arrest;
+22 (L) respiratory arrest;
+23 (M) renal failure;
+24 (N) shock;
+25 (O) amniotic fluid embolism;
+26 (P) coma;
+27 (Q) placenta previa in subsequent pregnancies;
+28 (R) pre-term delivery in subsequent pregnancies;
+29 (S) free fluid in the abdomen;
+30 (T) hemolytic reaction due to the administration of ABO-
+31 incompatible blood or blood products;
+32 (U) hypoglycemia occurring while the patient is being treated at the
+33 hospital or ambulatory outpatient surgical center;
+34 (V) allergic reaction to anesthesia or abortion inducing drugs;
+35 (W) psychological complications, including depression, suicidal
+HB 2305 2
+1 ideation, anxiety, and sleeping disorders;
+2 (X) death; or
+3 (Y) any other adverse event as defined by the criteria provided in the
+4 United States food and drug administration safety information and adverse
+5 events reporting program.
+6 (2) "Healthcare provider" means:
+7 (A) An individual licensed by the state board of healing arts to
+8 practice medicine and surgery;
+9 (B) a "mid-level practitioner" as defined in K.S.A. 65-1626, and
+10 amendments thereto; or
+11 (C) a licensee of the behavioral sciences regulatory board who has
+12 clinical diagnoses within such licensee's scope of practice.
+13 (3) "Patient" means any woman who has been treated for an abortion-
+14 related complication subject to the reporting requirements of this section.
+15 (b) Healthcare providers shall report to the Kansas department of
+16 health and environment each case in which the provider treated a patient
+17 suffering from an abortion complication.
+18 (c) A report required by this section shall be submitted to the Kansas
+19 department of health and environment on a form and in a manner specified
+20 by the department. The department shall develop a process for submission
+21 of a report under this section prior to September 1, 2025.
+22 (d) The report required under this section shall include the following
+23 information concerning the abortion complication:
+24 (1) The date that the patient presented for treatment for the abortion
+25 complication.
+26 (2) the age of the patient;
+27 (3) the race of the patient;
+28 (4) the county and state of the patient's residence;
+29 (5) the type of abortion obtained by the patient;
+30 (6) the date of abortion obtained by the patient;
+31 (7) the name of the facility where the patient obtained the abortion;
+32 (8) whether the patient obtained abortion medication via mail order or
+33 website, and if so, information identifying the source of the medication;
+34 (9) whether the complication was previously managed by the abortion
+35 provider;
+36 (10) the name of the medications taken by the patient as part of the
+37 pharmaceutical abortion regimen, if any;
+38 (11) a list of each diagnosed complication;
+39 (12) a list of each treated complication, with a description of the
+40 treatment provided;
+41 (13) whether the patient's visit to treat the complications was the
+42 original visit or a follow-up visit;
+43 (14) the date of each follow-up visit, if any;
+HB 2305 3
+1 (15) a list of each complication diagnosed at a follow-up visit, if any;
+2 and
+3 (16) a list of each complication treated at a follow-up visit, if any.
+4 (e) On a quarterly basis, the department of health and environment
+5 shall compile a public report summarizing the information collected under
+6 this section. The report shall include statistics for the previous calendar
+7 quarter with updated information for the most recent calendar quarter.
+8 (f) The department of health and environment shall summarize the
+9 aggregate data from the data submitted under this section and submit the
+10 data on or before June 30 of each year to the United States centers for
+11 disease control and prevention for its inclusion in the annual vital statistics
+12 report.
+13 (g) The department of health and environment shall ensure that no
+14 identifying information of a patient is included in the report described in
+15 subsection (f).
+16 (h) On and after September 1, 2025, each failure to report an
+17 abortion complication as required under this section is a class B nonperson
+18 misdemeanor.
+19 Sec. 2. This act shall take effect and be in force from and after its
+20 publication in the statute book.
+[DELETED: ArdBS(n c" ms te fg pl opa0(1(2(3(4e5(6(7(8(9(0(1(2(3(4(5(6(7(8(9(0(c rn de to te an of A1i2 3h4(5(l c, ig d, s]
+[DELETED: 5i((Ue((p(0a1(2c3(4r5(6h7s8(9d0b1o2(3i4(5c6(7(8(9(0(1(2(3w4(5p6(7p8(9(0t1(2o3(]
+[DELETED: 5(a((stq(a0d1d2r3(4i5s6(7a8m9S0p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2305
+By Committee on Health and Human Services
+Requested by Jeanne Gawdun on behalf of Kansans for Life
+2-5
+1 AN ACT concerning abortion; relating to health professions and practices;
+2 requiring that certain abortion complications be reported to the Kansas
+3 department of health and environment.
+4
+5 Be it enacted by the Legislature of the State of Kansas:
+6 Section 1. (a) As used in this section:
+7 (1) "Abortion complication" means the following physical or
+8 psychological conditions arising from the induction or performance of an
+9 abortion:
+10 (A) Uterine perforation;
+11 (B) cervical laceration;
+12 (C) infection;
+13 (D) vaginal bleeding that qualifies as a grade 2 or higher adverse
+14 event according to the common terminology criteria for adverse events;
+15 (E) pulmonary embolism;
+16 (F) deep vein thrombosis;
+17 (G) failure to terminate the pregnancy;
+18 (H) incomplete abortion or retained tissue;
+19 (I) pelvic inflammatory disease;
+20 (J) missed ectopic pregnancy;
+21 (K) cardiac arrest;
+22 (L) respiratory arrest;
+23 (M) renal failure;
+24 (N) shock;
+25 (O) amniotic fluid embolism;
+26 (P) coma;
+27 (Q) placenta previa in subsequent pregnancies;
+28 (R) pre-term delivery in subsequent pregnancies;
+29 (S) free fluid in the abdomen;
+30 (T) hemolytic reaction due to the administration of ABO-
+31 incompatible blood or blood products;
+32 (U) hypoglycemia occurring while the patient is being treated at the
+33 hospital or ambulatory outpatient surgical center;
+34 (V) allergic reaction to anesthesia or abortion inducing drugs;
+35 (W) psychological complications, including depression, suicidal
+
+HB 2305 2
+1 ideation, anxiety, and sleeping disorders;
+2 (X) death; or
+3 (Y) any other adverse event as defined by the criteria provided in the
+4 United States food and drug administration safety information and adverse
+5 events reporting program.
+6 (2) "Healthcare provider" means:
+7 (A) An individual licensed by the state board of healing arts to
+8 practice medicine and surgery;
+9 (B) a "mid-level practitioner" as defined in K.S.A. 65-1626, and
+10 amendments thereto; or
+11 (C) a licensee of the behavioral sciences regulatory board who has
+12 clinical diagnoses within such licensee's scope of practice.
+13 (3) "Patient" means any woman who has been treated for an abortion-
+14 related complication subject to the reporting requirements of this section.
+15 (b) Healthcare providers shall report to the Kansas department of
+16 health and environment each case in which the provider treated a patient
+17 suffering from an abortion complication.
+18 (c) A report required by this section shall be submitted to the Kansas
+19 department of health and environment on a form and in a manner specified
+20 by the department. The department shall develop a process for submission
+21 of a report under this section prior to September 1, 2025.
+22 (d) The report required under this section shall include the following
+23 information concerning the abortion complication:
+24 (1) The date that the patient presented for treatment for the abortion
+25 complication.
+26 (2) the age of the patient;
+27 (3) the race of the patient;
+28 (4) the county and state of the patient's residence;
+29 (5) the type of abortion obtained by the patient;
+30 (6) the date of abortion obtained by the patient;
+31 (7) the name of the facility where the patient obtained the abortion;
+32 (8) whether the patient obtained abortion medication via mail order or
+33 website, and if so, information identifying the source of the medication;
+34 (9) whether the complication was previously managed by the abortion
+35 provider;
+36 (10) the name of the medications taken by the patient as part of the
+37 pharmaceutical abortion regimen, if any;
+38 (11) a list of each diagnosed complication;
+39 (12) a list of each treated complication, with a description of the
+40 treatment provided;
+41 (13) whether the patient's visit to treat the complications was the
+42 original visit or a follow-up visit;
+43 (14) the date of each follow-up visit, if any;
+
+HB 2305 3
+1 (15) a list of each complication diagnosed at a follow-up visit, if any;
+2 and
+3 (16) a list of each complication treated at a follow-up visit, if any.
+4 (e) On a quarterly basis, the department of health and environment
+5 shall compile a public report summarizing the information collected under
+6 this section. The report shall include statistics for the previous calendar
+7 quarter with updated information for the most recent calendar quarter.
+8 (f) The department of health and environment shall summarize the
+9 aggregate data from the data submitted under this section and submit the
+10 data on or before June 30 of each year to the United States centers for
+11 disease control and prevention for its inclusion in the annual vital statistics
+12 report.
+13 (g) The department of health and environment shall ensure that no
+14 identifying information of a patient is included in the report described in
+15 subsection (f).
+16 (h) On and after September 1, 2025, each failure to report an
+17 abortion complication as required under this section is a class B nonperson
+18 misdemeanor.
+19 Sec. 2. This act shall take effect and be in force from and after its
+20 publication in the statute book.
+
+[DELETED: ArdBS(n c" ms te fg pl opa0(1(2(3(4e5(6(7(8(9(0(1(2(3(4(5(6(7(8(9(0(c rn de to te an of A1i2 3h4(5(l c, ig d, s]
+[DELETED: 5i((Ue((p(0a1(2c3(4r5(6h7s8(9d0b1o2(3i4(5c6(7(8(9(0(1(2(3w4(5p6(7p8(9(0t1(2o3(]
+[DELETED: 5(a((stq(a0d1d2r3(4i5s6(7a8m9S0p]

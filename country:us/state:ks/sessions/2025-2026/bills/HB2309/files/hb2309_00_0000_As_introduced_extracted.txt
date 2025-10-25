@@ -1,0 +1,561 @@
+Title: HOUSE BILL No. 2309
+Official Title: HOUSE BILL No. 2309
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Legislative Modernization
+Requested by TerriLois Mashburn on behalf of the Register of Deeds of
+Leavenworth County
+2-5
+1 AN ACT concerning the modernization of notarization and the county
+2 register of deeds process with respect to real estate documents;
+3 concerning mitigation of real estate document-related fraud; providing
+4 for the development, implementation and administration of a two-tiered
+5 authentication system for notarization of real estate documents;
+6 requiring use of a 3D liveness biometric antifraud system by all
+7 notaries public by December 31, 2026; allowing any register of deeds
+8 to delay recording of real estate documents in the event of suspected
+9 fraud for purpose of investigating the validity of such document;
+10 amending K.S.A. 58-2241 and K.S.A. 2024 Supp. 58-2209 and 58-
+11 2211 and repealing the existing sections.
+12
+13 Be it enacted by the Legislature of the State of Kansas:
+14 New Section 1. For purposes of sections 1 and 2, and amendments
+15 thereto:
+16 (a) "3D biometric information" means a digital record of an
+17 individual's facial features obtained via an internet of things-based camera
+18 system utilizing 3D liveness detection and other technologies.
+19 (b) "Real estate document" or "document pertaining to real estate"
+20 includes, but is not limited to:
+21 (1) Real estate listing agreements;
+22 (2) affidavits pertaining to real estate, including, but not limited to,
+23 affidavits of:
+24 (A) Equitable interest;
+25 (B) non-production;
+26 (C) matters pertaining to homestead;
+27 (D) marital status;
+28 (E) affixation; and
+29 (F) adverse possession;
+30 (3) agreements, including, but not limited to:
+31 (A) Bills of sale;
+32 (B) contracts for deed; and
+33 (C) memorandums of understanding;
+34 (4) assignments, including, but not limited to, assignments of:
+HB 2309 2
+1 (A) Mortgage; and
+2 (B) rents;
+3 (5) articles of incorporation;
+4 (6) certified copies of foreign judgements filed with the register of
+5 deeds;
+6 (7) covenants;
+7 (8) deeds, including, but not limited to:
+8 (A) Administrator deeds;
+9 (B) corporation deeds;
+10 (C) deeds in lieu of foreclosure;
+11 (D) deeds of revocation;
+12 (E) quitclaim deeds;
+13 (F) sheriff's deeds;
+14 (G) special warranty deeds;
+15 (H) transfer on death deeds;
+16 (I) trustee deeds; and
+17 (J) warranty deeds;
+18 (9) power of attorney, including, but not limited to:
+19 (A) Durable;
+20 (B) real estate; and
+21 (C) general;
+22 (10) all easements, including, but not limited to:
+23 (A) Right-of-way;
+24 (B) shared driveway; and
+25 (C) first right of refusal;
+26 (11) leases, including, but not limited to:
+27 (A) real property;
+28 (B) oil and gas;
+29 (C) mineral rights; and
+30 (D) lease agreements;
+31 (12) all liens upon real estate and such lien releases, including, but
+32 not limited to:
+33 (A) Artisan;
+34 (B) repairman's; and
+35 (C) agister's;
+36 (13) lis pendens;
+37 (14) mortgages, including, but not limited to:
+38 (A) Mortgages upon real estate;
+39 (B) merger mortgages;
+40 (C) mortgage releases; and
+41 (D) mortgage assignments;
+42 (15) plats;
+43 (16) homeowners association documents, including, but not limited
+HB 2309 3
+1 to:
+2 (A) Covenants and restrictions; and
+3 (B) liens; and
+4 (17) any other miscellaneous documents that pertain to real estate if
+5 required by the register of deeds.
+6 New Sec. 2. (a) (1) As a result of rapidly growing fraud with respect
+7 to documents relating to real estate and the significant financial losses and
+8 hardship to victims of such fraud, vulnerabilities to such fraud inherent in
+9 the current procedure and process of notarization and filing of documents
+10 pertaining to real estate with the register of deeds shall be addressed. An
+11 authentication process for confirming the identity of a notary public
+12 witnessing a signature and obtaining identification information of the
+13 signer of the document utilizing the most current available technology
+14 shall be implemented. As provided by this section, the submission of 3D
+15 biometric information by a notary public as required by a biometric
+16 antifraud system shall be a condition of certification for all notaries public
+17 and that use of the biometric antifraud system as provided by this section
+18 shall be a condition of the grant of authority or continued authority to
+19 notarize signatures for real estate documents.
+20 (2) Each notary public who notarizes real estate documents shall
+21 utilize a process incorporating a biometric antifraud system as provided by
+22 this section not later than December 31, 2026. All counties shall require
+23 use by notaries public of such biometric antifraud system as a condition of
+24 recording of such real estate documents with the register of deeds on or
+25 before such date. Banks or other private entities shall require use of such
+26 system by notaries public at any time that real estate documents are
+27 presented for recording with the register of deeds. Any such system to be
+28 used by a notary public for the recording of real estate documents with the
+29 register of deeds shall be approved by the secretary of state to ensure
+30 functionality across all counties.
+31 (3) On or before December 31, 2026, every county shall develop and
+32 implement protocols, procedures and requirements for the use and
+33 integration of indicia of authentication of the identity of a notary public, or
+34 other information for the purpose of authentication of a document, that is
+35 provided by a notary public utilizing such biometric antifraud system. In
+36 assisting counties with the development and implementation of such
+37 protocols, procedures and requirements, representatives for notaries public
+38 shall collaborate with the office of the secretary of state and the vendor or
+39 vendors for such biometric antifraud system. On and after December 31,
+40 2026, no document pertaining to real estate shall be accepted for recording
+41 by a register of deeds without authentication through the biometric
+42 antifraud system as provided by this section.
+43 (4) On and after December 31, 2026, all applicants for certification as
+HB 2309 4
+1 a notary public with the secretary of state shall, at the time of certification,
+2 be required to provide 3D biometric information as provided by this
+3 section. Such 3D biometric information may be provided at any location
+4 authorized for such purpose by the secretary of state and shall be
+5 conducted using hardware authorized by the secretary of state for purposes
+6 of functionality across all counties. Certification of notaries public and
+7 necessary hardware for obtaining their 3D biometric information shall be
+8 available at least at one county governmental office within each county.
+9 (5) Notwithstanding any other provision of law, notaries public who
+10 elect authorization to notarize real estate documents and provide 3D
+11 biometric information for use by the biometric antifraud system may
+12 charge a reasonable additional fee when notarizing real estate documents
+13 for the purpose of reimbursing expenses of acquiring 3D liveness-enabled
+14 hardware and any other expenses incurred by the use of the biometric
+15 antifraud system and as compensation for the use of their biometric
+16 information. Such fee shall be in an amount set in the discretion of the
+17 notary public and approved by the secretary of state.
+18 (b) It is the intent of the legislature that to accomplish the goal of
+19 minimizing real estate document fraud, the biometric antifraud system,
+20 including liveness-capable face recognition hardware, software,
+21 transmission, authentication and storage elements, shall be continually
+22 developed, customized, enhanced, upgraded or changed. Each notary
+23 public, in collaboration with the secretary of state and office of
+24 information technology services, shall ensure on an ongoing basis that the
+25 antifraud biometric system is utilizing current technology, features,
+26 security provisions and best practices to protect real estate documents and
+27 personal identification information. Each county shall ensure that the
+28 procedures and protocols of the register of deeds of such county utilize the
+29 authentication information or other information provided by the biometric
+30 antifraud system in a manner that will best accomplish the purposes of this
+31 section.
+32 (c) The capabilities of the biometric antifraud system shall:
+33 (1) Provide for the secure identification using 3D biometric
+34 information of a notary public at the time of certification with the secretary
+35 of state and at the time of notarizing a real estate document, identification
+36 using 3D biometric information of the signer of a real estate document and
+37 correlation of such information with such document and notarization
+38 event. A 3D biometric information of a notary public shall be anonymized
+39 and held in such form by the vendor or vendors of the system. Personal
+40 identification information of a notary public shall be stored in the custody
+41 of the secretary of state. No 3D biometric identification information shall
+42 be stored in the custody of the state or any subdivision of the state;
+43 (2) securely maintain and provide access to an anonymized digital
+HB 2309 5
+1 record of such information and enable authentication of a notary public's
+2 identify by the matching of the 3D biometric information of the notary
+3 public obtained at the time of certification with 3D biometric information
+4 provided by the notary public at the time of notarization of a real estate
+5 document. Information for purposes of authentication shall be securely and
+6 immediately available to a notary public at the time of notarization;
+7 (3) provide a means of authentication of the identity of the notary
+8 public and the validity of the signature and notarization for use by the
+9 register of deeds when a real estate document is presented for recording.
+10 Such indicia of identification and authenticity may include the addition to
+11 the notary stamp, imprinted upon the document, of information for
+12 purposes of authentication provided to the notary public at the time of
+13 notarization, including, but not limited to, a time stamp and a unique
+14 numeric or alphanumeric code; and
+15 (4) store and provide access to 3D biometric information of the signer
+16 of a real estate document for authentication purposes or the prevention or
+17 prosecution of fraud. Anonymized 3D biometric information shall be
+18 stored and maintained by the system vendor. Any personal identification
+19 information of the signer of a document shall only be stored and
+20 maintained in the custody of the secretary of state.
+21 (d) The components of the system shall include:
+22 (1) A 3D liveness-enabled camera-based internet-connected hardware
+23 system that shall produce three-dimensional digital images for purposes of
+24 identifying, authenticating and documenting the notary public, signer of a
+25 real estate document and the document being notarized during the
+26 notarization process. The hardware system shall permit the immediate
+27 secure transmission of anonymized 3D biometric information for
+28 authentication of the notary public's identity when notarizing a real estate
+29 document and documenting 3D biometric information of the signer of such
+30 document. The hardware system shall additionally be provided to and
+31 enabled for use by the secretary of state for purposes of obtaining 3D
+32 biometric information of a notary public at the time of certification of a
+33 notary public and transmitting such anonymized information to the system
+34 vendor;
+35 (2) secure software and an integrated remote system that shall
+36 securely record, store and transmit anonymized 3D biometric information
+37 and other information that may include, but not be limited to, a time
+38 stamp. The system shall enable secure and immediate matching of
+39 anonymized 3D biometric information for the purpose of authenticating
+40 the identity of a notary public at the time of notarization and providing
+41 indicia of such authentication to the notary public for purposes of
+42 authenticating the notarization for recording with the register of deeds; and
+43 (3) robust security and privacy controls that protect the storage,
+HB 2309 6
+1 anonymity, transmission and integrity of anonymized 3D biometric
+2 information and personal identification information held by the vendor and
+3 the secretary of state, respectively.
+4 (e) The provisions of this section shall supersede state law that are
+5 inconsistent with any such provisions.
+6 Sec. 3. K.S.A. 2024 Supp. 58-2209 is hereby amended to read as
+7 follows: 58-2209. All deeds or other conveyances of lands, or of any estate
+8 or interest therein, shall be subscribed by the party granting the same such
+9 deeds or conveyances, or by the party's lawful agent or attorney, and may
+10 be acknowledged or proved and certified in the manner prescribed by the
+11 revised uniform law on notarial acts and K.S.A. 58-2216, and amendments
+12 thereto, except as provided by section 1, and amendments thereto.
+13 Sec. 4. K.S.A. 2024 Supp. 58-2211 is hereby amended to read as
+14 follows: 58-2211. All conveyances, and other instruments affecting real
+15 estate must shall be acknowledged before a person authorized by the
+16 revised uniform law on notarial acts to perform notarial acts or, if
+17 acknowledged within this state, by a county clerk, register of deeds or
+18 mayor or clerk of an incorporated city. The manner of acknowledgment
+19 and requirements for authorization of a person to perform notarial acts
+20 with respect to conveyances and other instruments affecting real estate
+21 shall be subject to the provisions of section 1, and amendments thereto.
+22 Sec. 5. K.S.A. 58-2241 is hereby amended to read as follows: 58-
+23 2241. (a) Except as provided by subsection (b), it shall be the duty of the
+24 register of deeds, when he or she shall receive receiving any instrument
+25 conveying real estate which that has not been entered on the transfer
+26 record to have such instrument entered on said such transfer record
+27 immediately upon the recording of the same such instrument in his or her
+28 the register of deed's office.
+29 (b) If the register of deeds receives any instrument conveying real
+30 estate that, in the judgment of the register of deeds, may bear a fraudulent
+31 signature, notarization or otherwise raises suspicion of fraud, the register
+32 of deeds may delay the recording of such instrument or entering such
+33 instrument on the transfer record for up to five business days for the
+34 purpose of investigating the authenticity of the instrument. If upon
+35 investigation, the register of deeds is unable to verify the authenticity of
+36 the instrument, the register of deeds may decline to record such instrument
+37 or enter such instrument on the transfer record. In such event, if the notary
+38 public or person who signed the document may be ascertained, the
+39 register of deeds shall notify such persons that the instrument has been
+40 rejected for recording or entering on the transfer record. The register of
+41 deeds shall also notify the appropriate law enforcement agency.
+42 Sec. 6. K.S.A. 58-2241 and K.S.A. 2024 Supp. 58-2209 and 58-2211
+43 are hereby repealed.
+HB 2309 7
+1 Sec. 7. This act shall take effect and be in force from and after its
+2 publication in the statute book.
+[DELETED: Arr f s s wt tl  dcfan sm fr nn of rl ee drntf0a123B4N5t6(D bc i" ms a dl rd of a7i8s9(0i1(2(3a4(5(6(7(8(9(0(1(2(3(4(]
+[DELETED: 9((((d((((0(1(2(3(4(5(6(7(8(9(0(1(2(3(4(5(6(7(8(9(0(1(2n3(4(5(6(7(8(9(0(1(2(3(]
+[DELETED: 9t(((rNtht0p1a2w3s4s5b6a7a8s9n0(1u2t3u4r5b6s7p8u9r0f1(2it p, ps ad rs fr te ue a3i4o5p6a7p8s9v021b2a3(]
+[DELETED: 9absacona(0e1b2c3f4h5a6i7n8(9m0ig le fe rn h, s1t2d3p, in cn wh te sy of se ad oe o4i5ad bc sm is ug ct t, f6s7p8p9a0a1s2(3(e fr te se in ug 3D b4i5o6u7c8e9a0i1o2b3(]
+[DELETED: 9rippdi(pr0S1t2p3n4n5(6o7p8s9if e f t l d 0m1(2(3s4i5rl ee dt ad te dt b nd d t6n7se tn of ad 3D bc in f8a9d0d1e2b3n4v5(e se d an d e sm t 6s7a8se m l e 9a0t1is 2a3(]
+[DELETED: 9a, tn ad iy of ad 3D bit(iSfod0b1r2t3S4f5e m s b6r7a8m9a0w1s2S324r5c w t h6r s s t7i8t9(0e1s2o3i4pf 5i6t7o8p9r0r1d2S3a]
+[DELETED: 9Sp]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2309
+By Committee on Legislative Modernization
+Requested by TerriLois Mashburn on behalf of the Register of Deeds of
+Leavenworth County
+2-5
+1 AN ACT concerning the modernization of notarization and the county
+2 register of deeds process with respect to real estate documents;
+3 concerning mitigation of real estate document-related fraud; providing
+4 for the development, implementation and administration of a two-tiered
+5 authentication system for notarization of real estate documents;
+6 requiring use of a 3D liveness biometric antifraud system by all
+7 notaries public by December 31, 2026; allowing any register of deeds
+8 to delay recording of real estate documents in the event of suspected
+9 fraud for purpose of investigating the validity of such document;
+10 amending K.S.A. 58-2241 and K.S.A. 2024 Supp. 58-2209 and 58-
+11 2211 and repealing the existing sections.
+12
+13 Be it enacted by the Legislature of the State of Kansas:
+14 New Section 1. For purposes of sections 1 and 2, and amendments
+15 thereto:
+16 (a) "3D biometric information" means a digital record of an
+17 individual's facial features obtained via an internet of things-based camera
+18 system utilizing 3D liveness detection and other technologies.
+19 (b) "Real estate document" or "document pertaining to real estate"
+20 includes, but is not limited to:
+21 (1) Real estate listing agreements;
+22 (2) affidavits pertaining to real estate, including, but not limited to,
+23 affidavits of:
+24 (A) Equitable interest;
+25 (B) non-production;
+26 (C) matters pertaining to homestead;
+27 (D) marital status;
+28 (E) affixation; and
+29 (F) adverse possession;
+30 (3) agreements, including, but not limited to:
+31 (A) Bills of sale;
+32 (B) contracts for deed; and
+33 (C) memorandums of understanding;
+34 (4) assignments, including, but not limited to, assignments of:
+
+HB 2309 2
+1 (A) Mortgage; and
+2 (B) rents;
+3 (5) articles of incorporation;
+4 (6) certified copies of foreign judgements filed with the register of
+5 deeds;
+6 (7) covenants;
+7 (8) deeds, including, but not limited to:
+8 (A) Administrator deeds;
+9 (B) corporation deeds;
+10 (C) deeds in lieu of foreclosure;
+11 (D) deeds of revocation;
+12 (E) quitclaim deeds;
+13 (F) sheriff's deeds;
+14 (G) special warranty deeds;
+15 (H) transfer on death deeds;
+16 (I) trustee deeds; and
+17 (J) warranty deeds;
+18 (9) power of attorney, including, but not limited to:
+19 (A) Durable;
+20 (B) real estate; and
+21 (C) general;
+22 (10) all easements, including, but not limited to:
+23 (A) Right-of-way;
+24 (B) shared driveway; and
+25 (C) first right of refusal;
+26 (11) leases, including, but not limited to:
+27 (A) real property;
+28 (B) oil and gas;
+29 (C) mineral rights; and
+30 (D) lease agreements;
+31 (12) all liens upon real estate and such lien releases, including, but
+32 not limited to:
+33 (A) Artisan;
+34 (B) repairman's; and
+35 (C) agister's;
+36 (13) lis pendens;
+37 (14) mortgages, including, but not limited to:
+38 (A) Mortgages upon real estate;
+39 (B) merger mortgages;
+40 (C) mortgage releases; and
+41 (D) mortgage assignments;
+42 (15) plats;
+43 (16) homeowners association documents, including, but not limited
+
+HB 2309 3
+1 to:
+2 (A) Covenants and restrictions; and
+3 (B) liens; and
+4 (17) any other miscellaneous documents that pertain to real estate if
+5 required by the register of deeds.
+6 New Sec. 2. (a) (1) As a result of rapidly growing fraud with respect
+7 to documents relating to real estate and the significant financial losses and
+8 hardship to victims of such fraud, vulnerabilities to such fraud inherent in
+9 the current procedure and process of notarization and filing of documents
+10 pertaining to real estate with the register of deeds shall be addressed. An
+11 authentication process for confirming the identity of a notary public
+12 witnessing a signature and obtaining identification information of the
+13 signer of the document utilizing the most current available technology
+14 shall be implemented. As provided by this section, the submission of 3D
+15 biometric information by a notary public as required by a biometric
+16 antifraud system shall be a condition of certification for all notaries public
+17 and that use of the biometric antifraud system as provided by this section
+18 shall be a condition of the grant of authority or continued authority to
+19 notarize signatures for real estate documents.
+20 (2) Each notary public who notarizes real estate documents shall
+21 utilize a process incorporating a biometric antifraud system as provided by
+22 this section not later than December 31, 2026. All counties shall require
+23 use by notaries public of such biometric antifraud system as a condition of
+24 recording of such real estate documents with the register of deeds on or
+25 before such date. Banks or other private entities shall require use of such
+26 system by notaries public at any time that real estate documents are
+27 presented for recording with the register of deeds. Any such system to be
+28 used by a notary public for the recording of real estate documents with the
+29 register of deeds shall be approved by the secretary of state to ensure
+30 functionality across all counties.
+31 (3) On or before December 31, 2026, every county shall develop and
+32 implement protocols, procedures and requirements for the use and
+33 integration of indicia of authentication of the identity of a notary public, or
+34 other information for the purpose of authentication of a document, that is
+35 provided by a notary public utilizing such biometric antifraud system. In
+36 assisting counties with the development and implementation of such
+37 protocols, procedures and requirements, representatives for notaries public
+38 shall collaborate with the office of the secretary of state and the vendor or
+39 vendors for such biometric antifraud system. On and after December 31,
+40 2026, no document pertaining to real estate shall be accepted for recording
+41 by a register of deeds without authentication through the biometric
+42 antifraud system as provided by this section.
+43 (4) On and after December 31, 2026, all applicants for certification as
+
+HB 2309 4
+1 a notary public with the secretary of state shall, at the time of certification,
+2 be required to provide 3D biometric information as provided by this
+3 section. Such 3D biometric information may be provided at any location
+4 authorized for such purpose by the secretary of state and shall be
+5 conducted using hardware authorized by the secretary of state for purposes
+6 of functionality across all counties. Certification of notaries public and
+7 necessary hardware for obtaining their 3D biometric information shall be
+8 available at least at one county governmental office within each county.
+9 (5) Notwithstanding any other provision of law, notaries public who
+10 elect authorization to notarize real estate documents and provide 3D
+11 biometric information for use by the biometric antifraud system may
+12 charge a reasonable additional fee when notarizing real estate documents
+13 for the purpose of reimbursing expenses of acquiring 3D liveness-enabled
+14 hardware and any other expenses incurred by the use of the biometric
+15 antifraud system and as compensation for the use of their biometric
+16 information. Such fee shall be in an amount set in the discretion of the
+17 notary public and approved by the secretary of state.
+18 (b) It is the intent of the legislature that to accomplish the goal of
+19 minimizing real estate document fraud, the biometric antifraud system,
+20 including liveness-capable face recognition hardware, software,
+21 transmission, authentication and storage elements, shall be continually
+22 developed, customized, enhanced, upgraded or changed. Each notary
+23 public, in collaboration with the secretary of state and office of
+24 information technology services, shall ensure on an ongoing basis that the
+25 antifraud biometric system is utilizing current technology, features,
+26 security provisions and best practices to protect real estate documents and
+27 personal identification information. Each county shall ensure that the
+28 procedures and protocols of the register of deeds of such county utilize the
+29 authentication information or other information provided by the biometric
+30 antifraud system in a manner that will best accomplish the purposes of this
+31 section.
+32 (c) The capabilities of the biometric antifraud system shall:
+33 (1) Provide for the secure identification using 3D biometric
+34 information of a notary public at the time of certification with the secretary
+35 of state and at the time of notarizing a real estate document, identification
+36 using 3D biometric information of the signer of a real estate document and
+37 correlation of such information with such document and notarization
+38 event. A 3D biometric information of a notary public shall be anonymized
+39 and held in such form by the vendor or vendors of the system. Personal
+40 identification information of a notary public shall be stored in the custody
+41 of the secretary of state. No 3D biometric identification information shall
+42 be stored in the custody of the state or any subdivision of the state;
+43 (2) securely maintain and provide access to an anonymized digital
+
+HB 2309 5
+1 record of such information and enable authentication of a notary public's
+2 identify by the matching of the 3D biometric information of the notary
+3 public obtained at the time of certification with 3D biometric information
+4 provided by the notary public at the time of notarization of a real estate
+5 document. Information for purposes of authentication shall be securely and
+6 immediately available to a notary public at the time of notarization;
+7 (3) provide a means of authentication of the identity of the notary
+8 public and the validity of the signature and notarization for use by the
+9 register of deeds when a real estate document is presented for recording.
+10 Such indicia of identification and authenticity may include the addition to
+11 the notary stamp, imprinted upon the document, of information for
+12 purposes of authentication provided to the notary public at the time of
+13 notarization, including, but not limited to, a time stamp and a unique
+14 numeric or alphanumeric code; and
+15 (4) store and provide access to 3D biometric information of the signer
+16 of a real estate document for authentication purposes or the prevention or
+17 prosecution of fraud. Anonymized 3D biometric information shall be
+18 stored and maintained by the system vendor. Any personal identification
+19 information of the signer of a document shall only be stored and
+20 maintained in the custody of the secretary of state.
+21 (d) The components of the system shall include:
+22 (1) A 3D liveness-enabled camera-based internet-connected hardware
+23 system that shall produce three-dimensional digital images for purposes of
+24 identifying, authenticating and documenting the notary public, signer of a
+25 real estate document and the document being notarized during the
+26 notarization process. The hardware system shall permit the immediate
+27 secure transmission of anonymized 3D biometric information for
+28 authentication of the notary public's identity when notarizing a real estate
+29 document and documenting 3D biometric information of the signer of such
+30 document. The hardware system shall additionally be provided to and
+31 enabled for use by the secretary of state for purposes of obtaining 3D
+32 biometric information of a notary public at the time of certification of a
+33 notary public and transmitting such anonymized information to the system
+34 vendor;
+35 (2) secure software and an integrated remote system that shall
+36 securely record, store and transmit anonymized 3D biometric information
+37 and other information that may include, but not be limited to, a time
+38 stamp. The system shall enable secure and immediate matching of
+39 anonymized 3D biometric information for the purpose of authenticating
+40 the identity of a notary public at the time of notarization and providing
+41 indicia of such authentication to the notary public for purposes of
+42 authenticating the notarization for recording with the register of deeds; and
+43 (3) robust security and privacy controls that protect the storage,
+
+HB 2309 6
+1 anonymity, transmission and integrity of anonymized 3D biometric
+2 information and personal identification information held by the vendor and
+3 the secretary of state, respectively.
+4 (e) The provisions of this section shall supersede state law that are
+5 inconsistent with any such provisions.
+6 Sec. 3. K.S.A. 2024 Supp. 58-2209 is hereby amended to read as
+7 follows: 58-2209. All deeds or other conveyances of lands, or of any estate
+8 or interest therein, shall be subscribed by the party granting the same such
+9 deeds or conveyances, or by the party's lawful agent or attorney, and may
+10 be acknowledged or proved and certified in the manner prescribed by the
+11 revised uniform law on notarial acts and K.S.A. 58-2216, and amendments
+12 thereto, except as provided by section 1, and amendments thereto.
+13 Sec. 4. K.S.A. 2024 Supp. 58-2211 is hereby amended to read as
+14 follows: 58-2211. All conveyances, and other instruments affecting real
+15 estate must shall be acknowledged before a person authorized by the
+16 revised uniform law on notarial acts to perform notarial acts or, if
+17 acknowledged within this state, by a county clerk, register of deeds or
+18 mayor or clerk of an incorporated city. The manner of acknowledgment
+19 and requirements for authorization of a person to perform notarial acts
+20 with respect to conveyances and other instruments affecting real estate
+21 shall be subject to the provisions of section 1, and amendments thereto.
+22 Sec. 5. K.S.A. 58-2241 is hereby amended to read as follows: 58-
+23 2241. (a) Except as provided by subsection (b), it shall be the duty of the
+24 register of deeds, when he or she shall receive receiving any instrument
+25 conveying real estate which that has not been entered on the transfer
+26 record to have such instrument entered on said such transfer record
+27 immediately upon the recording of the same such instrument in his or her
+28 the register of deed's office.
+29 (b) If the register of deeds receives any instrument conveying real
+30 estate that, in the judgment of the register of deeds, may bear a fraudulent
+31 signature, notarization or otherwise raises suspicion of fraud, the register
+32 of deeds may delay the recording of such instrument or entering such
+33 instrument on the transfer record for up to five business days for the
+34 purpose of investigating the authenticity of the instrument. If upon
+35 investigation, the register of deeds is unable to verify the authenticity of
+36 the instrument, the register of deeds may decline to record such instrument
+37 or enter such instrument on the transfer record. In such event, if the notary
+38 public or person who signed the document may be ascertained, the
+39 register of deeds shall notify such persons that the instrument has been
+40 rejected for recording or entering on the transfer record. The register of
+41 deeds shall also notify the appropriate law enforcement agency.
+42 Sec. 6. K.S.A. 58-2241 and K.S.A. 2024 Supp. 58-2209 and 58-2211
+43 are hereby repealed.
+
+HB 2309 7
+1 Sec. 7. This act shall take effect and be in force from and after its
+2 publication in the statute book.
+
+[DELETED: Arr f s s wt tl  dcfan sm fr nn of rl ee drntf0a123B4N5t6(D bc i" ms a dl rd of a7i8s9(0i1(2(3a4(5(6(7(8(9(0(1(2(3(4(]
+[DELETED: 9((((d((((0(1(2(3(4(5(6(7(8(9(0(1(2(3(4(5(6(7(8(9(0(1(2n3(4(5(6(7(8(9(0(1(2(3(]
+[DELETED: 9t(((rNtht0p1a2w3s4s5b6a7a8s9n0(1u2t3u4r5b6s7p8u9r0f1(2it p, ps ad rs fr te ue a3i4o5p6a7p8s9v021b2a3(]
+[DELETED: 9absacona(0e1b2c3f4h5a6i7n8(9m0ig le fe rn h, s1t2d3p, in cn wh te sy of se ad oe o4i5ad bc sm is ug ct t, f6s7p8p9a0a1s2(3(e fr te se in ug 3D b4i5o6u7c8e9a0i1o2b3(]
+[DELETED: 9rippdi(pr0S1t2p3n4n5(6o7p8s9if e f t l d 0m1(2(3s4i5rl ee dt ad te dt b nd d t6n7se tn of ad 3D bc in f8a9d0d1e2b3n4v5(e se d an d e sm t 6s7a8se m l e 9a0t1is 2a3(]
+[DELETED: 9a, tn ad iy of ad 3D bit(iSfod0b1r2t3S4f5e m s b6r7a8m9a0w1s2S324r5c w t h6r s s t7i8t9(0e1s2o3i4pf 5i6t7o8p9r0r1d2S3a]
+[DELETED: 9Sp]

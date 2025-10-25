@@ -1,0 +1,383 @@
+Title: HOUSE BILL No. 2089
+Official Title: HOUSE BILL No. 2089
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Commerce, Labor and Economic Development
+Requested by Dan Murray on behalf of National federation of Independent
+Business
+1-23
+1 AN ACT concerning electronic payment transactions; exempting the
+2 portion of a credit card transaction constituting a tax or gratuity from
+3 assessment of the fee charged by the card issuer; enacting the consumer
+4 inflation reduction and tax fairness act.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 Section 1. The provisions of sections 1 through 5, and amendments
+8 thereto, shall be known and may be cited as the consumer inflation
+9 reduction and tax fairness act.
+10 Sec. 2. As used in the consumer inflation reduction and tax fairness
+11 act:
+12 (a) "Acquirer bank" means a member of a payment card network that
+13 contracts with a merchant for the settlement of electronic payment
+14 transactions. "Acquirer bank" includes payment card network members
+15 that contract directly with merchants or indirectly through a processor to
+16 process electronic payment transactions.
+17 (b) "Act" means the consumer inflation reduction and tax fairness act,
+18 sections 1 through 5, and amendments thereto.
+19 (c) "Authorization" means the process through which a merchant
+20 requests approval for an electronic payment transaction from an issuer.
+21 (d) "Cardholder" means a person that uses a credit card or a debit
+22 card for an electronic payment transaction with a merchant.
+23 (e) "Clearance" means the process of transmitting final electronic
+24 payment transaction data from a merchant to an issuer for posting to the
+25 cardholder's account and the calculation of fees and charges, including
+26 interchange fees, that apply to the issuer and the merchant.
+27 (f) "Credit card" means a card, plate, coupon book or other credit
+28 device existing for the purpose of obtaining money, property, labor or
+29 services on credit.
+30 (g) "Debit card" means a card or other payment code or device issued
+31 or approved for use through a payment card network to debit an asset
+32 account, regardless of the purpose for which the account is established or
+33 whether authorization is based on a signature, a personal identification
+34 number or other means. "Debit card" includes a general-use prepaid card
+HB 2089 2
+1 or other electronic payment device that is issued by a bank or other
+2 financial institution in a fixed limit amount useable at multiple,
+3 unaffiliated merchants and includes general-use prepaid cards as defined in
+4 15 U.S.C. § 1693l-1 on July 1, 2025. "Debit card" does not include paper
+5 checks.
+6 (h) "Electronic payment transaction" means a transaction in which a
+7 person uses a debit card, credit card or other payment code or device
+8 issued or approved through a payment card network to debit a deposit
+9 account or use a line of credit, whether authorization is based on a
+10 signature, a personal identification number or other means.
+11 (i) "Gratuity" means a voluntary monetary contribution to an
+12 employee from a guest, patron or customer in connection with services
+13 rendered.
+14 (j) "Interchange fee" means a fee established, charged or received by
+15 a payment card network for the purpose of compensating the issuer for its
+16 involvement in an electronic payment transaction.
+17 (k) "Issuer" means a person issuing a debit card or credit card or the
+18 issuer's agent.
+19 (l) "Merchant" means a person that collects and remits a tax in
+20 connection with an electronic payment transaction with a cardholder.
+21 (m) "Payment card network" means a person that:
+22 (1) Directly or through licensed members, processors or agents,
+23 provides the proprietary services, infrastructure and software to route
+24 information and data for the purpose of conducting electronic payment
+25 transaction authorization, clearance and settlement; and
+26 (2) a merchant uses to accept a brand of debit card, credit card or
+27 other device that may be used to carry out electronic payment transactions
+28 as a form of payment from a cardholder.
+29 (n) "Person" means any individual, firm, public or private
+30 corporation, government, partnership, association or any other
+31 organization or entity.
+32 (o) "Processor" means a person that facilitates, services, processes or
+33 manages the debit or credit authorization, billing, transfer, payment
+34 procedures or settlement with respect to any electronic payment
+35 transaction.
+36 (p) "Settlement" means the process of transmitting sales information
+37 to the issuing bank for collection and reimbursement of funds to the
+38 merchant and calculating and reporting the net transaction amount to the
+39 issuer and merchant for an electronic payment transaction that is cleared.
+40 (q) "Tax" means any sales, use or occupation tax or, except as
+41 otherwise provided, any other excise tax imposed by the state of Kansas or
+42 any unit of local government of the state of Kansas that is collected and
+43 remitted by a merchant in connection with an electronic payment
+HB 2089 3
+1 transaction with a cardholder. "Tax" does not include the tax on income
+2 imposed by the Kansas income tax act, the privilege tax imposed upon any
+3 national banking association, state bank, trust company or savings and
+4 loan association pursuant to article 11 of chapter 79 of the Kansas Statutes
+5 Annotated, and amendments thereto, or the premiums tax and privilege
+6 fees imposed upon an insurance company pursuant to K.S.A. 40-252, and
+7 amendments thereto.
+8 (r) "Tax documentation" means documentation sufficient for the
+9 payment card network to determine the total amount of the electronic
+10 payment transaction and the tax or gratuity amount of the transaction. "Tax
+11 documentation" may be related to a single electronic payment transaction
+12 or multiple electronic payment transactions aggregated over a period of
+13 time. "Tax documentation" includes, but is not limited to, invoices,
+14 receipts, journals, ledgers or tax returns filed with the Kansas department
+15 of revenue or local taxing authorities.
+16 (s) "Transaction" means the sale, rental or lease of personal property
+17 or goods, including, but not limited to, software and computer programs,
+18 the sale of food, rendering or furnishing of services or provision of
+19 admission, entry, membership or right of participation by a merchant to a
+20 cardholder.
+21 Sec. 3. (a) An issuer, payment card network, acquirer bank or
+22 processor shall not receive or charge a merchant any interchange fee on the
+23 tax amount or gratuity amount of an electronic payment transaction if the
+24 merchant informs the acquirer bank or its designee of the tax or gratuity
+25 amount as part of the authorization or settlement process for the electronic
+26 payment transaction. Except as provided by subsection (b), the merchant
+27 shall transmit the tax or gratuity amount data as part of the authorization or
+28 settlement process to avoid being charged interchange fees on the tax or
+29 gratuity amount of an electronic payment transaction.
+30 (b) A merchant that does not transmit the tax or gratuity amount data
+31 in accordance with subsection (a) may submit tax documentation for the
+32 electronic payment transaction to the acquirer bank or its designee not later
+33 than 180 days after the date of the electronic payment transaction. Within
+34 30 days after the merchant submits such tax documentation, the issuer
+35 shall credit to the merchant the amount of interchange fees charged on the
+36 tax or gratuity amount of the electronic payment transaction.
+37 (c) This section shall not create liability for a payment card network
+38 regarding the accuracy of the tax or gratuity data reported by the merchant.
+39 Sec. 4. (a) It shall be unlawful for an issuer, a payment card network,
+40 an acquirer bank or a processor that has received tax or gratuity amount
+41 data to willfully with the intent to circumvent the provisions of section 3,
+42 and amendments thereto, alter or manipulate the computation and
+43 imposition of interchange fees charged to a merchant by increasing the rate
+HB 2089 4
+1 or amount of such fees applicable to or imposed upon the portion of an
+2 electronic payment transaction not attributable to such taxes or gratuities.
+3 An issuer, payment card network, acquirer bank or processor that violates
+4 this subsection shall be subject to civil penalties as provided by subsection
+5 (b).
+6 (b) (1) An issuer, payment card network, acquirer bank or processor
+7 that violates the provisions of subsection (a) shall be liable to the
+8 aggrieved merchant, state or county for the payment of a civil penalty,
+9 recoverable in an individual action, including an action brought by the
+10 attorney general, a county or district attorney, in a sum set by the court of
+11 up to $1,000 for each electronic payment transaction involving interchange
+12 fees charged unlawfully as the result of such violation. Such civil penalty
+13 shall be in addition to any other relief that may be granted, including, but
+14 not limited to, the refund of unlawful fees as provided by paragraph (3) or
+15 other damages.
+16 (2) In addition to, commensurate with or in lieu of an action as
+17 provided by paragraph (1), an aggrieved merchant, the attorney general or
+18 a county or district attorney may bring an action to enjoin or obtain a
+19 restraining order against an issuer, payment card network, acquirer bank or
+20 processor that has violated, is violating or is likely to violate this act.
+21 (3) The issuer of the credit or debit card involved in an electronic
+22 payment transaction affected by a violation of paragraph (1) shall refund
+23 the merchant the interchange fee calculated on the tax or gratuity amount
+24 relative to such electronic payment transaction and shall be liable to the
+25 merchant for any such interchange fee amount. In any action brought by
+26 the attorney general or county or district attorney pursuant to this act, the
+27 attorney general or county or district attorney may enforce the provisions
+28 of this paragraph and, as ordered by the court, any such interchange fee
+29 collected from the issuer shall be paid over to the merchant.
+30 (4) In administering and pursuing any actions under this act, the
+31 attorney general or the county or district attorney is authorized to sue for
+32 and collect reasonable expenses and investigation fees as determined by
+33 the court. Civil penalties or contempt penalties sued for and recovered by
+34 the attorney general shall be paid into the general fund of the state. Civil
+35 penalties and contempt penalties sued for and recovered by the county or
+36 district attorney shall be paid into the general fund of the county where the
+37 proceedings were instigated. An aggrieved merchant is not a required party
+38 in actions brought by the attorney general or a county or district attorney
+39 pursuant to this act. No bond shall be required of the attorney general or a
+40 county or district attorney in any action brought pursuant to this act.
+41 Sec. 5. If any provision or clause of this act or application thereof to
+42 any person or circumstance is held invalid, such invalidity shall not affect
+43 other provisions or applications of this act that can be given effect without
+HB 2089 5
+1 the invalid provision or application, and to this end, the provisions of this
+2 act are declared to be severable.
+3 Sec. 6. This act shall take effect and be in force from and after its
+4 publication in the statute book.
+[DELETED: ApaiBStr0S1a2(3ct 4t5t6p7(8s9(0r1(2c3(4p5c6i7(8d9s0(1o2a3w4n]
+[DELETED: 9ofl in in a fd lt at ue at mu1c(pia0s1(" ms a vy my cn to a2e3r4(5a6i7(8i9(0c1(2(3p4i5t6(7o8a9(" ms ay i, f, pc or p0c, g, p, an or ay o1o2(3ms 4ps or st wh rt to ay ec p5t6(7t8m9i0(1o2a3rd by a mt in cn wh an ec p]
+[DELETED: 9tinlAfa(x " s t r p0p1d2o3t4r5o6(7o8t9a0c1St 2p3t4m5a6p7s8s9g0(1i2e3t435s6t7(8r9S0a1d2ad as t, ar or me te cn a3i]
+[DELETED: 9oeAt((tar0a1u2f3s4n5o6(7p8a9r0p1(2p3t4r5m6t7a8o9c0(1a2a3t4t5p6d7p8i9p0c1S2a3o]
+[DELETED: 9taSp]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2089
+By Committee on Commerce, Labor and Economic Development
+Requested by Dan Murray on behalf of National federation of Independent
+Business
+1-23
+1 AN ACT concerning electronic payment transactions; exempting the
+2 portion of a credit card transaction constituting a tax or gratuity from
+3 assessment of the fee charged by the card issuer; enacting the consumer
+4 inflation reduction and tax fairness act.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 Section 1. The provisions of sections 1 through 5, and amendments
+8 thereto, shall be known and may be cited as the consumer inflation
+9 reduction and tax fairness act.
+10 Sec. 2. As used in the consumer inflation reduction and tax fairness
+11 act:
+12 (a) "Acquirer bank" means a member of a payment card network that
+13 contracts with a merchant for the settlement of electronic payment
+14 transactions. "Acquirer bank" includes payment card network members
+15 that contract directly with merchants or indirectly through a processor to
+16 process electronic payment transactions.
+17 (b) "Act" means the consumer inflation reduction and tax fairness act,
+18 sections 1 through 5, and amendments thereto.
+19 (c) "Authorization" means the process through which a merchant
+20 requests approval for an electronic payment transaction from an issuer.
+21 (d) "Cardholder" means a person that uses a credit card or a debit
+22 card for an electronic payment transaction with a merchant.
+23 (e) "Clearance" means the process of transmitting final electronic
+24 payment transaction data from a merchant to an issuer for posting to the
+25 cardholder's account and the calculation of fees and charges, including
+26 interchange fees, that apply to the issuer and the merchant.
+27 (f) "Credit card" means a card, plate, coupon book or other credit
+28 device existing for the purpose of obtaining money, property, labor or
+29 services on credit.
+30 (g) "Debit card" means a card or other payment code or device issued
+31 or approved for use through a payment card network to debit an asset
+32 account, regardless of the purpose for which the account is established or
+33 whether authorization is based on a signature, a personal identification
+34 number or other means. "Debit card" includes a general-use prepaid card
+
+HB 2089 2
+1 or other electronic payment device that is issued by a bank or other
+2 financial institution in a fixed limit amount useable at multiple,
+3 unaffiliated merchants and includes general-use prepaid cards as defined in
+4 15 U.S.C. § 1693l-1 on July 1, 2025. "Debit card" does not include paper
+5 checks.
+6 (h) "Electronic payment transaction" means a transaction in which a
+7 person uses a debit card, credit card or other payment code or device
+8 issued or approved through a payment card network to debit a deposit
+9 account or use a line of credit, whether authorization is based on a
+10 signature, a personal identification number or other means.
+11 (i) "Gratuity" means a voluntary monetary contribution to an
+12 employee from a guest, patron or customer in connection with services
+13 rendered.
+14 (j) "Interchange fee" means a fee established, charged or received by
+15 a payment card network for the purpose of compensating the issuer for its
+16 involvement in an electronic payment transaction.
+17 (k) "Issuer" means a person issuing a debit card or credit card or the
+18 issuer's agent.
+19 (l) "Merchant" means a person that collects and remits a tax in
+20 connection with an electronic payment transaction with a cardholder.
+21 (m) "Payment card network" means a person that:
+22 (1) Directly or through licensed members, processors or agents,
+23 provides the proprietary services, infrastructure and software to route
+24 information and data for the purpose of conducting electronic payment
+25 transaction authorization, clearance and settlement; and
+26 (2) a merchant uses to accept a brand of debit card, credit card or
+27 other device that may be used to carry out electronic payment transactions
+28 as a form of payment from a cardholder.
+29 (n) "Person" means any individual, firm, public or private
+30 corporation, government, partnership, association or any other
+31 organization or entity.
+32 (o) "Processor" means a person that facilitates, services, processes or
+33 manages the debit or credit authorization, billing, transfer, payment
+34 procedures or settlement with respect to any electronic payment
+35 transaction.
+36 (p) "Settlement" means the process of transmitting sales information
+37 to the issuing bank for collection and reimbursement of funds to the
+38 merchant and calculating and reporting the net transaction amount to the
+39 issuer and merchant for an electronic payment transaction that is cleared.
+40 (q) "Tax" means any sales, use or occupation tax or, except as
+41 otherwise provided, any other excise tax imposed by the state of Kansas or
+42 any unit of local government of the state of Kansas that is collected and
+43 remitted by a merchant in connection with an electronic payment
+
+HB 2089 3
+1 transaction with a cardholder. "Tax" does not include the tax on income
+2 imposed by the Kansas income tax act, the privilege tax imposed upon any
+3 national banking association, state bank, trust company or savings and
+4 loan association pursuant to article 11 of chapter 79 of the Kansas Statutes
+5 Annotated, and amendments thereto, or the premiums tax and privilege
+6 fees imposed upon an insurance company pursuant to K.S.A. 40-252, and
+7 amendments thereto.
+8 (r) "Tax documentation" means documentation sufficient for the
+9 payment card network to determine the total amount of the electronic
+10 payment transaction and the tax or gratuity amount of the transaction. "Tax
+11 documentation" may be related to a single electronic payment transaction
+12 or multiple electronic payment transactions aggregated over a period of
+13 time. "Tax documentation" includes, but is not limited to, invoices,
+14 receipts, journals, ledgers or tax returns filed with the Kansas department
+15 of revenue or local taxing authorities.
+16 (s) "Transaction" means the sale, rental or lease of personal property
+17 or goods, including, but not limited to, software and computer programs,
+18 the sale of food, rendering or furnishing of services or provision of
+19 admission, entry, membership or right of participation by a merchant to a
+20 cardholder.
+21 Sec. 3. (a) An issuer, payment card network, acquirer bank or
+22 processor shall not receive or charge a merchant any interchange fee on the
+23 tax amount or gratuity amount of an electronic payment transaction if the
+24 merchant informs the acquirer bank or its designee of the tax or gratuity
+25 amount as part of the authorization or settlement process for the electronic
+26 payment transaction. Except as provided by subsection (b), the merchant
+27 shall transmit the tax or gratuity amount data as part of the authorization or
+28 settlement process to avoid being charged interchange fees on the tax or
+29 gratuity amount of an electronic payment transaction.
+30 (b) A merchant that does not transmit the tax or gratuity amount data
+31 in accordance with subsection (a) may submit tax documentation for the
+32 electronic payment transaction to the acquirer bank or its designee not later
+33 than 180 days after the date of the electronic payment transaction. Within
+34 30 days after the merchant submits such tax documentation, the issuer
+35 shall credit to the merchant the amount of interchange fees charged on the
+36 tax or gratuity amount of the electronic payment transaction.
+37 (c) This section shall not create liability for a payment card network
+38 regarding the accuracy of the tax or gratuity data reported by the merchant.
+39 Sec. 4. (a) It shall be unlawful for an issuer, a payment card network,
+40 an acquirer bank or a processor that has received tax or gratuity amount
+41 data to willfully with the intent to circumvent the provisions of section 3,
+42 and amendments thereto, alter or manipulate the computation and
+43 imposition of interchange fees charged to a merchant by increasing the rate
+
+HB 2089 4
+1 or amount of such fees applicable to or imposed upon the portion of an
+2 electronic payment transaction not attributable to such taxes or gratuities.
+3 An issuer, payment card network, acquirer bank or processor that violates
+4 this subsection shall be subject to civil penalties as provided by subsection
+5 (b).
+6 (b) (1) An issuer, payment card network, acquirer bank or processor
+7 that violates the provisions of subsection (a) shall be liable to the
+8 aggrieved merchant, state or county for the payment of a civil penalty,
+9 recoverable in an individual action, including an action brought by the
+10 attorney general, a county or district attorney, in a sum set by the court of
+11 up to $1,000 for each electronic payment transaction involving interchange
+12 fees charged unlawfully as the result of such violation. Such civil penalty
+13 shall be in addition to any other relief that may be granted, including, but
+14 not limited to, the refund of unlawful fees as provided by paragraph (3) or
+15 other damages.
+16 (2) In addition to, commensurate with or in lieu of an action as
+17 provided by paragraph (1), an aggrieved merchant, the attorney general or
+18 a county or district attorney may bring an action to enjoin or obtain a
+19 restraining order against an issuer, payment card network, acquirer bank or
+20 processor that has violated, is violating or is likely to violate this act.
+21 (3) The issuer of the credit or debit card involved in an electronic
+22 payment transaction affected by a violation of paragraph (1) shall refund
+23 the merchant the interchange fee calculated on the tax or gratuity amount
+24 relative to such electronic payment transaction and shall be liable to the
+25 merchant for any such interchange fee amount. In any action brought by
+26 the attorney general or county or district attorney pursuant to this act, the
+27 attorney general or county or district attorney may enforce the provisions
+28 of this paragraph and, as ordered by the court, any such interchange fee
+29 collected from the issuer shall be paid over to the merchant.
+30 (4) In administering and pursuing any actions under this act, the
+31 attorney general or the county or district attorney is authorized to sue for
+32 and collect reasonable expenses and investigation fees as determined by
+33 the court. Civil penalties or contempt penalties sued for and recovered by
+34 the attorney general shall be paid into the general fund of the state. Civil
+35 penalties and contempt penalties sued for and recovered by the county or
+36 district attorney shall be paid into the general fund of the county where the
+37 proceedings were instigated. An aggrieved merchant is not a required party
+38 in actions brought by the attorney general or a county or district attorney
+39 pursuant to this act. No bond shall be required of the attorney general or a
+40 county or district attorney in any action brought pursuant to this act.
+41 Sec. 5. If any provision or clause of this act or application thereof to
+42 any person or circumstance is held invalid, such invalidity shall not affect
+43 other provisions or applications of this act that can be given effect without
+
+HB 2089 5
+1 the invalid provision or application, and to this end, the provisions of this
+2 act are declared to be severable.
+3 Sec. 6. This act shall take effect and be in force from and after its
+4 publication in the statute book.
+
+[DELETED: ApaiBStr0S1a2(3ct 4t5t6p7(8s9(0r1(2c3(4p5c6i7(8d9s0(1o2a3w4n]
+[DELETED: 9ofl in in a fd lt at ue at mu1c(pia0s1(" ms a vy my cn to a2e3r4(5a6i7(8i9(0c1(2(3p4i5t6(7o8a9(" ms ay i, f, pc or p0c, g, p, an or ay o1o2(3ms 4ps or st wh rt to ay ec p5t6(7t8m9i0(1o2a3rd by a mt in cn wh an ec p]
+[DELETED: 9tinlAfa(x " s t r p0p1d2o3t4r5o6(7o8t9a0c1St 2p3t4m5a6p7s8s9g0(1i2e3t435s6t7(8r9S0a1d2ad as t, ar or me te cn a3i]
+[DELETED: 9oeAt((tar0a1u2f3s4n5o6(7p8a9r0p1(2p3t4r5m6t7a8o9c0(1a2a3t4t5p6d7p8i9p0c1S2a3o]
+[DELETED: 9taSp]

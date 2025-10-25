@@ -1,0 +1,1238 @@
+Title: HOUSE BILL No. 2149
+Official Title: HOUSE BILL No. 2149
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Energy, Utilities and Telecommunications
+Requested by Jessica Lucas on behalf of the Clean Energy Business Council
+1-29
+1 AN ACT concerning distributed energy resources; requiring distributed
+2 energy system retailers to disclose certain information to customers
+3 who will finance a distributed energy system; requiring electric public
+4 utilities to disclose certain information to distributed energy retailers;
+5 relating to parallel generation and net metering; providing criteria to
+6 determine appropriate system size for a customer's renewable energy
+7 system subject to parallel generation; establishing requirements for
+8 interconnection and operation of a renewable energy system subject to
+9 parallel generation; increasing the total capacity limitation for an
+10 electric public utility's provision of parallel generation service;
+11 establishing powers and limitations relating thereto; establishing
+12 notification requirements for when a system is no longer producing
+13 energy or the customer seeks to repair or rebuild a facility; amending
+14 K.S.A. 66-1,184 and 66-1268 and repealing the existing sections.
+15
+16 Be it enacted by the Legislature of the State of Kansas:
+17 New Section 1. (a) As used in this section:
+18 (1) "Distributed energy customer" means a property owner or
+19 leaseholder who is offered a contract from a distributed energy retailer for
+20 the construction, installation or operation of a financed distributed energy
+21 system.
+22 (2) "Distributed energy retailer" means any person or entity that sells,
+23 markets, solicits, advertises or otherwise makes available for purchase a
+24 distributed energy system in the state of Kansas.
+25 (3) "Distributed energy system" means any device or assembly of
+26 devices and supporting facilities that converts, stores or otherwise
+27 manages electricity and that is or will be subject to an agreement under
+28 K.S.A. 66-1,184 or 66-1283 et seq., and amendments thereto, including,
+29 but not limited to, any device or assembly of devices that is a renewable
+30 energy resource as defined in K.S.A. 66-1257, and amendments thereto,
+31 energy charging system, energy storage system or energy management
+32 system.
+33 (4) "Financed distributed energy system" means a distributed energy
+34 system that is financed through a loan, lease, power purchase agreement or
+35 other financing agreement that is coordinated by the distributed energy
+HB 2149 2
+1 retailer and obligates a distributed energy customer to make one or more
+2 recurring payments pursuant to such financing arrangement 31 or more
+3 days after the date the utility grants permission to operate.
+4 (5) "Permission to operate" means the same as defined in K.S.A. 66-
+5 1,184, and amendments thereto.
+6 (6) "Utility" means an electric public utility, as defined by K.S.A. 66-
+7 101a, and amendments thereto, any cooperative, as defined by K.S.A. 17-
+8 4603, and amendments thereto, a nonstock member-owned electric
+9 cooperative corporation incorporated in this state or a municipally owned
+10 or operated electric utility.
+11 (b) Prior to entering into a contract with a distributed energy
+12 customer for a financed distributed energy system, a distributed energy
+13 retailer shall provide such customer a separate disclosure document that:
+14 (1) Is written in at least 10-point type;
+15 (2) is written in the language that the distributed energy retailer used
+16 to speak to the distributed energy customer during the sales process or the
+17 language requested by such customer;
+18 (3) includes a description of the make and model of the distributed
+19 energy system's major components;
+20 (4) includes a guarantee concerning the quantity of energy that the
+21 distributed energy system will generate on a measurable interval and a
+22 remedy if such system does not comply with such guarantee within one
+23 year following the date the system received permission to operate;
+24 (5) does not contains blank spaces that may be subsequently filled in
+25 with terms or conditions that materially affect the timing, value or
+26 obligation of the contract unless such terms and conditions are separately
+27 acknowledged by the distributed energy customer;
+28 (6) includes, in bold and highlighted type, the total aggregate cost to
+29 the distributed energy customer that will be incurred over the entirety of
+30 the contract. Such total aggregate cost shall be separately acknowledged
+31 by the distributed energy customer;
+32 (7) includes a description of the ownership and transferability of any
+33 tax credits, rebates, incentives or renewable energy certificates in
+34 connection with the financed distributed energy system;
+35 (8) includes the name and certification number of an individual
+36 certified by the north American board of certified energy practitioners who
+37 will oversee the financed distributed energy system or the name and
+38 license number of the master electrician or electrical contractor who will
+39 oversee the permitting and installation of the financed distributed energy
+40 system;
+41 (9) provides a description of the process and any associated fees for
+42 transferring any financing, warranty or other agreements relating to the
+43 financed distributed energy system to a new owner;
+HB 2149 3
+1 (10) includes the name, phone number, email and mailing address of
+2 the person or entity that the distributed customer may contact for questions
+3 regarding performance, maintenance or repair of the financed distributed
+4 energy system;
+5 (11) includes a description of the assumptions used for any savings
+6 estimates that were provided to the distributed energy customer and a
+7 description of the applicable utility billing structure that pertains to the
+8 financed distributed energy system;
+9 (12) includes a statement that the distributed energy retailer shall
+10 provide the distributed energy customer proof that, within 30 days of
+11 completion of installation:
+12 (A) All permits required for the installation of the financed
+13 distributed energy system were obtained prior to installation;
+14 (B) the financed distributed energy system was inspected and
+15 approved by a qualified individual pursuant to the requirements of any
+16 local municipal ordinance or county resolution;
+17 (C) the necessary interconnection applications and documentation
+18 were submitted to and approved by the affected utility; and
+19 (D) the financed distributed energy system received permission to
+20 operate;
+21 (13) includes a statement that any recurring payments for a financed
+22 distributed energy system shall pause and not be due if such system does
+23 not receive permission to operate within 90 days of the date that the first
+24 recurring payment is due. Such recurring payments may resume at the time
+25 that such system receives permission to operate. Any payments due during
+26 any such pause shall either be forgiven or added to the end of the financing
+27 term and shall not incur any penalties for nonpayment during such term;
+28 (14) includes a statement describing any rate escalation, balloon
+29 payment or potential reconfiguration of payment structure;
+30 (15) includes a statement as to whether operations or maintenance
+31 services are included as part of the original contract price;
+32 (16) includes a statement describing the expected start and
+33 completion dates for the installation of the financed distributed energy
+34 system;
+35 (17) includes a statement indicating whether any warranty or
+36 maintenance obligations related to the financed distributed energy system
+37 may be transferred by the distributed energy retailer to a third party and, if
+38 so, a statement that provides: "The maintenance and repair obligations
+39 under your contract may be assigned or transferred without your consent to
+40 a third party who will be bound to all the terms of the contract. If a transfer
+41 occurs, you will be notified in writing of any change to the name, mailing
+42 address, email or phone number to use for questions and payments or to
+43 request system maintenance or repair";
+HB 2149 4
+1 (18) includes a statement indicating whether the distributed energy
+2 retailer will place a lien, notice or other filing on or against real property as
+3 a result of the contract;
+4 (19) includes a statement, in bold and highlighted type, indicating
+5 whether the distributed energy retailer will impose any fees or other costs
+6 upon the distributed energy customer. If any such fees or other costs will
+7 be charged to the distributed energy customer, the aggregate total of such
+8 fees and other costs shall be provided and separately acknowledged by the
+9 distributed energy customer;
+10 (20) includes a statement in capital letters and bold and highlighted
+11 type that states: "[name of distributed energy retailer] is not affiliated with
+12 any utility company or governmental agency and shall not claim any such
+13 affiliation"; and
+14 (21) may include any additional information that the distributed
+15 energy retailer considers appropriate, only if such additional information is
+16 not intended to conceal or obscure the disclosures required pursuant to this
+17 section.
+18 (c) The disclosure statement required pursuant to this section shall be
+19 signed and dated by the distributed energy customer at least one calendar
+20 day after the date that the contract for the financed distributed energy
+21 system was executed.
+22 (d) If a distributed energy retailer fails to comply with this section,
+23 any contract entered into between the distributed energy retailer and the
+24 distributed energy customer that pertains to the financed distributed energy
+25 system shall be deemed null and void.
+26 (e) This section shall not apply to a transaction of real property on
+27 which a distributed energy system is located.
+28 (f) To allow a distributed energy retailer to provide informed and
+29 accurate information to a distributed energy customer pursuant to this
+30 section, upon request of any distributed energy retailer, a utility shall
+31 disclose all applications, rules, service standards, forms or other
+32 documents required for interconnection of a distributed energy system
+33 pursuant to K.S.A. 66-1,184 or 66-1283 et seq., and amendments thereto,
+34 including the utility's historic amount of compensation per kilowatt hour
+35 for interconnected systems and the current compensation amount for such
+36 systems. Such historic amount of compensation shall be provided in a
+37 dollar amount and shown on a monthly or similar billing period basis for
+38 not less than the preceding five years. A utility may also disclose such
+39 information on the utility's website.
+40 Sec. 2. K.S.A. 66-1,184 is hereby amended to read as follows: 66-
+41 1,184. (a) As used in this section:
+42 (1) "Export" means power that flows from a customer's electrical
+43 system through such customer's billing meter and onto the utility's
+HB 2149 5
+1 electricity lines. "Export" includes the sum of power on all phase
+2 conductors.
+3 (2) "Interconnected" means a listed system or apparatus that is
+4 designed to export power and attached or connected on the customer's
+5 side of the retail meter at the customer's delivery point.
+6 (3) "Limited export" means an export in an amount that differs from
+7 the nameplate rating or production capacity of the customer's energy
+8 producing system. "Limited export" includes the sum of power on all
+9 phase conductors.
+10 (4) "Listed" means that the device or equipment has been tested and
+11 certified to meet underwriters laboratories safety standards that
+12 specifically pertain to the intended function of the device or equipment.
+13 (5) "Locational marginal price" means the hourly average market
+14 price of alternating current energy per kilowatt hour established by the
+15 applicable locational marginal price pricing node of the southwest power
+16 pool or $.01 per kilowatt hour alternating current, whichever amount is
+17 higher.
+18 (6) "Monthly system average cost of energy per kilowatt hour" means
+19 the sum of all volumetric costs incurred by an electric utility during a
+20 calendar month or similar billing period as billed to the utility by
+21 generation and transmission providers and any volumetric generation
+22 costs incurred by the utility to generate energy divided by the total amount
+23 of retail kilowatt-hours that the utility sold in such month or billing period.
+24 (7) "Permission to operate" means the operational date of the
+25 customer's renewable energy system as determined by the utility.
+26 (8) "Utility" means any electric public utility as defined in K.S.A. 66-
+27 101a, and amendments thereto, or municipally owned or operated electric
+28 utility that provides retail electric service in this state. "Utility" includes
+29 any cooperative as defined in K.S.A. 66-104d, and amendments thereto.
+30 (9) "Witness test" means a representative of the electric utility who
+31 measures or verifies a specific setting or operational condition.
+32 (b) Except as provided in subsection (b), Except as otherwise
+33 provided in this section, every public utility which provides retail electric
+34 services in this state shall enter into a contract for parallel generation
+35 service with any person who is a customer of in good standing with such
+36 utility, upon request of such customer, whereby that authorizes such
+37 customer may to attach or connect to the utility's delivery and metering
+38 system an apparatus or a listed device for the purpose of feeding exporting
+39 excess electrical power which is generated by such customer's renewable
+40 energy producing system into to the utility's system. No such apparatus or
+41 device shall either cause damage to the public utility's system or
+42 equipment or present an undue hazard to utility personnel. Every such
+43 contract shall include, but need not be limited to, provisions relating to fair
+HB 2149 6
+1 and equitable compensation on such customer's monthly bill for energy
+2 supplied to the utility by such customer.
+3 (b) (1) For purposes of this subsection:
+4 (A) "Utility" means an electric public utility, as defined by K.S.A. 66-
+5 101a, and amendments thereto, any cooperative, as defined by K.S.A. 17-
+6 4603, and amendments thereto, or a nonstock member-owned electric
+7 cooperative corporation incorporated in this state, or a municipally owned
+8 or operated electric utility;
+9 (B) "school" means Cloud county community college and Dodge City
+10 community college.
+11 (2) Every utility which provides retail electric services in this state
+12 shall enter into a contract for parallel generation service with any person
+13 who is a customer of such utility, if such customer is a residential customer
+14 of the utility and owns a renewable generator with a capacity of 25
+15 kilowatts or less, or is a commercial customer of the utility and owns a
+16 renewable generator with a capacity of 200 kilowatts or less or is a school
+17 and owns a renewable generator with a capacity of 1.5 megawatts or less.
+18 Such generator shall be appropriately sized for such customer's anticipated
+19 electric load. A commercial customer who uses the operation of a
+20 renewable generator in connection with irrigation pumps shall not request
+21 more than 10 irrigation pumps connected to renewable generators be
+22 attached or connected to the utility's system. At the customer's delivery
+23 point on the customer's side of the retail meter such customer may attach
+24 or connect to the utility's delivery and metering system an apparatus or
+25 device for the purpose of feeding excess electrical power which is
+26 generated by such customer's energy producing system into the utility's
+27 system. No such apparatus or device shall either cause damage to the
+28 utility's system or equipment or present an undue hazard to utility
+29 personnel.
+30 (c) A utility may assess upon any customer requesting parallel
+31 generation service a nonrefundable interconnection application fee as
+32 follows:
+33 (1) For customers requesting an export capacity of 200 kilowatts
+34 alternating current or less, $300;
+35 (2) for customers requesting an export capacity of more than 200 but
+36 less than 500 kilowatts alternating current, $1,000;
+37 (3) for customers requesting an export capacity of 500 kilowatts but
+38 less than one megawatt alternating current, $1,500;
+39 (4) for customers requesting an export capacity of one megawatt but
+40 less than five megawatts alternating current, $2,000;
+41 (5) for customers requesting an export capacity of five megawatts but
+42 less than 10 megawatts alternating current, the fee shall be $2,500 plus $1
+43 for each requested kilowatt alternating current; or
+HB 2149 7
+1 (6) for customers requesting an export capacity of 10 megawatts
+2 alternating current or more, the fee shall be $3,000 plus $1 for each
+3 requested kilowatt alternating current.
+4 (d) (1) Every such contract for parallel generation service shall
+5 include, but need not be limited to, provisions relating to fair and equitable
+6 compensation for energy supplied exported to the utility by such customer.
+7 Such compensation shall be not less than 100% of the utility's monthly
+8 system average cost of energy per kilowatt hour except that in the case of
+9 a customer renewable generators with a an export capacity of 200
+10 kilowatts alternating current or less, such compensation shall be not less
+11 than 150% of the utility's monthly system average cost of energy per
+12 kilowatt hour. A utility may shall credit such compensation to the
+13 customer's account or pay such compensation to the customer at least
+14 annually or when the total compensation due equals $25 or more.
+15 (2) A utility shall disclose to any customer the formula that the utility
+16 uses to determine the compensation that the utility provides pursuant to a
+17 contract for parallel generation service.
+18 (3) (A) A utility that offers parallel generation service to a customer
+19 who is located in the retail electric service territory of midwest energy,
+20 inc., as such territory existed on July 1, 2025, may determine the
+21 compensation to be provided to any such customer for energy exported to
+22 the utility based on locational marginal pricing. A utility that determines
+23 compensation pursuant to this paragraph shall provide:
+24 (i) On such customer's bill, the hourly price and the corresponding
+25 amount of energy exported to the utility; and
+26 (ii) to any person who requests such information, the hourly
+27 locational marginal price for the previous year.
+28 (B) The provisions of this paragraph shall expire on July 1, 2035.
+29 (3)(e) A customer-generator of any investor owned investor-owned
+30 utility shall have the option of entering into a contract pursuant to this
+31 subsection (b) section or utilizing the net metering and easy connection
+32 act. The customer-generator shall exercise the option in writing, filed with
+33 the utility.
+34 (c)(f) The following terms and conditions shall apply to contracts
+35 entered into under subsection (a) or (b) for parallel generation service:
+36 (1) The utility will supply shall furnish, own, and maintain all
+37 necessary meters and associated equipment utilized for billing. In addition,
+38 and for the purposes of monitoring customer generation and load,;
+39 (2) the utility may install, at its the utility's expense, load research
+40 metering. meters and equipment to monitor customer generation and load.
+41 The customer shall supply provide, at no expense to the utility, a suitable
+42 location for such meters and associated equipment used for billing and for
+43 load research;
+HB 2149 8
+1 (2) for the purposes of insuring the safety and quality of utility
+2 system power, the utility shall have the right to require the customer, at
+3 certain times and as electrical operating conditions warrant, to limit the
+4 production of electrical energy from the generating facility to an amount
+5 no greater than the load at the customer's facility of which the generating
+6 facility is a part;
+7 (3) the customer shall furnish, install, operate, and maintain in good
+8 order and repair and without cost to the utility, such relays, locks and seals,
+9 breakers, automatic synchronizer, and other control and protective
+10 apparatus as shall be designated by the utility as being required as a listed
+11 device that is suitable for the operation of the generator customer's
+12 renewable energy system in parallel with the utility's system. In any case
+13 where the customer and the utility cannot agree to terms and conditions of
+14 any such contract, the state corporation commission shall establish the
+15 terms and conditions for such contract. In addition,
+16 (4) the utility may install, own, and maintain a disconnecting device
+17 located near the electric meter or meters.;
+18 (5) interconnection facilities between the customer's and the utility's
+19 equipment shall be accessible at all reasonable times to utility personnel.
+20 Upon notification by the customer of the customer's intent to construct and
+21 install parallel generation, the utility shall provide the customer a written
+22 estimate of all costs that will be incurred by the utility and billed to the
+23 customer to accommodate the interconnection. The customer may be
+24 required to reimburse the utility for any equipment or facilities required as
+25 a result of the installation by the customer of generation in parallel with
+26 the utility's service.;
+27 (6) except as otherwise provided in this section, the utility may
+28 require a customer to reimburse the utility for any devices or equipment
+29 required to be furnished by the utility for the provision of parallel
+30 generation service if the requested export capacity is greater than zero
+31 kilowatts alternating current;
+32 (7) the customer shall notify the utility prior to the initial energizing
+33 and start-up testing of the customer-owned generator, and the utility shall
+34 have the right to have a representative present at such test customer's
+35 renewable energy system;
+36 (4) the utility may require a special agreement for conditions related
+37 to technical and safety aspects of parallel generation; and
+38 (5)(8) prior to granting permission to operate, the utility may
+39 require:
+40 (A) A witness test of the customer's renewable energy system and
+41 interconnection facilities; and
+42 (B) the customer to provide the certificate of inspection of the
+43 customer's renewable energy system completed pursuant to any municipal
+HB 2149 9
+1 ordinance or code requirements or a certification from an electrician or
+2 electrical engineer licensed in this state that the system is installed
+3 according to applicable codes and standards; and
+4 (9) the utility may periodically require witness testing of the
+5 customer's renewable energy system and interconnection facilities
+6 throughout the provision of parallel generation service.
+7 (g) (1) Prior to approving an application of any customer who is
+8 seeking to construct and install a renewable energy system for the purpose
+9 of entering into a parallel generation service contract, a utility may
+10 require such customer to enter into a special agreement that establishes
+11 technical and safety conditions relating to the construction and
+12 installation of such customer's renewable energy system. As a condition of
+13 any such special agreement, to ensure that such system is constructed and
+14 installed according to any applicable standards and codes, the utility may
+15 require the customer to provide documentation that the customer's
+16 renewable energy system is constructed and installed under the direction
+17 of a person who is:
+18 (A) Certified by the north American board of certified energy
+19 practitioners; or
+20 (B) a master electrician or electrical contractor licensed under the
+21 provisions of K.S.A. 12-1525 et seq., and amendments thereto.
+22 (2) Upon request of any person, a utility shall disclose the
+23 requirements of any such special agreement.
+24 (h) (1) The export capacity of a customer's renewable energy system
+25 shall be appropriately sized for such customer's anticipated electric load
+26 as follows:
+27 (A) (i) Divide the customer's historic consumption in kilowatt-hours
+28 for the previous 12-month period by 8,760 and divide such quotient by a
+29 capacity factor of 0.144; or
+30 (ii) if the customer does not have historic consumption data that
+31 adequately reflects the customer's consumption at such premises, the
+32 customer's historic consumption for the previous 12-month period shall be
+33 7.15 kilowatt-hours per square foot of conditioned space; and
+34 (B) round the amount determined pursuant to subparagraph (A) up to
+35 the nearest standard size as follows:
+36 (i) Round up to the nearest two kilowatts alternating current power
+37 increment if such amount is between two and 20 kilowatts alternating
+38 current power; or
+39 (ii) round up to the nearest five kilowatts alternating current power
+40 increment if such amount is 20 kilowatts alternating current power or
+41 more; and
+42 (2) Any other electric generation system or energy storage system
+43 located on a customer's property that is not designed and intended to
+HB 2149 10
+1 contribute to the customer's export capacity shall not be considered when
+2 determining the appropriate system size.
+3 (i) A utility shall not be required to approve a customer's request for
+4 parallel generation service if such service would cause the utility's
+5 aggregate export capacity from all renewable energy systems subject to
+6 parallel generation service to exceed 10% of such utility's historic peak
+7 demand. The utility may limit the number and size export capacity of
+8 additional renewable generators energy systems to be connected to the
+9 utility's system due to the capacity of the distribution line to which such
+10 renewable generator would energy system will be connected, and in no
+11 case shall the utility be obligated to purchase an amount greater than 4% of
+12 such utility's peak power requirements.
+13 (j) (1) A utility may require any customer who is seeking to construct
+14 and install a renewable energy system that limits the export to the utility's
+15 system in an amount that differs from the system's nameplate capacity to
+16 submit an application prior to any connection of the renewable energy
+17 system with the utility's system, notify the utility of the proposed renewable
+18 energy system and verify that such system is installed and connected in
+19 accordance with all applicable standards and codes. A utility may assess
+20 upon any such customer a nonrefundable application fee in an amount not
+21 to exceed the applicable nonrefundable interconnection application fee
+22 established pursuant to subsection (c). The amount of the nonrefundable
+23 application fee shall be determined based on the system's reasonably
+24 anticipated export capacity if the system commences exporting energy to
+25 the utility's system pursuant to parallel generation service.
+26 (2) Any customer that submits an application pursuant to paragraph
+27 (1) to construct and install a renewable energy system that will export zero
+28 kilowatts alternating current shall have the option to remain on a retail
+29 rate tariff that is identical to the same rate class that such customer would
+30 otherwise qualify for as a non-generating customer.
+31 (3) For any customer with a renewable energy system that is
+32 designed to export an amount of power that differs from the system's
+33 generating capacity:
+34 (A) The customer shall own and maintain any necessary export-
+35 limiting device;
+36 (B) protections shall be in place to restrict the export-limiting device
+37 settings to qualified persons;
+38 (C) the utility shall have the option to require a witness test of the
+39 export-limiting device's functions or settings prior to granting permission
+40 to operate;
+41 (D) the export capacity of the system shall not be increased without
+42 prior approval of the utility;
+43 (E) the customer shall allow the utility to perform periodic witness
+HB 2149 11
+1 tests of the export-limiting device's functions or settings upon request;
+2 (F) if the export-limiting device's functions or settings are incorrect
+3 or if the device fails to limit the export of power below the designed export
+4 capacity for more than 15 minutes in any single event, the customer shall
+5 cease operation of the system until repair or reprogramming of the export-
+6 limiting device is completed; and
+7 (G) the utility shall not restrict the brand or model of the export-
+8 limiting device if the device is approved by the manufacturer of a listed
+9 renewable energy system or is listed to perform such operations in
+10 conjunction with the customer's system.
+11 (k) A utility shall provide written notice of receipt of any application
+12 submitted pursuant to this section to the applicant within 30 days
+13 following such receipt. A utility shall approve or deny any such
+14 application or a request for system certification pursuant to such an
+15 application within 90 calendar days following receipt of such application
+16 or request. If the utility denies such application or request, the utility shall
+17 provide to the customer a list of the reasons for such denial and the
+18 corrective actions needed for approval.
+19 (d)(l) (1) Service under any parallel generation service contract
+20 entered into under subsection (a) or (b) shall be subject to either the
+21 utility's rules and regulations on file with the state corporation
+22 commission, which shall include a standard interconnection process and
+23 requirements for such utility's system, or the current federal energy
+24 regulatory commission interconnection procedures and regulations.
+25 (e)(2) In any case where the owner of the renewable generator
+26 customer and the utility cannot agree to terms and conditions of any
+27 contract provided for by this section, the state corporation commission
+28 shall establish the terms and conditions for such contract.
+29 (m) A utility shall not impose any additional fees, charges or
+30 requirements for the provision of parallel generation service unless
+31 expressly authorized pursuant to this section.
+32 (n) (1) Any customer who has received approval from a utility to
+33 construct or operate a renewable energy system pursuant to this section
+34 shall notify the utility when the construction has been canceled or the
+35 system is permanently shut down. Upon receipt of such notice, the utility
+36 shall cancel the parallel generation service contract with such customer.
+37 (2) If a utility has reason to suspect that a customer's renewable
+38 energy system has been abandoned and is no longer producing energy,
+39 such utility may request verification from the customer that the system is
+40 still functioning, or that the customer has a reasonable plan to reenergize
+41 the system. If the customer fails to repair the system or provide a
+42 reasonable plan to complete such repairs within 24 months, the utility
+43 shall have the option to cancel the parallel generation service contract
+HB 2149 12
+1 with such customer.
+2 (3) Upon cancellation of any parallel generation service contract
+3 pursuant to this subsection, the utility shall:
+4 (A) Make the associated export capacity available to other customers
+5 of the utility; and
+6 (B) not be obligated to refund any fees previously paid by the
+7 customer.
+8 (o) (1) A customer shall have the right to repair or rebuild such
+9 customer's renewable energy system subject to a parallel generation
+10 service contract if the repair does not materially affect the portion of the
+11 system that interacts with the utility or cause an increase in export
+12 capacity.
+13 (2) If a customer will repair or replace a system in a way that
+14 materially affects the portion of the system that interacts with the utility,
+15 the customer shall notify the utility prior to such repair or replacement
+16 and provide proof that the new equipment complies with the same rules,
+17 regulations and approved capacity as the original installation. A customer
+18 who repairs or replaces a system pursuant to this paragraph shall not be
+19 required to submit a new parallel generation service application to the
+20 utility.
+21 (3) If a customer will repair or replace a system in a way that
+22 increases the export capacity of the system, the customer shall notify the
+23 utility prior to such repair or replacement. The utility may require the
+24 customer to submit a new parallel generation service application to
+25 include the new provisions and requirements relating to such system.
+26 (f)(p) (1) The governing body of any school desiring to proceed under
+27 this section shall, prior to taking any action permitted by this section, make
+28 a finding that either:
+29 (1)(A) Net energy cost savings will accrue to the school from such
+30 renewable generation over a 20-year period; or
+31 (2)(B) that such renewable generation is a science project being
+32 conducted for educational purposes and that such project may not recoup
+33 the expenses of the project through energy cost savings.
+34 (2) Any school proceeding under this section may contract or enter
+35 into a finance, pledge, loan or lease-purchase agreement with the Kansas
+36 development finance authority as a means of financing the cost of such
+37 renewable generation.
+38 (g)(q) Each kilowatt of nameplate export capacity of the associated
+39 with a utility's parallel generation of electricity provided for in this section
+40 service shall count as 1.10 kilowatts toward the compliance of the an
+41 affected utility, as defined in K.S.A. 66-1257, and amendments thereto,
+42 and with whom the customer-generator has contracted, with the renewable
+43 energy standards act in K.S.A. 66-1256 through 66-1262, and amendments
+HB 2149 13
+1 thereto.
+2 (h)(r) The provisions of the net metering and easy connection act
+3 shall not preclude the state corporation commission from approving net
+4 metering tariffs upon request of an electric utility for other methods of
+5 renewable generation not prescribed in subsection (b)(1) of K.S.A. 66-
+6 1264(b)(1), and amendments thereto.
+7 Sec. 3. K.S.A. 66-1268 is hereby amended to read as follows: 66-
+8 1268. (a) Net metered facilities must meet all applicable safety,
+9 performance, interconnection and reliability standards established by the
+10 national electrical code, the national electrical safety code, the institute of
+11 electrical and electronics engineers, underwriters laboratories, the federal
+12 energy regulatory commission and any local governing authorities. A
+13 utility may require that a customer-generator's system contain a switch,
+14 circuit breaker, fuse or other easily accessible device or feature located in
+15 immediate proximity to the customer-generator's metering equipment that
+16 would allow a utility worker the ability to manually and instantly
+17 disconnect the unit from the utility's electric distribution system.
+18 (b) A utility may not require a customer-generator whose net
+19 metering facility meets the standards in subsection (a) to comply with
+20 additional safety or performance standards or perform or pay for additional
+21 tests or purchase additional liability insurance. A utility shall not be liable
+22 directly or indirectly for permitting or continuing to allow an attachment of
+23 a net metered facility or for the acts or omissions of the customer-
+24 generator that cause loss or injury, including death, to any third party.
+25 (c) (1) Any customer-generator who has received approval from a
+26 utility to construct or operate a net metering facility shall notify the utility
+27 when the construction has been canceled or the facility is permanently
+28 shut down. Upon receipt of such notice, the utility shall cancel the
+29 interconnection agreement with such customer.
+30 (2) If a utility has reason to suspect that a customer-generator's
+31 facility has been abandoned and is no longer producing energy, such
+32 utility may request verification from the customer-generator that the
+33 facility is still functioning or that the customer-generator has a reasonable
+34 plan to reenergize the facility. If the customer-generator fails to repair the
+35 facility or provide a reasonable plan to complete such repairs within 24
+36 months, the utility shall have the option to cancel the interconnection
+37 agreement with such customer-generator.
+38 (3) Upon cancellation of any interconnection agreement pursuant to
+39 this subsection, the utility shall:
+40 (A) Make the associated export capacity available to other customer-
+41 generators of the utility; and
+42 (B) not be obligated to refund any fees previously paid by the
+43 customer-generator.
+HB 2149 14
+1 (d) (1) A customer-generator shall have the right to repair or rebuild
+2 such customer-generator's net metering facility that is subject to an
+3 interconnection agreement if the repair does not materially affect the
+4 portion of the facility that interacts with the utility or cause an increase in
+5 export capacity.
+6 (2) If a customer-generator will repair or replace a facility in a way
+7 that materially affects the portion of the facility that interacts with the
+8 utility, the customer shall notify the utility prior to such repair or
+9 replacement and provide proof that the new equipment complies with the
+10 same rules, regulations and approved capacity as the original installation.
+11 A customer who repairs or replaces a facility pursuant to this paragraph
+12 shall not be required to submit a new net metering interconnection
+13 application to the utility.
+14 (3) If a customer-generator will repair or replace a facility in a way
+15 that increases the export capacity, the customer-generator shall notify the
+16 utility prior to such repair or replacement. The utility may require the
+17 customer-generator to submit a new net metering interconnection
+18 application to include the new provisions and requirements relating to
+19 such facility.
+20 Sec. 4. K.S.A. 66-1,184 and 66-1268 are hereby repealed.
+21 Sec. 5. This act shall take effect and be in force from and after its
+22 publication in the statute book.
+[DELETED: Aewurdsip0ec pc us pn of pl gn s1eg ps ad ls rg t; e2n3e4K6B7N8(d ey c" ms a py or o9l0t1s2(3m4d5(6ds ad sg fs tt c, ss or o7m8K9b0e1e2s3(4s5o]
+[DELETED: 9rrd(1(14, ad as t, a nk md ec0o1(r to eg io a ct wh a dd e2c3r4(5(6t7l8(9e0(1d2r3y4(5w6o7a8(9t0t1b2(3tx c, r, is or re ey cs i4c5(6c7w8l9o0s1(2t3f]
+[DELETED: 9(tre(edf(0p1c2(l ps rd fr te in of te f3d4(e fd dd ey sm ws id a5a6l7(8w9(0o1(2d3n4r5t6a7t8(9p0(1s2(s a st dg te ed st a3c4s5(s a st ig wr ay wy o6m7m8s9u0a1o2a3r]
+[DELETED: 9(ra(wubfd0(1t2a3a4(5e6n7s8(9s0d1s2(3a4d5s6(7w8(9a0s1de al a, r, se s, fs or o2d3p4i5f6s7d8n9i0S112(3sr ]
+[DELETED: 9e" s r c(ds(tpp0(1cd to mt us ls sy ss t2s3(4p5a6p7h8(9t0c1g2c3o4(" s l e f 5c6(718u9a0(1m2(t as pd in sn (, t as o3p4s s5s6u t s7c8s9e0e1de s e ce de to te pc us sm o2e3c]
+[DELETED: 9as((14co(0c1(2s3w4o5k6r7a8S9e cs 0r1m2a3p4o5df 6g7s8us m 9p0(s r 1g2f3(4a5(6l7(8l9(0l1(2l3f]
+[DELETED: 9(ar( s c f sicSsa r w a a c0k1t2kt y  s c3c o4a5(6u7c8(9w0i1c2t3c4(5a6(o ay pn wo rs sh i, te h7l8(9( i i0u1s2a3t4(5e6( w s a7n8a9(0m1T2l3l]
+[DELETED: 9(scpnf(ob, ac s, ad or cl ad p0a1d s g c2r3w4a5t6(7l8(9e0U1i2e3co 4r5a6t7(8r9r0g1k2(3a4h c5r6(7t8(r to gg pn to o, te uy m9r0(1i2(3c]
+[DELETED: 9oea(e uy my py re ws tg of tcs re ey sm ad in ft(so0r1tl ad sy cs rg to te cn a2i3a4i5re te cr to pe dn tt te c6r7o8(d by te nh n bd of cd e9p0(1p2(n rt of ay p, a uy sl de t3r4(5s6a7(8f9c0(1a2c374(5t6(7ih 8c9(0i1m2(3l]
+[DELETED: 91cd(papd.  n e oal  g e tu0r1c2s3(4a5s6s7s8e9a0u1t2e3a4a5t6(7(8k9r0o1(r ay cr w a re ey sm tt i2d3g4(5l6(7s8(9e0t1(2p3(]
+[DELETED: 91t(occl(lro 0c1(2st s t 3fg h ry l  ae or dy y s4a5a6o7p8c9( p c0e s1us rs ad rs on fe wh te se c2c3r4r5( o6c a7c8s9(y sl t ie y al f, s o0r1e2(3c4s5s6s7(8e9s0s1t2r3s]
+[DELETED: 91w(p(o(c(c0s1s2c3(4m5t6a7r8w9r0u1(2i3u4c5i6(7t8a9(0r1(2c3t4(5i6d7r8(9w0se  t a1a2a3e]
+[DELETED: 91t(smrf 1S1. () Nt md fs mt mt al ae sp0n1e2e3u4c5i6w a u t a t md 7d8( uy my nt re a cr we n9m0a1t2d3a4g5(6u7w8s9i0(1f2u3f4p5f6m7a8(9t0(1g2(3c]
+[DELETED: 91(sipe(tur0s1A2s3a4(5t6u7cr to st a nw nt mg i8a9s0S1S2p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2149
+By Committee on Energy, Utilities and Telecommunications
+Requested by Jessica Lucas on behalf of the Clean Energy Business Council
+1-29
+1 AN ACT concerning distributed energy resources; requiring distributed
+2 energy system retailers to disclose certain information to customers
+3 who will finance a distributed energy system; requiring electric public
+4 utilities to disclose certain information to distributed energy retailers;
+5 relating to parallel generation and net metering; providing criteria to
+6 determine appropriate system size for a customer's renewable energy
+7 system subject to parallel generation; establishing requirements for
+8 interconnection and operation of a renewable energy system subject to
+9 parallel generation; increasing the total capacity limitation for an
+10 electric public utility's provision of parallel generation service;
+11 establishing powers and limitations relating thereto; establishing
+12 notification requirements for when a system is no longer producing
+13 energy or the customer seeks to repair or rebuild a facility; amending
+14 K.S.A. 66-1,184 and 66-1268 and repealing the existing sections.
+15
+16 Be it enacted by the Legislature of the State of Kansas:
+17 New Section 1. (a) As used in this section:
+18 (1) "Distributed energy customer" means a property owner or
+19 leaseholder who is offered a contract from a distributed energy retailer for
+20 the construction, installation or operation of a financed distributed energy
+21 system.
+22 (2) "Distributed energy retailer" means any person or entity that sells,
+23 markets, solicits, advertises or otherwise makes available for purchase a
+24 distributed energy system in the state of Kansas.
+25 (3) "Distributed energy system" means any device or assembly of
+26 devices and supporting facilities that converts, stores or otherwise
+27 manages electricity and that is or will be subject to an agreement under
+28 K.S.A. 66-1,184 or 66-1283 et seq., and amendments thereto, including,
+29 but not limited to, any device or assembly of devices that is a renewable
+30 energy resource as defined in K.S.A. 66-1257, and amendments thereto,
+31 energy charging system, energy storage system or energy management
+32 system.
+33 (4) "Financed distributed energy system" means a distributed energy
+34 system that is financed through a loan, lease, power purchase agreement or
+35 other financing agreement that is coordinated by the distributed energy
+
+HB 2149 2
+1 retailer and obligates a distributed energy customer to make one or more
+2 recurring payments pursuant to such financing arrangement 31 or more
+3 days after the date the utility grants permission to operate.
+4 (5) "Permission to operate" means the same as defined in K.S.A. 66-
+5 1,184, and amendments thereto.
+6 (6) "Utility" means an electric public utility, as defined by K.S.A. 66-
+7 101a, and amendments thereto, any cooperative, as defined by K.S.A. 17-
+8 4603, and amendments thereto, a nonstock member-owned electric
+9 cooperative corporation incorporated in this state or a municipally owned
+10 or operated electric utility.
+11 (b) Prior to entering into a contract with a distributed energy
+12 customer for a financed distributed energy system, a distributed energy
+13 retailer shall provide such customer a separate disclosure document that:
+14 (1) Is written in at least 10-point type;
+15 (2) is written in the language that the distributed energy retailer used
+16 to speak to the distributed energy customer during the sales process or the
+17 language requested by such customer;
+18 (3) includes a description of the make and model of the distributed
+19 energy system's major components;
+20 (4) includes a guarantee concerning the quantity of energy that the
+21 distributed energy system will generate on a measurable interval and a
+22 remedy if such system does not comply with such guarantee within one
+23 year following the date the system received permission to operate;
+24 (5) does not contains blank spaces that may be subsequently filled in
+25 with terms or conditions that materially affect the timing, value or
+26 obligation of the contract unless such terms and conditions are separately
+27 acknowledged by the distributed energy customer;
+28 (6) includes, in bold and highlighted type, the total aggregate cost to
+29 the distributed energy customer that will be incurred over the entirety of
+30 the contract. Such total aggregate cost shall be separately acknowledged
+31 by the distributed energy customer;
+32 (7) includes a description of the ownership and transferability of any
+33 tax credits, rebates, incentives or renewable energy certificates in
+34 connection with the financed distributed energy system;
+35 (8) includes the name and certification number of an individual
+36 certified by the north American board of certified energy practitioners who
+37 will oversee the financed distributed energy system or the name and
+38 license number of the master electrician or electrical contractor who will
+39 oversee the permitting and installation of the financed distributed energy
+40 system;
+41 (9) provides a description of the process and any associated fees for
+42 transferring any financing, warranty or other agreements relating to the
+43 financed distributed energy system to a new owner;
+
+HB 2149 3
+1 (10) includes the name, phone number, email and mailing address of
+2 the person or entity that the distributed customer may contact for questions
+3 regarding performance, maintenance or repair of the financed distributed
+4 energy system;
+5 (11) includes a description of the assumptions used for any savings
+6 estimates that were provided to the distributed energy customer and a
+7 description of the applicable utility billing structure that pertains to the
+8 financed distributed energy system;
+9 (12) includes a statement that the distributed energy retailer shall
+10 provide the distributed energy customer proof that, within 30 days of
+11 completion of installation:
+12 (A) All permits required for the installation of the financed
+13 distributed energy system were obtained prior to installation;
+14 (B) the financed distributed energy system was inspected and
+15 approved by a qualified individual pursuant to the requirements of any
+16 local municipal ordinance or county resolution;
+17 (C) the necessary interconnection applications and documentation
+18 were submitted to and approved by the affected utility; and
+19 (D) the financed distributed energy system received permission to
+20 operate;
+21 (13) includes a statement that any recurring payments for a financed
+22 distributed energy system shall pause and not be due if such system does
+23 not receive permission to operate within 90 days of the date that the first
+24 recurring payment is due. Such recurring payments may resume at the time
+25 that such system receives permission to operate. Any payments due during
+26 any such pause shall either be forgiven or added to the end of the financing
+27 term and shall not incur any penalties for nonpayment during such term;
+28 (14) includes a statement describing any rate escalation, balloon
+29 payment or potential reconfiguration of payment structure;
+30 (15) includes a statement as to whether operations or maintenance
+31 services are included as part of the original contract price;
+32 (16) includes a statement describing the expected start and
+33 completion dates for the installation of the financed distributed energy
+34 system;
+35 (17) includes a statement indicating whether any warranty or
+36 maintenance obligations related to the financed distributed energy system
+37 may be transferred by the distributed energy retailer to a third party and, if
+38 so, a statement that provides: "The maintenance and repair obligations
+39 under your contract may be assigned or transferred without your consent to
+40 a third party who will be bound to all the terms of the contract. If a transfer
+41 occurs, you will be notified in writing of any change to the name, mailing
+42 address, email or phone number to use for questions and payments or to
+43 request system maintenance or repair";
+
+HB 2149 4
+1 (18) includes a statement indicating whether the distributed energy
+2 retailer will place a lien, notice or other filing on or against real property as
+3 a result of the contract;
+4 (19) includes a statement, in bold and highlighted type, indicating
+5 whether the distributed energy retailer will impose any fees or other costs
+6 upon the distributed energy customer. If any such fees or other costs will
+7 be charged to the distributed energy customer, the aggregate total of such
+8 fees and other costs shall be provided and separately acknowledged by the
+9 distributed energy customer;
+10 (20) includes a statement in capital letters and bold and highlighted
+11 type that states: "[name of distributed energy retailer] is not affiliated with
+12 any utility company or governmental agency and shall not claim any such
+13 affiliation"; and
+14 (21) may include any additional information that the distributed
+15 energy retailer considers appropriate, only if such additional information is
+16 not intended to conceal or obscure the disclosures required pursuant to this
+17 section.
+18 (c) The disclosure statement required pursuant to this section shall be
+19 signed and dated by the distributed energy customer at least one calendar
+20 day after the date that the contract for the financed distributed energy
+21 system was executed.
+22 (d) If a distributed energy retailer fails to comply with this section,
+23 any contract entered into between the distributed energy retailer and the
+24 distributed energy customer that pertains to the financed distributed energy
+25 system shall be deemed null and void.
+26 (e) This section shall not apply to a transaction of real property on
+27 which a distributed energy system is located.
+28 (f) To allow a distributed energy retailer to provide informed and
+29 accurate information to a distributed energy customer pursuant to this
+30 section, upon request of any distributed energy retailer, a utility shall
+31 disclose all applications, rules, service standards, forms or other
+32 documents required for interconnection of a distributed energy system
+33 pursuant to K.S.A. 66-1,184 or 66-1283 et seq., and amendments thereto,
+34 including the utility's historic amount of compensation per kilowatt hour
+35 for interconnected systems and the current compensation amount for such
+36 systems. Such historic amount of compensation shall be provided in a
+37 dollar amount and shown on a monthly or similar billing period basis for
+38 not less than the preceding five years. A utility may also disclose such
+39 information on the utility's website.
+40 Sec. 2. K.S.A. 66-1,184 is hereby amended to read as follows: 66-
+41 1,184. (a) As used in this section:
+42 (1) "Export" means power that flows from a customer's electrical
+43 system through such customer's billing meter and onto the utility's
+
+HB 2149 5
+1 electricity lines. "Export" includes the sum of power on all phase
+2 conductors.
+3 (2) "Interconnected" means a listed system or apparatus that is
+4 designed to export power and attached or connected on the customer's
+5 side of the retail meter at the customer's delivery point.
+6 (3) "Limited export" means an export in an amount that differs from
+7 the nameplate rating or production capacity of the customer's energy
+8 producing system. "Limited export" includes the sum of power on all
+9 phase conductors.
+10 (4) "Listed" means that the device or equipment has been tested and
+11 certified to meet underwriters laboratories safety standards that
+12 specifically pertain to the intended function of the device or equipment.
+13 (5) "Locational marginal price" means the hourly average market
+14 price of alternating current energy per kilowatt hour established by the
+15 applicable locational marginal price pricing node of the southwest power
+16 pool or $.01 per kilowatt hour alternating current, whichever amount is
+17 higher.
+18 (6) "Monthly system average cost of energy per kilowatt hour" means
+19 the sum of all volumetric costs incurred by an electric utility during a
+20 calendar month or similar billing period as billed to the utility by
+21 generation and transmission providers and any volumetric generation
+22 costs incurred by the utility to generate energy divided by the total amount
+23 of retail kilowatt-hours that the utility sold in such month or billing period.
+24 (7) "Permission to operate" means the operational date of the
+25 customer's renewable energy system as determined by the utility.
+26 (8) "Utility" means any electric public utility as defined in K.S.A. 66-
+27 101a, and amendments thereto, or municipally owned or operated electric
+28 utility that provides retail electric service in this state. "Utility" includes
+29 any cooperative as defined in K.S.A. 66-104d, and amendments thereto.
+30 (9) "Witness test" means a representative of the electric utility who
+31 measures or verifies a specific setting or operational condition.
+32 (b) Except as provided in subsection (b), Except as otherwise
+33 provided in this section, every public utility which provides retail electric
+34 services in this state shall enter into a contract for parallel generation
+35 service with any person who is a customer of in good standing with such
+36 utility, upon request of such customer, whereby that authorizes such
+37 customer may to attach or connect to the utility's delivery and metering
+38 system an apparatus or a listed device for the purpose of feeding exporting
+39 excess electrical power which is generated by such customer's renewable
+40 energy producing system into to the utility's system. No such apparatus or
+41 device shall either cause damage to the public utility's system or
+42 equipment or present an undue hazard to utility personnel. Every such
+43 contract shall include, but need not be limited to, provisions relating to fair
+
+HB 2149 6
+1 and equitable compensation on such customer's monthly bill for energy
+2 supplied to the utility by such customer.
+3 (b) (1) For purposes of this subsection:
+4 (A) "Utility" means an electric public utility, as defined by K.S.A. 66-
+5 101a, and amendments thereto, any cooperative, as defined by K.S.A. 17-
+6 4603, and amendments thereto, or a nonstock member-owned electric
+7 cooperative corporation incorporated in this state, or a municipally owned
+8 or operated electric utility;
+9 (B) "school" means Cloud county community college and Dodge City
+10 community college.
+11 (2) Every utility which provides retail electric services in this state
+12 shall enter into a contract for parallel generation service with any person
+13 who is a customer of such utility, if such customer is a residential customer
+14 of the utility and owns a renewable generator with a capacity of 25
+15 kilowatts or less, or is a commercial customer of the utility and owns a
+16 renewable generator with a capacity of 200 kilowatts or less or is a school
+17 and owns a renewable generator with a capacity of 1.5 megawatts or less.
+18 Such generator shall be appropriately sized for such customer's anticipated
+19 electric load. A commercial customer who uses the operation of a
+20 renewable generator in connection with irrigation pumps shall not request
+21 more than 10 irrigation pumps connected to renewable generators be
+22 attached or connected to the utility's system. At the customer's delivery
+23 point on the customer's side of the retail meter such customer may attach
+24 or connect to the utility's delivery and metering system an apparatus or
+25 device for the purpose of feeding excess electrical power which is
+26 generated by such customer's energy producing system into the utility's
+27 system. No such apparatus or device shall either cause damage to the
+28 utility's system or equipment or present an undue hazard to utility
+29 personnel.
+30 (c) A utility may assess upon any customer requesting parallel
+31 generation service a nonrefundable interconnection application fee as
+32 follows:
+33 (1) For customers requesting an export capacity of 200 kilowatts
+34 alternating current or less, $300;
+35 (2) for customers requesting an export capacity of more than 200 but
+36 less than 500 kilowatts alternating current, $1,000;
+37 (3) for customers requesting an export capacity of 500 kilowatts but
+38 less than one megawatt alternating current, $1,500;
+39 (4) for customers requesting an export capacity of one megawatt but
+40 less than five megawatts alternating current, $2,000;
+41 (5) for customers requesting an export capacity of five megawatts but
+42 less than 10 megawatts alternating current, the fee shall be $2,500 plus $1
+43 for each requested kilowatt alternating current; or
+
+HB 2149 7
+1 (6) for customers requesting an export capacity of 10 megawatts
+2 alternating current or more, the fee shall be $3,000 plus $1 for each
+3 requested kilowatt alternating current.
+4 (d) (1) Every such contract for parallel generation service shall
+5 include, but need not be limited to, provisions relating to fair and equitable
+6 compensation for energy supplied exported to the utility by such customer.
+7 Such compensation shall be not less than 100% of the utility's monthly
+8 system average cost of energy per kilowatt hour except that in the case of
+9 a customer renewable generators with a an export capacity of 200
+10 kilowatts alternating current or less, such compensation shall be not less
+11 than 150% of the utility's monthly system average cost of energy per
+12 kilowatt hour. A utility may shall credit such compensation to the
+13 customer's account or pay such compensation to the customer at least
+14 annually or when the total compensation due equals $25 or more.
+15 (2) A utility shall disclose to any customer the formula that the utility
+16 uses to determine the compensation that the utility provides pursuant to a
+17 contract for parallel generation service.
+18 (3) (A) A utility that offers parallel generation service to a customer
+19 who is located in the retail electric service territory of midwest energy,
+20 inc., as such territory existed on July 1, 2025, may determine the
+21 compensation to be provided to any such customer for energy exported to
+22 the utility based on locational marginal pricing. A utility that determines
+23 compensation pursuant to this paragraph shall provide:
+24 (i) On such customer's bill, the hourly price and the corresponding
+25 amount of energy exported to the utility; and
+26 (ii) to any person who requests such information, the hourly
+27 locational marginal price for the previous year.
+28 (B) The provisions of this paragraph shall expire on July 1, 2035.
+29 (3)(e) A customer-generator of any investor owned investor-owned
+30 utility shall have the option of entering into a contract pursuant to this
+31 subsection (b) section or utilizing the net metering and easy connection
+32 act. The customer-generator shall exercise the option in writing, filed with
+33 the utility.
+34 (c)(f) The following terms and conditions shall apply to contracts
+35 entered into under subsection (a) or (b) for parallel generation service:
+36 (1) The utility will supply shall furnish, own, and maintain all
+37 necessary meters and associated equipment utilized for billing. In addition,
+38 and for the purposes of monitoring customer generation and load,;
+39 (2) the utility may install, at its the utility's expense, load research
+40 metering. meters and equipment to monitor customer generation and load.
+41 The customer shall supply provide, at no expense to the utility, a suitable
+42 location for such meters and associated equipment used for billing and for
+43 load research;
+
+HB 2149 8
+1 (2) for the purposes of insuring the safety and quality of utility
+2 system power, the utility shall have the right to require the customer, at
+3 certain times and as electrical operating conditions warrant, to limit the
+4 production of electrical energy from the generating facility to an amount
+5 no greater than the load at the customer's facility of which the generating
+6 facility is a part;
+7 (3) the customer shall furnish, install, operate, and maintain in good
+8 order and repair and without cost to the utility, such relays, locks and seals,
+9 breakers, automatic synchronizer, and other control and protective
+10 apparatus as shall be designated by the utility as being required as a listed
+11 device that is suitable for the operation of the generator customer's
+12 renewable energy system in parallel with the utility's system. In any case
+13 where the customer and the utility cannot agree to terms and conditions of
+14 any such contract, the state corporation commission shall establish the
+15 terms and conditions for such contract. In addition,
+16 (4) the utility may install, own, and maintain a disconnecting device
+17 located near the electric meter or meters.;
+18 (5) interconnection facilities between the customer's and the utility's
+19 equipment shall be accessible at all reasonable times to utility personnel.
+20 Upon notification by the customer of the customer's intent to construct and
+21 install parallel generation, the utility shall provide the customer a written
+22 estimate of all costs that will be incurred by the utility and billed to the
+23 customer to accommodate the interconnection. The customer may be
+24 required to reimburse the utility for any equipment or facilities required as
+25 a result of the installation by the customer of generation in parallel with
+26 the utility's service.;
+27 (6) except as otherwise provided in this section, the utility may
+28 require a customer to reimburse the utility for any devices or equipment
+29 required to be furnished by the utility for the provision of parallel
+30 generation service if the requested export capacity is greater than zero
+31 kilowatts alternating current;
+32 (7) the customer shall notify the utility prior to the initial energizing
+33 and start-up testing of the customer-owned generator, and the utility shall
+34 have the right to have a representative present at such test customer's
+35 renewable energy system;
+36 (4) the utility may require a special agreement for conditions related
+37 to technical and safety aspects of parallel generation; and
+38 (5)(8) prior to granting permission to operate, the utility may
+39 require:
+40 (A) A witness test of the customer's renewable energy system and
+41 interconnection facilities; and
+42 (B) the customer to provide the certificate of inspection of the
+43 customer's renewable energy system completed pursuant to any municipal
+
+HB 2149 9
+1 ordinance or code requirements or a certification from an electrician or
+2 electrical engineer licensed in this state that the system is installed
+3 according to applicable codes and standards; and
+4 (9) the utility may periodically require witness testing of the
+5 customer's renewable energy system and interconnection facilities
+6 throughout the provision of parallel generation service.
+7 (g) (1) Prior to approving an application of any customer who is
+8 seeking to construct and install a renewable energy system for the purpose
+9 of entering into a parallel generation service contract, a utility may
+10 require such customer to enter into a special agreement that establishes
+11 technical and safety conditions relating to the construction and
+12 installation of such customer's renewable energy system. As a condition of
+13 any such special agreement, to ensure that such system is constructed and
+14 installed according to any applicable standards and codes, the utility may
+15 require the customer to provide documentation that the customer's
+16 renewable energy system is constructed and installed under the direction
+17 of a person who is:
+18 (A) Certified by the north American board of certified energy
+19 practitioners; or
+20 (B) a master electrician or electrical contractor licensed under the
+21 provisions of K.S.A. 12-1525 et seq., and amendments thereto.
+22 (2) Upon request of any person, a utility shall disclose the
+23 requirements of any such special agreement.
+24 (h) (1) The export capacity of a customer's renewable energy system
+25 shall be appropriately sized for such customer's anticipated electric load
+26 as follows:
+27 (A) (i) Divide the customer's historic consumption in kilowatt-hours
+28 for the previous 12-month period by 8,760 and divide such quotient by a
+29 capacity factor of 0.144; or
+30 (ii) if the customer does not have historic consumption data that
+31 adequately reflects the customer's consumption at such premises, the
+32 customer's historic consumption for the previous 12-month period shall be
+33 7.15 kilowatt-hours per square foot of conditioned space; and
+34 (B) round the amount determined pursuant to subparagraph (A) up to
+35 the nearest standard size as follows:
+36 (i) Round up to the nearest two kilowatts alternating current power
+37 increment if such amount is between two and 20 kilowatts alternating
+38 current power; or
+39 (ii) round up to the nearest five kilowatts alternating current power
+40 increment if such amount is 20 kilowatts alternating current power or
+41 more; and
+42 (2) Any other electric generation system or energy storage system
+43 located on a customer's property that is not designed and intended to
+
+HB 2149 10
+1 contribute to the customer's export capacity shall not be considered when
+2 determining the appropriate system size.
+3 (i) A utility shall not be required to approve a customer's request for
+4 parallel generation service if such service would cause the utility's
+5 aggregate export capacity from all renewable energy systems subject to
+6 parallel generation service to exceed 10% of such utility's historic peak
+7 demand. The utility may limit the number and size export capacity of
+8 additional renewable generators energy systems to be connected to the
+9 utility's system due to the capacity of the distribution line to which such
+10 renewable generator would energy system will be connected, and in no
+11 case shall the utility be obligated to purchase an amount greater than 4% of
+12 such utility's peak power requirements.
+13 (j) (1) A utility may require any customer who is seeking to construct
+14 and install a renewable energy system that limits the export to the utility's
+15 system in an amount that differs from the system's nameplate capacity to
+16 submit an application prior to any connection of the renewable energy
+17 system with the utility's system, notify the utility of the proposed renewable
+18 energy system and verify that such system is installed and connected in
+19 accordance with all applicable standards and codes. A utility may assess
+20 upon any such customer a nonrefundable application fee in an amount not
+21 to exceed the applicable nonrefundable interconnection application fee
+22 established pursuant to subsection (c). The amount of the nonrefundable
+23 application fee shall be determined based on the system's reasonably
+24 anticipated export capacity if the system commences exporting energy to
+25 the utility's system pursuant to parallel generation service.
+26 (2) Any customer that submits an application pursuant to paragraph
+27 (1) to construct and install a renewable energy system that will export zero
+28 kilowatts alternating current shall have the option to remain on a retail
+29 rate tariff that is identical to the same rate class that such customer would
+30 otherwise qualify for as a non-generating customer.
+31 (3) For any customer with a renewable energy system that is
+32 designed to export an amount of power that differs from the system's
+33 generating capacity:
+34 (A) The customer shall own and maintain any necessary export-
+35 limiting device;
+36 (B) protections shall be in place to restrict the export-limiting device
+37 settings to qualified persons;
+38 (C) the utility shall have the option to require a witness test of the
+39 export-limiting device's functions or settings prior to granting permission
+40 to operate;
+41 (D) the export capacity of the system shall not be increased without
+42 prior approval of the utility;
+43 (E) the customer shall allow the utility to perform periodic witness
+
+HB 2149 11
+1 tests of the export-limiting device's functions or settings upon request;
+2 (F) if the export-limiting device's functions or settings are incorrect
+3 or if the device fails to limit the export of power below the designed export
+4 capacity for more than 15 minutes in any single event, the customer shall
+5 cease operation of the system until repair or reprogramming of the export-
+6 limiting device is completed; and
+7 (G) the utility shall not restrict the brand or model of the export-
+8 limiting device if the device is approved by the manufacturer of a listed
+9 renewable energy system or is listed to perform such operations in
+10 conjunction with the customer's system.
+11 (k) A utility shall provide written notice of receipt of any application
+12 submitted pursuant to this section to the applicant within 30 days
+13 following such receipt. A utility shall approve or deny any such
+14 application or a request for system certification pursuant to such an
+15 application within 90 calendar days following receipt of such application
+16 or request. If the utility denies such application or request, the utility shall
+17 provide to the customer a list of the reasons for such denial and the
+18 corrective actions needed for approval.
+19 (d)(l) (1) Service under any parallel generation service contract
+20 entered into under subsection (a) or (b) shall be subject to either the
+21 utility's rules and regulations on file with the state corporation
+22 commission, which shall include a standard interconnection process and
+23 requirements for such utility's system, or the current federal energy
+24 regulatory commission interconnection procedures and regulations.
+25 (e)(2) In any case where the owner of the renewable generator
+26 customer and the utility cannot agree to terms and conditions of any
+27 contract provided for by this section, the state corporation commission
+28 shall establish the terms and conditions for such contract.
+29 (m) A utility shall not impose any additional fees, charges or
+30 requirements for the provision of parallel generation service unless
+31 expressly authorized pursuant to this section.
+32 (n) (1) Any customer who has received approval from a utility to
+33 construct or operate a renewable energy system pursuant to this section
+34 shall notify the utility when the construction has been canceled or the
+35 system is permanently shut down. Upon receipt of such notice, the utility
+36 shall cancel the parallel generation service contract with such customer.
+37 (2) If a utility has reason to suspect that a customer's renewable
+38 energy system has been abandoned and is no longer producing energy,
+39 such utility may request verification from the customer that the system is
+40 still functioning, or that the customer has a reasonable plan to reenergize
+41 the system. If the customer fails to repair the system or provide a
+42 reasonable plan to complete such repairs within 24 months, the utility
+43 shall have the option to cancel the parallel generation service contract
+
+HB 2149 12
+1 with such customer.
+2 (3) Upon cancellation of any parallel generation service contract
+3 pursuant to this subsection, the utility shall:
+4 (A) Make the associated export capacity available to other customers
+5 of the utility; and
+6 (B) not be obligated to refund any fees previously paid by the
+7 customer.
+8 (o) (1) A customer shall have the right to repair or rebuild such
+9 customer's renewable energy system subject to a parallel generation
+10 service contract if the repair does not materially affect the portion of the
+11 system that interacts with the utility or cause an increase in export
+12 capacity.
+13 (2) If a customer will repair or replace a system in a way that
+14 materially affects the portion of the system that interacts with the utility,
+15 the customer shall notify the utility prior to such repair or replacement
+16 and provide proof that the new equipment complies with the same rules,
+17 regulations and approved capacity as the original installation. A customer
+18 who repairs or replaces a system pursuant to this paragraph shall not be
+19 required to submit a new parallel generation service application to the
+20 utility.
+21 (3) If a customer will repair or replace a system in a way that
+22 increases the export capacity of the system, the customer shall notify the
+23 utility prior to such repair or replacement. The utility may require the
+24 customer to submit a new parallel generation service application to
+25 include the new provisions and requirements relating to such system.
+26 (f)(p) (1) The governing body of any school desiring to proceed under
+27 this section shall, prior to taking any action permitted by this section, make
+28 a finding that either:
+29 (1)(A) Net energy cost savings will accrue to the school from such
+30 renewable generation over a 20-year period; or
+31 (2)(B) that such renewable generation is a science project being
+32 conducted for educational purposes and that such project may not recoup
+33 the expenses of the project through energy cost savings.
+34 (2) Any school proceeding under this section may contract or enter
+35 into a finance, pledge, loan or lease-purchase agreement with the Kansas
+36 development finance authority as a means of financing the cost of such
+37 renewable generation.
+38 (g)(q) Each kilowatt of nameplate export capacity of the associated
+39 with a utility's parallel generation of electricity provided for in this section
+40 service shall count as 1.10 kilowatts toward the compliance of the an
+41 affected utility, as defined in K.S.A. 66-1257, and amendments thereto,
+42 and with whom the customer-generator has contracted, with the renewable
+43 energy standards act in K.S.A. 66-1256 through 66-1262, and amendments
+
+HB 2149 13
+1 thereto.
+2 (h)(r) The provisions of the net metering and easy connection act
+3 shall not preclude the state corporation commission from approving net
+4 metering tariffs upon request of an electric utility for other methods of
+5 renewable generation not prescribed in subsection (b)(1) of K.S.A. 66-
+6 1264(b)(1), and amendments thereto.
+7 Sec. 3. K.S.A. 66-1268 is hereby amended to read as follows: 66-
+8 1268. (a) Net metered facilities must meet all applicable safety,
+9 performance, interconnection and reliability standards established by the
+10 national electrical code, the national electrical safety code, the institute of
+11 electrical and electronics engineers, underwriters laboratories, the federal
+12 energy regulatory commission and any local governing authorities. A
+13 utility may require that a customer-generator's system contain a switch,
+14 circuit breaker, fuse or other easily accessible device or feature located in
+15 immediate proximity to the customer-generator's metering equipment that
+16 would allow a utility worker the ability to manually and instantly
+17 disconnect the unit from the utility's electric distribution system.
+18 (b) A utility may not require a customer-generator whose net
+19 metering facility meets the standards in subsection (a) to comply with
+20 additional safety or performance standards or perform or pay for additional
+21 tests or purchase additional liability insurance. A utility shall not be liable
+22 directly or indirectly for permitting or continuing to allow an attachment of
+23 a net metered facility or for the acts or omissions of the customer-
+24 generator that cause loss or injury, including death, to any third party.
+25 (c) (1) Any customer-generator who has received approval from a
+26 utility to construct or operate a net metering facility shall notify the utility
+27 when the construction has been canceled or the facility is permanently
+28 shut down. Upon receipt of such notice, the utility shall cancel the
+29 interconnection agreement with such customer.
+30 (2) If a utility has reason to suspect that a customer-generator's
+31 facility has been abandoned and is no longer producing energy, such
+32 utility may request verification from the customer-generator that the
+33 facility is still functioning or that the customer-generator has a reasonable
+34 plan to reenergize the facility. If the customer-generator fails to repair the
+35 facility or provide a reasonable plan to complete such repairs within 24
+36 months, the utility shall have the option to cancel the interconnection
+37 agreement with such customer-generator.
+38 (3) Upon cancellation of any interconnection agreement pursuant to
+39 this subsection, the utility shall:
+40 (A) Make the associated export capacity available to other customer-
+41 generators of the utility; and
+42 (B) not be obligated to refund any fees previously paid by the
+43 customer-generator.
+
+HB 2149 14
+1 (d) (1) A customer-generator shall have the right to repair or rebuild
+2 such customer-generator's net metering facility that is subject to an
+3 interconnection agreement if the repair does not materially affect the
+4 portion of the facility that interacts with the utility or cause an increase in
+5 export capacity.
+6 (2) If a customer-generator will repair or replace a facility in a way
+7 that materially affects the portion of the facility that interacts with the
+8 utility, the customer shall notify the utility prior to such repair or
+9 replacement and provide proof that the new equipment complies with the
+10 same rules, regulations and approved capacity as the original installation.
+11 A customer who repairs or replaces a facility pursuant to this paragraph
+12 shall not be required to submit a new net metering interconnection
+13 application to the utility.
+14 (3) If a customer-generator will repair or replace a facility in a way
+15 that increases the export capacity, the customer-generator shall notify the
+16 utility prior to such repair or replacement. The utility may require the
+17 customer-generator to submit a new net metering interconnection
+18 application to include the new provisions and requirements relating to
+19 such facility.
+20 Sec. 4. K.S.A. 66-1,184 and 66-1268 are hereby repealed.
+21 Sec. 5. This act shall take effect and be in force from and after its
+22 publication in the statute book.
+
+[DELETED: Aewurdsip0ec pc us pn of pl gn s1eg ps ad ls rg t; e2n3e4K6B7N8(d ey c" ms a py or o9l0t1s2(3m4d5(6ds ad sg fs tt c, ss or o7m8K9b0e1e2s3(4s5o]
+[DELETED: 9rrd(1(14, ad as t, a nk md ec0o1(r to eg io a ct wh a dd e2c3r4(5(6t7l8(9e0(1d2r3y4(5w6o7a8(9t0t1b2(3tx c, r, is or re ey cs i4c5(6c7w8l9o0s1(2t3f]
+[DELETED: 9(tre(edf(0p1c2(l ps rd fr te in of te f3d4(e fd dd ey sm ws id a5a6l7(8w9(0o1(2d3n4r5t6a7t8(9p0(1s2(s a st dg te ed st a3c4s5(s a st ig wr ay wy o6m7m8s9u0a1o2a3r]
+[DELETED: 9(ra(wubfd0(1t2a3a4(5e6n7s8(9s0d1s2(3a4d5s6(7w8(9a0s1de al a, r, se s, fs or o2d3p4i5f6s7d8n9i0S112(3sr ]
+[DELETED: 9e" s r c(ds(tpp0(1cd to mt us ls sy ss t2s3(4p5a6p7h8(9t0c1g2c3o4(" s l e f 5c6(718u9a0(1m2(t as pd in sn (, t as o3p4s s5s6u t s7c8s9e0e1de s e ce de to te pc us sm o2e3c]
+[DELETED: 9as((14co(0c1(2s3w4o5k6r7a8S9e cs 0r1m2a3p4o5df 6g7s8us m 9p0(s r 1g2f3(4a5(6l7(8l9(0l1(2l3f]
+[DELETED: 9(ar( s c f sicSsa r w a a c0k1t2kt y  s c3c o4a5(6u7c8(9w0i1c2t3c4(5a6(o ay pn wo rs sh i, te h7l8(9( i i0u1s2a3t4(5e6( w s a7n8a9(0m1T2l3l]
+[DELETED: 9(scpnf(ob, ac s, ad or cl ad p0a1d s g c2r3w4a5t6(7l8(9e0U1i2e3co 4r5a6t7(8r9r0g1k2(3a4h c5r6(7t8(r to gg pn to o, te uy m9r0(1i2(3c]
+[DELETED: 9oea(e uy my py re ws tg of tcs re ey sm ad in ft(so0r1tl ad sy cs rg to te cn a2i3a4i5re te cr to pe dn tt te c6r7o8(d by te nh n bd of cd e9p0(1p2(n rt of ay p, a uy sl de t3r4(5s6a7(8f9c0(1a2c374(5t6(7ih 8c9(0i1m2(3l]
+[DELETED: 91cd(papd.  n e oal  g e tu0r1c2s3(4a5s6s7s8e9a0u1t2e3a4a5t6(7(8k9r0o1(r ay cr w a re ey sm tt i2d3g4(5l6(7s8(9e0t1(2p3(]
+[DELETED: 91t(occl(lro 0c1(2st s t 3fg h ry l  ae or dy y s4a5a6o7p8c9( p c0e s1us rs ad rs on fe wh te se c2c3r4r5( o6c a7c8s9(y sl t ie y al f, s o0r1e2(3c4s5s6s7(8e9s0s1t2r3s]
+[DELETED: 91w(p(o(c(c0s1s2c3(4m5t6a7r8w9r0u1(2i3u4c5i6(7t8a9(0r1(2c3t4(5i6d7r8(9w0se  t a1a2a3e]
+[DELETED: 91t(smrf 1S1. () Nt md fs mt mt al ae sp0n1e2e3u4c5i6w a u t a t md 7d8( uy my nt re a cr we n9m0a1t2d3a4g5(6u7w8s9i0(1f2u3f4p5f6m7a8(9t0(1g2(3c]
+[DELETED: 91(sipe(tur0s1A2s3a4(5t6u7cr to st a nw nt mg i8a9s0S1S2p]

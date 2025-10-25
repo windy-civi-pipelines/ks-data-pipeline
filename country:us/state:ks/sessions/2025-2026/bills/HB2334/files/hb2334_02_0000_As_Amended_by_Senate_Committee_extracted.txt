@@ -1,0 +1,1620 @@
+Title: HOUSE BILL No. 2334
+Official Title: HOUSE BILL No. 2334
+Number of Sections: 1
+Source: versions - As Amended by Senate Committee
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+As Amended by Senate Committee
+As Amended by House Committee
+Session of 2025
+By Committee on Insurance
+Requested by Representative Tarwater
+2-7
+1 AN ACT concerning insurance; relating to captive insurance companies;
+2 providing for incorporated cell captive insurance companies and
+3 protected cell captive insurance companies; enacting the Kansas
+4 protected cell captive insurance company act; providing for a
+5 provisional certificate of authority; expanding the types of insurance
+6 that a captive insurance company may provide; extending the period of
+7 time in-between financial examinations conducted by the
+8 commissioner; amending K.S.A. 40-4304, 40-4312 and 40-4314 and
+9 K.S.A. 2024 Supp. 40-4302 and 40-4308 and repealing the existing
+10 sections.
+11
+12 Be it enacted by the Legislature of the State of Kansas:
+13 New Section 1. Sections 1 through 10, and amendments thereto, shall
+14 be known and may be cited as the Kansas protected cell captive insurance
+15 company act.
+16 New Sec. 2. (a) One or more sponsors may form a protected cell
+17 captive insurance company under this act. This act shall apply to protected
+18 cell captive insurance companies.
+19 (b) A protected cell captive insurance company shall be incorporated
+20 as a stock insurer with its capital divided into shares and held by the
+21 stockholders as a mutual corporation, as a nonprofit corporation with one
+22 or more members or as a limited liability company.
+23 New Sec. 3. As used in this act, unless the context requires otherwise:
+24 (a) "Act" means the Kansas protected cell captive insurance company
+25 act;
+26 (b) "general account" means all assets and liabilities of a protected
+27 cell captive insurance company not attributable to a protected cell;
+28 (c) "participant" means a person or an entity, authorized to be a
+29 participant by section 5, and amendments thereto, or any affiliate of a
+30 participant, that is insured by a protected cell captive insurance company if
+31 the losses of the participant are limited through a participant contract;
+32 (d) "participant contract" means a contract by which a protected cell
+33 captive insurance company insures the risks of a participant and limits the
+HB 2334—Am. by SC 2
+1 losses of each such participant to its pro rata share of the assets of one or
+2 more protected cells identified in such participant contract;
+3 (e) "protected cell" means a separate account that is established by a
+4 protected cell captive insurance company formed or licensed pursuant to
+5 this act and in which an identified pool of assets and liabilities are
+6 segregated and insulated by means of this act from the remainder of the
+7 protected cell captive insurance company's assets and liabilities in
+8 accordance with the terms of one or more participant contracts to fund the
+9 liability of the protected cell captive insurance company with respect to the
+10 participants as set forth in the participant contracts;
+11 (f) "protected cell assets" means all assets, contract rights and general
+12 intangibles identified with and attributable to a specific protected cell of a
+13 protected cell captive insurance company;
+14 (g) "protected cell captive insurance company" means any captive
+15 insurance company:
+16 (1) In which the minimum capital and surplus required by the chapter
+17 are provided by one or more sponsors;
+18 (2) that is formed or licensed under this act;
+19 (3) that insures the risks of separate participants through participant
+20 contracts; and
+21 (4) that funds its liability to each participant through one or more
+22 protected cells and segregates the assets of each protected cell from the
+23 assets of other protected cells and from the assets of the protected cell
+24 captive insurance company's general account;
+25 (h) "protected cell liabilities" means all liabilities and other
+26 obligations identified with and attributed to a specific protected cell of a
+27 protected cell captive insurance company; and
+28 (i) "protected cell liabilities" means all liabilities and other
+29 obligations identified with and attributed to a specific protected cell of a
+30 protected cell captive insurance company; and
+31 (j) "sponsor" means any person or entity that is approved by the
+32 commissioner to provide all or part of the capital and surplus required by
+33 this act and organize and operate a protected cell captive insurance
+34 company.
+35 New Sec. 4. In addition to the information required by K.S.A. 40-
+36 4302, and amendments thereto, each applicant-protected cell captive
+37 insurance company shall file with the commissioner the following:
+38 (a) Materials demonstrating how the applicant will account for the
+39 loss and expense experience of each protected cell at a level of detail
+40 found to be sufficient by the commissioner, and how it will report such
+41 experience to the commissioner;
+42 (b) a statement acknowledging that all financial records of the
+43 applicant, including records pertaining to any protected cells, shall be
+HB 2334—Am. by SC 3
+1 made available for inspection or examination by the commissioner or the
+2 commissioner's designated agent;
+3 (c) all contracts or sample contracts between the applicant and any
+4 participants; and
+5 (d) evidence that expenses shall be allocated to each protected cell in
+6 a fair and equitable manner.
+7 New Sec. 5. A protected cell captive insurance company formed or
+8 licensed under this chapter may establish and maintain one or more
+9 incorporated or unincorporated protected cells to insure risks of one or
+10 more participants, subject to the following conditions:
+11 (a) (1) A protected cell captive insurance company may establish one
+12 or more protected cells if the commissioner has approved in writing a plan
+13 of operation or amendments to a plan of operation submitted by the
+14 protected cell captive insurance company with respect to each protected
+15 cell. A plan of operation includes, but is not limited to, the specific
+16 business objectives and investment guidelines of the protected cell, except
+17 that the commissioner may require additional information in the plan of
+18 operation. The commissioner may put into effect a plan of operation or
+19 amendments to a plan of operation on or before the date that the approval
+20 is signed if the effective date is not earlier than the date that the plan of
+21 operation or amendments to the plan of operation were filed with the
+22 department;
+23 (2) upon the commissioner's written approval of the plan of operation,
+24 the protected cell captive insurance company, in accordance with the
+25 approved plan of operation, may attribute insurance obligations with
+26 respect to its insurance business to the protected cell;
+27 (3) a protected cell shall have its own distinct name or designation
+28 that shall include the words "protected cell" or "incorporated cell." An
+29 incorporated cell formed as a series of a limited liability company shall
+30 bear a distinct name or designation as reflected in its formation documents
+31 and include the words "series cell." Such names or designations may also
+32 be reasonably abbreviated, including, without limitation, pc or p.c. for
+33 "protected cell," ic, i.c., ipc, or i.p.c. for "incorporated cell" and sc, s.c.,
+34 spc or s.p.c. for "series cell";
+35 (4) the protected cell captive insurance company shall transfer all
+36 assets attributable to a protected cell to one or more separately established
+37 and identified protected cell accounts bearing the name or designation of
+38 such protected cell. Protected cell assets shall be held in the protected cell
+39 accounts for the purpose of satisfying the obligations of such protected
+40 cell;
+41 (5) an incorporated protected cell may be organized and operated in
+42 any form of business organization authorized by the commissioner,
+43 including, but not limited to, an individual series of a limited liability
+HB 2334—Am. by SC 4
+1 company as provided for in the Kansas revised limited liability company
+2 act. Each incorporated protected cell of a protected cell captive insurer
+3 shall be treated as a captive insurer for purposes of this act and shall have
+4 the power to enter into contracts, including an individual series of a limited
+5 liability company. Unless otherwise permitted by the organizational
+6 documents of a protected cell captive insurer, each incorporated protected
+7 cell of the protected cell captive insurer shall have the same directors,
+8 secretary and registered office as the protected cell captive insurer; and
+9 (6) all attributions of assets and liabilities between a protected cell
+10 and the general account shall be in accordance with the plan of operation
+11 and participant contracts approved by the commissioner. No other
+12 attribution of assets or liabilities shall be made by a protected cell captive
+13 insurance company between the protected cell captive insurance
+14 company's general account and its protected cells. Any attribution of assets
+15 and liabilities between the general account and a protected cell shall be in
+16 cash or in readily marketable securities with established market values.
+17 (b) The creation of a protected cell does not create, with respect to
+18 such protected cell, a legal person separate from the protected cell captive
+19 insurance company unless the protected cell is an incorporated cell.
+20 Amounts attributed to a protected cell under this section, including assets
+21 transferred to a protected cell account, are deemed to be owned by the
+22 protected cell. No protected cell captive insurance company shall be, or
+23 represent itself as a trustee with respect to those protected cell assets of
+24 such protected cell account. Notwithstanding the provisions of this
+25 subsection, the protected cell captive insurance company may allow for a
+26 security interest to attach to protected cell assets or a protected cell
+27 account when in favor of a creditor of the protected cell and otherwise
+28 allowed under applicable law.
+29 (c) This act shall not be construed to prohibit the protected cell
+30 captive insurance company from contracting with or arranging for an
+31 investment advisor, commodity trading advisor or other third party to
+32 manage the protected cell assets of a protected cell if all remuneration,
+33 expenses and other compensation of the third-party advisor or manager are
+34 payable from the protected cell assets of such protected cell and not from
+35 the protected cell assets of other protected cells or the assets of the
+36 protected cell captive insurance company's general account.
+37 (d) (1) A protected cell captive insurance company shall establish
+38 administrative and accounting procedures necessary to properly identify
+39 the one or more protected cells of the protected cell captive insurance
+40 company and the protected cell assets and protected cell liabilities
+41 attributable to the protected cells. The directors of a protected cell captive
+42 insurance company shall keep protected cell assets and protected cell
+43 liabilities:
+HB 2334—Am. by SC 5
+1 (A) Separate and separately identifiable from the assets and liabilities
+2 of the protected cell captive insurance company's general account; and
+3 (B) attributable to one protected cell that is separate and separately
+4 identifiable from protected cell assets and protected cell liabilities
+5 attributable to other protected cells.
+6 (2) If subsection (d)(1) is violated, then the remedy of tracing is
+7 applicable to protected cell assets when commingled with protected cell
+8 assets of other protected cells or the assets of the protected cell captive
+9 insurance company's general account. The remedy of tracing shall not be
+10 construed as an exclusive remedy.
+11 (e) When establishing a protected cell, the protected cell captive
+12 insurance company shall attribute to the protected cell assets a value that is
+13 at least equal to the reserves and other insurance liabilities attributed to
+14 such protected cell.
+15 (f) Each protected cell shall be accounted for separately on the books
+16 and records of the protected cell captive insurance company to reflect the
+17 financial condition and results of operations of such protected cell, net
+18 income or loss, dividends or other distributions to participants and such
+19 other factors as may be provided in the participant contract or required by
+20 the commissioner.
+21 (g) No asset of a protected cell shall be chargeable with liabilities
+22 arising out of any other insurance business that the protected cell captive
+23 insurance company may conduct.
+24 (h) No sale, exchange or other transfer of assets shall be made by
+25 such protected cell captive insurance company between or among any of
+26 its protected cells without the consent of such protected cells.
+27 (i) No sale, exchange, transfer of assets, dividend or distribution shall
+28 be made from a protected cell to another protected cell captive insurance
+29 company or participant without the commissioner's approval. In no event
+30 shall the commissioner's approval be given if the sale, exchange, transfer,
+31 dividend or distribution would result in the insolvency or impairment of a
+32 protected cell.
+33 (j) All attributions of assets and liabilities to the protected cells and
+34 the general account shall be in accordance with the plan of operation
+35 approved by the commissioner. No other attribution of assets or liabilities
+36 shall be made by a protected cell captive insurance company between its
+37 general account and any protected cell or between any protected cells. The
+38 protected cell captive insurance company shall attribute all insurance
+39 obligations, assets and liabilities relating to a reinsurance contract entered
+40 into with respect to a protected cell to such protected cell. The
+41 performance under such reinsurance contract and any tax benefits, losses,
+42 refunds or credits allocated pursuant to a tax allocation agreement to which
+43 the protected cell captive insurance company is a party, including any
+HB 2334—Am. by SC 6
+1 payments made by or due to be made to the protected cell captive
+2 insurance company pursuant to the terms of such agreement, shall reflect
+3 the insurance obligations, assets and liabilities relating to the reinsurance
+4 contract that are attributed to such protected cell.
+5 (k) In connection with the conservation, rehabilitation or liquidation
+6 of a protected cell captive insurance company, the assets and liabilities of a
+7 protected cell shall, to the extent that the commissioner determines that
+8 such assets and liabilities are separable, at all times be kept separate from
+9 and shall not be commingled with those of other protected cells and the
+10 protected cell captive insurance company.
+11 (l) Each protected cell captive insurance company shall annually file
+12 with the commissioner such financial reports as required by the
+13 commissioner. Any such financial report shall include, without limitation,
+14 accounting statements detailing the financial experience of each protected
+15 cell.
+16 (m) Each protected cell captive insurance company shall notify the
+17 commissioner in writing within 10 business days of any protected cell that
+18 is insolvent or otherwise unable to meet its claim or expense obligations.
+19 (n) No participant contract shall take effect without the
+20 commissioner's prior written approval. The addition of each new protected
+21 cell, the withdrawal of any participant or the termination of any existing
+22 protected cell shall constitute a change in the plan of operation requiring
+23 the commissioner's prior written approval.
+24 (o) The business written by a protected cell captive insurance
+25 company, with respect to each protected cell, shall be:
+26 (1) Fronted by an insurance company licensed under the laws of any
+27 state;
+28 (2) reinsured by a reinsurer authorized or approved by this state; or
+29 (3) secured by a trust fund in the United States for the benefit of
+30 policyholders and claimants or funded by an irrevocable letter of credit or
+31 other arrangement that is acceptable to the commissioner. The amount of
+32 security provided shall be not less than the reserves associated with those
+33 liabilities that are neither fronted nor reinsured, including reserves for
+34 losses, allocated loss adjustment expenses, incurred but not reported losses
+35 and unearned premiums for business written through the participant's
+36 protected cell. The commissioner may require the protected cell captive
+37 insurance company to increase the funding of any security arrangement
+38 established under this subsection. If the form of security is a letter of
+39 credit, the letter of credit shall be issued or confirmed by a bank approved
+40 by the commissioner. A trust maintained pursuant to this subsection shall
+41 be established in a form and upon such terms approved by the
+42 commissioner.
+43 (p) Notwithstanding this act or other laws of Kansas, and in addition
+HB 2334—Am. by SC 7
+1 to article 36 of chapter 40 of the Kansas Statutes Annotated, and
+2 amendments thereto, in the event of an insolvency of a protected cell
+3 captive insurance company in which the commissioner determines that one
+4 or more protected cells remain solvent, the commissioner may separate
+5 such cells from the protected cell captive insurance company and may
+6 allow, on application of the protected cell captive insurance company, for
+7 the conversion of such protected cells into one or more new or existing
+8 protected cell captive insurance companies or one or more other captive
+9 insurance companies, pursuant to such plan of operation as the
+10 commissioner deems acceptable.
+11 (q) Biographical affidavits shall not be required for participants in
+12 unincorporated cells. Biographical affidavits shall be required for owners
+13 of incorporated cells, including series members of a series LLC.
+14 (r) A protected cell captive insurance company formed or licensed
+15 under this act may establish and operate unincorporated and incorporated
+16 protected cells.
+17 New Sec. 6. (a) Associations, corporations, limited liability
+18 companies, partnerships, trusts and other business entities may be
+19 participants in any protected cell captive insurance company formed or
+20 licensed under this chapter.
+21 (b) A sponsor may be a participant in a protected cell captive
+22 insurance company.
+23 (c) A participant shall not be required to be a shareholder of the
+24 protected cell captive insurance company or any affiliate thereof.
+25 (d) A participant shall insure only such participant's own risks
+26 through a protected cell captive insurance company, unless otherwise
+27 approved by the commissioner.
+28 New Sec. 7. (a) Notwithstanding the provisions of section 4, and
+29 amendments thereto, the assets of two or more protected cells may be
+30 combined for purposes of investment, and such combination shall not be
+31 construed as defeating the segregation of such assets for accounting or
+32 other purposes.
+33 (b) Notwithstanding any other provision of this act, the commissioner
+34 may approve the use of alternative reliable methods of valuation and
+35 rating.
+36 New Sec. 8. (a) Except as otherwise provided in this section the
+37 insurers supervision, rehabilitation and liquidation act shall apply to a
+38 protected cell captive insurance company.
+39 (b) Upon any order of supervision, rehabilitation, or liquidation of a
+40 protected cell captive insurance company, the receiver shall manage the
+41 assets and liabilities of the protected cell captive insurance company
+42 pursuant to this section.
+43 (c) Notwithstanding the provisions of the insurers supervision,
+HB 2334—Am. by SC 8
+1 rehabilitation and liquidation act:
+2 (1) No assets of a protected cell shall be used to pay any expenses or
+3 claims other than those attributable to such protected cell; and
+4 (2) a protected cell captive insurance company's capital and surplus
+5 shall be available at all times to pay any expenses of or claims against the
+6 protected cell captive insurance company.
+7 New Sec. 9. (a) The pleadings in any legal action brought by or
+8 against a protected cell captive insurance company shall specify which
+9 protected cell or cells should be named as a party to the suit. If the general
+10 account is party to this suit, it shall be separately identified in the
+11 pleadings as if it were a protected cell.
+12 (b) A legal action brought against a protected cell captive insurance
+13 company that does not specify one or more protected cells shall be deemed
+14 to have been brought against the general account only.
+15 (c) Any protected cell that is not named in the pleadings of the legal
+16 action shall not be deemed to be a party to the legal action. Any protected
+17 cell that is erroneously named as a party or named without proper cause
+18 shall be entitled to prompt dismissal from the legal action.
+19 (d) Unless specified by the plan of operation, participant contract or
+20 other prior contractual agreement, the assets of one protected cell may not
+21 be encumbered or seized to satisfy the obligations of or a judgment against
+22 any other protected cell. No protected cell shall have a duty to defend the
+23 rights and obligations of any other protected cell.
+24 (e) In any legal action involving a protected cell captive insurance
+25 company or a protected cell, any papers, documents or property of a
+26 nonparty protected cell shall be afforded the same status during discovery
+27 as the documents or property of any other unrelated third party. A nonparty
+28 protected cell shall have standing to appear and petition for any
+29 appropriate relief to protect the confidentiality of its papers or documents.
+30 New Sec. 10. (a) (1) Upon the application of a protected cell captive
+31 insurance company, one of its protected cells may be converted to any
+32 form of captive insurance company authorized pursuant to chapter 40 of
+33 the Kansas Statutes Annotated, and amendments thereto, with the consent
+34 of the commissioner. The commissioner may issue to the converting
+35 protected cell a certificate of authority with an effective date of its original
+36 date of formation as a protected cell.
+37 (2) The following shall be the criteria for determining the filing or
+38 submission requirements of:
+39 (A) A series of a limited liability company, the cell shall file
+40 organizational documents with the secretary of state that comply with
+41 article 43 of chapter 40 and chapters 17 and 56A of the Kansas Statutes
+42 Annotated, and amendments thereto, as applicable. The organizational
+43 documents shall include the date of formation as a series. Upon
+HB 2334—Am. by SC 9
+1 conversion, the formation date of the series shall be deemed as the
+2 formation date of the new entity. The new entity shall possess all assets
+3 and liabilities, including outstanding insurance liabilities, owned by the
+4 predecessor series;
+5 (B) any other type of incorporated protected cell entity, then the
+6 converting protected cell shall submit amended organizational documents
+7 to the secretary of state that comply with article 43 of chapter 40 and
+8 chapters 17 and 56A of the Kansas Statutes Annotated, and amendments
+9 thereto, as applicable; or
+10 (C) neither a series of a limited liability company nor an incorporated
+11 protected cell, the cell shall file organizational documents with the
+12 secretary of state that comply with article 43 of chapter 40 and chapters 17
+13 and 56A of the Kansas Statutes Annotated, and amendments thereto, as
+14 applicable, or any other applicable provision governing formation of that
+15 type of entity. The organizational documents shall include the date of
+16 formation as a cell. Upon conversion, the formation date of the cell shall
+17 be deemed as the formation date of the new entity. The new entity shall
+18 possess all assets and liabilities, including outstanding insurance liabilities,
+19 owned by the predecessor cell.
+20 (b) A captive insurance company may apply to the commissioner for
+21 conversion to become a protected cell captive insurance company under
+22 any form permitted under this section. Upon compliance with this section,
+23 approval by the commissioner and the filing of amended organizational
+24 documents with the secretary of state, the captive insurance company shall
+25 be issued a revised certificate of authority. The effective date of the revised
+26 protected cell captive insurance company's certificate of authority shall
+27 remain the same as the effective date of the prior captive insurance
+28 company.
+29 Sec. 11. K.S.A. 2024 Supp. 40-4302 is hereby amended to read as
+30 follows: 40-4302. (a) Any captive insurance company, when permitted by
+31 its organizational documents, may apply to the commissioner for a
+32 certificate of authority to do any and all insurance comprised in K.S.A. 40-
+33 901 et seq., 40-1102(1)(a), (1)(c) through (1)(n), and amendments thereto,
+34 and to issue life, accident and health insurance policies provided, except
+35 that:
+36 (1) NoA pure captive insurance company shall not insure any risks
+37 other than those of its parent and affiliated companies and, upon prior
+38 approval of the commissioner, any controlled unaffiliated business up to
+39 5% of total direct written premium or combination thereof;
+40 (2) no association captive insurance company shall insure any risks
+41 other than those of its association and those of the member organizations
+42 of its association. No association captive insurance company shall expose
+43 itself to loss on any one risk or hazard in an amount exceeding 10% of its
+HB 2334—Am. by SC 10
+1 paid-up capital and surplus;
+2 (3) no captive insurance company shall provide personal lines of
+3 insurance, workers' compensation, employers' liability insurance coverage,
+4 long-term care coverage, critical care coverage, surety, title insurance,
+5 credit insurance or any component thereof, except that a technology-
+6 enabled fiduciary financial institution insurance company shall be
+7 permitted to provide contracts of suretyship and credit insurance in
+8 accordance with K.S.A. 2024 Supp. 40-4354, and amendments thereto;
+9 (4) noa captive insurance company shall accept or cede may provide
+10 workers compensation insurance, insurance in the nature of workers
+11 compensation insurance and the reinsurance except as provided in K.S.A.
+12 40-4311, and amendments thereto of such policies unless prohibited by
+13 federal law, the provisions of chapter 40 of the Kansas Statutes Annotated,
+14 and amendments thereto, or any other state having jurisdiction over the
+15 transaction;
+16 (5) a captive insurance company may provide excess or stop-loss
+17 accident and health insurance unless prohibited by federal law or the laws
+18 of the state having jurisdiction over the transaction;
+19 (6) any captive insurance company may provide workers
+20 compensation insurance, insurance in the nature of workers'
+21 compensation insurance and reinsurance of such policies unless
+22 prohibited by federal law, the laws of the state of Kansas or any other
+23 state having jurisdiction over the transaction;
+24 (7) no captive insurance company shall provide accident and health,
+25 accident and health, life insurance or annuities on a direct basis;
+26 (6)(8) no captive insurance company authorized as a life insurance
+27 company shall transact business other than life insurance; and
+28 (7)(9) no captive insurance company authorized to transact business
+29 under article 9 or 11 of chapter 40 of the Kansas Statutes Annotated, and
+30 amendments thereto, shall engage in the business of life insurance.
+31 (b) No captive insurance company organized under the laws of this
+32 state shall do any insurance business in this state unless such captive
+33 insurance company:
+34 (1) It First obtains from the commissioner a certificate of authority
+35 authorizing it to do insurance business in this state;
+36 (2) has its board of directors, members, partners, managers,
+37 committee of managers or other governing body holds hold at least one
+38 meeting each year in this state;
+39 (3) it maintains its principal place of business in this state; and
+40 (4) it authorizes the commissioner to accept service of process on its
+41 behalf in accordance with K.S.A. 40-218, and amendments thereto.
+42 (c) Before receiving a certificate of authority, an applicant captive
+43 insurance company shall file with the commissioner:
+HB 2334—Am. by SC 11
+1 (1) A copy of the applicant captive insurance company's
+2 organizational documents; and
+3 (2) a plan of operation or a feasibility study describing the anticipated
+4 activities and results of the applicant captive insurance company that shall
+5 include:
+6 (A) The company's loss prevention program of its parent and
+7 insureds, as applicable;
+8 (B) historical and expected loss experience of the risks to be insured
+9 or reinsured by the applicant captive insurance company;
+10 (C) pro forma financial statements and projections of the proposed
+11 business operations of the applicant captive insurance company;
+12 (D) an analysis of the adequacy of the applicant captive insurance
+13 company's proposed premiums, assets and capital and surplus levels
+14 relative to the risks to be insured or reinsured by the captive insurance
+15 company;
+16 (E) a statement of the applicant captive insurance company's net
+17 retained limited liability on any contract of insurance or reinsurance it that
+18 such insurance company intends to issue and the nature of any reinsurance
+19 it intends to cede;
+20 (F) a statement certifying that the applicant captive insurance
+21 company's investment policy is in compliance with this act and specifying
+22 the type of investments to be made;
+23 (G) a statement identifying the geographic areas in which the
+24 applicant captive insurance company intends to operate;
+25 (H) a statement identifying the persons or organizations that will
+26 perform the applicant captive insurance company's major operational
+27 functions, including management, underwriting, accounting, asset
+28 investment, claims adjusting and loss control and the adequacy of the
+29 expertise, experience and character of such persons or organizations; and
+30 (I) whenever required by the commissioner, an appropriate opinion
+31 by a qualified independent actuary regarding the adequacy of the applicant
+32 captive insurance company's proposed capital, surplus and premium levels;
+33 (3) a description of the coverages, deductibles, coverage limits, rates
+34 and forms, together with any additional information that the commissioner
+35 may require;
+36 (4) such other items deemed to be relevant by the commissioner in
+37 ascertaining whether the proposed captive insurance company will be able
+38 to meet its obligations; and
+39 (5) any modification or change in the items required under this
+40 subsection that shall require the prior approval of the commissioner.
+41 (d) Notwithstanding any other provision of this act, the commissioner
+42 may issue a provisional certificate of authority to any applicant captive
+43 insurance company if the commissioner deems that the public interest will
+HB 2334—Am. by SC 12
+1 be served by the issuance of such a provisional certificate.
+2 (1) As a condition precedent to the issuance of a provisional
+3 certificate of authority under this subsection, the applicant shall have filed
+4 a complete application containing all information required in subsection
+5 (c) and paid all necessary fees. The commissioner shall have made a
+6 preliminary finding that the expertise, experience and character of the
+7 person who shall control and manage the applicant captive are
+8 acceptable.
+9 (2) The commissioner may by order limit the authority of any
+10 provisional certificate holder in any way deemed to be necessary in order
+11 to protect insureds and the public. The commissioner may revoke a
+12 provisional certificate holder if the interests of the insureds or the public
+13 are endangered. If the applicant fails to complete the regular application
+14 for a certificate of authority, the provisional certificate of authority shall
+15 terminate by operation of law.
+16 (3) The commissioner may enact all rules and regulations necessary
+17 to implement a program for the issuance of provisional certificates of
+18 authority.
+19 (d)(e) Each captive insurance company not in existence on January 1,
+20 2018, shall pay to the commissioner a nonrefundable fee of $10,000 up to
+21 $2,500 for examining, investigating and processing its application for a
+22 certificate of authority. The commissioner is authorized to retain legal,
+23 financial, actuarial, analysis and examination services from outside the
+24 department, the reasonable costs of which shall be charged against the
+25 applicant. In addition, it shall pay a renewal fee of $2,500 for each year
+26 thereafter of $10,000.
+27 (e)(f) Each captive insurance company already in existence on
+28 January 1, 2018, shall pay an annual renewal fee of $110 until January 1,
+29 2028, after which date, the provisions of subsection (d) (e) shall apply.
+30 (f)(g) If the commissioner is satisfied that the documents and
+31 statements that such captive insurance company has filed comply with the
+32 provisions of this act, the commissioner may grant a certificate of
+33 authority authorizing a:
+34 (1) Captive insurance company other than a technology-enabled
+35 fiduciary financial institution to do insurance business in this state until
+36 March 1 thereafter, which certificate of authority may be renewed; and
+37 (2) technology-enabled fiduciary financial institution insurance
+38 company to do insurance business in this state until the later of March 1
+39 thereafter or the maturity date of the last payment-in-kind asset held by
+40 such technology-enabled fiduciary financial institution insurance company
+41 pursuant to this act.
+42 (g)(h) Information submitted under this section shall be and remain
+43 confidential, and shall not be made public by the commissioner or any
+HB 2334—Am. by SC 13
+1 employee or agent of the commissioner without the written consent of the
+2 company, except that:
+3 (1) Such information may be discoverable by a party in a civil action
+4 or contested case to which the captive insurance company that submitted
+5 such information is a party, upon a showing by the party seeking to
+6 discover such information that:
+7 (A) The information sought is relevant to and necessary for the
+8 furtherance of such action or case;
+9 (B) the information sought is unavailable from other non-confidential
+10 nonconfidential sources;
+11 (C) a subpoena issued by a judicial or administrative officer or
+12 competent jurisdiction has been submitted to the commissioner; and
+13 (D) the privacy of a qualified policyholder shall be protected in any
+14 court proceeding concerning such qualified policyholder if the technology-
+15 enabled fiduciary financial institution insurance company so petitions the
+16 court. Upon the filing of such petition, any information, including, but not
+17 limited to, an instrument, inventory, statement or verified report produced
+18 by the technology-enabled fiduciary financial institution insurance
+19 company regarding a policy issued to a qualified policyholder or payment-
+20 in-kind assets held by the technology-enabled fiduciary financial
+21 institution insurance company to satisfy claims of such qualified
+22 policyholder, all payment-in-kind policies, all petitions relevant to such
+23 information and all court orders thereon, shall be sealed upon filing and
+24 shall not be made a part of the public record of the proceeding, except that
+25 such petition shall be available to the court, the commissioner, the
+26 technology-enabled fiduciary financial institution insurance company, their
+27 attorneys and to such other interested persons as the court may order upon
+28 a showing of good cause;
+29 (2) the commissioner may disclose such information to a public
+30 officer having jurisdiction over the regulation of insurance in another state,
+31 provided that:
+32 (A) Such public official shall agree in writing to maintain the
+33 confidentiality of such information; and
+34 (B) the laws of the state in which such public official serves requires
+35 such information to be and to remain confidential;
+36 (3) access may also be granted to the national association of
+37 insurance commissioners and its affiliates, and the international
+38 association of supervisors and its affiliates. Such parties must agree in
+39 writing prior to receiving the information to provide to it the same
+40 confidential treatment as required by this section, unless the company
+41 gives prior written consent; and
+42 (4) the privacy of those who have established an affiliated fidfin trust
+43 or alternative asset custody account shall be protected in any court
+HB 2334—Am. by SC 14
+1 proceeding concerning such trust or custody account if the acting trustee,
+2 custodian, trustor or any beneficiary so petition the court. Upon the filing
+3 of such a petition, the instrument, inventory, statement filed by any trustee
+4 or custodian, annual verified report of the trustee or custodian and all
+5 petitions relevant to trust administration and all court orders thereon shall
+6 be sealed upon filing and shall not be made a part of the public record of
+7 the proceeding, except that such petition shall be available to the court, the
+8 trustor, the trustee, the custodian, any beneficiary, their attorneys and to
+9 such other interested persons as the court may order upon a showing of
+10 good cause.
+11 Sec. 12. K.S.A. 40-4304 is hereby amended to read as follows: 40-
+12 4304. (a) No captive insurance company shall be issued a certificate of
+13 authority unless it such company shall possess and thereafter maintain
+14 unimpaired paid-in capital and surplus of not less than:
+15 (1) In the case of a pure captive insurance company, not less than
+16 $250,000, in the case of a pure captive insurance company; and
+17 (2) in the case of an association captive insurance company
+18 incorporated as a stock insurer, not less than $500,000, in the case of an
+19 association captive insurance company incorporated as a stock insurer;
+20 and
+21 (3) $100,000, in the case of a protected cell captive insurance
+22 company.
+23 (b) Such capital may be in the form of cash or, upon approval of the
+24 commissioner, an irrevocable letter of credit issued by a bank chartered by
+25 the state of Kansas or the United States comptroller of currency, domiciled
+26 in Kansas, and approved by the commissioner.
+27 (c) In connection with the issuance of a certificate of authority, the
+28 commissioner may prescribe additional minimum capital and surplus
+29 based upon the type, volume and nature of the insurance business
+30 transacted.
+31 (d) Loans of minimum capital and surplus funds shall be prohibited.
+32 Notwithstanding the foregoing, the minimum capital and surplus funds
+33 may be received by the issuance of a surplus note as approved by the
+34 commissioner.
+35 (e) No pure captive insurance company shall make a loan or an
+36 investment in its parent company or affiliates without prior written
+37 approval of the commissioner, and any such loan or investment shall be
+38 evidenced by documentation approved by the commissioner.
+39 Sec. 13. K.S.A. 2024 Supp. 40-4308 is hereby amended to read as
+40 follows: 40-4308. (a) Whenever the commissioner deems necessary, but at
+41 least once every three five years, the commissioner may make, or direct to
+42 be made, a financial examination of any captive insurance company in the
+43 process of organization or applying for admission or doing business in
+HB 2334—Am. by SC 15
+1 Kansas. The commissioner may engage in continuous analysis for the
+2 preparation of the examination. In addition, at the commissioner's
+3 discretion, the commissioner may make, or direct to be made, a market
+4 regulation examination of any insurance company doing business in
+5 Kansas.
+6 (b) In scheduling and determining the nature, scope and frequency of
+7 examinations of financial condition, the commissioner shall consider such
+8 matters as the results of financial statement analyses and ratios, changes in
+9 management or ownership, actuarial opinions, reports of independent
+10 certified public accountants and other criteria as set forth in the examiner's
+11 handbook adopted by the national association of insurance commissioners
+12 in effect when the commissioner exercises discretion under this subsection.
+13 (c) The commissioner shall have free access to the books and papers
+14 of any such company that relate to its business and to the books and papers
+15 kept by any of its agents and may examine under oath, which the
+16 commissioner shall be empowered to administer, the directors, officers,
+17 agents or employees of any such company in relation to its affairs,
+18 transactions and condition.
+19 (d) For the purpose of such analysis, the commissioner may require
+20 reports and other documents be filed with the commissioner.
+21 (e) The commissioner may also examine or investigate any person, or
+22 the business of any person, insofar as such examination or investigation is,
+23 in the sole discretion of the commissioner, necessary or material to the
+24 examination of the company, but such examination or investigation shall
+25 not infringe upon or extend to any communications or information
+26 accorded privileged or confidential status under any other laws of this
+27 state.
+28 (f) Upon determining that an examination should be conducted, the
+29 commissioner or the commissioner's designee shall appoint one or more
+30 examiners to perform the examination and instruct such examiners as to
+31 the scope of the examination. The commissioner may also employ such
+32 other guidelines or procedures as the commissioner may deem appropriate.
+33 (g) When making an examination under this act, the commissioner
+34 may retain attorneys, appraisers, independent actuaries, independent
+35 certified public accountants or other professionals and specialists as
+36 examiners, the reasonable cost of which shall be paid by the company that
+37 is the subject of the examination.
+38 (h) (1) Not later than 30 days following completion of the
+39 examination or at such earlier time as the commissioner shall prescribe,
+40 the examiner in charge shall file with the deparment a verified written
+41 report of examination under oath. Not later than 30 days following receipt
+42 of the verified report, the department shall transmit the report to the
+43 company examined, together with a notice that shall afford such company
+HB 2334—Am. by SC 16
+1 examined a reasonable opportunity of not more than 30 days to make a
+2 written submission or rebuttal with respect to any matters contained in the
+3 examination report.
+4 (2) Within 30 days of the end of the period allowed for the receipt of
+5 written submissions or rebuttals, the commissioner shall fully consider and
+6 review the report, together with any written submissions or rebuttals and
+7 any relevant portions of the examiners' workpapers, and enter an order:
+8 (A) Adopting the examination report as filed or with modification or
+9 corrections. If the examination report reveals that the company is operating
+10 in violation of any law, rule and regulation or prior order of the
+11 commissioner, the commissioner may order the company to take any
+12 action the commissioner considers necessary and appropriate to cure such
+13 violations;
+14 (B) rejecting the examination report with directions to the examiners
+15 to reopen the examination for purposes of obtaining additional data,
+16 documentation or information; or
+17 (C) call for and conduct a fact-finding hearing in accordance with
+18 K.S.A. 40-281, and amendments thereto, for purposes of obtaining
+19 additional documentation, data, information and testimony.
+20 (3) All orders entered as a result of revelations contained in the final
+21 examination report shall be accompanied by findings and conclusions
+22 resulting from the commissioner's consideration and review of the
+23 examination report, relevant examiner work papers and any written
+24 submissions or rebuttals. Within 30 days of the issuance of the adopted
+25 report, the company shall file affidavits executed by each of its directors
+26 stating under oath that they have received a copy of the adopted report and
+27 related orders.
+28 (4) Upon the adoption of the examination report of an association
+29 captive insurance company, the commissioner shall hold the content of the
+30 examination report as private and confidential as to the pure captive
+31 insurance company. Nothing contained in this act shall be construed to
+32 limit the commissioner's authority to use and, if appropriate, to make
+33 public any final or preliminary examination report in the furtherance of
+34 any legal or regulatory action that the commissioner may, in the
+35 commissioner's discretion, deem appropriate.
+36 (i) Nothing contained in this act shall be construed to limit the
+37 commissioner's authority to terminate or suspend any examination in order
+38 to pursue other legal or regulatory action pursuant to the insurance laws of
+39 this state.
+40 (j) All examination reports, preliminary examination reports or
+41 results, working papers, recorded information, documents and copies
+42 thereof produced by, obtained by or disclosed to the commissioner or any
+43 other person in the course of an examination made under this section are
+HB 2334—Am. by SC 17
+1 confidential and are not subject to subpoena and may not be made public
+2 by the commissioner or an employee or agent of the commissioner without
+3 the written consent of the company, except to the extent provided in this
+4 subsection. Nothing in this subsection shall prevent the commissioner
+5 from using such information in furtherance of the commissioner's
+6 regulatory authority under this act. The commissioner may grant access to
+7 such information to public officers having jurisdiction over the regulation
+8 of insurance in any other state or country or to law enforcement officers of
+9 Kansas or any other state or agency of the federal government at any time.
+10 Access may also be granted to the national association of insurance
+11 commissioners and its affiliates and the international association of
+12 insurance supervisors and its affiliates. Persons receiving such information
+13 must agree in writing prior to receiving the information to provide to it the
+14 same confidential treatment as required by this section, unless the prior
+15 written consent of the company to which it pertains has been obtained.
+16 (k) The commissioner may receive documents, materials or
+17 information, including otherwise confidential and privileged documents,
+18 materials or information, from the national association of insurance
+19 commissioners, and its affiliates and subsidiaries, and from regulatory and
+20 law enforcement officials of other foreign or domestic jurisdictions and
+21 shall maintain as confidential or privileged any document, material or
+22 information received with notice or the understanding that it is confidential
+23 or privileged under the laws of the jurisdiction that is the source of the
+24 document, material or information. Documents received pursuant to this
+25 section shall not be subject to disclosure pursuant to the open records act,
+26 K.S.A. 45-215 et seq., and amendments thereto.
+27 Sec. 14. K.S.A. 40-4312 is hereby amended to read as follows: 40-
+28 4312. No captive insurance company shall be required to join a rating
+29 organization or a policy form organization.
+30 Sec. 15. K.S.A. 40-4314 is hereby amended to read as follows: 40-
+31 4314. (a) Each captive insurance company shall, at the time it files the
+32 report required by K.S.A. 40-4307, and amendments thereto, pay a tax on
+33 all premiums received on risks located in this state.
+34 (b) Each captive insurance company shall pay the commissioner a tax
+35 at the rate of 2/ of 1% on each dollar of direct premiums collected or
+10
+36 contracted for, during the year ending December 31 next preceding, on
+37 policies or contracts of insurance written by the captive insurance
+38 company, after deducting from the direct premiums subject to the tax
+39 amounts paid to policyholders as return premiums with respect to such
+40 preceding year only, which amounts shall include only dividends or
+41 distributions of unabsorbed premiums or premium deposits returned or
+42 credited to policyholders, up to a maximum tax for such year of $500,000,
+43 except that no tax shall be due or payable as a consideration received for
+HB 2334—Am. by SC 18
+1 annuity contracts.
+2 (c) Each captive insurance company shall pay to the commissioner no
+3 later than March 1 of each year a tax at the rate of 1/ of 1% on each dollar
+10
+4 assumed reinsurance premiums collected or contracted for, during the year
+5 end December 31 next preceding, on policies or contracts of insurance
+6 written by the captive insurance company, up to a maximum tax for such
+7 year of $300,000. However, no such tax applies to premiums for risks or
+8 portion of risks that are subject to taxation on a direct basis pursuant to
+9 subsection (b), and no such tax shall be payable in connection with the
+10 receipt of assets in exchange for the assumption of loss reserves and other
+11 liabilities of another insurer under common ownership and control if such
+12 transaction is part of a plan to discontinue the operations of such other
+13 insurer and if the intent of the company by the state or any county, city or
+14 municipality within Kansas, except ad valorem taxes on real and personal
+15 property used in the production of income.
+16 (d) The tax provided in this section shall be calculated on an annual
+17 basis, notwithstanding that policies or contracts of insurance or contracts
+18 of reinsurance are issued on a multi-year basis. In the case of multi-year
+19 policies or contracts, the premium shall be prorated for purposes of
+20 determining the tax under this section.
+21 (e) The tax provided for in this section shall constitute all taxes
+22 collectible under the laws of the state of Kansas from any captive
+23 insurance company, and no other occupation tax or any other tax shall be
+24 levied or collected from any captive insurance company by the state or
+25 any political subdivision thereof.
+26 Sec. 16. K.S.A. 40-4304, 40-4312 and 40-4314 and K.S.A. 2024
+27 Supp. 40-4302 and 40-4308 are hereby repealed.
+28 Sec. 17. This act shall take effect and be in force from and after its
+29 publication in the statute book Kansas register.
+[DELETED: Apg fr id cl ce ie cs apd cl ce ie c; eg te Kpd cl ce ie cy a; pg fr aptte in fl es cd by tcK0s2B3N4b5c6N7c8c9(0a1s2o3N4(5a6(7c8(9p0p1t2(3c]
+[DELETED: Clm(ptspd cl ce ie cs as ad ls ial0p1(2i3p4(5i6(7a8(9(0c1(2p3a4c5(d cl l" ms al ls ad o6o7p8(d cl l" ms al ls ad o9o0p1(2c3t4c5N647i8(9l0f1e2(a t  tt al l rs o3a]
+[DELETED: Cmc(p(aNli0m1(2o3o4p5c6b7t8o9a0i1o2d3(4t5a6r7(8t9i0b1a2b3"4s5(6a7a8s9a0c1(2am  bs  a t c3i]
+[DELETED: Ccastl c. Us oe pd b te odcs(0a1ad pt cs ad by te c. No o2a3ie cy bn te pd cl ce i4c5a6c7(8s9i0A1t2p3r4sh pd cl a. Ng te ps of t5s6s7a8a9(0c1i2m3e4p5t6p7(8a9t0c ad e d cl as d pd cl 1a2i3l]
+[DELETED: C(o(ie fm pd cl as ad pd cl la(aai0c1(2i3a4s5(6a7f8i9o0t1(2a3i4(5s6i7(8b9c0s1d2p3(4t5a6s7g8p9o0io wh rt to a pd cl to sh pd c. T1p2r3t]
+[DELETED: Cpitc(opsa0p1(2wh te cr sh fl rs as rd by t3c4a5c6(7c8i9(o pt ct sl te et wt t0c1c2p3t4(5c6(7s8(9(0p1o2s3l4l5a6p7i8e9c0b1be ed in a fm ad un sh ts ad by t2c3(]
+[DELETED: Cts acosatpie c, pt to sh pn of on as t0c1(2u3o4(5u6p7Nw S. 6) A, c, ld l8c, p, ts ad or bs es my b9p0l1(2i3(4p5(t sl ie  sh s o r6t7a8N9a0c1c2o3(4m5r6N7i8p9(0p1a2p3(g te ps of te is s]
+[DELETED: Cr(c(spNap0a1p2(3c4t5(6a7c8s9(0o1b2a3r4 5c6n7a8pd cl sl he sg to ar ad pn fr a9a0N1i2f3t4o5p6d7(8s9(s f , l l 0o1a2A3ds sl ie te de of fn as a s. U]
+[DELETED: Ccfap(ctct0(1pl l l 2s3a4a5t6f7b8p9o0(1c2a3a4d5b6p7r8c9S0f1i2c394a5t6(7o8a950(1o2o3i]
+[DELETED: C1p(ilced fy fl in ie cy sl bpa(0w1c243f4a5t6(7a8o9(y ce ie cy my pe w0cn i, ie in te ne of w1cn ie ad re of sh ps u2p3s4(5a6(7c8(9u0a1(2s s3i4(5a6(s s bd of d, m, p, m7c8m9(0(1b2(3i]
+[DELETED: C1(A cy of te at ce ie co(ai(e cs ls pn pm of is pt ai(o0(1b2(3c4r5c6(7r8s9i0(a st cg tt te at ce i1c2t3(a st ig te gc as in wh t4a5(6p7f, ig m, u, a, a8i9e0(1b2c3(4a5m6(7a8t9(0s1(2m3i]
+[DELETED: C1b(s a cn pt to te ie of a pca(ppn wo sl cl ad me te at ce aa(r r 0p1t2p3a4f5t6(7t8a9(021$2c3f4d5a6t7(h ce ie c ay in ee o8J920(f te cr is sd tt te ds a1s2pt 3a4(e r 5f6M7(d fy fl in i8c9t0s1p2(3c]
+[DELETED: C1ec(osd(f(0n1(2c3(4c5e6c7l8by te td fy fl in i9c0id as hd by te td fy f1in ie cy to sy cs of sh q2p3i4s5s6t7a8a9(0o1p2(l 3c4(5s6(s my ao be gd to te nl an o7ie cs ad is a, ad te i8a9w0c1g2(3o]
+[DELETED: C1pcoopbtts0g1S243a i s s4u5(6$7(n te ce of an an ce ie c8i9a0a1(2c3(4c5t6i7(8c9b0t1(2N3m4c5(6i7a8e9S0f1l2b3p]
+[DELETED: C1Kpn of te e. In a, at te cdrK(emm0c1h2i3(4o5k6c7a8t9(0r1(2t3i4e5nt 6a7s8(9c0e1t2o3(4my rn a, a, it a, i5c6e7i8() (t lr tn 30 ds fg cn of t9e0t1r2o3c]
+[DELETED: C1ewe(wra(c0i vf  r a rr r  o t1c2a3v4(5t6d7(8K. 4, ad as t, fr ps of o9a0(1e2rg fm te cs cn ad rw of t3et s 4s5r6s7r8(9c0e1i2l3p4ay ll or ry an tt te cr m, in t5c6(7c8t9t0(l en r, py en rs o1r2t3o]
+[DELETED: C1cbtsfm ug sh in in fe of te crsoK0A1cs d s s e l 2i3m4s5w6(e cr my re d, ms o7i8mm 9c0l1s2i3o4d5s6K7S849o0S142r3a4(5a / 6c7ps or cs of ie wn b te ce i8c9a0p1d2c3e]
+[DELETED: C1a(l / aewyps0r1l2t3i4m5p6(7b8o9p0d1(2c3i4l5a6S7S8S9p]
+
+
+================================================================================
+
+Raw Text:
+As Amended by Senate Committee
+As Amended by House Committee
+Session of 2025
+HOUSE BILL No. 2334
+By Committee on Insurance
+Requested by Representative Tarwater
+2-7
+1 AN ACT concerning insurance; relating to captive insurance companies;
+2 providing for incorporated cell captive insurance companies and
+3 protected cell captive insurance companies; enacting the Kansas
+4 protected cell captive insurance company act; providing for a
+5 provisional certificate of authority; expanding the types of insurance
+6 that a captive insurance company may provide; extending the period of
+7 time in-between financial examinations conducted by the
+8 commissioner; amending K.S.A. 40-4304, 40-4312 and 40-4314 and
+9 K.S.A. 2024 Supp. 40-4302 and 40-4308 and repealing the existing
+10 sections.
+11
+12 Be it enacted by the Legislature of the State of Kansas:
+13 New Section 1. Sections 1 through 10, and amendments thereto, shall
+14 be known and may be cited as the Kansas protected cell captive insurance
+15 company act.
+16 New Sec. 2. (a) One or more sponsors may form a protected cell
+17 captive insurance company under this act. This act shall apply to protected
+18 cell captive insurance companies.
+19 (b) A protected cell captive insurance company shall be incorporated
+20 as a stock insurer with its capital divided into shares and held by the
+21 stockholders as a mutual corporation, as a nonprofit corporation with one
+22 or more members or as a limited liability company.
+23 New Sec. 3. As used in this act, unless the context requires otherwise:
+24 (a) "Act" means the Kansas protected cell captive insurance company
+25 act;
+26 (b) "general account" means all assets and liabilities of a protected
+27 cell captive insurance company not attributable to a protected cell;
+28 (c) "participant" means a person or an entity, authorized to be a
+29 participant by section 5, and amendments thereto, or any affiliate of a
+30 participant, that is insured by a protected cell captive insurance company if
+31 the losses of the participant are limited through a participant contract;
+32 (d) "participant contract" means a contract by which a protected cell
+33 captive insurance company insures the risks of a participant and limits the
+
+HB 2334—Am. by SC 2
+1 losses of each such participant to its pro rata share of the assets of one or
+2 more protected cells identified in such participant contract;
+3 (e) "protected cell" means a separate account that is established by a
+4 protected cell captive insurance company formed or licensed pursuant to
+5 this act and in which an identified pool of assets and liabilities are
+6 segregated and insulated by means of this act from the remainder of the
+7 protected cell captive insurance company's assets and liabilities in
+8 accordance with the terms of one or more participant contracts to fund the
+9 liability of the protected cell captive insurance company with respect to the
+10 participants as set forth in the participant contracts;
+11 (f) "protected cell assets" means all assets, contract rights and general
+12 intangibles identified with and attributable to a specific protected cell of a
+13 protected cell captive insurance company;
+14 (g) "protected cell captive insurance company" means any captive
+15 insurance company:
+16 (1) In which the minimum capital and surplus required by the chapter
+17 are provided by one or more sponsors;
+18 (2) that is formed or licensed under this act;
+19 (3) that insures the risks of separate participants through participant
+20 contracts; and
+21 (4) that funds its liability to each participant through one or more
+22 protected cells and segregates the assets of each protected cell from the
+23 assets of other protected cells and from the assets of the protected cell
+24 captive insurance company's general account;
+25 (h) "protected cell liabilities" means all liabilities and other
+26 obligations identified with and attributed to a specific protected cell of a
+27 protected cell captive insurance company; and
+28 (i) "protected cell liabilities" means all liabilities and other
+29 obligations identified with and attributed to a specific protected cell of a
+30 protected cell captive insurance company; and
+31 (j) "sponsor" means any person or entity that is approved by the
+32 commissioner to provide all or part of the capital and surplus required by
+33 this act and organize and operate a protected cell captive insurance
+34 company.
+35 New Sec. 4. In addition to the information required by K.S.A. 40-
+36 4302, and amendments thereto, each applicant-protected cell captive
+37 insurance company shall file with the commissioner the following:
+38 (a) Materials demonstrating how the applicant will account for the
+39 loss and expense experience of each protected cell at a level of detail
+40 found to be sufficient by the commissioner, and how it will report such
+41 experience to the commissioner;
+42 (b) a statement acknowledging that all financial records of the
+43 applicant, including records pertaining to any protected cells, shall be
+
+HB 2334—Am. by SC 3
+1 made available for inspection or examination by the commissioner or the
+2 commissioner's designated agent;
+3 (c) all contracts or sample contracts between the applicant and any
+4 participants; and
+5 (d) evidence that expenses shall be allocated to each protected cell in
+6 a fair and equitable manner.
+7 New Sec. 5. A protected cell captive insurance company formed or
+8 licensed under this chapter may establish and maintain one or more
+9 incorporated or unincorporated protected cells to insure risks of one or
+10 more participants, subject to the following conditions:
+11 (a) (1) A protected cell captive insurance company may establish one
+12 or more protected cells if the commissioner has approved in writing a plan
+13 of operation or amendments to a plan of operation submitted by the
+14 protected cell captive insurance company with respect to each protected
+15 cell. A plan of operation includes, but is not limited to, the specific
+16 business objectives and investment guidelines of the protected cell, except
+17 that the commissioner may require additional information in the plan of
+18 operation. The commissioner may put into effect a plan of operation or
+19 amendments to a plan of operation on or before the date that the approval
+20 is signed if the effective date is not earlier than the date that the plan of
+21 operation or amendments to the plan of operation were filed with the
+22 department;
+23 (2) upon the commissioner's written approval of the plan of operation,
+24 the protected cell captive insurance company, in accordance with the
+25 approved plan of operation, may attribute insurance obligations with
+26 respect to its insurance business to the protected cell;
+27 (3) a protected cell shall have its own distinct name or designation
+28 that shall include the words "protected cell" or "incorporated cell." An
+29 incorporated cell formed as a series of a limited liability company shall
+30 bear a distinct name or designation as reflected in its formation documents
+31 and include the words "series cell." Such names or designations may also
+32 be reasonably abbreviated, including, without limitation, pc or p.c. for
+33 "protected cell," ic, i.c., ipc, or i.p.c. for "incorporated cell" and sc, s.c.,
+34 spc or s.p.c. for "series cell";
+35 (4) the protected cell captive insurance company shall transfer all
+36 assets attributable to a protected cell to one or more separately established
+37 and identified protected cell accounts bearing the name or designation of
+38 such protected cell. Protected cell assets shall be held in the protected cell
+39 accounts for the purpose of satisfying the obligations of such protected
+40 cell;
+41 (5) an incorporated protected cell may be organized and operated in
+42 any form of business organization authorized by the commissioner,
+43 including, but not limited to, an individual series of a limited liability
+
+HB 2334—Am. by SC 4
+1 company as provided for in the Kansas revised limited liability company
+2 act. Each incorporated protected cell of a protected cell captive insurer
+3 shall be treated as a captive insurer for purposes of this act and shall have
+4 the power to enter into contracts, including an individual series of a limited
+5 liability company. Unless otherwise permitted by the organizational
+6 documents of a protected cell captive insurer, each incorporated protected
+7 cell of the protected cell captive insurer shall have the same directors,
+8 secretary and registered office as the protected cell captive insurer; and
+9 (6) all attributions of assets and liabilities between a protected cell
+10 and the general account shall be in accordance with the plan of operation
+11 and participant contracts approved by the commissioner. No other
+12 attribution of assets or liabilities shall be made by a protected cell captive
+13 insurance company between the protected cell captive insurance
+14 company's general account and its protected cells. Any attribution of assets
+15 and liabilities between the general account and a protected cell shall be in
+16 cash or in readily marketable securities with established market values.
+17 (b) The creation of a protected cell does not create, with respect to
+18 such protected cell, a legal person separate from the protected cell captive
+19 insurance company unless the protected cell is an incorporated cell.
+20 Amounts attributed to a protected cell under this section, including assets
+21 transferred to a protected cell account, are deemed to be owned by the
+22 protected cell. No protected cell captive insurance company shall be, or
+23 represent itself as a trustee with respect to those protected cell assets of
+24 such protected cell account. Notwithstanding the provisions of this
+25 subsection, the protected cell captive insurance company may allow for a
+26 security interest to attach to protected cell assets or a protected cell
+27 account when in favor of a creditor of the protected cell and otherwise
+28 allowed under applicable law.
+29 (c) This act shall not be construed to prohibit the protected cell
+30 captive insurance company from contracting with or arranging for an
+31 investment advisor, commodity trading advisor or other third party to
+32 manage the protected cell assets of a protected cell if all remuneration,
+33 expenses and other compensation of the third-party advisor or manager are
+34 payable from the protected cell assets of such protected cell and not from
+35 the protected cell assets of other protected cells or the assets of the
+36 protected cell captive insurance company's general account.
+37 (d) (1) A protected cell captive insurance company shall establish
+38 administrative and accounting procedures necessary to properly identify
+39 the one or more protected cells of the protected cell captive insurance
+40 company and the protected cell assets and protected cell liabilities
+41 attributable to the protected cells. The directors of a protected cell captive
+42 insurance company shall keep protected cell assets and protected cell
+43 liabilities:
+
+HB 2334—Am. by SC 5
+1 (A) Separate and separately identifiable from the assets and liabilities
+2 of the protected cell captive insurance company's general account; and
+3 (B) attributable to one protected cell that is separate and separately
+4 identifiable from protected cell assets and protected cell liabilities
+5 attributable to other protected cells.
+6 (2) If subsection (d)(1) is violated, then the remedy of tracing is
+7 applicable to protected cell assets when commingled with protected cell
+8 assets of other protected cells or the assets of the protected cell captive
+9 insurance company's general account. The remedy of tracing shall not be
+10 construed as an exclusive remedy.
+11 (e) When establishing a protected cell, the protected cell captive
+12 insurance company shall attribute to the protected cell assets a value that is
+13 at least equal to the reserves and other insurance liabilities attributed to
+14 such protected cell.
+15 (f) Each protected cell shall be accounted for separately on the books
+16 and records of the protected cell captive insurance company to reflect the
+17 financial condition and results of operations of such protected cell, net
+18 income or loss, dividends or other distributions to participants and such
+19 other factors as may be provided in the participant contract or required by
+20 the commissioner.
+21 (g) No asset of a protected cell shall be chargeable with liabilities
+22 arising out of any other insurance business that the protected cell captive
+23 insurance company may conduct.
+24 (h) No sale, exchange or other transfer of assets shall be made by
+25 such protected cell captive insurance company between or among any of
+26 its protected cells without the consent of such protected cells.
+27 (i) No sale, exchange, transfer of assets, dividend or distribution shall
+28 be made from a protected cell to another protected cell captive insurance
+29 company or participant without the commissioner's approval. In no event
+30 shall the commissioner's approval be given if the sale, exchange, transfer,
+31 dividend or distribution would result in the insolvency or impairment of a
+32 protected cell.
+33 (j) All attributions of assets and liabilities to the protected cells and
+34 the general account shall be in accordance with the plan of operation
+35 approved by the commissioner. No other attribution of assets or liabilities
+36 shall be made by a protected cell captive insurance company between its
+37 general account and any protected cell or between any protected cells. The
+38 protected cell captive insurance company shall attribute all insurance
+39 obligations, assets and liabilities relating to a reinsurance contract entered
+40 into with respect to a protected cell to such protected cell. The
+41 performance under such reinsurance contract and any tax benefits, losses,
+42 refunds or credits allocated pursuant to a tax allocation agreement to which
+43 the protected cell captive insurance company is a party, including any
+
+HB 2334—Am. by SC 6
+1 payments made by or due to be made to the protected cell captive
+2 insurance company pursuant to the terms of such agreement, shall reflect
+3 the insurance obligations, assets and liabilities relating to the reinsurance
+4 contract that are attributed to such protected cell.
+5 (k) In connection with the conservation, rehabilitation or liquidation
+6 of a protected cell captive insurance company, the assets and liabilities of a
+7 protected cell shall, to the extent that the commissioner determines that
+8 such assets and liabilities are separable, at all times be kept separate from
+9 and shall not be commingled with those of other protected cells and the
+10 protected cell captive insurance company.
+11 (l) Each protected cell captive insurance company shall annually file
+12 with the commissioner such financial reports as required by the
+13 commissioner. Any such financial report shall include, without limitation,
+14 accounting statements detailing the financial experience of each protected
+15 cell.
+16 (m) Each protected cell captive insurance company shall notify the
+17 commissioner in writing within 10 business days of any protected cell that
+18 is insolvent or otherwise unable to meet its claim or expense obligations.
+19 (n) No participant contract shall take effect without the
+20 commissioner's prior written approval. The addition of each new protected
+21 cell, the withdrawal of any participant or the termination of any existing
+22 protected cell shall constitute a change in the plan of operation requiring
+23 the commissioner's prior written approval.
+24 (o) The business written by a protected cell captive insurance
+25 company, with respect to each protected cell, shall be:
+26 (1) Fronted by an insurance company licensed under the laws of any
+27 state;
+28 (2) reinsured by a reinsurer authorized or approved by this state; or
+29 (3) secured by a trust fund in the United States for the benefit of
+30 policyholders and claimants or funded by an irrevocable letter of credit or
+31 other arrangement that is acceptable to the commissioner. The amount of
+32 security provided shall be not less than the reserves associated with those
+33 liabilities that are neither fronted nor reinsured, including reserves for
+34 losses, allocated loss adjustment expenses, incurred but not reported losses
+35 and unearned premiums for business written through the participant's
+36 protected cell. The commissioner may require the protected cell captive
+37 insurance company to increase the funding of any security arrangement
+38 established under this subsection. If the form of security is a letter of
+39 credit, the letter of credit shall be issued or confirmed by a bank approved
+40 by the commissioner. A trust maintained pursuant to this subsection shall
+41 be established in a form and upon such terms approved by the
+42 commissioner.
+43 (p) Notwithstanding this act or other laws of Kansas, and in addition
+
+HB 2334—Am. by SC 7
+1 to article 36 of chapter 40 of the Kansas Statutes Annotated, and
+2 amendments thereto, in the event of an insolvency of a protected cell
+3 captive insurance company in which the commissioner determines that one
+4 or more protected cells remain solvent, the commissioner may separate
+5 such cells from the protected cell captive insurance company and may
+6 allow, on application of the protected cell captive insurance company, for
+7 the conversion of such protected cells into one or more new or existing
+8 protected cell captive insurance companies or one or more other captive
+9 insurance companies, pursuant to such plan of operation as the
+10 commissioner deems acceptable.
+11 (q) Biographical affidavits shall not be required for participants in
+12 unincorporated cells. Biographical affidavits shall be required for owners
+13 of incorporated cells, including series members of a series LLC.
+14 (r) A protected cell captive insurance company formed or licensed
+15 under this act may establish and operate unincorporated and incorporated
+16 protected cells.
+17 New Sec. 6. (a) Associations, corporations, limited liability
+18 companies, partnerships, trusts and other business entities may be
+19 participants in any protected cell captive insurance company formed or
+20 licensed under this chapter.
+21 (b) A sponsor may be a participant in a protected cell captive
+22 insurance company.
+23 (c) A participant shall not be required to be a shareholder of the
+24 protected cell captive insurance company or any affiliate thereof.
+25 (d) A participant shall insure only such participant's own risks
+26 through a protected cell captive insurance company, unless otherwise
+27 approved by the commissioner.
+28 New Sec. 7. (a) Notwithstanding the provisions of section 4, and
+29 amendments thereto, the assets of two or more protected cells may be
+30 combined for purposes of investment, and such combination shall not be
+31 construed as defeating the segregation of such assets for accounting or
+32 other purposes.
+33 (b) Notwithstanding any other provision of this act, the commissioner
+34 may approve the use of alternative reliable methods of valuation and
+35 rating.
+36 New Sec. 8. (a) Except as otherwise provided in this section the
+37 insurers supervision, rehabilitation and liquidation act shall apply to a
+38 protected cell captive insurance company.
+39 (b) Upon any order of supervision, rehabilitation, or liquidation of a
+40 protected cell captive insurance company, the receiver shall manage the
+41 assets and liabilities of the protected cell captive insurance company
+42 pursuant to this section.
+43 (c) Notwithstanding the provisions of the insurers supervision,
+
+HB 2334—Am. by SC 8
+1 rehabilitation and liquidation act:
+2 (1) No assets of a protected cell shall be used to pay any expenses or
+3 claims other than those attributable to such protected cell; and
+4 (2) a protected cell captive insurance company's capital and surplus
+5 shall be available at all times to pay any expenses of or claims against the
+6 protected cell captive insurance company.
+7 New Sec. 9. (a) The pleadings in any legal action brought by or
+8 against a protected cell captive insurance company shall specify which
+9 protected cell or cells should be named as a party to the suit. If the general
+10 account is party to this suit, it shall be separately identified in the
+11 pleadings as if it were a protected cell.
+12 (b) A legal action brought against a protected cell captive insurance
+13 company that does not specify one or more protected cells shall be deemed
+14 to have been brought against the general account only.
+15 (c) Any protected cell that is not named in the pleadings of the legal
+16 action shall not be deemed to be a party to the legal action. Any protected
+17 cell that is erroneously named as a party or named without proper cause
+18 shall be entitled to prompt dismissal from the legal action.
+19 (d) Unless specified by the plan of operation, participant contract or
+20 other prior contractual agreement, the assets of one protected cell may not
+21 be encumbered or seized to satisfy the obligations of or a judgment against
+22 any other protected cell. No protected cell shall have a duty to defend the
+23 rights and obligations of any other protected cell.
+24 (e) In any legal action involving a protected cell captive insurance
+25 company or a protected cell, any papers, documents or property of a
+26 nonparty protected cell shall be afforded the same status during discovery
+27 as the documents or property of any other unrelated third party. A nonparty
+28 protected cell shall have standing to appear and petition for any
+29 appropriate relief to protect the confidentiality of its papers or documents.
+30 New Sec. 10. (a) (1) Upon the application of a protected cell captive
+31 insurance company, one of its protected cells may be converted to any
+32 form of captive insurance company authorized pursuant to chapter 40 of
+33 the Kansas Statutes Annotated, and amendments thereto, with the consent
+34 of the commissioner. The commissioner may issue to the converting
+35 protected cell a certificate of authority with an effective date of its original
+36 date of formation as a protected cell.
+37 (2) The following shall be the criteria for determining the filing or
+38 submission requirements of:
+39 (A) A series of a limited liability company, the cell shall file
+40 organizational documents with the secretary of state that comply with
+41 article 43 of chapter 40 and chapters 17 and 56A of the Kansas Statutes
+42 Annotated, and amendments thereto, as applicable. The organizational
+43 documents shall include the date of formation as a series. Upon
+
+HB 2334—Am. by SC 9
+1 conversion, the formation date of the series shall be deemed as the
+2 formation date of the new entity. The new entity shall possess all assets
+3 and liabilities, including outstanding insurance liabilities, owned by the
+4 predecessor series;
+5 (B) any other type of incorporated protected cell entity, then the
+6 converting protected cell shall submit amended organizational documents
+7 to the secretary of state that comply with article 43 of chapter 40 and
+8 chapters 17 and 56A of the Kansas Statutes Annotated, and amendments
+9 thereto, as applicable; or
+10 (C) neither a series of a limited liability company nor an incorporated
+11 protected cell, the cell shall file organizational documents with the
+12 secretary of state that comply with article 43 of chapter 40 and chapters 17
+13 and 56A of the Kansas Statutes Annotated, and amendments thereto, as
+14 applicable, or any other applicable provision governing formation of that
+15 type of entity. The organizational documents shall include the date of
+16 formation as a cell. Upon conversion, the formation date of the cell shall
+17 be deemed as the formation date of the new entity. The new entity shall
+18 possess all assets and liabilities, including outstanding insurance liabilities,
+19 owned by the predecessor cell.
+20 (b) A captive insurance company may apply to the commissioner for
+21 conversion to become a protected cell captive insurance company under
+22 any form permitted under this section. Upon compliance with this section,
+23 approval by the commissioner and the filing of amended organizational
+24 documents with the secretary of state, the captive insurance company shall
+25 be issued a revised certificate of authority. The effective date of the revised
+26 protected cell captive insurance company's certificate of authority shall
+27 remain the same as the effective date of the prior captive insurance
+28 company.
+29 Sec. 11. K.S.A. 2024 Supp. 40-4302 is hereby amended to read as
+30 follows: 40-4302. (a) Any captive insurance company, when permitted by
+31 its organizational documents, may apply to the commissioner for a
+32 certificate of authority to do any and all insurance comprised in K.S.A. 40-
+33 901 et seq., 40-1102(1)(a), (1)(c) through (1)(n), and amendments thereto,
+34 and to issue life, accident and health insurance policies provided, except
+35 that:
+36 (1) NoA pure captive insurance company shall not insure any risks
+37 other than those of its parent and affiliated companies and, upon prior
+38 approval of the commissioner, any controlled unaffiliated business up to
+39 5% of total direct written premium or combination thereof;
+40 (2) no association captive insurance company shall insure any risks
+41 other than those of its association and those of the member organizations
+42 of its association. No association captive insurance company shall expose
+43 itself to loss on any one risk or hazard in an amount exceeding 10% of its
+
+HB 2334—Am. by SC 10
+1 paid-up capital and surplus;
+2 (3) no captive insurance company shall provide personal lines of
+3 insurance, workers' compensation, employers' liability insurance coverage,
+4 long-term care coverage, critical care coverage, surety, title insurance,
+5 credit insurance or any component thereof, except that a technology-
+6 enabled fiduciary financial institution insurance company shall be
+7 permitted to provide contracts of suretyship and credit insurance in
+8 accordance with K.S.A. 2024 Supp. 40-4354, and amendments thereto;
+9 (4) noa captive insurance company shall accept or cede may provide
+10 workers compensation insurance, insurance in the nature of workers
+11 compensation insurance and the reinsurance except as provided in K.S.A.
+12 40-4311, and amendments thereto of such policies unless prohibited by
+13 federal law, the provisions of chapter 40 of the Kansas Statutes Annotated,
+14 and amendments thereto, or any other state having jurisdiction over the
+15 transaction;
+16 (5) a captive insurance company may provide excess or stop-loss
+17 accident and health insurance unless prohibited by federal law or the laws
+18 of the state having jurisdiction over the transaction;
+19 (6) any captive insurance company may provide workers
+20 compensation insurance, insurance in the nature of workers'
+21 compensation insurance and reinsurance of such policies unless
+22 prohibited by federal law, the laws of the state of Kansas or any other
+23 state having jurisdiction over the transaction;
+24 (7) no captive insurance company shall provide accident and health,
+25 accident and health, life insurance or annuities on a direct basis;
+26 (6)(8) no captive insurance company authorized as a life insurance
+27 company shall transact business other than life insurance; and
+28 (7)(9) no captive insurance company authorized to transact business
+29 under article 9 or 11 of chapter 40 of the Kansas Statutes Annotated, and
+30 amendments thereto, shall engage in the business of life insurance.
+31 (b) No captive insurance company organized under the laws of this
+32 state shall do any insurance business in this state unless such captive
+33 insurance company:
+34 (1) It First obtains from the commissioner a certificate of authority
+35 authorizing it to do insurance business in this state;
+36 (2) has its board of directors, members, partners, managers,
+37 committee of managers or other governing body holds hold at least one
+38 meeting each year in this state;
+39 (3) it maintains its principal place of business in this state; and
+40 (4) it authorizes the commissioner to accept service of process on its
+41 behalf in accordance with K.S.A. 40-218, and amendments thereto.
+42 (c) Before receiving a certificate of authority, an applicant captive
+43 insurance company shall file with the commissioner:
+
+HB 2334—Am. by SC 11
+1 (1) A copy of the applicant captive insurance company's
+2 organizational documents; and
+3 (2) a plan of operation or a feasibility study describing the anticipated
+4 activities and results of the applicant captive insurance company that shall
+5 include:
+6 (A) The company's loss prevention program of its parent and
+7 insureds, as applicable;
+8 (B) historical and expected loss experience of the risks to be insured
+9 or reinsured by the applicant captive insurance company;
+10 (C) pro forma financial statements and projections of the proposed
+11 business operations of the applicant captive insurance company;
+12 (D) an analysis of the adequacy of the applicant captive insurance
+13 company's proposed premiums, assets and capital and surplus levels
+14 relative to the risks to be insured or reinsured by the captive insurance
+15 company;
+16 (E) a statement of the applicant captive insurance company's net
+17 retained limited liability on any contract of insurance or reinsurance it that
+18 such insurance company intends to issue and the nature of any reinsurance
+19 it intends to cede;
+20 (F) a statement certifying that the applicant captive insurance
+21 company's investment policy is in compliance with this act and specifying
+22 the type of investments to be made;
+23 (G) a statement identifying the geographic areas in which the
+24 applicant captive insurance company intends to operate;
+25 (H) a statement identifying the persons or organizations that will
+26 perform the applicant captive insurance company's major operational
+27 functions, including management, underwriting, accounting, asset
+28 investment, claims adjusting and loss control and the adequacy of the
+29 expertise, experience and character of such persons or organizations; and
+30 (I) whenever required by the commissioner, an appropriate opinion
+31 by a qualified independent actuary regarding the adequacy of the applicant
+32 captive insurance company's proposed capital, surplus and premium levels;
+33 (3) a description of the coverages, deductibles, coverage limits, rates
+34 and forms, together with any additional information that the commissioner
+35 may require;
+36 (4) such other items deemed to be relevant by the commissioner in
+37 ascertaining whether the proposed captive insurance company will be able
+38 to meet its obligations; and
+39 (5) any modification or change in the items required under this
+40 subsection that shall require the prior approval of the commissioner.
+41 (d) Notwithstanding any other provision of this act, the commissioner
+42 may issue a provisional certificate of authority to any applicant captive
+43 insurance company if the commissioner deems that the public interest will
+
+HB 2334—Am. by SC 12
+1 be served by the issuance of such a provisional certificate.
+2 (1) As a condition precedent to the issuance of a provisional
+3 certificate of authority under this subsection, the applicant shall have filed
+4 a complete application containing all information required in subsection
+5 (c) and paid all necessary fees. The commissioner shall have made a
+6 preliminary finding that the expertise, experience and character of the
+7 person who shall control and manage the applicant captive are
+8 acceptable.
+9 (2) The commissioner may by order limit the authority of any
+10 provisional certificate holder in any way deemed to be necessary in order
+11 to protect insureds and the public. The commissioner may revoke a
+12 provisional certificate holder if the interests of the insureds or the public
+13 are endangered. If the applicant fails to complete the regular application
+14 for a certificate of authority, the provisional certificate of authority shall
+15 terminate by operation of law.
+16 (3) The commissioner may enact all rules and regulations necessary
+17 to implement a program for the issuance of provisional certificates of
+18 authority.
+19 (d)(e) Each captive insurance company not in existence on January 1,
+20 2018, shall pay to the commissioner a nonrefundable fee of $10,000 up to
+21 $2,500 for examining, investigating and processing its application for a
+22 certificate of authority. The commissioner is authorized to retain legal,
+23 financial, actuarial, analysis and examination services from outside the
+24 department, the reasonable costs of which shall be charged against the
+25 applicant. In addition, it shall pay a renewal fee of $2,500 for each year
+26 thereafter of $10,000.
+27 (e)(f) Each captive insurance company already in existence on
+28 January 1, 2018, shall pay an annual renewal fee of $110 until January 1,
+29 2028, after which date, the provisions of subsection (d) (e) shall apply.
+30 (f)(g) If the commissioner is satisfied that the documents and
+31 statements that such captive insurance company has filed comply with the
+32 provisions of this act, the commissioner may grant a certificate of
+33 authority authorizing a:
+34 (1) Captive insurance company other than a technology-enabled
+35 fiduciary financial institution to do insurance business in this state until
+36 March 1 thereafter, which certificate of authority may be renewed; and
+37 (2) technology-enabled fiduciary financial institution insurance
+38 company to do insurance business in this state until the later of March 1
+39 thereafter or the maturity date of the last payment-in-kind asset held by
+40 such technology-enabled fiduciary financial institution insurance company
+41 pursuant to this act.
+42 (g)(h) Information submitted under this section shall be and remain
+43 confidential, and shall not be made public by the commissioner or any
+
+HB 2334—Am. by SC 13
+1 employee or agent of the commissioner without the written consent of the
+2 company, except that:
+3 (1) Such information may be discoverable by a party in a civil action
+4 or contested case to which the captive insurance company that submitted
+5 such information is a party, upon a showing by the party seeking to
+6 discover such information that:
+7 (A) The information sought is relevant to and necessary for the
+8 furtherance of such action or case;
+9 (B) the information sought is unavailable from other non-confidential
+10 nonconfidential sources;
+11 (C) a subpoena issued by a judicial or administrative officer or
+12 competent jurisdiction has been submitted to the commissioner; and
+13 (D) the privacy of a qualified policyholder shall be protected in any
+14 court proceeding concerning such qualified policyholder if the technology-
+15 enabled fiduciary financial institution insurance company so petitions the
+16 court. Upon the filing of such petition, any information, including, but not
+17 limited to, an instrument, inventory, statement or verified report produced
+18 by the technology-enabled fiduciary financial institution insurance
+19 company regarding a policy issued to a qualified policyholder or payment-
+20 in-kind assets held by the technology-enabled fiduciary financial
+21 institution insurance company to satisfy claims of such qualified
+22 policyholder, all payment-in-kind policies, all petitions relevant to such
+23 information and all court orders thereon, shall be sealed upon filing and
+24 shall not be made a part of the public record of the proceeding, except that
+25 such petition shall be available to the court, the commissioner, the
+26 technology-enabled fiduciary financial institution insurance company, their
+27 attorneys and to such other interested persons as the court may order upon
+28 a showing of good cause;
+29 (2) the commissioner may disclose such information to a public
+30 officer having jurisdiction over the regulation of insurance in another state,
+31 provided that:
+32 (A) Such public official shall agree in writing to maintain the
+33 confidentiality of such information; and
+34 (B) the laws of the state in which such public official serves requires
+35 such information to be and to remain confidential;
+36 (3) access may also be granted to the national association of
+37 insurance commissioners and its affiliates, and the international
+38 association of supervisors and its affiliates. Such parties must agree in
+39 writing prior to receiving the information to provide to it the same
+40 confidential treatment as required by this section, unless the company
+41 gives prior written consent; and
+42 (4) the privacy of those who have established an affiliated fidfin trust
+43 or alternative asset custody account shall be protected in any court
+
+HB 2334—Am. by SC 14
+1 proceeding concerning such trust or custody account if the acting trustee,
+2 custodian, trustor or any beneficiary so petition the court. Upon the filing
+3 of such a petition, the instrument, inventory, statement filed by any trustee
+4 or custodian, annual verified report of the trustee or custodian and all
+5 petitions relevant to trust administration and all court orders thereon shall
+6 be sealed upon filing and shall not be made a part of the public record of
+7 the proceeding, except that such petition shall be available to the court, the
+8 trustor, the trustee, the custodian, any beneficiary, their attorneys and to
+9 such other interested persons as the court may order upon a showing of
+10 good cause.
+11 Sec. 12. K.S.A. 40-4304 is hereby amended to read as follows: 40-
+12 4304. (a) No captive insurance company shall be issued a certificate of
+13 authority unless it such company shall possess and thereafter maintain
+14 unimpaired paid-in capital and surplus of not less than:
+15 (1) In the case of a pure captive insurance company, not less than
+16 $250,000, in the case of a pure captive insurance company; and
+17 (2) in the case of an association captive insurance company
+18 incorporated as a stock insurer, not less than $500,000, in the case of an
+19 association captive insurance company incorporated as a stock insurer;
+20 and
+21 (3) $100,000, in the case of a protected cell captive insurance
+22 company.
+23 (b) Such capital may be in the form of cash or, upon approval of the
+24 commissioner, an irrevocable letter of credit issued by a bank chartered by
+25 the state of Kansas or the United States comptroller of currency, domiciled
+26 in Kansas, and approved by the commissioner.
+27 (c) In connection with the issuance of a certificate of authority, the
+28 commissioner may prescribe additional minimum capital and surplus
+29 based upon the type, volume and nature of the insurance business
+30 transacted.
+31 (d) Loans of minimum capital and surplus funds shall be prohibited.
+32 Notwithstanding the foregoing, the minimum capital and surplus funds
+33 may be received by the issuance of a surplus note as approved by the
+34 commissioner.
+35 (e) No pure captive insurance company shall make a loan or an
+36 investment in its parent company or affiliates without prior written
+37 approval of the commissioner, and any such loan or investment shall be
+38 evidenced by documentation approved by the commissioner.
+39 Sec. 13. K.S.A. 2024 Supp. 40-4308 is hereby amended to read as
+40 follows: 40-4308. (a) Whenever the commissioner deems necessary, but at
+41 least once every three five years, the commissioner may make, or direct to
+42 be made, a financial examination of any captive insurance company in the
+43 process of organization or applying for admission or doing business in
+
+HB 2334—Am. by SC 15
+1 Kansas. The commissioner may engage in continuous analysis for the
+2 preparation of the examination. In addition, at the commissioner's
+3 discretion, the commissioner may make, or direct to be made, a market
+4 regulation examination of any insurance company doing business in
+5 Kansas.
+6 (b) In scheduling and determining the nature, scope and frequency of
+7 examinations of financial condition, the commissioner shall consider such
+8 matters as the results of financial statement analyses and ratios, changes in
+9 management or ownership, actuarial opinions, reports of independent
+10 certified public accountants and other criteria as set forth in the examiner's
+11 handbook adopted by the national association of insurance commissioners
+12 in effect when the commissioner exercises discretion under this subsection.
+13 (c) The commissioner shall have free access to the books and papers
+14 of any such company that relate to its business and to the books and papers
+15 kept by any of its agents and may examine under oath, which the
+16 commissioner shall be empowered to administer, the directors, officers,
+17 agents or employees of any such company in relation to its affairs,
+18 transactions and condition.
+19 (d) For the purpose of such analysis, the commissioner may require
+20 reports and other documents be filed with the commissioner.
+21 (e) The commissioner may also examine or investigate any person, or
+22 the business of any person, insofar as such examination or investigation is,
+23 in the sole discretion of the commissioner, necessary or material to the
+24 examination of the company, but such examination or investigation shall
+25 not infringe upon or extend to any communications or information
+26 accorded privileged or confidential status under any other laws of this
+27 state.
+28 (f) Upon determining that an examination should be conducted, the
+29 commissioner or the commissioner's designee shall appoint one or more
+30 examiners to perform the examination and instruct such examiners as to
+31 the scope of the examination. The commissioner may also employ such
+32 other guidelines or procedures as the commissioner may deem appropriate.
+33 (g) When making an examination under this act, the commissioner
+34 may retain attorneys, appraisers, independent actuaries, independent
+35 certified public accountants or other professionals and specialists as
+36 examiners, the reasonable cost of which shall be paid by the company that
+37 is the subject of the examination.
+38 (h) (1) Not later than 30 days following completion of the
+39 examination or at such earlier time as the commissioner shall prescribe,
+40 the examiner in charge shall file with the deparment a verified written
+41 report of examination under oath. Not later than 30 days following receipt
+42 of the verified report, the department shall transmit the report to the
+43 company examined, together with a notice that shall afford such company
+
+HB 2334—Am. by SC 16
+1 examined a reasonable opportunity of not more than 30 days to make a
+2 written submission or rebuttal with respect to any matters contained in the
+3 examination report.
+4 (2) Within 30 days of the end of the period allowed for the receipt of
+5 written submissions or rebuttals, the commissioner shall fully consider and
+6 review the report, together with any written submissions or rebuttals and
+7 any relevant portions of the examiners' workpapers, and enter an order:
+8 (A) Adopting the examination report as filed or with modification or
+9 corrections. If the examination report reveals that the company is operating
+10 in violation of any law, rule and regulation or prior order of the
+11 commissioner, the commissioner may order the company to take any
+12 action the commissioner considers necessary and appropriate to cure such
+13 violations;
+14 (B) rejecting the examination report with directions to the examiners
+15 to reopen the examination for purposes of obtaining additional data,
+16 documentation or information; or
+17 (C) call for and conduct a fact-finding hearing in accordance with
+18 K.S.A. 40-281, and amendments thereto, for purposes of obtaining
+19 additional documentation, data, information and testimony.
+20 (3) All orders entered as a result of revelations contained in the final
+21 examination report shall be accompanied by findings and conclusions
+22 resulting from the commissioner's consideration and review of the
+23 examination report, relevant examiner work papers and any written
+24 submissions or rebuttals. Within 30 days of the issuance of the adopted
+25 report, the company shall file affidavits executed by each of its directors
+26 stating under oath that they have received a copy of the adopted report and
+27 related orders.
+28 (4) Upon the adoption of the examination report of an association
+29 captive insurance company, the commissioner shall hold the content of the
+30 examination report as private and confidential as to the pure captive
+31 insurance company. Nothing contained in this act shall be construed to
+32 limit the commissioner's authority to use and, if appropriate, to make
+33 public any final or preliminary examination report in the furtherance of
+34 any legal or regulatory action that the commissioner may, in the
+35 commissioner's discretion, deem appropriate.
+36 (i) Nothing contained in this act shall be construed to limit the
+37 commissioner's authority to terminate or suspend any examination in order
+38 to pursue other legal or regulatory action pursuant to the insurance laws of
+39 this state.
+40 (j) All examination reports, preliminary examination reports or
+41 results, working papers, recorded information, documents and copies
+42 thereof produced by, obtained by or disclosed to the commissioner or any
+43 other person in the course of an examination made under this section are
+
+HB 2334—Am. by SC 17
+1 confidential and are not subject to subpoena and may not be made public
+2 by the commissioner or an employee or agent of the commissioner without
+3 the written consent of the company, except to the extent provided in this
+4 subsection. Nothing in this subsection shall prevent the commissioner
+5 from using such information in furtherance of the commissioner's
+6 regulatory authority under this act. The commissioner may grant access to
+7 such information to public officers having jurisdiction over the regulation
+8 of insurance in any other state or country or to law enforcement officers of
+9 Kansas or any other state or agency of the federal government at any time.
+10 Access may also be granted to the national association of insurance
+11 commissioners and its affiliates and the international association of
+12 insurance supervisors and its affiliates. Persons receiving such information
+13 must agree in writing prior to receiving the information to provide to it the
+14 same confidential treatment as required by this section, unless the prior
+15 written consent of the company to which it pertains has been obtained.
+16 (k) The commissioner may receive documents, materials or
+17 information, including otherwise confidential and privileged documents,
+18 materials or information, from the national association of insurance
+19 commissioners, and its affiliates and subsidiaries, and from regulatory and
+20 law enforcement officials of other foreign or domestic jurisdictions and
+21 shall maintain as confidential or privileged any document, material or
+22 information received with notice or the understanding that it is confidential
+23 or privileged under the laws of the jurisdiction that is the source of the
+24 document, material or information. Documents received pursuant to this
+25 section shall not be subject to disclosure pursuant to the open records act,
+26 K.S.A. 45-215 et seq., and amendments thereto.
+27 Sec. 14. K.S.A. 40-4312 is hereby amended to read as follows: 40-
+28 4312. No captive insurance company shall be required to join a rating
+29 organization or a policy form organization.
+30 Sec. 15. K.S.A. 40-4314 is hereby amended to read as follows: 40-
+31 4314. (a) Each captive insurance company shall, at the time it files the
+32 report required by K.S.A. 40-4307, and amendments thereto, pay a tax on
+33 all premiums received on risks located in this state.
+34 (b) Each captive insurance company shall pay the commissioner a tax
+35 at the rate of 2/ of 1% on each dollar of direct premiums collected or
+10
+36 contracted for, during the year ending December 31 next preceding, on
+37 policies or contracts of insurance written by the captive insurance
+38 company, after deducting from the direct premiums subject to the tax
+39 amounts paid to policyholders as return premiums with respect to such
+40 preceding year only, which amounts shall include only dividends or
+41 distributions of unabsorbed premiums or premium deposits returned or
+42 credited to policyholders, up to a maximum tax for such year of $500,000,
+43 except that no tax shall be due or payable as a consideration received for
+
+HB 2334—Am. by SC 18
+1 annuity contracts.
+2 (c) Each captive insurance company shall pay to the commissioner no
+3 later than March 1 of each year a tax at the rate of 1/ of 1% on each dollar
+10
+4 assumed reinsurance premiums collected or contracted for, during the year
+5 end December 31 next preceding, on policies or contracts of insurance
+6 written by the captive insurance company, up to a maximum tax for such
+7 year of $300,000. However, no such tax applies to premiums for risks or
+8 portion of risks that are subject to taxation on a direct basis pursuant to
+9 subsection (b), and no such tax shall be payable in connection with the
+10 receipt of assets in exchange for the assumption of loss reserves and other
+11 liabilities of another insurer under common ownership and control if such
+12 transaction is part of a plan to discontinue the operations of such other
+13 insurer and if the intent of the company by the state or any county, city or
+14 municipality within Kansas, except ad valorem taxes on real and personal
+15 property used in the production of income.
+16 (d) The tax provided in this section shall be calculated on an annual
+17 basis, notwithstanding that policies or contracts of insurance or contracts
+18 of reinsurance are issued on a multi-year basis. In the case of multi-year
+19 policies or contracts, the premium shall be prorated for purposes of
+20 determining the tax under this section.
+21 (e) The tax provided for in this section shall constitute all taxes
+22 collectible under the laws of the state of Kansas from any captive
+23 insurance company, and no other occupation tax or any other tax shall be
+24 levied or collected from any captive insurance company by the state or
+25 any political subdivision thereof.
+26 Sec. 16. K.S.A. 40-4304, 40-4312 and 40-4314 and K.S.A. 2024
+27 Supp. 40-4302 and 40-4308 are hereby repealed.
+28 Sec. 17. This act shall take effect and be in force from and after its
+29 publication in the statute book Kansas register.
+
+[DELETED: Apg fr id cl ce ie cs apd cl ce ie c; eg te Kpd cl ce ie cy a; pg fr aptte in fl es cd by tcK0s2B3N4b5c6N7c8c9(0a1s2o3N4(5a6(7c8(9p0p1t2(3c]
+[DELETED: Clm(ptspd cl ce ie cs as ad ls ial0p1(2i3p4(5i6(7a8(9(0c1(2p3a4c5(d cl l" ms al ls ad o6o7p8(d cl l" ms al ls ad o9o0p1(2c3t4c5N647i8(9l0f1e2(a t  tt al l rs o3a]
+[DELETED: Cmc(p(aNli0m1(2o3o4p5c6b7t8o9a0i1o2d3(4t5a6r7(8t9i0b1a2b3"4s5(6a7a8s9a0c1(2am  bs  a t c3i]
+[DELETED: Ccastl c. Us oe pd b te odcs(0a1ad pt cs ad by te c. No o2a3ie cy bn te pd cl ce i4c5a6c7(8s9i0A1t2p3r4sh pd cl a. Ng te ps of t5s6s7a8a9(0c1i2m3e4p5t6p7(8a9t0c ad e d cl as d pd cl 1a2i3l]
+[DELETED: C(o(ie fm pd cl as ad pd cl la(aai0c1(2i3a4s5(6a7f8i9o0t1(2a3i4(5s6i7(8b9c0s1d2p3(4t5a6s7g8p9o0io wh rt to a pd cl to sh pd c. T1p2r3t]
+[DELETED: Cpitc(opsa0p1(2wh te cr sh fl rs as rd by t3c4a5c6(7c8i9(o pt ct sl te et wt t0c1c2p3t4(5c6(7s8(9(0p1o2s3l4l5a6p7i8e9c0b1be ed in a fm ad un sh ts ad by t2c3(]
+[DELETED: Cts acosatpie c, pt to sh pn of on as t0c1(2u3o4(5u6p7Nw S. 6) A, c, ld l8c, p, ts ad or bs es my b9p0l1(2i3(4p5(t sl ie  sh s o r6t7a8N9a0c1c2o3(4m5r6N7i8p9(0p1a2p3(g te ps of te is s]
+[DELETED: Cr(c(spNap0a1p2(3c4t5(6a7c8s9(0o1b2a3r4 5c6n7a8pd cl sl he sg to ar ad pn fr a9a0N1i2f3t4o5p6d7(8s9(s f , l l 0o1a2A3ds sl ie te de of fn as a s. U]
+[DELETED: Ccfap(ctct0(1pl l l 2s3a4a5t6f7b8p9o0(1c2a3a4d5b6p7r8c9S0f1i2c394a5t6(7o8a950(1o2o3i]
+[DELETED: C1p(ilced fy fl in ie cy sl bpa(0w1c243f4a5t6(7a8o9(y ce ie cy my pe w0cn i, ie in te ne of w1cn ie ad re of sh ps u2p3s4(5a6(7c8(9u0a1(2s s3i4(5a6(s s bd of d, m, p, m7c8m9(0(1b2(3i]
+[DELETED: C1(A cy of te at ce ie co(ai(e cs ls pn pm of is pt ai(o0(1b2(3c4r5c6(7r8s9i0(a st cg tt te at ce i1c2t3(a st ig te gc as in wh t4a5(6p7f, ig m, u, a, a8i9e0(1b2c3(4a5m6(7a8t9(0s1(2m3i]
+[DELETED: C1b(s a cn pt to te ie of a pca(ppn wo sl cl ad me te at ce aa(r r 0p1t2p3a4f5t6(7t8a9(021$2c3f4d5a6t7(h ce ie c ay in ee o8J920(f te cr is sd tt te ds a1s2pt 3a4(e r 5f6M7(d fy fl in i8c9t0s1p2(3c]
+[DELETED: C1ec(osd(f(0n1(2c3(4c5e6c7l8by te td fy fl in i9c0id as hd by te td fy f1in ie cy to sy cs of sh q2p3i4s5s6t7a8a9(0o1p2(l 3c4(5s6(s my ao be gd to te nl an o7ie cs ad is a, ad te i8a9w0c1g2(3o]
+[DELETED: C1pcoopbtts0g1S243a i s s4u5(6$7(n te ce of an an ce ie c8i9a0a1(2c3(4c5t6i7(8c9b0t1(2N3m4c5(6i7a8e9S0f1l2b3p]
+[DELETED: C1Kpn of te e. In a, at te cdrK(emm0c1h2i3(4o5k6c7a8t9(0r1(2t3i4e5nt 6a7s8(9c0e1t2o3(4my rn a, a, it a, i5c6e7i8() (t lr tn 30 ds fg cn of t9e0t1r2o3c]
+[DELETED: C1ewe(wra(c0i vf  r a rr r  o t1c2a3v4(5t6d7(8K. 4, ad as t, fr ps of o9a0(1e2rg fm te cs cn ad rw of t3et s 4s5r6s7r8(9c0e1i2l3p4ay ll or ry an tt te cr m, in t5c6(7c8t9t0(l en r, py en rs o1r2t3o]
+[DELETED: C1cbtsfm ug sh in in fe of te crsoK0A1cs d s s e l 2i3m4s5w6(e cr my re d, ms o7i8mm 9c0l1s2i3o4d5s6K7S849o0S142r3a4(5a / 6c7ps or cs of ie wn b te ce i8c9a0p1d2c3e]
+[DELETED: C1a(l / aewyps0r1l2t3i4m5p6(7b8o9p0d1(2c3i4l5a6S7S8S9p]

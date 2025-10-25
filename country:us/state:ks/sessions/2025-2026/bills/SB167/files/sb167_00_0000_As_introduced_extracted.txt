@@ -1,0 +1,237 @@
+Title: SENATE BILL No. 167
+Official Title: SENATE BILL No. 167
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Utilities
+2-3
+1 AN ACT concerning electric public utilities; relating to electric vehicle
+2 charging services; prohibiting electric public utilities from recovering
+3 from ratepayers the costs associated with electric vehicle charging
+4 stations; requiring electric public utilities that provide electric vehicle
+5 charging services to offer such services under a nonregulated private
+6 enterprise and on an equitable and nondiscriminatory basis just as such
+7 utility offers to private entities providing such services; requiring
+8 electric public utilities to establish electric vehicle charging rate
+9 schedules for the provision of electric vehicle charging services by
+10 private entities.
+11
+12 Be it enacted by the Legislature of the State of Kansas:
+13 Section 1. As used in this section and sections 2 and 3, and
+14 amendments thereto:
+15 (a) "Direct-current fast charging station" means an electric vehicle
+16 charging system capable of delivering electricity at 50 kilowatts or greater
+17 direct current to an electric vehicle's rechargeable battery at a voltage of
+18 200 volts or greater.
+19 (b) "Electric vehicle" means a vehicle that is powered by an electric
+20 motor that draws electricity from a rechargeable battery that is primarily
+21 recharged from a source of electricity that is external to the vehicle.
+22 "Electric vehicle" includes a vehicle that is powered by an internal
+23 combustion engine and an electric motor if such electric motor draws
+24 electricity from a rechargeable battery that is primarily recharged from a
+25 source of electricity that is external to the vehicle.
+26 (c) "Electric vehicle charging station" means any level 2 charging
+27 station or direct-current fast charging station that delivers electricity to an
+28 electric vehicle and such electricity is from an external source that is not
+29 otherwise a part of the electric vehicle. "Electric vehicle charging station"
+30 does not include make-ready infrastructure.
+31 (d) "Electric vehicle charging station operator" means any person or
+32 entity that operates an electric vehicle charging station. "Electric vehicle
+33 charging station operator" does not include any retail electric supplier that
+34 operates an electric vehicle charging station.
+35 (e) "Level 2 charging station" means any electric vehicle charging
+36 system capable of delivering electricity at a minimum of three kilowatts or
+SB 167 2
+1 at a maximum of 50 kilowatts alternating current to an electric vehicle's
+2 rechargeable battery at a voltage of 200 volts or greater.
+3 (f) "Make-ready infrastructure" means the customer-specific
+4 electrical infrastructure required to service an electric vehicle charging
+5 station's electrical load on the retail electric supplier's side of the electric
+6 meter.
+7 (g) "Retail electric service" means retail electric service furnished to a
+8 retail electric consumer for end use. "Retail electric service" does not
+9 include the provision of electricity to the public exclusively for the
+10 provision of electric vehicle charging services.
+11 (h) "Retail electric supplier" means any person, firm, corporation,
+12 municipality, association or cooperative corporation engaged in the
+13 furnishing of retail electric service.
+14 Sec. 2. (a) Costs to construct, install, operate, own or maintain any
+15 electric vehicle charging station shall not be included in the rate base of a
+16 retail electric supplier. Revenue received by a retail electric supplier for
+17 providing retail electric service shall not, directly or indirectly, subsidize
+18 investments to construct, install, operate, own or maintain electric vehicle
+19 charging stations.
+20 (b) Any retail electric supplier that constructs, installs, operates, owns
+21 or maintains an electric vehicle charging station for public use shall do so
+22 through a separate nonregulated private enterprise. Such nonregulated
+23 private enterprise shall be maintained on a separate accounting system that
+24 shall include the costs and revenues associated with the provision of the
+25 electric vehicle charging service. Such provision of electric vehicle
+26 charging services shall be offered on an equitable and nondiscriminatory
+27 basis pursuant to the same fees, terms, rates, charges and conditions that
+28 the retail electric supplier offers to private providers of electric vehicle
+29 charging stations in the designated service territory of the retail electric
+30 supplier.
+31 (c) Nothing in this section shall be construed to:
+32 (1) Limit the ability of a retail electric supplier to provide the make-
+33 ready infrastructure required to serve the electrical load of electric vehicle
+34 charging stations or to furnish electricity to electric vehicle charging
+35 station operators for charging electric vehicles; or
+36 (2) prohibit a retail electric supplier from constructing, installing,
+37 operating, owning, maintaining or otherwise procuring service from an
+38 electric vehicle charging station on the retail electric supplier's own
+39 premises for the sole purpose of serving the retail electric supplier's
+40 electric vehicle fleet if such service is not open to the public.
+41 Sec. 3. (a) Each retail electric supplier shall maintain a commercial
+42 direct-current fast charging station rate schedule that:
+43 (1) Utilizes alternatives to traditional demand-based rate structures;
+SB 167 3
+1 (2) establishes the fees, terms, rates, charges and conditions for the
+2 sale of electricity to electric vehicle charging station operators for the
+3 operation of electric vehicle charging stations; and
+4 (3) assesses charges on the basis of the kilowatt-hours of electricity
+5 consumed and not on the basis of electricity demand.
+6 (b) (1) On or before October 1, 2025, each retail electric supplier that
+7 is subject to the jurisdiction of the state corporation commission shall file
+8 with the commission an initial electric vehicle charging rate schedule that
+9 complies with the requirements of this act. The commission shall issue an
+10 order approving or amending the retail electric supplier's rate schedule
+11 within 120 days of a retail electric supplier's submission of such rate
+12 schedule.
+13 (2) Any other retail electric supplier that is not subject to commission
+14 jurisdiction shall publish an initial electric vehicle charging station rate
+15 schedule that complies with the requirements of this section and section 2,
+16 and amendments thereto, by October 1, 2025.
+17 (3) Each retail electric supplier's electric vehicle charging station rate
+18 schedule that is filed or published in accordance with this section shall
+19 remain in effect until a successor rate schedule is filed or published in
+20 accordance with the requirements of this section.
+21 Sec. 4. This act shall take effect and be in force from and after its
+22 publication in the statute book.
+[DELETED: Acfsceuec  us t eh c ve  rs0p2B3Ss u i ts s a ss  a 34a5(6c7d829(0m1r2"3c4e5s6(7s8e9o0d1(2e3c4o5(6s]
+[DELETED: 7ar(y i" ms te cesm(ri0p1(" 2m, an or ce cn ed in t3f4S5e6r7p8i9c0(1o2t3p4s5ec e  s Sh f  v6c7b8t9c0s1(2(3r4c5s6(7o8e9p0e1S2d3(]
+[DELETED: 7(so(c(iwc0o1w2s3(4j5s6a7(8s9r0a1S2p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 167
+By Committee on Utilities
+2-3
+1 AN ACT concerning electric public utilities; relating to electric vehicle
+2 charging services; prohibiting electric public utilities from recovering
+3 from ratepayers the costs associated with electric vehicle charging
+4 stations; requiring electric public utilities that provide electric vehicle
+5 charging services to offer such services under a nonregulated private
+6 enterprise and on an equitable and nondiscriminatory basis just as such
+7 utility offers to private entities providing such services; requiring
+8 electric public utilities to establish electric vehicle charging rate
+9 schedules for the provision of electric vehicle charging services by
+10 private entities.
+11
+12 Be it enacted by the Legislature of the State of Kansas:
+13 Section 1. As used in this section and sections 2 and 3, and
+14 amendments thereto:
+15 (a) "Direct-current fast charging station" means an electric vehicle
+16 charging system capable of delivering electricity at 50 kilowatts or greater
+17 direct current to an electric vehicle's rechargeable battery at a voltage of
+18 200 volts or greater.
+19 (b) "Electric vehicle" means a vehicle that is powered by an electric
+20 motor that draws electricity from a rechargeable battery that is primarily
+21 recharged from a source of electricity that is external to the vehicle.
+22 "Electric vehicle" includes a vehicle that is powered by an internal
+23 combustion engine and an electric motor if such electric motor draws
+24 electricity from a rechargeable battery that is primarily recharged from a
+25 source of electricity that is external to the vehicle.
+26 (c) "Electric vehicle charging station" means any level 2 charging
+27 station or direct-current fast charging station that delivers electricity to an
+28 electric vehicle and such electricity is from an external source that is not
+29 otherwise a part of the electric vehicle. "Electric vehicle charging station"
+30 does not include make-ready infrastructure.
+31 (d) "Electric vehicle charging station operator" means any person or
+32 entity that operates an electric vehicle charging station. "Electric vehicle
+33 charging station operator" does not include any retail electric supplier that
+34 operates an electric vehicle charging station.
+35 (e) "Level 2 charging station" means any electric vehicle charging
+36 system capable of delivering electricity at a minimum of three kilowatts or
+
+SB 167 2
+1 at a maximum of 50 kilowatts alternating current to an electric vehicle's
+2 rechargeable battery at a voltage of 200 volts or greater.
+3 (f) "Make-ready infrastructure" means the customer-specific
+4 electrical infrastructure required to service an electric vehicle charging
+5 station's electrical load on the retail electric supplier's side of the electric
+6 meter.
+7 (g) "Retail electric service" means retail electric service furnished to a
+8 retail electric consumer for end use. "Retail electric service" does not
+9 include the provision of electricity to the public exclusively for the
+10 provision of electric vehicle charging services.
+11 (h) "Retail electric supplier" means any person, firm, corporation,
+12 municipality, association or cooperative corporation engaged in the
+13 furnishing of retail electric service.
+14 Sec. 2. (a) Costs to construct, install, operate, own or maintain any
+15 electric vehicle charging station shall not be included in the rate base of a
+16 retail electric supplier. Revenue received by a retail electric supplier for
+17 providing retail electric service shall not, directly or indirectly, subsidize
+18 investments to construct, install, operate, own or maintain electric vehicle
+19 charging stations.
+20 (b) Any retail electric supplier that constructs, installs, operates, owns
+21 or maintains an electric vehicle charging station for public use shall do so
+22 through a separate nonregulated private enterprise. Such nonregulated
+23 private enterprise shall be maintained on a separate accounting system that
+24 shall include the costs and revenues associated with the provision of the
+25 electric vehicle charging service. Such provision of electric vehicle
+26 charging services shall be offered on an equitable and nondiscriminatory
+27 basis pursuant to the same fees, terms, rates, charges and conditions that
+28 the retail electric supplier offers to private providers of electric vehicle
+29 charging stations in the designated service territory of the retail electric
+30 supplier.
+31 (c) Nothing in this section shall be construed to:
+32 (1) Limit the ability of a retail electric supplier to provide the make-
+33 ready infrastructure required to serve the electrical load of electric vehicle
+34 charging stations or to furnish electricity to electric vehicle charging
+35 station operators for charging electric vehicles; or
+36 (2) prohibit a retail electric supplier from constructing, installing,
+37 operating, owning, maintaining or otherwise procuring service from an
+38 electric vehicle charging station on the retail electric supplier's own
+39 premises for the sole purpose of serving the retail electric supplier's
+40 electric vehicle fleet if such service is not open to the public.
+41 Sec. 3. (a) Each retail electric supplier shall maintain a commercial
+42 direct-current fast charging station rate schedule that:
+43 (1) Utilizes alternatives to traditional demand-based rate structures;
+
+SB 167 3
+1 (2) establishes the fees, terms, rates, charges and conditions for the
+2 sale of electricity to electric vehicle charging station operators for the
+3 operation of electric vehicle charging stations; and
+4 (3) assesses charges on the basis of the kilowatt-hours of electricity
+5 consumed and not on the basis of electricity demand.
+6 (b) (1) On or before October 1, 2025, each retail electric supplier that
+7 is subject to the jurisdiction of the state corporation commission shall file
+8 with the commission an initial electric vehicle charging rate schedule that
+9 complies with the requirements of this act. The commission shall issue an
+10 order approving or amending the retail electric supplier's rate schedule
+11 within 120 days of a retail electric supplier's submission of such rate
+12 schedule.
+13 (2) Any other retail electric supplier that is not subject to commission
+14 jurisdiction shall publish an initial electric vehicle charging station rate
+15 schedule that complies with the requirements of this section and section 2,
+16 and amendments thereto, by October 1, 2025.
+17 (3) Each retail electric supplier's electric vehicle charging station rate
+18 schedule that is filed or published in accordance with this section shall
+19 remain in effect until a successor rate schedule is filed or published in
+20 accordance with the requirements of this section.
+21 Sec. 4. This act shall take effect and be in force from and after its
+22 publication in the statute book.
+
+[DELETED: Acfsceuec  us t eh c ve  rs0p2B3Ss u i ts s a ss  a 34a5(6c7d829(0m1r2"3c4e5s6(7s8e9o0d1(2e3c4o5(6s]
+[DELETED: 7ar(y i" ms te cesm(ri0p1(" 2m, an or ce cn ed in t3f4S5e6r7p8i9c0(1o2t3p4s5ec e  s Sh f  v6c7b8t9c0s1(2(3r4c5s6(7o8e9p0e1S2d3(]
+[DELETED: 7(so(c(iwc0o1w2s3(4j5s6a7(8s9r0a1S2p]

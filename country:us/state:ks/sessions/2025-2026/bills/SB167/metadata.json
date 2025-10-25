@@ -124,6 +124,7 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-24T23:29:36Z"
+    "logs_latest_update": "2025-10-24T23:29:36Z",
+    "text_extraction_latest_update": "2025-10-25T04:53:50.683476Z"
   }
 }

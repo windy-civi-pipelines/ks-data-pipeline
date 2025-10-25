@@ -1,0 +1,781 @@
+Title: HOUSE BILL No. 2303
+Official Title: HOUSE BILL No. 2303
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on K-12 Education Budget
+Requested by Representative Goetz
+2-5
+1 AN ACT concerning the legislature; establishing the longitudinal data act;
+2 creating the division of longitudinal data in the legislative research
+3 department; authorizing the legislative coordinating council to appoint
+4 the director of the division; authorizing the director to hire employees
+5 thereof; providing for the development and management of the Kansas
+6 longitudinal data system to securely link and analyze education,
+7 workforce and related data; creating a publicly accessible online
+8 registry of educational and occupational credentials; restricting release
+9 of personally identifiable information; making and concerning
+10 appropriations for the fiscal year ending June 30, 2026, for the
+11 legislature; amending K.S.A. 72-6314 and repealing the existing
+12 section.
+13
+14 Be it enacted by the Legislature of the State of Kansas:
+15 New Section 1. Sections 1 through 8, and amendments thereto, shall
+16 be known and may be cited as the longitudinal data act.
+17 New Sec. 2. As used in this act:
+18 (a) "Act" means the longitudinal data act.
+19 (b) "De-identified" or "de-identify" means the process used to remove
+20 all direct personal identifiers from individual-level data.
+21 (c) "Data" means any information about a person stored in a physical
+22 or electronic record.
+23 (d) "Director" means the director of the division of longitudinal data.
+24 (e) "Division" means the division of longitudinal data established in
+25 the legislative research department pursuant to section 4, and amendments
+26 thereto.
+27 (f) "Education data" means data relating to student performance from
+28 early childhood learning programs through postsecondary education,
+29 including, but not limited to, the following:
+30 (1) State and national assessments;
+31 (2) course taking and completion;
+32 (3) grade point average;
+33 (4) remediation;
+34 (5) retention;
+35 (6) special population status as defined by the division;
+HB 2303 2
+1 (7) degree, diploma or credential attainment;
+2 (8) enrollment and absenteeism data;
+3 (9) demographic data;
+4 (10) suspension and expulsion records;
+5 (11) student financial aid data;
+6 (12) college and career readiness;
+7 (13) high school equivalency diploma;
+8 (14) transcripts; and
+9 (15) any other data impacting education deemed necessary by the
+10 division.
+11 (g) "In-demand industry sector or occupation" means the same as
+12 defined in 29 USC § 3102(23)(A).
+13 (h) "Kansas longitudinal data system" or "system" means a statewide
+14 data system that contains education, workforce, health and other data
+15 identified by the division.
+16 (i) "Memorandum of understanding" means an agreement between
+17 the divsion and a participating agency or outside entity that sets forth the
+18 details of how data is shared within the Kansas longitudinal data system
+19 and the respective legal rights and responsibilities of each party within the
+20 data sharing process.
+21 (j) "Outside entity" means any public or private entity that may enter
+22 into a memorandum of understanding to participate in the Kansas
+23 longitudinal data system and is not a participating agency.
+24 (k) "Participating agency" means the:
+25 (1) State department of education;
+26 (2) state board of regents;
+27 (3) department of labor;
+28 (4) department of revenue;
+29 (5) department of health and environment;
+30 (6) department of commerce; and
+31 (7) any outside entity that has entered into a memorandum of
+32 understanding for participation in the Kansas longitudinal data system.
+33 (l) "Research designee" means an individual, organization or entity
+34 designated and approved pursuant to section 6, and amendments thereto, to
+35 assist in conducting research and analysis using data from the Kansas
+36 longitudinal data system. A "research designee" shall possess demonstrated
+37 expertise in data analysis, education, workforce or related fields and shall
+38 adhere to all privacy, security and confidentiality requirements required by
+39 this act and any other applicable state and federal laws.
+40 (m) "Workforce data" means data relating to workforce and
+41 employment, including, but not limited to, the following:
+42 (1) Employment status;
+43 (2) wage information;
+HB 2303 3
+1 (3) geographic location of employment;
+2 (4) industry or occupation;
+3 (5) certification and licensure;
+4 (6) job service and training information to support enhanced
+5 employment opportunities; and
+6 (7) any other data impacting the workforce deemed necessary by the
+7 division.
+8 New Sec. 3. (a) The division of longitudinal data shall establish the
+9 Kansas longitudinal data system as a secure means to:
+10 (1) Exchange, de-identify and match individual-level education and
+11 workforce data from participating agencies and outside entities while
+12 upholding legal protections to ensure privacy and security;
+13 (2) connect individuals and organizations to trusted information,
+14 resources, tools and services that support the education-to-employment
+15 pipeline;
+16 (3) provide the legislature and state agencies with access to data
+17 regarding state workforce development, including early learning,
+18 education, workforce training and employment outcomes; and
+19 (4) match data from participating agencies over time to create reports
+20 that may then be aggregated and analyzed to assist the legislature and state
+21 agencies with developing strategies to improve education and workforce
+22 outcomes.
+23 (b) Each participating agency shall enter into a memorandum of
+24 understanding with the division to participate in the system. All
+25 information matched from participating agencies shall be collected,
+26 safeguarded, kept confidential and used only by the division in accordance
+27 with this act and state and federal law. Each participating agency shall
+28 retain ownership of any data the participating agency provides to the
+29 system and shall reserve the right to opt out of any research request if the
+30 request would violate state or federal law. A participating agency shall not
+31 have access to data owned by another participating agency unless a data
+32 request is approved by the division.
+33 (c) The division shall conduct research using the system related to the
+34 research goals and mission adopted by the division.
+35 (d) The division may contract with any person or entity to implement
+36 and administer this act.
+37 (e) Notwithstanding any other provision of law, state agencies are
+38 hereby authorized to enter into memorandums of understanding with the
+39 division to share data as provided by this act.
+40 New Sec. 4. (a) There is hereby established the division of
+41 longitudinal data within the legislative research department. The head of
+42 the division shall be the director of longitudinal data. The director shall be
+43 appointed by the legislative coordinating council by a vote of five
+HB 2303 4
+1 members of the legislative coordinating council taken at any regular
+2 meeting of such council. The director shall receive such compensation as
+3 is determined by the legislative coordinating council. The director, and any
+4 of the director's assistants specified by the legislative coordinating council,
+5 shall receive expenses and allowances for in-state and out-of-state travel as
+6 is provided by law for members of the legislature. The director shall hire
+7 such assistants and employees of the division as are authorized by the
+8 legislative coordinating council and shall set their compensation subject to
+9 the approval of such council. The director and all assistants and employees
+10 of the division shall be in the unclassified service. The director shall be an
+11 authorized representative for partner entity data.
+12 (b) The division shall perform the following duties:
+13 (1) Establish the Kansas longitudinal data system pursuant to section
+14 3, and amendments thereto;
+15 (2) develop a strategic plan to develop, implement and utilize the
+16 system to accomplish the objectives of the division;
+17 (3) collect data from participating agencies and outside entities;
+18 (4) connect and ensure collected data is de-identified by the division;
+19 (5) store connected data;
+20 (6) conduct research on data using the system in accordance with the
+21 research agenda adopted by the legislative coordinating council;
+22 (7) conduct research on data in the system to answer research
+23 requests;
+24 (8) oversee compliance regarding the security and protection of data
+25 shared to and stored in the system;
+26 (9) develop a data governance and security plan for the system
+27 regarding the use, privacy and security of data and publish the plan on a
+28 website developed and administered, or caused to be developed and
+29 administered, by the division;
+30 (10) establish policies for sharing aggregated data or reports with the
+31 public and external entities;
+32 (11) develop strategies to promote the transparent operation of the
+33 system; and
+34 (12) prepare and provide an annual report to the legislative
+35 coordinating council and the governor.
+36 (c) The director shall create a prioritized list of data research requests.
+37 On or before January 31, 2026, the director shall accept data research
+38 requests from:
+39 (1) A legislative committee or a legislative staff office;
+40 (2) the governor or an executive branch agency;
+41 (3) the state board of education; and
+42 (4) the state board of regents.
+43 (d) The division shall report the list described in subsection (c) to the
+HB 2303 5
+1 Legislative coordinating council on or before December 1 of each year.
+2 (e) (1) In addition to conducting data research in accordance with the
+3 prioritized list described in subsection (c), upon the approval of the
+4 legislative coordinating council, the division may prepare data research at
+5 the request of:
+6 (A) A state governmental entity;
+7 (B) a political subdivision of the state;
+8 (C) a private entity; or
+9 (D) a member of the public.
+10 (2) For any such data research request, the division shall determine:
+11 (A) Whether the division can complete the data research request; and
+12 (B) the order in which the division shall complete the data research
+13 request, if at all.
+14 (3) The division may require the person or entity that submitted the
+15 data research request to pay, once the data research is complete, the full
+16 cost of completing the data research request as determined by the division.
+17 Upon receipt of any payment made pursuant to this section, the division
+18 shall remit such moneys to the state treasurer in accordance with the
+19 provisions of K.S.A. 75-4215, and amendments thereto. Upon receipt of
+20 each such remittance, the state treasurer shall deposit the entire amount in
+21 the state treasury.
+22 (f) In the event of a data breach, the division shall comply with any
+23 applicable law, including, but not limited to, K.S.A. 2024 Supp. 75-7244,
+24 and amendments thereto, and any other laws pertaining to data breaches
+25 and notification thereof.
+26 New Sec. 5. Direct access to data in the system shall be restricted to
+27 authorized staff of the division of longitudinal data, the research designee
+28 or other persons approved by the legislative coordinating council if such
+29 persons have a need to access such data to further the objectives of this act.
+30 The division may limit access to data to certain categories or types of data
+31 or on any other basis determined by the division.
+32 New Sec. 6. (a) The division of longitudinal data may designate a
+33 research designee to assist in conducting data research and fulfilling the
+34 objectives outlined in this act. The research designee shall be an individual
+35 or entity with demonstrated expertise in data analysis, education,
+36 workforce or related fields.
+37 (b) The process for designating a research designee shall be as
+38 follows:
+39 (1) The division may submit a written request to the legislative
+40 coordinating council identifying the proposed research designee,
+41 including:
+42 (A) The qualifications and expertise of the designee;
+43 (B) the scope of work the designee will perform; and
+HB 2303 6
+1 (C) a statement explaining how the designee's work aligns with the
+2 goals of the Kansas longitudinal data system;
+3 (2) the legislative coordinating council shall review the request and
+4 may request additional information or documentation from the proposed
+5 designee; and
+6 (3) the legislative coordinating council shall approve or deny the
+7 request within 60 days of submission of the written request.
+8 (c) Upon approval, the research designee shall be:
+9 (1) Authorized to access data and perform research as specified in the
+10 approved scope of work; and
+11 (2) subject to all privacy, security and confidentiality requirements
+12 established pursuant to this act and applicable state and federal laws.
+13 (d) The designation of a research designee shall be valid for a term
+14 not to exceed three years, after which the division may submit a request
+15 for renewal to the legislative coordinating council. Any request to renew
+16 the designation of a research designee shall follow the same process
+17 described in subsection (b).
+18 (e) The legislative coordinating council may revoke the designation
+19 of a research designee at any time for cause, including, but not limited to,
+20 failure to comply with privacy and security requirements or a breach of
+21 contract.
+22 (f) The division shall publish the names and roles of all approved
+23 research designees on the division's publicly accessible website.
+24 New Sec. 7. (a) The division of longitudinal data shall establish, or
+25 cause to be established, the Kansas credential and skills registry. The
+26 Kansas credential and skills registry shall be a comprehensive and
+27 consistently up-to-date collection of information on all educational and
+28 occupational credentials that are granted, issued, funded or governed by
+29 the state. Educational and occupational credentials, include, but are not
+30 limited to, diplomas, certificates, certifications, digital badges,
+31 apprenticeships, licenses and degrees of all types and levels. Information
+32 to be included in the registry shall include, but shall not be limited to:
+33 (1) The name of the credential;
+34 (2) the type of credential;
+35 (3) the owner of the credential;
+36 (4) the provider of the credential;
+37 (5) the status of the credential;
+38 (6) a short description of the credential;
+39 (7) the estimated duration for completion;
+40 (8) the process and outcome quality indicators of the provider and the
+41 credential;
+42 (9) the competencies and skills included in the credential;
+43 (10) the costs of completion;
+HB 2303 7
+1 (11) any assessments and costs of such assessments associated with
+2 earning the credential;
+3 (12) transfer value recommendations, as available;
+4 (13) descriptions of known credential pathways;
+5 (14) outcomes associated with the credential, including, but not
+6 limited to, earnings and employment, completion and pass rates and
+7 calculations of return-on-investment, as available;
+8 (15) the industry and occupation related to the credential that may
+9 include its code under the north American industry classification system;
+10 and
+11 (16) other such information as determined by the division.
+12 (b) On or before June 30, 2026, and each June 30 thereafter, the
+13 division shall develop a list of credentials that are aligned to in-demand
+14 occupations for each industry operating in the state, and shall clearly
+15 indicate such list among the overall collection of credentials in the registry.
+16 (c) The registry shall be available to the public as linked, open and
+17 interoperable data, readable by individuals and machine actionable,
+18 aligned with widely recognized standards and allow for open access across
+19 sector platforms, such as through credential transparency description
+20 language families of schema.
+21 (d) The registry shall not include any personally identifiable
+22 information about the holders of such credentials. The division shall seek
+23 to align registry data with student-level information in the Kansas
+24 longitudinal data system.
+25 (e) The division shall ensure that data in the registry are used in tools
+26 and services for students, learners, workers, employers, educators,
+27 policymakers and the general public, including:
+28 (1) Education and training search, guidance, navigation and
+29 counseling;
+30 (2) depiction and navigation of pathways;
+31 (3) awareness and management of dual credit or dual enrollment and
+32 transfers; and
+33 (4) comprehensive learner records or learning and employment
+34 records.
+35 New Sec. 8. Sections 1 through 7, and amendments thereto, shall
+36 expire on January 1, 2033.
+37 Sec. 9.
+38 LEGISLATIVE COORDINATING COUNCIL
+39 (a) There is hereby appropriated for the above agency from the state
+40 general fund for the fiscal year ending June 30, 2026, the following:
+41 Division of longitudinal data
+42 (including official hospitality) (428-00-1000-0103)...............$3,000,000
+43 Sec. 10. K.S.A. 72-6314 is hereby amended to read as follows: 72-
+HB 2303 8
+1 6314. (a) Any student data submitted to and maintained by a statewide
+2 longitudinal student data system shall only be disclosed by an educational
+3 agency in accordance with the provisions of this section. An educational
+4 agency shall provide annual written notice to each student's parent or legal
+5 guardian that student data may be disclosed in accordance with this
+6 section. Such notice shall be signed by the student's parent or legal
+7 guardian and maintained on file with the district.
+8 (b) Student data may be disclosed at any time to the:
+9 (1) The Authorized personnel of an educational agency who require
+10 such disclosures to perform their assigned duties;
+11 (2) the authorized personnel of the state board of regents who require
+12 such disclosures to perform their assigned duties; and
+13 (3) the student and the parent or legal guardian of the student,
+14 provided the student data pertains solely to such student; and
+15 (4) authorized personnel of the division of longitudinal data
+16 established pursuant to the longitudinal data act.
+17 (c) Student data may be disclosed to the authorized personnel of any
+18 state agency not specified in subsection (b), or to a service provider of a
+19 state agency, educational agency or school who is engaged to perform a
+20 function of instruction, assessment or longitudinal reporting, provided
+21 there is a data-sharing agreement between the educational agency and such
+22 other state agency or service provider that provides the following:
+23 (1) The purpose, scope and duration of the data-sharing agreement;
+24 (2) that the recipient of the student data use such information solely
+25 for the purposes specified in the agreement;
+26 (3) that the recipient shall comply with data access, use and security
+27 restrictions that are specifically described in the agreement; and
+28 (4) that the student data shall be destroyed when no longer necessary
+29 for the purposes of the data-sharing agreement or upon expiration of the
+30 data-sharing agreement, whichever occurs first. Except that a service
+31 provider engaged to perform a function of instruction may retain student
+32 transcripts as required by applicable laws and rules and regulations.
+33 Destruction shall comply with the NISTSP800-88 standards of data
+34 destruction.
+35 (d) (1) Except as otherwise provided in paragraph (2), student data
+36 may be disclosed to any governmental entity not specified in subsection
+37 (b) or (c), or to any public or private audit and evaluation or research
+38 organization, provided that only aggregate data is disclosed to such
+39 governmental entity or audit and evaluation or research organization.
+40 (2) Personally identifiable student data may be disclosed if the
+41 student, if an adult, or the parent or legal guardian of the student, if a
+42 minor, consents to such disclosure in writing.
+43 (e) Notwithstanding the provisions of subsections (b), (c) and (d), an
+HB 2303 9
+1 educational agency may disclose:
+2 (1) Directory information of a student when such agency deems such
+3 disclosure necessary and the disclosure of which has been consented to in
+4 writing by such student's parent or legal guardian;
+5 (2) directory information to an enhancement vendor that provides
+6 photography services, class ring services, yearbook publishing services,
+7 memorabilia services or other substantially similar services;
+8 (3) any information required to be disclosed pursuant to K.S.A. 65-
+9 101, 65-118 and 65-202, and amendments thereto, provided such
+10 information is disclosed in accordance with any provisions of such statutes
+11 regarding the confidentiality and disclosure of such information;
+12 (4) any student data in order to comply with any lawful subpoena or
+13 court order directing such disclosure; and
+14 (5) student data to a public or private postsecondary educational
+15 institution which is required by such postsecondary educational institution
+16 for the purposes of application or admission of a student to such
+17 postsecondary educational institution, provided that such disclosure is
+18 consented to in writing by such student.
+19 Sec. 11. K.S.A. 72-6314 is hereby repealed.
+20 Sec. 12. This act shall take effect and be in force from and after its
+21 publication in the statute book.
+[DELETED: Acdttll a m e wrof py ie i; mg ad c0a1l; ag K. 74 ad rg te e2s4B5N6b7N8(9(0a1(2o3(4(5t6t7(8e cd lg ps th p e9i0(1(2(3(4(5(]
+[DELETED: 3(((((((((0d1(2d3(4d5i6(7t8d9a0d1(2io a mm of ug to pe in te K3l4(5(6(7(8(9(0(1(e t s d a m 2u3(4d5a6l7e8a9t0(e d" ms da rg to we a1e2(3(]
+[DELETED: 3((((b se ad tg in to st ee(dNK0(1w2u3(4r5p6(7rg se we d, ig ey l8e9(0t1a2o3(4ug wh te dn to pe in te s. A5in md fm pg as sl be c6s7w8r9s0r1h2r3(4r5(6a7(8h9d0Nw S. 4) Te is hy ed te dn o1l2t3a]
+[DELETED: 3mmiosislt0o1a2(3(435(6s7(8(9(0(1r2(m 3r4(5s6(7r8w9a0(1p2(3s4(e ad pe an al rt to te l5c6(7O8r9(0(1(2(3(]
+[DELETED: 3L(plt((((0(1(2(3r4(5d6c7U8s9p0e1t2(3a4a5a6N7a8o9p0T1o2N3r4o5or ey wh dd ee in da a, e6w7(8f9(0cg cl ig te pd rh d1i2(3(]
+[DELETED: 3(g(md(r((0a1(2e3(4n5f6t7d8(9o0f1c2(3r4N5c6Ks l d s l e e 7c8o9t0ld t, d, c, c, dl b1a2t3(4(5(6(7(8(9(0(1c2(3(]
+[DELETED: 3(e(((s lc(i0a1(2(3d4o5i6(7ie d, re by is ad me a8a9s0l1(e ry sl nt ie ay py i2i3to an r da wh sl in in te K4l5(6ad ss fr s, l, w, e, e7p8(n ad tg s, g, nn a9c0(1(2t3(e lr rs or lg ad e4r5N6e7S8L9(0g1D2(3S]
+[DELETED: 36laagsg((0s1(2s3(e 4p5(d pl of te dn of ll d6e7(8s9s0f1t2o3(4(5f6(7r8(9f0d1p2t3D4d5(6m7(8o9g0(1s2m3(]
+[DELETED: 3e(dw(pm(1, 68 ad 6, ad as t, pd s0i1r2(3c4(5i6fr e s f  o a oa t t s7p8c9S0S1p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2303
+By Committee on K-12 Education Budget
+Requested by Representative Goetz
+2-5
+1 AN ACT concerning the legislature; establishing the longitudinal data act;
+2 creating the division of longitudinal data in the legislative research
+3 department; authorizing the legislative coordinating council to appoint
+4 the director of the division; authorizing the director to hire employees
+5 thereof; providing for the development and management of the Kansas
+6 longitudinal data system to securely link and analyze education,
+7 workforce and related data; creating a publicly accessible online
+8 registry of educational and occupational credentials; restricting release
+9 of personally identifiable information; making and concerning
+10 appropriations for the fiscal year ending June 30, 2026, for the
+11 legislature; amending K.S.A. 72-6314 and repealing the existing
+12 section.
+13
+14 Be it enacted by the Legislature of the State of Kansas:
+15 New Section 1. Sections 1 through 8, and amendments thereto, shall
+16 be known and may be cited as the longitudinal data act.
+17 New Sec. 2. As used in this act:
+18 (a) "Act" means the longitudinal data act.
+19 (b) "De-identified" or "de-identify" means the process used to remove
+20 all direct personal identifiers from individual-level data.
+21 (c) "Data" means any information about a person stored in a physical
+22 or electronic record.
+23 (d) "Director" means the director of the division of longitudinal data.
+24 (e) "Division" means the division of longitudinal data established in
+25 the legislative research department pursuant to section 4, and amendments
+26 thereto.
+27 (f) "Education data" means data relating to student performance from
+28 early childhood learning programs through postsecondary education,
+29 including, but not limited to, the following:
+30 (1) State and national assessments;
+31 (2) course taking and completion;
+32 (3) grade point average;
+33 (4) remediation;
+34 (5) retention;
+35 (6) special population status as defined by the division;
+
+HB 2303 2
+1 (7) degree, diploma or credential attainment;
+2 (8) enrollment and absenteeism data;
+3 (9) demographic data;
+4 (10) suspension and expulsion records;
+5 (11) student financial aid data;
+6 (12) college and career readiness;
+7 (13) high school equivalency diploma;
+8 (14) transcripts; and
+9 (15) any other data impacting education deemed necessary by the
+10 division.
+11 (g) "In-demand industry sector or occupation" means the same as
+12 defined in 29 USC § 3102(23)(A).
+13 (h) "Kansas longitudinal data system" or "system" means a statewide
+14 data system that contains education, workforce, health and other data
+15 identified by the division.
+16 (i) "Memorandum of understanding" means an agreement between
+17 the divsion and a participating agency or outside entity that sets forth the
+18 details of how data is shared within the Kansas longitudinal data system
+19 and the respective legal rights and responsibilities of each party within the
+20 data sharing process.
+21 (j) "Outside entity" means any public or private entity that may enter
+22 into a memorandum of understanding to participate in the Kansas
+23 longitudinal data system and is not a participating agency.
+24 (k) "Participating agency" means the:
+25 (1) State department of education;
+26 (2) state board of regents;
+27 (3) department of labor;
+28 (4) department of revenue;
+29 (5) department of health and environment;
+30 (6) department of commerce; and
+31 (7) any outside entity that has entered into a memorandum of
+32 understanding for participation in the Kansas longitudinal data system.
+33 (l) "Research designee" means an individual, organization or entity
+34 designated and approved pursuant to section 6, and amendments thereto, to
+35 assist in conducting research and analysis using data from the Kansas
+36 longitudinal data system. A "research designee" shall possess demonstrated
+37 expertise in data analysis, education, workforce or related fields and shall
+38 adhere to all privacy, security and confidentiality requirements required by
+39 this act and any other applicable state and federal laws.
+40 (m) "Workforce data" means data relating to workforce and
+41 employment, including, but not limited to, the following:
+42 (1) Employment status;
+43 (2) wage information;
+
+HB 2303 3
+1 (3) geographic location of employment;
+2 (4) industry or occupation;
+3 (5) certification and licensure;
+4 (6) job service and training information to support enhanced
+5 employment opportunities; and
+6 (7) any other data impacting the workforce deemed necessary by the
+7 division.
+8 New Sec. 3. (a) The division of longitudinal data shall establish the
+9 Kansas longitudinal data system as a secure means to:
+10 (1) Exchange, de-identify and match individual-level education and
+11 workforce data from participating agencies and outside entities while
+12 upholding legal protections to ensure privacy and security;
+13 (2) connect individuals and organizations to trusted information,
+14 resources, tools and services that support the education-to-employment
+15 pipeline;
+16 (3) provide the legislature and state agencies with access to data
+17 regarding state workforce development, including early learning,
+18 education, workforce training and employment outcomes; and
+19 (4) match data from participating agencies over time to create reports
+20 that may then be aggregated and analyzed to assist the legislature and state
+21 agencies with developing strategies to improve education and workforce
+22 outcomes.
+23 (b) Each participating agency shall enter into a memorandum of
+24 understanding with the division to participate in the system. All
+25 information matched from participating agencies shall be collected,
+26 safeguarded, kept confidential and used only by the division in accordance
+27 with this act and state and federal law. Each participating agency shall
+28 retain ownership of any data the participating agency provides to the
+29 system and shall reserve the right to opt out of any research request if the
+30 request would violate state or federal law. A participating agency shall not
+31 have access to data owned by another participating agency unless a data
+32 request is approved by the division.
+33 (c) The division shall conduct research using the system related to the
+34 research goals and mission adopted by the division.
+35 (d) The division may contract with any person or entity to implement
+36 and administer this act.
+37 (e) Notwithstanding any other provision of law, state agencies are
+38 hereby authorized to enter into memorandums of understanding with the
+39 division to share data as provided by this act.
+40 New Sec. 4. (a) There is hereby established the division of
+41 longitudinal data within the legislative research department. The head of
+42 the division shall be the director of longitudinal data. The director shall be
+43 appointed by the legislative coordinating council by a vote of five
+
+HB 2303 4
+1 members of the legislative coordinating council taken at any regular
+2 meeting of such council. The director shall receive such compensation as
+3 is determined by the legislative coordinating council. The director, and any
+4 of the director's assistants specified by the legislative coordinating council,
+5 shall receive expenses and allowances for in-state and out-of-state travel as
+6 is provided by law for members of the legislature. The director shall hire
+7 such assistants and employees of the division as are authorized by the
+8 legislative coordinating council and shall set their compensation subject to
+9 the approval of such council. The director and all assistants and employees
+10 of the division shall be in the unclassified service. The director shall be an
+11 authorized representative for partner entity data.
+12 (b) The division shall perform the following duties:
+13 (1) Establish the Kansas longitudinal data system pursuant to section
+14 3, and amendments thereto;
+15 (2) develop a strategic plan to develop, implement and utilize the
+16 system to accomplish the objectives of the division;
+17 (3) collect data from participating agencies and outside entities;
+18 (4) connect and ensure collected data is de-identified by the division;
+19 (5) store connected data;
+20 (6) conduct research on data using the system in accordance with the
+21 research agenda adopted by the legislative coordinating council;
+22 (7) conduct research on data in the system to answer research
+23 requests;
+24 (8) oversee compliance regarding the security and protection of data
+25 shared to and stored in the system;
+26 (9) develop a data governance and security plan for the system
+27 regarding the use, privacy and security of data and publish the plan on a
+28 website developed and administered, or caused to be developed and
+29 administered, by the division;
+30 (10) establish policies for sharing aggregated data or reports with the
+31 public and external entities;
+32 (11) develop strategies to promote the transparent operation of the
+33 system; and
+34 (12) prepare and provide an annual report to the legislative
+35 coordinating council and the governor.
+36 (c) The director shall create a prioritized list of data research requests.
+37 On or before January 31, 2026, the director shall accept data research
+38 requests from:
+39 (1) A legislative committee or a legislative staff office;
+40 (2) the governor or an executive branch agency;
+41 (3) the state board of education; and
+42 (4) the state board of regents.
+43 (d) The division shall report the list described in subsection (c) to the
+
+HB 2303 5
+1 Legislative coordinating council on or before December 1 of each year.
+2 (e) (1) In addition to conducting data research in accordance with the
+3 prioritized list described in subsection (c), upon the approval of the
+4 legislative coordinating council, the division may prepare data research at
+5 the request of:
+6 (A) A state governmental entity;
+7 (B) a political subdivision of the state;
+8 (C) a private entity; or
+9 (D) a member of the public.
+10 (2) For any such data research request, the division shall determine:
+11 (A) Whether the division can complete the data research request; and
+12 (B) the order in which the division shall complete the data research
+13 request, if at all.
+14 (3) The division may require the person or entity that submitted the
+15 data research request to pay, once the data research is complete, the full
+16 cost of completing the data research request as determined by the division.
+17 Upon receipt of any payment made pursuant to this section, the division
+18 shall remit such moneys to the state treasurer in accordance with the
+19 provisions of K.S.A. 75-4215, and amendments thereto. Upon receipt of
+20 each such remittance, the state treasurer shall deposit the entire amount in
+21 the state treasury.
+22 (f) In the event of a data breach, the division shall comply with any
+23 applicable law, including, but not limited to, K.S.A. 2024 Supp. 75-7244,
+24 and amendments thereto, and any other laws pertaining to data breaches
+25 and notification thereof.
+26 New Sec. 5. Direct access to data in the system shall be restricted to
+27 authorized staff of the division of longitudinal data, the research designee
+28 or other persons approved by the legislative coordinating council if such
+29 persons have a need to access such data to further the objectives of this act.
+30 The division may limit access to data to certain categories or types of data
+31 or on any other basis determined by the division.
+32 New Sec. 6. (a) The division of longitudinal data may designate a
+33 research designee to assist in conducting data research and fulfilling the
+34 objectives outlined in this act. The research designee shall be an individual
+35 or entity with demonstrated expertise in data analysis, education,
+36 workforce or related fields.
+37 (b) The process for designating a research designee shall be as
+38 follows:
+39 (1) The division may submit a written request to the legislative
+40 coordinating council identifying the proposed research designee,
+41 including:
+42 (A) The qualifications and expertise of the designee;
+43 (B) the scope of work the designee will perform; and
+
+HB 2303 6
+1 (C) a statement explaining how the designee's work aligns with the
+2 goals of the Kansas longitudinal data system;
+3 (2) the legislative coordinating council shall review the request and
+4 may request additional information or documentation from the proposed
+5 designee; and
+6 (3) the legislative coordinating council shall approve or deny the
+7 request within 60 days of submission of the written request.
+8 (c) Upon approval, the research designee shall be:
+9 (1) Authorized to access data and perform research as specified in the
+10 approved scope of work; and
+11 (2) subject to all privacy, security and confidentiality requirements
+12 established pursuant to this act and applicable state and federal laws.
+13 (d) The designation of a research designee shall be valid for a term
+14 not to exceed three years, after which the division may submit a request
+15 for renewal to the legislative coordinating council. Any request to renew
+16 the designation of a research designee shall follow the same process
+17 described in subsection (b).
+18 (e) The legislative coordinating council may revoke the designation
+19 of a research designee at any time for cause, including, but not limited to,
+20 failure to comply with privacy and security requirements or a breach of
+21 contract.
+22 (f) The division shall publish the names and roles of all approved
+23 research designees on the division's publicly accessible website.
+24 New Sec. 7. (a) The division of longitudinal data shall establish, or
+25 cause to be established, the Kansas credential and skills registry. The
+26 Kansas credential and skills registry shall be a comprehensive and
+27 consistently up-to-date collection of information on all educational and
+28 occupational credentials that are granted, issued, funded or governed by
+29 the state. Educational and occupational credentials, include, but are not
+30 limited to, diplomas, certificates, certifications, digital badges,
+31 apprenticeships, licenses and degrees of all types and levels. Information
+32 to be included in the registry shall include, but shall not be limited to:
+33 (1) The name of the credential;
+34 (2) the type of credential;
+35 (3) the owner of the credential;
+36 (4) the provider of the credential;
+37 (5) the status of the credential;
+38 (6) a short description of the credential;
+39 (7) the estimated duration for completion;
+40 (8) the process and outcome quality indicators of the provider and the
+41 credential;
+42 (9) the competencies and skills included in the credential;
+43 (10) the costs of completion;
+
+HB 2303 7
+1 (11) any assessments and costs of such assessments associated with
+2 earning the credential;
+3 (12) transfer value recommendations, as available;
+4 (13) descriptions of known credential pathways;
+5 (14) outcomes associated with the credential, including, but not
+6 limited to, earnings and employment, completion and pass rates and
+7 calculations of return-on-investment, as available;
+8 (15) the industry and occupation related to the credential that may
+9 include its code under the north American industry classification system;
+10 and
+11 (16) other such information as determined by the division.
+12 (b) On or before June 30, 2026, and each June 30 thereafter, the
+13 division shall develop a list of credentials that are aligned to in-demand
+14 occupations for each industry operating in the state, and shall clearly
+15 indicate such list among the overall collection of credentials in the registry.
+16 (c) The registry shall be available to the public as linked, open and
+17 interoperable data, readable by individuals and machine actionable,
+18 aligned with widely recognized standards and allow for open access across
+19 sector platforms, such as through credential transparency description
+20 language families of schema.
+21 (d) The registry shall not include any personally identifiable
+22 information about the holders of such credentials. The division shall seek
+23 to align registry data with student-level information in the Kansas
+24 longitudinal data system.
+25 (e) The division shall ensure that data in the registry are used in tools
+26 and services for students, learners, workers, employers, educators,
+27 policymakers and the general public, including:
+28 (1) Education and training search, guidance, navigation and
+29 counseling;
+30 (2) depiction and navigation of pathways;
+31 (3) awareness and management of dual credit or dual enrollment and
+32 transfers; and
+33 (4) comprehensive learner records or learning and employment
+34 records.
+35 New Sec. 8. Sections 1 through 7, and amendments thereto, shall
+36 expire on January 1, 2033.
+37 Sec. 9.
+38 LEGISLATIVE COORDINATING COUNCIL
+39 (a) There is hereby appropriated for the above agency from the state
+40 general fund for the fiscal year ending June 30, 2026, the following:
+41 Division of longitudinal data
+42 (including official hospitality) (428-00-1000-0103)...............$3,000,000
+43 Sec. 10. K.S.A. 72-6314 is hereby amended to read as follows: 72-
+
+HB 2303 8
+1 6314. (a) Any student data submitted to and maintained by a statewide
+2 longitudinal student data system shall only be disclosed by an educational
+3 agency in accordance with the provisions of this section. An educational
+4 agency shall provide annual written notice to each student's parent or legal
+5 guardian that student data may be disclosed in accordance with this
+6 section. Such notice shall be signed by the student's parent or legal
+7 guardian and maintained on file with the district.
+8 (b) Student data may be disclosed at any time to the:
+9 (1) The Authorized personnel of an educational agency who require
+10 such disclosures to perform their assigned duties;
+11 (2) the authorized personnel of the state board of regents who require
+12 such disclosures to perform their assigned duties; and
+13 (3) the student and the parent or legal guardian of the student,
+14 provided the student data pertains solely to such student; and
+15 (4) authorized personnel of the division of longitudinal data
+16 established pursuant to the longitudinal data act.
+17 (c) Student data may be disclosed to the authorized personnel of any
+18 state agency not specified in subsection (b), or to a service provider of a
+19 state agency, educational agency or school who is engaged to perform a
+20 function of instruction, assessment or longitudinal reporting, provided
+21 there is a data-sharing agreement between the educational agency and such
+22 other state agency or service provider that provides the following:
+23 (1) The purpose, scope and duration of the data-sharing agreement;
+24 (2) that the recipient of the student data use such information solely
+25 for the purposes specified in the agreement;
+26 (3) that the recipient shall comply with data access, use and security
+27 restrictions that are specifically described in the agreement; and
+28 (4) that the student data shall be destroyed when no longer necessary
+29 for the purposes of the data-sharing agreement or upon expiration of the
+30 data-sharing agreement, whichever occurs first. Except that a service
+31 provider engaged to perform a function of instruction may retain student
+32 transcripts as required by applicable laws and rules and regulations.
+33 Destruction shall comply with the NISTSP800-88 standards of data
+34 destruction.
+35 (d) (1) Except as otherwise provided in paragraph (2), student data
+36 may be disclosed to any governmental entity not specified in subsection
+37 (b) or (c), or to any public or private audit and evaluation or research
+38 organization, provided that only aggregate data is disclosed to such
+39 governmental entity or audit and evaluation or research organization.
+40 (2) Personally identifiable student data may be disclosed if the
+41 student, if an adult, or the parent or legal guardian of the student, if a
+42 minor, consents to such disclosure in writing.
+43 (e) Notwithstanding the provisions of subsections (b), (c) and (d), an
+
+HB 2303 9
+1 educational agency may disclose:
+2 (1) Directory information of a student when such agency deems such
+3 disclosure necessary and the disclosure of which has been consented to in
+4 writing by such student's parent or legal guardian;
+5 (2) directory information to an enhancement vendor that provides
+6 photography services, class ring services, yearbook publishing services,
+7 memorabilia services or other substantially similar services;
+8 (3) any information required to be disclosed pursuant to K.S.A. 65-
+9 101, 65-118 and 65-202, and amendments thereto, provided such
+10 information is disclosed in accordance with any provisions of such statutes
+11 regarding the confidentiality and disclosure of such information;
+12 (4) any student data in order to comply with any lawful subpoena or
+13 court order directing such disclosure; and
+14 (5) student data to a public or private postsecondary educational
+15 institution which is required by such postsecondary educational institution
+16 for the purposes of application or admission of a student to such
+17 postsecondary educational institution, provided that such disclosure is
+18 consented to in writing by such student.
+19 Sec. 11. K.S.A. 72-6314 is hereby repealed.
+20 Sec. 12. This act shall take effect and be in force from and after its
+21 publication in the statute book.
+
+[DELETED: Acdttll a m e wrof py ie i; mg ad c0a1l; ag K. 74 ad rg te e2s4B5N6b7N8(9(0a1(2o3(4(5t6t7(8e cd lg ps th p e9i0(1(2(3(4(5(]
+[DELETED: 3(((((((((0d1(2d3(4d5i6(7t8d9a0d1(2io a mm of ug to pe in te K3l4(5(6(7(8(9(0(1(e t s d a m 2u3(4d5a6l7e8a9t0(e d" ms da rg to we a1e2(3(]
+[DELETED: 3((((b se ad tg in to st ee(dNK0(1w2u3(4r5p6(7rg se we d, ig ey l8e9(0t1a2o3(4ug wh te dn to pe in te s. A5in md fm pg as sl be c6s7w8r9s0r1h2r3(4r5(6a7(8h9d0Nw S. 4) Te is hy ed te dn o1l2t3a]
+[DELETED: 3mmiosislt0o1a2(3(435(6s7(8(9(0(1r2(m 3r4(5s6(7r8w9a0(1p2(3s4(e ad pe an al rt to te l5c6(7O8r9(0(1(2(3(]
+[DELETED: 3L(plt((((0(1(2(3r4(5d6c7U8s9p0e1t2(3a4a5a6N7a8o9p0T1o2N3r4o5or ey wh dd ee in da a, e6w7(8f9(0cg cl ig te pd rh d1i2(3(]
+[DELETED: 3(g(md(r((0a1(2e3(4n5f6t7d8(9o0f1c2(3r4N5c6Ks l d s l e e 7c8o9t0ld t, d, c, c, dl b1a2t3(4(5(6(7(8(9(0(1c2(3(]
+[DELETED: 3(e(((s lc(i0a1(2(3d4o5i6(7ie d, re by is ad me a8a9s0l1(e ry sl nt ie ay py i2i3to an r da wh sl in in te K4l5(6ad ss fr s, l, w, e, e7p8(n ad tg s, g, nn a9c0(1(2t3(e lr rs or lg ad e4r5N6e7S8L9(0g1D2(3S]
+[DELETED: 36laagsg((0s1(2s3(e 4p5(d pl of te dn of ll d6e7(8s9s0f1t2o3(4(5f6(7r8(9f0d1p2t3D4d5(6m7(8o9g0(1s2m3(]
+[DELETED: 3e(dw(pm(1, 68 ad 6, ad as t, pd s0i1r2(3c4(5i6fr e s f  o a oa t t s7p8c9S0S1p]

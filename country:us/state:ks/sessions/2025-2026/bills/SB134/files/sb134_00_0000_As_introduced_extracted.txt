@@ -1,0 +1,419 @@
+Title: SENATE BILL No. 134
+Official Title: SENATE BILL No. 134
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Education
+1-30
+1 AN ACT concerning education; relating to employment files of teachers
+2 employed by a school district; authorizing school districts to request
+3 and receive an applicant teacher's employment files from another
+4 school district if such teacher was previously employed by such other
+5 school district; establishing which school district is responsible for and
+6 the custodian of teacher employment files under the Kansas open
+7 records act; amending K.S.A. 2024 Supp. 45-220 and repealing the
+8 existing section.
+9
+10 Be it enacted by the Legislature of the State of Kansas:
+11 New Section 1. (a) (1) A hiring school district shall require each
+12 teacher who applies for a teaching position in such school district and is or
+13 has been employed as a teacher by another school district to execute a
+14 written waiver that:
+15 (A) Explicitly authorizes each school district to disclose the applicant
+16 teacher's files to the hiring school district if such school district has:
+17 (i) Employed the applicant teacher as a teacher;
+18 (ii) received an application from the applicant for a position as a
+19 teacher; or
+20 (iii) conducted an employment background investigation on the
+21 applicant teacher; and
+22 (B) releases the hiring school district from any liability related to the
+23 use and disclosure of the applicant teacher's files in accordance with
+24 subparagraph (A).
+25 (2) An applicant teacher who refuses to execute the written waiver
+26 shall not be considered for employment by the hiring school district.
+27 (3) When submitting a request for an applicant teacher's files to
+28 another school district, the hiring school district shall include the signed,
+29 written waiver with each such request.
+30 (b) Except as provided in subsection (c), a school district that receives
+31 a request for an applicant teacher's files that includes the written waiver
+32 required in subsection (a) shall disclose such applicant teacher's files to the
+33 hiring school district not more than 21 days after receipt of such request.
+34 Such school district may disclose the applicant teacher's files by either:
+35 (1) Providing paper or electronic copies to the hiring school district;
+36 or
+SB 134 2
+1 (2) allowing the hiring school district representatives to review the
+2 files at the school district's office.
+3 (c) (1) A school district shall not disclose an applicant teacher's files
+4 pursuant to subsection (b) if such school district is prohibited from
+5 providing the applicant teacher's files pursuant to a binding nondisclosure
+6 agreement to which such school district is a party, and such agreement was
+7 executed before July 1, 2025.
+8 (2) A school district shall disclose the applicant teacher's files
+9 pursuant to subsection (b) if such files are subject to a binding
+10 nondisclosure agreement to which such school district is a party, and such
+11 agreement was executed on or after July 1, 2025, except that the disclosure
+12 shall be limited to the files necessary to determine the qualifications and
+13 fitness of the applicant teacher in the performance of such applicant
+14 teacher's duties as a teacher.
+15 (3) A school district may redact personally identifiable information of
+16 individuals other than the applicant teacher in the files disclosed to the
+17 hiring school district.
+18 (d) A school district shall be immune from civil suits relating to
+19 disclosure or lack thereof if the school district acted in good faith in
+20 complying with this section or participated in an official oral interview
+21 with a hiring school district representative regarding the applicant teacher.
+22 (e) (1) Except as provided in this subsection or as necessary for a
+23 school district's internal hiring process, files obtained pursuant to this
+24 section shall not be disclosed by a hiring school district.
+25 (2) Files obtained pursuant to this section shall constitute, for the
+26 purposes of the Kansas open records act, K.S.A. 45-215 et seq., and
+27 amendments thereto, a record of the school district that made, maintained
+28 or kept such files. Such files shall not be subject to request for inspection
+29 and copying under the Kansas open records act directed toward the hiring
+30 school district obtaining the files. The official custodian of such files, for
+31 the purposes of the Kansas open records act, shall be the official custodian
+32 of the records of such school district.
+33 (3) Except in a civil action involving negligent hiring, the files shall
+34 not be subject to discovery, subpoena or other process directed toward the
+35 hiring school district that obtained such files.
+36 (f) As used in this section:
+37 (1) (A) "Files" means:
+38 (i) All performance reviews or other files related to job performance,
+39 commendations, administrative files, grievances, previous personnel
+40 applications, personnel-related claims, disciplinary actions, internal
+41 investigation files, suspensions, investigation-related leave, documents
+42 concerning termination or other departure from employment and all
+43 complaints; and
+SB 134 3
+1 (ii) regardless of whether the applicant teacher was ultimately hired,
+2 the employment application, background investigations, evaluations or
+3 reports connected to the application process.
+4 (B) "Files" does not include documents or data that are not related to
+5 job performance, including, but not limited to, medical files, psychological
+6 examination reports not directly related to the applicant's suitability for
+7 employment or certification as a teacher, schedules, pay and benefit
+8 information or similar administrative data or information.
+9 (2) "Hiring school district" means a school district processing an
+10 application for employment as a teacher in such school district, regardless
+11 of whether the applicant is ultimately hired.
+12 (3) "School district" means a school district organized and operating
+13 under the laws of this state.
+14 Sec. 2. K.S.A. 2024 Supp. 45-220 is hereby amended to read as
+15 follows: 45-220. (a) Each public agency shall adopt procedures to be
+16 followed in requesting access to and obtaining copies of public records,
+17 which procedures shall provide full access to public records, protect public
+18 records from damage and disorganization, prevent excessive disruption of
+19 the agency's essential functions, provide assistance and information upon
+20 request and ensure efficient and timely action in response to applications
+21 for inspection of public records.
+22 (b) A public agency may require a written request for inspection of
+23 public records but shall not otherwise require a request to be made in any
+24 particular form. Except as otherwise provided by subsection (c), a public
+25 agency shall not require that a request contain more information than the
+26 requester's name and address and the information necessary to ascertain
+27 the records to which the requester desires access and the requester's right
+28 of access to the records. A public agency may require proof of identity of
+29 any person requesting access to a public record. No request shall be
+30 returned, delayed or denied because of any technicality unless it is
+31 impossible to determine the records to which the requester desires access.
+32 (c) If access to public records of an agency or the purpose for which
+33 the records may be used is limited pursuant to K.S.A. 45-221 or 45-230,
+34 and amendments thereto, the agency may require a person requesting the
+35 records or information therein to provide written certification that:
+36 (1) The requester has a right of access to the records and the basis of
+37 that right; or
+38 (2) the requester does not intend to, and will not:
+39 (A) Use any list of names or addresses contained in or derived from
+40 the records or information for the purpose of selling or offering for sale
+41 any property or service to any person listed or to any person who resides at
+42 any address listed; or
+43 (B) sell, give or otherwise make available to any person any list of
+SB 134 4
+1 names or addresses contained in or derived from the records or
+2 information for the purpose of allowing that person to sell or offer for sale
+3 any property or service to any person listed or to any person who resides at
+4 any address listed.
+5 (d) A public agency shall establish, for business days when it does not
+6 maintain regular office hours, reasonable hours when persons may inspect
+7 and obtain copies of the agency's records. The public agency may require
+8 that any person desiring to inspect or obtain copies of the agency's records
+9 during such hours so notify the agency, but such notice shall not be
+10 required to be in writing and shall not be required to be given more than 24
+11 hours prior to the hours established for inspection and obtaining copies.
+12 (e) Each official custodian of public records shall designate such
+13 persons as necessary to carry out the duties of custodian under this act and
+14 shall ensure that a custodian is available during regular business hours of
+15 the public agency to carry out such duties.
+16 (f) Each public agency shall provide, upon request of any person, the
+17 following information:
+18 (1) The principal office of the agency, its regular office hours and any
+19 additional hours established by the agency pursuant to subsection (c).
+20 (2) The title and address of the official custodian of the agency's
+21 records and of any other custodian who is ordinarily available to act on
+22 requests made at the location where the information is displayed.
+23 (3) The fees, if any, charged for access to or copies of the agency's
+24 records.
+25 (4) The procedures to be followed in requesting access to and
+26 obtaining copies of the agency's records, including procedures for giving
+27 notice of a desire to inspect or obtain copies of records during hours
+28 established by the agency pursuant to subsection (c).
+29 (g) (1) Except for requests of summary data compiled from
+30 information submitted by multiple criminal justice agencies or as
+31 otherwise provided by law, requests for records submitted to the central
+32 repository or any other repositories supporting the criminal justice
+33 information system that are maintained by the Kansas bureau of
+34 investigation pursuant to K.S.A. 22-4704 and 22-4705, and amendments
+35 thereto, shall be directed to the criminal justice agency from which the
+36 records originated.
+37 (2) As used in this subsection, the terms "central repository,"
+38 "criminal justice agency" and "criminal justice information system" have
+39 the same meanings as defined in K.S.A. 22-4701, and amendments thereto.
+40 (h) Except for requests of summary data compiled from information
+41 submitted by multiple law enforcement agencies or as otherwise provided
+42 by law, requests for records submitted to the Kansas asset seizure and
+43 forfeiture repository that are maintained by the Kansas bureau of
+SB 134 5
+1 investigation pursuant to K.S.A. 2024 Supp. 60-4127, and amendments
+2 thereto, shall be directed to the law enforcement agency from which the
+3 records originated.
+4 (i) Requests for records defined as "files" pursuant to K.S.A. 75-
+5 4379, and amendments thereto, submitted to a state or local law
+6 enforcement agency or governmental agency shall be directed to the state
+7 or local law enforcement agency or governmental agency that made,
+8 maintained or kept such files, as required by K.S.A. 75-4379, and
+9 amendments thereto.
+10 (j) Requests for records that contain captured license plate data or that
+11 pertain to the location of an automated license plate recognition system
+12 submitted to a state or local law enforcement agency or governmental
+13 agency shall be directed to the state or local law enforcement agency or
+14 governmental agency that owns, leases or contracts for the automated
+15 license plate recognition system.
+16 (k) Requests for records defined as "files" pursuant to section 1, and
+17 amendments thereto, submitted to a school district shall be directed to the
+18 school district that made, maintained or kept such files, as required by
+19 section 1, and amendments thereto.
+20 Sec. 3. K.S.A. 2024 Supp. 45-220 is hereby repealed.
+21 Sec. 4. This act shall take effect and be in force from and after its
+22 publication in the statute book.
+[DELETED: Aeasstre0B1N2t3h4w5(6t7(8(9t0(d an et bd in on t1a2(3u4s5(6s7(8a9w0(1a2r3h4S5(6o]
+[DELETED: 4(f(ppae( sl dt sl de te at ts fpt to sn () if sh fs ae st to a b0n1a2s3f4t5(6i7h8(9d0c1w2(3s4s5(6p7a8o9a0s1t2o3(4n5h6(7(8(9c, ae f, g, ps p0a, pd c, dy a, i1i2c3c]
+[DELETED: 4(tr(jeei(0a1o2(3u4S5f. 6f7w8r9t0r1f2(3p4p5a6r7t8o9a0r1i2(3t4a5r6(7t8(9(0t1a2a3(]
+[DELETED: 4ns or as cd in or dd fm te rs oiaa(matd0r1h2(3p4s5t6(7f8(9a0(1r2r3(4r5(s 6o7n8e9() (t fr rs of sy da cd f0in sd by me cl je as or a1o2ry or ay or rs sg te cl j3in sm tt ae md by te Ks bu o4i5t6r7(s ud in ts s, te ts "l r8"9t0(1s2b3fe ry tt ae md by te Ks bu o]
+[DELETED: 4itr(4, ad as t, sd to a se or ll leoma0(1p2s3a4g5l6(7a8s9s0S1S2p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 134
+By Committee on Education
+1-30
+1 AN ACT concerning education; relating to employment files of teachers
+2 employed by a school district; authorizing school districts to request
+3 and receive an applicant teacher's employment files from another
+4 school district if such teacher was previously employed by such other
+5 school district; establishing which school district is responsible for and
+6 the custodian of teacher employment files under the Kansas open
+7 records act; amending K.S.A. 2024 Supp. 45-220 and repealing the
+8 existing section.
+9
+10 Be it enacted by the Legislature of the State of Kansas:
+11 New Section 1. (a) (1) A hiring school district shall require each
+12 teacher who applies for a teaching position in such school district and is or
+13 has been employed as a teacher by another school district to execute a
+14 written waiver that:
+15 (A) Explicitly authorizes each school district to disclose the applicant
+16 teacher's files to the hiring school district if such school district has:
+17 (i) Employed the applicant teacher as a teacher;
+18 (ii) received an application from the applicant for a position as a
+19 teacher; or
+20 (iii) conducted an employment background investigation on the
+21 applicant teacher; and
+22 (B) releases the hiring school district from any liability related to the
+23 use and disclosure of the applicant teacher's files in accordance with
+24 subparagraph (A).
+25 (2) An applicant teacher who refuses to execute the written waiver
+26 shall not be considered for employment by the hiring school district.
+27 (3) When submitting a request for an applicant teacher's files to
+28 another school district, the hiring school district shall include the signed,
+29 written waiver with each such request.
+30 (b) Except as provided in subsection (c), a school district that receives
+31 a request for an applicant teacher's files that includes the written waiver
+32 required in subsection (a) shall disclose such applicant teacher's files to the
+33 hiring school district not more than 21 days after receipt of such request.
+34 Such school district may disclose the applicant teacher's files by either:
+35 (1) Providing paper or electronic copies to the hiring school district;
+36 or
+
+SB 134 2
+1 (2) allowing the hiring school district representatives to review the
+2 files at the school district's office.
+3 (c) (1) A school district shall not disclose an applicant teacher's files
+4 pursuant to subsection (b) if such school district is prohibited from
+5 providing the applicant teacher's files pursuant to a binding nondisclosure
+6 agreement to which such school district is a party, and such agreement was
+7 executed before July 1, 2025.
+8 (2) A school district shall disclose the applicant teacher's files
+9 pursuant to subsection (b) if such files are subject to a binding
+10 nondisclosure agreement to which such school district is a party, and such
+11 agreement was executed on or after July 1, 2025, except that the disclosure
+12 shall be limited to the files necessary to determine the qualifications and
+13 fitness of the applicant teacher in the performance of such applicant
+14 teacher's duties as a teacher.
+15 (3) A school district may redact personally identifiable information of
+16 individuals other than the applicant teacher in the files disclosed to the
+17 hiring school district.
+18 (d) A school district shall be immune from civil suits relating to
+19 disclosure or lack thereof if the school district acted in good faith in
+20 complying with this section or participated in an official oral interview
+21 with a hiring school district representative regarding the applicant teacher.
+22 (e) (1) Except as provided in this subsection or as necessary for a
+23 school district's internal hiring process, files obtained pursuant to this
+24 section shall not be disclosed by a hiring school district.
+25 (2) Files obtained pursuant to this section shall constitute, for the
+26 purposes of the Kansas open records act, K.S.A. 45-215 et seq., and
+27 amendments thereto, a record of the school district that made, maintained
+28 or kept such files. Such files shall not be subject to request for inspection
+29 and copying under the Kansas open records act directed toward the hiring
+30 school district obtaining the files. The official custodian of such files, for
+31 the purposes of the Kansas open records act, shall be the official custodian
+32 of the records of such school district.
+33 (3) Except in a civil action involving negligent hiring, the files shall
+34 not be subject to discovery, subpoena or other process directed toward the
+35 hiring school district that obtained such files.
+36 (f) As used in this section:
+37 (1) (A) "Files" means:
+38 (i) All performance reviews or other files related to job performance,
+39 commendations, administrative files, grievances, previous personnel
+40 applications, personnel-related claims, disciplinary actions, internal
+41 investigation files, suspensions, investigation-related leave, documents
+42 concerning termination or other departure from employment and all
+43 complaints; and
+
+SB 134 3
+1 (ii) regardless of whether the applicant teacher was ultimately hired,
+2 the employment application, background investigations, evaluations or
+3 reports connected to the application process.
+4 (B) "Files" does not include documents or data that are not related to
+5 job performance, including, but not limited to, medical files, psychological
+6 examination reports not directly related to the applicant's suitability for
+7 employment or certification as a teacher, schedules, pay and benefit
+8 information or similar administrative data or information.
+9 (2) "Hiring school district" means a school district processing an
+10 application for employment as a teacher in such school district, regardless
+11 of whether the applicant is ultimately hired.
+12 (3) "School district" means a school district organized and operating
+13 under the laws of this state.
+14 Sec. 2. K.S.A. 2024 Supp. 45-220 is hereby amended to read as
+15 follows: 45-220. (a) Each public agency shall adopt procedures to be
+16 followed in requesting access to and obtaining copies of public records,
+17 which procedures shall provide full access to public records, protect public
+18 records from damage and disorganization, prevent excessive disruption of
+19 the agency's essential functions, provide assistance and information upon
+20 request and ensure efficient and timely action in response to applications
+21 for inspection of public records.
+22 (b) A public agency may require a written request for inspection of
+23 public records but shall not otherwise require a request to be made in any
+24 particular form. Except as otherwise provided by subsection (c), a public
+25 agency shall not require that a request contain more information than the
+26 requester's name and address and the information necessary to ascertain
+27 the records to which the requester desires access and the requester's right
+28 of access to the records. A public agency may require proof of identity of
+29 any person requesting access to a public record. No request shall be
+30 returned, delayed or denied because of any technicality unless it is
+31 impossible to determine the records to which the requester desires access.
+32 (c) If access to public records of an agency or the purpose for which
+33 the records may be used is limited pursuant to K.S.A. 45-221 or 45-230,
+34 and amendments thereto, the agency may require a person requesting the
+35 records or information therein to provide written certification that:
+36 (1) The requester has a right of access to the records and the basis of
+37 that right; or
+38 (2) the requester does not intend to, and will not:
+39 (A) Use any list of names or addresses contained in or derived from
+40 the records or information for the purpose of selling or offering for sale
+41 any property or service to any person listed or to any person who resides at
+42 any address listed; or
+43 (B) sell, give or otherwise make available to any person any list of
+
+SB 134 4
+1 names or addresses contained in or derived from the records or
+2 information for the purpose of allowing that person to sell or offer for sale
+3 any property or service to any person listed or to any person who resides at
+4 any address listed.
+5 (d) A public agency shall establish, for business days when it does not
+6 maintain regular office hours, reasonable hours when persons may inspect
+7 and obtain copies of the agency's records. The public agency may require
+8 that any person desiring to inspect or obtain copies of the agency's records
+9 during such hours so notify the agency, but such notice shall not be
+10 required to be in writing and shall not be required to be given more than 24
+11 hours prior to the hours established for inspection and obtaining copies.
+12 (e) Each official custodian of public records shall designate such
+13 persons as necessary to carry out the duties of custodian under this act and
+14 shall ensure that a custodian is available during regular business hours of
+15 the public agency to carry out such duties.
+16 (f) Each public agency shall provide, upon request of any person, the
+17 following information:
+18 (1) The principal office of the agency, its regular office hours and any
+19 additional hours established by the agency pursuant to subsection (c).
+20 (2) The title and address of the official custodian of the agency's
+21 records and of any other custodian who is ordinarily available to act on
+22 requests made at the location where the information is displayed.
+23 (3) The fees, if any, charged for access to or copies of the agency's
+24 records.
+25 (4) The procedures to be followed in requesting access to and
+26 obtaining copies of the agency's records, including procedures for giving
+27 notice of a desire to inspect or obtain copies of records during hours
+28 established by the agency pursuant to subsection (c).
+29 (g) (1) Except for requests of summary data compiled from
+30 information submitted by multiple criminal justice agencies or as
+31 otherwise provided by law, requests for records submitted to the central
+32 repository or any other repositories supporting the criminal justice
+33 information system that are maintained by the Kansas bureau of
+34 investigation pursuant to K.S.A. 22-4704 and 22-4705, and amendments
+35 thereto, shall be directed to the criminal justice agency from which the
+36 records originated.
+37 (2) As used in this subsection, the terms "central repository,"
+38 "criminal justice agency" and "criminal justice information system" have
+39 the same meanings as defined in K.S.A. 22-4701, and amendments thereto.
+40 (h) Except for requests of summary data compiled from information
+41 submitted by multiple law enforcement agencies or as otherwise provided
+42 by law, requests for records submitted to the Kansas asset seizure and
+43 forfeiture repository that are maintained by the Kansas bureau of
+
+SB 134 5
+1 investigation pursuant to K.S.A. 2024 Supp. 60-4127, and amendments
+2 thereto, shall be directed to the law enforcement agency from which the
+3 records originated.
+4 (i) Requests for records defined as "files" pursuant to K.S.A. 75-
+5 4379, and amendments thereto, submitted to a state or local law
+6 enforcement agency or governmental agency shall be directed to the state
+7 or local law enforcement agency or governmental agency that made,
+8 maintained or kept such files, as required by K.S.A. 75-4379, and
+9 amendments thereto.
+10 (j) Requests for records that contain captured license plate data or that
+11 pertain to the location of an automated license plate recognition system
+12 submitted to a state or local law enforcement agency or governmental
+13 agency shall be directed to the state or local law enforcement agency or
+14 governmental agency that owns, leases or contracts for the automated
+15 license plate recognition system.
+16 (k) Requests for records defined as "files" pursuant to section 1, and
+17 amendments thereto, submitted to a school district shall be directed to the
+18 school district that made, maintained or kept such files, as required by
+19 section 1, and amendments thereto.
+20 Sec. 3. K.S.A. 2024 Supp. 45-220 is hereby repealed.
+21 Sec. 4. This act shall take effect and be in force from and after its
+22 publication in the statute book.
+
+[DELETED: Aeasstre0B1N2t3h4w5(6t7(8(9t0(d an et bd in on t1a2(3u4s5(6s7(8a9w0(1a2r3h4S5(6o]
+[DELETED: 4(f(ppae( sl dt sl de te at ts fpt to sn () if sh fs ae st to a b0n1a2s3f4t5(6i7h8(9d0c1w2(3s4s5(6p7a8o9a0s1t2o3(4n5h6(7(8(9c, ae f, g, ps p0a, pd c, dy a, i1i2c3c]
+[DELETED: 4(tr(jeei(0a1o2(3u4S5f. 6f7w8r9t0r1f2(3p4p5a6r7t8o9a0r1i2(3t4a5r6(7t8(9(0t1a2a3(]
+[DELETED: 4ns or as cd in or dd fm te rs oiaa(matd0r1h2(3p4s5t6(7f8(9a0(1r2r3(4r5(s 6o7n8e9() (t fr rs of sy da cd f0in sd by me cl je as or a1o2ry or ay or rs sg te cl j3in sm tt ae md by te Ks bu o4i5t6r7(s ud in ts s, te ts "l r8"9t0(1s2b3fe ry tt ae md by te Ks bu o]
+[DELETED: 4itr(4, ad as t, sd to a se or ll leoma0(1p2s3a4g5l6(7a8s9s0S1S2p]

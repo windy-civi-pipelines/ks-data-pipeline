@@ -1,0 +1,2222 @@
+Title: HOUSE BILL No. 2255
+Official Title: HOUSE BILL No. 2255
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Agriculture and Natural Resources
+Requested by Kelsey Olson on behalf of the Kansas Department of Agriculture
+2-4
+1 AN ACT concerning weights and measures; consolidating chapter 83
+2 definitions into a single section; defining device for weighing,
+3 measuring or both; increasing the minimum fee per invoice from $50 to
+4 $70; authorizing licensed service companies and city or county
+5 departments of weights and measures to remove rejection tags for test
+6 or repair purposes; requiring any such entity to replace the rejection tag
+7 with a substitute if the device or equipment cannot be repaired and
+8 notify the secretary; requiring persons desiring to operate as a service
+9 company to obtain a license; establishing fees and procedures for such
+10 licensure; requiring nonresident service companies to designate a
+11 resident agent; requiring technical representatives to be licensed, attend
+12 continuing education seminars and pass an examination; authorizing
+13 the secretary to charge a fee for continuing education seminars;
+14 prohibiting service companies from receiving or renewing a license
+15 until their weights or measures, or both, are tested and sealed;
+16 authorizing the secretary to accept a calibration certificate in lieu of a
+17 test; authorizing the secretary to revoke, suspend, decline to renew or
+18 decline to issue a service company or technical representative license
+19 after notice and hearing for certain violations; requiring weights or
+20 measurers, or both used commercially to be tested and inspected
+21 annually by a licensed technical representative, an authorized city or
+22 county representative or the secretary; requiring test weights or
+23 equipment used in grain elevators to be approved and sealed annually,
+24 or every three years for those with a nominal capacity of 250 pounds or
+25 greater; requiring reports of tests and inspections to be furnished to the
+26 owner or operator and the secretary within 10 days; requiring electric
+27 vehicle supply equipment used commercially to be tested and inspected
+28 annually; requiring reports of tests and inspections of electric vehicle
+29 supply equipment to be furnished to the owner or operator and the
+30 secretary within 10 days; requiring electric vehicle supply equipment
+31 found to be inaccurate to be withdrawn from use until repaired and
+32 such equipment has met tolerances and specifications; requiring service
+33 companies to keep copies of reports for electric vehicle supply
+34 equipment; amending K.S.A. 83-201, 83-202, 83-207, 83-208, 83-214,
+35 83-215, 83-216, 83-217, 83-218, 83-219, 83-220, 83-221, 83-222, 83-
+HB 2255 2
+1 224, 83-225, 83-304, 83-305, 83-404, 83-405 and 83-501 and repealing
+2 the existing sections; also repealing K.S.A. 83-149, 83-154, 83-155,
+3 83-301, 83-302, 83-303, 83-308, 83-311, 83-326, 83-401, 83-402, 83-
+4 403, 83-407, 83-409, 83-410, 83-411 and 83-502.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 Section 1. K.S.A. 83-201 is hereby amended to read as follows: 83-
+8 201. As used in article 2 of chapter 83 of the Kansas Statutes Annotated
+9 and K.S.A. 83-502, and amendments thereto:
+10 (a) "Weights and measures" means all commercial weights or
+11 measures of every kind, instruments and devices for weighing and
+12 measuring, and any appliance and accessories associated with any or all
+13 such instruments and devices and any point-of-sale system.
+14 (b) "Weight" as used in connection with any commodity means net
+15 weight, except if the label declares that the product is sold by drained
+16 weight, the term means net drained weight.
+17 (c) "Correct" as used in connection with weights and measures means
+18 conformance to all applicable tolerances, specifications and requirements
+19 as established by the secretary and those established within article 2 of
+20 chapter 83 of Kansas Statutes Annotated, and amendments thereto or any
+21 rules and regulations adopted thereunder.
+22 (d) "Primary standards" means the physical standards of the state
+23 which serve as the legal reference from which all other standards and
+24 weights and measures are derived.
+25 (e) "Secondary standards" means the physical standards which are
+26 traceable to the primary standards through comparisons, using acceptable
+27 laboratory procedures, and used in the enforcement of weights and
+28 measures laws and rules and regulations.
+29 (f) "Person" means an individual, agent or employee of a service
+30 company, partnerships, corporations, companies, societies and
+31 associations.
+32 (g) "Sale from bulk" means the sale of commodities when the
+33 quantity is determined at the time of sale.
+34 (h) "Package" means any commodity put up or packaged in any
+35 manner in advance of sale in units suitable for either wholesale or retail
+36 sale.
+37 (i) "Drained weight" means the weight of the solid or semisolid
+38 product representing the contents of a package or container obtained after
+39 a prescribed method for excluding the liquid has been employed.
+40 (j) "Secretary" means the secretary of agriculture or the secretary's
+41 authorized representative.
+42 (k) "Measuring device" includes all weights, scales, beams, measures
+43 of every kind, instruments and mechanical devices for weighing or
+HB 2255 3
+1 measuring, and any appliances and accessories connected with any or all
+2 such instruments.
+3 (l) "Point-of-sale system" means any combination of a cash register
+4 or other devices, or system, such as a scanner, capable of recovering stored
+5 information related to the price or computing the price of any individual
+6 item which is sold or offered for sale at retail. A point-of-sale system may
+7 also include or be attached or connected to a weighing or measuring
+8 device.
+9 (m) "Scanner" means any electronic system that employs a laser-bar
+10 code reader to retrieve product identity, price or other information stored in
+11 a computer memory.
+12 (n) "Service company" means a company which is in the business of
+13 examining, calibrating, testing, repairing and adjusting weighing and
+14 measuring devices but such term does not include a technical
+15 representative unless the technical representative is the owner of such
+16 service company.
+17 (o) "Technical representative" means an individual who installs,
+18 repairs, adjusts or calibrates the weighing and measuring devices and
+19 certifies the accuracy of the weighing and measuring devices. this chapter:
+20 (a) "Chapter" means chapter 83 of the Kansas statutes annotated,
+21 and amendments thereto, and rules and regulations adopted thereunder.
+22 (b) "Correct," as used in connection with weights and measures,
+23 means conformance to all applicable tolerances, specifications and
+24 requirements as established by the secretary and those established within
+25 this chapter.
+26 (c) "Device used for weighing, measuring or both" means any weight,
+27 scale, beam, liquefied petroleum gas meter, vehicle tank meter, measures
+28 of every kind, instruments and mechanical or electronic devices for
+29 commercial weighing or measuring, and any appliances and accessories
+30 connected with any or all such instruments. "Device used for weighing,
+31 measuring or both" does not include dispensing devices.
+32 (d) "Dispensing device" means a motor-vehicle fuel or liquid fuel
+33 dispensing pump, meter or other similar measuring device and includes
+34 any device that dispenses refined or blended gasoline or diesel fuel
+35 product. "Dispensing device" does not include liquefied petroleum gas
+36 meters or vehicle tank meters.
+37 (e) "Drained weight" means the weight of the solid or semisolid
+38 product representing the contents of a package or container obtained after
+39 a prescribed method for excluding the liquid has been employed.
+40 (f) "Electric vehicle supply equipment" means a device with one or
+41 more charging ports and connectors for charging electric vehicles.
+42 "Electric vehicle supply equipment" includes all charging ports and
+43 supporting equipment necessary for the operation thereof and the area in
+HB 2255 4
+1 the immediate vicinity of the same, including adjacent parking areas and
+2 lanes for vehicle ingress and egress.
+3 (g) "Liquefied petroleum gas" means commercial propane and such
+4 commercial butane as is used for heating fuel.
+5 (h) "Package" means any commodity put up or packaged in any
+6 manner in advance of sale in units suitable for either wholesale or retail
+7 sale.
+8 (i) "Person" means an individual or a company, partnership,
+9 corporation, society association or governmental agency and any
+10 authorized agent thereof. "Person" does not include the secretary.
+11 (j) "Place of business" means any location from which a testing
+12 service or company, or one or more representatives or employees thereof,
+13 sells and performs services for the purpose of testing, repairing, adjusting
+14 or calibrating devices used for weighing, measuring or both, dispensing
+15 devices or electric vehicle supply equipment.
+16 (k) "Point-of-sale system" means any combination of a cash register
+17 or other devices, or system, such as a scanner, capable of recovering
+18 stored information related to the price or computing the price of any
+19 individual item that is sold or offered for sale at retail. A "point-of-sale
+20 system" may include or be attached or connected to a weighing or
+21 measuring device.
+22 (l) "Primary standards" means the physical standards of the state
+23 that serve as the legal reference from which all other standards and
+24 weights and measures are derived.
+25 (m) "Sale from bulk" means the sale of commodities when the
+26 quantity is determined at the time of sale.
+27 (n) "Scanner" means any electronic system that employs a laser-bar
+28 code reader to retrieve product identity, price or other information stored
+29 in a computer memory.
+30 (o) "Secondary standards" means the physical standards that are
+31 traceable to the primary standards through comparisons, using acceptable
+32 laboratory procedures, and used in the enforcement of weights and
+33 measures laws and rules and regulations.
+34 (p) "Secretary" means the secretary of the Kansas department of
+35 agriculture or the secretary's designee.
+36 (q) "Service company" means a company that is in the business of
+37 examining, calibrating, testing, repairing and adjusting devices used for
+38 weighing, measuring or both, dispensing devices or electric vehicle supply
+39 equipment. "Service company" does not include a technical representative
+40 unless the technical representative is the owner of such service company.
+41 (r) "Technical representative" means an individual who performs the
+42 proper installation, repair, adjustment or calibration and certification of
+43 the accuracy of a device used for weighing, measuring or both, dispensing
+HB 2255 5
+1 devices or electric vehicle supply equipment.
+2 (s) "Vehicle tank meter" means those meters mounted on vehicle
+3 tanks used for the measurement and delivery of petroleum products.
+4 (t) "Weight," as used in connection with any commodity means net
+5 weight, except that if the label declares that the product is sold by drained
+6 weight, then the term means net drained weight.
+7 (u) "Weights and measures" means all commercial weights or
+8 measures of every kind.
+9 Sec. 2. K.S.A. 83-202 is hereby amended to read as follows: 83-202.
+10 (a) Except as provided further:
+11 (1) The system of weights and measures in customary use in the
+12 United States and the metric system of weights and measures are jointly
+13 recognized, and either one or both of these systems shall be used for all
+14 commercial purposes in the state.
+15 (2) The following standards and requirements shall apply to
+16 commercial devices used for weighing and, measuring devices or both:
+17 (A) "The standards of the national conference on weights and
+18 measures" published in the national institute of standards and technology
+19 handbook 44, entitled specifications, tolerances, and other technical
+20 requirements for weighing and measuring devices, as published on in
+21 October, 1994, or later versions as established in rules and regulations
+22 adopted by the secretary, except that a mechanical vehicle scale used
+23 solely to sell aggregate products shall be allowed a minimum tolerance of
+24 +/- 100 pounds. Such scale shall not be sold or moved to another location
+25 for use in commercial applications unless it complies with all applicable
+26 tolerances of the national institute of standards and technology handbook
+27 44, entitled specifications, tolerances, and other technical requirements for
+28 weighing and measuring devices, as published in October, 1994, or later
+29 versions as established in rules and regulations adopted by the secretary;
+30 (B) "the uniform laws and regulations of the national conference on
+31 weights and measures" published in the national institute of standards and
+32 technology handbook 130 regarding packaging and labeling, the method of
+33 sale of commodities, national type evaluation regulation, motor fuel
+34 inspection and motor fuel regulation, as published on in December, 1994,
+35 or later versions as established in rules and regulations adopted by the
+36 secretary;
+37 (C) "checking the net contents of packaged goods" published in the
+38 national institute of standards and technology handbook 133, third edition,
+39 as published on in September, 1988, or later versions as established in
+40 rules and regulations adopted by the secretary;
+41 (D) "checking the net contents of packaged goods" published in the
+42 national institute of standards and technology handbook 133, third edition,
+43 supplement 4, as published on in October, 1994, or later versions as
+HB 2255 6
+1 established in rules and regulations adopted by the secretary; and
+2 (E) any other handbooks or sections thereof as adopted by the
+3 secretary by rules and regulations.
+4 (b) Whenever there exists an inconsistency between the provisions of
+5 chapter 83 of the Kansas Statutes Annotated, and amendments thereto, this
+6 chapter and any of the handbooks adopted by reference, the requirements
+7 of chapter 83 of the Kansas Statutes Annotated, and amendments thereto,
+8 this chapter shall control.
+9 Sec. 3. K.S.A. 83-207 is hereby amended to read as follows: 83-207.
+10 (a) The secretary of agriculture may adopt rules and regulations necessary
+11 for the administration and enforcement of the provisions of chapter 83 of
+12 the Kansas Statutes Annotated, and amendments thereto this chapter. As a
+13 part of such rules and regulations, the secretary of agriculture shall adopt
+14 standards setting forth specifications, tolerances and other technical
+15 requirements for all weights, measures and weighing and measuring
+16 devices, and point-of-sale systems. These specifications, tolerances and
+17 other technical requirements shall conform, insofar as practicable, to the
+18 specifications, tolerances and other technical requirements for weights,
+19 measures and weighing and measuring devices established by the national
+20 institute of standards and technology. The secretary of agriculture shall
+21 prescribe by rules and regulations the appropriate term or unit of weight or
+22 measure to be used whenever the secretary determines in the case of a
+23 specific commodity that an existing practice of declaring the quantity by
+24 weight, measure, or numerical count, or combination thereof, does not
+25 facilitate value comparisons by consumers, or that such practice offers an
+26 opportunity for consumer confusion.
+27 (b) The secretary may adopt rules and regulations concerning:
+28 (1) Standards of workmanship for technical representatives and
+29 service companies;
+30 (2) requirements for contractual responsibilities and fulfillment of
+31 agreements by service companies; and
+32 (3) maintenance and furnishing of reports and information necessary
+33 for the secretary to carry out the provisions of this act.
+34 Sec. 4. K.S.A. 83-208 is hereby amended to read as follows: 83-208.
+35 The secretary, or an authorized representative of the secretary, may, during
+36 normal business hours, enter any premises or vehicle in or on which any
+37 weights, measures, balances or, devices used for weighing, measuring
+38 devices or both, dispensing devices or electric vehicle supply equipment,
+39 subject to the requirements of this chapter or any related records required
+40 pursuant thereto may be located or used for the purposes of trade, for the
+41 purpose of inspecting, testing and sealing or rejecting the same or as
+42 otherwise necessary for the administration of this chapter. Whoever
+43 hinders, obstructs, or in any way interferes with the secretary or an
+HB 2255 7
+1 authorized representative of the secretary, while in the performance of the
+2 inspection, or whoever fails to produce, upon demand by such secretary or
+3 authorized representative, all weights, measures, balances or measuring
+4 devices in or upon the premises or vehicle of such person or in the
+5 possession of such person for use in manufacture or trade, shall be deemed
+6 guilty of a class A, nonperson misdemeanor.
+7 Sec. 5. K.S.A. 83-214 is hereby amended to read as follows: 83-214.
+8 (a) The secretary may try and prove weights, measures, balances and other
+9 measuring devices on request for any person, corporation or institution,
+10 and when the same are found or made to conform to the state standards,
+11 and otherwise fulfill such reasonable requirements as the secretary may
+12 make, the secretary, or an authorized representative of the secretary, may
+13 seal the same with a seal which that is kept for that purpose.
+14 (b) (1) Except as otherwise provided by statute, the secretary, or the
+15 authorized representative of the secretary, may charge for services
+16 provided by the department and other necessary and incidental expenses,
+17 or both, incurred in conjunction with the testing and proving of weights,
+18 measures or both and other devices at rates prescribed pursuant to this
+19 section. An in-state rate shall be charged to licensed service companies that
+20 have licensed technical representatives performing service work in Kansas.
+21 An additional fee for adjustment of any weight, measure or other device
+22 may be assessed. The rates charged by the secretary shall be as follows:
+23
+1
+HB 2255 9
+1 (2) The secretary may charge the following additional fees for
+2 preparing items for shipment:
+3 Category Rate
+4 Large Mass (≤ 1,250 lbs through ≥ 100 lbs, 500 kg through 50 ≥ kg) . . . . .$20
+5 Medium Mass (< 100 lbs through ≥ 20 lbs, < 50 kg through ≥ 10 kg) . . . .$30
+6 Small Mass (< 20 lbs through ≥ 0.001 lbs, < 10 kg through 1 mg) . . . . . . . . .$20
+7 Small Mass Set (≤ 10 lbs through ≥ 0.001 lbs, ≤ 5 kg through ≥ 1 mg) . .$20
+8 Precision Mass (1,000 lbs through 0.001 lbs, 30 kg through 1 mg) . . . . . . . . .$10
+9 Precision Mass Set (1,000 lbs through 0.001 lbs, 30 kg through 1 mg) . .$20
+10 Extra Large Headhouse Weights (3,000 lbs through > 1,250 lbs) . . . . . . . . . . . .$40
+11 Weight Carts (8,000 lbs through 2,000 lbs) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . $100
+12 Large Volume (1,000 gal through 20 gal) . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . $100
+13 Large Volume LPG (1,000 gal through 20 gal) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . $100
+14 Small Volume (5 gal) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . $20
+15 Gravimetric Volume (5 gal) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . $20
+16 Thermometry (-35°C through 150°C)(Based on a 2 point calibration) . . .$20
+17 Calibration Types and Ranges Calibration Adjustment
+18 Fee Fee
+19 Mass Echelon III Weight Set, up to 10 lb, $120.00/set $20.00/pc
+20 (ASTM Class: 5, 6, 7) up to 5kg in the set
+21 (NIST Class: F) up to 10 lb, up to 5 kg $10.00/pc $20.00/pc
+22 (OIML Class: M1, over 10 lb up to 50 lb, over $25.00/pc $50.00/pc
+23 M1-2, M2, M2-3, M3) 5 kg up to 30 kg
+24 over 50 lb up to 1250 lb, over $35.00/pc $70.00/pc
+25 30 kg up to 500 kg
+26 over 1250 lb up to 3000 lb $70.00/pc $45.00/pc
+27 Weight Cart, 2500 lb $250.00/pc $170.00/pc
+28 up to 6000 lb
+29 Weight Cart, over 6000 lb $350.00/pc $225.00/pc
+30 up to 8000 lb
+31 Mass Echelon II (ASTM up to 1000 lb, up $40.00/pc $80.00/pc
+32 Class: 2, 3, 4) (OIML to 500 kg
+33 Class: F1, F2)
+34 Mass Echelon I (ASTM Class:500 lb, up to 30 kg $75.00/pc $75.00/pc
+35 0, 1) (OIML Class: E1, E2)
+36 Volume Echelon II 5 gal $70.00/pc Due to the
+37 over 5 gal up to 100 gal $240.00/pc calibration
+38 over 100 gal up to 200 gal $300.00/pc procedure,
+39 over 200 gal up to 500 gal $500.00/pc adjustment
+40 over 500 gal up to 1000 gal $900.00/pc is included
+41 over 1000 gal up to 1500 gal $1200.00/pc in the cost
+42 LPG, 20 gal up to 100 gal $460.00/pc of calibration.
+43 Volume Echelon I Up to 5 gal $310.00/pc $310.00/pc
+44 Thermometry Echelon IV -35 °C up to 150 °C $90.00/point $90.00/point
+45 (3)(2) Service that is not part of a routine calibration, including, but
+46 not limited to, cleaning or repairing a standard or performing non-routine
+47 calibration procedures, shall be charged at a rate of $120 per hour. For
+48 any service provided pursuant to this subsection that is not listed in the fee
+49 schedules in subsections subsection (b)(1) and (b)(2), the secretary shall
+HB 2255 10
+1 determine that the fee to be charged.
+2 (4)(3) For any service provided pursuant to this subsection, the
+3 secretary may charge a minimum fee of $50 $70 per invoice. The secretary
+4 may charge for subsistence and transportation of personnel and equipment
+5 to such point and return. Such charges shall be set by rules and regulations
+6 adopted by the secretary of agriculture.
+7 (5)(4) The secretary may fix the manner in which any charges made
+8 pursuant to this subsection are collected.
+9 (c) The secretary shall remit all moneys received under subsection (b)
+10 to the state treasurer in accordance with the provisions of K.S.A. 75-4215,
+11 and amendments thereto. Upon receipt of each such remittance, the state
+12 treasurer shall deposit the entire amount in the state treasury to the credit
+13 of the weights and measures fee fund which is hereby created. All
+14 expenditures from the weights and measures fee fund shall be made in
+15 accordance with appropriation acts upon warrants of the director of
+16 accounts and reports issued pursuant to vouchers approved by the
+17 secretary or by a person designated by the secretary.
+18 (d) Except as otherwise provided in K.S.A. 83-301 through 83-311,
+19 and amendments thereto, nothing in article 2 of chapter 83 of the Kansas
+20 Statutes Annotated, and amendments thereto this chapter, nothing shall
+21 prohibit the owner of a weighing or measuring device or the owner's
+22 employee or agent from servicing or repairing such device. However, If
+23 such device is found out of tolerance and is rejected by the department of
+24 agriculture secretary, the owner is responsible for repairing the device
+25 within the time specified on the rejection tag and notifying the department
+26 secretary when the device is repaired and in operation. The owner shall
+27 pay a fee commensurate with the expense incurred by the secretary in
+28 performing the follow-up inspections or tests.
+29 Sec. 6. K.S.A. 83-215 is hereby amended to read as follows: 83-215.
+30 (a) The secretary is hereby authorized and empowered to reject and take
+31 out of service any device used for weighing or, measuring device which or
+32 both that is found not to conform to state standards or which that is found
+33 not to weigh or measure within authorized tolerances.
+34 (b) Service companiesA service company and city or county
+35 department of weights and measures or any agent or employee thereof,
+36 shall be prohibited from condemning or rejecting a device used to
+37 weighing, measuring or both or taking a weighing or measuring such
+38 device out of service.
+39 (c) Any weighing or measuring device that has been rejected and
+40 taken out of service under authority of the secretary shall remain subject to
+41 the control of the secretary until such time as that suitable and acceptable
+42 repair has been made of the same, or an authorized disposition of the same
+43 has been approved. An authorized repair period of use not longer than 30
+HB 2255 11
+1 days for purposes of obtaining a repair of the device used for weighing or,
+2 measuring device or both by the owner, or a reasonable extension of that
+3 period, may be given by the secretary when it is determined that the
+4 immediate cessation of use of such weighing or measuring device will
+5 work an undue hardship on the person using such device or the patrons of
+6 such person. The owner of such rejected weighing or measuring device
+7 shall cause the same to be repaired and corrected to weigh or measure
+8 within authorized tolerances within 30 days after being rejected, or within
+9 such extension as may be authorized, or in lieu thereof, the owner of the
+10 same may dispose of or destroy such weighing or measuring device or any
+11 rejected weight or measure under specific authority from the secretary.
+12 Sec. 7. K.S.A. 83-216 is hereby amended to read as follows: 83-216.
+13 (a) Any weight, measure or device used for weighing or, measuring device
+14 which or both that has been rejected by the secretary and which has not
+15 been repaired or restored to weigh or measure within approved tolerances,
+16 during any authorized repair period, is hereby declared to be a common
+17 nuisance and a contraband device. The secretary may seal the beam or
+18 mechanism out of service on any device used for weighing or, measuring
+19 device, or both or may take possession of any contraband weight or
+20 measure. The secretary shall deliver to the owner or person found in
+21 possession of any contraband weight, measure or device used for weighing
+22 or, measuring device or both a statement giving the location and
+23 description of the weight, measure or device used for weighing or,
+24 measuring device or both so sealed or taken.
+25 (b) Any device used for weighing or, measuring device which or both
+26 that has been sealed out of service by the secretary and which that has not
+27 been repaired or restored and made to weigh or measure within approved
+28 tolerances within 90 days following the date of sealing, or an authorized
+29 extension thereof, may be proceeded against by an action, instituted in
+30 Shawnee county district court or in the county where such weighing or
+31 measuring device is located, in a district court of competent jurisdiction
+32 for an order for the disposal of such device.
+33 (c) Procedure in regard to the prevention of the maintenance of a
+34 common nuisance and procedure for the disposal of any device used for
+35 weighing or, measuring device or both may be had conducted in
+36 accordance with and in the manner provided for under K.S.A. 41-805 and
+37 41-806, and amendments thereto, and as otherwise authorized by statute.
+38 Sec. 8. K.S.A. 83-217 is hereby amended to read as follows: 83-217.
+39 Any person who is liable to an injured person by reason of any inaccurate,
+40 false or rejected device used for weighing or, measuring device or both
+41 shall be assessed and adjudged to pay damages in double the amount of
+42 the property wrongfully taken or not given, and, in addition thereto, for
+43 punitive damages, the additional sum of $25, and reasonable attorney fees,
+HB 2255 12
+1 to be recovered in any court of competent jurisdiction. The selling and
+2 delivery of a stated quantity of any commodity shall be prima facie
+3 evidence of representations on the part of the vendor that the quantity sold
+4 and delivered was the quantity bought by the vendee. A slight variation
+5 from the stated weight, measure or quantity, within authorized tolerances,
+6 is permissible for individually packaged commodities if such variation is
+7 as often over, as it is under, the correct weight, measure or quantity stated.
+8 Sec. 9. K.S.A. 83-218 is hereby amended to read as follows: 83-218.
+9 For the purposes of this act, proof of the existence of a weight, measure or
+10 a device used for weighing or, measuring device or both, in or about any
+11 building, enclosure, stand or vehicle in which or from which it is shown
+12 that buying or selling is commonly carried on, in the absence of conclusive
+13 evidence to the contrary, shall be presumptive proof of the regular use of
+14 such weight, measure or device used for weighing or, measuring device or
+15 both for commercial purposes and of such use by the person in charge of
+16 such building, enclosure, stand or vehicle.
+17 Sec. 10. K.S.A. 83-219 is hereby amended to read as follows: 83-219.
+18 (a) It shall be unlawful for any person to:
+19 (1) To Offer or expose for sale, or to sell any weight, measure or
+20 weighing or measuring device that does not meet the tolerances and
+21 specifications required by this chapter 83 of the Kansas Statutes
+22 Annotated, and amendments thereto, or which that has been rejected
+23 without first obtaining the written authorization of the secretary;
+24 (2) to use a weight, measure or weighing or measuring device for
+25 commercial purposes which that does not meet the tolerance and
+26 specifications required by this chapter 83 of the Kansas Statutes
+27 Annotated, and amendments thereto, or that does not conform to the
+28 standard authorized by the secretary for determining the quantity of any
+29 commodity or article of merchandise, for the purpose of:
+30 (A) Buying or selling any commodity or article of merchandise;
+31 (B) computation of any charge for services rendered on the basis of
+32 weight or measure; or
+33 (C) determining weight or measure, either when a charge is made for
+34 such determination or where no charge is made for use of such weight,
+35 measure, weighing or measuring device;
+36 (3) except as allowed in K.S.A. 83-225, and amendments thereto, to
+37 break or remove any tag, mark or seal placed on any weighing or
+38 measuring device by the secretary or a county or city inspector of weights
+39 and measures, without specific written authorization from the proper
+40 authority or to use a weighing or measuring device after the lapse of the
+41 authorized period following the placing of a rejection tag thereon by the
+42 secretary, unless further extension of time for any repair purposes is first
+43 obtained from the secretary to;
+HB 2255 13
+1 (4) to sell, offer or expose for sale, less than the represented quantity
+2 of any commodity, thing or service;
+3 (5) to take or attempt to take more of the represented quantity of any
+4 commodity, thing or service when the buyer furnishes the weight, measure
+5 or weighing or measuring device by which the amount of any commodity,
+6 thing or service is determined;
+7 (6) to keep for the purpose of sale, or to offer or expose for sale, or to
+8 sell any commodity in a manner contrary to the law or contrary to any rule
+9 and regulation;
+10 (7) to use in retail trade, except in preparation of packages of
+11 merchandise put up in advance of sale, a weighing or measuring device
+12 that is not so positioned that its indications may be accurately read and the
+13 weighing or measuring operation observed from a reasonable customer
+14 position;
+15 (8) to violate any of the provisions of this chapter 83 of the Kansas
+16 Statutes Annotated, and amendments thereto, or rules and regulations
+17 adopted thereunder, for which a specific penalty is not provided;
+18 (9) to sell or offer for sale, or use or possess for the purpose of selling
+19 or using any device or instrument to be used or calculated to falsify any
+20 weight or measure;
+21 (10) to dispose of any rejected weight or measure in a manner
+22 contrary to law or rules and regulations;
+23 (11) to expose for sale, offer for sale or sell any commodity in
+24 package form, without it such commodity being so wrapped, or the
+25 container so made, formed or filled, that it will not mislead the purchaser
+26 as to the quantity of the contents of the package;
+27 (12) to expose for sale, offer for sale or sell any commodity in any
+28 container where in which the contents of the container fall below such
+29 reasonable standard of fill as may have been prescribed for the commodity
+30 in question by the secretary;
+31 (13) to misrepresent the price of any commodity or service sold,
+32 offered, exposed or advertised for sale by weight, measure or count, nor or
+33 represent the price in any manner calculated or tending to mislead or in
+34 any way deceive any person;
+35 (14) to misrepresent, or represent in a manner calculated or tending to
+36 mislead or deceive an actual or prospective purchaser, the price of an item
+37 offered, exposed or advertised for sale at retail;
+38 (15) to compute or attempt to compute at the time of sale of an item, a
+39 value which that is not a true extension of a price per unit which that is
+40 then advertised, posted or quoted;
+41 (16) to charge or attempt to charge, at the time of the sale of an item
+42 or commodity, a value which that is more than the price which that is
+43 advertised, posted or quoted;
+HB 2255 14
+1 (17) to alter a weight certificate, use or attempt to use any such
+2 certificate for any load or part of a load or for articles or things other than
+3 for which the certificate is given, or, after weighing and before the delivery
+4 of any articles or things so weighted, alter or diminish the quantity thereof;
+5 (18) to hinder or obstruct the secretary in any way the secretary or
+6 any of the secretary's authorized agents in the performance of the
+7 secretary's official duties under this chapter 83 of the Kansas Statutes
+8 Annotated, and amendments thereto, or any rules and regulations adopted
+9 thereunder or to fail to produce, upon demand by the secretary, all
+10 weights, measures, balances, devices used for weighing, measuring or
+11 both, dispensing devices or electric vehicle supply equipment that are
+12 subject to the provisions of this chapter;
+13 (19) to fail to follow the standards and requirements established in
+14 K.S.A. 83-202, and amendments thereto, or any rules and regulations
+15 adopted thereunder;
+16 (20) to fail to pay all fees and penalties as prescribed by this chapter
+17 83 of the Kansas Statutes Annotated, and amendments thereto, and the
+18 rules and regulations adopted thereunder;
+19 (21) to fail to keep or make available for examination or provide to
+20 the secretary all inspection reports, test reports and any other service
+21 reports or other information on any device owned or operated by the
+22 owner or any agent or employee of the owner and other information
+23 necessary for the enforcement of this chapter 83 of the Kansas Statutes
+24 Annotated, and amendments thereto, or any rules and regulations adopted
+25 thereunder, and as required by the secretary;
+26 (22) to fail to have any commercial weight, measure or device used
+27 for weighing and, measuring device or both tested as required by this
+28 chapter 83 of the Kansas Statutes Annotated, and amendments thereto, or
+29 any rules and regulations adopted thereunder;
+30 (23) to sell or offer or expose for sale liquefied petroleum gas in
+31 packages or containers which that do not bear a statement as to tare and
+32 net weight as required by this chapter 83 of the Kansas Statutes Annotated,
+33 and amendments thereto, or any rules and regulations adopted thereunder,
+34 or packages or containers which that bear a false statement as to weights;
+35 (24) to sell, use, remove, or otherwise dispose of, or fail to remove
+36 from the premises specified, any weighing or measuring device or package
+37 or commodity contrary to the terms of any order issued by the secretary;
+38 (25) to violate any order issued by the secretary pursuant to this
+39 chapter 83 of the Kansas Statutes Annotated, and amendments thereto; and
+40 (26) to prohibit a buyer or seller from observing the weighing or
+41 operation of any transaction to which such buyer or seller is a party;
+42 (27) falsely make or alter or cause or procure to be falsely made or
+43 altered with intent to defraud, any scale ticket or other written record
+HB 2255 15
+1 evidencing or relating to the weight of any personal property or any entry
+2 or item thereon; and
+3 (28) weigh any vehicle at an attended public scale or issue any scale
+4 ticket or other written record evidencing or relating to the weight of such
+5 vehicle or the load thereon, unless such scale ticket or written record
+6 shows the date, time and place of the weighing and the signature of the
+7 weigher.
+8 (b) It shall be unlawful for any service company or technical
+9 representative to knowingly:
+10 (1) Act as or represent such person's self to be a technical
+11 representative without having a valid license issued by the Kansas
+12 department of agriculture;
+13 (2) certify a device as correct unless the device meets the tolerances
+14 and specifications as required by this chapter 83 of the Kansas Statutes
+15 Annotated, and amendments thereto, or any rules and regulations adopted
+16 thereunder;
+17 (3) hinder or obstruct in any way the secretary in the performance of
+18 the secretary's official duties under this chapter 83 of the Kansas Statutes
+19 Annotated, and amendments thereto, or any rules and regulations adopted
+20 thereunder;
+21 (4) fail to follow the standards and requirements set forth in K.S.A.
+22 83-202, and amendments thereto, or any rules and regulations adopted
+23 thereunder;
+24 (5) fail to complete the testing or placing-in-service report in its
+25 entirety and to report the accurate description of the parts replaced,
+26 adjusted, reconditioned or work performed;
+27 (6) file a false or fraudulent service company or technical
+28 representative application or reports to the secretary;
+29 (7) fail to pay all fees and penalties as prescribed by this chapter 83
+30 of the Kansas Statutes Annotated, and amendments thereto, and the rules
+31 and regulations adopted thereunder;
+32 (8) fail to keep or make available for examination in an accessible
+33 and legible manner or provide to the secretary in a legible manner all
+34 inspection reports, test reports, and any other service or report work
+35 information on any device which that the service company or an agent or
+36 employee performed work on and other information necessary for the
+37 enforcement of this chapter 83 of the Kansas Statutes Annotated, and
+38 amendments thereto, or any rules and regulations adopted thereunder; or
+39 (9) sell, offer or expose for sale a device used for weighing or,
+40 measuring device or both intended to be used commercially, which that is
+41 not traceable to a national type evaluation program certificate of
+42 conformance.
+43 (c) For the purpose of subsection (a)(4), the selling and delivery of a
+HB 2255 16
+1 stated quantity of any commodity shall be prima facie evidence of
+2 representations on the part of the seller that the quantity sold and delivered
+3 was the quantity bought by the purchaser.
+4 (d) Violation of this section shall be deemed a deceptive act and
+5 practice as defined by K.S.A. 50-626, and amendments thereto. Violations
+6 of the provisions of K.S.A. 83-219, and amendments thereto, may be
+7 enforced by the secretary under the administrative provisions of this
+8 chapter 83 of the Kansas Statutes Annotated, and amendments thereto, or
+9 by the attorney general or a county or district attorney under the Kansas
+10 consumer protection act.
+11 Sec. 11. K.S.A. 83-220 is hereby amended to read as follows: 83-220.
+12 Any person violating any of the provisions of article 2 of this chapter 83 of
+13 the Kansas Statutes Annotated, and amendments thereto, or violating any
+14 rules and regulations adopted thereunder shall be guilty of a class A, a
+15 nonperson misdemeanor. Each separate violation shall be a separate
+16 misdemeanor.
+17 Sec. 12. K.S.A. 83-221 is hereby amended to read as follows: 83-221.
+18 All inspections and tests to inspect, test and seal, certify or reject any
+19 dispensing device, as defined in K.S.A. 83-401, and amendments thereto,
+20 or the capacity of any vehicle tank used in the transportation of liquefied
+21 petroleum gas, motor-vehicle fuels or liquid fuels shall be made in
+22 compliance with the provisions of this chapter 83 of the Kansas Statutes
+23 Annotated, and amendments thereto, and the rules and regulations
+24 promulgated thereunder.
+25 Sec. 13. K.S.A. 83-222 is hereby amended to read as follows: 83-222.
+26 Except as otherwise provided in article 2 of this chapter 83 of the Kansas
+27 Statutes Annotated, and amendments thereto, all rules and regulations
+28 adopted under the provisions of article 1 of this chapter 83 of the Kansas
+29 Statutes Annotated in existence immediately prior to July 1, 1985, shall
+30 continue to be effective and shall be deemed to be the rules and regulations
+31 of the secretary of agriculture until revised, amended, repealed or nullified
+32 pursuant to law.
+33 Sec. 14. K.S.A. 83-224 is hereby amended to read as follows: 83-224.
+34 If any part or parts of this act chapter are held to be invalid or
+35 unconstitutional by any court, it shall be conclusively presumed that the
+36 legislature would have enacted the remainder of this act without such
+37 invalid or unconstitutional part or parts.
+38 Sec. 15. K.S.A. 83-225 is hereby amended to read as follows: 83-225.
+39 (a) A licensed service company or a city or county department of weights
+40 and measures shall be authorized to remove an official rejection tag or
+41 other mark placed on a scale device used for weighing, measuring or both,
+42 a dispensing device or electric vehicle supply equipment by authority of
+43 the secretary for the purpose of testing or repairing any scale such device
+HB 2255 17
+1 or equipment.
+2 (b) After the test is conducted and necessary repairs are completed,
+3 the service company or city or county department of weights and measures
+4 shall place the weighing and measuring device or equipment in service and
+5 shall notify the secretary of such within the time periods established by the
+6 secretary pursuant to rules and regulations adopted hereunder.
+7 (c) When a scale device or equipment cannot be repaired properly, the
+8 service company or city or county department of weights and measures
+9 shall replace the rejection tag or other mark with a substitute rejection tag
+10 or other mark supplied by the department secretary and shall notify the
+11 secretary within the time period as established by the secretary pursuant to
+12 rules and regulations adopted hereunder.
+13 (d) This section shall apply to new and used scales devices used for
+14 weighing, measuring or both, dispensing devices and electric vehicle
+15 supply equipment.
+16 (e) This section shall be supplemental to and part of the act appearing
+17 in article 2 of chapter 83 of Kansas Statutes Annotated. Administrative or
+18 civil penalties specified in K.S.A. 83-220, and amendments thereto, shall
+19 apply to violations of this section.
+20 New Sec. 16. (a) Each person, other than an authorized representative
+21 of the secretary or an authorized representative of a city or county
+22 department of public inspection of weights and measures established
+23 pursuant to K.S.A. 83-210, and amendments thereto, desiring to operate
+24 and perform testing and other services as a service company in Kansas
+25 shall apply to the secretary for a service company license on a form to be
+26 supplied by the secretary and shall obtain such license from the secretary
+27 before operating and performing testing or other services as a service
+28 company.
+29 (b) Each service company shall obtain a separate license for each
+30 place of business maintained in Kansas by paying a license application fee
+31 not to exceed $200 for each license sought. The secretary may set the
+32 application fee by order. Each service company license shall expire on
+33 June 30 following issuance, shall be void unless renewed prior to the
+34 expiration and shall not be transferable. The license renewal fee for each
+35 place of business shall be equal to the license application fee as provided
+36 in this section.
+37 (c) If any service company maintains any out-of-state places of
+38 business that the company operates in serving Kansas patrons, the service
+39 company seeking to obtain or renew a license under this section shall list
+40 in the application such places of business and the firm names under which
+41 the company operates at each such place of business. If any out-of-state
+42 place of business is established by a service company after being licensed
+43 under this section, the licensee shall supply such information to the
+HB 2255 18
+1 secretary before any work is performed in Kansas from such out-of-state
+2 location. Each nonresident service company shall designate a resident
+3 agent upon whom service of notice or process may be made to enforce the
+4 provisions of this chapter or any liabilities arising from operations
+5 thereunder. Each nonresident service company that does not maintain an
+6 established place of business in Kansas shall obtain a license under this
+7 section for each out-of-state place of business and list on the application
+8 the firm name or names for each place of business from which the service
+9 company intends to operate.
+10 (d) Each technical representative shall be licensed annually by the
+11 secretary. Except as provided in subsection (e), each technical
+12 representative shall be required to attend continuing education seminars on
+13 an annual basis as required by rules and regulations adopted by the
+14 secretary and pass a reasonable examination prescribed by the secretary
+15 each year prior to being licensed. Each technical representative's license
+16 shall expire on June 30 following the issuance of the license and shall be
+17 void unless renewed prior to the expiration.
+18 (e) Each technical representative who has had 10 years of continuous
+19 licensure with no administrative enforcement action adjudicated against
+20 such technical representative during such 10-year period shall be eligible
+21 to obtain a five-year license. The secretary shall implement, by order, the
+22 fee for such five-year license. Such license fee shall be an amount of not to
+23 exceed $500. Each technical representative holding a five-year license
+24 shall be required to complete continuing education as described in
+25 subsection (d) at a frequency of not to exceed once per five-year period.
+26 The secretary may promulgate rules and regulations to require any
+27 technical representative who has been adjudicated in violation of this act
+28 or any rules and regulations promulgated by the secretary to seek renewal
+29 of a license on an annual basis, and the secretary may establish criteria for
+30 the reinstatement of eligibility for a five-year license.
+31 (f) The secretary is authorized to charge a fee to the attendees of
+32 continuing education seminars sponsored by the Kansas department of
+33 agriculture. The amount of such fee shall be not more than is necessary to
+34 cover the expenses incurred in providing the seminar.
+35 (g) No service company license may be issued or renewed under this
+36 section until the applicant's weights or measures, or both, have been tested
+37 for accuracy and sealed by the secretary. The secretary is authorized to
+38 accept a calibration certificate for the applicant's weights or measures
+39 issued by the national institute of standards and technology or by a
+40 metrology laboratory certified by the national institute of standards and
+41 technology in lieu of a test by the secretary, if such certificate shows that
+42 the weights or measures have been tested within the last 365 days
+43 preceding the license application.
+HB 2255 19
+1 (h) The secretary shall remit all moneys received under this section to
+2 the state treasurer in accordance with the provisions of K.S.A. 75-4215,
+3 and amendments thereto. Upon receipt of each such remittance, the state
+4 treasurer shall deposit the entire amount in the state treasury to the credit
+5 of the weights and measures fee fund.
+6 New Sec. 17. (a) At any time after notice and opportunity for a
+7 hearing are given accordance with the provisions of the Kansas
+8 administrative procedure act, the secretary may revoke, suspend, decline to
+9 renew or decline to issue a service company license or technical
+10 representative's license, when the service company or technical
+11 representative has:
+12 (1) Refused to provide the secretary with reasonably complete and
+13 accurate information regarding methods used, materials used or work
+14 performed as required by the secretary;
+15 (2) failed to comply with any provision or requirement of this
+16 chapter;
+17 (3) failed to perform work in a manner consistent with the standards
+18 set forth in this chapter; or
+19 (4) committed an unlawful act as established in K.S.A. 83-219, and
+20 amendments thereto, or any other provision of this chapter.
+21 Sec. 18. K.S.A. 83-304 is hereby amended to read as follows: 83-304.
+22 (a) Except as provided by subsection (e), the owner or operator of a device
+23 used for weighing and, measuring device which or both that is used
+24 commercially shall have such weighing and measuring device tested and
+25 inspected at least annually for accuracy. The test and inspection shall be
+26 conducted by either a licensed technical representative employed by a
+27 licensed service company or by an authorized representative of any city or
+28 county which that has established a department of public inspection of
+29 weights and measures pursuant to K.S.A. 83-210, and amendments
+30 thereto, or by the secretary, which inspects such weighing and measuring
+31 device. Such tests and inspections shall be conducted in accordance with
+32 the rules and regulations adopted by the secretary. If, upon such testing
+33 and inspection by the secretary or an authorized representative of the
+34 secretary, it is found that the weighing and measuring device has not been
+35 tested and inspected for accuracy and approved within the preceding 365
+36 days, the secretary or the authorized representative of the secretary shall
+37 take the weighing and measuring device out of service pursuant to the
+38 provisions of K.S.A. 83-215, and amendments thereto. Except as provided
+39 further, the test weights or equipment used by the service company shall
+40 have been approved and sealed by the secretary pursuant to K.S.A. 83-214,
+41 and amendments thereto, within 365 days preceding the date of the tests.
+42 Test weights or equipment which has that have the nominal capacity of
+43 250 pounds or greater, are housed in a grain elevator or similar structure
+HB 2255 20
+1 and are used to test scales in grain elevators or similar facilities shall have
+2 been approved and sealed by the secretary pursuant to K.S.A. 83-214, and
+3 amendments thereto, within three calendar years preceding the date of the
+4 test. Except at the option of the a city or county which that has an
+5 established department of public inspection of weights and measures, tests
+6 and inspections shall be at the expense of the owner or operator of the
+7 device used for weighing and, measuring device or both. In any city or
+8 county which that has a department of public inspection which that
+9 inspects such device used for weighing and, measuring device or both, the
+10 test may be conducted by an authorized representative of the city or county
+11 weights and measures department. Farmers or ranchers who own and
+12 operate a weighing and measuring device used in private treaty
+13 transactions are exempt from the annual testing requirements. Volumetric
+14 provers which that are stationary or which exceed the testing capacity of
+15 the state metrology lab labratory due to engineering design or the capacity
+16 of the prover are exempt from the annual testing requirement.
+17 (b) A service company or the city or county department of public
+18 inspection of weights and measures or an authorized representative of the
+19 secretary which conducts tests pursuant to this section shall, at the time of
+20 testing and inspection, promptly furnish to the owner or operator of the
+21 weighing and measuring device a report showing the results of the tests
+22 and inspection. The city or county department of public inspection of
+23 weights and measures and service company reports shall also be sent to the
+24 secretary, as required by rules and regulations adopted by the secretary. No
+25 report shall be furnished later than 10 days after the test or inspection of
+26 the device has occurredWhen tests or inspections are conducted pursuant
+27 to this section, a report showing the results of the tests or inspections shall
+28 be promptly furnished to the owner or operator. If the tests or inspections
+29 were not performed by the secretary, such reports shall also be sent to the
+30 secretary as required by rules and regulations adopted by the secretary
+31 and not later than 10 days after the test or inspection of such device has
+32 occurred.
+33 (c) Subject to the provisions of K.S.A. 83-215, and amendments
+34 thereto, the owner or operator of a device used for weighing and,
+35 measuring device which or both that is found to be out of noncompliant
+36 with the tolerances or specifications required by this chapter 83 of the
+37 Kansas Statutes Annotated, and amendments thereto, or any rules and
+38 regulations adopted thereunder shall, immediately at the time of testing
+39 shall, withdraw immediately the weighing and measuring device from
+40 further use until the necessary corrections, adjustments or repairs are made
+41 and the weighing and measuring device is determined to be accurate by a
+42 service company or the, a city or county department of public inspection
+43 of weights and measures or an authorized representative of the secretary.
+HB 2255 21
+1 Weighing and measuring devices which that have been repaired or
+2 serviced shall meet the tolerances and specifications established in this
+3 chapter 83 of the Kansas Statutes Annotated, and amendments thereto, and
+4 those rules and regulations adopted by the secretary prior to being placed
+5 or returned to service. The service company or the city or county
+6 department of public inspection of weights and measures shall notify the
+7 secretary of any weighing and measuring devices which that are found not
+8 to comply with such tolerances and specifications and are thus inaccurate
+9 and cannot be adjusted, repaired or serviced so as to comply with the
+10 standards and tolerances established in this chapter 83 of the Kansas
+11 Statutes Annotated, and amendments thereto. Such notification shall be as
+12 required by the secretary, pursuant to rules and regulations. Such
+13 notification shall be furnished to the department no not later than 10 days
+14 after the service company or city or county department of public
+15 inspection of weights and measures has found the weighing and measuring
+16 device to be in noncompliance with the tolerance and specifications
+17 required for such weighing and measuring device. A copy of the report
+18 prepared by the service company or city or county department of public
+19 inspection of weights and measures or the secretary showing the results of
+20 the weighing and measuring device test and the work done to correct any
+21 deficiencies shall be filed with the secretary by the service company party
+22 who prepared the report.
+23 (d) Each service company shall be required to keep at such company's
+24 corporate headquarters or at such company's resident agent's office a copy
+25 of all reports regarding the installation, repair, calibration and other work
+26 that the service company or the technical representatives employed by the
+27 service company performed on the commercial weighing and or measuring
+28 devices. Such reports shall be legible and maintained in an accessible
+29 manner and for a period of time as established by the secretary pursuant to
+30 rules and regulations. The owner or operator of a device used for weighing
+31 and, measuring device or both shall also be required to retain copies of all
+32 reports regarding the installation, repair or adjustment or any of the
+33 aforementioned done to the weighing and measuring device at the site
+34 where the measuring and weighing device is used. Such reports shall be
+35 legible and maintained in an accessible manner and for a period of time as
+36 established by the secretary pursuant to rules and regulations.
+37 (e) The secretary may adopt rules and regulations providing for
+38 inspection of vapor meters at intervals less frequently than annually if the
+39 secretary determines that annual inspections are not necessary to protect
+40 the public interest. In adopting any such rules and regulations, the
+41 secretary shall take into consideration the standard for inspections of vapor
+42 meters adopted by the national institute of standards and technology of the
+43 United States department of commerce.
+HB 2255 22
+1 Sec. 19. K.S.A. 83-305 is hereby amended to read as follows: 83-305.
+2 When the secretary has been finds or is notified by a licensed service
+3 company, by an authorized representative of the secretary or by a city or
+4 county department of public inspection of weights and measures
+5 established pursuant to K.S.A. 83-210, and amendments thereto, that a
+6 device used for weighing and, measuring device or both does not comply
+7 with tolerances and specifications adopted by the secretary, by rule and
+8 regulation, then the secretary may test the weighing and measuring device
+9 for accuracy after repairs have been made.
+10 Sec. 20. K.S.A. 83-404 is hereby amended to read as follows: 83-404.
+11 (a) The owner or operator of a dispensing device which that is used for
+12 commercial purposes shall have such device tested and inspected at least
+13 once within every 18-month period. The test shall be conducted by either
+14 an authorized representative of any city or county which that has
+15 established a department of public inspection of weights and measures
+16 pursuant to K.S.A. 83-210, and amendments thereto, or by the secretary,
+17 which inspects such dispensing devices. Such inspections shall be
+18 conducted in accordance with rules and regulations adopted by the
+19 secretary. If, upon inspection by the secretary, it is found that the
+20 dispensing device has not been tested and inspected for accuracy and
+21 approved within the preceding 18 months, the secretary shall take the
+22 dispensing device out of service pursuant to the provisions of K.S.A. 83-
+23 215, and amendments thereto. The test weights and measures used by the
+24 service company shall have been approved and sealed by the secretary
+25 pursuant to K.S.A. 83-214, and amendments thereto, every 365 days.
+26 Except at the option of the city or county which that has an established
+27 department of public inspection of weights and measures, annual tests and
+28 inspections shall be at the expense of the owner or operator. In any city or
+29 county which that has a department of public inspection of weights and
+30 measures which that annually inspects such dispensing devices, the tests
+31 may be conducted by an authorized representative of such city or county
+32 weights and measures department. Farmers or ranchers who own and
+33 operate a dispensing device used in private treaty transactions are exempt
+34 from the annual testing requirements.
+35 (b) The city or county department of public inspection of weights and
+36 measures or the secretary which conducts tests pursuant to this section, at
+37 the time of testing and inspection, shall promptly furnish to the owner or
+38 operator a report showing the results of the tests and inspection. Such
+39 reports shall also be sent to the secretary, as required by rules and
+40 regulations adopted by the secretary, however, no report shall be furnished
+41 later than 10 days after the test or inspection of such device has
+42 occurred.When tests or inspections are conducted pursuant to this section,
+43 a report showing the results of the tests or inspections shall be promptly
+HB 2255 23
+1 furnished to the owner or operator. If the tests or inspections were not
+2 performed by the secretary, such reports shall also be sent to the secretary
+3 as required by rules and regulations adopted by the secretary and not later
+4 than 10 days after the test or inspection of such device has occurred.
+5 (c) Subject to the provisions of K.S.A. 83-215, and amendments
+6 thereto, the owner and or operator of a dispensing device which that is
+7 found to be inaccurate at the time of testing shall immediately withdraw
+8 immediately the device from further use until the necessary corrections,
+9 adjustments or repairs are made and the device is determined to be
+10 accurate by a service company or the, a city or county weights and
+11 measures department or an authorized representative of the secretary. The
+12 devices which Dispensing devices that have been repaired or serviced shall
+13 meet the tolerances and specifications adopted by the secretary by rules
+14 and regulations. The A service company or the city or county shall notify
+15 the secretary of any devices which that are found not to comply with such
+16 tolerances and specifications and those which that are not able to be
+17 serviced or repaired so as to comply with such tolerances and
+18 specifications. The service company shall and report to the secretary
+19 within the time frames and in a manner established in rules and regulations
+20 adopted by the secretary of any dispensing device which that has been
+21 installed, repaired, calibrated or fails to comply with the required
+22 tolerances and specifications.
+23 (d) Each service company shall be required to keep at such company's
+24 corporate headquarters or at such company's resident agent's office a copy
+25 of all reports regarding the installation, repair, calibration and other work
+26 that the service company or the technical representatives employed by the
+27 service company performed on the commercial dispensing devices. Such
+28 reports shall be legible and maintained in an accessible manner and for a
+29 period of time as established by the secretary pursuant to rules and
+30 regulations. The owner or operator of a dispensing device shall also be
+31 required to retain copies of all reports regarding installation, repair or
+32 adjustment or any of the aforementioned done to the dispensing device at
+33 the site where the dispensing device is used. Such reports shall be legible
+34 and maintained in an accessible manner and for a period of time as
+35 established by the secretary pursuant to rules and regulations.
+36 Sec. 21. K.S.A. 83-405 is hereby amended to read as follows: 83-405.
+37 When the secretary finds or is notified by a licensed service company, an
+38 authorized representative of the secretary or by a city or county department
+39 of public inspection of weights and measures established pursuant to
+40 K.S.A. 83-210, and amendments thereto, that a dispensing device does not
+41 comply with tolerances and specifications adopted by the secretary, by
+42 rules and regulations, the secretary may test the dispensing device for
+43 accuracy after repairs have been made.
+HB 2255 24
+1 Sec. 22. K.S.A. 83-501 is hereby amended to read as follows: 83-501.
+2 (a) In addition to any other penalty provided by law, any person who
+3 violates any provision of chapter 83 of the Kansas Statutes Annotated, and
+4 amendments thereto, or any rules and regulations adopted thereunder, this
+5 chapter may incur a civil penalty imposed under subsection (b) in the
+6 amount, fixed by rules and regulations of the secretary of agriculture, of
+7 not less than $100 nor more than $5,000 for each such violation, and, in
+8 the case of a continuing violation, every day that such violation continues
+9 shall be deemed a separate violation.
+10 (b) In determining the amount of the civil penalty, the following shall
+11 be taken into consideration: (1) The extent of harm caused by the
+12 violation; (2) the nature and persistence of the violation; (3) the length of
+13 time over which the violation occurs; (4) any corrective actions taken; and
+14 (5) any and all relevant circumstances.
+15 (c) All civil penalties assessed shall be due and payable within 10
+16 days after written notice of assessment is served on the person, unless a
+17 longer period of time is granted by the secretary. If a civil penalty is not
+18 paid within the applicable time period, the secretary may file a certified
+19 copy of the notice of assessment with the clerk of the district court in the
+20 county where the weighing and measuring device or dispensing device is
+21 located. The notice of assessment shall be enforced in the same manner as
+22 a judgment of the district court.
+23 (d) No civil penalty shall be imposed pursuant to this section except
+24 upon the written order of the duly authorized agent of the secretary to the
+25 person who committed the violation or to the person whose agent or
+26 employee committed the violation. Such order shall state the violation, the
+27 penalty to be imposed and the right of the person to appeal to the secretary.
+28 Any such person, within 20 days after notification, may make written
+29 request to the secretary for a be subject to notice and a hearing in
+30 accordance with the provisions of the Kansas administrative procedure act.
+31 The secretary shall affirm, reverse or modify the order and shall specify
+32 the reasons therefor.
+33 (e) Any person aggrieved by an order of the secretary made under this
+34 section may appeal such order to the district court in the manner provided
+35 by the Kansas judicial review act.
+36 (f) An appeal to the district court or to an appellate court shall not
+37 stay the payment of the civil penalty.
+38 (g) Any civil penalty recovered pursuant to the provisions of this
+39 section or recovered under the consumer protection act for violations of
+40 any provision of K.S.A. 83-219, and amendments thereto, shall be remitted
+41 to the state treasurer in accordance with the provisions of K.S.A. 75-4215,
+42 and amendments thereto. Upon receipt of each such remittance, the state
+43 treasurer shall deposit the entire amount in the state treasury to the credit
+HB 2255 25
+1 of the weights and measures fee fund.
+2 New Sec. 23. (a) The owner or operator of electric vehicle supply
+3 equipment that is used for commercial purposes shall have such device
+4 tested and inspected at least once annually. The testing and inspection shall
+5 be conducted by either a licensed technical representative employed by a
+6 licensed service company, by an authorized representative of any city or
+7 county that has established a department of public inspection of weights
+8 and measures pursuant to K.S.A. 83-210, and amendments thereto, or by
+9 the secretary. Such testing and inspection shall be conducted in accordance
+10 with the rules and regulations adopted by the secretary. If, upon such
+11 testing and inspection, it is found that the electric vehicle supply
+12 equipment has not been tested and inspected for accuracy and approved
+13 within the preceding 365 days, the secretary shall take the electric vehicle
+14 supply equipment out of service pursuant to the provisions of K.S.A. 83-
+15 215, and amendments thereto. Test weights and measures used by a
+16 technical representative employed by a licensed service company pursuant
+17 to this subsection shall have been approved and sealed by the secretary
+18 pursuant to K.S.A. 83-214, and amendments thereto, within the preceding
+19 365 days. Except at the option of a city or county that has an established
+20 department of public inspection of weights and measures, annual tests and
+21 inspections shall be at the expense of the owner or operator.
+22 (b) When tests or inspections are conducted pursuant to this section, a
+23 report showing the results of the tests or inspections shall be promptly
+24 furnished to the owner or operator. If the tests or inspections were not
+25 performed by the secretary, such reports shall also be sent to the secretary
+26 as required by rules and regulations adopted by the secretary and not later
+27 than 10 days after the test or inspection of such device has occurred.
+28 (c) The owner or operator of electric vehicle supply equipment that is
+29 found to be inaccurate at the time of testing required by this subsection
+30 shall immediately withdraw the electric vehicle supply equipment from
+31 further use until the necessary corrections, adjustments or repairs are made
+32 and the secretary, a technical representative employed by a licensed
+33 service company, or a representative of a city or county weights and
+34 measures department determines that the electric vehicle supply equipment
+35 is accurate. All electric vehicle supply equipment that has been repaired or
+36 serviced shall meet the tolerances and specifications adopted by the
+37 secretary by rules and regulations. Each service company and each city or
+38 county that performs tests and inspections pursuant to this subsection shall,
+39 within the timeframe and in the manner established in rules and
+40 regulations adopted by the secretary, notify the secretary of all electric
+41 vehicle supply equipment that has been installed, repaired, calibrated or
+42 found not to comply with such tolerances and specifications and of all
+43 electric vehicle supply equipment that is not able to be serviced or repaired
+HB 2255 26
+1 so as to comply with such tolerances and specifications.
+2 (d) Each service company shall be required to maintain at such
+3 service company's corporate headquarters or resident agent's office a copy
+4 of all reports regarding all installation, repair, calibration, adjustment or
+5 other work that the service company or any technical representative
+6 employed by the service company has performed on electric vehicle
+7 supply equipment, including installation, repair, calibration, adjustment or
+8 other work performed at the site where the electric vehicle supply
+9 equipment is used. Such reports shall be legible and maintained in an
+10 accessible manner and for a period of time as established by the secretary
+11 pursuant to rules and regulations.
+12 New Sec. 24. When the secretary finds or is notified by a licensed
+13 service company, an authorized representative of the secretary or by or a
+14 city or county department of public inspection of weights and measures
+15 established pursuant to K.S.A. 83-210, and amendments thereto, that an
+16 electric vehicle supply equipment does not comply with tolerances and
+17 specifications adopted by the secretary, by rules and regulations, the
+18 secretary may test the electric vehicle supply equipment for accuracy after
+19 repairs have been made.
+20 Sec. 25. K.S.A. 83-149, 83-154, 83-155, 83-201, 83-202, 83-207, 83-
+21 208, 83-214, 83-215, 83-216, 83-217, 83-218, 83-219, 83-220, 83-221, 83-
+22 222, 83-224, 83-225, 83-301, 83-302, 83-303, 83-304, 83-305, 83-308, 83-
+23 311, 83-326, 83-401, 83-402, 83-403, 83-404, 83-405, 83-407, 83-409, 83-
+24 410, 83-411, 83-501 and 83-502 are hereby repealed.
+25 Sec. 26. This act shall take effect and be in force from and after its
+26 publication in the statute book.
+[DELETED: Ads io a se s; dg de fr wm$; ag ld se cs ad cy or cdownc0lo 1r2c3t4p5ul tr ws or m or b a td ad s6a7t8d9a0m1a2cy re or te s; rg tt ws o3e4o5g6o7v8a9s0s1f2s3cs to kp cs of rs fr ec ve s4e58]
+[DELETED: 52t84S2a0(s ad m" ms al cl ws o1mf , s d r g 2m3s4(5w6w7(8c9a0c1r2(3w4w5(6t7lt 8m9(0c, p, c, c, ss a1a2(3q4(5m6s7(8p9a0(1a2(3o]
+[DELETED: 5ms(oiiad(0c1a2(3e4mg ds bt sh tm ds nt ie a t5r6s7(l r" s an il wo i8r9c0(1a2(3ms ce to al ae t, ss a4r5t6(7s8o9c0c1m2(3d4a5p6m7(8p9a0(1m cg ps ad c f cg ec v2"3s]
+[DELETED: 5tl(c(ms(" ms an il or a c, pc, sy an or gl ay ad a0a1(2s3s4o5d6(7o8s9i0s1m2(3t4w5(6q7(8c9i0(1t2l3m4(5a6(7e8w9e0u1(2p3t]
+[DELETED: 5d(t(ww(s ad m" ms al cl ws omS0(1(2U3r4c5(e fg ss ad rs sl ay t6c7(e ss of te nl ce on ws a8m9hk 4 ed s, t, ad or t0r a o i1O 12a t a3s4+5f6t748w9v0(1w2t3s4i5o6s7(8n9a0r1(2n3s o i O 1 o]
+[DELETED: 5e(s(ccotS0(1f2t3p4ss sg fh s, ts ad or t5r6d7o8s9m0i1p2m3s4w o n5f6o7(8(s of wp fr tl rs a9s0(1a2(3f4S5T6n7w o m8d9s0p1p o2o W3h]
+[DELETED: 5aiadpgS(m0a1a2m3s4(5ad re of te s my ce fr s6p7o8m9s0h1A2m]
+[DELETED: 5(y e g l pCLMSSPP. 0E1W2L3L4S5G6TsCnAeFIW,$t$)ugi)ug$c$ or$c$)5r$c$b$c$b$c$b$c$Mup$c$Ltg$c$I5l$cDl$ccl$cpl$cal$cil$cil$coIUl$c$V-C$t$5(6n7c8a9s]
+[DELETED: 51d(smta(p(0t1a2t3o4e5a6as ad rs id pt to vs ad by t7s8(9a0Ss  t n s1p2e3s4a s5w6s7p8p9S0(1o2b3n4(e cA se cy ad cy or c5d6s o7w o a s8d9( a0t1t2r3h]
+[DELETED: 51dmpiwssws0s1r2S3(4w5b6d7n8m9d o o0m1p2o m d or b a st gg te ln a3d d w o4m5(6t7b8t9e0S1m2f3(4c5w o m d or b my b h c i6a748S9A0f1s2t3p]
+[DELETED: 51tdeafiaSF0a1b2t3e4s5b6s7S8(9(0w1ss rd b t c 83 of te Ks S2A o w t h3w4(5cl p w t ds nt mt te te a6ss rd b t c 83 of te Ks S7A o8s9c0(1(2w3(4s5m6(7b8m9a w0a1a2s3o]
+[DELETED: 51(o(cot(sa0(o 1m2t3w4p5(6S7a8(9o0w1(o 2c3(o 4p i s b5c6a7(8c9r0i1(o 2o3r4a5(6m7o8(9v0t1(2o3a]
+[DELETED: 51(o cfo(af s d  in e e s t c 8At o0w u w1b, y 2s3(4K5a6(788r9(0t1r2o3n4A5t6(7f w a m d o t t8c9a0(o 1p2n3a4o5(6f7o8(o  t9c0(o 1o2(3a]
+[DELETED: 51eo(tvsw(t sl be ul fr ay se cy or tr0(t as or rt sh ps sf to be a t1rt g d e d y 2d3(4a5A6t7(8t9A0t1(283t4(5e6a7(e a fe or ft se cy or t8r9(0o1a2(3a4i a5i6e7e t c 88a9( d w o0m1nt te to a nl te en pm ce o2c3(]
+[DELETED: 51srw(poe tcb0c1S2A3t4r5n E6m7S8A9d0o1p2c3A, ad as t, ad te rs ad r4p5S6E7S8a9S0c1o2p3S4I a c a5u6l7i8S9(0a1o2a3t]
+[DELETED: 51o(tsss(ss0o1s2r3(4w5s6(7i8c9a0N1o2d3p4a5s6s7b8c9(0p1n2a3J4e5p6i7(8b9c0i1t2p3u]
+[DELETED: 51slaps f r s g testc0(1s. Et as pd in sn (, eh t2r3a4s5e6s7v8(9l0s1t2f3e4sl d o e g n d 5s6Td o 7t8o9o0t1(2c3a4c5(6s7f8a9i0m1t2t3p]
+[DELETED: 51(tatoNhg ae gn ae wh te ps of te Karw or de to ie a se cy le or t0rs l, wn te se cy or t1r2(3a4p5(6c7(8s9(0a1S2(3u w a m d o i4c5i6c7l8c9ws ad m p t K 8 a a0t1d2t3a i b4s5t6d7t8p9f0h1a2T32]
+[DELETED: 52abat t a c w t headc w t h w ti0t1w2oe a wg ad mg de ud in pe t3t4p5t6o7(8i9s0t1w2a. 3w4s5r6t7t8b9w0s1a2o3(4tr  d w a5m6w7K8r9s w i t w d0f1a2s3o]
+[DELETED: 52W w t hsctor dsta0s t c 81S2rd by te s, pt to rs ad r. S3n4ar te se cy or cy or cy dt of p5i6d7r8p9i0t1d2w3(4c5o6t7s8d9m0r1a2r3a w d4w5l6e7(8i9s0t1s2m3U]
+[DELETED: 52SW h f nccy dt of pc in of ws ad medwrf0S1(2c3o4an ad re of ay cy or c w t h5e6p7wh is sh dg d. Sh is sl b8c i9s u b0d1a2d324s5p6E7d8i9c0m1m2w3o4f5(6m7t8o9r0r1l0 r h 2o3a]
+[DELETED: 52fpat(tfia0a o c1m2d3m4a5t6t w t a7sd or rd so as to cy wh sh ts a8s a r9w0a1i, r, cd or fs to cy wh te r2t3(4c5o6t7s8r9p0r1r2a3t4a5e6S7W8a9o0K1c2r t f3a]
+[DELETED: 52S(vac mants0(1b2v3t4(5(6d7l8p9c0c1l2a3(4u5p6e7p8A9r be  h0a1T2t3(4s5b6(7s8(9s0a1t2a3t]
+[DELETED: 52oNetblcat0w1tg ad i, it is fd tt te ec ve s2e3w4s526t7t8p930d1i2(3r4f5p6a7t8(9f0s1f2a3s4m5i6s7s8c9wn te te ad in te mr ed in rs a0r1v2f3e]
+[DELETED: 52s(sooesoe0a1p2N3s4c5e6e7s8s9r0S122233445S6p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2255
+By Committee on Agriculture and Natural Resources
+Requested by Kelsey Olson on behalf of the Kansas Department of Agriculture
+2-4
+1 AN ACT concerning weights and measures; consolidating chapter 83
+2 definitions into a single section; defining device for weighing,
+3 measuring or both; increasing the minimum fee per invoice from $50 to
+4 $70; authorizing licensed service companies and city or county
+5 departments of weights and measures to remove rejection tags for test
+6 or repair purposes; requiring any such entity to replace the rejection tag
+7 with a substitute if the device or equipment cannot be repaired and
+8 notify the secretary; requiring persons desiring to operate as a service
+9 company to obtain a license; establishing fees and procedures for such
+10 licensure; requiring nonresident service companies to designate a
+11 resident agent; requiring technical representatives to be licensed, attend
+12 continuing education seminars and pass an examination; authorizing
+13 the secretary to charge a fee for continuing education seminars;
+14 prohibiting service companies from receiving or renewing a license
+15 until their weights or measures, or both, are tested and sealed;
+16 authorizing the secretary to accept a calibration certificate in lieu of a
+17 test; authorizing the secretary to revoke, suspend, decline to renew or
+18 decline to issue a service company or technical representative license
+19 after notice and hearing for certain violations; requiring weights or
+20 measurers, or both used commercially to be tested and inspected
+21 annually by a licensed technical representative, an authorized city or
+22 county representative or the secretary; requiring test weights or
+23 equipment used in grain elevators to be approved and sealed annually,
+24 or every three years for those with a nominal capacity of 250 pounds or
+25 greater; requiring reports of tests and inspections to be furnished to the
+26 owner or operator and the secretary within 10 days; requiring electric
+27 vehicle supply equipment used commercially to be tested and inspected
+28 annually; requiring reports of tests and inspections of electric vehicle
+29 supply equipment to be furnished to the owner or operator and the
+30 secretary within 10 days; requiring electric vehicle supply equipment
+31 found to be inaccurate to be withdrawn from use until repaired and
+32 such equipment has met tolerances and specifications; requiring service
+33 companies to keep copies of reports for electric vehicle supply
+34 equipment; amending K.S.A. 83-201, 83-202, 83-207, 83-208, 83-214,
+35 83-215, 83-216, 83-217, 83-218, 83-219, 83-220, 83-221, 83-222, 83-
+
+HB 2255 2
+1 224, 83-225, 83-304, 83-305, 83-404, 83-405 and 83-501 and repealing
+2 the existing sections; also repealing K.S.A. 83-149, 83-154, 83-155,
+3 83-301, 83-302, 83-303, 83-308, 83-311, 83-326, 83-401, 83-402, 83-
+4 403, 83-407, 83-409, 83-410, 83-411 and 83-502.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 Section 1. K.S.A. 83-201 is hereby amended to read as follows: 83-
+8 201. As used in article 2 of chapter 83 of the Kansas Statutes Annotated
+9 and K.S.A. 83-502, and amendments thereto:
+10 (a) "Weights and measures" means all commercial weights or
+11 measures of every kind, instruments and devices for weighing and
+12 measuring, and any appliance and accessories associated with any or all
+13 such instruments and devices and any point-of-sale system.
+14 (b) "Weight" as used in connection with any commodity means net
+15 weight, except if the label declares that the product is sold by drained
+16 weight, the term means net drained weight.
+17 (c) "Correct" as used in connection with weights and measures means
+18 conformance to all applicable tolerances, specifications and requirements
+19 as established by the secretary and those established within article 2 of
+20 chapter 83 of Kansas Statutes Annotated, and amendments thereto or any
+21 rules and regulations adopted thereunder.
+22 (d) "Primary standards" means the physical standards of the state
+23 which serve as the legal reference from which all other standards and
+24 weights and measures are derived.
+25 (e) "Secondary standards" means the physical standards which are
+26 traceable to the primary standards through comparisons, using acceptable
+27 laboratory procedures, and used in the enforcement of weights and
+28 measures laws and rules and regulations.
+29 (f) "Person" means an individual, agent or employee of a service
+30 company, partnerships, corporations, companies, societies and
+31 associations.
+32 (g) "Sale from bulk" means the sale of commodities when the
+33 quantity is determined at the time of sale.
+34 (h) "Package" means any commodity put up or packaged in any
+35 manner in advance of sale in units suitable for either wholesale or retail
+36 sale.
+37 (i) "Drained weight" means the weight of the solid or semisolid
+38 product representing the contents of a package or container obtained after
+39 a prescribed method for excluding the liquid has been employed.
+40 (j) "Secretary" means the secretary of agriculture or the secretary's
+41 authorized representative.
+42 (k) "Measuring device" includes all weights, scales, beams, measures
+43 of every kind, instruments and mechanical devices for weighing or
+
+HB 2255 3
+1 measuring, and any appliances and accessories connected with any or all
+2 such instruments.
+3 (l) "Point-of-sale system" means any combination of a cash register
+4 or other devices, or system, such as a scanner, capable of recovering stored
+5 information related to the price or computing the price of any individual
+6 item which is sold or offered for sale at retail. A point-of-sale system may
+7 also include or be attached or connected to a weighing or measuring
+8 device.
+9 (m) "Scanner" means any electronic system that employs a laser-bar
+10 code reader to retrieve product identity, price or other information stored in
+11 a computer memory.
+12 (n) "Service company" means a company which is in the business of
+13 examining, calibrating, testing, repairing and adjusting weighing and
+14 measuring devices but such term does not include a technical
+15 representative unless the technical representative is the owner of such
+16 service company.
+17 (o) "Technical representative" means an individual who installs,
+18 repairs, adjusts or calibrates the weighing and measuring devices and
+19 certifies the accuracy of the weighing and measuring devices. this chapter:
+20 (a) "Chapter" means chapter 83 of the Kansas statutes annotated,
+21 and amendments thereto, and rules and regulations adopted thereunder.
+22 (b) "Correct," as used in connection with weights and measures,
+23 means conformance to all applicable tolerances, specifications and
+24 requirements as established by the secretary and those established within
+25 this chapter.
+26 (c) "Device used for weighing, measuring or both" means any weight,
+27 scale, beam, liquefied petroleum gas meter, vehicle tank meter, measures
+28 of every kind, instruments and mechanical or electronic devices for
+29 commercial weighing or measuring, and any appliances and accessories
+30 connected with any or all such instruments. "Device used for weighing,
+31 measuring or both" does not include dispensing devices.
+32 (d) "Dispensing device" means a motor-vehicle fuel or liquid fuel
+33 dispensing pump, meter or other similar measuring device and includes
+34 any device that dispenses refined or blended gasoline or diesel fuel
+35 product. "Dispensing device" does not include liquefied petroleum gas
+36 meters or vehicle tank meters.
+37 (e) "Drained weight" means the weight of the solid or semisolid
+38 product representing the contents of a package or container obtained after
+39 a prescribed method for excluding the liquid has been employed.
+40 (f) "Electric vehicle supply equipment" means a device with one or
+41 more charging ports and connectors for charging electric vehicles.
+42 "Electric vehicle supply equipment" includes all charging ports and
+43 supporting equipment necessary for the operation thereof and the area in
+
+HB 2255 4
+1 the immediate vicinity of the same, including adjacent parking areas and
+2 lanes for vehicle ingress and egress.
+3 (g) "Liquefied petroleum gas" means commercial propane and such
+4 commercial butane as is used for heating fuel.
+5 (h) "Package" means any commodity put up or packaged in any
+6 manner in advance of sale in units suitable for either wholesale or retail
+7 sale.
+8 (i) "Person" means an individual or a company, partnership,
+9 corporation, society association or governmental agency and any
+10 authorized agent thereof. "Person" does not include the secretary.
+11 (j) "Place of business" means any location from which a testing
+12 service or company, or one or more representatives or employees thereof,
+13 sells and performs services for the purpose of testing, repairing, adjusting
+14 or calibrating devices used for weighing, measuring or both, dispensing
+15 devices or electric vehicle supply equipment.
+16 (k) "Point-of-sale system" means any combination of a cash register
+17 or other devices, or system, such as a scanner, capable of recovering
+18 stored information related to the price or computing the price of any
+19 individual item that is sold or offered for sale at retail. A "point-of-sale
+20 system" may include or be attached or connected to a weighing or
+21 measuring device.
+22 (l) "Primary standards" means the physical standards of the state
+23 that serve as the legal reference from which all other standards and
+24 weights and measures are derived.
+25 (m) "Sale from bulk" means the sale of commodities when the
+26 quantity is determined at the time of sale.
+27 (n) "Scanner" means any electronic system that employs a laser-bar
+28 code reader to retrieve product identity, price or other information stored
+29 in a computer memory.
+30 (o) "Secondary standards" means the physical standards that are
+31 traceable to the primary standards through comparisons, using acceptable
+32 laboratory procedures, and used in the enforcement of weights and
+33 measures laws and rules and regulations.
+34 (p) "Secretary" means the secretary of the Kansas department of
+35 agriculture or the secretary's designee.
+36 (q) "Service company" means a company that is in the business of
+37 examining, calibrating, testing, repairing and adjusting devices used for
+38 weighing, measuring or both, dispensing devices or electric vehicle supply
+39 equipment. "Service company" does not include a technical representative
+40 unless the technical representative is the owner of such service company.
+41 (r) "Technical representative" means an individual who performs the
+42 proper installation, repair, adjustment or calibration and certification of
+43 the accuracy of a device used for weighing, measuring or both, dispensing
+
+HB 2255 5
+1 devices or electric vehicle supply equipment.
+2 (s) "Vehicle tank meter" means those meters mounted on vehicle
+3 tanks used for the measurement and delivery of petroleum products.
+4 (t) "Weight," as used in connection with any commodity means net
+5 weight, except that if the label declares that the product is sold by drained
+6 weight, then the term means net drained weight.
+7 (u) "Weights and measures" means all commercial weights or
+8 measures of every kind.
+9 Sec. 2. K.S.A. 83-202 is hereby amended to read as follows: 83-202.
+10 (a) Except as provided further:
+11 (1) The system of weights and measures in customary use in the
+12 United States and the metric system of weights and measures are jointly
+13 recognized, and either one or both of these systems shall be used for all
+14 commercial purposes in the state.
+15 (2) The following standards and requirements shall apply to
+16 commercial devices used for weighing and, measuring devices or both:
+17 (A) "The standards of the national conference on weights and
+18 measures" published in the national institute of standards and technology
+19 handbook 44, entitled specifications, tolerances, and other technical
+20 requirements for weighing and measuring devices, as published on in
+21 October, 1994, or later versions as established in rules and regulations
+22 adopted by the secretary, except that a mechanical vehicle scale used
+23 solely to sell aggregate products shall be allowed a minimum tolerance of
+24 +/- 100 pounds. Such scale shall not be sold or moved to another location
+25 for use in commercial applications unless it complies with all applicable
+26 tolerances of the national institute of standards and technology handbook
+27 44, entitled specifications, tolerances, and other technical requirements for
+28 weighing and measuring devices, as published in October, 1994, or later
+29 versions as established in rules and regulations adopted by the secretary;
+30 (B) "the uniform laws and regulations of the national conference on
+31 weights and measures" published in the national institute of standards and
+32 technology handbook 130 regarding packaging and labeling, the method of
+33 sale of commodities, national type evaluation regulation, motor fuel
+34 inspection and motor fuel regulation, as published on in December, 1994,
+35 or later versions as established in rules and regulations adopted by the
+36 secretary;
+37 (C) "checking the net contents of packaged goods" published in the
+38 national institute of standards and technology handbook 133, third edition,
+39 as published on in September, 1988, or later versions as established in
+40 rules and regulations adopted by the secretary;
+41 (D) "checking the net contents of packaged goods" published in the
+42 national institute of standards and technology handbook 133, third edition,
+43 supplement 4, as published on in October, 1994, or later versions as
+
+HB 2255 6
+1 established in rules and regulations adopted by the secretary; and
+2 (E) any other handbooks or sections thereof as adopted by the
+3 secretary by rules and regulations.
+4 (b) Whenever there exists an inconsistency between the provisions of
+5 chapter 83 of the Kansas Statutes Annotated, and amendments thereto, this
+6 chapter and any of the handbooks adopted by reference, the requirements
+7 of chapter 83 of the Kansas Statutes Annotated, and amendments thereto,
+8 this chapter shall control.
+9 Sec. 3. K.S.A. 83-207 is hereby amended to read as follows: 83-207.
+10 (a) The secretary of agriculture may adopt rules and regulations necessary
+11 for the administration and enforcement of the provisions of chapter 83 of
+12 the Kansas Statutes Annotated, and amendments thereto this chapter. As a
+13 part of such rules and regulations, the secretary of agriculture shall adopt
+14 standards setting forth specifications, tolerances and other technical
+15 requirements for all weights, measures and weighing and measuring
+16 devices, and point-of-sale systems. These specifications, tolerances and
+17 other technical requirements shall conform, insofar as practicable, to the
+18 specifications, tolerances and other technical requirements for weights,
+19 measures and weighing and measuring devices established by the national
+20 institute of standards and technology. The secretary of agriculture shall
+21 prescribe by rules and regulations the appropriate term or unit of weight or
+22 measure to be used whenever the secretary determines in the case of a
+23 specific commodity that an existing practice of declaring the quantity by
+24 weight, measure, or numerical count, or combination thereof, does not
+25 facilitate value comparisons by consumers, or that such practice offers an
+26 opportunity for consumer confusion.
+27 (b) The secretary may adopt rules and regulations concerning:
+28 (1) Standards of workmanship for technical representatives and
+29 service companies;
+30 (2) requirements for contractual responsibilities and fulfillment of
+31 agreements by service companies; and
+32 (3) maintenance and furnishing of reports and information necessary
+33 for the secretary to carry out the provisions of this act.
+34 Sec. 4. K.S.A. 83-208 is hereby amended to read as follows: 83-208.
+35 The secretary, or an authorized representative of the secretary, may, during
+36 normal business hours, enter any premises or vehicle in or on which any
+37 weights, measures, balances or, devices used for weighing, measuring
+38 devices or both, dispensing devices or electric vehicle supply equipment,
+39 subject to the requirements of this chapter or any related records required
+40 pursuant thereto may be located or used for the purposes of trade, for the
+41 purpose of inspecting, testing and sealing or rejecting the same or as
+42 otherwise necessary for the administration of this chapter. Whoever
+43 hinders, obstructs, or in any way interferes with the secretary or an
+
+HB 2255 7
+1 authorized representative of the secretary, while in the performance of the
+2 inspection, or whoever fails to produce, upon demand by such secretary or
+3 authorized representative, all weights, measures, balances or measuring
+4 devices in or upon the premises or vehicle of such person or in the
+5 possession of such person for use in manufacture or trade, shall be deemed
+6 guilty of a class A, nonperson misdemeanor.
+7 Sec. 5. K.S.A. 83-214 is hereby amended to read as follows: 83-214.
+8 (a) The secretary may try and prove weights, measures, balances and other
+9 measuring devices on request for any person, corporation or institution,
+10 and when the same are found or made to conform to the state standards,
+11 and otherwise fulfill such reasonable requirements as the secretary may
+12 make, the secretary, or an authorized representative of the secretary, may
+13 seal the same with a seal which that is kept for that purpose.
+14 (b) (1) Except as otherwise provided by statute, the secretary, or the
+15 authorized representative of the secretary, may charge for services
+16 provided by the department and other necessary and incidental expenses,
+17 or both, incurred in conjunction with the testing and proving of weights,
+18 measures or both and other devices at rates prescribed pursuant to this
+19 section. An in-state rate shall be charged to licensed service companies that
+20 have licensed technical representatives performing service work in Kansas.
+21 An additional fee for adjustment of any weight, measure or other device
+22 may be assessed. The rates charged by the secretary shall be as follows:
+23
+
+1
+
+HB 2255 9
+1 (2) The secretary may charge the following additional fees for
+2 preparing items for shipment:
+3 Category Rate
+4 Large Mass (≤ 1,250 lbs through ≥ 100 lbs, 500 kg through 50 ≥ kg) . . . . .$20
+5 Medium Mass (< 100 lbs through ≥ 20 lbs, < 50 kg through ≥ 10 kg) . . . .$30
+6 Small Mass (< 20 lbs through ≥ 0.001 lbs, < 10 kg through 1 mg) . . . . . . . . .$20
+7 Small Mass Set (≤ 10 lbs through ≥ 0.001 lbs, ≤ 5 kg through ≥ 1 mg) . .$20
+8 Precision Mass (1,000 lbs through 0.001 lbs, 30 kg through 1 mg) . . . . . . . . .$10
+9 Precision Mass Set (1,000 lbs through 0.001 lbs, 30 kg through 1 mg) . .$20
+10 Extra Large Headhouse Weights (3,000 lbs through > 1,250 lbs) . . . . . . . . . . . .$40
+11 Weight Carts (8,000 lbs through 2,000 lbs) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . $100
+12 Large Volume (1,000 gal through 20 gal) . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . $100
+13 Large Volume LPG (1,000 gal through 20 gal) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . $100
+14 Small Volume (5 gal) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . $20
+15 Gravimetric Volume (5 gal) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . $20
+16 Thermometry (-35°C through 150°C)(Based on a 2 point calibration) . . .$20
+17 Calibration Types and Ranges Calibration Adjustment
+18 Fee Fee
+19 Mass Echelon III Weight Set, up to 10 lb, $120.00/set $20.00/pc
+20 (ASTM Class: 5, 6, 7) up to 5kg in the set
+21 (NIST Class: F) up to 10 lb, up to 5 kg $10.00/pc $20.00/pc
+22 (OIML Class: M1, over 10 lb up to 50 lb, over $25.00/pc $50.00/pc
+23 M1-2, M2, M2-3, M3) 5 kg up to 30 kg
+24 over 50 lb up to 1250 lb, over $35.00/pc $70.00/pc
+25 30 kg up to 500 kg
+26 over 1250 lb up to 3000 lb $70.00/pc $45.00/pc
+27 Weight Cart, 2500 lb $250.00/pc $170.00/pc
+28 up to 6000 lb
+29 Weight Cart, over 6000 lb $350.00/pc $225.00/pc
+30 up to 8000 lb
+31 Mass Echelon II (ASTM up to 1000 lb, up $40.00/pc $80.00/pc
+32 Class: 2, 3, 4) (OIML to 500 kg
+33 Class: F1, F2)
+34 Mass Echelon I (ASTM Class:500 lb, up to 30 kg $75.00/pc $75.00/pc
+35 0, 1) (OIML Class: E1, E2)
+36 Volume Echelon II 5 gal $70.00/pc Due to the
+37 over 5 gal up to 100 gal $240.00/pc calibration
+38 over 100 gal up to 200 gal $300.00/pc procedure,
+39 over 200 gal up to 500 gal $500.00/pc adjustment
+40 over 500 gal up to 1000 gal $900.00/pc is included
+41 over 1000 gal up to 1500 gal $1200.00/pc in the cost
+42 LPG, 20 gal up to 100 gal $460.00/pc of calibration.
+43 Volume Echelon I Up to 5 gal $310.00/pc $310.00/pc
+44 Thermometry Echelon IV -35 °C up to 150 °C $90.00/point $90.00/point
+45 (3)(2) Service that is not part of a routine calibration, including, but
+46 not limited to, cleaning or repairing a standard or performing non-routine
+47 calibration procedures, shall be charged at a rate of $120 per hour. For
+48 any service provided pursuant to this subsection that is not listed in the fee
+49 schedules in subsections subsection (b)(1) and (b)(2), the secretary shall
+
+HB 2255 10
+1 determine that the fee to be charged.
+2 (4)(3) For any service provided pursuant to this subsection, the
+3 secretary may charge a minimum fee of $50 $70 per invoice. The secretary
+4 may charge for subsistence and transportation of personnel and equipment
+5 to such point and return. Such charges shall be set by rules and regulations
+6 adopted by the secretary of agriculture.
+7 (5)(4) The secretary may fix the manner in which any charges made
+8 pursuant to this subsection are collected.
+9 (c) The secretary shall remit all moneys received under subsection (b)
+10 to the state treasurer in accordance with the provisions of K.S.A. 75-4215,
+11 and amendments thereto. Upon receipt of each such remittance, the state
+12 treasurer shall deposit the entire amount in the state treasury to the credit
+13 of the weights and measures fee fund which is hereby created. All
+14 expenditures from the weights and measures fee fund shall be made in
+15 accordance with appropriation acts upon warrants of the director of
+16 accounts and reports issued pursuant to vouchers approved by the
+17 secretary or by a person designated by the secretary.
+18 (d) Except as otherwise provided in K.S.A. 83-301 through 83-311,
+19 and amendments thereto, nothing in article 2 of chapter 83 of the Kansas
+20 Statutes Annotated, and amendments thereto this chapter, nothing shall
+21 prohibit the owner of a weighing or measuring device or the owner's
+22 employee or agent from servicing or repairing such device. However, If
+23 such device is found out of tolerance and is rejected by the department of
+24 agriculture secretary, the owner is responsible for repairing the device
+25 within the time specified on the rejection tag and notifying the department
+26 secretary when the device is repaired and in operation. The owner shall
+27 pay a fee commensurate with the expense incurred by the secretary in
+28 performing the follow-up inspections or tests.
+29 Sec. 6. K.S.A. 83-215 is hereby amended to read as follows: 83-215.
+30 (a) The secretary is hereby authorized and empowered to reject and take
+31 out of service any device used for weighing or, measuring device which or
+32 both that is found not to conform to state standards or which that is found
+33 not to weigh or measure within authorized tolerances.
+34 (b) Service companiesA service company and city or county
+35 department of weights and measures or any agent or employee thereof,
+36 shall be prohibited from condemning or rejecting a device used to
+37 weighing, measuring or both or taking a weighing or measuring such
+38 device out of service.
+39 (c) Any weighing or measuring device that has been rejected and
+40 taken out of service under authority of the secretary shall remain subject to
+41 the control of the secretary until such time as that suitable and acceptable
+42 repair has been made of the same, or an authorized disposition of the same
+43 has been approved. An authorized repair period of use not longer than 30
+
+HB 2255 11
+1 days for purposes of obtaining a repair of the device used for weighing or,
+2 measuring device or both by the owner, or a reasonable extension of that
+3 period, may be given by the secretary when it is determined that the
+4 immediate cessation of use of such weighing or measuring device will
+5 work an undue hardship on the person using such device or the patrons of
+6 such person. The owner of such rejected weighing or measuring device
+7 shall cause the same to be repaired and corrected to weigh or measure
+8 within authorized tolerances within 30 days after being rejected, or within
+9 such extension as may be authorized, or in lieu thereof, the owner of the
+10 same may dispose of or destroy such weighing or measuring device or any
+11 rejected weight or measure under specific authority from the secretary.
+12 Sec. 7. K.S.A. 83-216 is hereby amended to read as follows: 83-216.
+13 (a) Any weight, measure or device used for weighing or, measuring device
+14 which or both that has been rejected by the secretary and which has not
+15 been repaired or restored to weigh or measure within approved tolerances,
+16 during any authorized repair period, is hereby declared to be a common
+17 nuisance and a contraband device. The secretary may seal the beam or
+18 mechanism out of service on any device used for weighing or, measuring
+19 device, or both or may take possession of any contraband weight or
+20 measure. The secretary shall deliver to the owner or person found in
+21 possession of any contraband weight, measure or device used for weighing
+22 or, measuring device or both a statement giving the location and
+23 description of the weight, measure or device used for weighing or,
+24 measuring device or both so sealed or taken.
+25 (b) Any device used for weighing or, measuring device which or both
+26 that has been sealed out of service by the secretary and which that has not
+27 been repaired or restored and made to weigh or measure within approved
+28 tolerances within 90 days following the date of sealing, or an authorized
+29 extension thereof, may be proceeded against by an action, instituted in
+30 Shawnee county district court or in the county where such weighing or
+31 measuring device is located, in a district court of competent jurisdiction
+32 for an order for the disposal of such device.
+33 (c) Procedure in regard to the prevention of the maintenance of a
+34 common nuisance and procedure for the disposal of any device used for
+35 weighing or, measuring device or both may be had conducted in
+36 accordance with and in the manner provided for under K.S.A. 41-805 and
+37 41-806, and amendments thereto, and as otherwise authorized by statute.
+38 Sec. 8. K.S.A. 83-217 is hereby amended to read as follows: 83-217.
+39 Any person who is liable to an injured person by reason of any inaccurate,
+40 false or rejected device used for weighing or, measuring device or both
+41 shall be assessed and adjudged to pay damages in double the amount of
+42 the property wrongfully taken or not given, and, in addition thereto, for
+43 punitive damages, the additional sum of $25, and reasonable attorney fees,
+
+HB 2255 12
+1 to be recovered in any court of competent jurisdiction. The selling and
+2 delivery of a stated quantity of any commodity shall be prima facie
+3 evidence of representations on the part of the vendor that the quantity sold
+4 and delivered was the quantity bought by the vendee. A slight variation
+5 from the stated weight, measure or quantity, within authorized tolerances,
+6 is permissible for individually packaged commodities if such variation is
+7 as often over, as it is under, the correct weight, measure or quantity stated.
+8 Sec. 9. K.S.A. 83-218 is hereby amended to read as follows: 83-218.
+9 For the purposes of this act, proof of the existence of a weight, measure or
+10 a device used for weighing or, measuring device or both, in or about any
+11 building, enclosure, stand or vehicle in which or from which it is shown
+12 that buying or selling is commonly carried on, in the absence of conclusive
+13 evidence to the contrary, shall be presumptive proof of the regular use of
+14 such weight, measure or device used for weighing or, measuring device or
+15 both for commercial purposes and of such use by the person in charge of
+16 such building, enclosure, stand or vehicle.
+17 Sec. 10. K.S.A. 83-219 is hereby amended to read as follows: 83-219.
+18 (a) It shall be unlawful for any person to:
+19 (1) To Offer or expose for sale, or to sell any weight, measure or
+20 weighing or measuring device that does not meet the tolerances and
+21 specifications required by this chapter 83 of the Kansas Statutes
+22 Annotated, and amendments thereto, or which that has been rejected
+23 without first obtaining the written authorization of the secretary;
+24 (2) to use a weight, measure or weighing or measuring device for
+25 commercial purposes which that does not meet the tolerance and
+26 specifications required by this chapter 83 of the Kansas Statutes
+27 Annotated, and amendments thereto, or that does not conform to the
+28 standard authorized by the secretary for determining the quantity of any
+29 commodity or article of merchandise, for the purpose of:
+30 (A) Buying or selling any commodity or article of merchandise;
+31 (B) computation of any charge for services rendered on the basis of
+32 weight or measure; or
+33 (C) determining weight or measure, either when a charge is made for
+34 such determination or where no charge is made for use of such weight,
+35 measure, weighing or measuring device;
+36 (3) except as allowed in K.S.A. 83-225, and amendments thereto, to
+37 break or remove any tag, mark or seal placed on any weighing or
+38 measuring device by the secretary or a county or city inspector of weights
+39 and measures, without specific written authorization from the proper
+40 authority or to use a weighing or measuring device after the lapse of the
+41 authorized period following the placing of a rejection tag thereon by the
+42 secretary, unless further extension of time for any repair purposes is first
+43 obtained from the secretary to;
+
+HB 2255 13
+1 (4) to sell, offer or expose for sale, less than the represented quantity
+2 of any commodity, thing or service;
+3 (5) to take or attempt to take more of the represented quantity of any
+4 commodity, thing or service when the buyer furnishes the weight, measure
+5 or weighing or measuring device by which the amount of any commodity,
+6 thing or service is determined;
+7 (6) to keep for the purpose of sale, or to offer or expose for sale, or to
+8 sell any commodity in a manner contrary to the law or contrary to any rule
+9 and regulation;
+10 (7) to use in retail trade, except in preparation of packages of
+11 merchandise put up in advance of sale, a weighing or measuring device
+12 that is not so positioned that its indications may be accurately read and the
+13 weighing or measuring operation observed from a reasonable customer
+14 position;
+15 (8) to violate any of the provisions of this chapter 83 of the Kansas
+16 Statutes Annotated, and amendments thereto, or rules and regulations
+17 adopted thereunder, for which a specific penalty is not provided;
+18 (9) to sell or offer for sale, or use or possess for the purpose of selling
+19 or using any device or instrument to be used or calculated to falsify any
+20 weight or measure;
+21 (10) to dispose of any rejected weight or measure in a manner
+22 contrary to law or rules and regulations;
+23 (11) to expose for sale, offer for sale or sell any commodity in
+24 package form, without it such commodity being so wrapped, or the
+25 container so made, formed or filled, that it will not mislead the purchaser
+26 as to the quantity of the contents of the package;
+27 (12) to expose for sale, offer for sale or sell any commodity in any
+28 container where in which the contents of the container fall below such
+29 reasonable standard of fill as may have been prescribed for the commodity
+30 in question by the secretary;
+31 (13) to misrepresent the price of any commodity or service sold,
+32 offered, exposed or advertised for sale by weight, measure or count, nor or
+33 represent the price in any manner calculated or tending to mislead or in
+34 any way deceive any person;
+35 (14) to misrepresent, or represent in a manner calculated or tending to
+36 mislead or deceive an actual or prospective purchaser, the price of an item
+37 offered, exposed or advertised for sale at retail;
+38 (15) to compute or attempt to compute at the time of sale of an item, a
+39 value which that is not a true extension of a price per unit which that is
+40 then advertised, posted or quoted;
+41 (16) to charge or attempt to charge, at the time of the sale of an item
+42 or commodity, a value which that is more than the price which that is
+43 advertised, posted or quoted;
+
+HB 2255 14
+1 (17) to alter a weight certificate, use or attempt to use any such
+2 certificate for any load or part of a load or for articles or things other than
+3 for which the certificate is given, or, after weighing and before the delivery
+4 of any articles or things so weighted, alter or diminish the quantity thereof;
+5 (18) to hinder or obstruct the secretary in any way the secretary or
+6 any of the secretary's authorized agents in the performance of the
+7 secretary's official duties under this chapter 83 of the Kansas Statutes
+8 Annotated, and amendments thereto, or any rules and regulations adopted
+9 thereunder or to fail to produce, upon demand by the secretary, all
+10 weights, measures, balances, devices used for weighing, measuring or
+11 both, dispensing devices or electric vehicle supply equipment that are
+12 subject to the provisions of this chapter;
+13 (19) to fail to follow the standards and requirements established in
+14 K.S.A. 83-202, and amendments thereto, or any rules and regulations
+15 adopted thereunder;
+16 (20) to fail to pay all fees and penalties as prescribed by this chapter
+17 83 of the Kansas Statutes Annotated, and amendments thereto, and the
+18 rules and regulations adopted thereunder;
+19 (21) to fail to keep or make available for examination or provide to
+20 the secretary all inspection reports, test reports and any other service
+21 reports or other information on any device owned or operated by the
+22 owner or any agent or employee of the owner and other information
+23 necessary for the enforcement of this chapter 83 of the Kansas Statutes
+24 Annotated, and amendments thereto, or any rules and regulations adopted
+25 thereunder, and as required by the secretary;
+26 (22) to fail to have any commercial weight, measure or device used
+27 for weighing and, measuring device or both tested as required by this
+28 chapter 83 of the Kansas Statutes Annotated, and amendments thereto, or
+29 any rules and regulations adopted thereunder;
+30 (23) to sell or offer or expose for sale liquefied petroleum gas in
+31 packages or containers which that do not bear a statement as to tare and
+32 net weight as required by this chapter 83 of the Kansas Statutes Annotated,
+33 and amendments thereto, or any rules and regulations adopted thereunder,
+34 or packages or containers which that bear a false statement as to weights;
+35 (24) to sell, use, remove, or otherwise dispose of, or fail to remove
+36 from the premises specified, any weighing or measuring device or package
+37 or commodity contrary to the terms of any order issued by the secretary;
+38 (25) to violate any order issued by the secretary pursuant to this
+39 chapter 83 of the Kansas Statutes Annotated, and amendments thereto; and
+40 (26) to prohibit a buyer or seller from observing the weighing or
+41 operation of any transaction to which such buyer or seller is a party;
+42 (27) falsely make or alter or cause or procure to be falsely made or
+43 altered with intent to defraud, any scale ticket or other written record
+
+HB 2255 15
+1 evidencing or relating to the weight of any personal property or any entry
+2 or item thereon; and
+3 (28) weigh any vehicle at an attended public scale or issue any scale
+4 ticket or other written record evidencing or relating to the weight of such
+5 vehicle or the load thereon, unless such scale ticket or written record
+6 shows the date, time and place of the weighing and the signature of the
+7 weigher.
+8 (b) It shall be unlawful for any service company or technical
+9 representative to knowingly:
+10 (1) Act as or represent such person's self to be a technical
+11 representative without having a valid license issued by the Kansas
+12 department of agriculture;
+13 (2) certify a device as correct unless the device meets the tolerances
+14 and specifications as required by this chapter 83 of the Kansas Statutes
+15 Annotated, and amendments thereto, or any rules and regulations adopted
+16 thereunder;
+17 (3) hinder or obstruct in any way the secretary in the performance of
+18 the secretary's official duties under this chapter 83 of the Kansas Statutes
+19 Annotated, and amendments thereto, or any rules and regulations adopted
+20 thereunder;
+21 (4) fail to follow the standards and requirements set forth in K.S.A.
+22 83-202, and amendments thereto, or any rules and regulations adopted
+23 thereunder;
+24 (5) fail to complete the testing or placing-in-service report in its
+25 entirety and to report the accurate description of the parts replaced,
+26 adjusted, reconditioned or work performed;
+27 (6) file a false or fraudulent service company or technical
+28 representative application or reports to the secretary;
+29 (7) fail to pay all fees and penalties as prescribed by this chapter 83
+30 of the Kansas Statutes Annotated, and amendments thereto, and the rules
+31 and regulations adopted thereunder;
+32 (8) fail to keep or make available for examination in an accessible
+33 and legible manner or provide to the secretary in a legible manner all
+34 inspection reports, test reports, and any other service or report work
+35 information on any device which that the service company or an agent or
+36 employee performed work on and other information necessary for the
+37 enforcement of this chapter 83 of the Kansas Statutes Annotated, and
+38 amendments thereto, or any rules and regulations adopted thereunder; or
+39 (9) sell, offer or expose for sale a device used for weighing or,
+40 measuring device or both intended to be used commercially, which that is
+41 not traceable to a national type evaluation program certificate of
+42 conformance.
+43 (c) For the purpose of subsection (a)(4), the selling and delivery of a
+
+HB 2255 16
+1 stated quantity of any commodity shall be prima facie evidence of
+2 representations on the part of the seller that the quantity sold and delivered
+3 was the quantity bought by the purchaser.
+4 (d) Violation of this section shall be deemed a deceptive act and
+5 practice as defined by K.S.A. 50-626, and amendments thereto. Violations
+6 of the provisions of K.S.A. 83-219, and amendments thereto, may be
+7 enforced by the secretary under the administrative provisions of this
+8 chapter 83 of the Kansas Statutes Annotated, and amendments thereto, or
+9 by the attorney general or a county or district attorney under the Kansas
+10 consumer protection act.
+11 Sec. 11. K.S.A. 83-220 is hereby amended to read as follows: 83-220.
+12 Any person violating any of the provisions of article 2 of this chapter 83 of
+13 the Kansas Statutes Annotated, and amendments thereto, or violating any
+14 rules and regulations adopted thereunder shall be guilty of a class A, a
+15 nonperson misdemeanor. Each separate violation shall be a separate
+16 misdemeanor.
+17 Sec. 12. K.S.A. 83-221 is hereby amended to read as follows: 83-221.
+18 All inspections and tests to inspect, test and seal, certify or reject any
+19 dispensing device, as defined in K.S.A. 83-401, and amendments thereto,
+20 or the capacity of any vehicle tank used in the transportation of liquefied
+21 petroleum gas, motor-vehicle fuels or liquid fuels shall be made in
+22 compliance with the provisions of this chapter 83 of the Kansas Statutes
+23 Annotated, and amendments thereto, and the rules and regulations
+24 promulgated thereunder.
+25 Sec. 13. K.S.A. 83-222 is hereby amended to read as follows: 83-222.
+26 Except as otherwise provided in article 2 of this chapter 83 of the Kansas
+27 Statutes Annotated, and amendments thereto, all rules and regulations
+28 adopted under the provisions of article 1 of this chapter 83 of the Kansas
+29 Statutes Annotated in existence immediately prior to July 1, 1985, shall
+30 continue to be effective and shall be deemed to be the rules and regulations
+31 of the secretary of agriculture until revised, amended, repealed or nullified
+32 pursuant to law.
+33 Sec. 14. K.S.A. 83-224 is hereby amended to read as follows: 83-224.
+34 If any part or parts of this act chapter are held to be invalid or
+35 unconstitutional by any court, it shall be conclusively presumed that the
+36 legislature would have enacted the remainder of this act without such
+37 invalid or unconstitutional part or parts.
+38 Sec. 15. K.S.A. 83-225 is hereby amended to read as follows: 83-225.
+39 (a) A licensed service company or a city or county department of weights
+40 and measures shall be authorized to remove an official rejection tag or
+41 other mark placed on a scale device used for weighing, measuring or both,
+42 a dispensing device or electric vehicle supply equipment by authority of
+43 the secretary for the purpose of testing or repairing any scale such device
+
+HB 2255 17
+1 or equipment.
+2 (b) After the test is conducted and necessary repairs are completed,
+3 the service company or city or county department of weights and measures
+4 shall place the weighing and measuring device or equipment in service and
+5 shall notify the secretary of such within the time periods established by the
+6 secretary pursuant to rules and regulations adopted hereunder.
+7 (c) When a scale device or equipment cannot be repaired properly, the
+8 service company or city or county department of weights and measures
+9 shall replace the rejection tag or other mark with a substitute rejection tag
+10 or other mark supplied by the department secretary and shall notify the
+11 secretary within the time period as established by the secretary pursuant to
+12 rules and regulations adopted hereunder.
+13 (d) This section shall apply to new and used scales devices used for
+14 weighing, measuring or both, dispensing devices and electric vehicle
+15 supply equipment.
+16 (e) This section shall be supplemental to and part of the act appearing
+17 in article 2 of chapter 83 of Kansas Statutes Annotated. Administrative or
+18 civil penalties specified in K.S.A. 83-220, and amendments thereto, shall
+19 apply to violations of this section.
+20 New Sec. 16. (a) Each person, other than an authorized representative
+21 of the secretary or an authorized representative of a city or county
+22 department of public inspection of weights and measures established
+23 pursuant to K.S.A. 83-210, and amendments thereto, desiring to operate
+24 and perform testing and other services as a service company in Kansas
+25 shall apply to the secretary for a service company license on a form to be
+26 supplied by the secretary and shall obtain such license from the secretary
+27 before operating and performing testing or other services as a service
+28 company.
+29 (b) Each service company shall obtain a separate license for each
+30 place of business maintained in Kansas by paying a license application fee
+31 not to exceed $200 for each license sought. The secretary may set the
+32 application fee by order. Each service company license shall expire on
+33 June 30 following issuance, shall be void unless renewed prior to the
+34 expiration and shall not be transferable. The license renewal fee for each
+35 place of business shall be equal to the license application fee as provided
+36 in this section.
+37 (c) If any service company maintains any out-of-state places of
+38 business that the company operates in serving Kansas patrons, the service
+39 company seeking to obtain or renew a license under this section shall list
+40 in the application such places of business and the firm names under which
+41 the company operates at each such place of business. If any out-of-state
+42 place of business is established by a service company after being licensed
+43 under this section, the licensee shall supply such information to the
+
+HB 2255 18
+1 secretary before any work is performed in Kansas from such out-of-state
+2 location. Each nonresident service company shall designate a resident
+3 agent upon whom service of notice or process may be made to enforce the
+4 provisions of this chapter or any liabilities arising from operations
+5 thereunder. Each nonresident service company that does not maintain an
+6 established place of business in Kansas shall obtain a license under this
+7 section for each out-of-state place of business and list on the application
+8 the firm name or names for each place of business from which the service
+9 company intends to operate.
+10 (d) Each technical representative shall be licensed annually by the
+11 secretary. Except as provided in subsection (e), each technical
+12 representative shall be required to attend continuing education seminars on
+13 an annual basis as required by rules and regulations adopted by the
+14 secretary and pass a reasonable examination prescribed by the secretary
+15 each year prior to being licensed. Each technical representative's license
+16 shall expire on June 30 following the issuance of the license and shall be
+17 void unless renewed prior to the expiration.
+18 (e) Each technical representative who has had 10 years of continuous
+19 licensure with no administrative enforcement action adjudicated against
+20 such technical representative during such 10-year period shall be eligible
+21 to obtain a five-year license. The secretary shall implement, by order, the
+22 fee for such five-year license. Such license fee shall be an amount of not to
+23 exceed $500. Each technical representative holding a five-year license
+24 shall be required to complete continuing education as described in
+25 subsection (d) at a frequency of not to exceed once per five-year period.
+26 The secretary may promulgate rules and regulations to require any
+27 technical representative who has been adjudicated in violation of this act
+28 or any rules and regulations promulgated by the secretary to seek renewal
+29 of a license on an annual basis, and the secretary may establish criteria for
+30 the reinstatement of eligibility for a five-year license.
+31 (f) The secretary is authorized to charge a fee to the attendees of
+32 continuing education seminars sponsored by the Kansas department of
+33 agriculture. The amount of such fee shall be not more than is necessary to
+34 cover the expenses incurred in providing the seminar.
+35 (g) No service company license may be issued or renewed under this
+36 section until the applicant's weights or measures, or both, have been tested
+37 for accuracy and sealed by the secretary. The secretary is authorized to
+38 accept a calibration certificate for the applicant's weights or measures
+39 issued by the national institute of standards and technology or by a
+40 metrology laboratory certified by the national institute of standards and
+41 technology in lieu of a test by the secretary, if such certificate shows that
+42 the weights or measures have been tested within the last 365 days
+43 preceding the license application.
+
+HB 2255 19
+1 (h) The secretary shall remit all moneys received under this section to
+2 the state treasurer in accordance with the provisions of K.S.A. 75-4215,
+3 and amendments thereto. Upon receipt of each such remittance, the state
+4 treasurer shall deposit the entire amount in the state treasury to the credit
+5 of the weights and measures fee fund.
+6 New Sec. 17. (a) At any time after notice and opportunity for a
+7 hearing are given accordance with the provisions of the Kansas
+8 administrative procedure act, the secretary may revoke, suspend, decline to
+9 renew or decline to issue a service company license or technical
+10 representative's license, when the service company or technical
+11 representative has:
+12 (1) Refused to provide the secretary with reasonably complete and
+13 accurate information regarding methods used, materials used or work
+14 performed as required by the secretary;
+15 (2) failed to comply with any provision or requirement of this
+16 chapter;
+17 (3) failed to perform work in a manner consistent with the standards
+18 set forth in this chapter; or
+19 (4) committed an unlawful act as established in K.S.A. 83-219, and
+20 amendments thereto, or any other provision of this chapter.
+21 Sec. 18. K.S.A. 83-304 is hereby amended to read as follows: 83-304.
+22 (a) Except as provided by subsection (e), the owner or operator of a device
+23 used for weighing and, measuring device which or both that is used
+24 commercially shall have such weighing and measuring device tested and
+25 inspected at least annually for accuracy. The test and inspection shall be
+26 conducted by either a licensed technical representative employed by a
+27 licensed service company or by an authorized representative of any city or
+28 county which that has established a department of public inspection of
+29 weights and measures pursuant to K.S.A. 83-210, and amendments
+30 thereto, or by the secretary, which inspects such weighing and measuring
+31 device. Such tests and inspections shall be conducted in accordance with
+32 the rules and regulations adopted by the secretary. If, upon such testing
+33 and inspection by the secretary or an authorized representative of the
+34 secretary, it is found that the weighing and measuring device has not been
+35 tested and inspected for accuracy and approved within the preceding 365
+36 days, the secretary or the authorized representative of the secretary shall
+37 take the weighing and measuring device out of service pursuant to the
+38 provisions of K.S.A. 83-215, and amendments thereto. Except as provided
+39 further, the test weights or equipment used by the service company shall
+40 have been approved and sealed by the secretary pursuant to K.S.A. 83-214,
+41 and amendments thereto, within 365 days preceding the date of the tests.
+42 Test weights or equipment which has that have the nominal capacity of
+43 250 pounds or greater, are housed in a grain elevator or similar structure
+
+HB 2255 20
+1 and are used to test scales in grain elevators or similar facilities shall have
+2 been approved and sealed by the secretary pursuant to K.S.A. 83-214, and
+3 amendments thereto, within three calendar years preceding the date of the
+4 test. Except at the option of the a city or county which that has an
+5 established department of public inspection of weights and measures, tests
+6 and inspections shall be at the expense of the owner or operator of the
+7 device used for weighing and, measuring device or both. In any city or
+8 county which that has a department of public inspection which that
+9 inspects such device used for weighing and, measuring device or both, the
+10 test may be conducted by an authorized representative of the city or county
+11 weights and measures department. Farmers or ranchers who own and
+12 operate a weighing and measuring device used in private treaty
+13 transactions are exempt from the annual testing requirements. Volumetric
+14 provers which that are stationary or which exceed the testing capacity of
+15 the state metrology lab labratory due to engineering design or the capacity
+16 of the prover are exempt from the annual testing requirement.
+17 (b) A service company or the city or county department of public
+18 inspection of weights and measures or an authorized representative of the
+19 secretary which conducts tests pursuant to this section shall, at the time of
+20 testing and inspection, promptly furnish to the owner or operator of the
+21 weighing and measuring device a report showing the results of the tests
+22 and inspection. The city or county department of public inspection of
+23 weights and measures and service company reports shall also be sent to the
+24 secretary, as required by rules and regulations adopted by the secretary. No
+25 report shall be furnished later than 10 days after the test or inspection of
+26 the device has occurredWhen tests or inspections are conducted pursuant
+27 to this section, a report showing the results of the tests or inspections shall
+28 be promptly furnished to the owner or operator. If the tests or inspections
+29 were not performed by the secretary, such reports shall also be sent to the
+30 secretary as required by rules and regulations adopted by the secretary
+31 and not later than 10 days after the test or inspection of such device has
+32 occurred.
+33 (c) Subject to the provisions of K.S.A. 83-215, and amendments
+34 thereto, the owner or operator of a device used for weighing and,
+35 measuring device which or both that is found to be out of noncompliant
+36 with the tolerances or specifications required by this chapter 83 of the
+37 Kansas Statutes Annotated, and amendments thereto, or any rules and
+38 regulations adopted thereunder shall, immediately at the time of testing
+39 shall, withdraw immediately the weighing and measuring device from
+40 further use until the necessary corrections, adjustments or repairs are made
+41 and the weighing and measuring device is determined to be accurate by a
+42 service company or the, a city or county department of public inspection
+43 of weights and measures or an authorized representative of the secretary.
+
+HB 2255 21
+1 Weighing and measuring devices which that have been repaired or
+2 serviced shall meet the tolerances and specifications established in this
+3 chapter 83 of the Kansas Statutes Annotated, and amendments thereto, and
+4 those rules and regulations adopted by the secretary prior to being placed
+5 or returned to service. The service company or the city or county
+6 department of public inspection of weights and measures shall notify the
+7 secretary of any weighing and measuring devices which that are found not
+8 to comply with such tolerances and specifications and are thus inaccurate
+9 and cannot be adjusted, repaired or serviced so as to comply with the
+10 standards and tolerances established in this chapter 83 of the Kansas
+11 Statutes Annotated, and amendments thereto. Such notification shall be as
+12 required by the secretary, pursuant to rules and regulations. Such
+13 notification shall be furnished to the department no not later than 10 days
+14 after the service company or city or county department of public
+15 inspection of weights and measures has found the weighing and measuring
+16 device to be in noncompliance with the tolerance and specifications
+17 required for such weighing and measuring device. A copy of the report
+18 prepared by the service company or city or county department of public
+19 inspection of weights and measures or the secretary showing the results of
+20 the weighing and measuring device test and the work done to correct any
+21 deficiencies shall be filed with the secretary by the service company party
+22 who prepared the report.
+23 (d) Each service company shall be required to keep at such company's
+24 corporate headquarters or at such company's resident agent's office a copy
+25 of all reports regarding the installation, repair, calibration and other work
+26 that the service company or the technical representatives employed by the
+27 service company performed on the commercial weighing and or measuring
+28 devices. Such reports shall be legible and maintained in an accessible
+29 manner and for a period of time as established by the secretary pursuant to
+30 rules and regulations. The owner or operator of a device used for weighing
+31 and, measuring device or both shall also be required to retain copies of all
+32 reports regarding the installation, repair or adjustment or any of the
+33 aforementioned done to the weighing and measuring device at the site
+34 where the measuring and weighing device is used. Such reports shall be
+35 legible and maintained in an accessible manner and for a period of time as
+36 established by the secretary pursuant to rules and regulations.
+37 (e) The secretary may adopt rules and regulations providing for
+38 inspection of vapor meters at intervals less frequently than annually if the
+39 secretary determines that annual inspections are not necessary to protect
+40 the public interest. In adopting any such rules and regulations, the
+41 secretary shall take into consideration the standard for inspections of vapor
+42 meters adopted by the national institute of standards and technology of the
+43 United States department of commerce.
+
+HB 2255 22
+1 Sec. 19. K.S.A. 83-305 is hereby amended to read as follows: 83-305.
+2 When the secretary has been finds or is notified by a licensed service
+3 company, by an authorized representative of the secretary or by a city or
+4 county department of public inspection of weights and measures
+5 established pursuant to K.S.A. 83-210, and amendments thereto, that a
+6 device used for weighing and, measuring device or both does not comply
+7 with tolerances and specifications adopted by the secretary, by rule and
+8 regulation, then the secretary may test the weighing and measuring device
+9 for accuracy after repairs have been made.
+10 Sec. 20. K.S.A. 83-404 is hereby amended to read as follows: 83-404.
+11 (a) The owner or operator of a dispensing device which that is used for
+12 commercial purposes shall have such device tested and inspected at least
+13 once within every 18-month period. The test shall be conducted by either
+14 an authorized representative of any city or county which that has
+15 established a department of public inspection of weights and measures
+16 pursuant to K.S.A. 83-210, and amendments thereto, or by the secretary,
+17 which inspects such dispensing devices. Such inspections shall be
+18 conducted in accordance with rules and regulations adopted by the
+19 secretary. If, upon inspection by the secretary, it is found that the
+20 dispensing device has not been tested and inspected for accuracy and
+21 approved within the preceding 18 months, the secretary shall take the
+22 dispensing device out of service pursuant to the provisions of K.S.A. 83-
+23 215, and amendments thereto. The test weights and measures used by the
+24 service company shall have been approved and sealed by the secretary
+25 pursuant to K.S.A. 83-214, and amendments thereto, every 365 days.
+26 Except at the option of the city or county which that has an established
+27 department of public inspection of weights and measures, annual tests and
+28 inspections shall be at the expense of the owner or operator. In any city or
+29 county which that has a department of public inspection of weights and
+30 measures which that annually inspects such dispensing devices, the tests
+31 may be conducted by an authorized representative of such city or county
+32 weights and measures department. Farmers or ranchers who own and
+33 operate a dispensing device used in private treaty transactions are exempt
+34 from the annual testing requirements.
+35 (b) The city or county department of public inspection of weights and
+36 measures or the secretary which conducts tests pursuant to this section, at
+37 the time of testing and inspection, shall promptly furnish to the owner or
+38 operator a report showing the results of the tests and inspection. Such
+39 reports shall also be sent to the secretary, as required by rules and
+40 regulations adopted by the secretary, however, no report shall be furnished
+41 later than 10 days after the test or inspection of such device has
+42 occurred.When tests or inspections are conducted pursuant to this section,
+43 a report showing the results of the tests or inspections shall be promptly
+
+HB 2255 23
+1 furnished to the owner or operator. If the tests or inspections were not
+2 performed by the secretary, such reports shall also be sent to the secretary
+3 as required by rules and regulations adopted by the secretary and not later
+4 than 10 days after the test or inspection of such device has occurred.
+5 (c) Subject to the provisions of K.S.A. 83-215, and amendments
+6 thereto, the owner and or operator of a dispensing device which that is
+7 found to be inaccurate at the time of testing shall immediately withdraw
+8 immediately the device from further use until the necessary corrections,
+9 adjustments or repairs are made and the device is determined to be
+10 accurate by a service company or the, a city or county weights and
+11 measures department or an authorized representative of the secretary. The
+12 devices which Dispensing devices that have been repaired or serviced shall
+13 meet the tolerances and specifications adopted by the secretary by rules
+14 and regulations. The A service company or the city or county shall notify
+15 the secretary of any devices which that are found not to comply with such
+16 tolerances and specifications and those which that are not able to be
+17 serviced or repaired so as to comply with such tolerances and
+18 specifications. The service company shall and report to the secretary
+19 within the time frames and in a manner established in rules and regulations
+20 adopted by the secretary of any dispensing device which that has been
+21 installed, repaired, calibrated or fails to comply with the required
+22 tolerances and specifications.
+23 (d) Each service company shall be required to keep at such company's
+24 corporate headquarters or at such company's resident agent's office a copy
+25 of all reports regarding the installation, repair, calibration and other work
+26 that the service company or the technical representatives employed by the
+27 service company performed on the commercial dispensing devices. Such
+28 reports shall be legible and maintained in an accessible manner and for a
+29 period of time as established by the secretary pursuant to rules and
+30 regulations. The owner or operator of a dispensing device shall also be
+31 required to retain copies of all reports regarding installation, repair or
+32 adjustment or any of the aforementioned done to the dispensing device at
+33 the site where the dispensing device is used. Such reports shall be legible
+34 and maintained in an accessible manner and for a period of time as
+35 established by the secretary pursuant to rules and regulations.
+36 Sec. 21. K.S.A. 83-405 is hereby amended to read as follows: 83-405.
+37 When the secretary finds or is notified by a licensed service company, an
+38 authorized representative of the secretary or by a city or county department
+39 of public inspection of weights and measures established pursuant to
+40 K.S.A. 83-210, and amendments thereto, that a dispensing device does not
+41 comply with tolerances and specifications adopted by the secretary, by
+42 rules and regulations, the secretary may test the dispensing device for
+43 accuracy after repairs have been made.
+
+HB 2255 24
+1 Sec. 22. K.S.A. 83-501 is hereby amended to read as follows: 83-501.
+2 (a) In addition to any other penalty provided by law, any person who
+3 violates any provision of chapter 83 of the Kansas Statutes Annotated, and
+4 amendments thereto, or any rules and regulations adopted thereunder, this
+5 chapter may incur a civil penalty imposed under subsection (b) in the
+6 amount, fixed by rules and regulations of the secretary of agriculture, of
+7 not less than $100 nor more than $5,000 for each such violation, and, in
+8 the case of a continuing violation, every day that such violation continues
+9 shall be deemed a separate violation.
+10 (b) In determining the amount of the civil penalty, the following shall
+11 be taken into consideration: (1) The extent of harm caused by the
+12 violation; (2) the nature and persistence of the violation; (3) the length of
+13 time over which the violation occurs; (4) any corrective actions taken; and
+14 (5) any and all relevant circumstances.
+15 (c) All civil penalties assessed shall be due and payable within 10
+16 days after written notice of assessment is served on the person, unless a
+17 longer period of time is granted by the secretary. If a civil penalty is not
+18 paid within the applicable time period, the secretary may file a certified
+19 copy of the notice of assessment with the clerk of the district court in the
+20 county where the weighing and measuring device or dispensing device is
+21 located. The notice of assessment shall be enforced in the same manner as
+22 a judgment of the district court.
+23 (d) No civil penalty shall be imposed pursuant to this section except
+24 upon the written order of the duly authorized agent of the secretary to the
+25 person who committed the violation or to the person whose agent or
+26 employee committed the violation. Such order shall state the violation, the
+27 penalty to be imposed and the right of the person to appeal to the secretary.
+28 Any such person, within 20 days after notification, may make written
+29 request to the secretary for a be subject to notice and a hearing in
+30 accordance with the provisions of the Kansas administrative procedure act.
+31 The secretary shall affirm, reverse or modify the order and shall specify
+32 the reasons therefor.
+33 (e) Any person aggrieved by an order of the secretary made under this
+34 section may appeal such order to the district court in the manner provided
+35 by the Kansas judicial review act.
+36 (f) An appeal to the district court or to an appellate court shall not
+37 stay the payment of the civil penalty.
+38 (g) Any civil penalty recovered pursuant to the provisions of this
+39 section or recovered under the consumer protection act for violations of
+40 any provision of K.S.A. 83-219, and amendments thereto, shall be remitted
+41 to the state treasurer in accordance with the provisions of K.S.A. 75-4215,
+42 and amendments thereto. Upon receipt of each such remittance, the state
+43 treasurer shall deposit the entire amount in the state treasury to the credit
+
+HB 2255 25
+1 of the weights and measures fee fund.
+2 New Sec. 23. (a) The owner or operator of electric vehicle supply
+3 equipment that is used for commercial purposes shall have such device
+4 tested and inspected at least once annually. The testing and inspection shall
+5 be conducted by either a licensed technical representative employed by a
+6 licensed service company, by an authorized representative of any city or
+7 county that has established a department of public inspection of weights
+8 and measures pursuant to K.S.A. 83-210, and amendments thereto, or by
+9 the secretary. Such testing and inspection shall be conducted in accordance
+10 with the rules and regulations adopted by the secretary. If, upon such
+11 testing and inspection, it is found that the electric vehicle supply
+12 equipment has not been tested and inspected for accuracy and approved
+13 within the preceding 365 days, the secretary shall take the electric vehicle
+14 supply equipment out of service pursuant to the provisions of K.S.A. 83-
+15 215, and amendments thereto. Test weights and measures used by a
+16 technical representative employed by a licensed service company pursuant
+17 to this subsection shall have been approved and sealed by the secretary
+18 pursuant to K.S.A. 83-214, and amendments thereto, within the preceding
+19 365 days. Except at the option of a city or county that has an established
+20 department of public inspection of weights and measures, annual tests and
+21 inspections shall be at the expense of the owner or operator.
+22 (b) When tests or inspections are conducted pursuant to this section, a
+23 report showing the results of the tests or inspections shall be promptly
+24 furnished to the owner or operator. If the tests or inspections were not
+25 performed by the secretary, such reports shall also be sent to the secretary
+26 as required by rules and regulations adopted by the secretary and not later
+27 than 10 days after the test or inspection of such device has occurred.
+28 (c) The owner or operator of electric vehicle supply equipment that is
+29 found to be inaccurate at the time of testing required by this subsection
+30 shall immediately withdraw the electric vehicle supply equipment from
+31 further use until the necessary corrections, adjustments or repairs are made
+32 and the secretary, a technical representative employed by a licensed
+33 service company, or a representative of a city or county weights and
+34 measures department determines that the electric vehicle supply equipment
+35 is accurate. All electric vehicle supply equipment that has been repaired or
+36 serviced shall meet the tolerances and specifications adopted by the
+37 secretary by rules and regulations. Each service company and each city or
+38 county that performs tests and inspections pursuant to this subsection shall,
+39 within the timeframe and in the manner established in rules and
+40 regulations adopted by the secretary, notify the secretary of all electric
+41 vehicle supply equipment that has been installed, repaired, calibrated or
+42 found not to comply with such tolerances and specifications and of all
+43 electric vehicle supply equipment that is not able to be serviced or repaired
+
+HB 2255 26
+1 so as to comply with such tolerances and specifications.
+2 (d) Each service company shall be required to maintain at such
+3 service company's corporate headquarters or resident agent's office a copy
+4 of all reports regarding all installation, repair, calibration, adjustment or
+5 other work that the service company or any technical representative
+6 employed by the service company has performed on electric vehicle
+7 supply equipment, including installation, repair, calibration, adjustment or
+8 other work performed at the site where the electric vehicle supply
+9 equipment is used. Such reports shall be legible and maintained in an
+10 accessible manner and for a period of time as established by the secretary
+11 pursuant to rules and regulations.
+12 New Sec. 24. When the secretary finds or is notified by a licensed
+13 service company, an authorized representative of the secretary or by or a
+14 city or county department of public inspection of weights and measures
+15 established pursuant to K.S.A. 83-210, and amendments thereto, that an
+16 electric vehicle supply equipment does not comply with tolerances and
+17 specifications adopted by the secretary, by rules and regulations, the
+18 secretary may test the electric vehicle supply equipment for accuracy after
+19 repairs have been made.
+20 Sec. 25. K.S.A. 83-149, 83-154, 83-155, 83-201, 83-202, 83-207, 83-
+21 208, 83-214, 83-215, 83-216, 83-217, 83-218, 83-219, 83-220, 83-221, 83-
+22 222, 83-224, 83-225, 83-301, 83-302, 83-303, 83-304, 83-305, 83-308, 83-
+23 311, 83-326, 83-401, 83-402, 83-403, 83-404, 83-405, 83-407, 83-409, 83-
+24 410, 83-411, 83-501 and 83-502 are hereby repealed.
+25 Sec. 26. This act shall take effect and be in force from and after its
+26 publication in the statute book.
+
+[DELETED: Ads io a se s; dg de fr wm$; ag ld se cs ad cy or cdownc0lo 1r2c3t4p5ul tr ws or m or b a td ad s6a7t8d9a0m1a2cy re or te s; rg tt ws o3e4o5g6o7v8a9s0s1f2s3cs to kp cs of rs fr ec ve s4e58]
+[DELETED: 52t84S2a0(s ad m" ms al cl ws o1mf , s d r g 2m3s4(5w6w7(8c9a0c1r2(3w4w5(6t7lt 8m9(0c, p, c, c, ss a1a2(3q4(5m6s7(8p9a0(1a2(3o]
+[DELETED: 5ms(oiiad(0c1a2(3e4mg ds bt sh tm ds nt ie a t5r6s7(l r" s an il wo i8r9c0(1a2(3ms ce to al ae t, ss a4r5t6(7s8o9c0c1m2(3d4a5p6m7(8p9a0(1m cg ps ad c f cg ec v2"3s]
+[DELETED: 5tl(c(ms(" ms an il or a c, pc, sy an or gl ay ad a0a1(2s3s4o5d6(7o8s9i0s1m2(3t4w5(6q7(8c9i0(1t2l3m4(5a6(7e8w9e0u1(2p3t]
+[DELETED: 5d(t(ww(s ad m" ms al cl ws omS0(1(2U3r4c5(e fg ss ad rs sl ay t6c7(e ss of te nl ce on ws a8m9hk 4 ed s, t, ad or t0r a o i1O 12a t a3s4+5f6t748w9v0(1w2t3s4i5o6s7(8n9a0r1(2n3s o i O 1 o]
+[DELETED: 5e(s(ccotS0(1f2t3p4ss sg fh s, ts ad or t5r6d7o8s9m0i1p2m3s4w o n5f6o7(8(s of wp fr tl rs a9s0(1a2(3f4S5T6n7w o m8d9s0p1p o2o W3h]
+[DELETED: 5aiadpgS(m0a1a2m3s4(5ad re of te s my ce fr s6p7o8m9s0h1A2m]
+[DELETED: 5(y e g l pCLMSSPP. 0E1W2L3L4S5G6TsCnAeFIW,$t$)ugi)ug$c$ or$c$)5r$c$b$c$b$c$b$c$Mup$c$Ltg$c$I5l$cDl$ccl$cpl$cal$cil$cil$coIUl$c$V-C$t$5(6n7c8a9s]
+[DELETED: 51d(smta(p(0t1a2t3o4e5a6as ad rs id pt to vs ad by t7s8(9a0Ss  t n s1p2e3s4a s5w6s7p8p9S0(1o2b3n4(e cA se cy ad cy or c5d6s o7w o a s8d9( a0t1t2r3h]
+[DELETED: 51dmpiwssws0s1r2S3(4w5b6d7n8m9d o o0m1p2o m d or b a st gg te ln a3d d w o4m5(6t7b8t9e0S1m2f3(4c5w o m d or b my b h c i6a748S9A0f1s2t3p]
+[DELETED: 51tdeafiaSF0a1b2t3e4s5b6s7S8(9(0w1ss rd b t c 83 of te Ks S2A o w t h3w4(5cl p w t ds nt mt te te a6ss rd b t c 83 of te Ks S7A o8s9c0(1(2w3(4s5m6(7b8m9a w0a1a2s3o]
+[DELETED: 51(o(cot(sa0(o 1m2t3w4p5(6S7a8(9o0w1(o 2c3(o 4p i s b5c6a7(8c9r0i1(o 2o3r4a5(6m7o8(9v0t1(2o3a]
+[DELETED: 51(o cfo(af s d  in e e s t c 8At o0w u w1b, y 2s3(4K5a6(788r9(0t1r2o3n4A5t6(7f w a m d o t t8c9a0(o 1p2n3a4o5(6f7o8(o  t9c0(o 1o2(3a]
+[DELETED: 51eo(tvsw(t sl be ul fr ay se cy or tr0(t as or rt sh ps sf to be a t1rt g d e d y 2d3(4a5A6t7(8t9A0t1(283t4(5e6a7(e a fe or ft se cy or t8r9(0o1a2(3a4i a5i6e7e t c 88a9( d w o0m1nt te to a nl te en pm ce o2c3(]
+[DELETED: 51srw(poe tcb0c1S2A3t4r5n E6m7S8A9d0o1p2c3A, ad as t, ad te rs ad r4p5S6E7S8a9S0c1o2p3S4I a c a5u6l7i8S9(0a1o2a3t]
+[DELETED: 51o(tsss(ss0o1s2r3(4w5s6(7i8c9a0N1o2d3p4a5s6s7b8c9(0p1n2a3J4e5p6i7(8b9c0i1t2p3u]
+[DELETED: 51slaps f r s g testc0(1s. Et as pd in sn (, eh t2r3a4s5e6s7v8(9l0s1t2f3e4sl d o e g n d 5s6Td o 7t8o9o0t1(2c3a4c5(6s7f8a9i0m1t2t3p]
+[DELETED: 51(tatoNhg ae gn ae wh te ps of te Karw or de to ie a se cy le or t0rs l, wn te se cy or t1r2(3a4p5(6c7(8s9(0a1S2(3u w a m d o i4c5i6c7l8c9ws ad m p t K 8 a a0t1d2t3a i b4s5t6d7t8p9f0h1a2T32]
+[DELETED: 52abat t a c w t headc w t h w ti0t1w2oe a wg ad mg de ud in pe t3t4p5t6o7(8i9s0t1w2a. 3w4s5r6t7t8b9w0s1a2o3(4tr  d w a5m6w7K8r9s w i t w d0f1a2s3o]
+[DELETED: 52W w t hsctor dsta0s t c 81S2rd by te s, pt to rs ad r. S3n4ar te se cy or cy or cy dt of p5i6d7r8p9i0t1d2w3(4c5o6t7s8d9m0r1a2r3a w d4w5l6e7(8i9s0t1s2m3U]
+[DELETED: 52SW h f nccy dt of pc in of ws ad medwrf0S1(2c3o4an ad re of ay cy or c w t h5e6p7wh is sh dg d. Sh is sl b8c i9s u b0d1a2d324s5p6E7d8i9c0m1m2w3o4f5(6m7t8o9r0r1l0 r h 2o3a]
+[DELETED: 52fpat(tfia0a o c1m2d3m4a5t6t w t a7sd or rd so as to cy wh sh ts a8s a r9w0a1i, r, cd or fs to cy wh te r2t3(4c5o6t7s8r9p0r1r2a3t4a5e6S7W8a9o0K1c2r t f3a]
+[DELETED: 52S(vac mants0(1b2v3t4(5(6d7l8p9c0c1l2a3(4u5p6e7p8A9r be  h0a1T2t3(4s5b6(7s8(9s0a1t2a3t]
+[DELETED: 52oNetblcat0w1tg ad i, it is fd tt te ec ve s2e3w4s526t7t8p930d1i2(3r4f5p6a7t8(9f0s1f2a3s4m5i6s7s8c9wn te te ad in te mr ed in rs a0r1v2f3e]
+[DELETED: 52s(sooesoe0a1p2N3s4c5e6e7s8s9r0S122233445S6p]

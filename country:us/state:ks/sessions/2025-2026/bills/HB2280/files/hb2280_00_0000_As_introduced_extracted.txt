@@ -1,0 +1,726 @@
+Title: HOUSE BILL No. 2280
+Official Title: HOUSE BILL No. 2280
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Federal and State Affairs
+Requested by Sean Gatewood on behalf of Sunflower Consulting
+2-5
+1 AN ACT concerning health and healthcare; relating to emergency medical
+2 services; establishing that the authorized activities of paramedics,
+3 advanced emergency medical technicians, emergency medical
+4 technicians and emergency medical responders may be authorized upon
+5 the order of a healthcare professional; permitting nonemergency
+6 ambulance services to offer service for less than 24 hours per day,
+7 every day of the year; requiring entities placing automated external
+8 defibrillators for use within the state to register with the emergency
+9 medical services board; amending K.S.A. 65-6121 and 65-6149a and
+10 K.S.A. 2024 Supp. 65-6112, 65-6119, 65-6120, 65-6129a, 65-6135 and
+11 65-6144 and repealing the existing sections.
+12
+13 Be it enacted by the Legislature of the State of Kansas:
+14 Section 1. K.S.A. 2024 Supp. 65-6112 is hereby amended to read as
+15 follows: 65-6112. As used in article 61 of chapter 65 of the Kansas
+16 Statutes Annotated, and amendments thereto:
+17 (a) "Administrator" means the executive director of the emergency
+18 medical services board.
+19 (b) "Advanced emergency medical technician" means a person who
+20 holds an advanced emergency medical technician certificate issued
+21 pursuant to this act.
+22 (c) "Advanced practice registered nurse" means an advanced practice
+23 registered nurse as defined in K.S.A. 65-1113 issued a license pursuant to
+24 K.S.A. 65-1130, and amendments thereto, who has authority to prescribe
+25 drugs as provided by K.S.A. 65-1130, and amendments thereto.
+26 (d) "Ambulance" means any privately or publicly owned motor
+27 vehicle, airplane or helicopter designed, constructed, prepared, staffed and
+28 equipped for use in transporting and providing emergency care for
+29 individuals who are ill or injured.
+30 (e) "Ambulance service" means any organization operated for the
+31 purpose of transporting sick or injured persons to or from a place where
+32 medical care is furnished, whether or not such persons may be in need of
+33 emergency or medical care in transit.
+34 (f) "Board" means the emergency medical services board established
+35 pursuant to K.S.A. 65-6102, and amendments thereto.
+HB 2280 2
+1 (g) "Emergency medical service" means the effective and coordinated
+2 delivery of such care as may be required by an emergency that includes the
+3 care and transportation of individuals by ambulance services and the
+4 performance of authorized emergency care by a physician, advanced
+5 practice registered nurse, professional nurse, a licensed physician assistant
+6 or emergency medical service provider.
+7 (h) "Emergency medical service provider" means an emergency
+8 medical responder, advanced emergency medical technician, emergency
+9 medical technician or paramedic certified by the emergency medical
+10 services board.
+11 (i) "Emergency medical responder" means a person who holds an
+12 emergency medical responder certificate issued pursuant to this act.
+13 (j) "Emergency medical technician" means a person who holds an
+14 emergency medical technician certificate issued pursuant to this act.
+15 (j) "Emergency medical responder" means a person who holds an
+16 emergency medical responder certificate issued pursuant to this act.
+17 (k) "Hospital" means a hospital as defined by K.S.A. 65-425, and
+18 amendments thereto.
+19 (l) "Medical director" means a physician.
+20 (m) "Medical oversight" means to review, approve and implement
+21 medical protocols and to approve and monitor the activities, competency
+22 and education of emergency medical service providers.
+23 (n) "Medical protocols" means written guidelines that authorize
+24 emergency medical service providers to perform certain medical
+25 procedures prior to contacting a physician, physician assistant authorized
+26 by a physician, advanced practice registered nurse authorized by a
+27 physician or professional nurse authorized by a physician.
+28 (o) "Municipality" means any city, county, township, fire district or
+29 ambulance service district.
+30 (p) "Nonemergency transportation" means the care and transport of a
+31 sick or injured person under a foreseen combination of circumstances
+32 calling for continuing care of such person. As used in this subsection,
+33 "transportation" includes performance of the authorized level of services
+34 of the emergency medical service provider whether within or outside the
+35 vehicle as part of such transportation services.
+36 (q) "Operator" means a person or municipality who that has a permit
+37 to operate an ambulance service in the state of Kansas.
+38 (r) "Paramedic" means a person who holds a paramedic certificate
+39 issued pursuant to this act.
+40 (s) "Person" means an individual, a partnership, an association, a
+41 joint-stock company or a corporation.
+42 (t) "Physician" means a person licensed by the state board of healing
+43 arts to practice medicine and surgery.
+HB 2280 3
+1 (u) "Physician assistant" means a physician assistant as defined in
+2 K.S.A. 65-28a02, and amendments thereto.
+3 (v) "Professional nurse" means a licensed professional nurse as
+4 defined by K.S.A. 65-1113, and amendments thereto.
+5 (w) "Qualified healthcare provider" means a physician, a physician
+6 assistant when authorized by a physician, an advanced practice registered
+7 nurse or a professional nurse when authorized by a physician.
+8 (x) "Sponsoring organization" means any professional association,
+9 accredited postsecondary educational institution, ambulance service that
+10 holds a permit to operate in this state, fire department, other officially
+11 organized public safety agency, hospital, corporation, governmental entity
+12 or emergency medical services regional council, as approved by the
+13 executive director, to offer initial courses of instruction or continuing
+14 education programs.
+15 Sec. 2. K.S.A. 2024 Supp. 65-6119 is hereby amended to read as
+16 follows: 65-6119. Notwithstanding any other provision of law to the
+17 contrary, after successfully completing an approved course of instruction,
+18 local specialized device training and competency validation and when
+19 authorized by medical protocols or upon the order of a qualified
+20 healthcare provider, a paramedic may:
+21 (a) Perform all the authorized activities identified in K.S.A. 65-6120,
+22 65-6121, 65-6144, and amendments thereto; and
+23 (b) when voice contact or a telemetered electrocardiogram is
+24 monitored by a physician, physician assistant where authorized by a
+25 physician or an advanced practice registered nurse where authorized by a
+26 physician or licensed professional nurse where authorized by a physician
+27 and direct communication is maintained, and upon order of such person,
+28 may administer such medications or procedures as may be deemed
+29 necessary by a person identified in this subsection;
+30 (c) perform, during an emergency, those activities specified in
+31 subsection (b) before contacting a person identified in subsection (b) when
+32 specifically authorized to perform such activities by medical protocols;
+33 and
+34 (d) perform, during nonemergency transportation, those activities
+35 specified in this section when specifically authorized to perform such
+36 activities by medical protocols qualified healthcare provider.
+37 Sec. 3. K.S.A. 2024 Supp. 65-6120 is hereby amended to read as
+38 follows: 65-6120. Notwithstanding any other provision of law to the
+39 contrary, after successfully completing an approved course of instruction,
+40 local specialized device training and competency validation and when
+41 authorized by medical protocols or upon the order of a qualified
+42 healthcare provider, an advanced emergency medical technician may:
+43 (a) Perform any of the activities identified by K.S.A. 65-6121 and
+HB 2280 4
+1 65-6144, and amendments thereto; and
+2 (b) perform any of the following interventions, by use of the devices,
+3 medications and equipment, or any combination thereof, as specifically
+4 identified in rules and regulations, after successfully completing an
+5 approved course of instruction, local specialized device training and
+6 competency validation and when authorized by medical protocols, or upon
+7 order when direct communication is maintained by radio, telephone or
+8 video conference with a physician, physician assistant where authorized by
+9 a physician, an advanced practice registered nurse where authorized by a
+10 physician, or professional nurse where authorized by a physician upon
+11 order of such a person:
+12 (1) Advanced airway management;
+13 (2) referral of patient of alternate medical care site based on
+14 assessment; (3) transportation of a patient with a capped arterial line; (4)
+15 veni-puncture for obtaining blood sample;
+16 (5)(3) initiation and maintenance of intravenous infusion or saline
+17 lock;
+18 (6)(4) initiation and maintenance of intraosseous infusion;
+19 (7) nebulized therapy;
+20 (8)(5) manual defibrillation;
+21 (9)(6) cardiac monitoring;
+22 (10)(7) electrocardiogram interpretation;
+23 (11) monitoring of a nasogastric tube; and
+24 (12)(8) administration of medications by methods as specified by
+25 rules and regulations of , as approved by the board by appropriate routes.
+26 Sec. 4. K.S.A. 65-6121 is hereby amended to read as follows: 65-
+27 6121. (a) Notwithstanding any other provision of law to the contrary, after
+28 successfully completing an approved course of instruction, local
+29 specialized device training and competency validation and when
+30 authorized by medical protocols or upon the order of a qualified
+31 healthcare provider, an emergency medical technician may:
+32 (a) Perform any of the activities identified in K.S.A. 65-6144, and
+33 amendments thereto,; and
+34 (b) perform any of the following interventions, by use of the devices,
+35 medications and equipment, or any combination thereof, after successfully
+36 completing an approved course of instruction, local specialized device
+37 training and competency validation and when authorized by medical
+38 protocols, or upon order when direct communication is maintained by
+39 radio, telephone or video conference is monitored by a physician,
+40 physician assistant when authorized by a physician, an advanced practice
+41 registered nurse when authorized by a physician or a professional nurse
+42 when authorized by a physician, upon order of such person:
+43 (1) Airway maintenance, including use of:
+HB 2280 5
+1 (A) Single lumen airways as approved by the board;
+2 (B) multilumen airways;
+3 (C) ventilator devices;
+4 (D) non-invasive positive pressure ventilation;
+5 (E) forceps removal of airway obstruction;
+6 (F) CO2 monitoring; and
+7 (G) airway suctioning;
+8 (2) monitoring a urinary catheter;
+9 (3) capillary blood sampling for purposes other than blood glucose
+10 monitoring;
+11 (4) administration of patient assisted medications as approved by the
+12 board;
+13 (5) administration of medications, as approved by the board by
+14 appropriate routes;
+15 (6) monitoring a saline lock;
+16 (7) monitor, maintain or discontinue flow of IV line if a physician
+17 approves transfer by an emergency medical technician;
+18 (8) monitoring of a nasogastric tube; and
+19 (7)(9) application of a traction splint.
+20 Sec. 5. K.S.A. 2024 Supp. 65-6129a is hereby amended to read as
+21 follows: 65-6129a. (a) While engaged in a course of training or continuing
+22 education approved by the board within a medical care facility, a student
+23 or emergency medical service provider engaged in such training or
+24 continuing education shall be under the supervision of a physician, a
+25 physician assistant, an advanced practice registered nurse, a respiratory
+26 therapist, or a professional nurse or an emergency medical services
+27 provider who is, at a minimum, certified to provide the level of care for
+28 which the student is seeking certification. While engaged in training or
+29 continuing education in emergency or nonemergency transportation
+30 outside a medical care facility, a student or emergency medical service
+31 provider shall be under the direct supervision of an emergency medical
+32 service provider who is at the minimum certified to provide the level of
+33 care for which the student is seeking certification or the emergency
+34 medical service provider receiving the training is certified or shall be
+35 under the direct supervision of a physician or a professional nurse.
+36 (b) Nothing in the provisions of article 61 of chapter 65 of the Kansas
+37 Statutes Annotated, and amendments thereto, shall be construed to
+38 preclude the provision of authorized activities by students enrolled in a
+39 training program while engaged in such program.
+40 Sec. 6. K.S.A. 2024 Supp. 65-6135 is hereby amended to read as
+41 follows: 65-6135. (a) Except as provided in subsection (b), all ambulance
+42 services providing emergency care as defined by the rules and regulations
+43 adopted by the board shall offer service for 24 hours per day, every day of
+HB 2280 6
+1 the year.
+2 (b) Ambulance services providing only nonemergency transportation
+3 may offer service for less than 24 hours per day, every day of the year.
+4 (c) Whenever an operator is required to have a permit, at least one
+5 person on each vehicle providing emergency medical service shall be an
+6 emergency medical service provider certified or authorized pursuant to
+7 K.S.A. 65-6119, 65-6120 or, 65-6121, or 65-6158, and amendments
+8 thereto, a physician, an individual licensed by the state board of healing
+9 arts to practice medicine and surgery pursuant to K.S.A. 65-28,133, and
+10 amendments thereto, a physician assistant, an advanced practice registered
+11 nurse or, a professional nurse or a registered nurse holding a multistate
+12 license pursuant to K.S.A. 65-1166, and amendments thereto.
+13 (c)(d) The board shall not require any ground vehicle providing
+14 interfacility transfers from any county with a population of 30,000 or less
+15 to operate with more than one person who satisfies the requirements of
+16 subsection (b)(c) if the driver of such vehicle is certified in
+17 cardiopulmonary resuscitation.
+18 Sec. 7. K.S.A. 2024 Supp. 65-6144 is hereby amended to read as
+19 follows: 65-6144. (a) Notwithstanding any other provision of law to the
+20 contraryan emergency medical responder may perform any of the
+21 following interventions, by use of the devices, medications and equipment,
+22 or any combination thereof, after successfully completing an approved
+23 course of instruction, local specialized device training and competency
+24 validation and when authorized by medical protocols, or upon the order
+25 when direct communication is maintained by radio, telephone or video
+26 conference is monitored by a physician, physician assistant when
+27 authorized by a physician, an advanced practice registered nurse when
+28 authorized by a physician or a professional nurse when authorized by a
+29 physician, upon order of such person of a qualified healthcare provider, an
+30 emergency medical responder may perform any of the following
+31 interventions, by use of the devices, medications and equipment, or any
+32 combination thereof:
+33 (1)(a) Emergency vehicle operations;
+34 (2)(b) initial scene management;
+35 (3)(c) patient assessment and stabilization;
+36 (4)(d) cardiac arrest management through the use of cardiopulmonary
+37 resuscitation and the use of an automated external defibrillator;
+38 (5)(e) airway management and oxygen therapy;
+39 (6)(f) utilization of equipment for the purposes of acquiring an and
+40 transmitting EKG rhythm strip strips;
+41 (7)(g) control of bleeding;
+42 (8)(h) extremity splinting;
+43 (9)(i) spinal immobilization;
+HB 2280 7
+1 (10) nebulizer therapy;
+2 (11) intramuscular injections with auto-injector;
+3 (12)(j) administration of medications, as approved by the board by
+4 appropriate routes;
+5 (13)(k) recognize and comply with advanced directives;
+6 (14)(l) use of blood glucose monitoring;
+7 (15)(m) assistance with childbirth;
+8 (16)(n) non-invasive monitoring of hemoglobin derivatives;
+9 (17)(o) distribution of non prescription, over-the-counter medications
+10 as approved by the service medical director, except that an emergency
+11 medical responder shall not distribute any compound, mixture or
+12 preparation that contains any detectable quantity of:
+13 (A)(1) Any compound, mixture, or preparation that contains any
+14 detectable quantity of Ephedrine, its salts or optical isomers, or salts of
+15 optical isomers and is exempt from being reported to the statewide
+16 electronic logging system for the sale of methamphetamine precursors; or
+17 (B)(2) any compound, mixture, or preparation that contains any
+18 detectable quantity of pseudoephedrine, its salts or optical isomers, or salts
+19 of optical isomers and is exempt from being reported to the statewide
+20 electronic logging system for the sale of methamphetamine precursors; and
+21 (18)(p) other techniques and devices of preliminary care an
+22 emergency medical responder is trained to provide as approved by the
+23 board.
+24 Sec. 8. K.S.A. 65-6149a is hereby amended to read as follows: 65-
+25 6149a. (a) (1) Any person who in good faith renders emergency care or
+26 treatment by the use of or provision of an automated external defibrillator
+27 shall not be held liable for any civil damages as a result of such care or
+28 treatment or as a result of any act or failure to act in providing or arranging
+29 further medical treatment where the person acts as an ordinary reasonably
+30 prudent person would have acted under the same or similar circumstances.
+31 (2) No person or entity which that owns, leases, possesses or
+32 otherwise controls an a registered automated external defibrillator and
+33 provides such automated external defibrillator to others for use shall be
+34 held liable for any civil damages as a result of such use where the person
+35 or entity which that owns, leases, possesses or otherwise controls the
+36 registered automated external defibrillator has developed, implemented
+37 and follows guidelines to ensure proper maintenance and operation of the
+38 device.
+39 (3) No person licensed to practice medicine and surgery physician
+40 who, pursuant to a prescription order, authorizes the acquisition of an
+41 automated external defibrillator or participates in the development of usual
+42 and customary protocols for an automated external defibrillator by a
+43 person or entity which that owns, leases, possesses or otherwise controls
+HB 2280 8
+1 such automated external defibrillator and provides such automated
+2 external defibrillator for use by others shall be held liable for any civil
+3 damages as a result of such use.
+4 (4) No person or entity which that teaches or provides a training
+5 program for cardiopulmonary resuscitation that includes training in the use
+6 of automated external defibrillators shall be held liable for any civil
+7 damages as a result of such training or use if such person or entity has
+8 provided such training in a manner consistent with the usual and
+9 customary standards for the providing of such training.
+10 (b) Pursuant to the provisions of this subsection, persons or entities
+11 which that purchase, lease, possess or otherwise control or acquire an
+12 automated external defibrillator to be placed within the state shall notify
+13 the emergency medical service which operates in the geographic area of
+14 the location of register the automated external defibrillator with the
+15 emergency medical services board. Persons or entities acquiring an
+16 automatic electronic defibrillator shall notify the emergency medical
+17 service providing local service on forms developed and provided by the
+18 emergency medical services board.
+19 (c) The secretary of administration, in conjunction with the Kansas
+20 highway patrol, shall develop guidelines for the placement of automated
+21 external defibrillators in state owned or occupied facilities. The guidelines
+22 shall include, but not be limited to:
+23 (1) Which state owned or occupied facilities should have automated
+24 external defibrillators readily available for use;
+25 (2) recommendations for appropriate training courses in
+26 cardiopulmonary resuscitation and automated external defibrillators use;
+27 (3) integration with existing emergency response plans;
+28 (4) proper maintenance and testing of the devices;
+29 (5) coordination with appropriate professionals in the oversight of
+30 training; and
+31 (6) coordination with local emergency medical services regarding
+32 placement and conditions of use.
+33 (d) Nothing in this subsection section shall be construed to require the
+34 state to purchase automated external defibrillators.
+35 Sec. 9. K.S.A. 65-6121 and 65-6149a and K.S.A. 2024 Supp. 65-
+36 6112, 65-6119, 65-6120, 65-6129a, 65-6135 and 65-6144 are hereby
+37 repealed.
+38 Sec. 10. This act shall take effect and be in force from and after its
+39 publication in the statute book.
+[DELETED: Asad ey ml t, ey mtte or of a he p; pg naedm0K163B4S5f6S7(8m9(0hs an ad ey ml tn ce i1p2(3r4K5d6(" s 7v8e9i0(1p2m3e4(5p]
+[DELETED: 0(dcppo( ml se p" ms an emm0s1(2e3(4e5(6e7(8a9(0(1m2a3(l p" ms wn gs tt a4ey ml se ps to pm cn m5p6ba , d  a7p8(9a0(1s2c3"4o5v6(7t8(9i0(1j2(3a]
+[DELETED: 0(K(l s  l pl d(an(a0h1o2o3e4e5S6f t7c8l9ad by ml ps or un te or of a q0h1(263(n ve ct or a td em i4m5p6p7a8my 9n0(, dg an e, te as sd i1s2s3a4(5ss 6a7S8f9c0l1ad by ml ps or un te or of a q2h3(]
+[DELETED: 06(mi is d  a s cacova0p1o2(3(l of pt of ae ml ce se bd o4a5v6(7l8(9(0(1(2(3(4( b5r6S768sy cg an ad ce of i, l9sd de tg ad cy vn ad  w0ad by ml ps or un te or of a q1h2(3a4(5m6c7t8p9r, te or vo ce is md b a p0p1r2w3(]
+[DELETED: 0(((((((((0m1(2b3( a4a5(6(7a8(9(0S1f2e3o4c5p6t or  o7p8w9cg en in ey or ny t0o1p2s3c4m5u6(7Ss , ad as t, sl be cd t8p9t0S1f2s3a]
+[DELETED: 0t(m(ped K o 6 o ata0a1n2l3(4i5t6sn  if te dr of sh ve is cd i7c8S9f0cn ey ml rr my pm ay of t1f2o3c4v5w6ce is md by a p, pn at w7a8a9p0ey ml rr my pm ay of te f1i2c3(4(5(6(7r8(9(0t1(2(3(]
+[DELETED: 0(((a(((((0at t 1ml rr sl nt d ay c, me o2p3(4d5o6e7(8d9o0e1(r ts ad ds of py ce a2e3b4S566t7s8t9f0p1(o pn r e w t o l, ps 2o an d 3p4h5o w t o6rd 7a8d9(0w p a1a2a3p]
+[DELETED: 0sh ad el dr ad ps sh aed( w t tpodpd sh tg in a mr ct wh te ul ac0(1w t p o c a2a3t4t r t w5ey l s  Ps o es g 6a7s8e9(0h1e2s3(4e5(s fr ae tg cs i6c7(8(9(0t1(2p3(4s5S667r8S9p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2280
+By Committee on Federal and State Affairs
+Requested by Sean Gatewood on behalf of Sunflower Consulting
+2-5
+1 AN ACT concerning health and healthcare; relating to emergency medical
+2 services; establishing that the authorized activities of paramedics,
+3 advanced emergency medical technicians, emergency medical
+4 technicians and emergency medical responders may be authorized upon
+5 the order of a healthcare professional; permitting nonemergency
+6 ambulance services to offer service for less than 24 hours per day,
+7 every day of the year; requiring entities placing automated external
+8 defibrillators for use within the state to register with the emergency
+9 medical services board; amending K.S.A. 65-6121 and 65-6149a and
+10 K.S.A. 2024 Supp. 65-6112, 65-6119, 65-6120, 65-6129a, 65-6135 and
+11 65-6144 and repealing the existing sections.
+12
+13 Be it enacted by the Legislature of the State of Kansas:
+14 Section 1. K.S.A. 2024 Supp. 65-6112 is hereby amended to read as
+15 follows: 65-6112. As used in article 61 of chapter 65 of the Kansas
+16 Statutes Annotated, and amendments thereto:
+17 (a) "Administrator" means the executive director of the emergency
+18 medical services board.
+19 (b) "Advanced emergency medical technician" means a person who
+20 holds an advanced emergency medical technician certificate issued
+21 pursuant to this act.
+22 (c) "Advanced practice registered nurse" means an advanced practice
+23 registered nurse as defined in K.S.A. 65-1113 issued a license pursuant to
+24 K.S.A. 65-1130, and amendments thereto, who has authority to prescribe
+25 drugs as provided by K.S.A. 65-1130, and amendments thereto.
+26 (d) "Ambulance" means any privately or publicly owned motor
+27 vehicle, airplane or helicopter designed, constructed, prepared, staffed and
+28 equipped for use in transporting and providing emergency care for
+29 individuals who are ill or injured.
+30 (e) "Ambulance service" means any organization operated for the
+31 purpose of transporting sick or injured persons to or from a place where
+32 medical care is furnished, whether or not such persons may be in need of
+33 emergency or medical care in transit.
+34 (f) "Board" means the emergency medical services board established
+35 pursuant to K.S.A. 65-6102, and amendments thereto.
+
+HB 2280 2
+1 (g) "Emergency medical service" means the effective and coordinated
+2 delivery of such care as may be required by an emergency that includes the
+3 care and transportation of individuals by ambulance services and the
+4 performance of authorized emergency care by a physician, advanced
+5 practice registered nurse, professional nurse, a licensed physician assistant
+6 or emergency medical service provider.
+7 (h) "Emergency medical service provider" means an emergency
+8 medical responder, advanced emergency medical technician, emergency
+9 medical technician or paramedic certified by the emergency medical
+10 services board.
+11 (i) "Emergency medical responder" means a person who holds an
+12 emergency medical responder certificate issued pursuant to this act.
+13 (j) "Emergency medical technician" means a person who holds an
+14 emergency medical technician certificate issued pursuant to this act.
+15 (j) "Emergency medical responder" means a person who holds an
+16 emergency medical responder certificate issued pursuant to this act.
+17 (k) "Hospital" means a hospital as defined by K.S.A. 65-425, and
+18 amendments thereto.
+19 (l) "Medical director" means a physician.
+20 (m) "Medical oversight" means to review, approve and implement
+21 medical protocols and to approve and monitor the activities, competency
+22 and education of emergency medical service providers.
+23 (n) "Medical protocols" means written guidelines that authorize
+24 emergency medical service providers to perform certain medical
+25 procedures prior to contacting a physician, physician assistant authorized
+26 by a physician, advanced practice registered nurse authorized by a
+27 physician or professional nurse authorized by a physician.
+28 (o) "Municipality" means any city, county, township, fire district or
+29 ambulance service district.
+30 (p) "Nonemergency transportation" means the care and transport of a
+31 sick or injured person under a foreseen combination of circumstances
+32 calling for continuing care of such person. As used in this subsection,
+33 "transportation" includes performance of the authorized level of services
+34 of the emergency medical service provider whether within or outside the
+35 vehicle as part of such transportation services.
+36 (q) "Operator" means a person or municipality who that has a permit
+37 to operate an ambulance service in the state of Kansas.
+38 (r) "Paramedic" means a person who holds a paramedic certificate
+39 issued pursuant to this act.
+40 (s) "Person" means an individual, a partnership, an association, a
+41 joint-stock company or a corporation.
+42 (t) "Physician" means a person licensed by the state board of healing
+43 arts to practice medicine and surgery.
+
+HB 2280 3
+1 (u) "Physician assistant" means a physician assistant as defined in
+2 K.S.A. 65-28a02, and amendments thereto.
+3 (v) "Professional nurse" means a licensed professional nurse as
+4 defined by K.S.A. 65-1113, and amendments thereto.
+5 (w) "Qualified healthcare provider" means a physician, a physician
+6 assistant when authorized by a physician, an advanced practice registered
+7 nurse or a professional nurse when authorized by a physician.
+8 (x) "Sponsoring organization" means any professional association,
+9 accredited postsecondary educational institution, ambulance service that
+10 holds a permit to operate in this state, fire department, other officially
+11 organized public safety agency, hospital, corporation, governmental entity
+12 or emergency medical services regional council, as approved by the
+13 executive director, to offer initial courses of instruction or continuing
+14 education programs.
+15 Sec. 2. K.S.A. 2024 Supp. 65-6119 is hereby amended to read as
+16 follows: 65-6119. Notwithstanding any other provision of law to the
+17 contrary, after successfully completing an approved course of instruction,
+18 local specialized device training and competency validation and when
+19 authorized by medical protocols or upon the order of a qualified
+20 healthcare provider, a paramedic may:
+21 (a) Perform all the authorized activities identified in K.S.A. 65-6120,
+22 65-6121, 65-6144, and amendments thereto; and
+23 (b) when voice contact or a telemetered electrocardiogram is
+24 monitored by a physician, physician assistant where authorized by a
+25 physician or an advanced practice registered nurse where authorized by a
+26 physician or licensed professional nurse where authorized by a physician
+27 and direct communication is maintained, and upon order of such person,
+28 may administer such medications or procedures as may be deemed
+29 necessary by a person identified in this subsection;
+30 (c) perform, during an emergency, those activities specified in
+31 subsection (b) before contacting a person identified in subsection (b) when
+32 specifically authorized to perform such activities by medical protocols;
+33 and
+34 (d) perform, during nonemergency transportation, those activities
+35 specified in this section when specifically authorized to perform such
+36 activities by medical protocols qualified healthcare provider.
+37 Sec. 3. K.S.A. 2024 Supp. 65-6120 is hereby amended to read as
+38 follows: 65-6120. Notwithstanding any other provision of law to the
+39 contrary, after successfully completing an approved course of instruction,
+40 local specialized device training and competency validation and when
+41 authorized by medical protocols or upon the order of a qualified
+42 healthcare provider, an advanced emergency medical technician may:
+43 (a) Perform any of the activities identified by K.S.A. 65-6121 and
+
+HB 2280 4
+1 65-6144, and amendments thereto; and
+2 (b) perform any of the following interventions, by use of the devices,
+3 medications and equipment, or any combination thereof, as specifically
+4 identified in rules and regulations, after successfully completing an
+5 approved course of instruction, local specialized device training and
+6 competency validation and when authorized by medical protocols, or upon
+7 order when direct communication is maintained by radio, telephone or
+8 video conference with a physician, physician assistant where authorized by
+9 a physician, an advanced practice registered nurse where authorized by a
+10 physician, or professional nurse where authorized by a physician upon
+11 order of such a person:
+12 (1) Advanced airway management;
+13 (2) referral of patient of alternate medical care site based on
+14 assessment; (3) transportation of a patient with a capped arterial line; (4)
+15 veni-puncture for obtaining blood sample;
+16 (5)(3) initiation and maintenance of intravenous infusion or saline
+17 lock;
+18 (6)(4) initiation and maintenance of intraosseous infusion;
+19 (7) nebulized therapy;
+20 (8)(5) manual defibrillation;
+21 (9)(6) cardiac monitoring;
+22 (10)(7) electrocardiogram interpretation;
+23 (11) monitoring of a nasogastric tube; and
+24 (12)(8) administration of medications by methods as specified by
+25 rules and regulations of , as approved by the board by appropriate routes.
+26 Sec. 4. K.S.A. 65-6121 is hereby amended to read as follows: 65-
+27 6121. (a) Notwithstanding any other provision of law to the contrary, after
+28 successfully completing an approved course of instruction, local
+29 specialized device training and competency validation and when
+30 authorized by medical protocols or upon the order of a qualified
+31 healthcare provider, an emergency medical technician may:
+32 (a) Perform any of the activities identified in K.S.A. 65-6144, and
+33 amendments thereto,; and
+34 (b) perform any of the following interventions, by use of the devices,
+35 medications and equipment, or any combination thereof, after successfully
+36 completing an approved course of instruction, local specialized device
+37 training and competency validation and when authorized by medical
+38 protocols, or upon order when direct communication is maintained by
+39 radio, telephone or video conference is monitored by a physician,
+40 physician assistant when authorized by a physician, an advanced practice
+41 registered nurse when authorized by a physician or a professional nurse
+42 when authorized by a physician, upon order of such person:
+43 (1) Airway maintenance, including use of:
+
+HB 2280 5
+1 (A) Single lumen airways as approved by the board;
+2 (B) multilumen airways;
+3 (C) ventilator devices;
+4 (D) non-invasive positive pressure ventilation;
+5 (E) forceps removal of airway obstruction;
+6 (F) CO2 monitoring; and
+7 (G) airway suctioning;
+8 (2) monitoring a urinary catheter;
+9 (3) capillary blood sampling for purposes other than blood glucose
+10 monitoring;
+11 (4) administration of patient assisted medications as approved by the
+12 board;
+13 (5) administration of medications, as approved by the board by
+14 appropriate routes;
+15 (6) monitoring a saline lock;
+16 (7) monitor, maintain or discontinue flow of IV line if a physician
+17 approves transfer by an emergency medical technician;
+18 (8) monitoring of a nasogastric tube; and
+19 (7)(9) application of a traction splint.
+20 Sec. 5. K.S.A. 2024 Supp. 65-6129a is hereby amended to read as
+21 follows: 65-6129a. (a) While engaged in a course of training or continuing
+22 education approved by the board within a medical care facility, a student
+23 or emergency medical service provider engaged in such training or
+24 continuing education shall be under the supervision of a physician, a
+25 physician assistant, an advanced practice registered nurse, a respiratory
+26 therapist, or a professional nurse or an emergency medical services
+27 provider who is, at a minimum, certified to provide the level of care for
+28 which the student is seeking certification. While engaged in training or
+29 continuing education in emergency or nonemergency transportation
+30 outside a medical care facility, a student or emergency medical service
+31 provider shall be under the direct supervision of an emergency medical
+32 service provider who is at the minimum certified to provide the level of
+33 care for which the student is seeking certification or the emergency
+34 medical service provider receiving the training is certified or shall be
+35 under the direct supervision of a physician or a professional nurse.
+36 (b) Nothing in the provisions of article 61 of chapter 65 of the Kansas
+37 Statutes Annotated, and amendments thereto, shall be construed to
+38 preclude the provision of authorized activities by students enrolled in a
+39 training program while engaged in such program.
+40 Sec. 6. K.S.A. 2024 Supp. 65-6135 is hereby amended to read as
+41 follows: 65-6135. (a) Except as provided in subsection (b), all ambulance
+42 services providing emergency care as defined by the rules and regulations
+43 adopted by the board shall offer service for 24 hours per day, every day of
+
+HB 2280 6
+1 the year.
+2 (b) Ambulance services providing only nonemergency transportation
+3 may offer service for less than 24 hours per day, every day of the year.
+4 (c) Whenever an operator is required to have a permit, at least one
+5 person on each vehicle providing emergency medical service shall be an
+6 emergency medical service provider certified or authorized pursuant to
+7 K.S.A. 65-6119, 65-6120 or, 65-6121, or 65-6158, and amendments
+8 thereto, a physician, an individual licensed by the state board of healing
+9 arts to practice medicine and surgery pursuant to K.S.A. 65-28,133, and
+10 amendments thereto, a physician assistant, an advanced practice registered
+11 nurse or, a professional nurse or a registered nurse holding a multistate
+12 license pursuant to K.S.A. 65-1166, and amendments thereto.
+13 (c)(d) The board shall not require any ground vehicle providing
+14 interfacility transfers from any county with a population of 30,000 or less
+15 to operate with more than one person who satisfies the requirements of
+16 subsection (b)(c) if the driver of such vehicle is certified in
+17 cardiopulmonary resuscitation.
+18 Sec. 7. K.S.A. 2024 Supp. 65-6144 is hereby amended to read as
+19 follows: 65-6144. (a) Notwithstanding any other provision of law to the
+20 contraryan emergency medical responder may perform any of the
+21 following interventions, by use of the devices, medications and equipment,
+22 or any combination thereof, after successfully completing an approved
+23 course of instruction, local specialized device training and competency
+24 validation and when authorized by medical protocols, or upon the order
+25 when direct communication is maintained by radio, telephone or video
+26 conference is monitored by a physician, physician assistant when
+27 authorized by a physician, an advanced practice registered nurse when
+28 authorized by a physician or a professional nurse when authorized by a
+29 physician, upon order of such person of a qualified healthcare provider, an
+30 emergency medical responder may perform any of the following
+31 interventions, by use of the devices, medications and equipment, or any
+32 combination thereof:
+33 (1)(a) Emergency vehicle operations;
+34 (2)(b) initial scene management;
+35 (3)(c) patient assessment and stabilization;
+36 (4)(d) cardiac arrest management through the use of cardiopulmonary
+37 resuscitation and the use of an automated external defibrillator;
+38 (5)(e) airway management and oxygen therapy;
+39 (6)(f) utilization of equipment for the purposes of acquiring an and
+40 transmitting EKG rhythm strip strips;
+41 (7)(g) control of bleeding;
+42 (8)(h) extremity splinting;
+43 (9)(i) spinal immobilization;
+
+HB 2280 7
+1 (10) nebulizer therapy;
+2 (11) intramuscular injections with auto-injector;
+3 (12)(j) administration of medications, as approved by the board by
+4 appropriate routes;
+5 (13)(k) recognize and comply with advanced directives;
+6 (14)(l) use of blood glucose monitoring;
+7 (15)(m) assistance with childbirth;
+8 (16)(n) non-invasive monitoring of hemoglobin derivatives;
+9 (17)(o) distribution of non prescription, over-the-counter medications
+10 as approved by the service medical director, except that an emergency
+11 medical responder shall not distribute any compound, mixture or
+12 preparation that contains any detectable quantity of:
+13 (A)(1) Any compound, mixture, or preparation that contains any
+14 detectable quantity of Ephedrine, its salts or optical isomers, or salts of
+15 optical isomers and is exempt from being reported to the statewide
+16 electronic logging system for the sale of methamphetamine precursors; or
+17 (B)(2) any compound, mixture, or preparation that contains any
+18 detectable quantity of pseudoephedrine, its salts or optical isomers, or salts
+19 of optical isomers and is exempt from being reported to the statewide
+20 electronic logging system for the sale of methamphetamine precursors; and
+21 (18)(p) other techniques and devices of preliminary care an
+22 emergency medical responder is trained to provide as approved by the
+23 board.
+24 Sec. 8. K.S.A. 65-6149a is hereby amended to read as follows: 65-
+25 6149a. (a) (1) Any person who in good faith renders emergency care or
+26 treatment by the use of or provision of an automated external defibrillator
+27 shall not be held liable for any civil damages as a result of such care or
+28 treatment or as a result of any act or failure to act in providing or arranging
+29 further medical treatment where the person acts as an ordinary reasonably
+30 prudent person would have acted under the same or similar circumstances.
+31 (2) No person or entity which that owns, leases, possesses or
+32 otherwise controls an a registered automated external defibrillator and
+33 provides such automated external defibrillator to others for use shall be
+34 held liable for any civil damages as a result of such use where the person
+35 or entity which that owns, leases, possesses or otherwise controls the
+36 registered automated external defibrillator has developed, implemented
+37 and follows guidelines to ensure proper maintenance and operation of the
+38 device.
+39 (3) No person licensed to practice medicine and surgery physician
+40 who, pursuant to a prescription order, authorizes the acquisition of an
+41 automated external defibrillator or participates in the development of usual
+42 and customary protocols for an automated external defibrillator by a
+43 person or entity which that owns, leases, possesses or otherwise controls
+
+HB 2280 8
+1 such automated external defibrillator and provides such automated
+2 external defibrillator for use by others shall be held liable for any civil
+3 damages as a result of such use.
+4 (4) No person or entity which that teaches or provides a training
+5 program for cardiopulmonary resuscitation that includes training in the use
+6 of automated external defibrillators shall be held liable for any civil
+7 damages as a result of such training or use if such person or entity has
+8 provided such training in a manner consistent with the usual and
+9 customary standards for the providing of such training.
+10 (b) Pursuant to the provisions of this subsection, persons or entities
+11 which that purchase, lease, possess or otherwise control or acquire an
+12 automated external defibrillator to be placed within the state shall notify
+13 the emergency medical service which operates in the geographic area of
+14 the location of register the automated external defibrillator with the
+15 emergency medical services board. Persons or entities acquiring an
+16 automatic electronic defibrillator shall notify the emergency medical
+17 service providing local service on forms developed and provided by the
+18 emergency medical services board.
+19 (c) The secretary of administration, in conjunction with the Kansas
+20 highway patrol, shall develop guidelines for the placement of automated
+21 external defibrillators in state owned or occupied facilities. The guidelines
+22 shall include, but not be limited to:
+23 (1) Which state owned or occupied facilities should have automated
+24 external defibrillators readily available for use;
+25 (2) recommendations for appropriate training courses in
+26 cardiopulmonary resuscitation and automated external defibrillators use;
+27 (3) integration with existing emergency response plans;
+28 (4) proper maintenance and testing of the devices;
+29 (5) coordination with appropriate professionals in the oversight of
+30 training; and
+31 (6) coordination with local emergency medical services regarding
+32 placement and conditions of use.
+33 (d) Nothing in this subsection section shall be construed to require the
+34 state to purchase automated external defibrillators.
+35 Sec. 9. K.S.A. 65-6121 and 65-6149a and K.S.A. 2024 Supp. 65-
+36 6112, 65-6119, 65-6120, 65-6129a, 65-6135 and 65-6144 are hereby
+37 repealed.
+38 Sec. 10. This act shall take effect and be in force from and after its
+39 publication in the statute book.
+
+[DELETED: Asad ey ml t, ey mtte or of a he p; pg naedm0K163B4S5f6S7(8m9(0hs an ad ey ml tn ce i1p2(3r4K5d6(" s 7v8e9i0(1p2m3e4(5p]
+[DELETED: 0(dcppo( ml se p" ms an emm0s1(2e3(4e5(6e7(8a9(0(1m2a3(l p" ms wn gs tt a4ey ml se ps to pm cn m5p6ba , d  a7p8(9a0(1s2c3"4o5v6(7t8(9i0(1j2(3a]
+[DELETED: 0(K(l s  l pl d(an(a0h1o2o3e4e5S6f t7c8l9ad by ml ps or un te or of a q0h1(263(n ve ct or a td em i4m5p6p7a8my 9n0(, dg an e, te as sd i1s2s3a4(5ss 6a7S8f9c0l1ad by ml ps or un te or of a q2h3(]
+[DELETED: 06(mi is d  a s cacova0p1o2(3(l of pt of ae ml ce se bd o4a5v6(7l8(9(0(1(2(3(4( b5r6S768sy cg an ad ce of i, l9sd de tg ad cy vn ad  w0ad by ml ps or un te or of a q1h2(3a4(5m6c7t8p9r, te or vo ce is md b a p0p1r2w3(]
+[DELETED: 0(((((((((0m1(2b3( a4a5(6(7a8(9(0S1f2e3o4c5p6t or  o7p8w9cg en in ey or ny t0o1p2s3c4m5u6(7Ss , ad as t, sl be cd t8p9t0S1f2s3a]
+[DELETED: 0t(m(ped K o 6 o ata0a1n2l3(4i5t6sn  if te dr of sh ve is cd i7c8S9f0cn ey ml rr my pm ay of t1f2o3c4v5w6ce is md by a p, pn at w7a8a9p0ey ml rr my pm ay of te f1i2c3(4(5(6(7r8(9(0t1(2(3(]
+[DELETED: 0(((a(((((0at t 1ml rr sl nt d ay c, me o2p3(4d5o6e7(8d9o0e1(r ts ad ds of py ce a2e3b4S566t7s8t9f0p1(o pn r e w t o l, ps 2o an d 3p4h5o w t o6rd 7a8d9(0w p a1a2a3p]
+[DELETED: 0sh ad el dr ad ps sh aed( w t tpodpd sh tg in a mr ct wh te ul ac0(1w t p o c a2a3t4t r t w5ey l s  Ps o es g 6a7s8e9(0h1e2s3(4e5(s fr ae tg cs i6c7(8(9(0t1(2p3(4s5S667r8S9p]

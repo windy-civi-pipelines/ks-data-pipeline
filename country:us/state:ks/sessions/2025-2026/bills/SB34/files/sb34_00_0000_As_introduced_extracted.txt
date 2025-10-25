@@ -1,0 +1,601 @@
+Title: SENATE BILL No. 34
+Official Title: SENATE BILL No. 34
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Senator Bowser
+1-16
+1 AN ACT concerning retirement and pensions; relating to the Kansas public
+2 employees retirement system; authorizing the board of trustees to invest
+3 up to 10% of the moneys of the Kansas public employees retirement
+4 fund in bitcoin exchange-traded products; providing requirements,
+5 limitations and definitions regarding such investments; amending
+6 K.S.A. 2024 Supp. 74-4921 and repealing the existing section.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 Section 1. K.S.A. 2024 Supp. 74-4921 is hereby amended to read as
+10 follows: 74-4921. (1) There is hereby created in the state treasury the
+11 Kansas public employees retirement fund. All employee and employer
+12 contributions shall be deposited in the state treasury to be credited to the
+13 Kansas public employees retirement fund. The fund is a trust fund and
+14 shall be used solely for the exclusive purpose of providing benefits to
+15 members and member beneficiaries and defraying reasonable expenses of
+16 administering the fund. Investment income of the fund shall be added or
+17 credited to the fund as provided by law. All benefits payable under the
+18 system, refund of contributions and overpayments, purchases or
+19 investments under the law and expenses in connection with the system
+20 unless otherwise provided by law shall be paid from the fund. The director
+21 of accounts and reports is authorized to draw warrants on the state
+22 treasurer and against such fund upon the filing in the director's office of
+23 proper vouchers executed by the chairperson or the executive director of
+24 the board. As an alternative, payments from the fund may be made by
+25 credits to the accounts of recipients of payments in banks, savings and loan
+26 associations and credit unions. A payment shall be so made only upon the
+27 written authorization and direction of the recipient of payment and upon
+28 receipt of such authorization such payments shall be made in accordance
+29 therewith. Orders for payment of such claims may be contained on:
+30 (a) A letter, memorandum, telegram, computer printout or similar
+31 writing; or
+32 (b) any form of communication, other than voice, which is registered
+33 upon magnetic tape, disc or any other medium designed to capture and
+34 contain in durable form conventional signals used for the electronic
+35 communication of messages.
+36 (2) The board shall have the responsibility for the management of the
+SB 34 2
+1 fund and shall discharge the board's duties with respect to the fund solely
+2 in the interests of the members and beneficiaries of the system for the
+3 exclusive purpose of providing benefits to members and such member's
+4 beneficiaries and defraying reasonable expenses of administering the fund
+5 and shall invest and reinvest moneys in the fund and acquire, retain,
+6 manage, including the exercise of any voting rights and disposal of
+7 investments of the fund within the limitations and according to the powers,
+8 duties and purposes as prescribed by this section.
+9 (3) Moneys in the fund shall be invested and reinvested to achieve the
+10 investment objective which is preservation of the fund to provide benefits
+11 to members and member beneficiaries, as provided by law and accordingly
+12 providing that the moneys are as productive as possible, subject to the
+13 standards set forth in this act. No moneys in the fund shall be invested or
+14 reinvested if any investment objective is for economic development or
+15 social purposes or objectives.
+16 (4) In investing and reinvesting moneys in the fund and in acquiring,
+17 retaining, managing and disposing of investments of the fund, the board
+18 shall exercise the judgment, care, skill, prudence and diligence under the
+19 circumstances then prevailing, which persons of prudence, discretion and
+20 intelligence acting in a like capacity and familiar with such matters would
+21 use in the conduct of an enterprise of like character and with like aims by
+22 diversifying the investments of the fund so as to minimize the risk of large
+23 losses, unless under the circumstances it is clearly prudent not to do so,
+24 and not in regard to speculation but in regard to the permanent disposition
+25 of similar funds, considering the probable income as well as the probable
+26 safety of their capital.
+27 (5) Notwithstanding subsection (4):
+28 (a) Total investments in common stock may be made in the amount of
+29 up to 60% of the total book value of the fund;
+30 (b) the board may invest or reinvest moneys of the fund in alternative
+31 investments if the following conditions are satisfied:
+32 (i) The total of the annual net commitment to alternative investments
+33 does not exceed 5% of the total market value of investment assets of the
+34 fund as measured from the end of the preceding calendar year;
+35 (ii) if in addition to the system, there are at least two other qualified
+36 institutional buyers, as defined by section (a)(1)(i) of rule 144A, securities
+37 act of 1933;
+38 (iii) the system's share in any individual alternative investment is
+39 limited to an investment representing not more than 20% of any such
+40 individual alternative investment;
+41 (iv) the system has received a favorable and appropriate
+42 recommendation from a qualified, independent expert in investment
+43 management or analysis in that particular type of alternative investment;
+SB 34 3
+1 (v) the alternative investment is consistent with the system's
+2 investment policies and objectives as provided in subsection (6);
+3 (vi) the individual alternative investment does not exceed more than
+4 2.5% of the total alternative investments made under this subsection. If the
+5 alternative investment is made pursuant to participation by the system in a
+6 multi-investor pool, the 2.5% limitation contained in this subsection is
+7 applied to the underlying individual assets of such pool and not to
+8 investment in the pool itself. The total of such alternative investments
+9 made pursuant to participation by the system in any one individual multi-
+10 investor pool shall not exceed more than 20% of the total of alternative
+11 investments made by the system pursuant to this subsection. Nothing in
+12 this subsection requires the board to liquidate or sell the system's holdings
+13 in any alternative investments made pursuant to participation by the
+14 system in any one individual multi-investor pool held by the system on the
+15 effective date of this act, unless such liquidation or sale would be in the
+16 best interest of the members and beneficiaries of the system and be
+17 prudent under the standards contained in this section. The 20% limitation
+18 contained in this subsection shall not have been violated if the total of such
+19 investment in any one individual multi-investor pool exceeds 20% of the
+20 total alternative investments of the fund as a result of market forces acting
+21 to increase the value of such a multi-investor pool relative to the rest of the
+22 system's alternative investments; however, the board shall not invest or
+23 reinvest any moneys of the fund in any such individual multi-investor pool
+24 until the value of such individual multi-investor pool is less than 20% of
+25 the total alternative investments of the fund;
+26 (vii) the board has received and considered the investment manager's
+27 due diligence findings submitted to the board as required by subsection
+28 (6);
+29 (viii) prior to the time the alternative investment is made, the system
+30 has in place procedures and systems to ensure that the investment is
+31 properly monitored and investment performance is accurately measured;
+32 and
+33 (ix) the total of alternative investments does not exceed 25% of the
+34 total investment assets of the fund. The 25% limitation contained in this
+35 subsection shall not have been violated if the total of such alternative
+36 investments exceeds 25% of the total investment assets of the fund, based
+37 on the fund total market value, as a result of market forces acting to
+38 increase the value of such alternative investments relative to the rest of the
+39 system's investments. However, the board shall not invest or reinvest any
+40 moneys of the fund in alternative investments until the total value of such
+41 alternative investments is less than 25% of the total investment assets of
+42 the fund based on the market value. If the total value of the alternative
+43 investments exceeds 25% of the total investment assets of the fund, the
+SB 34 4
+1 board shall not be required to liquidate or sell the system's holdings in any
+2 alternative investment held by the system, unless such liquidation or sale
+3 would be in the best interest of the members and beneficiaries of the
+4 system and is prudent under the standards contained in this section;
+5 (c) for purposes of this section, "alternative investment" includes a
+6 broad group of investments that are not one of the traditional asset types of
+7 public equities, fixed income, cash or real estate. Alternative investments
+8 are generally made through limited partnership or similar structures, are
+9 not regularly traded on nationally recognized exchanges and thus are
+10 relatively illiquid, and exhibit lower correlations with more liquid asset
+11 types such as stocks and bonds. Alternative investments generally include,
+12 but are not limited to, private equity, private credit, hedge funds,
+13 infrastructure, commodities and other investments that have the
+14 characteristics described in this paragraph; and
+15 (d) except as otherwise provided, the board may invest or reinvest
+16 moneys of the fund in real estate investments if the following conditions
+17 are satisfied:
+18 (i) The system has received a favorable and appropriate
+19 recommendation from a qualified, independent expert in investment
+20 management or analysis in that particular type of real estate investment;
+21 (ii) the real estate investment is consistent with the system's
+22 investment policies and objectives as provided in subsection (6); and
+23 (iii) the system has received and considered the investment manager's
+24 due diligence findings; and
+25 (e) the board may invest and reinvest moneys of the fund in bitcoin
+26 exchange-traded products issued by an investment company registered in
+27 Kansas. The total of bitcoin investments shall not exceed 10% of the total
+28 investment assets of the fund. The 10% limitation contained in this
+29 subsection shall not have been violated if the total of such bitcoin
+30 investments exceeds 10% of the total investment assets of the fund, based
+31 on the fund total market value, as a result of market forces acting to
+32 increase the value of such bitcoin investments relative to the rest of the
+33 system's investments. However, the board shall not invest or reinvest any
+34 moneys of the fund in bitcoin investments until the total value of such
+35 bitcoin investments is less than 10% of the total investment assets of the
+36 fund based on the market value. If the total value of the bitcoin
+37 investments exceeds 10% of the total investment assets of the fund, the
+38 board shall not be required to liquidate or sell the system's holdings in any
+39 bitcoin investment held by the system, unless such liquidation or sale
+40 would be in the best interest of the members and beneficiaries of the
+41 system and is prudent under the standards contained in this section;
+42 (f) for purposes of this section:
+43 (i) "Bitcoin" means the decentralized digital currency launched in
+SB 34 5
+1 2009 that is based on Satoshi Nakamoto's white paper entitled "bitcoin: a
+2 peer-to-peer electronic cash system" and includes the digital asset that is
+3 the basis of the bitcoin exchange-traded product regulated by the United
+4 States securities and exchange commission; and
+5 (ii) "exchange-traded product" means a financial instrument that is
+6 approved by the United States securities and exchange commission, the
+7 commodities future trading commission or the office of the securities
+8 commissioner of Kansas, is traded on a United States regulated exchange
+9 and derives its value from an underlying pool of assets, including, but not
+10 limited to, stocks, bonds, commodities or indexes.
+11 (6) (a) Subject to the objective set forth in subsection (3) and the
+12 standards set forth in subsections (4) and (5) the board shall formulate
+13 policies and objectives for the investment and reinvestment of moneys in
+14 the fund and the acquisition, retention, management and disposition of
+15 investments of the fund. Such policies and objectives shall include:
+16 (i) Specific asset allocation standards and objectives;
+17 (ii) establishment of criteria for evaluating the risk versus the
+18 potential return on a particular investment;
+19 (iii) a requirement that all investment managers submit such
+20 manager's due diligence findings on each investment to the board or
+21 investment advisory committee for approval or rejection prior to making
+22 any alternative investment;
+23 (iv) a requirement that all investment managers shall immediately
+24 report all instances of default on investments to the board and provide the
+25 board with recommendations and options, including, but not limited to,
+26 curing the default or withdrawal from the investment; and
+27 (v) establishment of criteria that would be used as a guideline for
+28 determining when no additional add-on investments or reinvestments
+29 would be made and when the investment would be liquidated.
+30 (b) The board shall review such policies and objectives, make
+31 changes considered necessary or desirable and readopt such policies and
+32 objectives on an annual basis.
+33 (7) The board may enter into contracts with one or more persons
+34 whom the board determines to be qualified, whereby the persons undertake
+35 to perform the functions specified in subsection (2) to the extent provided
+36 in the contract. Performance of functions under contract so entered into
+37 shall be paid pursuant to rates fixed by the board subject to provisions of
+38 appropriation acts and shall be based on specific contractual fee
+39 arrangements. The system shall not pay or reimburse any expenses of
+40 persons contracted with pursuant to this subsection, except that after
+41 approval of the board, the system may pay approved investment related
+42 expenses subject to provisions of appropriation acts. The board shall
+43 require that a person contracted with to obtain commercial insurance
+SB 34 6
+1 which provides for errors and omissions coverage for such person in an
+2 amount to be specified by the board, provided that such coverage shall be
+3 at least the greater of $500,000 or 1% of the funds entrusted to such person
+4 up to a maximum of $10,000,000. The board shall require a person
+5 contracted with to give a fidelity bond in a penal sum as may be fixed by
+6 law or, if not so fixed, as may be fixed by the board, with corporate surety
+7 authorized to do business in this state. Such persons contracted with the
+8 board pursuant to this subsection and any persons contracted with such
+9 persons to perform the functions specified in subsection (2) shall be
+10 deemed to be agents of the board and the system in the performance of
+11 contractual obligations.
+12 (8) (a) In the acquisition or disposition of securities, the board may
+13 rely on the written legal opinion of a reputable bond attorney or attorneys,
+14 the written opinion of the attorney of the investment counselor or
+15 managers, or the written opinion of the attorney general certifying the
+16 legality of the securities.
+17 (b) The board shall employ or retain qualified investment counsel or
+18 counselors or may negotiate with a trust company to assist and advise in
+19 the judicious investment of funds as herein provided in accordance with
+20 the provisions of this section.
+21 (9) (a) Except as provided in subsection (7) and this subsection, the
+22 custody of money and securities of the fund shall remain in the custody of
+23 the state treasurer, except that the board may arrange for the custody of
+24 such money and securities as it considers advisable with one or more
+25 member banks or trust companies of the federal reserve system or with one
+26 or more banks in the state of Kansas, or both, to be held in safekeeping by
+27 the banks or trust companies for the collection of the principal and interest
+28 or other income or of the proceeds of sale. The services provided by the
+29 banks or trust companies shall be paid pursuant to rates fixed by the board
+30 subject to provisions of appropriation acts.
+31 (b) The state treasurer and the board shall collect the principal and
+32 interest or other income of investments or the proceeds of sale of securities
+33 in the custody of the state treasurer and pay same when so collected into
+34 the fund.
+35 (c) The principal and interest or other income or the proceeds of sale
+36 of securities as provided in this subsection shall be reported to the state
+37 treasurer and the board and credited to the fund.
+38 (10) The board shall with the advice of the director of accounts and
+39 reports establish the requirements and procedure for reporting any and all
+40 activity relating to investment functions provided for in this act in order to
+41 prepare a record monthly of the investment income and changes made
+42 during the preceding month. The record will reflect a detailed summary of
+43 investment, reinvestment, purchase, sale and exchange transactions and
+SB 34 7
+1 such other information as the board may consider advisable to reflect a
+2 true accounting of the investment activity of the fund.
+3 (11) The board shall provide for an examination of the investment
+4 program annually. The examination shall include an evaluation of current
+5 investment policies and practices and of specific investments of the fund in
+6 relation to the objective set forth in subsection (3), the standard set forth in
+7 subsection (4) and other criteria as may be appropriate, and
+8 recommendations relating to the fund investment policies and practices
+9 and to specific investments of the fund as are considered necessary or
+10 desirable. The board shall include in its annual report to the governor as
+11 provided in K.S.A. 74-4907, and amendments thereto, a report or a
+12 summary thereof covering the investments of the fund.
+13 (12) Any internal assessment or examination of alternative
+14 investments of the system performed by any person or entity employed or
+15 retained by the board which evaluates or monitors the performance of
+16 alternative investments shall be reported to the legislative post auditor so
+17 that such report may be reviewed in accordance with the annual financial-
+18 compliance audits conducted pursuant to K.S.A. 74-49,136, and
+19 amendments thereto.
+20 Sec. 2. K.S.A. 2024 Supp. 74-4921 is hereby repealed.
+21 Sec. 3. This act shall take effect and be in force from and after its
+22 publication in the statute book.
+[DELETED: Aeufls ad ds rg sh i; aKBS0f1K2c3K4s5m6a7c8s, rd of cs ad o, ps o9i0u1o2t3p4t5c6a7w8r9t0(1w2(3u4c5c6(]
+[DELETED: 4fiebamid(0i1t2p3s4r5s6(7r8s9c0i1u2d3l4a5o6s7(8(9u0(1i2(3d4f5(6i7a8(9l0i1(e sm hs rd a fe ad a2rn m a , it t  i3m]
+[DELETED: 4(e ae it is ct wh te si(2amaim0i1i2t3i4s5e6b7p8c9i0t1t2s3r4u5t6(7d8(9(0h1p2a3(4t5s6i7o8i9s0m1a2t3i]
+[DELETED: 4baws(bpan0r1t2bt ae nt ld t, pe e, pe c, he f3i, cs ad or is tt he t4c5(6m7a8(e sm hs rd a fe ad a9rn m a , it t  i0m1(e rl ee it is ct wh te s2i3(4d5(6e7K8i9s0i1o2i3s4m5b6f bd  t mt v If e l v of  b7i8b9b0w1s2(3(]
+[DELETED: 42ptS(acca0l1(2s3p4t5i6(7(t of ca fr eg te rk vs t8p9(a rt tt al it ms st s0m1i2a3(4r5b6c7(8d9w0(e bd sl rw sh ps ad o, m1c2o3(4w5t6i7s8an as ad sl be bd on sc cl f9a0p1a2e3r]
+[DELETED: 4waauclabp0d1c2(3r4tt 5m6l7(8c9t0t1(2c3t4s5m6o7t8o9b0s1(2i3i4t5(6o7t8(9r0a1p2d3i]
+[DELETED: 4st(pirsn () ad or ca as my be a, ara0d1p2s3(y il at or en of a4i5r6a7t8ce as cd pt to K. 7, a9a0S1S2p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 34
+By Senator Bowser
+1-16
+1 AN ACT concerning retirement and pensions; relating to the Kansas public
+2 employees retirement system; authorizing the board of trustees to invest
+3 up to 10% of the moneys of the Kansas public employees retirement
+4 fund in bitcoin exchange-traded products; providing requirements,
+5 limitations and definitions regarding such investments; amending
+6 K.S.A. 2024 Supp. 74-4921 and repealing the existing section.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 Section 1. K.S.A. 2024 Supp. 74-4921 is hereby amended to read as
+10 follows: 74-4921. (1) There is hereby created in the state treasury the
+11 Kansas public employees retirement fund. All employee and employer
+12 contributions shall be deposited in the state treasury to be credited to the
+13 Kansas public employees retirement fund. The fund is a trust fund and
+14 shall be used solely for the exclusive purpose of providing benefits to
+15 members and member beneficiaries and defraying reasonable expenses of
+16 administering the fund. Investment income of the fund shall be added or
+17 credited to the fund as provided by law. All benefits payable under the
+18 system, refund of contributions and overpayments, purchases or
+19 investments under the law and expenses in connection with the system
+20 unless otherwise provided by law shall be paid from the fund. The director
+21 of accounts and reports is authorized to draw warrants on the state
+22 treasurer and against such fund upon the filing in the director's office of
+23 proper vouchers executed by the chairperson or the executive director of
+24 the board. As an alternative, payments from the fund may be made by
+25 credits to the accounts of recipients of payments in banks, savings and loan
+26 associations and credit unions. A payment shall be so made only upon the
+27 written authorization and direction of the recipient of payment and upon
+28 receipt of such authorization such payments shall be made in accordance
+29 therewith. Orders for payment of such claims may be contained on:
+30 (a) A letter, memorandum, telegram, computer printout or similar
+31 writing; or
+32 (b) any form of communication, other than voice, which is registered
+33 upon magnetic tape, disc or any other medium designed to capture and
+34 contain in durable form conventional signals used for the electronic
+35 communication of messages.
+36 (2) The board shall have the responsibility for the management of the
+
+SB 34 2
+1 fund and shall discharge the board's duties with respect to the fund solely
+2 in the interests of the members and beneficiaries of the system for the
+3 exclusive purpose of providing benefits to members and such member's
+4 beneficiaries and defraying reasonable expenses of administering the fund
+5 and shall invest and reinvest moneys in the fund and acquire, retain,
+6 manage, including the exercise of any voting rights and disposal of
+7 investments of the fund within the limitations and according to the powers,
+8 duties and purposes as prescribed by this section.
+9 (3) Moneys in the fund shall be invested and reinvested to achieve the
+10 investment objective which is preservation of the fund to provide benefits
+11 to members and member beneficiaries, as provided by law and accordingly
+12 providing that the moneys are as productive as possible, subject to the
+13 standards set forth in this act. No moneys in the fund shall be invested or
+14 reinvested if any investment objective is for economic development or
+15 social purposes or objectives.
+16 (4) In investing and reinvesting moneys in the fund and in acquiring,
+17 retaining, managing and disposing of investments of the fund, the board
+18 shall exercise the judgment, care, skill, prudence and diligence under the
+19 circumstances then prevailing, which persons of prudence, discretion and
+20 intelligence acting in a like capacity and familiar with such matters would
+21 use in the conduct of an enterprise of like character and with like aims by
+22 diversifying the investments of the fund so as to minimize the risk of large
+23 losses, unless under the circumstances it is clearly prudent not to do so,
+24 and not in regard to speculation but in regard to the permanent disposition
+25 of similar funds, considering the probable income as well as the probable
+26 safety of their capital.
+27 (5) Notwithstanding subsection (4):
+28 (a) Total investments in common stock may be made in the amount of
+29 up to 60% of the total book value of the fund;
+30 (b) the board may invest or reinvest moneys of the fund in alternative
+31 investments if the following conditions are satisfied:
+32 (i) The total of the annual net commitment to alternative investments
+33 does not exceed 5% of the total market value of investment assets of the
+34 fund as measured from the end of the preceding calendar year;
+35 (ii) if in addition to the system, there are at least two other qualified
+36 institutional buyers, as defined by section (a)(1)(i) of rule 144A, securities
+37 act of 1933;
+38 (iii) the system's share in any individual alternative investment is
+39 limited to an investment representing not more than 20% of any such
+40 individual alternative investment;
+41 (iv) the system has received a favorable and appropriate
+42 recommendation from a qualified, independent expert in investment
+43 management or analysis in that particular type of alternative investment;
+
+SB 34 3
+1 (v) the alternative investment is consistent with the system's
+2 investment policies and objectives as provided in subsection (6);
+3 (vi) the individual alternative investment does not exceed more than
+4 2.5% of the total alternative investments made under this subsection. If the
+5 alternative investment is made pursuant to participation by the system in a
+6 multi-investor pool, the 2.5% limitation contained in this subsection is
+7 applied to the underlying individual assets of such pool and not to
+8 investment in the pool itself. The total of such alternative investments
+9 made pursuant to participation by the system in any one individual multi-
+10 investor pool shall not exceed more than 20% of the total of alternative
+11 investments made by the system pursuant to this subsection. Nothing in
+12 this subsection requires the board to liquidate or sell the system's holdings
+13 in any alternative investments made pursuant to participation by the
+14 system in any one individual multi-investor pool held by the system on the
+15 effective date of this act, unless such liquidation or sale would be in the
+16 best interest of the members and beneficiaries of the system and be
+17 prudent under the standards contained in this section. The 20% limitation
+18 contained in this subsection shall not have been violated if the total of such
+19 investment in any one individual multi-investor pool exceeds 20% of the
+20 total alternative investments of the fund as a result of market forces acting
+21 to increase the value of such a multi-investor pool relative to the rest of the
+22 system's alternative investments; however, the board shall not invest or
+23 reinvest any moneys of the fund in any such individual multi-investor pool
+24 until the value of such individual multi-investor pool is less than 20% of
+25 the total alternative investments of the fund;
+26 (vii) the board has received and considered the investment manager's
+27 due diligence findings submitted to the board as required by subsection
+28 (6);
+29 (viii) prior to the time the alternative investment is made, the system
+30 has in place procedures and systems to ensure that the investment is
+31 properly monitored and investment performance is accurately measured;
+32 and
+33 (ix) the total of alternative investments does not exceed 25% of the
+34 total investment assets of the fund. The 25% limitation contained in this
+35 subsection shall not have been violated if the total of such alternative
+36 investments exceeds 25% of the total investment assets of the fund, based
+37 on the fund total market value, as a result of market forces acting to
+38 increase the value of such alternative investments relative to the rest of the
+39 system's investments. However, the board shall not invest or reinvest any
+40 moneys of the fund in alternative investments until the total value of such
+41 alternative investments is less than 25% of the total investment assets of
+42 the fund based on the market value. If the total value of the alternative
+43 investments exceeds 25% of the total investment assets of the fund, the
+
+SB 34 4
+1 board shall not be required to liquidate or sell the system's holdings in any
+2 alternative investment held by the system, unless such liquidation or sale
+3 would be in the best interest of the members and beneficiaries of the
+4 system and is prudent under the standards contained in this section;
+5 (c) for purposes of this section, "alternative investment" includes a
+6 broad group of investments that are not one of the traditional asset types of
+7 public equities, fixed income, cash or real estate. Alternative investments
+8 are generally made through limited partnership or similar structures, are
+9 not regularly traded on nationally recognized exchanges and thus are
+10 relatively illiquid, and exhibit lower correlations with more liquid asset
+11 types such as stocks and bonds. Alternative investments generally include,
+12 but are not limited to, private equity, private credit, hedge funds,
+13 infrastructure, commodities and other investments that have the
+14 characteristics described in this paragraph; and
+15 (d) except as otherwise provided, the board may invest or reinvest
+16 moneys of the fund in real estate investments if the following conditions
+17 are satisfied:
+18 (i) The system has received a favorable and appropriate
+19 recommendation from a qualified, independent expert in investment
+20 management or analysis in that particular type of real estate investment;
+21 (ii) the real estate investment is consistent with the system's
+22 investment policies and objectives as provided in subsection (6); and
+23 (iii) the system has received and considered the investment manager's
+24 due diligence findings; and
+25 (e) the board may invest and reinvest moneys of the fund in bitcoin
+26 exchange-traded products issued by an investment company registered in
+27 Kansas. The total of bitcoin investments shall not exceed 10% of the total
+28 investment assets of the fund. The 10% limitation contained in this
+29 subsection shall not have been violated if the total of such bitcoin
+30 investments exceeds 10% of the total investment assets of the fund, based
+31 on the fund total market value, as a result of market forces acting to
+32 increase the value of such bitcoin investments relative to the rest of the
+33 system's investments. However, the board shall not invest or reinvest any
+34 moneys of the fund in bitcoin investments until the total value of such
+35 bitcoin investments is less than 10% of the total investment assets of the
+36 fund based on the market value. If the total value of the bitcoin
+37 investments exceeds 10% of the total investment assets of the fund, the
+38 board shall not be required to liquidate or sell the system's holdings in any
+39 bitcoin investment held by the system, unless such liquidation or sale
+40 would be in the best interest of the members and beneficiaries of the
+41 system and is prudent under the standards contained in this section;
+42 (f) for purposes of this section:
+43 (i) "Bitcoin" means the decentralized digital currency launched in
+
+SB 34 5
+1 2009 that is based on Satoshi Nakamoto's white paper entitled "bitcoin: a
+2 peer-to-peer electronic cash system" and includes the digital asset that is
+3 the basis of the bitcoin exchange-traded product regulated by the United
+4 States securities and exchange commission; and
+5 (ii) "exchange-traded product" means a financial instrument that is
+6 approved by the United States securities and exchange commission, the
+7 commodities future trading commission or the office of the securities
+8 commissioner of Kansas, is traded on a United States regulated exchange
+9 and derives its value from an underlying pool of assets, including, but not
+10 limited to, stocks, bonds, commodities or indexes.
+11 (6) (a) Subject to the objective set forth in subsection (3) and the
+12 standards set forth in subsections (4) and (5) the board shall formulate
+13 policies and objectives for the investment and reinvestment of moneys in
+14 the fund and the acquisition, retention, management and disposition of
+15 investments of the fund. Such policies and objectives shall include:
+16 (i) Specific asset allocation standards and objectives;
+17 (ii) establishment of criteria for evaluating the risk versus the
+18 potential return on a particular investment;
+19 (iii) a requirement that all investment managers submit such
+20 manager's due diligence findings on each investment to the board or
+21 investment advisory committee for approval or rejection prior to making
+22 any alternative investment;
+23 (iv) a requirement that all investment managers shall immediately
+24 report all instances of default on investments to the board and provide the
+25 board with recommendations and options, including, but not limited to,
+26 curing the default or withdrawal from the investment; and
+27 (v) establishment of criteria that would be used as a guideline for
+28 determining when no additional add-on investments or reinvestments
+29 would be made and when the investment would be liquidated.
+30 (b) The board shall review such policies and objectives, make
+31 changes considered necessary or desirable and readopt such policies and
+32 objectives on an annual basis.
+33 (7) The board may enter into contracts with one or more persons
+34 whom the board determines to be qualified, whereby the persons undertake
+35 to perform the functions specified in subsection (2) to the extent provided
+36 in the contract. Performance of functions under contract so entered into
+37 shall be paid pursuant to rates fixed by the board subject to provisions of
+38 appropriation acts and shall be based on specific contractual fee
+39 arrangements. The system shall not pay or reimburse any expenses of
+40 persons contracted with pursuant to this subsection, except that after
+41 approval of the board, the system may pay approved investment related
+42 expenses subject to provisions of appropriation acts. The board shall
+43 require that a person contracted with to obtain commercial insurance
+
+SB 34 6
+1 which provides for errors and omissions coverage for such person in an
+2 amount to be specified by the board, provided that such coverage shall be
+3 at least the greater of $500,000 or 1% of the funds entrusted to such person
+4 up to a maximum of $10,000,000. The board shall require a person
+5 contracted with to give a fidelity bond in a penal sum as may be fixed by
+6 law or, if not so fixed, as may be fixed by the board, with corporate surety
+7 authorized to do business in this state. Such persons contracted with the
+8 board pursuant to this subsection and any persons contracted with such
+9 persons to perform the functions specified in subsection (2) shall be
+10 deemed to be agents of the board and the system in the performance of
+11 contractual obligations.
+12 (8) (a) In the acquisition or disposition of securities, the board may
+13 rely on the written legal opinion of a reputable bond attorney or attorneys,
+14 the written opinion of the attorney of the investment counselor or
+15 managers, or the written opinion of the attorney general certifying the
+16 legality of the securities.
+17 (b) The board shall employ or retain qualified investment counsel or
+18 counselors or may negotiate with a trust company to assist and advise in
+19 the judicious investment of funds as herein provided in accordance with
+20 the provisions of this section.
+21 (9) (a) Except as provided in subsection (7) and this subsection, the
+22 custody of money and securities of the fund shall remain in the custody of
+23 the state treasurer, except that the board may arrange for the custody of
+24 such money and securities as it considers advisable with one or more
+25 member banks or trust companies of the federal reserve system or with one
+26 or more banks in the state of Kansas, or both, to be held in safekeeping by
+27 the banks or trust companies for the collection of the principal and interest
+28 or other income or of the proceeds of sale. The services provided by the
+29 banks or trust companies shall be paid pursuant to rates fixed by the board
+30 subject to provisions of appropriation acts.
+31 (b) The state treasurer and the board shall collect the principal and
+32 interest or other income of investments or the proceeds of sale of securities
+33 in the custody of the state treasurer and pay same when so collected into
+34 the fund.
+35 (c) The principal and interest or other income or the proceeds of sale
+36 of securities as provided in this subsection shall be reported to the state
+37 treasurer and the board and credited to the fund.
+38 (10) The board shall with the advice of the director of accounts and
+39 reports establish the requirements and procedure for reporting any and all
+40 activity relating to investment functions provided for in this act in order to
+41 prepare a record monthly of the investment income and changes made
+42 during the preceding month. The record will reflect a detailed summary of
+43 investment, reinvestment, purchase, sale and exchange transactions and
+
+SB 34 7
+1 such other information as the board may consider advisable to reflect a
+2 true accounting of the investment activity of the fund.
+3 (11) The board shall provide for an examination of the investment
+4 program annually. The examination shall include an evaluation of current
+5 investment policies and practices and of specific investments of the fund in
+6 relation to the objective set forth in subsection (3), the standard set forth in
+7 subsection (4) and other criteria as may be appropriate, and
+8 recommendations relating to the fund investment policies and practices
+9 and to specific investments of the fund as are considered necessary or
+10 desirable. The board shall include in its annual report to the governor as
+11 provided in K.S.A. 74-4907, and amendments thereto, a report or a
+12 summary thereof covering the investments of the fund.
+13 (12) Any internal assessment or examination of alternative
+14 investments of the system performed by any person or entity employed or
+15 retained by the board which evaluates or monitors the performance of
+16 alternative investments shall be reported to the legislative post auditor so
+17 that such report may be reviewed in accordance with the annual financial-
+18 compliance audits conducted pursuant to K.S.A. 74-49,136, and
+19 amendments thereto.
+20 Sec. 2. K.S.A. 2024 Supp. 74-4921 is hereby repealed.
+21 Sec. 3. This act shall take effect and be in force from and after its
+22 publication in the statute book.
+
+[DELETED: Aeufls ad ds rg sh i; aKBS0f1K2c3K4s5m6a7c8s, rd of cs ad o, ps o9i0u1o2t3p4t5c6a7w8r9t0(1w2(3u4c5c6(]
+[DELETED: 4fiebamid(0i1t2p3s4r5s6(7r8s9c0i1u2d3l4a5o6s7(8(9u0(1i2(3d4f5(6i7a8(9l0i1(e sm hs rd a fe ad a2rn m a , it t  i3m]
+[DELETED: 4(e ae it is ct wh te si(2amaim0i1i2t3i4s5e6b7p8c9i0t1t2s3r4u5t6(7d8(9(0h1p2a3(4t5s6i7o8i9s0m1a2t3i]
+[DELETED: 4baws(bpan0r1t2bt ae nt ld t, pe e, pe c, he f3i, cs ad or is tt he t4c5(6m7a8(e sm hs rd a fe ad a9rn m a , it t  i0m1(e rl ee it is ct wh te s2i3(4d5(6e7K8i9s0i1o2i3s4m5b6f bd  t mt v If e l v of  b7i8b9b0w1s2(3(]
+[DELETED: 42ptS(acca0l1(2s3p4t5i6(7(t of ca fr eg te rk vs t8p9(a rt tt al it ms st s0m1i2a3(4r5b6c7(8d9w0(e bd sl rw sh ps ad o, m1c2o3(4w5t6i7s8an as ad sl be bd on sc cl f9a0p1a2e3r]
+[DELETED: 4waauclabp0d1c2(3r4tt 5m6l7(8c9t0t1(2c3t4s5m6o7t8o9b0s1(2i3i4t5(6o7t8(9r0a1p2d3i]
+[DELETED: 4st(pirsn () ad or ca as my be a, ara0d1p2s3(y il at or en of a4i5r6a7t8ce as cd pt to K. 7, a9a0S1S2p]

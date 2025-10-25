@@ -1,0 +1,1363 @@
+Title: HOUSE BILL No. 2134
+Official Title: HOUSE BILL No. 2134
+Number of Sections: 4
+Source: versions - Enrolled - Law effective July 1, 2025
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+AN ACT concerning open records and open meetings; relating to the open records act;
+limiting certain charges for furnishing records and employee time required to make
+records available; exempting records compiled in the process of formally closed
+investigations with no found violations and records that contain material that is
+obscene from disclosure; requiring county or district attorneys to file reports of
+violations of the open records act and open meetings act with the attorney general in
+October instead of January; relating to the open meetings act; determining the
+membership calculation of subordinate groups; requiring public bodies or agencies
+that live stream meetings to ensure that the public is able to observe; amending
+K.S.A. 45-219, 75-7d01, 75-753 and 75-4318 and K.S.A. 2024 Supp. 45-221 and
+repealing the existing sections.
+Be it enacted by the Legislature of the State of Kansas:
+
+Section 2:
+Section 1. K.S.A. 45-219 is hereby amended to read as follows:
+45-219. (a) Any person may make abstracts or obtain copies of any
+public record to which such person has access under this act. If copies
+are requested, the public agency may require a written request and
+advance payment of the prescribed fee. A public agency shall not be
+required to provide copies of radio or recording tapes or discs, video
+tapes or films, pictures, slides, graphics, illustrations or similar audio or
+visual items or devices, unless such items or devices were shown or
+played to a public meeting of the governing body thereof, but except
+that the public agency shall not be required to provide such items or
+devices which that are copyrighted by a person other than the public
+agency.
+(b) Copies of public records shall be made while the records are in
+the possession, custody and control of the custodian or a person
+designated by the custodian and shall be made under the supervision of
+such custodian or person. When practical Whenever practicable, copies
+shall be made in the place where the records are kept. If it is impractical
+not practicable to do so, the custodian shall allow arrangements to be
+made for use of other facilities. If it is necessary to use other facilities
+for copying, the cost thereof shall be paid by the person desiring a copy
+of the records. In addition, the public agency may charge the same fee
+for the services rendered in supervising the copying as for furnishing
+copies under subsection (c) and may establish a reasonable schedule of
+times for making copies at other facilities.
+(c) Except as provided by subsection (f) (h) or where fees for
+inspection or for copies of a public record are prescribed by statute,
+each public agency may prescribe reasonable fees for providing access
+to or furnishing copies of public records, subject to the following:
+(1) In the case of fees for copies of records, the fees shall not
+exceed the actual cost of furnishing copies the requested records,
+including the cost of staff time required to make the information
+available. Actual costs may include the cost to review and redact the
+requested records but shall not include incidental costs incurred by the
+public agency that are not attributable to furnishing the requested
+records.
+(2) In the case of fees for providing access to records maintained
+on computer facilities, the fees shall include only the cost of any
+computer services, including staff time required.
+(3) If the public agency incurs costs for staff time to provide
+access to or furnish copies of public records, the agency shall use in
+good faith the lowest-cost category of staff reasonably necessary to
+provide access to or furnish copies of public records. Charges for staff
+time shall be based on the employee's salary or hourly wage. Charges
+for staff time shall not include the costs of employee benefits.
+(4) Upon request, a public agency shall provide to the person
+requesting access to or copies of public records pursuant to this section
+an itemized statement of costs incurred by the public agency and
+charged to such requester. Such itemized statement shall include, but
+not be limited to, the hourly rates charged for each employee involved
+in making the requested records available and an itemized list of any
+other fees charged to provide access to or furnish copies of the
+requested records.
+(5) Fees for access to or copies of public records of public
+HOUSE BILL No. 2134—page 2
+agencies within the legislative branch of the state government shall be
+established in accordance with K.S.A. 46-1207a, and amendments
+thereto, and the provisions of this section.
+(4)(6) Fees for access to or copies of public records of public
+agencies within the judicial branch of the state government shall be
+established in accordance with rules of the supreme court and the
+provisions of this section.
+(5)(7) Fees for access to or copies of public records of a public
+agency within the executive branch of the state government shall be
+established by the agency head within the executive branch of the state
+government shall be established in accordance with the provisions of
+this section by the agency head.
+(d) Any person requesting records within the executive branch
+may appeal the reasonableness of the fees charged for providing access
+to or furnishing copies of such records to the secretary of
+administration, whose decision shall be final. A fee for copies of public
+records which is equal to or less than $.25 per page shall be deemed a
+reasonable fee.
+(d)(e) (1) When the staff time needed to respond to a records
+request will exceed five hours or the estimated actual cost for staff time
+needed to fill the request exceeds $200, the public agency shall make
+reasonable efforts to contact the requester and engage in interactive
+communication about mitigating costs to fill the request. The requester
+is not obligated to mitigate costs.
+(2) If a public agency has made reasonable efforts to contact the
+requester pursuant to this section and the requester has failed to
+respond by the end of the third business day, the records request will be
+deemed to be withdrawn until a subsequent contact has been made by
+the requester to the public agency.
+(3) As used in this subsection, "reasonable efforts to contact the
+requester" means contacting the requester through the means of
+communication that the requester provided to be used by the agency to
+respond to the request.
+(f) Except as otherwise authorized pursuant to K.S.A. 75-4215,
+and amendments thereto, each public agency within the executive
+branch of the state government shall remit all moneys received by or
+for it from fees charged pursuant to this section to the state treasurer in
+accordance with K.S.A. 75-4215, and amendments thereto. Unless
+otherwise specifically provided by law, the state treasurer shall deposit
+the entire amount thereof in the state treasury and credit the same to the
+state general fund or an appropriate fee fund as determined by the
+agency head.
+(e)(g) Each public agency of a political or taxing subdivision shall
+remit all moneys received by or for it from fees charged pursuant to this
+act to the treasurer of such political or taxing subdivision at least
+monthly. Upon receipt of any such moneys, such treasurer shall deposit
+the entire amount thereof in the treasury of the political or taxing
+subdivision and credit the same to the general fund thereof, unless
+otherwise specifically provided by law.
+(f)(h) Any person who is a certified shorthand reporter may charge
+fees for transcripts of such person's notes of judicial or administrative
+proceedings in accordance with rates established pursuant to rules of
+the Kansas supreme court.
+(g)(i) Nothing in the open records act shall require a public agency
+to electronically make copies of public records by allowing a person to
+obtain copies of a public record by inserting, connecting or otherwise
+attaching an electronic device provided by such person to the computer
+or other electronic device of the public agency.
+Sec. 2. K.S.A. 2024 Supp. 45-221 is hereby amended to read as
+follows: 45-221. (a) Except to the extent disclosure is otherwise
+required by law, a public agency shall not be required to disclose:
+(1) Records the disclosure of which is specifically prohibited or
+restricted by federal law, state statute or rule of the Kansas supreme
+court or rule of the senate committee on confirmation oversight relating
+HOUSE BILL No. 2134—page 3
+to information submitted to the committee pursuant to K.S.A. 75-
+4315d, and amendments thereto, or the disclosure of which is
+prohibited or restricted pursuant to specific authorization of federal law,
+state statute or rule of the Kansas supreme court or rule of the senate
+committee on confirmation oversight relating to information submitted
+to the committee pursuant to K.S.A. 75-4315d, and amendments
+thereto, to restrict or prohibit disclosure.
+(2) Records that are privileged under the rules of evidence, unless
+the holder of the privilege consents to the disclosure.
+(3) Medical, psychiatric, psychological or alcoholism or drug
+dependency treatment records that pertain to identifiable patients.
+(4) Personnel records, performance ratings or individually
+identifiable records pertaining to employees or applicants for
+employment, except that this exemption shall not apply to the names,
+positions, salaries or actual compensation employment contracts or
+employment-related contracts or agreements and lengths of service of
+officers and employees of public agencies once they are employed as
+such.
+(5) Information that would reveal the identity of any undercover
+agent or any informant reporting a specific violation of law.
+(6) Letters of reference or recommendation pertaining to the
+character or qualifications of an identifiable individual, except
+documents relating to the appointment of persons to fill a vacancy in an
+elected office.
+(7) Library, archive and museum materials contributed by private
+persons, to the extent of any limitations imposed as conditions of the
+contribution.
+(8) Information that would reveal the identity of an individual who
+lawfully makes a donation to a public agency, if anonymity of the
+donor is a condition of the donation, except if the donation is intended
+for or restricted to providing remuneration or personal tangible benefit
+to a named public officer or employee.
+(9) Testing and examination materials, before the test or
+examination is given or if it is to be given again, or records of
+individual test or examination scores, other than records that show only
+passage or failure and not specific scores.
+(10) Criminal investigation records, except as provided herein.
+The district court, in an action brought pursuant to K.S.A. 45-222, and
+amendments thereto, may order disclosure of such records, subject to
+such conditions as the court may impose, if the court finds that
+disclosure:
+(A) Is in the public interest;
+(B) would not interfere with any prospective law enforcement
+action, criminal investigation or prosecution;
+(C) would not reveal the identity of any confidential source or
+undercover agent;
+(D) would not reveal confidential investigative techniques or
+procedures not known to the general public;
+(E) would not endanger the life or physical safety of any person;
+and
+(F) would not reveal the name, address, phone number or any
+other information that specifically and individually identifies the victim
+of any sexual offense described in article 35 of chapter 21 of the
+Kansas Statutes Annotated, prior to their repeal, or article 55 of chapter
+21 of the Kansas Statutes Annotated, and amendments thereto.
+If a public record is discretionarily closed by a public agency
+pursuant to this subsection, the record custodian, upon request, shall
+provide a written citation to the specific provisions of subparagraphs
+(A) through (F) that necessitate closure of that public record.
+(11) Records of agencies involved in administrative adjudication
+or civil litigation, compiled in the process of detecting or investigating
+violations of civil law or administrative rules and regulations, if:
+(A) Disclosure would interfere with a prospective administrative
+adjudication or civil litigation or;
+HOUSE BILL No. 2134—page 4
+(B) disclosure would reveal the identity of a confidential source or
+undercover agent; or
+(C) the investigation is formally closed and the agency determines
+that no violation occurred.
+(12) Records of emergency or security information or procedures
+of a public agency, if disclosure would jeopardize public safety,
+including records of cybersecurity plans, cybersecurity assessments and
+cybersecurity vulnerabilities or procedures related to cybersecurity
+plans, cybersecurity assessments and cybersecurity vulnerabilities, or
+plans, drawings, specifications or related information for any building
+or facility that is used for purposes requiring security measures in or
+around the building or facility or that is used for the generation or
+transmission of power, water, fuels or communications, if disclosure
+would jeopardize security of the public agency, building or facility.
+(13) The contents of appraisals or engineering or feasibility
+estimates or evaluations made by or for a public agency relative to the
+acquisition of property, prior to the award of formal contracts therefor.
+(14) Correspondence between a public agency and a private
+individual, other than correspondence that is intended to give notice of
+an action, policy or determination relating to any regulatory,
+supervisory or enforcement responsibility of the public agency or that
+is widely distributed to the public by a public agency and is not
+specifically in response to communications from such a private
+individual.
+(15) Records pertaining to employer-employee negotiations, if
+disclosure would reveal information discussed in a lawful executive
+session under K.S.A. 75-4319, and amendments thereto.
+(16) Software programs for electronic data processing and
+documentation thereof, but each public agency shall maintain a register,
+open to the public, that describes:
+(A) The information that the agency maintains on computer
+facilities; and
+(B) the form in which the information can be made available using
+existing computer programs.
+(17) Applications, financial statements and other information
+submitted in connection with applications for student financial
+assistance where financial need is a consideration for the award.
+(18) Plans, designs, drawings or specifications that are prepared
+by a person other than an employee of a public agency or records that
+are the property of a private person.
+(19) Well samples, logs or surveys that the state corporation
+commission requires to be filed by persons who have drilled or caused
+to be drilled, or are drilling or causing to be drilled, holes for the
+purpose of discovery or production of oil or gas, to the extent that
+disclosure is limited by rules and regulations of the state corporation
+commission.
+(20) Notes, preliminary drafts, research data in the process of
+analysis, unfunded grant proposals, memoranda, recommendations or
+other records in which opinions are expressed or policies or actions are
+proposed, except that this exemption shall not apply when such records
+are publicly cited or identified in an open meeting or in an agenda of an
+open meeting.
+(21) Records of a public agency having legislative powers that
+pertain to proposed legislation or amendments to proposed legislation,
+except that this exemption shall not apply when such records are:
+(A) Publicly cited or identified in an open meeting or in an agenda
+of an open meeting; or
+(B) distributed to a majority of a quorum of any body that has
+authority to take action or make recommendations to the public agency
+with regard to the matters to which such records pertain.
+(22) Records of a public agency having legislative powers that
+pertain to research prepared for one or more members of such agency,
+except that this exemption shall not apply when such records are:
+(A) Publicly cited or identified in an open meeting or in an agenda
+HOUSE BILL No. 2134—page 5
+of an open meeting; or
+(B) distributed to a majority of a quorum of any body that has
+authority to take action or make recommendations to the public agency
+with regard to the matters to which such records pertain.
+(23) Library patron and circulation records that pertain to
+identifiable individuals.
+(24) Records that are compiled for census or research purposes
+and which pertain to identifiable individuals.
+(25) Records that represent and constitute the work product of an
+attorney.
+(26) Records of a utility or other public service pertaining to
+individually identifiable residential customers of the utility or service.
+(27) Specifications for competitive bidding, until the
+specifications are officially approved by the public agency.
+(28) Sealed bids and related documents, until a bid is accepted or
+all bids rejected.
+(29) Correctional records pertaining to an identifiable inmate or
+release, except that:
+(A) The name; photograph and other identifying information;
+sentence data; parole eligibility date; custody or supervision level;
+disciplinary record; supervision violations; conditions of supervision,
+excluding requirements pertaining to mental health or substance abuse
+counseling; location of facility where incarcerated or location of parole
+office maintaining supervision and address of a releasee whose crime
+was committed after the effective date of this act shall be subject to
+disclosure to any person other than another inmate or releasee, except
+that the disclosure of the location of an inmate transferred to another
+state pursuant to the interstate corrections compact shall be at the
+discretion of the secretary of corrections;
+(B) the attorney general, law enforcement agencies, counsel for
+the inmate to whom the record pertains and any county or district
+attorney shall have access to correctional records to the extent
+otherwise permitted by law;
+(C) the information provided to the law enforcement agency
+pursuant to the sex offender registration act, K.S.A. 22-4901 et seq.,
+and amendments thereto, shall be subject to disclosure to any person,
+except that the name, address, telephone number or any other
+information that specifically and individually identifies the victim of
+any offender required to register as provided by the Kansas offender
+registration act, K.S.A. 22-4901 et seq., and amendments thereto, shall
+not be disclosed; and
+(D) records of the department of corrections regarding the
+financial assets of an offender in the custody of the secretary of
+corrections shall be subject to disclosure to the victim, or such victim's
+family, of the crime for which the inmate is in custody as set forth in an
+order of restitution by the sentencing court.
+(30) Public records containing information of a personal nature
+where the public disclosure thereof would constitute a clearly
+unwarranted invasion of personal privacy.
+(31) Public records pertaining to prospective location of a business
+or industry where no previous public disclosure has been made of the
+business' or industry's interest in locating in, relocating within or
+expanding within the state. This exception shall not include those
+records pertaining to application of agencies for permits or licenses
+necessary to do business or to expand business operations within this
+state, except as otherwise provided by law.
+(32) Engineering and architectural estimates made by or for any
+public agency relative to public improvements.
+(33) Financial information submitted by contractors in
+qualification statements to any public agency.
+(34) Records involved in the obtaining and processing of
+intellectual property rights that are expected to be, wholly or partially
+vested in or owned by a state educational institution, as defined in
+K.S.A. 76-711, and amendments thereto, or an assignee of the
+HOUSE BILL No. 2134—page 6
+institution organized and existing for the benefit of the institution.
+(35) Any report or record that is made pursuant to K.S.A. 65-
+4922, 65-4923 or 65-4924, and amendments thereto, and that is
+privileged pursuant to K.S.A. 65-4915 or 65-4925, and amendments
+thereto.
+(36) Information that would reveal the precise location of an
+archeological site.
+(37) Any financial data or traffic information from a railroad
+company, to a public agency, concerning the sale, lease or rehabilitation
+of the railroad's property in Kansas.
+(38) Risk-based capital reports, risk-based capital plans and
+corrective orders including the working papers and the results of any
+analysis filed with the commissioner of insurance in accordance with
+K.S.A. 40-2c20 and 40-2d20, and amendments thereto.
+(39) Memoranda and related materials required to be used to
+support the annual actuarial opinions submitted pursuant to K.S.A. 40-
+409(b), and amendments thereto.
+(40) Disclosure reports filed with the commissioner of insurance
+under K.S.A. 40-2,156(a), and amendments thereto.
+(41) All financial analysis ratios and examination synopses
+concerning insurance companies that are submitted to the
+commissioner by the national association of insurance commissioners'
+insurance regulatory information system.
+(42) Any records the disclosure of which is restricted or prohibited
+by a tribal-state gaming compact.
+(43) Market research, market plans, business plans and the terms
+and conditions of managed care or other third-party contracts,
+developed or entered into by the university of Kansas medical center in
+the operation and management of the university hospital that the
+chancellor of the university of Kansas or the chancellor's designee
+determines would give an unfair advantage to competitors of the
+university of Kansas medical center.
+(44) The amount of franchise tax paid to the secretary of revenue
+or the secretary of state by domestic corporations, foreign corporations,
+domestic limited liability companies, foreign limited liability
+companies, domestic limited partnership, foreign limited partnership,
+domestic limited liability partnerships and foreign limited liability
+partnerships.
+(45) Records, other than criminal investigation records, the
+disclosure of which would pose a substantial likelihood of revealing
+security measures that protect:
+(A) Systems, facilities or equipment used in the production,
+transmission or distribution of energy, water or communications
+services;
+(B) transportation and sewer or wastewater treatment systems,
+facilities or equipment; or
+(C) private property or persons, if the records are submitted to the
+agency. For purposes of this paragraph, security means measures that
+protect against criminal acts intended to intimidate or coerce the
+civilian population, influence government policy by intimidation or
+coercion or to affect the operation of government by disruption of
+public services, mass destruction, assassination or kidnapping. Security
+measures include, but are not limited to, intelligence information,
+tactical plans, resource deployment and vulnerability assessments.
+(46) Any information or material received by the register of deeds
+of a county from military discharge papers, DD Form 214. Such papers
+shall be disclosed: To the military dischargee; to such dischargee's
+immediate family members and lineal descendants; to such dischargee's
+heirs, agents or assigns; to the licensed funeral director who has
+custody of the body of the deceased dischargee; when required by a
+department or agency of the federal or state government or a political
+subdivision thereof; when the form is required to perfect the claim of
+military service or honorable discharge or a claim of a dependent of the
+dischargee; and upon the written approval of the commissioner of
+HOUSE BILL No. 2134—page 7
+veterans affairs Kansas office of veterans services, to a person
+conducting research.
+(47) Information that would reveal the location of a shelter or a
+safehouse or similar place where persons are provided protection from
+abuse or the name, address, location or other contact information of
+alleged victims of stalking, domestic violence or sexual assault.
+(48) Policy information provided by an insurance carrier in
+accordance with K.S.A. 44-532(h)(1), and amendments thereto. This
+exemption shall not be construed to preclude access to an individual
+employer's record for the purpose of verification of insurance coverage
+or to the department of labor for their business purposes.
+(49) An individual's e-mail address, cell phone number and other
+contact information that has been given to the public agency for the
+purpose of public agency notifications or communications that are
+widely distributed to the public.
+(50) Information provided by providers to the local collection
+point administrator or to the 911 coordinating council pursuant to the
+Kansas 911 act upon request of the party submitting such records.
+(51) Records of a public agency on a public website that are
+searchable by a keyword search and identify the home address or home
+ownership of: A law enforcement officer as defined in K.S.A. 21-5111,
+and amendments thereto; a parole officer; a probation officer; a court
+services officer; a community correctional services officer; a local
+correctional officer or local detention officer; a federal judge; a justice
+of the supreme court; a judge of the court of appeals; a district judge; a
+district magistrate judge; a municipal judge; a presiding officer who
+conducts hearings pursuant to the Kansas administrative procedure act;
+an administrative law judge employed by the office of administrative
+hearings; a member of the state board of tax appeals; an administrative
+law judge who conducts hearings pursuant to the workers
+compensation act; a member of the workers' compensation appeals
+board; the United States attorney for the district of Kansas; an assistant
+United States attorney; a special assistant United States attorney; the
+attorney general; an assistant attorney general; a special assistant
+attorney general; a county attorney; an assistant county attorney; a
+special assistant county attorney; a district attorney; an assistant district
+attorney; a special assistant district attorney; a city attorney; an
+assistant city attorney; or a special assistant city attorney. Such person
+shall file with the custodian of such record a request to have such
+person's identifying information restricted from public access on such
+public website. Within 10 business days of receipt of such requests, the
+public agency shall restrict such person's identifying information from
+such public access. Such restriction shall expire after five years and
+such person may file with the custodian of such record a new request
+for restriction at any time.
+(52) Records of a public agency that would disclose the name,
+home address, zip code, e-mail address, phone number or cell phone
+number or other contact information for any person licensed to carry
+concealed handguns or of any person who enrolled in or completed any
+weapons training in order to be licensed or has made application for
+such license under the personal and family protection act, K.S.A. 75-
+7c01 et seq., and amendments thereto, shall not be disclosed unless
+otherwise required by law.
+(53) Records of a utility concerning information about cyber
+security threats, attacks or general attempts to attack utility operations
+provided to law enforcement agencies, the state corporation
+commission, the federal energy regulatory commission, the department
+of energy, the southwest power pool, the North American electric
+reliability corporation, the federal communications commission or any
+other federal, state or regional organization that has a responsibility for
+the safeguarding of telecommunications, electric, potable water, waste
+water disposal or treatment, motor fuel or natural gas energy supply
+systems.
+(54) Records of a public agency containing information or reports
+HOUSE BILL No. 2134—page 8
+obtained and prepared by the office of the state bank commissioner in
+the course of licensing or examining a person engaged in money
+transmission business pursuant to K.S.A. 9-508 et seq., and
+amendments thereto, shall not be disclosed except pursuant to K.S.A.
+9-513c, and amendments thereto, or unless otherwise required by law.
+(55) Records of a public agency that contain captured license plate
+data or that pertain to the location of an automated license plate
+recognition system.
+(56) Records of a public agency that contain material that is
+obscene as defined in K.S.A. 21-6401, and amendments thereto.
+(b) Except to the extent disclosure is otherwise required by law or
+as appropriate during the course of an administrative proceeding or on
+appeal from agency action, a public agency or officer shall not disclose
+financial information of a taxpayer that may be required or requested
+by a county appraiser or the director of property valuation to assist in
+the determination of the value of the taxpayer's property for ad valorem
+taxation purposes; or any financial information of a personal nature
+required or requested by a public agency or officer, including a name,
+job description or title revealing the salary or other compensation of
+officers, employees or applicants for employment with a firm,
+corporation or agency, except a public agency. Nothing contained
+herein shall be construed to prohibit the publication of statistics, so
+classified as to prevent identification of particular reports or returns and
+the items thereof.
+(c) As used in this section, the term ''cited or identified'' does not
+include a request to an employee of a public agency that a document be
+prepared.
+(d) If a public record contains material that is not subject to
+disclosure pursuant to this act, the public agency shall separate or
+delete such material and make available to the requester that material in
+the public record that is subject to disclosure pursuant to this act. If a
+public record is not subject to disclosure because it pertains to an
+identifiable individual, the public agency shall delete the identifying
+portions of the record and make available to the requester any
+remaining portions that are subject to disclosure pursuant to this act,
+unless the request is for a record pertaining to a specific individual or to
+such a limited group of individuals that the individuals' identities are
+reasonably ascertainable, the public agency shall not be required to
+disclose those portions of the record that pertain to such individual or
+individuals.
+(e) The provisions of this section shall not be construed to exempt
+from public disclosure statistical information not descriptive of any
+identifiable person.
+(f) Notwithstanding the provisions of subsection (a), any public
+record that has been in existence more than 70 years shall be open for
+inspection by any person unless disclosure of the record is specifically
+prohibited or restricted by federal law, state statute or rule of the
+Kansas supreme court or by a policy adopted pursuant to K.S.A. 72-
+6214, and amendments thereto.
+(g) Any confidential records or information relating to security
+measures provided or received under the provisions of subsection (a)
+(45) shall not be subject to subpoena, discovery or other demand in any
+administrative, criminal or civil action.
+Sec. 3. K.S.A. 75-7d01 is hereby amended to read as follows: 75-
+7d01. (a) There is hereby created in the office of the attorney general a
+batterer intervention program certification unit.
+(b) Except as otherwise provided by law, The books, documents,
+papers, records or other sources of information obtained and the
+investigations conducted by the unit shall be confidential as required by
+state or federal law.
+(c) The purpose of the batterer intervention program certification
+unit is to certify and inspect batterer intervention programs in Kansas.
+To accomplish this purpose, upon request of the unit, the unit shall have
+access to all records of reports, investigation documents and written
+HOUSE BILL No. 2134—page 9
+reports of findings related to confirmed cases of domestic violence or
+exploitation of persons or cases in which there is reasonable suspicion
+to believe domestic violence has occurred that are received or
+generated by the Kansas department for children and families, the
+Kansas department for aging and disability services, the department of
+health and environment or the Kansas bureau of investigation.
+(d) The attorney general shall develop a set of tools,
+methodologies, requirements and forms for the domestic violence
+offender assessment required by K.S.A. 21-6604(p), and amendments
+thereto. The batterer intervention program tools, methodologies,
+requirements and forms shall be developed in consultation with the
+agency certified by the centers for disease control and prevention and
+the department of health and human services as the domestic violence
+coalition for the state and with local domestic violence victims' services
+organizations.
+(e) The attorney general may appoint a panel to assist the attorney
+general by making recommendations regarding the:
+(1) Content and development of a batterer intervention
+certification program; and
+(2) rules and regulations.
+(f) The attorney general may appoint such advisory committees as
+the attorney general deems necessary to carry out the purposes of the
+batterer intervention program certification act. Except as provided in
+K.S.A. 75-3212, and amendments thereto, no member of any such
+advisory committee shall receive any compensation, subsistence,
+mileage or other allowance for serving on an advisory committee or
+attending any meeting thereof.
+Sec. 4. K.S.A. 75-753 is hereby amended to read as follows: 75-
+
+Section 3:
+753. (a) On or before January October 15, of each year, the county or
+district attorney of each county shall report to the attorney general all
+complaints received during the preceding fiscal year concerning
+violations of the open records act and open meetings act and the
+disposition of each complaint.
+(b) The attorney general shall compile information received
+pursuant to subsection (a) with information relating to investigations of
+violations of the open records act and the open meetings act conducted
+by the office of the attorney general. The attorney general shall publish
+a yearly abstract of such information listing by name the public
+agencies which are the subject of such complaints or investigations.
+Sec. 5. K.S.A. 75-4318 is hereby amended to read as follows: 75-
+
+Section 4:
+4318. (a) Subject to the provisions of subsection (g), all meetings for
+the conduct of the affairs of, and the transaction of business by, all
+legislative and administrative bodies and agencies of the state and
+political and taxing subdivisions thereof, including boards,
+commissions, authorities, councils, committees, subcommittees and
+other subordinate groups thereof, receiving or expending and supported
+in whole or in part by public funds shall be open to the public and no
+binding action by such public bodies or agencies shall be by secret
+ballot. Meetings of task forces, advisory committees or subcommittees
+of advisory committees created pursuant to a governor's executive
+order shall be open to the public in accordance with this act.
+(b) Notice of the date, time and place of any regular or special
+meeting of a public body or agency designated in subsection (a) shall
+be furnished to any person requesting such notice, except that:
+(1) If notice is requested by petition, the petition shall designate
+one person to receive notice on behalf of all persons named in the
+petition, and notice to such person shall constitute notice to all persons
+named in the petition;
+(2) if notice is furnished to an executive officer of an employees'
+organization or trade association, such notice shall be deemed to have
+been furnished to the entire membership of such organization or
+association; and
+(3) the public body or agency may require that a request to receive
+notice must be submitted again to the public body or agency prior to the
+HOUSE BILL No. 2134—page 10
+commencement of any subsequent fiscal year of the public body or
+agency during which the person wishes to continue receiving notice,
+but, prior to discontinuing notice to any person, the public body or
+agency must notify the person that notice will be discontinued unless
+the person resubmits a request to receive notice.
+(c) It shall be the duty of the presiding officer or other person
+calling the meeting, if the meeting is not called by the presiding officer,
+to furnish the notice required by subsection (b).
+(d) Prior to any meeting mentioned by subsection (a), any agenda
+relating to the business to be transacted at such meeting shall be made
+available to any person requesting the agenda.
+(e) The use of cameras, photographic lights and recording devices
+shall not be prohibited at any meeting mentioned by subsection (a), but
+such use shall be subject to reasonable rules designed to insure the
+orderly conduct of the proceedings at such meeting.
+(f) Except as provided by section 22 of article 2 of the constitution
+of the state of Kansas, interactive communications in a series shall be
+open if they collectively involve a majority of the membership of the
+public body or agency, share a common topic of discussion concerning
+the business or affairs of the public body or agency, and are intended by
+any or all of the participants to reach agreement on a matter that would
+require binding action to be taken by the public body or agency.
+(g) The provisions of the open meetings law shall not apply:
+(1) To any administrative body that is authorized by law to
+exercise quasi-judicial functions when such body is deliberating
+matters relating to a decision involving such quasi-judicial functions;
+(2) to the prisoner review board when conducting parole hearings
+or parole violation hearings held at a correctional institution;
+(3) to any impeachment inquiry or other impeachment matter
+referred to any committee of the house of representatives prior to the
+report of such committee to the full house of representatives; and
+(4) if otherwise provided by state or federal law or by rules of the
+Kansas senate or house of representatives.
+(h) When a subcommittee or other subordinate group is created by
+a public body or agency, whenever a majority of such subcommittee or
+other subordinate group meets, such subcommittee or other
+subordinate group shall be subject to the requirements of this act.
+(i) Unless otherwise stated in law, a private entity will only be
+considered a subordinate group of a legislative or administrative body
+of the state or a political and taxing subdivision if such private entity is
+under the control, whether directly or indirectly, of a legislative or
+administrative body of the state or a political and taxing subdivision.
+(j) A public body or agency that voluntarily elects to live stream
+their meeting on television, the internet or any other medium shall
+ensure that all aspects of the open meeting are available through the
+selected medium for the public to observe. An unintentional
+technological failure or an action taken by the provider of the selected
+medium that disrupts or prevents such live stream shall not constitute a
+violation of this subsection.
+HOUSE BILL No. 2134—page 11
+Sec. 6. K.S.A. 45-219, 75-7d01, 75-753 and 75-4318 and K.S.A.
+2024 Supp. 45-221 are hereby repealed.
+Sec. 7. This act shall take effect and be in force from and after its
+publication in the statute book.
+I hereby certify that the above BILL originated in the HOUSE, and was
+adopted by that body
+HOUSE adopted
+Conference Committee Report
+Speaker of the House.
+Chief Clerk of the House.
+Passed the SENATE
+as amended
+SENATE adopted
+Conference Committee Report
+President of the Senate.
+Secretary of the Senate.
+APPROVED
+Governor.
+[DELETED:  A Ce  ( ( od  c te t e r ]
+[DELETED: n  a wo r fg cs of sh rs to te sy o (o " s r s d h n e d . ]
+[DELETED: , ad as t, or te de of wh il r, pe rs or ie rs pg to es or as fr or qs of an ie i, eg ad en m, be te tt ot l l e s ]
+[DELETED: e cs of as or eg or fe a a n a, py or dn rg to ay ry in re to cs fm sh a pe ps fr ec da pg ae i tt te as o c, fl ss ad or id in cn wh as fr st f]
+[DELETED: y pn ad cn rs tt pn ts fr ce b, ul ty sl he as to cl rs to te et tt te n, a, te nr or ay os of te dt of cs rg te te pc de tf wd ce a cl in sd by cs is id in te og ad pg o. 7, ad as t, or an ae of t]
+[DELETED: s t d cl r, rd cl ps al fl as rs ad en sg ie cs tt ae sd to td cs of md ce or or ty cc ld ly c, fn ld l, or tn cl in r, t, fs or t d in e n or dn of e, wr or cd  c]
+[DELETED: s a Ks e of vs s, to a  in pd b an ie cr iw je wo cs hs pt to te w; a l t t ; a ; d to lw et a, te se c]
+[DELETED: n bs pt to K. 98 et s, a, es or as fr et wh a fs  t r a a t r a]
+[DELETED: o be dc ve hs od tt ae rd oe ay gl sl dp a st of t. Te br in pm t, mt ad dt of a br iy ce sl re ay c, ss rd dg te pg fl yr ce ay gl sl ce in rl ad tg ss t, ig b]
+[DELETED: e ql fs wn sh by is dr e gp m, sh se or of  lr d mm r te pc to o An u]
+[DELETED: B H,LO   ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL No. 2134
+AN ACT concerning open records and open meetings; relating to the open records act;
+limiting certain charges for furnishing records and employee time required to make
+records available; exempting records compiled in the process of formally closed
+investigations with no found violations and records that contain material that is
+obscene from disclosure; requiring county or district attorneys to file reports of
+violations of the open records act and open meetings act with the attorney general in
+October instead of January; relating to the open meetings act; determining the
+membership calculation of subordinate groups; requiring public bodies or agencies
+that live stream meetings to ensure that the public is able to observe; amending
+K.S.A. 45-219, 75-7d01, 75-753 and 75-4318 and K.S.A. 2024 Supp. 45-221 and
+repealing the existing sections.
+Be it enacted by the Legislature of the State of Kansas:
+Section 1. K.S.A. 45-219 is hereby amended to read as follows:
+45-219. (a) Any person may make abstracts or obtain copies of any
+public record to which such person has access under this act. If copies
+are requested, the public agency may require a written request and
+advance payment of the prescribed fee. A public agency shall not be
+required to provide copies of radio or recording tapes or discs, video
+tapes or films, pictures, slides, graphics, illustrations or similar audio or
+visual items or devices, unless such items or devices were shown or
+played to a public meeting of the governing body thereof, but except
+that the public agency shall not be required to provide such items or
+devices which that are copyrighted by a person other than the public
+agency.
+(b) Copies of public records shall be made while the records are in
+the possession, custody and control of the custodian or a person
+designated by the custodian and shall be made under the supervision of
+such custodian or person. When practical Whenever practicable, copies
+shall be made in the place where the records are kept. If it is impractical
+not practicable to do so, the custodian shall allow arrangements to be
+made for use of other facilities. If it is necessary to use other facilities
+for copying, the cost thereof shall be paid by the person desiring a copy
+of the records. In addition, the public agency may charge the same fee
+for the services rendered in supervising the copying as for furnishing
+copies under subsection (c) and may establish a reasonable schedule of
+times for making copies at other facilities.
+(c) Except as provided by subsection (f) (h) or where fees for
+inspection or for copies of a public record are prescribed by statute,
+each public agency may prescribe reasonable fees for providing access
+to or furnishing copies of public records, subject to the following:
+(1) In the case of fees for copies of records, the fees shall not
+exceed the actual cost of furnishing copies the requested records,
+including the cost of staff time required to make the information
+available. Actual costs may include the cost to review and redact the
+requested records but shall not include incidental costs incurred by the
+public agency that are not attributable to furnishing the requested
+records.
+(2) In the case of fees for providing access to records maintained
+on computer facilities, the fees shall include only the cost of any
+computer services, including staff time required.
+(3) If the public agency incurs costs for staff time to provide
+access to or furnish copies of public records, the agency shall use in
+good faith the lowest-cost category of staff reasonably necessary to
+provide access to or furnish copies of public records. Charges for staff
+time shall be based on the employee's salary or hourly wage. Charges
+for staff time shall not include the costs of employee benefits.
+(4) Upon request, a public agency shall provide to the person
+requesting access to or copies of public records pursuant to this section
+an itemized statement of costs incurred by the public agency and
+charged to such requester. Such itemized statement shall include, but
+not be limited to, the hourly rates charged for each employee involved
+in making the requested records available and an itemized list of any
+other fees charged to provide access to or furnish copies of the
+requested records.
+(5) Fees for access to or copies of public records of public
+
+HOUSE BILL No. 2134—page 2
+agencies within the legislative branch of the state government shall be
+established in accordance with K.S.A. 46-1207a, and amendments
+thereto, and the provisions of this section.
+(4)(6) Fees for access to or copies of public records of public
+agencies within the judicial branch of the state government shall be
+established in accordance with rules of the supreme court and the
+provisions of this section.
+(5)(7) Fees for access to or copies of public records of a public
+agency within the executive branch of the state government shall be
+established by the agency head within the executive branch of the state
+government shall be established in accordance with the provisions of
+this section by the agency head.
+(d) Any person requesting records within the executive branch
+may appeal the reasonableness of the fees charged for providing access
+to or furnishing copies of such records to the secretary of
+administration, whose decision shall be final. A fee for copies of public
+records which is equal to or less than $.25 per page shall be deemed a
+reasonable fee.
+(d)(e) (1) When the staff time needed to respond to a records
+request will exceed five hours or the estimated actual cost for staff time
+needed to fill the request exceeds $200, the public agency shall make
+reasonable efforts to contact the requester and engage in interactive
+communication about mitigating costs to fill the request. The requester
+is not obligated to mitigate costs.
+(2) If a public agency has made reasonable efforts to contact the
+requester pursuant to this section and the requester has failed to
+respond by the end of the third business day, the records request will be
+deemed to be withdrawn until a subsequent contact has been made by
+the requester to the public agency.
+(3) As used in this subsection, "reasonable efforts to contact the
+requester" means contacting the requester through the means of
+communication that the requester provided to be used by the agency to
+respond to the request.
+(f) Except as otherwise authorized pursuant to K.S.A. 75-4215,
+and amendments thereto, each public agency within the executive
+branch of the state government shall remit all moneys received by or
+for it from fees charged pursuant to this section to the state treasurer in
+accordance with K.S.A. 75-4215, and amendments thereto. Unless
+otherwise specifically provided by law, the state treasurer shall deposit
+the entire amount thereof in the state treasury and credit the same to the
+state general fund or an appropriate fee fund as determined by the
+agency head.
+(e)(g) Each public agency of a political or taxing subdivision shall
+remit all moneys received by or for it from fees charged pursuant to this
+act to the treasurer of such political or taxing subdivision at least
+monthly. Upon receipt of any such moneys, such treasurer shall deposit
+the entire amount thereof in the treasury of the political or taxing
+subdivision and credit the same to the general fund thereof, unless
+otherwise specifically provided by law.
+(f)(h) Any person who is a certified shorthand reporter may charge
+fees for transcripts of such person's notes of judicial or administrative
+proceedings in accordance with rates established pursuant to rules of
+the Kansas supreme court.
+(g)(i) Nothing in the open records act shall require a public agency
+to electronically make copies of public records by allowing a person to
+obtain copies of a public record by inserting, connecting or otherwise
+attaching an electronic device provided by such person to the computer
+or other electronic device of the public agency.
+Sec. 2. K.S.A. 2024 Supp. 45-221 is hereby amended to read as
+follows: 45-221. (a) Except to the extent disclosure is otherwise
+required by law, a public agency shall not be required to disclose:
+(1) Records the disclosure of which is specifically prohibited or
+restricted by federal law, state statute or rule of the Kansas supreme
+court or rule of the senate committee on confirmation oversight relating
+
+HOUSE BILL No. 2134—page 3
+to information submitted to the committee pursuant to K.S.A. 75-
+4315d, and amendments thereto, or the disclosure of which is
+prohibited or restricted pursuant to specific authorization of federal law,
+state statute or rule of the Kansas supreme court or rule of the senate
+committee on confirmation oversight relating to information submitted
+to the committee pursuant to K.S.A. 75-4315d, and amendments
+thereto, to restrict or prohibit disclosure.
+(2) Records that are privileged under the rules of evidence, unless
+the holder of the privilege consents to the disclosure.
+(3) Medical, psychiatric, psychological or alcoholism or drug
+dependency treatment records that pertain to identifiable patients.
+(4) Personnel records, performance ratings or individually
+identifiable records pertaining to employees or applicants for
+employment, except that this exemption shall not apply to the names,
+positions, salaries or actual compensation employment contracts or
+employment-related contracts or agreements and lengths of service of
+officers and employees of public agencies once they are employed as
+such.
+(5) Information that would reveal the identity of any undercover
+agent or any informant reporting a specific violation of law.
+(6) Letters of reference or recommendation pertaining to the
+character or qualifications of an identifiable individual, except
+documents relating to the appointment of persons to fill a vacancy in an
+elected office.
+(7) Library, archive and museum materials contributed by private
+persons, to the extent of any limitations imposed as conditions of the
+contribution.
+(8) Information that would reveal the identity of an individual who
+lawfully makes a donation to a public agency, if anonymity of the
+donor is a condition of the donation, except if the donation is intended
+for or restricted to providing remuneration or personal tangible benefit
+to a named public officer or employee.
+(9) Testing and examination materials, before the test or
+examination is given or if it is to be given again, or records of
+individual test or examination scores, other than records that show only
+passage or failure and not specific scores.
+(10) Criminal investigation records, except as provided herein.
+The district court, in an action brought pursuant to K.S.A. 45-222, and
+amendments thereto, may order disclosure of such records, subject to
+such conditions as the court may impose, if the court finds that
+disclosure:
+(A) Is in the public interest;
+(B) would not interfere with any prospective law enforcement
+action, criminal investigation or prosecution;
+(C) would not reveal the identity of any confidential source or
+undercover agent;
+(D) would not reveal confidential investigative techniques or
+procedures not known to the general public;
+(E) would not endanger the life or physical safety of any person;
+and
+(F) would not reveal the name, address, phone number or any
+other information that specifically and individually identifies the victim
+of any sexual offense described in article 35 of chapter 21 of the
+Kansas Statutes Annotated, prior to their repeal, or article 55 of chapter
+21 of the Kansas Statutes Annotated, and amendments thereto.
+If a public record is discretionarily closed by a public agency
+pursuant to this subsection, the record custodian, upon request, shall
+provide a written citation to the specific provisions of subparagraphs
+(A) through (F) that necessitate closure of that public record.
+(11) Records of agencies involved in administrative adjudication
+or civil litigation, compiled in the process of detecting or investigating
+violations of civil law or administrative rules and regulations, if:
+(A) Disclosure would interfere with a prospective administrative
+adjudication or civil litigation or;
+
+HOUSE BILL No. 2134—page 4
+(B) disclosure would reveal the identity of a confidential source or
+undercover agent; or
+(C) the investigation is formally closed and the agency determines
+that no violation occurred.
+(12) Records of emergency or security information or procedures
+of a public agency, if disclosure would jeopardize public safety,
+including records of cybersecurity plans, cybersecurity assessments and
+cybersecurity vulnerabilities or procedures related to cybersecurity
+plans, cybersecurity assessments and cybersecurity vulnerabilities, or
+plans, drawings, specifications or related information for any building
+or facility that is used for purposes requiring security measures in or
+around the building or facility or that is used for the generation or
+transmission of power, water, fuels or communications, if disclosure
+would jeopardize security of the public agency, building or facility.
+(13) The contents of appraisals or engineering or feasibility
+estimates or evaluations made by or for a public agency relative to the
+acquisition of property, prior to the award of formal contracts therefor.
+(14) Correspondence between a public agency and a private
+individual, other than correspondence that is intended to give notice of
+an action, policy or determination relating to any regulatory,
+supervisory or enforcement responsibility of the public agency or that
+is widely distributed to the public by a public agency and is not
+specifically in response to communications from such a private
+individual.
+(15) Records pertaining to employer-employee negotiations, if
+disclosure would reveal information discussed in a lawful executive
+session under K.S.A. 75-4319, and amendments thereto.
+(16) Software programs for electronic data processing and
+documentation thereof, but each public agency shall maintain a register,
+open to the public, that describes:
+(A) The information that the agency maintains on computer
+facilities; and
+(B) the form in which the information can be made available using
+existing computer programs.
+(17) Applications, financial statements and other information
+submitted in connection with applications for student financial
+assistance where financial need is a consideration for the award.
+(18) Plans, designs, drawings or specifications that are prepared
+by a person other than an employee of a public agency or records that
+are the property of a private person.
+(19) Well samples, logs or surveys that the state corporation
+commission requires to be filed by persons who have drilled or caused
+to be drilled, or are drilling or causing to be drilled, holes for the
+purpose of discovery or production of oil or gas, to the extent that
+disclosure is limited by rules and regulations of the state corporation
+commission.
+(20) Notes, preliminary drafts, research data in the process of
+analysis, unfunded grant proposals, memoranda, recommendations or
+other records in which opinions are expressed or policies or actions are
+proposed, except that this exemption shall not apply when such records
+are publicly cited or identified in an open meeting or in an agenda of an
+open meeting.
+(21) Records of a public agency having legislative powers that
+pertain to proposed legislation or amendments to proposed legislation,
+except that this exemption shall not apply when such records are:
+(A) Publicly cited or identified in an open meeting or in an agenda
+of an open meeting; or
+(B) distributed to a majority of a quorum of any body that has
+authority to take action or make recommendations to the public agency
+with regard to the matters to which such records pertain.
+(22) Records of a public agency having legislative powers that
+pertain to research prepared for one or more members of such agency,
+except that this exemption shall not apply when such records are:
+(A) Publicly cited or identified in an open meeting or in an agenda
+
+HOUSE BILL No. 2134—page 5
+of an open meeting; or
+(B) distributed to a majority of a quorum of any body that has
+authority to take action or make recommendations to the public agency
+with regard to the matters to which such records pertain.
+(23) Library patron and circulation records that pertain to
+identifiable individuals.
+(24) Records that are compiled for census or research purposes
+and which pertain to identifiable individuals.
+(25) Records that represent and constitute the work product of an
+attorney.
+(26) Records of a utility or other public service pertaining to
+individually identifiable residential customers of the utility or service.
+(27) Specifications for competitive bidding, until the
+specifications are officially approved by the public agency.
+(28) Sealed bids and related documents, until a bid is accepted or
+all bids rejected.
+(29) Correctional records pertaining to an identifiable inmate or
+release, except that:
+(A) The name; photograph and other identifying information;
+sentence data; parole eligibility date; custody or supervision level;
+disciplinary record; supervision violations; conditions of supervision,
+excluding requirements pertaining to mental health or substance abuse
+counseling; location of facility where incarcerated or location of parole
+office maintaining supervision and address of a releasee whose crime
+was committed after the effective date of this act shall be subject to
+disclosure to any person other than another inmate or releasee, except
+that the disclosure of the location of an inmate transferred to another
+state pursuant to the interstate corrections compact shall be at the
+discretion of the secretary of corrections;
+(B) the attorney general, law enforcement agencies, counsel for
+the inmate to whom the record pertains and any county or district
+attorney shall have access to correctional records to the extent
+otherwise permitted by law;
+(C) the information provided to the law enforcement agency
+pursuant to the sex offender registration act, K.S.A. 22-4901 et seq.,
+and amendments thereto, shall be subject to disclosure to any person,
+except that the name, address, telephone number or any other
+information that specifically and individually identifies the victim of
+any offender required to register as provided by the Kansas offender
+registration act, K.S.A. 22-4901 et seq., and amendments thereto, shall
+not be disclosed; and
+(D) records of the department of corrections regarding the
+financial assets of an offender in the custody of the secretary of
+corrections shall be subject to disclosure to the victim, or such victim's
+family, of the crime for which the inmate is in custody as set forth in an
+order of restitution by the sentencing court.
+(30) Public records containing information of a personal nature
+where the public disclosure thereof would constitute a clearly
+unwarranted invasion of personal privacy.
+(31) Public records pertaining to prospective location of a business
+or industry where no previous public disclosure has been made of the
+business' or industry's interest in locating in, relocating within or
+expanding within the state. This exception shall not include those
+records pertaining to application of agencies for permits or licenses
+necessary to do business or to expand business operations within this
+state, except as otherwise provided by law.
+(32) Engineering and architectural estimates made by or for any
+public agency relative to public improvements.
+(33) Financial information submitted by contractors in
+qualification statements to any public agency.
+(34) Records involved in the obtaining and processing of
+intellectual property rights that are expected to be, wholly or partially
+vested in or owned by a state educational institution, as defined in
+K.S.A. 76-711, and amendments thereto, or an assignee of the
+
+HOUSE BILL No. 2134—page 6
+institution organized and existing for the benefit of the institution.
+(35) Any report or record that is made pursuant to K.S.A. 65-
+4922, 65-4923 or 65-4924, and amendments thereto, and that is
+privileged pursuant to K.S.A. 65-4915 or 65-4925, and amendments
+thereto.
+(36) Information that would reveal the precise location of an
+archeological site.
+(37) Any financial data or traffic information from a railroad
+company, to a public agency, concerning the sale, lease or rehabilitation
+of the railroad's property in Kansas.
+(38) Risk-based capital reports, risk-based capital plans and
+corrective orders including the working papers and the results of any
+analysis filed with the commissioner of insurance in accordance with
+K.S.A. 40-2c20 and 40-2d20, and amendments thereto.
+(39) Memoranda and related materials required to be used to
+support the annual actuarial opinions submitted pursuant to K.S.A. 40-
+409(b), and amendments thereto.
+(40) Disclosure reports filed with the commissioner of insurance
+under K.S.A. 40-2,156(a), and amendments thereto.
+(41) All financial analysis ratios and examination synopses
+concerning insurance companies that are submitted to the
+commissioner by the national association of insurance commissioners'
+insurance regulatory information system.
+(42) Any records the disclosure of which is restricted or prohibited
+by a tribal-state gaming compact.
+(43) Market research, market plans, business plans and the terms
+and conditions of managed care or other third-party contracts,
+developed or entered into by the university of Kansas medical center in
+the operation and management of the university hospital that the
+chancellor of the university of Kansas or the chancellor's designee
+determines would give an unfair advantage to competitors of the
+university of Kansas medical center.
+(44) The amount of franchise tax paid to the secretary of revenue
+or the secretary of state by domestic corporations, foreign corporations,
+domestic limited liability companies, foreign limited liability
+companies, domestic limited partnership, foreign limited partnership,
+domestic limited liability partnerships and foreign limited liability
+partnerships.
+(45) Records, other than criminal investigation records, the
+disclosure of which would pose a substantial likelihood of revealing
+security measures that protect:
+(A) Systems, facilities or equipment used in the production,
+transmission or distribution of energy, water or communications
+services;
+(B) transportation and sewer or wastewater treatment systems,
+facilities or equipment; or
+(C) private property or persons, if the records are submitted to the
+agency. For purposes of this paragraph, security means measures that
+protect against criminal acts intended to intimidate or coerce the
+civilian population, influence government policy by intimidation or
+coercion or to affect the operation of government by disruption of
+public services, mass destruction, assassination or kidnapping. Security
+measures include, but are not limited to, intelligence information,
+tactical plans, resource deployment and vulnerability assessments.
+(46) Any information or material received by the register of deeds
+of a county from military discharge papers, DD Form 214. Such papers
+shall be disclosed: To the military dischargee; to such dischargee's
+immediate family members and lineal descendants; to such dischargee's
+heirs, agents or assigns; to the licensed funeral director who has
+custody of the body of the deceased dischargee; when required by a
+department or agency of the federal or state government or a political
+subdivision thereof; when the form is required to perfect the claim of
+military service or honorable discharge or a claim of a dependent of the
+dischargee; and upon the written approval of the commissioner of
+
+HOUSE BILL No. 2134—page 7
+veterans affairs Kansas office of veterans services, to a person
+conducting research.
+(47) Information that would reveal the location of a shelter or a
+safehouse or similar place where persons are provided protection from
+abuse or the name, address, location or other contact information of
+alleged victims of stalking, domestic violence or sexual assault.
+(48) Policy information provided by an insurance carrier in
+accordance with K.S.A. 44-532(h)(1), and amendments thereto. This
+exemption shall not be construed to preclude access to an individual
+employer's record for the purpose of verification of insurance coverage
+or to the department of labor for their business purposes.
+(49) An individual's e-mail address, cell phone number and other
+contact information that has been given to the public agency for the
+purpose of public agency notifications or communications that are
+widely distributed to the public.
+(50) Information provided by providers to the local collection
+point administrator or to the 911 coordinating council pursuant to the
+Kansas 911 act upon request of the party submitting such records.
+(51) Records of a public agency on a public website that are
+searchable by a keyword search and identify the home address or home
+ownership of: A law enforcement officer as defined in K.S.A. 21-5111,
+and amendments thereto; a parole officer; a probation officer; a court
+services officer; a community correctional services officer; a local
+correctional officer or local detention officer; a federal judge; a justice
+of the supreme court; a judge of the court of appeals; a district judge; a
+district magistrate judge; a municipal judge; a presiding officer who
+conducts hearings pursuant to the Kansas administrative procedure act;
+an administrative law judge employed by the office of administrative
+hearings; a member of the state board of tax appeals; an administrative
+law judge who conducts hearings pursuant to the workers
+compensation act; a member of the workers' compensation appeals
+board; the United States attorney for the district of Kansas; an assistant
+United States attorney; a special assistant United States attorney; the
+attorney general; an assistant attorney general; a special assistant
+attorney general; a county attorney; an assistant county attorney; a
+special assistant county attorney; a district attorney; an assistant district
+attorney; a special assistant district attorney; a city attorney; an
+assistant city attorney; or a special assistant city attorney. Such person
+shall file with the custodian of such record a request to have such
+person's identifying information restricted from public access on such
+public website. Within 10 business days of receipt of such requests, the
+public agency shall restrict such person's identifying information from
+such public access. Such restriction shall expire after five years and
+such person may file with the custodian of such record a new request
+for restriction at any time.
+(52) Records of a public agency that would disclose the name,
+home address, zip code, e-mail address, phone number or cell phone
+number or other contact information for any person licensed to carry
+concealed handguns or of any person who enrolled in or completed any
+weapons training in order to be licensed or has made application for
+such license under the personal and family protection act, K.S.A. 75-
+7c01 et seq., and amendments thereto, shall not be disclosed unless
+otherwise required by law.
+(53) Records of a utility concerning information about cyber
+security threats, attacks or general attempts to attack utility operations
+provided to law enforcement agencies, the state corporation
+commission, the federal energy regulatory commission, the department
+of energy, the southwest power pool, the North American electric
+reliability corporation, the federal communications commission or any
+other federal, state or regional organization that has a responsibility for
+the safeguarding of telecommunications, electric, potable water, waste
+water disposal or treatment, motor fuel or natural gas energy supply
+systems.
+(54) Records of a public agency containing information or reports
+
+HOUSE BILL No. 2134—page 8
+obtained and prepared by the office of the state bank commissioner in
+the course of licensing or examining a person engaged in money
+transmission business pursuant to K.S.A. 9-508 et seq., and
+amendments thereto, shall not be disclosed except pursuant to K.S.A.
+9-513c, and amendments thereto, or unless otherwise required by law.
+(55) Records of a public agency that contain captured license plate
+data or that pertain to the location of an automated license plate
+recognition system.
+(56) Records of a public agency that contain material that is
+obscene as defined in K.S.A. 21-6401, and amendments thereto.
+(b) Except to the extent disclosure is otherwise required by law or
+as appropriate during the course of an administrative proceeding or on
+appeal from agency action, a public agency or officer shall not disclose
+financial information of a taxpayer that may be required or requested
+by a county appraiser or the director of property valuation to assist in
+the determination of the value of the taxpayer's property for ad valorem
+taxation purposes; or any financial information of a personal nature
+required or requested by a public agency or officer, including a name,
+job description or title revealing the salary or other compensation of
+officers, employees or applicants for employment with a firm,
+corporation or agency, except a public agency. Nothing contained
+herein shall be construed to prohibit the publication of statistics, so
+classified as to prevent identification of particular reports or returns and
+the items thereof.
+(c) As used in this section, the term ''cited or identified'' does not
+include a request to an employee of a public agency that a document be
+prepared.
+(d) If a public record contains material that is not subject to
+disclosure pursuant to this act, the public agency shall separate or
+delete such material and make available to the requester that material in
+the public record that is subject to disclosure pursuant to this act. If a
+public record is not subject to disclosure because it pertains to an
+identifiable individual, the public agency shall delete the identifying
+portions of the record and make available to the requester any
+remaining portions that are subject to disclosure pursuant to this act,
+unless the request is for a record pertaining to a specific individual or to
+such a limited group of individuals that the individuals' identities are
+reasonably ascertainable, the public agency shall not be required to
+disclose those portions of the record that pertain to such individual or
+individuals.
+(e) The provisions of this section shall not be construed to exempt
+from public disclosure statistical information not descriptive of any
+identifiable person.
+(f) Notwithstanding the provisions of subsection (a), any public
+record that has been in existence more than 70 years shall be open for
+inspection by any person unless disclosure of the record is specifically
+prohibited or restricted by federal law, state statute or rule of the
+Kansas supreme court or by a policy adopted pursuant to K.S.A. 72-
+6214, and amendments thereto.
+(g) Any confidential records or information relating to security
+measures provided or received under the provisions of subsection (a)
+(45) shall not be subject to subpoena, discovery or other demand in any
+administrative, criminal or civil action.
+Sec. 3. K.S.A. 75-7d01 is hereby amended to read as follows: 75-
+7d01. (a) There is hereby created in the office of the attorney general a
+batterer intervention program certification unit.
+(b) Except as otherwise provided by law, The books, documents,
+papers, records or other sources of information obtained and the
+investigations conducted by the unit shall be confidential as required by
+state or federal law.
+(c) The purpose of the batterer intervention program certification
+unit is to certify and inspect batterer intervention programs in Kansas.
+To accomplish this purpose, upon request of the unit, the unit shall have
+access to all records of reports, investigation documents and written
+
+HOUSE BILL No. 2134—page 9
+reports of findings related to confirmed cases of domestic violence or
+exploitation of persons or cases in which there is reasonable suspicion
+to believe domestic violence has occurred that are received or
+generated by the Kansas department for children and families, the
+Kansas department for aging and disability services, the department of
+health and environment or the Kansas bureau of investigation.
+(d) The attorney general shall develop a set of tools,
+methodologies, requirements and forms for the domestic violence
+offender assessment required by K.S.A. 21-6604(p), and amendments
+thereto. The batterer intervention program tools, methodologies,
+requirements and forms shall be developed in consultation with the
+agency certified by the centers for disease control and prevention and
+the department of health and human services as the domestic violence
+coalition for the state and with local domestic violence victims' services
+organizations.
+(e) The attorney general may appoint a panel to assist the attorney
+general by making recommendations regarding the:
+(1) Content and development of a batterer intervention
+certification program; and
+(2) rules and regulations.
+(f) The attorney general may appoint such advisory committees as
+the attorney general deems necessary to carry out the purposes of the
+batterer intervention program certification act. Except as provided in
+K.S.A. 75-3212, and amendments thereto, no member of any such
+advisory committee shall receive any compensation, subsistence,
+mileage or other allowance for serving on an advisory committee or
+attending any meeting thereof.
+Sec. 4. K.S.A. 75-753 is hereby amended to read as follows: 75-
+753. (a) On or before January October 15, of each year, the county or
+district attorney of each county shall report to the attorney general all
+complaints received during the preceding fiscal year concerning
+violations of the open records act and open meetings act and the
+disposition of each complaint.
+(b) The attorney general shall compile information received
+pursuant to subsection (a) with information relating to investigations of
+violations of the open records act and the open meetings act conducted
+by the office of the attorney general. The attorney general shall publish
+a yearly abstract of such information listing by name the public
+agencies which are the subject of such complaints or investigations.
+Sec. 5. K.S.A. 75-4318 is hereby amended to read as follows: 75-
+4318. (a) Subject to the provisions of subsection (g), all meetings for
+the conduct of the affairs of, and the transaction of business by, all
+legislative and administrative bodies and agencies of the state and
+political and taxing subdivisions thereof, including boards,
+commissions, authorities, councils, committees, subcommittees and
+other subordinate groups thereof, receiving or expending and supported
+in whole or in part by public funds shall be open to the public and no
+binding action by such public bodies or agencies shall be by secret
+ballot. Meetings of task forces, advisory committees or subcommittees
+of advisory committees created pursuant to a governor's executive
+order shall be open to the public in accordance with this act.
+(b) Notice of the date, time and place of any regular or special
+meeting of a public body or agency designated in subsection (a) shall
+be furnished to any person requesting such notice, except that:
+(1) If notice is requested by petition, the petition shall designate
+one person to receive notice on behalf of all persons named in the
+petition, and notice to such person shall constitute notice to all persons
+named in the petition;
+(2) if notice is furnished to an executive officer of an employees'
+organization or trade association, such notice shall be deemed to have
+been furnished to the entire membership of such organization or
+association; and
+(3) the public body or agency may require that a request to receive
+notice must be submitted again to the public body or agency prior to the
+
+HOUSE BILL No. 2134—page 10
+commencement of any subsequent fiscal year of the public body or
+agency during which the person wishes to continue receiving notice,
+but, prior to discontinuing notice to any person, the public body or
+agency must notify the person that notice will be discontinued unless
+the person resubmits a request to receive notice.
+(c) It shall be the duty of the presiding officer or other person
+calling the meeting, if the meeting is not called by the presiding officer,
+to furnish the notice required by subsection (b).
+(d) Prior to any meeting mentioned by subsection (a), any agenda
+relating to the business to be transacted at such meeting shall be made
+available to any person requesting the agenda.
+(e) The use of cameras, photographic lights and recording devices
+shall not be prohibited at any meeting mentioned by subsection (a), but
+such use shall be subject to reasonable rules designed to insure the
+orderly conduct of the proceedings at such meeting.
+(f) Except as provided by section 22 of article 2 of the constitution
+of the state of Kansas, interactive communications in a series shall be
+open if they collectively involve a majority of the membership of the
+public body or agency, share a common topic of discussion concerning
+the business or affairs of the public body or agency, and are intended by
+any or all of the participants to reach agreement on a matter that would
+require binding action to be taken by the public body or agency.
+(g) The provisions of the open meetings law shall not apply:
+(1) To any administrative body that is authorized by law to
+exercise quasi-judicial functions when such body is deliberating
+matters relating to a decision involving such quasi-judicial functions;
+(2) to the prisoner review board when conducting parole hearings
+or parole violation hearings held at a correctional institution;
+(3) to any impeachment inquiry or other impeachment matter
+referred to any committee of the house of representatives prior to the
+report of such committee to the full house of representatives; and
+(4) if otherwise provided by state or federal law or by rules of the
+Kansas senate or house of representatives.
+(h) When a subcommittee or other subordinate group is created by
+a public body or agency, whenever a majority of such subcommittee or
+other subordinate group meets, such subcommittee or other
+subordinate group shall be subject to the requirements of this act.
+(i) Unless otherwise stated in law, a private entity will only be
+considered a subordinate group of a legislative or administrative body
+of the state or a political and taxing subdivision if such private entity is
+under the control, whether directly or indirectly, of a legislative or
+administrative body of the state or a political and taxing subdivision.
+(j) A public body or agency that voluntarily elects to live stream
+their meeting on television, the internet or any other medium shall
+ensure that all aspects of the open meeting are available through the
+selected medium for the public to observe. An unintentional
+technological failure or an action taken by the provider of the selected
+medium that disrupts or prevents such live stream shall not constitute a
+violation of this subsection.
+
+HOUSE BILL No. 2134—page 11
+Sec. 6. K.S.A. 45-219, 75-7d01, 75-753 and 75-4318 and K.S.A.
+2024 Supp. 45-221 are hereby repealed.
+Sec. 7. This act shall take effect and be in force from and after its
+publication in the statute book.
+I hereby certify that the above BILL originated in the HOUSE, and was
+adopted by that body
+HOUSE adopted
+Conference Committee Report
+Speaker of the House.
+Chief Clerk of the House.
+Passed the SENATE
+as amended
+SENATE adopted
+Conference Committee Report
+President of the Senate.
+Secretary of the Senate.
+APPROVED
+Governor.
+
+[DELETED:  A Ce  ( ( od  c te t e r ]
+[DELETED: n  a wo r fg cs of sh rs to te sy o (o " s r s d h n e d . ]
+[DELETED: , ad as t, or te de of wh il r, pe rs or ie rs pg to es or as fr or qs of an ie i, eg ad en m, be te tt ot l l e s ]
+[DELETED: e cs of as or eg or fe a a n a, py or dn rg to ay ry in re to cs fm sh a pe ps fr ec da pg ae i tt te as o c, fl ss ad or id in cn wh as fr st f]
+[DELETED: y pn ad cn rs tt pn ts fr ce b, ul ty sl he as to cl rs to te et tt te n, a, te nr or ay os of te dt of cs rg te te pc de tf wd ce a cl in sd by cs is id in te og ad pg o. 7, ad as t, or an ae of t]
+[DELETED: s t d cl r, rd cl ps al fl as rs ad en sg ie cs tt ae sd to td cs of md ce or or ty cc ld ly c, fn ld l, or tn cl in r, t, fs or t d in e n or dn of e, wr or cd  c]
+[DELETED: s a Ks e of vs s, to a  in pd b an ie cr iw je wo cs hs pt to te w; a l t t ; a ; d to lw et a, te se c]
+[DELETED: n bs pt to K. 98 et s, a, es or as fr et wh a fs  t r a a t r a]
+[DELETED: o be dc ve hs od tt ae rd oe ay gl sl dp a st of t. Te br in pm t, mt ad dt of a br iy ce sl re ay c, ss rd dg te pg fl yr ce ay gl sl ce in rl ad tg ss t, ig b]
+[DELETED: e ql fs wn sh by is dr e gp m, sh se or of  lr d mm r te pc to o An u]
+[DELETED: B H,LO   ]

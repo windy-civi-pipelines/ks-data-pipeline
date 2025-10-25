@@ -1,0 +1,3005 @@
+Title: HOUSE BILL No. 2336
+Official Title: HOUSE BILL No. 2336
+Number of Sections: 1
+Source: versions - {As Amended by House Committee of the Whole}
+Media Type: application/pdf
+Strikethrough Detection: 33 sections found
+
+================================================================================
+
+Section 1:
+{As Amended by House Committee of the Whole}
+As Amended by House Committee
+Session of 2025
+By Committee on Taxation
+Requested by Eric Stafford on behalf of the Kansas Chamber of Commerce
+2-7
+1 AN ACT concerning taxation; relating to income and privilege taxes;
+2 providing for the apportionment of business income by the single sales
+3 factor and the apportionment of financial institution income by the
+4 receipts factor; providing for the apportionment pursuant to the
+5 three-factor test of a manufacturer who sells alcoholic liquor;
+6 {requiring the use of single sales factor pursuant to the multistate
+7 tax compact;} establishing deductions from income when using the
+8 single sales factor and receipts factor; providing for the decrease in
+9 corporate income tax rates; determining when sales other than tangible
+10 personal property are made in the state; excluding sales of a unitary
+11 business group of electric and natural gas public utilities; amending
+12 K.S.A. 79-1129, 79-3271, 79-3279 and, 79-3287 {and 79-4301} and
+13 K.S.A. 2024 Supp. 79-32,110 and 79-32,113 and repealing the existing
+14 sections.
+15
+16 Be it enacted by the Legislature of the State of Kansas:
+17 New Section 1. (a) Commencing with {At the end of} fiscal year
+18 2026 {2028}, the director of the budget, in consultation with the director of
+19 legislative research, shall certify, at the end of each such fiscal year, the
+20 amount of actual corporate income tax receipt revenues generated pursuant
+21 to K.S.A. 79-32,110(c), and amendments thereto, that is in excess of the
+22 prior fiscal year's corporate income tax receipts. The director of the budget
+23 shall transmit such certification to the secretary of revenue. Upon receipt
+24 of such certification, the secretary shall compute the reduction of the
+25 corporate income tax rate pursuant to K.S.A. 79-32,110(c), and
+26 amendments thereto. The certified amount shall be computed in dollars by
+27 the secretary for a reduction rounded down to the nearest 0.1% in the
+28 corporate income tax rate, if any, to go into effect for the next calendar
+29 {tax} year that would reduce the corporate income tax rate in an amount
+30 approximately equal to the amount computed by the secretary. The
+31 secretary shall reduce the normal tax on corporations. Such rate reductions
+32 shall remain in effect unless further reduced pursuant to law.
+33 (b) The secretary shall publish by October 1, 2027 {2028}, the new
+HB 2336—Am. by HCW 2
+1 income tax rates to take effect on January 1 {for all taxable years
+2 commencing after December 31}, 2028.
+3 Sec. 2. K.S.A. 79-1129 is hereby amended to read as follows: 79-
+4 1129. (a) Except as otherwise specifically provided, a financial institution
+5 whose business activity is taxable both within and without this state shall
+6 allocate and apportion its net income as provided in this act. All items of
+7 nonbusiness income, income which is not includable in the apportionable
+8 income tax base, shall be allocated pursuant to the provisions of K.S.A.
+9 79-3274 through 79-3278 and amendments thereto. A financial institution
+10 organized under the laws of a foreign country, the commonwealth of
+11 Puerto Rico, or a territory or possession of the United States whose
+12 effectively connected income, as defined under the federal internal revenue
+13 code, is taxable both within this state and within another state, other than
+14 the state in which it is organized, shall allocate and apportion its net
+15 income as provided in this act and its apportionment factors shall include
+16 the part of its property, payroll and receipts that is related to its
+17 apportionable income.
+18 (b) (1) For taxable years {commencing} prior to January 1, 2028
+19 2027, all business income shall be apportioned as follows:
+20 (A) All business income, income which is includable in the
+21 apportionable income tax base, shall be apportioned to this state by
+22 multiplying such income by the apportionment percentage. The
+23 apportionment percentage is determined by adding the taxpayer's receipts
+24 factor, as described in K.S.A. 79-1130, and amendments thereto, property
+25 factor, as described in K.S.A. 79-1131, and amendments thereto, and
+26 payroll factor, as described in K.S.A. 79-1132, and amendments thereto,
+27 together and dividing the sum by three. If one of the factors is missing, the
+28 two remaining factors are added and the sum is divided by two. If two of
+29 the factors are missing, the remaining factor is the apportionment
+30 percentage. A factor is missing if both its numerator and denominator are
+31 zero, but it is not missing merely because its numerator is zero.
+32 (B) (i) For tax years commencing on or after January 1, 2025, and
+33 ending before January 1, 2028, at the election of the taxpayer, all business
+34 income that is includable in the apportionable income tax base, may be
+35 apportioned to this state by the taxpayer's receipts factor, as described in
+36 K.S.A. 79-1130, and amendments thereto.
+37 (ii) An election under this subparagraph shall be made by including
+38 a statement with the original tax return for which the election is made
+39 indicating that the taxpayer elects to apply this apportionment method.
+40 The election shall be effective and irrevocable for the taxable year of the
+41 election and shall be binding on all members of a unitary group of
+42 corporations.
+43 (2) For tax years commencing on or after January 1, 2028 2027, all
+HB 2336—Am. by HCW 3
+1 business income shall be apportioned to this state by multiplying the
+2 business income by the receipts factor.
+3 (c) Each factor shall be computed according to the method of
+4 accounting, cash or accrual basis, used by the taxpayer for the taxable year.
+5 (d) If the allocation and apportionment provisions of this act do not
+6 fairly represent the extent of the taxpayer's business activity in this state,
+7 the taxpayer may petition for or the secretary of revenue may require, in
+8 respect to all or any part of the taxpayer's business activity, if reasonable:
+9 (1) Separate accounting;
+10 (2) the exclusion of any one or more of the factors;
+11 (3) the inclusion of one or more additional factors which will fairly
+12 represent the taxpayer's business activity in this state; or
+13 (4) the employment of any other method to effectuate an equitable
+14 allocation and apportionment of the taxpayer's income.
+15 (e) In the event a combined report is utilized to determine the Kansas
+16 income attributable to a unitary group of financial institutions, the
+17 financial institutions in the combined group shall include only those
+18 institutions which have a branch or office in Kansas.
+19 (f) (1) There shall be allowed as a deduction an amount computed in
+20 accordance with this subsection.
+21 (2) As of July 1, 2025, only publicly traded companies, including
+22 affiliated corporations participating in the filing of a publicly traded
+23 company's financial statements prepared in accordance with generally
+24 accepted accounting principles, shall be eligible for this deduction.
+25 (3) If the provisions of this section result in an aggregate increase in
+26 the taxpayer's net deferred tax liability or an aggregate decrease in the
+27 taxpayer's net deferred tax asset, or an aggregate change from a net
+28 deferred tax asset to a net deferred tax liability, the taxpayer shall be
+29 entitled to a deduction, as determined in this subsection. For the purposes
+30 of this section, the term "taxpayer" includes a unitary group of businesses
+31 that is required to file a combined report. The deferred tax impact
+32 deduction provided under this section for a unitary group of businesses
+33 that is required to file a combined report shall be calculated using unitary
+34 net deferred tax assets and liabilities and deducted against unitary group
+35 income.
+36 (4) A taxpayer shall be entitled to a deferred tax impact deduction
+37 from the taxpayer's net business income before apportionment equal to the
+38 amount necessary to offset the increase in the net deferred tax liability or
+39 decrease in the net deferred tax asset, or aggregate change from a net
+40 deferred tax asset to a net deferred tax liability. Such increase in the net
+41 deferred tax liability, decrease in the net deferred tax asset or the
+42 aggregate change from a net deferred tax asset to a net deferred tax
+43 liability shall be computed based on the change that would result from the
+HB 2336—Am. by HCW 4
+1 imposition of the single sales factor requirements pursuant to this section,
+2 excluding the deduction provided under this paragraph, as of the end of
+3 the tax year prior to the year in which the taxpayer makes an election or is
+4 required to apportion by the sales factor {tax year} 2025. The amount of
+5 the deduction shall equal the annual deferred tax deduction amount set
+6 forth in paragraph (5).
+7 (5) The annual deferred tax deduction amount shall be calculated as
+8 follows:
+9 (A) The deferred tax impact determined in paragraph (4) shall be
+10 divided by the income {privilege} tax rate for corporations in effect for
+11 the tax year pursuant to K.S.A. 79-32,110 {79-1107 and 79-1108}, and
+12 amendments thereto;
+13 (B) the resulting amount shall be further divided by the Kansas
+14 apportionment factor that was used by the taxpayer in the calculation of
+15 the deferred tax assets and deferred tax liabilities as provided in this
+16 subsection; and
+17 (C) the result multiplied by 1/ shall represent the total net deferred
+10
+18 tax deduction available for the first tax year beginning on or after January
+19 1, 2035, and the next nine successive tax years.
+20 (6) The deduction calculated under paragraph (5) shall not be
+21 adjusted as a result of any events subsequent to such calculation,
+22 including, but not limited to, any disposition or abandonment of assets.
+23 Such deduction shall be calculated without regard to any tax liabilities
+24 under the federal internal revenue code and shall not alter the tax basis of
+25 any asset. If the deduction under this section is greater than the taxpayer's
+26 net business income before apportionment, any excess deduction shall be
+27 carried forward and applied as a deduction for future tax years until fully
+28 utilized.
+29 (7) At the discretion of the taxpayer, the taxpayer shall be allowed to
+30 claim other available tax credits before claiming the deferred tax
+31 deduction calculated under this section. Any deferred tax deduction
+32 calculated under this section not claimed on a return shall be carried
+33 forward and applied as a deduction for future tax years until fully utilized.
+34 (8) Any taxpayer intending to claim a deduction under this subsection
+35 shall file a statement with the secretary on or before July 1, 2028 2027,
+36 specifying the total amount of the deduction that the taxpayer claims. The
+37 statement shall be made on such form and in such manner as prescribed
+38 by the secretary and shall contain such information or calculations as the
+39 secretary may specify. No deduction shall be allowed under this section
+40 for any taxable year except to the extent claimed in the manner prescribed
+41 on or before July 1, 2028 2027.
+42 (9) For purposes of this subsection:
+43 (A) "Net deferred tax liability" means deferred tax liabilities that
+HB 2336—Am. by HCW 5
+1 exceed the deferred tax assets of the taxpayer, as computed in accordance
+2 with generally accepted accounting principles.
+3 (B) "Net deferred tax asset" means that deferred tax assets exceed the
+4 deferred tax liabilities of the taxpayer, as computed in accordance with
+5 generally accepted accounting principles.
+6 Sec. 3. K.S.A. 79-3271 is hereby amended to read as follows: 79-
+7 3271. As used in this act, unless the context otherwise requires: (a) For tax
+8 years commencing prior to January 1, 2008, "business income" means
+9 income arising from transactions and activity in the regular course of the
+10 taxpayer's trade or business and includes income from tangible and
+11 intangible property if the acquisition, management, and disposition of the
+12 property constitute integral parts of the taxpayer's regular trade or business
+13 operations, except that a taxpayer may elect that all income constitutes
+14 business income. For tax years commencing after December 31, 2007,
+15 "business income" means: (1) Income arising from transactions and
+16 activity in the regular course of the taxpayer's trade or business; (2)
+17 income arising from transactions and activity involving tangible and
+18 intangible property or assets used in the operation of the taxpayer's trade or
+19 business; or (3) income of the taxpayer that may be apportioned to this
+20 state under the provisions of the Constitution of the United States and laws
+21 thereof, except that a taxpayer may elect that all income constitutes
+22 business income. Any election made under this subsection shall be
+23 effective and irrevocable for the tax year in which the election is made and
+24 the following nine tax years and shall be binding on all members of a
+25 unitary group of corporations.
+26 (b) "Commercial domicile" means the principal place from which the
+27 trade or business of the taxpayer is directed or managed.
+28 (c) "Compensation" means wages, salaries, commissions and any
+29 other form of remuneration paid to employees for personal services.
+30 (d) "Financial organization" means any bank, trust company, savings
+31 bank, industrial bank, land bank, safe deposit company, private banker,
+32 savings and loan association, credit union, cooperative bank, or any type
+33 of insurance company, but such term shall not be deemed to include any
+34 business entity, other than those hereinbefore enumerated, whose primary
+35 business activity is making consumer loans or purchasing retail installment
+36 contracts from one or more sellers.
+37 (e) "Nonbusiness income" means all income other than business
+38 income.
+39 (f) "Public utility" means any business entity which that owns or
+40 operates for public use any plant, equipment, property, franchise, or
+41 license for the transmission of communications, transportation of goods or
+42 persons, or the production, storage, transmission, sale, delivery, or
+43 furnishing of electricity, water, steam, oil, oil products or gas.
+HB 2336—Am. by HCW 6
+1 (g) "Original return" means the first return filed to report the income
+2 of a taxpayer for a taxable year or period, irrespective of whether such
+3 return is filed on a single entity basis or a combined basis.
+4 (h) "Sales" means, except as otherwise provided in K.S.A. 79-3285,
+5 and amendments thereto, all gross receipts of the taxpayer not allocated
+6 under K.S.A. 79-3274 through 79-3278, and amendments thereto.
+7 (i) "State" means any state of the United States, the District of
+8 Columbia, the Commonwealth of Puerto Rico, any territory or possession
+9 of the United States, and any foreign country or political subdivision
+10 thereof.
+11 (j) "Telecommunications company" means any business entity or
+12 unitary group of entities whose primary business activity is the
+13 transmission of communications in the form of voice, data, signals or
+14 facsimile communications by wire or fiber optic cable.
+15 (k) "Distressed area taxpayer" means a corporation which that: (1) Is
+16 located in a county which has a population of not more than 45,000
+17 persons and which, as certified by the department of commerce, has
+18 sustained an adverse economic impact due to the closure of a state hospital
+19 in such county pursuant to the recommendations of the hospital closure
+20 commission; and (2) which has a total annual payroll of $20,000,000 or
+21 more for employees employed within such county.
+22 (l) For the purposes of this subsection and subsection (b)(5) of K.S.A.
+23 79-3279 79-3279(a)(5){(b)(5)}, and amendments thereto, the following
+24 terms are defined:
+25 (1) "Administration services" include clerical, fund or shareholder
+26 accounting, participant record keeping, transfer agency, bookkeeping, data
+27 processing, custodial, internal auditing, legal and tax services performed
+28 for an investment company;
+29 (2) "distribution services" include the services of advertising,
+30 servicing, marketing, underwriting or selling shares of an investment
+31 company, but, in the case of advertising, servicing or marketing shares,
+32 only where such service is performed by a person who is, or in the case of
+33 a closed end company, was, either engaged in the services of underwriting
+34 or selling investment company shares or affiliated with a person who is
+35 engaged in the service of underwriting or selling investment company
+36 shares. In the case of an open end company, such service of underwriting
+37 or selling shares must be performed pursuant to a contract entered into
+38 pursuant to 15 U.S.C. § 80a-15(b), as in effect on the effective date of this
+39 act;
+40 (3) "investment company", means any person registered under the
+41 federal Investment Company Act of 1940, as in effect on the effective date
+42 of this act, or a company which would be required to register as an
+43 investment company under such act except that such person is exempt to
+HB 2336—Am. by HCW 7
+1 such registration pursuant to § 80a-3(c)(1) of such act;
+2 (4) "investment funds service corporation" includes any corporation
+3 or S corporation headquartered in and doing business in this state which
+4 derives more than 50% of its gross income from the provision of
+5 management, distribution or administration services to or on behalf of an
+6 investment company or from trustees, sponsors and participants of
+7 employee benefit plans which have accounts in an investment company;
+8 (5) "management services" include the rendering of investment
+9 advice to an investment company making determinations as to when sales
+10 and purchases of securities are to be made on behalf of the investment
+11 company, or the selling or purchasing of securities constituting assets of an
+12 investment company, and related activities, but only where such activity or
+13 activities are performed:
+14 (A) Pursuant to a contract with the investment company entered into
+15 pursuant to 15 U.S.C. § 80a-15(a), in effect on the effective date of this
+16 act; or
+17 (B) for a person that has entered into such contract with the
+18 investment company;
+19 (6) "qualifying business income" is business income derived from the
+20 provision of management, distribution or administration services to or on
+21 behalf of an investment company or from trustees, sponsors and
+22 participants of employee benefit plans which have accounts in an
+23 investment company; and
+24 (7) "residence" is the fund shareholder's primary residence address.
+25 Sec. 4. K.S.A. 79-3279 is hereby amended to read as follows: 79-
+26 3279. (a) All business income of railroads and interstate motor carriers of
+27 persons or property for-hire shall be apportioned to this state by
+28 multiplying the business income by a fraction, in the case of railroads, the
+29 numerator of which is the freight car miles in this state and the
+30 denominator of which is the freight car miles everywhere, and, in the case
+31 of interstate motor carriers, the numerator of which is the total number of
+32 miles operated in this state and the denominator of which is the total
+33 number of miles operated everywhere. {For tax years commencing
+34 before January 1, 2027, all business income of railroads and interstate
+35 motor carriers of persons or property for hire shall be apportioned to
+36 this state by multiplying the business income by a fraction, in the case
+37 of railroads, the numerator of which is the freight car miles in this
+38 state and the denominator of which is the freight car miles,
+39 everywhere and, in the case of interstate motor carriers, the
+40 numerator of which is the total number of miles operated in this state
+41 and the denominator of which is the total number of miles operated
+42 everywhere.}
+43 (b) {(b)}For the tax years commencing on or after January 1, 2025
+HB 2336—Am. by HCW 8
+1 and ending before January 1, 2028 2027, all business income of any other
+2 taxpayer shall be apportioned to this state by one of the following
+3 methods:
+4 (1) By multiplying the business income by a fraction, the numerator
+5 of which is the property factor plus the payroll factor plus the sales factor,
+6 and the denominator of which is three; or
+7 (2) at the election of a qualifying taxpayer, by multiplying the
+8 business income by a fraction, the numerator of which is the property
+9 factor plus the sales factor, and the denominator of which is two.
+10 (A) For purposes of this subsection (b)(2) (a)(2) {(b)(2)}, a qualifying
+11 taxpayer is any taxpayer whose payroll factor for a taxable year exceeds
+12 200% of the average of the property factor and the sales factor. Whenever
+13 two or more corporations are engaged in a unitary business and required to
+14 file a combined report, the fraction comparison provided by this subsection
+15 (b)(2) (a)(2) {(b)(2)} shall be calculated by using the payroll factor,
+16 property factor and sales factor of the combined group of unitary
+17 corporations.
+18 (B) An election under this subsection (b)(2) (a)(2) {(b)(2)} shall be
+19 made by including a statement with the original tax return indicating that
+20 the taxpayer elects to apply the apportionment method under this
+21 subsection (b)(2)(a)(2) {(b)(2)}. The election shall be effective and
+22 irrevocable for the taxable year of the election and the following nine
+23 taxable years. The election shall be binding on all members of a unitary
+24 group of corporations. Notwithstanding the above, the secretary of revenue
+25 may upon the request of the taxpayer, grant permission to terminate the
+26 election under this subsection (b)(2) (a)(2) {(b)(2)} prior to expiration of
+27 the ten-year period.
+28 (3) At the election of a qualifying telecommunications company, by
+29 multiplying the business income by a fraction, the numerator of which is
+30 the information carrying capacity of wire and fiber optic cable available
+31 for use in this state, and the denominator of which is the information
+32 carrying capacity of wire and fiber optic cable available for use
+33 everywhere during the tax year.
+34 (A) For purposes of this subsection (b)(3) (a)(3) {(b)(3)}, a qualifying
+35 telecommunications company is a telecommunications company that is a
+36 qualifying taxpayer under paragraph (A) of subsection (b)(2) (a)(2)(A) {(b)
+37 (2)(A)}.
+38 (B) A qualifying telecommunications company shall make the
+39 election under this subsection (b)(3) paragraph in the same manner as
+40 provided under paragraph (B) of subsection (b)(2) (a)(2)(B) {(b)(2)(B)}.
+41 (4) At the election of a distressed area taxpayer, by multiplying the
+42 business income by the sales factor. The election shall be made by
+43 including a statement with the original tax return indicating that the
+HB 2336—Am. by HCW 9
+1 taxpayer elects to apply this apportionment method. The election may be
+2 made only once, it must be made on or before December 31, 1999 and it
+3 shall be effective for the taxable year of the election and the following nine
+4 taxable years for so long as the taxpayer maintains the payroll amount
+5 prescribed by subsection (j) of K.S.A. 79-3271(j), and amendments
+6 thereto.
+7 (5) At the election of the taxpayer made at the time of filing of the
+8 original return, the qualifying business income of any investment funds
+9 service corporation organized as a corporation or S corporation which
+10 maintains its primary headquarters and operations or is a branch facility
+11 that employs at least 100 individuals on a full-time equivalent basis in this
+12 state and has any investment company fund shareholders residenced in this
+13 state shall be apportioned to this state as provided in this subsection, as
+14 follows:
+15 (A) By multiplying the investment funds service corporation's
+16 qualifying business income from administration, distribution and
+17 management services provided to each investment company by a fraction,
+18 the numerator of which shall be the average of the number of shares
+19 owned by the investment company's fund shareholders residenced in this
+20 state at the beginning of and at the end of the investment company's
+21 taxable year that ends with or within the investment funds service
+22 corporation's taxable year, and the denominator of which shall be the
+23 average of the number of shares owned by the investment company's fund
+24 shareholders everywhere at the beginning of and at the end of the
+25 investment company's taxable year that ends with or within the investment
+26 funds service corporation's taxable year.
+27 (B) A separate computation shall be made to determine the qualifying
+28 business income from each fund of each investment company. The
+29 qualifying business income from each investment company shall be
+30 multiplied by the fraction calculated pursuant to paragraph (A) for each
+31 fund of such investment company.
+32 (C) The qualifying portion of total business income of an investment
+33 funds service corporation shall be determined by multiplying such total
+34 business income by a fraction, the numerator of which is the gross receipts
+35 from the provision of management, distribution and administration
+36 services to or on behalf of an investment company, and the denominator of
+37 which is the gross receipts of the investment funds service company. To
+38 the extent an investment funds service corporation has business income
+39 that is not qualifying business income, such business income shall be
+40 apportioned to this state pursuant to subsection (b)(1) (a)(1) {(b)(1)}.
+41 (D) For tax year 2002, the tax liability of an investment funds service
+42 corporation that has elected to apportion its business income pursuant to
+43 paragraph (5) shall be increased by an amount equal to 50% of the
+HB 2336—Am. by HCW 10
+1 difference of the amount of such tax liability if determined pursuant to
+2 subsection (b)(1) (a)(1) {(b)(1)} less the amount of such tax liability
+3 determined with regard to paragraph (5).
+4 (E) When an investment funds service corporation is part of a unitary
+5 group, the business income of the unitary group attributable to the
+6 investment funds service corporation shall be determined by multiplying
+7 the business income of the unitary group by a fraction, the numerator of
+8 which is the property factor plus the payroll factor plus the sales factor,
+9 and the denominator of which is three. The property factor is a fraction,
+10 the numerator of which is the average value of the investment funds
+11 service corporation's real and tangible personal property owned or rented
+12 and used during the tax period and the denominator of which is the
+13 average value of the unitary group's real and tangible personal property
+14 owned or rented and used during the tax period. The payroll factor is a
+15 fraction, the numerator of which is the total amount paid during the tax
+16 period by the investment funds service corporation for compensation, and
+17 the denominator of which is the total compensation paid by the unitary
+18 group during the tax period. The sales factor is a fraction, the numerator of
+19 which is the total sales of the investment funds service corporation during
+20 the tax period, and the denominator of which is the total sales of the
+21 unitary group during the tax period.
+22 (F) A taxpayer seeking to make the election available pursuant to
+23 subsection (b)(5) of K.S.A. 79-3279(a)(5), and amendments thereto
+24 {subsection (b)(5)}, shall only be eligible to continue to make such
+25 election if the taxpayer maintains at least 95% of the Kansas employees in
+26 existence at the time the taxpayer first makes such an election.
+27 (6) At the election of a qualifying taxpayer, by multiplying such
+28 taxpayer's business income by the sales factor. The election shall be made
+29 by including a statement with the original tax return indicating that the
+30 taxpayer elects to apply this apportionment method. The election may be
+31 made only once and must be made on or before the last day of the taxable
+32 year during which the investment described in paragraph (A) is placed in
+33 service, but not later than December 31, 2009, and it shall be effective for
+34 the taxable year of the election and the following nine taxable years or for
+35 so long as the taxpayer maintains the wage requirements set forth in
+36 paragraph (A). If the qualifying taxpayer is a member of a unitary group of
+37 corporations, all other members of the unitary group doing business within
+38 this state shall apportion their business income to this state pursuant to
+39 subsection (b)(1) (a)(1) {(b)(1)}.
+40 (A) For purposes of this subsection, a qualifying taxpayer is any
+41 taxpayer making an investment of $100,000,000 for construction in
+42 Kansas of a new business facility identified under the North American
+43 industry classification system (NAICS) subsectors of 31-33, as assigned
+HB 2336—Am. by HCW 11
+1 by the secretary of the department of labor, employing 100 or more new
+2 employees at such facility after July 1, 2007, and prior to December 31,
+3 2009, and meeting the following requirements for paying such employees
+4 higher-than-average wages within the wage region for such facility:
+5 (i) The taxpayer's new Kansas business facility with 500 or fewer
+6 full-time equivalent employees will provide an average wage that is above
+7 the average wage paid by all Kansas business facilities that share the same
+8 assigned NAICS category used to develop wage thresholds and that have
+9 reported 500 or fewer employees to the Kansas department of labor on the
+10 quarterly wage reports;
+11 (ii) the taxpayer's new Kansas business facility with 500 or fewer
+12 full-time equivalent employees is the sole facility within its assigned
+13 NAICS category that has reported wages for 500 or fewer employees to
+14 the Kansas department of labor on the quarterly wage reports;
+15 (iii) the taxpayer's new Kansas business facility with more than 500
+16 full-time equivalent employees will provide an average wage that is above
+17 the average wage paid by all Kansas business facilities that share the same
+18 assigned NAICS category used to develop wage thresholds and that have
+19 reported more than 500 employees to the Kansas department of labor on
+20 the quarterly wage reports;
+21 (iv) the taxpayer's new Kansas business facility with more than 500
+22 full-time equivalent employees is the sole facility within its assigned
+23 NAICS category that has reported wages for more than 500 employees to
+24 the Kansas department of labor on the quarterly wage reports, in which
+25 event it shall either provide an average wage that is above the average
+26 wage paid by all Kansas business facilities that share the same assigned
+27 NAICS category and that have reported wages for 500 or fewer employees
+28 to the Kansas department of labor on the quarterly wage reports, or be the
+29 sole Kansas business facility within its assigned NAICS category that has
+30 reported wages to the Kansas department of labor on the quarterly wage
+31 reports;
+32 (v) the number of NAICS digits to use in developing each set of wage
+33 thresholds for comparison purposes shall be determined by the secretary of
+34 commerce;
+35 (vi) the composition of wage regions used in connection with each set
+36 of wage thresholds shall be determined by the secretary of commerce; and
+37 (vii) alternatively, a taxpayer may wage-qualify its new Kansas
+38 business facility if, after excluding the headcount and wages reported on
+39 the quarterly wage reports to the Kansas department of labor for
+40 employees at that new Kansas business facility who own five percent or
+41 more equity in the taxpayer, the average wage calculated for the taxpayer's
+42 new Kansas business facility is greater than or equal to 1.5 times the
+43 aggregate state-wide average wage paid by industries covered by the
+HB 2336—Am. by HCW 12
+1 employment security law based on data maintained by the secretary of
+2 labor.
+3 (B) For the purposes of the wage requirements in paragraph (A), the
+4 number of full-time equivalent employees shall be determined by dividing
+5 the number of hours worked by part-time employees during the pertinent
+6 measurement interval by an amount equal to the corresponding multiple of
+7 a 40-hour work week and adding the quotient to the average number of
+8 full-time employees.
+9 (C) When the qualifying taxpayer is part of a unitary group, the
+10 business income of the unitary group attributable to the qualifying
+11 taxpayer shall be determined by multiplying the business income of the
+12 unitary group by a fraction, the numerator of which is the property factor
+13 plus the payroll factor plus the sales factor, and the denominator of which
+14 is three. The property factor is a fraction, the numerator of which is the
+15 average value of the qualifying taxpayer's real and tangible personal
+16 property owned or rented and used during the tax period and the
+17 denominator of which is the average value of the unitary group's real and
+18 tangible personal property owned or rented and used during the tax period.
+19 The payroll factor is a fraction, the numerator of which is the total amount
+20 paid during the tax period by the qualifying taxpayer for compensation,
+21 and the denominator of which is the total compensation paid by the unitary
+22 group during the tax period. The sales factor is a fraction, the numerator of
+23 which is the total sales of the qualifying taxpayer during the tax period,
+24 and the denominator of which is the total sales of the unitary group during
+25 the tax period.
+26 (D) For purposes of this subsection, the secretary of revenue, upon a
+27 showing of good cause and after receiving a certification by the secretary
+28 of commerce of substantial compliance with provisions of this subsection
+29 (b)(6) (a)(6) {(b)(6)}, may extend any required performance date provided
+30 in this subsection (b)(6) (a)(6) {(b)(6)} for a period not to exceed six
+31 months.
+32 (b) For tax years commencing on or after January 1, 2025, and
+33 before January 1, 2028, at the election of the taxpayer, all business income
+34 of any other taxpayer may be apportioned to this state by multiplying such
+35 taxpayer's business income by the sales factor. An election under this
+36 subsection shall be made by including a statement with the original tax
+37 return for which the election is made indicating that the taxpayer elects to
+38 apply this apportionment method. The election shall be effective and
+39 irrevocable for the taxable year of the election.
+40 (c){(c)} For tax years commencing on or after January 1, 2028 2027,
+41 all business income shall be apportioned to this state by multiplying the
+42 business income by the sales factor.
+43 (d)(c){(d)} Any taxpayer having previously made an election
+HB 2336—Am. by HCW 13
+1 pursuant to subsection (a)(2) {(b)(2)} shall be permitted to make a new
+2 election pursuant to subsection (b) apportion income through the use of
+3 the single sales factor.
+4 (e)(d){(e)} (1) There shall be allowed as a deduction an amount
+5 computed in accordance with this subsection.
+6 (2) As of July 1, 2025, only publicly traded companies, including
+7 affiliated corporations participating in the filing of a publicly traded
+8 company's financial statements prepared in accordance with generally
+9 accepted accounting principles, shall be eligible for this deduction.
+10 (3) If the provisions of this section result in an aggregate increase in
+11 the taxpayer's net deferred tax liability or an aggregate decrease in the
+12 taxpayer's net deferred tax asset, or an aggregate change from a net
+13 deferred tax asset to a net deferred tax liability, the taxpayer shall be
+14 entitled to a deduction, as determined in this subsection. For the purposes
+15 of this section, the term "taxpayer" includes a unitary group of businesses
+16 that is required to file a combined report. The deferred tax impact
+17 deduction provided under this section for a unitary group of businesses
+18 that is required to file a combined report shall be calculated using unitary
+19 net deferred tax assets and liabilities and deducted against unitary group
+20 income.
+21 (4) A taxpayer shall be entitled to a deferred tax impact deduction
+22 from the taxpayer's net business income before apportionment equal to the
+23 amount necessary to offset the increase in the net deferred tax liability or
+24 decrease in the net deferred tax asset, or aggregate change from a net
+25 deferred tax asset to a net deferred tax liability. Such increase in the net
+26 deferred tax liability, decrease in the net deferred tax asset or the
+27 aggregate change from a net deferred tax asset to a net deferred tax
+28 liability shall be computed based on the change that would result from the
+29 imposition of the single sales factor requirements pursuant to this section,
+30 excluding the deduction provided under this paragraph, as of the end of
+31 the tax year prior to the year in which the taxpayer makes an election or is
+32 required to apportion by the sales factor {tax year} 2025. The amount of
+33 the deduction shall equal the annual deferred tax deduction amount set
+34 forth in paragraph (5).
+35 (5) The annual deferred tax deduction amount shall be calculated as
+36 follows:
+37 (A) The deferred tax impact determined in paragraph (4) shall be
+38 divided by the income tax rate for corporations in effect for the tax year
+39 pursuant to K.S.A. 79-32,110, and amendments thereto;
+40 (B) the resulting amount shall be further divided by the Kansas
+41 apportionment factor that was used by the taxpayer in the calculation of
+42 the deferred tax assets and deferred tax liabilities as provided in this
+43 subsection; and
+HB 2336—Am. by HCW 14
+1 (C) the result multiplied by 1/ shall represent the total net deferred
+10
+2 tax deduction available for the first tax year beginning on or after January
+3 1, 2035, and the next nine successive tax years.
+4 (6) The deduction calculated under paragraph (5) shall not be
+5 adjusted as a result of any events subsequent to such calculation,
+6 including, but not limited to, any disposition or abandonment of assets.
+7 Such deduction shall be calculated without regard to any tax liabilities
+8 under the federal internal revenue code and shall not alter the tax basis of
+9 any asset. If the deduction under this section is greater than the taxpayer's
+10 net business income before apportionment, any excess deduction shall be
+11 carried forward and applied as a deduction for future tax years until fully
+12 utilized.
+13 (7) At the discretion of the taxpayer, the taxpayer shall be allowed to
+14 claim other available tax credits before claiming the deferred tax
+15 deduction calculated under this section. Any deferred tax deduction
+16 calculated under this section not claimed on a return shall be carried
+17 forward and applied as a deduction for future tax years until fully utilized.
+18 (8) Any taxpayer intending to claim a deduction under this subsection
+19 shall file a statement with the secretary on or before July 1, 2028 2027,
+20 specifying the total amount of the deduction that the taxpayer claims on
+21 such form and in such manner as prescribed by the secretary and shall
+22 contain such information or calculations as the secretary may specify. No
+23 deduction shall be allowed under this section for any taxable year except
+24 to the extent claimed in the manner prescribed on or before July 1, 2028
+25 2027.
+26 (9) For purposes of this subsection:
+27 (A) "Net deferred tax liability" means deferred tax liabilities that
+28 exceed the deferred tax assets of the taxpayer, as computed in accordance
+29 with generally accepted accounting principles.
+30 (B) "Net deferred tax asset" means that deferred tax assets exceed the
+31 deferred tax liabilities of the taxpayer, as computed in accordance with
+32 generally accepted accounting principles.
+33 (f) Any manufacturer of alcoholic liquor as defined in K.S.A. 41-
+34 102, and amendments thereto, who sells to a distributor as defined in
+35 K.S.A. 41-102, and amendments thereto, shall be apportioned to this
+36 state by multiplying the business income by a fraction, the numerator
+37 of which is the property factor plus the payroll factor and the sales
+38 factor, and the denominator of which is three.
+39 (g) The amendments made to this section by this act shall apply
+40 commencing on and after January 1, 2025.
+41 Sec. 5. K.S.A. 79-3287 is hereby amended to read as follows: 79-
+42 3287. Sales, other than sales of tangible personal property, are in this state
+43 if:
+HB 2336—Am. by HCW 15
+1 (a) the income-producing activity is performed in this state; or
+2 (b) the income-producing activity is performed both in and outside
+3 this state and a greater proportion of the income-producing activity is
+4 performed in this state than in any other state, based on costs of
+5 performance{:
+6 (a) For tax years commencing before January 1, 2027:
+7 (1) The income-producing activity is performed in this state; or
+8 (2) the income-producing activity is performed both in and
+9 outside this state and a greater proportion of the income-producing
+10 activity is performed in this state than in any other state, based on
+11 costs of performance; and
+12 (b) for tax years commencing after December 31, 2026,} the
+13 taxpayer's market for the sales is in this state. The taxpayer's market for
+14 the sales is in this state if:
+15 (a) (1) In the case of sale of a service, if and to the extent that the
+16 service is delivered to a location in this state;
+17 (2) in the case of intangible property, such property is:
+18 (A) Rented, leased or licensed, if and to the extent that the property is
+19 used in this state, if that intangible property utilized in marketing a good
+20 or service to a consumer is used in this state, provided that such good or
+21 service is purchased by a consumer who is in this state; or
+22 (B) that is sold, if and to the extent the property is used in this state,
+23 if:
+24 (i) A contract right, government license or similar intangible
+25 property that authorizes the holder to conduct a business activity in a
+26 specific geographic area is used in this state if the geographic area
+27 includes all or part of this state; or
+28 (ii) net gains from intangible property sales that are contingent on
+29 the productivity, use or disposition of the intangible property shall be
+30 treated as receipts from the rental, lease or licensing of such intangible
+31 property under paragraph (2)(A);
+32 (3) in the case of interest from a loan:
+33 (A) Secured by real property, if and to the extent the property is
+34 located in this state; or
+35 (B) not secured by real property, if and to the extent the borrower is
+36 located in this state; or
+37 (b){(c)} in the case of dividends, if and to the extent the payor's
+38 commercial domicile is located in this state.
+39 (c){(d)} If the state or states of assignment of receipts under
+40 subsection (a)(1) or (2) cannot be determined, the state or states of
+41 assignment shall be reasonably approximated. If the state or states of
+42 assignment of receipts or net gains cannot be reasonably approximated,
+43 such assignment of receipts shall be excluded from the denominator of the
+HB 2336—Am. by HCW 16
+1 sales factor.
+2 (d){(e)} Notwithstanding the provisions of this section, a
+3 communications service provider may assign sales, other than sales of
+4 tangible personal property, to this state pursuant to this section as it
+5 applied to tax years ending {commencing} before January 1, 2025
+6 {2027}.
+7 (e){(f)} For purposes of this subsection:
+8 (A) "Communications service" means telecommunications service as
+9 defined in K.S.A. 79-3602, and amendments thereto, internet access as
+10 defined in section 1105(5) of the internet tax freedom act, 47 U.S.C. § 151,
+11 note, and cable service as defined in 47 U.S.C. § 522(6), or any
+12 combination thereof.
+13 (B) "Communications service provider" means any person,
+14 corporation, partnership or other entity that provides communications
+15 service in this state.
+16 Sec. 6. K.S.A. 2024 Supp. 79-32,110 is hereby amended to read as
+17 follows: 79-32,110. (a) Resident individuals. Except as otherwise provided
+18 by K.S.A. 79-3220(a), and amendments thereto, a tax is hereby imposed
+19 upon the Kansas taxable income of every resident individual, which tax
+20 shall be computed in accordance with the following tax schedules:
+21 (1) Married individuals filing joint returns.
+22 (A) For tax years 2018 through 2023:
+23 If the taxable income is: The tax is:
+24 Not over $30,000...........................................3.1% of Kansas taxable
+25 income
+26 Over $30,000 but not over $60,000...............$930 plus 5.25% of excess
+27 over $30,000
+28 Over $60,000..................................................$2,505 plus 5.7% of excess
+29 over $60,000
+30
+31 (B) For tax year 2024, and all tax years thereafter:
+32 If the taxable income is: The tax is:
+33 Not over $46,000 5.2% of Kansas taxable
+34 income
+35 Over $46,000..................................................$2,392 plus 5.58% of excess
+36 over $46,000
+37
+38 (2) All other individuals.
+39 (A) For tax years 2018 through 2023:
+40 If the taxable income is: The tax is:
+41 Not over $15,000...........................................3.1% of Kansas taxable
+42 income
+43 Over $15,000 but not over $30,000...............$465 plus 5.25% of excess
+HB 2336—Am. by HCW 17
+1 over $15,000
+2 Over $30,000..................................................$1,252.50 plus 5.7% of
+3 excess over $30,000
+4
+5 (B) For tax year 2024, and all tax years thereafter:
+6 If the taxable income is: The tax is:
+7 Not over $23,000...........................................5.2% of Kansas taxable
+8 income
+9 Over $23,000..................................................$1,196 plus 5.58% of excess
+10 over $23,000
+11
+12 (b) Nonresident individuals. A tax is hereby imposed upon the Kansas
+13 taxable income of every nonresident individual, which tax shall be an
+14 amount equal to the tax computed under subsection (a) as if the
+15 nonresident were a resident multiplied by the ratio of modified Kansas
+16 source income to Kansas adjusted gross income.
+17 (c) Corporations. A tax is hereby imposed upon the Kansas taxable
+18 income of every corporation doing business within this state or deriving
+19 income from sources within this state. Such tax shall consist of a normal
+20 tax and a surtax and shall be computed as follows unless otherwise
+21 modified pursuant to K.S.A. 2024 Supp. 74-50,321 and section 1, and
+22 amendments thereto:
+23 (1) The normal tax shall be in an amount equal to 4% of the Kansas
+24 taxable income of such corporation; and
+25 (2) the surtax shall be in an amount equal to 3% of the Kansas taxable
+26 income of such corporation in excess of $50,000.
+27 (d) Fiduciaries. A tax is hereby imposed upon the Kansas taxable
+28 income of estates and trusts at the rates provided in subsection (a)(2).
+29 (e) Notwithstanding the provisions of subsections (a) and (b), for tax
+30 years 2018 through 2023, married individuals filing joint returns with
+31 taxable income of $5,000 or less, and all other individuals with taxable
+32 income of $2,500 or less, shall have a tax liability of zero.
+33 Sec. 7. K.S.A. 2024 Supp. 79-32,113 is hereby amended to read as
+34 follows: 79-32,113. (a) A person or organization exempt from federal
+35 income taxation under the provisions of the federal internal revenue code
+36 shall also be exempt from the tax imposed by this act in each year in which
+37 such person or organization satisfies the requirements of the federal
+38 internal revenue code for exemption from federal income taxation. If the
+39 exemption applicable to any person or organization under the provisions of
+40 the federal internal revenue code is limited or qualified in any manner, the
+41 exemption from taxes imposed by this article shall be limited or qualified
+42 in a similar manner.
+43 (b) Notwithstanding the provisions of subsection (a), the unrelated
+HB 2336—Am. by HCW 18
+1 business taxable income, as computed under the provisions of the federal
+2 internal revenue code, of any person or organization otherwise exempt
+3 from the tax imposed by this act and subject to the tax imposed on
+4 unrelated business income by the federal internal revenue code shall be
+5 subject to the tax which would have been imposed by this act but for the
+6 provisions of subsection (a).
+7 (c) In addition to the persons or organizations exempt from federal
+8 income taxation under the provision of the federal internal revenue code,
+9 there shall also be exempt from the tax imposed by this act, insurance
+10 companies, banks, trust companies, savings and loan associations, credit
+11 unions and any other organizations, entities or persons specifically exempt
+12 from Kansas income taxation under the laws of the state of Kansas.
+13 (d) Notwithstanding the provisions of K.S.A. 79-32,110, and
+14 amendments thereto, the following entities shall be exempt from the tax
+15 imposed by the Kansas income tax act pursuant to K.S.A. 79-32,110, and
+16 amendments thereto:
+17 (1) Any utility that is a cooperative as defined in K.S.A. 66-104d, and
+18 amendments thereto, or owned by one or more such cooperatives; and
+19 (2) effective for tax years ending on or after January 1, 2021, every
+20 electric and natural gas public utility as defined in K.S.A. 66-104, and
+21 amendments thereto, that is subject to rate regulation by the state
+22 corporation commission.
+23 (e) Every electric and natural gas public utility as defined in K.S.A.
+24 66-104, and amendments thereto, not including any such utility that is a
+25 cooperative as defined in K.S.A. 66-104d, and amendments thereto, or
+26 owned by one or more such cooperatives shall:
+27 (1) Not be permitted to be included in a consolidated or unitary
+28 combined return; and
+29 (2) except as provided in K.S.A. 2024 Supp. 66-1,239, and
+30 amendments thereto, not collect, as a component of such utility's retail
+31 rates, Kansas income tax expenses; and
+32 (3) exclude sales from the sales factor from sales to the affiliated
+33 utility by members in a unitary business group.
+34 {Sec. 8. K.S.A. 79-4301 is hereby amended to read as follows: 79-
+35 4301. "The multistate tax compact" is hereby enacted into law and
+36 entered into with all jurisdictions legally joining therein, in the form
+37 substantially as follows:
+38
+39 MULTISTATE TAX COMPACT
+40 ARTICLE I.—Purposes
+41 The purposes of this compact are to:
+42 (1) Facilitate proper determination of state and local tax liability
+43 of multistate taxpayers, including the equitable apportionment of tax
+HB 2336—Am. by HCW 19
+1 bases and settlement of apportionment disputes.
+2 (2) Promote uniformity or compatibility in significant
+3 components of tax systems.
+4 (3) Facilitate taxpayer convenience and compliance in the filing of
+5 tax returns and in other phases of tax administration.
+6 (4) Avoid duplicative taxation.
+7
+8 ARTICLE II.—Definitions
+9 As used in this compact:
+10 (1) "State" means a state of the United States, the District of
+11 Columbia, the Commonwealth of Puerto Rico, or any territory or
+12 possession of the United States.
+13 (2) "Subdivision" means any governmental unit or special district
+14 of a state.
+15 (3) "Taxpayer" means any corporation, partnership, firm,
+16 association, governmental unit or agency or person acting as a
+17 business entity in more than one state.
+18 (4) "Income tax" means a tax imposed on or measured by net
+19 income including any tax imposed on or measured by an amount
+20 arrived at by deducting expenses from gross income, one or more
+21 forms of which expenses are not specifically and directly related to
+22 particular transactions.
+23 (5) "Capital stock tax" means a tax measured in any way by the
+24 capital of a corporation considered in its entirety.
+25 (6) "Gross receipts tax" means a tax, other than a sales tax,
+26 which is imposed on or measured by the gross volume of business, in
+27 terms of gross receipts or in other terms, and in the determination of
+28 which no deduction is allowed which would constitute the tax an
+29 income tax.
+30 (7) "Sales tax" means a tax imposed with respect to the transfer
+31 for a consideration of ownership, possession or custody of tangible
+32 personal property or the rendering of services measured by the price
+33 of the tangible personal property transferred or services rendered and
+34 which is required by state or local law to be separately stated from the
+35 sales price by the seller, or which is customarily separately stated from
+36 the sales price, but does not include a tax imposed exclusively on the
+37 sale of a specifically identified commodity or article or class of
+38 commodities or articles.
+39 (8) "Use tax" means a nonrecurring tax, other than a sales tax,
+40 which (a) is imposed on or with respect to the exercise or enjoyment of
+41 any right or power over tangible personal property incident to the
+42 ownership, possession or custody of that property or the leasing of
+43 that property from another including any consumption, keeping,
+HB 2336—Am. by HCW 20
+1 retention, or other use of tangible personal property and (b) is
+2 complimentary to a sales tax.
+3 (9) "Tax" means an income tax, capital stock tax, gross receipts
+4 tax, sales tax, use tax, and any other tax which has a multistate
+5 impact, except that the provisions of articles III, IV and V of this
+6 compact shall apply only to the taxes specifically designated therein
+7 and the provisions of article IX of this compact shall apply only in
+8 respect to determinations pursuant to article IV.
+9
+10 ARTICLE III.—Elements of Income Tax Laws
+11 (1) Taxpayer option, state and local taxes. Any taxpayer subject to
+12 an income tax whose income is subject to apportionment and
+13 allocation for tax purposes pursuant to the laws of a party state or
+14 pursuant to the laws of subdivisions in two or more party states may
+15 elect to apportion and allocate his income in the manner provided by
+16 the laws of such state or by the laws of such states and subdivisions
+17 without reference to this compact, or may elect to apportion and
+18 allocate in accordance with article IV, except that for tax years
+19 commencing on or after January 1, 2027, any taxpayer subject to the tax
+20 imposed by K.S.A. 79-32,110(c), and amendments thereto, shall apportion
+21 and allocate in accordance with article 32 of chapter 79 of the Kansas
+22 Statutes Annotated, and amendments thereto, and shall not apportion or
+23 allocate in accordance with article IV. This election for any tax year may
+24 be made in all party states or subdivisions thereof or in any one or
+25 more of the party states or subdivisions thereof without reference to
+26 the election made in the others. For the purposes of this paragraph,
+27 taxes imposed by subdivisions shall be considered separately from
+28 state taxes and the apportionment and allocation also may be applied
+29 to the entire tax base. In no instance wherein article IV is employed
+30 for all subdivisions of a state may the sum of all apportionments and
+31 allocations to subdivisions within a state be greater than the
+32 apportionment and allocation that would be assignable to that state if
+33 the apportionment or allocation were being made with respect to a
+34 state income tax.
+35 (2) Taxpayer option, short form. Each party state or any
+36 subdivision thereof which imposes an income tax shall provide by law
+37 that any taxpayer required to file a return, whose only activities within
+38 the taxing jurisdiction consist of sales and do not include owning or
+39 renting real estate or tangible personal property, and whose dollar
+40 volume of gross sales made during the tax year within the state or
+41 subdivision, as the case may be, is not in excess of $100,000 may elect
+42 to report and pay any tax due on the basis of a percentage of such
+43 volume, and shall adopt rates which shall produce a tax which
+HB 2336—Am. by HCW 21
+1 reasonably approximates the tax otherwise due. The multistate tax
+2 commission, not more than once in five years, may adjust the $100,000
+3 figure in order to reflect such changes as may occur in the real value
+4 of the dollar, and such adjusted figure, upon adoption by the
+5 commission, shall replace the $100,000 figure specifically provided
+6 herein. Each party state and subdivision thereof may make the same
+7 election available to taxpayers additional to those specified in this
+8 paragraph.
+9 (3) Coverage. Nothing in this article relates to the reporting or
+10 payment of any tax other than in income tax.
+11
+12 ARTICLE IV.—Division of Income
+13 (1) As used in this article, unless the context otherwise requires:
+14 (a) "Business income" means income arising from transactions
+15 and activity in the regular course of the taxpayer's trade or business
+16 and includes income from tangible and intangible property if the
+17 acquisition, management, and disposition of the property constitute
+18 integral parts of the taxpayer's regular trade or business operations.
+19 (b) "Commercial domicile" means the principal place from which
+20 the trade or business of the taxpayer is directed or managed.
+21 (c) "Compensation" means wages, salaries, commissions and any
+22 other form of remuneration paid to employees for personal services.
+23 (d) "Financial organization" means any bank, trust company,
+24 savings bank, industrial bank, land bank, safe deposit company,
+25 private banker, savings and loan association, credit union, cooperative
+26 bank, small loan company, sales finance company, investment
+27 company, or any type of insurance company.
+28 (e) "Nonbusiness income" means all income other than business
+29 income.
+30 (f) "Public utility" means any business entity (1) which owns or
+31 operates any plant, equipment, property, franchise, or license for the
+32 transmission of communications, transportation of goods or persons,
+33 except by pipeline, or the production, transmission, sale, delivery, or
+34 furnishing of electricity, water or steam; and (2) whose rates of
+35 charges for goods or services have been established or approved by a
+36 federal, state or local government or governmental agency.
+37 (g) "Sales" means all gross receipts of the taxpayer not allocated
+38 under paragraphs of this article.
+39 (h) "State" means any state of the United States, the District of
+40 Columbia, the Commonwealth of Puerto Rico, any territory or
+41 possession of the United States, and any foreign country or political
+42 subdivision thereof.
+43 (i) "This state" means the state in which the relevant tax return is
+HB 2336—Am. by HCW 22
+1 filed or, in the case of application of this article to the apportionment
+2 and allocation of income for local tax purposes, the subdivision or
+3 local taxing district in which the relevant tax return is filed.
+4 (2) Any taxpayer having income from business activity which is
+5 taxable both within and without this state, other than activity as a
+6 financial organization or public utility or the rendering of purely
+7 personal services by an individual, shall allocate and apportion his net
+8 income as provided in this article. If a taxpayer has income from
+9 business activity as a public utility but derives the greater percentage
+10 of his income from activities subject to this article, the taxpayer may
+11 elect to allocate and apportion his entire net income as provided in this
+12 article.
+13 (3) For purposes of allocation and apportionment of income
+14 under this article, a taxpayer is taxable in another state if (1) in that
+15 state he is subject to a net income tax, a franchise tax measured by net
+16 income, a franchise tax for the privilege of doing business, or a
+17 corporate stock tax, or (2) that state has jurisdiction to subject the
+18 taxpayer to a net income tax regardless of whether, in fact, the state
+19 does or does not.
+20 (4) Rents and royalties from real or tangible personal property,
+21 capital gains, interest, dividends or patent or copyright royalties, to
+22 the extent that they constitute nonbusiness income, shall be allocated
+23 as provided in paragraphs 5 through 8 of this article.
+24 (5) (a) Net rents and royalties from real property located in this
+25 state are allocable to this state.
+26 (b) Net rents and royalties from tangible personal property are
+27 allocable to this state: (1) If and to the extent that the property is
+28 utilized in this state, or (2) in their entirety if the taxpayer's
+29 commercial domicile is in this state and the taxpayer is not organized
+30 under the laws of or taxable in the state in which the property is
+31 utilized.
+32 (c) The extent of utilization of tangible personal property in a
+33 state is determined by multiplying the rents and royalties by a
+34 fraction, the numerator of which is the number of days of physical
+35 location of the property in the state during the rental or royalty period
+36 in the taxable year and the denominator of which is the number of
+37 days of physical location of the property everywhere during all rental
+38 or royalty periods in the taxable year. If the physical location of the
+39 property during the rental or royalty period is unknown or
+40 unascertainable by the taxpayer, tangible personal property is utilized
+41 in the state in which the property was located at the time the rental or
+42 royalty payer obtained possession.
+43 (6) (a) Capital gains and losses from sales of real property located
+HB 2336—Am. by HCW 23
+1 in this state are allocable to this state.
+2 (b) Capital gains and losses from sales of tangible personal
+3 property are allocable to this state if (1) the property had a situs in
+4 this state at the time of the sale, or (2) the taxpayer's commercial
+5 domicile is in this state and the taxpayer is not taxable in the state in
+6 which the property had a situs.
+7 (c) Capital gains and losses from sales of intangible personal
+8 property are allocable to this state if the taxpayer's commercial
+9 domicile is in this state.
+10 (7) Interest and dividends are allocable to this state if the
+11 taxpayer's commercial domicile is in this state.
+12 (8) (a) Patent and copyright royalties are allocable to this state:
+13 (1) If and to the extent that the patent or copyright is utilized by the
+14 payer in this state, or (2) if and to the extent that the patent copyright
+15 is utilized by the payer in a state in which the taxpayer is not taxable
+16 and the taxpayer's commercial domicile is in this state.
+17 (b) A patent is utilized in a state to the extent that it is employed
+18 in production, fabrication, manufacturing, or other processing in the
+19 state or to the extent that a patented product is produced in the state.
+20 If the basis of receipts from patent royalties does not permit allocation
+21 to states or if the accounting procedures do not reflect states of
+22 utilization, the patent is utilized in the state in which the taxpayer's
+23 commercial domicile is located.
+24 (c) A copyright is utilized in a state to the extent that printing or
+25 other publication originates in the state. If the basis of receipts from
+26 copyright royalties does not permit allocation to states or if the
+27 accounting procedures do not reflect states of utilization, the copyright
+28 is utilized in the state in which the taxpayer's commercial domicile is
+29 located.
+30 (9) All business income shall be apportioned to this state by
+31 multiplying the income by a fraction, the numerator of which is the
+32 property factor plus the payroll factor plus the sales factor, and the
+33 denominator of which is three.
+34 (10) The property factor is a fraction, the numerator of which is
+35 the average value of the taxpayer's real and tangible personal
+36 property owned or rented and used in this state during the tax period
+37 and the denominator of which is the average value of all the taxpayer's
+38 real and tangible personal property owned or rented and used during
+39 the tax period.
+40 (11) Property owned by the taxpayer is valued at its original cost.
+41 Property rented by the taxpayer is valued at eight times the net annual
+42 rental rate. Net annual rental rate is the annual rental rate paid by the
+43 taxpayer less any annual rental rate received by the taxpayer from
+HB 2336—Am. by HCW 24
+1 subrentals.
+2 (12) The average value of property shall be determined by
+3 averaging the values at the beginning and ending of the tax period but
+4 the tax administrator may require the averaging of monthly values
+5 during the tax period if reasonably required to reflect properly the
+6 average value of the taxpayer's property.
+7 (13) The payroll factor is a fraction, the numerator of which is the
+8 total amount paid in this state during the tax period by the taxpayer
+9 for compensation and the denominator of which is the total
+10 compensation paid everywhere during the tax period.
+11 (14) Compensation is paid in this state if:
+12 (a) The individual's service is performed entirely within the state;
+13 (b) The individual's service is performed both within and without
+14 the state, but the service performed without the state is incidental to
+15 the individual's service within the state; or
+16 (c) Some of the service is performed in the state and (1) the base
+17 of operations or, if there is no base of operations, the place from which
+18 the service is directed or controlled is in the state, or (2) the base of
+19 operations or the place from which the service is directed or controlled
+20 is not in any state in which some part of the service is performed, but
+21 the individual's residence is in this state.
+22 (15) The sales factor is a fraction, the numerator of which is the
+23 total sales of the taxpayer in this state during the tax period, and the
+24 denominator of which is the total sales of the taxpayer everywhere
+25 during the tax period.
+26 (16) Sales of tangible personal property are in this state if:
+27 (a) The property is delivered or shipped to a purchaser, other
+28 than the United States government, within this state regardless of the
+29 f.o.b. point or other conditions of the sale; or
+30 (b) The property is shipped from an office, store, warehouse,
+31 factory, or other place of storage in this state and (1) the purchaser is
+32 the United States government or (2) the taxpayer is not taxable in the
+33 state of the purchaser.
+34 (17) Sales, other than sales of tangible personal property, are in
+35 this state if:
+36 (a) The income-producing activity is performed in this state; or
+37 (b) The income-producing activity is performed both in and
+38 outside this state and a greater proportion of the income-producing
+39 activity is performed in this state than in any other state, based on
+40 costs of performance.
+41 (18) If the allocation and apportionment provisions of this article
+42 do not fairly represent the extent of the taxpayer's business activity in
+43 this state, the taxpayer may petition for or the tax administrator may
+HB 2336—Am. by HCW 25
+1 require, in respect to all or any part of the taxpayer's business activity,
+2 if reasonable:
+3 (a) Separate accounting;
+4 (b) The exclusion of any one or more of the factors;
+5 (c) The inclusion of one or more additional factors which will
+6 fairly represent the taxpayer's business activity in this state; or
+7 (d) The employment of any other method to effectuate an
+8 equitable allocation and apportionment of the taxpayer's income.
+9
+10 ARTICLE V.—Elements of Sales and Use Tax Laws
+11 (1) Tax credit. Each purchaser liable for a use tax on tangible
+12 personal property shall be entitled to full credit for the combined
+13 amount or amounts of legally imposed sales or use taxes paid by him
+14 with respect to the same property to another state and any subdivision
+15 thereof. The credit shall be applied first against the amount of any use
+16 tax due the state, and any unused portion of the credit shall then be
+17 applied against the amount of any use tax due a subdivision.
+18 (2) Exemption certificates, vendors may rely. Whenever a vendor
+19 receives and accepts in good faith from a purchaser a resale or other
+20 exemption certificate or other written evidence of exemption
+21 authorized by the appropriate state or subdivision taxing authority,
+22 the vendor shall be relieved of liability for a sales or use tax with
+23 respect to the transaction.
+24
+25 ARTICLE VI.—The Commission
+26 (1) Organization and management. (a) The multistate tax
+27 commission is hereby established. It shall be composed of one
+28 "member" from each party state who shall be the head of the state
+29 agency charged with the administration of the types of taxes to which
+30 this compact applies. If there is more than one such agency the state
+31 shall provide by law for the selection of the commission member from
+32 the heads of the relevant agencies. State law may provide that a
+33 member of the commission be represented by an alternate but only if
+34 there is on file with the commission written notification of the
+35 designation and identity of the alternate. The attorney general of each
+36 party state or his designee, or other counsel if the laws of the party
+37 state specifically provide, shall be entitled to attend the meetings of the
+38 commission, but shall not vote. Such attorneys general, designees, or
+39 other counsel shall receive all notices of meetings required under
+40 paragraph (1) (e) of this article.
+41 (b) Each party state shall provide by law for the selection of
+42 representatives from its subdivisions affected by this compact to
+43 consult with the commission member from that state.
+HB 2336—Am. by HCW 26
+1 (c) Each member shall be entitled to one vote. The commission
+2 shall not act unless a majority of the members are present, and no
+3 action shall be binding unless approved by a majority of the total
+4 number of members.
+5 (d) The commission shall adopt an official seal to be used as it
+6 may provide.
+7 (e) The commission shall hold an annual meeting and such other
+8 regular meetings as its bylaws may provide and such special meetings
+9 as its executive committee may determine. The commission bylaws
+10 shall specify the dates of the annual and any other regular meetings,
+11 and shall provide for the giving of notice of annual, regular and
+12 special meetings. Notices of special meetings shall include the reasons
+13 therefor and an agenda of the items to be considered.
+14 (f) The commission shall elect annually, from among its members,
+15 a chairman, a vice-chairman and a treasurer. The commission shall
+16 appoint an executive director who shall serve at its pleasure, and it
+17 shall fix his duties and compensation. The executive director shall be
+18 secretary of the commission. The commission shall make provision for
+19 the bonding of such of its officers and employees as it may deem
+20 appropriate.
+21 (g) Irrespective of the civil service, personnel or other merit
+22 system laws of any party state, the executive director shall appoint or
+23 discharge such personnel as may be necessary for the performance of
+24 the functions of the commission and shall fix their duties and
+25 compensation. The commission bylaws shall provide for personnel
+26 policies and programs.
+27 (h) The commission may borrow, accept or contract for the
+28 services of personnel from any state, the United States, or any other
+29 governmental entity.
+30 (i) The commission may accept for any of its purposes and
+31 functions any and all donations and grants of money, equipment,
+32 supplies, materials and services, conditional or otherwise, from any
+33 governmental entity, and may utilize and dispose of the same.
+34 (j) The commission may establish one or more offices for the
+35 transacting of its business.
+36 (k) The commission shall adopt bylaws for the conduct of its
+37 business. The commission shall publish its bylaws in convenient form,
+38 and shall file a copy of the bylaws and any amendments thereto with
+39 the appropriate agency or officer in each of the party states.
+40 (l) The commission annually shall make to the governor and
+41 legislature of each party state a report covering its activities for the
+42 preceding year. Any donation or grant accepted by the commission or
+43 services borrowed shall be reported in the annual report of the
+HB 2336—Am. by HCW 27
+1 commission, and shall include the nature, amount and conditions, if
+2 any, of the donation, gift, grant or services borrowed and the identity
+3 of the donor or lender. The commission may make additional reports
+4 as it may deem desirable.
+5 (2) Committees. (a) To assist in the conduct of its business when
+6 the full commission is not meeting, the commission shall have an
+7 executive committee of seven members, including the chairman, vice-
+8 chairman, treasurer and four other members elected annually by the
+9 commission. The executive committee, subject to the provisions of this
+10 compact and consistent with the policies of the commission, shall
+11 function as provided in the laws of the commission.
+12 (b) The commission may establish advisory and technical
+13 committees, membership on which may include private persons and
+14 public officials, in furthering any of its activities. Such committees
+15 may consider any matter of concern to the commission, including
+16 problems of special interest to any party state and problems dealing
+17 with particular types of taxes.
+18 (c) The commission may establish such additional committees as
+19 its bylaws may provide.
+20 (3) Powers. In addition to powers conferred elsewhere in this
+21 compact, the commission shall have power to:
+22 (a) Study state and local tax systems and particular types of state
+23 and local taxes.
+24 (b) Develop and recommend proposals for an increase in
+25 uniformity or compatibility of state and local tax laws with a view
+26 toward encouraging the simplification and improvement of state and
+27 local tax law and administration.
+28 (c) Compile and publish information as in its judgment would
+29 assist the party states in implementation of the compact and taxpayers
+30 in complying with state and local tax laws.
+31 (d) Do all things necessary and incidental to the administration of
+32 its functions pursuant to this compact.
+33 (4) Finance. (a) The commission shall submit to the governor or
+34 designated officer or officers of each party state a budget of its
+35 estimated expenditures for such period as may be required by the laws
+36 of that state for presentation to the legislature thereof.
+37 (b) Each of the commission's budget of estimated expenditures
+38 shall contain specific recommendations of the amounts to be
+39 appropriated by each of the party states. The total amount of
+40 appropriations requested under any such budget shall be apportioned
+41 among the party states as follows: One-tenth in equal shares; and the
+42 remainder in proportion of the amount of revenue collected by each
+43 party state and its subdivisions from income taxes, capital stock taxes,
+HB 2336—Am. by HCW 28
+1 gross receipts taxes, sales and use taxes. In determining such amounts,
+2 the commission shall employ such available public sources of
+3 information as, in its judgment, present the most equitable and
+4 accurate comparisons among the party states. Each of the
+5 commission's budgets of estimated expenditures and requests for
+6 appropriations shall indicate the sources used in obtaining
+7 information employed in applying the formula contained in this
+8 paragraph.
+9 (c) The commission shall not pledge the credit of any party state.
+10 The commission may meet any of its obligations in whole or in part
+11 with funds available to it under paragraph (1) (i) of this article:
+12 Provided, That the commission takes specific action setting aside such
+13 funds prior to incurring any obligation to be met in whole or in part in
+14 such manner. Except where the commission makes use of funds
+15 available to it under paragraph (1) (i), the commission shall not incur
+16 any obligation prior to the allotment of funds by the party states
+17 adequate to meet the same.
+18 (d) The commission shall keep accurate accounts of all receipts
+19 and disbursements. The receipts and disbursements of the commission
+20 shall be subject to the audit and accounting procedures established
+21 under its bylaws. All receipts and disbursements of funds handled by
+22 the commission shall be audited yearly by a certified or licensed public
+23 accountant and the report of the audit shall be included in and become
+24 part of the annual report of the commission.
+25 (e) The accounts of the commission shall be open at any
+26 reasonable time for inspection by duly constituted officers of the party
+27 states and by any persons authorized by the commission.
+28 (f) Nothing contained in this article shall be construed to prevent
+29 commission compliance with laws relating to audit or inspection of
+30 accounts by or on behalf of any government contributing to the
+31 support of the commission.
+32
+33 ARTICLE VII.—Uniform Regulations and Forms
+34 (1) Whenever any two or more party states, or subdivisions of
+35 party states, have uniform or similar provisions of law relating to an
+36 income tax, capital stock tax, gross receipts tax, sales or use tax, the
+37 commission may adopt uniform regulations for any phase of the
+38 administration of such law, including assertion of jurisdiction to tax,
+39 or prescribing uniform tax forms. The commission may also act with
+40 respect to the provisions of article IV of this compact.
+41 (2) Prior to the adoption of any regulation, the commission shall:
+42 (a) As provided in its bylaws, hold at least one public hearing on
+43 due notice to all affected party states and subdivisions thereof and to
+HB 2336—Am. by HCW 29
+1 all taxpayers and other persons who have made timely request of the
+2 commission for advance notice of its regulation-making proceedings.
+3 (b) Afford all affected party states and subdivisions and
+4 interested persons an opportunity to submit relevant written data and
+5 views, which shall be considered fully by the commission.
+6 (3) The commission shall submit any regulations adopted by it to
+7 the appropriate officials of all party states and subdivisions to which
+8 they might apply. Each such state and subdivision shall consider any
+9 such regulation for adoption in accordance with its own laws and
+10 procedures.
+11
+12 ARTICLE VIII.—Interstate Audits
+13 (1) This article shall be in force only in those party states that
+14 specifically provide therefor by statute.
+15 (2) Any party state or subdivision thereof desiring to make or
+16 participate in an audit of any accounts, books, papers, records or
+17 other documents may request the commission to perform the audit on
+18 its behalf. In responding to the request, the commission shall have
+19 access to and may examine, at any reasonable time, such accounts,
+20 books, papers, records, and other documents and any relevant
+21 property or stock of merchandise. The commission may enter into
+22 agreements with party states or their subdivisions for assistance in
+23 performance of the audit. The commission shall make charges, to be
+24 paid by the state or local government or governments for which it
+25 performs the service, for any audits performed by it in order to
+26 reimburse itself for the actual costs incurred in making the audit.
+27 (3) The commission may require the attendance of any person
+28 within the state where it is conducting an audit or part thereof at a
+29 time and place fixed by it within such state for the purpose of giving
+30 testimony with respect to any account, book, paper, document, other
+31 record, property or stock of merchandise being examined in
+32 connection with the audit. If the person is not within the jurisdiction,
+33 he may be required to attend for such purpose at any time and place
+34 fixed by the commission within the state of which he is a resident:
+35 Provided, That such state has adopted this article.
+36 (4) The commission may apply to any court having power to issue
+37 compulsory process for orders in aid of its powers and responsibilities
+38 pursuant to this article and any and all such courts shall have
+39 jurisdiction to issue such orders. Failure of any person to obey any
+40 such order shall be punishable as contempt of the issuing court. If the
+41 party or subject matter on account of which the commission seeks an
+42 order is within the jurisdiction of the court to which application is
+43 made, such application may be to a court in the state or subdivision on
+HB 2336—Am. by HCW 30
+1 behalf of which the audit is being made or a court in the state in which
+2 the object of the order being sought is situated. The provisions of this
+3 paragraph apply only to courts in a state that has adopted this article.
+4 (5) The commission may decline to perform any audit requested
+5 if it finds that its available personnel or other resources are
+6 insufficient for the purpose or that, in the terms requested, the audit is
+7 impracticable of satisfactory performance. If the commission, on the
+8 basis of its experience, has reason to believe that an audit of a
+9 particular taxpayer, either at a particular time or on a particular
+10 schedule, would be of interest to a number of party states or their
+11 subdivisions, it may offer to make the audit or audits, the offer to be
+12 contingent on sufficient participation therein as determined by the
+13 commission.
+14 (6) Information obtained by any audit pursuant to this article
+15 shall be confidential and available only for tax purposes to party
+16 states, their subdivisions or the United States. Availability of
+17 information shall be in accordance with the laws of the states or
+18 subdivisions on whose account the commission performs the audit,
+19 and only through the appropriate agencies or officers of such states or
+20 subdivisions. Nothing in this article shall be construed to require any
+21 taxpayer to keep records for any period not otherwise required by law.
+22 (7) Other arrangements made or authorized pursuant to law for
+23 cooperative audit by or on behalf of the party states or any of their
+24 subdivisions are not superseded or invalidated by this article.
+25 (8) In no event shall the commission make any charge against a
+26 taxpayer for an audit.
+27 (9) As used in this article, "tax," in addition to the meaning
+28 ascribed to it in article II, means any tax or license fee imposed in
+29 whole or in part for revenue purposes.
+30
+31 ARTICLE IX.—Arbitration
+32 (1) Whenever the commission finds a need for settling disputes
+33 concerning apportionments and allocations by arbitration, it may
+34 adopt a regulation placing this article in effect, notwithstanding the
+35 provisions of article VII.
+36 (2) The commission shall select and maintain an arbitration panel
+37 composed of officers and employees of state and local governments
+38 and private persons who shall be knowledgeable and experienced in
+39 matters of tax law and administration.
+40 (3) Whenever a taxpayer who has elected to employ article IV, or
+41 whenever the laws of the party state or subdivision thereof are
+42 substantially identical with the relevant provisions of article IV, the
+43 taxpayer, by written notice to the commission and to each party state
+HB 2336—Am. by HCW 31
+1 or subdivision thereof that would be affected, may secure arbitration
+2 of an apportionment or allocation, if he is dissatisfied with the final
+3 administrative determination of the tax agency of the state or
+4 subdivision with respect thereto on the ground that it would subject
+5 him to double or multiple taxation by two or more party states or
+6 subdivisions thereof. Each party state and subdivision thereof hereby
+7 consents to the arbitration as provided herein, and agrees to be bound
+8 thereby.
+9 (4) The arbitration board shall be composed of one person
+10 selected by the taxpayer, one by the agency or agencies involved, and
+11 one member of the commission's arbitration panel. If the agencies
+12 involved are unable to agree on the person to be selected by them,
+13 such person shall be selected by lot from the total membership of the
+14 arbitration panel. The two persons selected for the board in the
+15 manner provided by the foregoing provisions of this paragraph shall
+16 jointly select the third member of the board. If they are unable to
+17 agree on the selection, the third member shall be selected by lot from
+18 among the total membership of the arbitration panel. No member of a
+19 board selected by lot shall be qualified to serve if he is an officer or
+20 employee or is otherwise affiliated with any party to the arbitration
+21 proceeding. Residence within the jurisdiction of a party to the
+22 arbitration proceeding shall not constitute affiliation within the
+23 meaning of this paragraph.
+24 (5) The board may sit in any state or subdivision party to the
+25 proceeding, in the state of the taxpayer's incorporation, residence or
+26 domicile, in any state where the taxpayer does business, or in any
+27 place that it finds most appropriate for gaining access to evidence
+28 relevant to the matter before it.
+29 (6) The board shall give due notice of the times and places of its
+30 hearings. The parties shall be entitled to be heard, to present evidence,
+31 and to examine and cross-examine witnesses. The board shall act by
+32 majority vote.
+33 (7) The board shall have power to administer oaths, take
+34 testimony, subpoena and require the attendance of witnesses and the
+35 production of accounts, books, papers, records, and other documents,
+36 and issue commissions to take testimony. Subpoenas may be signed by
+37 any member of the board. In case of failure to obey a subpoena, and
+38 upon application by the board, any judge of a court of competent
+39 jurisdiction of the state in which the board is sitting or in which the
+40 person to whom the subpoena is directed may be found may make an
+41 order requiring compliance with the subpoena, and the court may
+42 punish failure to obey the order as a contempt. The provisions of this
+43 paragraph apply only in states that have adopted this article.
+HB 2336—Am. by HCW 32
+1 (8) Unless the parties otherwise agree the expenses and other
+2 costs of the arbitration shall be assessed and allocated among the
+3 parties by the board in such manner as it may determine. The
+4 commission shall fix a schedule of compensation for members of
+5 arbitration boards and of other allowable expenses and costs. No
+6 officer or employee of a state or local government who serves as a
+7 member of a board shall be entitled to compensation therefor unless
+8 he is required on account of his service to forego the regular
+9 compensation attaching to his public employment, but any such board
+10 member shall be entitled to expenses.
+11 (9) The board shall determine the disputed apportionment or
+12 allocation and any matters necessary thereto. The determinations of
+13 the board shall be final for purposes of making the apportionment or
+14 allocation, but for no other purpose.
+15 (10) The board shall file with the commission and with each tax
+16 agency represented in the proceeding: The determination of the
+17 board; the board's written statement of its reasons therefor; the
+18 record of the board's proceedings; and any other documents required
+19 by the arbitration rules of the commission to be filed.
+20 (11) The commission shall publish the determinations of boards
+21 together with the statements of the reasons therefor.
+22 (12) The commission shall adopt and publish rules of procedure
+23 and practice and shall file a copy of such rules and of any amendment
+24 thereto with the appropriate agency or officer in each of the party
+25 states.
+26 (13) Nothing contained herein shall prevent at any time a written
+27 compromise of any matter or matters in dispute, if otherwise lawful,
+28 by the parties to the arbitration proceeding.
+29
+30 ARTICLE X.—Entry Into Force and Withdrawal
+31 (1) This compact shall enter into force when enacted into law by
+32 any seven states. Thereafter, this compact shall become effective as to
+33 any other state upon its enactment thereof. The commission shall
+34 arrange for notification of all party states whenever there is a new
+35 enactment of the compact.
+36 (2) Any party state may withdraw from this compact by enacting
+37 a statute repealing the same. No withdrawal shall affect any liability
+38 already incurred by or chargeable to a party state prior to the time of
+39 such withdrawal.
+40 (3) No proceeding commenced before an arbitration board prior
+41 to the withdrawal of a state and to which the withdrawing state or any
+42 subdivision thereof is a party shall be discontinued or terminated by
+43 the withdrawal, nor shall the board thereby lose jurisdiction over any
+HB 2336—Am. by HCW 33
+1 of the parties to the proceeding necessary to make a binding
+2 determination therein.
+3
+4 ARTICLE XI.—Effect on Other Laws and Jurisdiction
+5 Nothing in this compact shall be construed to:
+6 (a) Affect the power of any state or subdivision thereof to fix rates
+7 of taxation, except that a party state shall be obligated to implement
+8 article III (2) of this compact.
+9 (b) Apply to any tax or fixed fee imposed for the registration of a
+10 motor vehicle or any tax on motor fuel, other than a sales tax:
+11 Provided, That the definition of "tax" in article VIII (9) may apply for
+12 the purposes of that article and the commission's powers of study and
+13 recommendation pursuant to article VI (3) may apply.
+14 (c) Withdraw or limit the jurisdiction of any state or local court
+15 or administrative officer or body with respect to any person,
+16 corporation or other entity or subject matter, except to the extent that
+17 such jurisdiction is expressly conferred by or pursuant to this compact
+18 upon another agency or body.
+19 (d) Supersede or limit the jurisdiction of any court of the United
+20 States.
+21
+22 ARTICLE XII.—Construction and Severability
+23 This compact shall be liberally construed so as to effectuate the
+24 purposes thereof. The provisions of this compact shall be severable
+25 and if any phrase, clause, sentence or provision of this compact is
+26 declared to be contrary to the constitution of any state or of the United
+27 States or the applicability thereof to any government, agency, person
+28 or circumstance is held invalid, the validity of the remainder of this
+29 compact and the applicability thereof to any government, agency,
+30 person or circumstance shall not be affected thereby. If this compact
+31 shall be held contrary to the constitution of any state participating
+32 therein, the compact shall remain in full force and effect as to the
+33 remaining party states and in full force and effect as to the state
+34 affected as to all severable matters.}
+35 Sec. 8. {9.} K.S.A. 79-1129, 79-3271, 79-3279 and, 79-3287 {and
+36 79-4301} and K.S.A. 2024 Supp. 79-32,110 and 79-32,113 are hereby
+37 repealed.
+38 Sec. 9. {10.} This act shall take effect and be in force from and after
+39 its publication in the statute book.
+[DELETED: Apfr pt{tsc0p1b2K3K4s6B7N829l0a1t2p3s4o5ce ie tx re pt to K. 7, a6a7t8c9{0a1s2s3(]
+[DELETED: Wi o {cS1wani70o1P2e3c4t5i6t pt f is , pl ad s t s rd t i7a8(920(l bs i, ie wh is ie in t1a2mg sh ie by te at p. T3a4f5f a a6p7t8t9te fs ae m, te rg fr is te a0p1z2(3e4i5a6K7(8a9i0T1e2c3(]
+[DELETED: Wbb(l a(ftr(0(1(2r3(4a5(6ie e o a u gp f fl  t7f8i9(0a1(2a3c4a5(6t7t8d9e0o1t2d3t4n5i6(7f8a9d0d1d2a3l]
+[DELETED: Wietrtf(f(0d1t2a3(4a5t6s7( / 8t910(1as t f s t 2i3S4u5a6n7c8u9(0cm or ae tx cs be cg te dd t1d2c3f4(5s6s7s8b9s0f1o2(3(]
+[DELETED: Wew(dgS3yi0t1i2p3o4b5"s 6a7i8i9b0s1t2bs 3e4t5u6(7t8(9o0(1b2s3o4b5b6c7(8i9( w t o0o1l2p, or te p, s, t, s, d, o3f]
+[DELETED: W(or(au(Co0t1(2uy gp of es we py bs ay is t3t4f5(6l7p8s9i0c1m2(37 74t5(6a7p8f9(n s" ie te ss of a0s1c2o3a4o5e6s7o8p9a0(1f2o3i]
+[DELETED: Ws(ods s mit cy or fm t, ss ad ps oe(t s" ie te rg of ia0a1c2i3a4(5p6a7(r a pn tt hs ed io sh ct wh t8i9(0p1bf of an it cy or fm t, ss a2ps of ee bt ps wh he as in a3i4(5S637ps or py fe sl be ad to ts se b8m9nr of wh is te ft cr ms in ts se ad t0d1o2m3n {4b5m6t7o8se ad te dr of wh is te ft cr m9ee a, in te ce of ie mr c, t0n1a2e3(]
+[DELETED: Watm(oa(bf0(1t223t4f5( ( { s6p fr ad ss fr of te cd gp o u7c8(9m0te tr es to ay te at md ur t1s ( {e e sl be ee a2i3t4g5m6e7t8(9m0t1f2cg cy of we ad fr oc ce ae fr u3e4(5t6q7(8(A qg ts cy sl me t9e0p1(2b3i]
+[DELETED: Wtmstp s Kt(os0m1t2s3s4f5(y mg te it fs se c6qg bs ie fm a, dn a7m8t9o0s1tt s 2c3a4s5i6f7(8bs 9q0m1f2(3f4b5fm te pn of m, dn ad a6s7w8t9t0a1(2c3p]
+[DELETED: W1ds ( ( { ld(gitwa0t1s2a3a4o5f6p7t8g9w0t1u2(3sn () o K. 7, ad as t4{5e6e7(8t9b0t1m2y3s4t5s6p7c8t9s0(1t2K3i]
+[DELETED: W1be2h(ftar0q1(2f3N4t5(6f7t8a9r0t1(2f3N4t5e6w7N8t9s0r1r2(3t4c5(6o7(r s 8b9te qy we rs to te Ks dt of lr f0e1m2n3a]
+[DELETED: W1el(ntmaf(0bs e 1t2u3p4i5a6pr d e x d 7d8t9T0p1a2g3w4a5t6(7s8o9(0i ( ( { f1m2(3b4o5t6s7r8a9i0(1a2b3(y tr hg py me an e]
+[DELETED: W1pet( (c(aca0(1t2t3d4e5o6t7d8t9n0i1(2f3a4d5d6d7a8l9i0e1t2r3t4f5(6f7(8d9p0(1a2t3s]
+[DELETED: W1( / t1(as t f s t iSua0n1c2u3(4cm or ae tx cs be cg te dd t5d. 6c7f8(9s0s1s2c3d4t526(7(8e9w0(1d2g3(415K6s7o8f9(0c1S233i]
+[DELETED: W1((tpp(((e ig ay is pd bh in ao0a1c2( t3t4t5(6s7(8(9u0o1s2(3i4(A ct r, gt le or sr i5p6s7i8(9t0t1p2(3(4l5(6l7(8c9(f te se or ss of at of rs u0s1a2a3s]
+[DELETED: W1s(g te ps of ts s, acta e { b 2{((d0d1n2c3(s se p" ms ay p4c5s6S7f8b9u0s1(2(3I:T4N5i6O7o8O9o1(2I:T3N054i5O6o8(9(0I:T1N2i3O]
+[DELETED: W1oOe(I:TNiO0o2(3t4at el to te tx cd ur sn () as if t5n6s7(8i9i0t1m a2a3(4t5(6i7(. 8i9(0y1t2i3S4f5i6s7s8i9e0t1e2i3(]
+[DELETED: W1bifusp(it0c1u2f3(g te ps of K. 7, a4a5i6a7(8a9(0e1as  tt is t to e  b t s2c3(465c6o7(8c9(t as pd in K. 24 S. 6, a0a1r2(3u4{546e7s9M0A1T2(3o]
+[DELETED: W1b(e uy or cy in sc(t(AA0(1C2p3(4o5(" ms ay c, p, f6al t y n s 7b8(9i0a1f2p3(4c5(6w7t8w9i0(1f2p3o4w5s6t7s8c9(0w1a2o3t]
+[DELETED: W2rc(ticar0A1(2an ie tx we ie is st to at a3a4p5e6t7w8a in a wh a I et t r x 9c0i1a2S3a4b5m6t7t8s9t0f1as to ss wn a se be gr tn t2a3t4s5(r o, st f Eh py se or a6s7t8t9r0v1s2t3v]
+[DELETED: W2rcfof te d, ad sh ad f, un an by tchep(0p2A3(4(5a6a7a8i9(0t1(2o3(4s5p6b, sl ln c, ss fe c, i7c8(9i0(1o2t3e4f5c6f7(8u9(0C, te Ch of Po R, ay ty o1p2s3(]
+[DELETED: W2fal(tfpib0o1e2a3(4u5s6i7c8t9d0(1c2t3a4(5s6(7a8ud in ts s, or () in tr ey if te t9c0u1u2(3s4f5l6i7d8o9py dg te rl or ry pd is un o0u1i2r3(]
+[DELETED: W2i(l s s s f ptdw(pd0(t ad ds ae ae to ts se if t1t2(3(4p5i6a7(8i9s0I1t2u3c4(5o6c7a8i9l0(1m2p3d4(5te ae ve of te ts rl ad te p6p7a8r9t0(1P2r3t]
+[DELETED: W2s(e ae ve of py sl b dd batda(tfr cn ad te dr of wh is te t0c1(2(3(4t5t6(7o8t9o0i1t2(3t4d5d6(7(8t9f0(1f2t3s4(5t6(7(8o9a0c1(2d3t]
+[DELETED: W2ri(((f(e et of ay or md to ee ae0A1( E2p3a4w5t6t7a8(9r0en ce or or wn ee of e1a2t3r5A6(n ad m () Te me t7cn is hy e. It sl be cd of o8"9a0t1s2t3m4ts n n 5d6p7s8c9o0p1(2r3c]
+[DELETED: W2(san(m(ra0s1a2s3t4(5a6a7s8s9t0a1(2s3d4te fs of te cn ad sl fx t ds a5c6p7(8s9g0(1f2s3g4(5t6(7b8a9t0(1l2p3s]
+[DELETED: W2caoa(tecc0c1f2(e cn my eh ay ad t3c4p5m6p7w8(9i0( I1c2(3a4(p ad rd ps fr an ie i5u6t7l8(9a0i1(2i3(4d5e6o7(8sl cn sc rs of te as to b9ad by h of te y s. e l at o0a1a2r3p]
+[DELETED: W2gte cn sl ey sh ae pc ss oiae cs ag te py s. Eh of tcas sl ie te ss ud in oip(0T1w2P3f4s5a6a7a8(9a0s1u2t3a4p5(e as of te cn sl be on at a6r7s8(9c0a1s3A4(5p6i7c8a9o0r1(2(3d]
+[DELETED: W2ac(d al ad py ss ad ss aiv(tts0p2A3(4s5(6p7o8i9a0b, p, r, ad or ds ad ay r1p2a3p4p5p6r7(8w9t0t1r, py or sk of me bg ed i2c3h4f5P6(7c8p9j0s1p2o3m]
+[DELETED: W3btp(if it fs tt is ae pl or or rs aiibp0s1s2c3c4(5s6s, tr ss or te Ud S. Ay o7i8s9a0s1t2(3c4s5(6t7(8a9w1A2(3c4a5p6(7c8a9m0(1w2s3t]
+[DELETED: W3ooae dn of te tx ay of te se oshsct(e n bd sl  cd of  p0s1o2i3s4a5m6j7a8a9b0e1p. Re wn te jn of a py to t2an pg sl nt ce an wn t3m4(5p6d7p8r9(0h1a2m3(e bd sl he pr to ar o, t4t5p6a7a8u9j0p1o2p3p]
+[DELETED: W3(cpcaomh is rd on a of hs se to fo te rc0m1(2a3t4a5(6a7b8r9b0(1t2(3a4t5s6(7c8b0A1(2a3a4a5e6(7a8a9s0(1t2s3t]
+[DELETED: W3of te ps to te pg ny to me a bdAN(oa(0m1P2t3r4(5or ae or or by wh rt to ay p6c7s8u9(0S2A3T4p5a6d7S8o9c0p1s2t3r4a5S67 a7r8S9i]
+
+
+================================================================================
+
+Raw Text:
+{As Amended by House Committee of the Whole}
+As Amended by House Committee
+Session of 2025
+HOUSE BILL No. 2336
+By Committee on Taxation
+Requested by Eric Stafford on behalf of the Kansas Chamber of Commerce
+2-7
+1 AN ACT concerning taxation; relating to income and privilege taxes;
+2 providing for the apportionment of business income by the single sales
+3 factor and the apportionment of financial institution income by the
+4 receipts factor; providing for the apportionment pursuant to the
+5 three-factor test of a manufacturer who sells alcoholic liquor;
+6 {requiring the use of single sales factor pursuant to the multistate
+7 tax compact;} establishing deductions from income when using the
+8 single sales factor and receipts factor; providing for the decrease in
+9 corporate income tax rates; determining when sales other than tangible
+10 personal property are made in the state; excluding sales of a unitary
+11 business group of electric and natural gas public utilities; amending
+12 K.S.A. 79-1129, 79-3271, 79-3279 and, 79-3287 {and 79-4301} and
+13 K.S.A. 2024 Supp. 79-32,110 and 79-32,113 and repealing the existing
+14 sections.
+15
+16 Be it enacted by the Legislature of the State of Kansas:
+17 New Section 1. (a) Commencing with {At the end of} fiscal year
+18 2026 {2028}, the director of the budget, in consultation with the director of
+19 legislative research, shall certify, at the end of each such fiscal year, the
+20 amount of actual corporate income tax receipt revenues generated pursuant
+21 to K.S.A. 79-32,110(c), and amendments thereto, that is in excess of the
+22 prior fiscal year's corporate income tax receipts. The director of the budget
+23 shall transmit such certification to the secretary of revenue. Upon receipt
+24 of such certification, the secretary shall compute the reduction of the
+25 corporate income tax rate pursuant to K.S.A. 79-32,110(c), and
+26 amendments thereto. The certified amount shall be computed in dollars by
+27 the secretary for a reduction rounded down to the nearest 0.1% in the
+28 corporate income tax rate, if any, to go into effect for the next calendar
+29 {tax} year that would reduce the corporate income tax rate in an amount
+30 approximately equal to the amount computed by the secretary. The
+31 secretary shall reduce the normal tax on corporations. Such rate reductions
+32 shall remain in effect unless further reduced pursuant to law.
+33 (b) The secretary shall publish by October 1, 2027 {2028}, the new
+
+HB 2336—Am. by HCW 2
+1 income tax rates to take effect on January 1 {for all taxable years
+2 commencing after December 31}, 2028.
+3 Sec. 2. K.S.A. 79-1129 is hereby amended to read as follows: 79-
+4 1129. (a) Except as otherwise specifically provided, a financial institution
+5 whose business activity is taxable both within and without this state shall
+6 allocate and apportion its net income as provided in this act. All items of
+7 nonbusiness income, income which is not includable in the apportionable
+8 income tax base, shall be allocated pursuant to the provisions of K.S.A.
+9 79-3274 through 79-3278 and amendments thereto. A financial institution
+10 organized under the laws of a foreign country, the commonwealth of
+11 Puerto Rico, or a territory or possession of the United States whose
+12 effectively connected income, as defined under the federal internal revenue
+13 code, is taxable both within this state and within another state, other than
+14 the state in which it is organized, shall allocate and apportion its net
+15 income as provided in this act and its apportionment factors shall include
+16 the part of its property, payroll and receipts that is related to its
+17 apportionable income.
+18 (b) (1) For taxable years {commencing} prior to January 1, 2028
+19 2027, all business income shall be apportioned as follows:
+20 (A) All business income, income which is includable in the
+21 apportionable income tax base, shall be apportioned to this state by
+22 multiplying such income by the apportionment percentage. The
+23 apportionment percentage is determined by adding the taxpayer's receipts
+24 factor, as described in K.S.A. 79-1130, and amendments thereto, property
+25 factor, as described in K.S.A. 79-1131, and amendments thereto, and
+26 payroll factor, as described in K.S.A. 79-1132, and amendments thereto,
+27 together and dividing the sum by three. If one of the factors is missing, the
+28 two remaining factors are added and the sum is divided by two. If two of
+29 the factors are missing, the remaining factor is the apportionment
+30 percentage. A factor is missing if both its numerator and denominator are
+31 zero, but it is not missing merely because its numerator is zero.
+32 (B) (i) For tax years commencing on or after January 1, 2025, and
+33 ending before January 1, 2028, at the election of the taxpayer, all business
+34 income that is includable in the apportionable income tax base, may be
+35 apportioned to this state by the taxpayer's receipts factor, as described in
+36 K.S.A. 79-1130, and amendments thereto.
+37 (ii) An election under this subparagraph shall be made by including
+38 a statement with the original tax return for which the election is made
+39 indicating that the taxpayer elects to apply this apportionment method.
+40 The election shall be effective and irrevocable for the taxable year of the
+41 election and shall be binding on all members of a unitary group of
+42 corporations.
+43 (2) For tax years commencing on or after January 1, 2028 2027, all
+
+HB 2336—Am. by HCW 3
+1 business income shall be apportioned to this state by multiplying the
+2 business income by the receipts factor.
+3 (c) Each factor shall be computed according to the method of
+4 accounting, cash or accrual basis, used by the taxpayer for the taxable year.
+5 (d) If the allocation and apportionment provisions of this act do not
+6 fairly represent the extent of the taxpayer's business activity in this state,
+7 the taxpayer may petition for or the secretary of revenue may require, in
+8 respect to all or any part of the taxpayer's business activity, if reasonable:
+9 (1) Separate accounting;
+10 (2) the exclusion of any one or more of the factors;
+11 (3) the inclusion of one or more additional factors which will fairly
+12 represent the taxpayer's business activity in this state; or
+13 (4) the employment of any other method to effectuate an equitable
+14 allocation and apportionment of the taxpayer's income.
+15 (e) In the event a combined report is utilized to determine the Kansas
+16 income attributable to a unitary group of financial institutions, the
+17 financial institutions in the combined group shall include only those
+18 institutions which have a branch or office in Kansas.
+19 (f) (1) There shall be allowed as a deduction an amount computed in
+20 accordance with this subsection.
+21 (2) As of July 1, 2025, only publicly traded companies, including
+22 affiliated corporations participating in the filing of a publicly traded
+23 company's financial statements prepared in accordance with generally
+24 accepted accounting principles, shall be eligible for this deduction.
+25 (3) If the provisions of this section result in an aggregate increase in
+26 the taxpayer's net deferred tax liability or an aggregate decrease in the
+27 taxpayer's net deferred tax asset, or an aggregate change from a net
+28 deferred tax asset to a net deferred tax liability, the taxpayer shall be
+29 entitled to a deduction, as determined in this subsection. For the purposes
+30 of this section, the term "taxpayer" includes a unitary group of businesses
+31 that is required to file a combined report. The deferred tax impact
+32 deduction provided under this section for a unitary group of businesses
+33 that is required to file a combined report shall be calculated using unitary
+34 net deferred tax assets and liabilities and deducted against unitary group
+35 income.
+36 (4) A taxpayer shall be entitled to a deferred tax impact deduction
+37 from the taxpayer's net business income before apportionment equal to the
+38 amount necessary to offset the increase in the net deferred tax liability or
+39 decrease in the net deferred tax asset, or aggregate change from a net
+40 deferred tax asset to a net deferred tax liability. Such increase in the net
+41 deferred tax liability, decrease in the net deferred tax asset or the
+42 aggregate change from a net deferred tax asset to a net deferred tax
+43 liability shall be computed based on the change that would result from the
+
+HB 2336—Am. by HCW 4
+1 imposition of the single sales factor requirements pursuant to this section,
+2 excluding the deduction provided under this paragraph, as of the end of
+3 the tax year prior to the year in which the taxpayer makes an election or is
+4 required to apportion by the sales factor {tax year} 2025. The amount of
+5 the deduction shall equal the annual deferred tax deduction amount set
+6 forth in paragraph (5).
+7 (5) The annual deferred tax deduction amount shall be calculated as
+8 follows:
+9 (A) The deferred tax impact determined in paragraph (4) shall be
+10 divided by the income {privilege} tax rate for corporations in effect for
+11 the tax year pursuant to K.S.A. 79-32,110 {79-1107 and 79-1108}, and
+12 amendments thereto;
+13 (B) the resulting amount shall be further divided by the Kansas
+14 apportionment factor that was used by the taxpayer in the calculation of
+15 the deferred tax assets and deferred tax liabilities as provided in this
+16 subsection; and
+17 (C) the result multiplied by 1/ shall represent the total net deferred
+10
+18 tax deduction available for the first tax year beginning on or after January
+19 1, 2035, and the next nine successive tax years.
+20 (6) The deduction calculated under paragraph (5) shall not be
+21 adjusted as a result of any events subsequent to such calculation,
+22 including, but not limited to, any disposition or abandonment of assets.
+23 Such deduction shall be calculated without regard to any tax liabilities
+24 under the federal internal revenue code and shall not alter the tax basis of
+25 any asset. If the deduction under this section is greater than the taxpayer's
+26 net business income before apportionment, any excess deduction shall be
+27 carried forward and applied as a deduction for future tax years until fully
+28 utilized.
+29 (7) At the discretion of the taxpayer, the taxpayer shall be allowed to
+30 claim other available tax credits before claiming the deferred tax
+31 deduction calculated under this section. Any deferred tax deduction
+32 calculated under this section not claimed on a return shall be carried
+33 forward and applied as a deduction for future tax years until fully utilized.
+34 (8) Any taxpayer intending to claim a deduction under this subsection
+35 shall file a statement with the secretary on or before July 1, 2028 2027,
+36 specifying the total amount of the deduction that the taxpayer claims. The
+37 statement shall be made on such form and in such manner as prescribed
+38 by the secretary and shall contain such information or calculations as the
+39 secretary may specify. No deduction shall be allowed under this section
+40 for any taxable year except to the extent claimed in the manner prescribed
+41 on or before July 1, 2028 2027.
+42 (9) For purposes of this subsection:
+43 (A) "Net deferred tax liability" means deferred tax liabilities that
+
+HB 2336—Am. by HCW 5
+1 exceed the deferred tax assets of the taxpayer, as computed in accordance
+2 with generally accepted accounting principles.
+3 (B) "Net deferred tax asset" means that deferred tax assets exceed the
+4 deferred tax liabilities of the taxpayer, as computed in accordance with
+5 generally accepted accounting principles.
+6 Sec. 3. K.S.A. 79-3271 is hereby amended to read as follows: 79-
+7 3271. As used in this act, unless the context otherwise requires: (a) For tax
+8 years commencing prior to January 1, 2008, "business income" means
+9 income arising from transactions and activity in the regular course of the
+10 taxpayer's trade or business and includes income from tangible and
+11 intangible property if the acquisition, management, and disposition of the
+12 property constitute integral parts of the taxpayer's regular trade or business
+13 operations, except that a taxpayer may elect that all income constitutes
+14 business income. For tax years commencing after December 31, 2007,
+15 "business income" means: (1) Income arising from transactions and
+16 activity in the regular course of the taxpayer's trade or business; (2)
+17 income arising from transactions and activity involving tangible and
+18 intangible property or assets used in the operation of the taxpayer's trade or
+19 business; or (3) income of the taxpayer that may be apportioned to this
+20 state under the provisions of the Constitution of the United States and laws
+21 thereof, except that a taxpayer may elect that all income constitutes
+22 business income. Any election made under this subsection shall be
+23 effective and irrevocable for the tax year in which the election is made and
+24 the following nine tax years and shall be binding on all members of a
+25 unitary group of corporations.
+26 (b) "Commercial domicile" means the principal place from which the
+27 trade or business of the taxpayer is directed or managed.
+28 (c) "Compensation" means wages, salaries, commissions and any
+29 other form of remuneration paid to employees for personal services.
+30 (d) "Financial organization" means any bank, trust company, savings
+31 bank, industrial bank, land bank, safe deposit company, private banker,
+32 savings and loan association, credit union, cooperative bank, or any type
+33 of insurance company, but such term shall not be deemed to include any
+34 business entity, other than those hereinbefore enumerated, whose primary
+35 business activity is making consumer loans or purchasing retail installment
+36 contracts from one or more sellers.
+37 (e) "Nonbusiness income" means all income other than business
+38 income.
+39 (f) "Public utility" means any business entity which that owns or
+40 operates for public use any plant, equipment, property, franchise, or
+41 license for the transmission of communications, transportation of goods or
+42 persons, or the production, storage, transmission, sale, delivery, or
+43 furnishing of electricity, water, steam, oil, oil products or gas.
+
+HB 2336—Am. by HCW 6
+1 (g) "Original return" means the first return filed to report the income
+2 of a taxpayer for a taxable year or period, irrespective of whether such
+3 return is filed on a single entity basis or a combined basis.
+4 (h) "Sales" means, except as otherwise provided in K.S.A. 79-3285,
+5 and amendments thereto, all gross receipts of the taxpayer not allocated
+6 under K.S.A. 79-3274 through 79-3278, and amendments thereto.
+7 (i) "State" means any state of the United States, the District of
+8 Columbia, the Commonwealth of Puerto Rico, any territory or possession
+9 of the United States, and any foreign country or political subdivision
+10 thereof.
+11 (j) "Telecommunications company" means any business entity or
+12 unitary group of entities whose primary business activity is the
+13 transmission of communications in the form of voice, data, signals or
+14 facsimile communications by wire or fiber optic cable.
+15 (k) "Distressed area taxpayer" means a corporation which that: (1) Is
+16 located in a county which has a population of not more than 45,000
+17 persons and which, as certified by the department of commerce, has
+18 sustained an adverse economic impact due to the closure of a state hospital
+19 in such county pursuant to the recommendations of the hospital closure
+20 commission; and (2) which has a total annual payroll of $20,000,000 or
+21 more for employees employed within such county.
+22 (l) For the purposes of this subsection and subsection (b)(5) of K.S.A.
+23 79-3279 79-3279(a)(5){(b)(5)}, and amendments thereto, the following
+24 terms are defined:
+25 (1) "Administration services" include clerical, fund or shareholder
+26 accounting, participant record keeping, transfer agency, bookkeeping, data
+27 processing, custodial, internal auditing, legal and tax services performed
+28 for an investment company;
+29 (2) "distribution services" include the services of advertising,
+30 servicing, marketing, underwriting or selling shares of an investment
+31 company, but, in the case of advertising, servicing or marketing shares,
+32 only where such service is performed by a person who is, or in the case of
+33 a closed end company, was, either engaged in the services of underwriting
+34 or selling investment company shares or affiliated with a person who is
+35 engaged in the service of underwriting or selling investment company
+36 shares. In the case of an open end company, such service of underwriting
+37 or selling shares must be performed pursuant to a contract entered into
+38 pursuant to 15 U.S.C. § 80a-15(b), as in effect on the effective date of this
+39 act;
+40 (3) "investment company", means any person registered under the
+41 federal Investment Company Act of 1940, as in effect on the effective date
+42 of this act, or a company which would be required to register as an
+43 investment company under such act except that such person is exempt to
+
+HB 2336—Am. by HCW 7
+1 such registration pursuant to § 80a-3(c)(1) of such act;
+2 (4) "investment funds service corporation" includes any corporation
+3 or S corporation headquartered in and doing business in this state which
+4 derives more than 50% of its gross income from the provision of
+5 management, distribution or administration services to or on behalf of an
+6 investment company or from trustees, sponsors and participants of
+7 employee benefit plans which have accounts in an investment company;
+8 (5) "management services" include the rendering of investment
+9 advice to an investment company making determinations as to when sales
+10 and purchases of securities are to be made on behalf of the investment
+11 company, or the selling or purchasing of securities constituting assets of an
+12 investment company, and related activities, but only where such activity or
+13 activities are performed:
+14 (A) Pursuant to a contract with the investment company entered into
+15 pursuant to 15 U.S.C. § 80a-15(a), in effect on the effective date of this
+16 act; or
+17 (B) for a person that has entered into such contract with the
+18 investment company;
+19 (6) "qualifying business income" is business income derived from the
+20 provision of management, distribution or administration services to or on
+21 behalf of an investment company or from trustees, sponsors and
+22 participants of employee benefit plans which have accounts in an
+23 investment company; and
+24 (7) "residence" is the fund shareholder's primary residence address.
+25 Sec. 4. K.S.A. 79-3279 is hereby amended to read as follows: 79-
+26 3279. (a) All business income of railroads and interstate motor carriers of
+27 persons or property for-hire shall be apportioned to this state by
+28 multiplying the business income by a fraction, in the case of railroads, the
+29 numerator of which is the freight car miles in this state and the
+30 denominator of which is the freight car miles everywhere, and, in the case
+31 of interstate motor carriers, the numerator of which is the total number of
+32 miles operated in this state and the denominator of which is the total
+33 number of miles operated everywhere. {For tax years commencing
+34 before January 1, 2027, all business income of railroads and interstate
+35 motor carriers of persons or property for hire shall be apportioned to
+36 this state by multiplying the business income by a fraction, in the case
+37 of railroads, the numerator of which is the freight car miles in this
+38 state and the denominator of which is the freight car miles,
+39 everywhere and, in the case of interstate motor carriers, the
+40 numerator of which is the total number of miles operated in this state
+41 and the denominator of which is the total number of miles operated
+42 everywhere.}
+43 (b) {(b)}For the tax years commencing on or after January 1, 2025
+
+HB 2336—Am. by HCW 8
+1 and ending before January 1, 2028 2027, all business income of any other
+2 taxpayer shall be apportioned to this state by one of the following
+3 methods:
+4 (1) By multiplying the business income by a fraction, the numerator
+5 of which is the property factor plus the payroll factor plus the sales factor,
+6 and the denominator of which is three; or
+7 (2) at the election of a qualifying taxpayer, by multiplying the
+8 business income by a fraction, the numerator of which is the property
+9 factor plus the sales factor, and the denominator of which is two.
+10 (A) For purposes of this subsection (b)(2) (a)(2) {(b)(2)}, a qualifying
+11 taxpayer is any taxpayer whose payroll factor for a taxable year exceeds
+12 200% of the average of the property factor and the sales factor. Whenever
+13 two or more corporations are engaged in a unitary business and required to
+14 file a combined report, the fraction comparison provided by this subsection
+15 (b)(2) (a)(2) {(b)(2)} shall be calculated by using the payroll factor,
+16 property factor and sales factor of the combined group of unitary
+17 corporations.
+18 (B) An election under this subsection (b)(2) (a)(2) {(b)(2)} shall be
+19 made by including a statement with the original tax return indicating that
+20 the taxpayer elects to apply the apportionment method under this
+21 subsection (b)(2)(a)(2) {(b)(2)}. The election shall be effective and
+22 irrevocable for the taxable year of the election and the following nine
+23 taxable years. The election shall be binding on all members of a unitary
+24 group of corporations. Notwithstanding the above, the secretary of revenue
+25 may upon the request of the taxpayer, grant permission to terminate the
+26 election under this subsection (b)(2) (a)(2) {(b)(2)} prior to expiration of
+27 the ten-year period.
+28 (3) At the election of a qualifying telecommunications company, by
+29 multiplying the business income by a fraction, the numerator of which is
+30 the information carrying capacity of wire and fiber optic cable available
+31 for use in this state, and the denominator of which is the information
+32 carrying capacity of wire and fiber optic cable available for use
+33 everywhere during the tax year.
+34 (A) For purposes of this subsection (b)(3) (a)(3) {(b)(3)}, a qualifying
+35 telecommunications company is a telecommunications company that is a
+36 qualifying taxpayer under paragraph (A) of subsection (b)(2) (a)(2)(A) {(b)
+37 (2)(A)}.
+38 (B) A qualifying telecommunications company shall make the
+39 election under this subsection (b)(3) paragraph in the same manner as
+40 provided under paragraph (B) of subsection (b)(2) (a)(2)(B) {(b)(2)(B)}.
+41 (4) At the election of a distressed area taxpayer, by multiplying the
+42 business income by the sales factor. The election shall be made by
+43 including a statement with the original tax return indicating that the
+
+HB 2336—Am. by HCW 9
+1 taxpayer elects to apply this apportionment method. The election may be
+2 made only once, it must be made on or before December 31, 1999 and it
+3 shall be effective for the taxable year of the election and the following nine
+4 taxable years for so long as the taxpayer maintains the payroll amount
+5 prescribed by subsection (j) of K.S.A. 79-3271(j), and amendments
+6 thereto.
+7 (5) At the election of the taxpayer made at the time of filing of the
+8 original return, the qualifying business income of any investment funds
+9 service corporation organized as a corporation or S corporation which
+10 maintains its primary headquarters and operations or is a branch facility
+11 that employs at least 100 individuals on a full-time equivalent basis in this
+12 state and has any investment company fund shareholders residenced in this
+13 state shall be apportioned to this state as provided in this subsection, as
+14 follows:
+15 (A) By multiplying the investment funds service corporation's
+16 qualifying business income from administration, distribution and
+17 management services provided to each investment company by a fraction,
+18 the numerator of which shall be the average of the number of shares
+19 owned by the investment company's fund shareholders residenced in this
+20 state at the beginning of and at the end of the investment company's
+21 taxable year that ends with or within the investment funds service
+22 corporation's taxable year, and the denominator of which shall be the
+23 average of the number of shares owned by the investment company's fund
+24 shareholders everywhere at the beginning of and at the end of the
+25 investment company's taxable year that ends with or within the investment
+26 funds service corporation's taxable year.
+27 (B) A separate computation shall be made to determine the qualifying
+28 business income from each fund of each investment company. The
+29 qualifying business income from each investment company shall be
+30 multiplied by the fraction calculated pursuant to paragraph (A) for each
+31 fund of such investment company.
+32 (C) The qualifying portion of total business income of an investment
+33 funds service corporation shall be determined by multiplying such total
+34 business income by a fraction, the numerator of which is the gross receipts
+35 from the provision of management, distribution and administration
+36 services to or on behalf of an investment company, and the denominator of
+37 which is the gross receipts of the investment funds service company. To
+38 the extent an investment funds service corporation has business income
+39 that is not qualifying business income, such business income shall be
+40 apportioned to this state pursuant to subsection (b)(1) (a)(1) {(b)(1)}.
+41 (D) For tax year 2002, the tax liability of an investment funds service
+42 corporation that has elected to apportion its business income pursuant to
+43 paragraph (5) shall be increased by an amount equal to 50% of the
+
+HB 2336—Am. by HCW 10
+1 difference of the amount of such tax liability if determined pursuant to
+2 subsection (b)(1) (a)(1) {(b)(1)} less the amount of such tax liability
+3 determined with regard to paragraph (5).
+4 (E) When an investment funds service corporation is part of a unitary
+5 group, the business income of the unitary group attributable to the
+6 investment funds service corporation shall be determined by multiplying
+7 the business income of the unitary group by a fraction, the numerator of
+8 which is the property factor plus the payroll factor plus the sales factor,
+9 and the denominator of which is three. The property factor is a fraction,
+10 the numerator of which is the average value of the investment funds
+11 service corporation's real and tangible personal property owned or rented
+12 and used during the tax period and the denominator of which is the
+13 average value of the unitary group's real and tangible personal property
+14 owned or rented and used during the tax period. The payroll factor is a
+15 fraction, the numerator of which is the total amount paid during the tax
+16 period by the investment funds service corporation for compensation, and
+17 the denominator of which is the total compensation paid by the unitary
+18 group during the tax period. The sales factor is a fraction, the numerator of
+19 which is the total sales of the investment funds service corporation during
+20 the tax period, and the denominator of which is the total sales of the
+21 unitary group during the tax period.
+22 (F) A taxpayer seeking to make the election available pursuant to
+23 subsection (b)(5) of K.S.A. 79-3279(a)(5), and amendments thereto
+24 {subsection (b)(5)}, shall only be eligible to continue to make such
+25 election if the taxpayer maintains at least 95% of the Kansas employees in
+26 existence at the time the taxpayer first makes such an election.
+27 (6) At the election of a qualifying taxpayer, by multiplying such
+28 taxpayer's business income by the sales factor. The election shall be made
+29 by including a statement with the original tax return indicating that the
+30 taxpayer elects to apply this apportionment method. The election may be
+31 made only once and must be made on or before the last day of the taxable
+32 year during which the investment described in paragraph (A) is placed in
+33 service, but not later than December 31, 2009, and it shall be effective for
+34 the taxable year of the election and the following nine taxable years or for
+35 so long as the taxpayer maintains the wage requirements set forth in
+36 paragraph (A). If the qualifying taxpayer is a member of a unitary group of
+37 corporations, all other members of the unitary group doing business within
+38 this state shall apportion their business income to this state pursuant to
+39 subsection (b)(1) (a)(1) {(b)(1)}.
+40 (A) For purposes of this subsection, a qualifying taxpayer is any
+41 taxpayer making an investment of $100,000,000 for construction in
+42 Kansas of a new business facility identified under the North American
+43 industry classification system (NAICS) subsectors of 31-33, as assigned
+
+HB 2336—Am. by HCW 11
+1 by the secretary of the department of labor, employing 100 or more new
+2 employees at such facility after July 1, 2007, and prior to December 31,
+3 2009, and meeting the following requirements for paying such employees
+4 higher-than-average wages within the wage region for such facility:
+5 (i) The taxpayer's new Kansas business facility with 500 or fewer
+6 full-time equivalent employees will provide an average wage that is above
+7 the average wage paid by all Kansas business facilities that share the same
+8 assigned NAICS category used to develop wage thresholds and that have
+9 reported 500 or fewer employees to the Kansas department of labor on the
+10 quarterly wage reports;
+11 (ii) the taxpayer's new Kansas business facility with 500 or fewer
+12 full-time equivalent employees is the sole facility within its assigned
+13 NAICS category that has reported wages for 500 or fewer employees to
+14 the Kansas department of labor on the quarterly wage reports;
+15 (iii) the taxpayer's new Kansas business facility with more than 500
+16 full-time equivalent employees will provide an average wage that is above
+17 the average wage paid by all Kansas business facilities that share the same
+18 assigned NAICS category used to develop wage thresholds and that have
+19 reported more than 500 employees to the Kansas department of labor on
+20 the quarterly wage reports;
+21 (iv) the taxpayer's new Kansas business facility with more than 500
+22 full-time equivalent employees is the sole facility within its assigned
+23 NAICS category that has reported wages for more than 500 employees to
+24 the Kansas department of labor on the quarterly wage reports, in which
+25 event it shall either provide an average wage that is above the average
+26 wage paid by all Kansas business facilities that share the same assigned
+27 NAICS category and that have reported wages for 500 or fewer employees
+28 to the Kansas department of labor on the quarterly wage reports, or be the
+29 sole Kansas business facility within its assigned NAICS category that has
+30 reported wages to the Kansas department of labor on the quarterly wage
+31 reports;
+32 (v) the number of NAICS digits to use in developing each set of wage
+33 thresholds for comparison purposes shall be determined by the secretary of
+34 commerce;
+35 (vi) the composition of wage regions used in connection with each set
+36 of wage thresholds shall be determined by the secretary of commerce; and
+37 (vii) alternatively, a taxpayer may wage-qualify its new Kansas
+38 business facility if, after excluding the headcount and wages reported on
+39 the quarterly wage reports to the Kansas department of labor for
+40 employees at that new Kansas business facility who own five percent or
+41 more equity in the taxpayer, the average wage calculated for the taxpayer's
+42 new Kansas business facility is greater than or equal to 1.5 times the
+43 aggregate state-wide average wage paid by industries covered by the
+
+HB 2336—Am. by HCW 12
+1 employment security law based on data maintained by the secretary of
+2 labor.
+3 (B) For the purposes of the wage requirements in paragraph (A), the
+4 number of full-time equivalent employees shall be determined by dividing
+5 the number of hours worked by part-time employees during the pertinent
+6 measurement interval by an amount equal to the corresponding multiple of
+7 a 40-hour work week and adding the quotient to the average number of
+8 full-time employees.
+9 (C) When the qualifying taxpayer is part of a unitary group, the
+10 business income of the unitary group attributable to the qualifying
+11 taxpayer shall be determined by multiplying the business income of the
+12 unitary group by a fraction, the numerator of which is the property factor
+13 plus the payroll factor plus the sales factor, and the denominator of which
+14 is three. The property factor is a fraction, the numerator of which is the
+15 average value of the qualifying taxpayer's real and tangible personal
+16 property owned or rented and used during the tax period and the
+17 denominator of which is the average value of the unitary group's real and
+18 tangible personal property owned or rented and used during the tax period.
+19 The payroll factor is a fraction, the numerator of which is the total amount
+20 paid during the tax period by the qualifying taxpayer for compensation,
+21 and the denominator of which is the total compensation paid by the unitary
+22 group during the tax period. The sales factor is a fraction, the numerator of
+23 which is the total sales of the qualifying taxpayer during the tax period,
+24 and the denominator of which is the total sales of the unitary group during
+25 the tax period.
+26 (D) For purposes of this subsection, the secretary of revenue, upon a
+27 showing of good cause and after receiving a certification by the secretary
+28 of commerce of substantial compliance with provisions of this subsection
+29 (b)(6) (a)(6) {(b)(6)}, may extend any required performance date provided
+30 in this subsection (b)(6) (a)(6) {(b)(6)} for a period not to exceed six
+31 months.
+32 (b) For tax years commencing on or after January 1, 2025, and
+33 before January 1, 2028, at the election of the taxpayer, all business income
+34 of any other taxpayer may be apportioned to this state by multiplying such
+35 taxpayer's business income by the sales factor. An election under this
+36 subsection shall be made by including a statement with the original tax
+37 return for which the election is made indicating that the taxpayer elects to
+38 apply this apportionment method. The election shall be effective and
+39 irrevocable for the taxable year of the election.
+40 (c){(c)} For tax years commencing on or after January 1, 2028 2027,
+41 all business income shall be apportioned to this state by multiplying the
+42 business income by the sales factor.
+43 (d)(c){(d)} Any taxpayer having previously made an election
+
+HB 2336—Am. by HCW 13
+1 pursuant to subsection (a)(2) {(b)(2)} shall be permitted to make a new
+2 election pursuant to subsection (b) apportion income through the use of
+3 the single sales factor.
+4 (e)(d){(e)} (1) There shall be allowed as a deduction an amount
+5 computed in accordance with this subsection.
+6 (2) As of July 1, 2025, only publicly traded companies, including
+7 affiliated corporations participating in the filing of a publicly traded
+8 company's financial statements prepared in accordance with generally
+9 accepted accounting principles, shall be eligible for this deduction.
+10 (3) If the provisions of this section result in an aggregate increase in
+11 the taxpayer's net deferred tax liability or an aggregate decrease in the
+12 taxpayer's net deferred tax asset, or an aggregate change from a net
+13 deferred tax asset to a net deferred tax liability, the taxpayer shall be
+14 entitled to a deduction, as determined in this subsection. For the purposes
+15 of this section, the term "taxpayer" includes a unitary group of businesses
+16 that is required to file a combined report. The deferred tax impact
+17 deduction provided under this section for a unitary group of businesses
+18 that is required to file a combined report shall be calculated using unitary
+19 net deferred tax assets and liabilities and deducted against unitary group
+20 income.
+21 (4) A taxpayer shall be entitled to a deferred tax impact deduction
+22 from the taxpayer's net business income before apportionment equal to the
+23 amount necessary to offset the increase in the net deferred tax liability or
+24 decrease in the net deferred tax asset, or aggregate change from a net
+25 deferred tax asset to a net deferred tax liability. Such increase in the net
+26 deferred tax liability, decrease in the net deferred tax asset or the
+27 aggregate change from a net deferred tax asset to a net deferred tax
+28 liability shall be computed based on the change that would result from the
+29 imposition of the single sales factor requirements pursuant to this section,
+30 excluding the deduction provided under this paragraph, as of the end of
+31 the tax year prior to the year in which the taxpayer makes an election or is
+32 required to apportion by the sales factor {tax year} 2025. The amount of
+33 the deduction shall equal the annual deferred tax deduction amount set
+34 forth in paragraph (5).
+35 (5) The annual deferred tax deduction amount shall be calculated as
+36 follows:
+37 (A) The deferred tax impact determined in paragraph (4) shall be
+38 divided by the income tax rate for corporations in effect for the tax year
+39 pursuant to K.S.A. 79-32,110, and amendments thereto;
+40 (B) the resulting amount shall be further divided by the Kansas
+41 apportionment factor that was used by the taxpayer in the calculation of
+42 the deferred tax assets and deferred tax liabilities as provided in this
+43 subsection; and
+
+HB 2336—Am. by HCW 14
+1 (C) the result multiplied by 1/ shall represent the total net deferred
+10
+2 tax deduction available for the first tax year beginning on or after January
+3 1, 2035, and the next nine successive tax years.
+4 (6) The deduction calculated under paragraph (5) shall not be
+5 adjusted as a result of any events subsequent to such calculation,
+6 including, but not limited to, any disposition or abandonment of assets.
+7 Such deduction shall be calculated without regard to any tax liabilities
+8 under the federal internal revenue code and shall not alter the tax basis of
+9 any asset. If the deduction under this section is greater than the taxpayer's
+10 net business income before apportionment, any excess deduction shall be
+11 carried forward and applied as a deduction for future tax years until fully
+12 utilized.
+13 (7) At the discretion of the taxpayer, the taxpayer shall be allowed to
+14 claim other available tax credits before claiming the deferred tax
+15 deduction calculated under this section. Any deferred tax deduction
+16 calculated under this section not claimed on a return shall be carried
+17 forward and applied as a deduction for future tax years until fully utilized.
+18 (8) Any taxpayer intending to claim a deduction under this subsection
+19 shall file a statement with the secretary on or before July 1, 2028 2027,
+20 specifying the total amount of the deduction that the taxpayer claims on
+21 such form and in such manner as prescribed by the secretary and shall
+22 contain such information or calculations as the secretary may specify. No
+23 deduction shall be allowed under this section for any taxable year except
+24 to the extent claimed in the manner prescribed on or before July 1, 2028
+25 2027.
+26 (9) For purposes of this subsection:
+27 (A) "Net deferred tax liability" means deferred tax liabilities that
+28 exceed the deferred tax assets of the taxpayer, as computed in accordance
+29 with generally accepted accounting principles.
+30 (B) "Net deferred tax asset" means that deferred tax assets exceed the
+31 deferred tax liabilities of the taxpayer, as computed in accordance with
+32 generally accepted accounting principles.
+33 (f) Any manufacturer of alcoholic liquor as defined in K.S.A. 41-
+34 102, and amendments thereto, who sells to a distributor as defined in
+35 K.S.A. 41-102, and amendments thereto, shall be apportioned to this
+36 state by multiplying the business income by a fraction, the numerator
+37 of which is the property factor plus the payroll factor and the sales
+38 factor, and the denominator of which is three.
+39 (g) The amendments made to this section by this act shall apply
+40 commencing on and after January 1, 2025.
+41 Sec. 5. K.S.A. 79-3287 is hereby amended to read as follows: 79-
+42 3287. Sales, other than sales of tangible personal property, are in this state
+43 if:
+
+HB 2336—Am. by HCW 15
+1 (a) the income-producing activity is performed in this state; or
+2 (b) the income-producing activity is performed both in and outside
+3 this state and a greater proportion of the income-producing activity is
+4 performed in this state than in any other state, based on costs of
+5 performance{:
+6 (a) For tax years commencing before January 1, 2027:
+7 (1) The income-producing activity is performed in this state; or
+8 (2) the income-producing activity is performed both in and
+9 outside this state and a greater proportion of the income-producing
+10 activity is performed in this state than in any other state, based on
+11 costs of performance; and
+12 (b) for tax years commencing after December 31, 2026,} the
+13 taxpayer's market for the sales is in this state. The taxpayer's market for
+14 the sales is in this state if:
+15 (a) (1) In the case of sale of a service, if and to the extent that the
+16 service is delivered to a location in this state;
+17 (2) in the case of intangible property, such property is:
+18 (A) Rented, leased or licensed, if and to the extent that the property is
+19 used in this state, if that intangible property utilized in marketing a good
+20 or service to a consumer is used in this state, provided that such good or
+21 service is purchased by a consumer who is in this state; or
+22 (B) that is sold, if and to the extent the property is used in this state,
+23 if:
+24 (i) A contract right, government license or similar intangible
+25 property that authorizes the holder to conduct a business activity in a
+26 specific geographic area is used in this state if the geographic area
+27 includes all or part of this state; or
+28 (ii) net gains from intangible property sales that are contingent on
+29 the productivity, use or disposition of the intangible property shall be
+30 treated as receipts from the rental, lease or licensing of such intangible
+31 property under paragraph (2)(A);
+32 (3) in the case of interest from a loan:
+33 (A) Secured by real property, if and to the extent the property is
+34 located in this state; or
+35 (B) not secured by real property, if and to the extent the borrower is
+36 located in this state; or
+37 (b){(c)} in the case of dividends, if and to the extent the payor's
+38 commercial domicile is located in this state.
+39 (c){(d)} If the state or states of assignment of receipts under
+40 subsection (a)(1) or (2) cannot be determined, the state or states of
+41 assignment shall be reasonably approximated. If the state or states of
+42 assignment of receipts or net gains cannot be reasonably approximated,
+43 such assignment of receipts shall be excluded from the denominator of the
+
+HB 2336—Am. by HCW 16
+1 sales factor.
+2 (d){(e)} Notwithstanding the provisions of this section, a
+3 communications service provider may assign sales, other than sales of
+4 tangible personal property, to this state pursuant to this section as it
+5 applied to tax years ending {commencing} before January 1, 2025
+6 {2027}.
+7 (e){(f)} For purposes of this subsection:
+8 (A) "Communications service" means telecommunications service as
+9 defined in K.S.A. 79-3602, and amendments thereto, internet access as
+10 defined in section 1105(5) of the internet tax freedom act, 47 U.S.C. § 151,
+11 note, and cable service as defined in 47 U.S.C. § 522(6), or any
+12 combination thereof.
+13 (B) "Communications service provider" means any person,
+14 corporation, partnership or other entity that provides communications
+15 service in this state.
+16 Sec. 6. K.S.A. 2024 Supp. 79-32,110 is hereby amended to read as
+17 follows: 79-32,110. (a) Resident individuals. Except as otherwise provided
+18 by K.S.A. 79-3220(a), and amendments thereto, a tax is hereby imposed
+19 upon the Kansas taxable income of every resident individual, which tax
+20 shall be computed in accordance with the following tax schedules:
+21 (1) Married individuals filing joint returns.
+22 (A) For tax years 2018 through 2023:
+23 If the taxable income is: The tax is:
+24 Not over $30,000...........................................3.1% of Kansas taxable
+25 income
+26 Over $30,000 but not over $60,000...............$930 plus 5.25% of excess
+27 over $30,000
+28 Over $60,000..................................................$2,505 plus 5.7% of excess
+29 over $60,000
+30
+31 (B) For tax year 2024, and all tax years thereafter:
+32 If the taxable income is: The tax is:
+33 Not over $46,000 5.2% of Kansas taxable
+34 income
+35 Over $46,000..................................................$2,392 plus 5.58% of excess
+36 over $46,000
+37
+38 (2) All other individuals.
+39 (A) For tax years 2018 through 2023:
+40 If the taxable income is: The tax is:
+41 Not over $15,000...........................................3.1% of Kansas taxable
+42 income
+43 Over $15,000 but not over $30,000...............$465 plus 5.25% of excess
+
+HB 2336—Am. by HCW 17
+1 over $15,000
+2 Over $30,000..................................................$1,252.50 plus 5.7% of
+3 excess over $30,000
+4
+5 (B) For tax year 2024, and all tax years thereafter:
+6 If the taxable income is: The tax is:
+7 Not over $23,000...........................................5.2% of Kansas taxable
+8 income
+9 Over $23,000..................................................$1,196 plus 5.58% of excess
+10 over $23,000
+11
+12 (b) Nonresident individuals. A tax is hereby imposed upon the Kansas
+13 taxable income of every nonresident individual, which tax shall be an
+14 amount equal to the tax computed under subsection (a) as if the
+15 nonresident were a resident multiplied by the ratio of modified Kansas
+16 source income to Kansas adjusted gross income.
+17 (c) Corporations. A tax is hereby imposed upon the Kansas taxable
+18 income of every corporation doing business within this state or deriving
+19 income from sources within this state. Such tax shall consist of a normal
+20 tax and a surtax and shall be computed as follows unless otherwise
+21 modified pursuant to K.S.A. 2024 Supp. 74-50,321 and section 1, and
+22 amendments thereto:
+23 (1) The normal tax shall be in an amount equal to 4% of the Kansas
+24 taxable income of such corporation; and
+25 (2) the surtax shall be in an amount equal to 3% of the Kansas taxable
+26 income of such corporation in excess of $50,000.
+27 (d) Fiduciaries. A tax is hereby imposed upon the Kansas taxable
+28 income of estates and trusts at the rates provided in subsection (a)(2).
+29 (e) Notwithstanding the provisions of subsections (a) and (b), for tax
+30 years 2018 through 2023, married individuals filing joint returns with
+31 taxable income of $5,000 or less, and all other individuals with taxable
+32 income of $2,500 or less, shall have a tax liability of zero.
+33 Sec. 7. K.S.A. 2024 Supp. 79-32,113 is hereby amended to read as
+34 follows: 79-32,113. (a) A person or organization exempt from federal
+35 income taxation under the provisions of the federal internal revenue code
+36 shall also be exempt from the tax imposed by this act in each year in which
+37 such person or organization satisfies the requirements of the federal
+38 internal revenue code for exemption from federal income taxation. If the
+39 exemption applicable to any person or organization under the provisions of
+40 the federal internal revenue code is limited or qualified in any manner, the
+41 exemption from taxes imposed by this article shall be limited or qualified
+42 in a similar manner.
+43 (b) Notwithstanding the provisions of subsection (a), the unrelated
+
+HB 2336—Am. by HCW 18
+1 business taxable income, as computed under the provisions of the federal
+2 internal revenue code, of any person or organization otherwise exempt
+3 from the tax imposed by this act and subject to the tax imposed on
+4 unrelated business income by the federal internal revenue code shall be
+5 subject to the tax which would have been imposed by this act but for the
+6 provisions of subsection (a).
+7 (c) In addition to the persons or organizations exempt from federal
+8 income taxation under the provision of the federal internal revenue code,
+9 there shall also be exempt from the tax imposed by this act, insurance
+10 companies, banks, trust companies, savings and loan associations, credit
+11 unions and any other organizations, entities or persons specifically exempt
+12 from Kansas income taxation under the laws of the state of Kansas.
+13 (d) Notwithstanding the provisions of K.S.A. 79-32,110, and
+14 amendments thereto, the following entities shall be exempt from the tax
+15 imposed by the Kansas income tax act pursuant to K.S.A. 79-32,110, and
+16 amendments thereto:
+17 (1) Any utility that is a cooperative as defined in K.S.A. 66-104d, and
+18 amendments thereto, or owned by one or more such cooperatives; and
+19 (2) effective for tax years ending on or after January 1, 2021, every
+20 electric and natural gas public utility as defined in K.S.A. 66-104, and
+21 amendments thereto, that is subject to rate regulation by the state
+22 corporation commission.
+23 (e) Every electric and natural gas public utility as defined in K.S.A.
+24 66-104, and amendments thereto, not including any such utility that is a
+25 cooperative as defined in K.S.A. 66-104d, and amendments thereto, or
+26 owned by one or more such cooperatives shall:
+27 (1) Not be permitted to be included in a consolidated or unitary
+28 combined return; and
+29 (2) except as provided in K.S.A. 2024 Supp. 66-1,239, and
+30 amendments thereto, not collect, as a component of such utility's retail
+31 rates, Kansas income tax expenses; and
+32 (3) exclude sales from the sales factor from sales to the affiliated
+33 utility by members in a unitary business group.
+34 {Sec. 8. K.S.A. 79-4301 is hereby amended to read as follows: 79-
+35 4301. "The multistate tax compact" is hereby enacted into law and
+36 entered into with all jurisdictions legally joining therein, in the form
+37 substantially as follows:
+38
+39 MULTISTATE TAX COMPACT
+40 ARTICLE I.—Purposes
+41 The purposes of this compact are to:
+42 (1) Facilitate proper determination of state and local tax liability
+43 of multistate taxpayers, including the equitable apportionment of tax
+
+HB 2336—Am. by HCW 19
+1 bases and settlement of apportionment disputes.
+2 (2) Promote uniformity or compatibility in significant
+3 components of tax systems.
+4 (3) Facilitate taxpayer convenience and compliance in the filing of
+5 tax returns and in other phases of tax administration.
+6 (4) Avoid duplicative taxation.
+7
+8 ARTICLE II.—Definitions
+9 As used in this compact:
+10 (1) "State" means a state of the United States, the District of
+11 Columbia, the Commonwealth of Puerto Rico, or any territory or
+12 possession of the United States.
+13 (2) "Subdivision" means any governmental unit or special district
+14 of a state.
+15 (3) "Taxpayer" means any corporation, partnership, firm,
+16 association, governmental unit or agency or person acting as a
+17 business entity in more than one state.
+18 (4) "Income tax" means a tax imposed on or measured by net
+19 income including any tax imposed on or measured by an amount
+20 arrived at by deducting expenses from gross income, one or more
+21 forms of which expenses are not specifically and directly related to
+22 particular transactions.
+23 (5) "Capital stock tax" means a tax measured in any way by the
+24 capital of a corporation considered in its entirety.
+25 (6) "Gross receipts tax" means a tax, other than a sales tax,
+26 which is imposed on or measured by the gross volume of business, in
+27 terms of gross receipts or in other terms, and in the determination of
+28 which no deduction is allowed which would constitute the tax an
+29 income tax.
+30 (7) "Sales tax" means a tax imposed with respect to the transfer
+31 for a consideration of ownership, possession or custody of tangible
+32 personal property or the rendering of services measured by the price
+33 of the tangible personal property transferred or services rendered and
+34 which is required by state or local law to be separately stated from the
+35 sales price by the seller, or which is customarily separately stated from
+36 the sales price, but does not include a tax imposed exclusively on the
+37 sale of a specifically identified commodity or article or class of
+38 commodities or articles.
+39 (8) "Use tax" means a nonrecurring tax, other than a sales tax,
+40 which (a) is imposed on or with respect to the exercise or enjoyment of
+41 any right or power over tangible personal property incident to the
+42 ownership, possession or custody of that property or the leasing of
+43 that property from another including any consumption, keeping,
+
+HB 2336—Am. by HCW 20
+1 retention, or other use of tangible personal property and (b) is
+2 complimentary to a sales tax.
+3 (9) "Tax" means an income tax, capital stock tax, gross receipts
+4 tax, sales tax, use tax, and any other tax which has a multistate
+5 impact, except that the provisions of articles III, IV and V of this
+6 compact shall apply only to the taxes specifically designated therein
+7 and the provisions of article IX of this compact shall apply only in
+8 respect to determinations pursuant to article IV.
+9
+10 ARTICLE III.—Elements of Income Tax Laws
+11 (1) Taxpayer option, state and local taxes. Any taxpayer subject to
+12 an income tax whose income is subject to apportionment and
+13 allocation for tax purposes pursuant to the laws of a party state or
+14 pursuant to the laws of subdivisions in two or more party states may
+15 elect to apportion and allocate his income in the manner provided by
+16 the laws of such state or by the laws of such states and subdivisions
+17 without reference to this compact, or may elect to apportion and
+18 allocate in accordance with article IV, except that for tax years
+19 commencing on or after January 1, 2027, any taxpayer subject to the tax
+20 imposed by K.S.A. 79-32,110(c), and amendments thereto, shall apportion
+21 and allocate in accordance with article 32 of chapter 79 of the Kansas
+22 Statutes Annotated, and amendments thereto, and shall not apportion or
+23 allocate in accordance with article IV. This election for any tax year may
+24 be made in all party states or subdivisions thereof or in any one or
+25 more of the party states or subdivisions thereof without reference to
+26 the election made in the others. For the purposes of this paragraph,
+27 taxes imposed by subdivisions shall be considered separately from
+28 state taxes and the apportionment and allocation also may be applied
+29 to the entire tax base. In no instance wherein article IV is employed
+30 for all subdivisions of a state may the sum of all apportionments and
+31 allocations to subdivisions within a state be greater than the
+32 apportionment and allocation that would be assignable to that state if
+33 the apportionment or allocation were being made with respect to a
+34 state income tax.
+35 (2) Taxpayer option, short form. Each party state or any
+36 subdivision thereof which imposes an income tax shall provide by law
+37 that any taxpayer required to file a return, whose only activities within
+38 the taxing jurisdiction consist of sales and do not include owning or
+39 renting real estate or tangible personal property, and whose dollar
+40 volume of gross sales made during the tax year within the state or
+41 subdivision, as the case may be, is not in excess of $100,000 may elect
+42 to report and pay any tax due on the basis of a percentage of such
+43 volume, and shall adopt rates which shall produce a tax which
+
+HB 2336—Am. by HCW 21
+1 reasonably approximates the tax otherwise due. The multistate tax
+2 commission, not more than once in five years, may adjust the $100,000
+3 figure in order to reflect such changes as may occur in the real value
+4 of the dollar, and such adjusted figure, upon adoption by the
+5 commission, shall replace the $100,000 figure specifically provided
+6 herein. Each party state and subdivision thereof may make the same
+7 election available to taxpayers additional to those specified in this
+8 paragraph.
+9 (3) Coverage. Nothing in this article relates to the reporting or
+10 payment of any tax other than in income tax.
+11
+12 ARTICLE IV.—Division of Income
+13 (1) As used in this article, unless the context otherwise requires:
+14 (a) "Business income" means income arising from transactions
+15 and activity in the regular course of the taxpayer's trade or business
+16 and includes income from tangible and intangible property if the
+17 acquisition, management, and disposition of the property constitute
+18 integral parts of the taxpayer's regular trade or business operations.
+19 (b) "Commercial domicile" means the principal place from which
+20 the trade or business of the taxpayer is directed or managed.
+21 (c) "Compensation" means wages, salaries, commissions and any
+22 other form of remuneration paid to employees for personal services.
+23 (d) "Financial organization" means any bank, trust company,
+24 savings bank, industrial bank, land bank, safe deposit company,
+25 private banker, savings and loan association, credit union, cooperative
+26 bank, small loan company, sales finance company, investment
+27 company, or any type of insurance company.
+28 (e) "Nonbusiness income" means all income other than business
+29 income.
+30 (f) "Public utility" means any business entity (1) which owns or
+31 operates any plant, equipment, property, franchise, or license for the
+32 transmission of communications, transportation of goods or persons,
+33 except by pipeline, or the production, transmission, sale, delivery, or
+34 furnishing of electricity, water or steam; and (2) whose rates of
+35 charges for goods or services have been established or approved by a
+36 federal, state or local government or governmental agency.
+37 (g) "Sales" means all gross receipts of the taxpayer not allocated
+38 under paragraphs of this article.
+39 (h) "State" means any state of the United States, the District of
+40 Columbia, the Commonwealth of Puerto Rico, any territory or
+41 possession of the United States, and any foreign country or political
+42 subdivision thereof.
+43 (i) "This state" means the state in which the relevant tax return is
+
+HB 2336—Am. by HCW 22
+1 filed or, in the case of application of this article to the apportionment
+2 and allocation of income for local tax purposes, the subdivision or
+3 local taxing district in which the relevant tax return is filed.
+4 (2) Any taxpayer having income from business activity which is
+5 taxable both within and without this state, other than activity as a
+6 financial organization or public utility or the rendering of purely
+7 personal services by an individual, shall allocate and apportion his net
+8 income as provided in this article. If a taxpayer has income from
+9 business activity as a public utility but derives the greater percentage
+10 of his income from activities subject to this article, the taxpayer may
+11 elect to allocate and apportion his entire net income as provided in this
+12 article.
+13 (3) For purposes of allocation and apportionment of income
+14 under this article, a taxpayer is taxable in another state if (1) in that
+15 state he is subject to a net income tax, a franchise tax measured by net
+16 income, a franchise tax for the privilege of doing business, or a
+17 corporate stock tax, or (2) that state has jurisdiction to subject the
+18 taxpayer to a net income tax regardless of whether, in fact, the state
+19 does or does not.
+20 (4) Rents and royalties from real or tangible personal property,
+21 capital gains, interest, dividends or patent or copyright royalties, to
+22 the extent that they constitute nonbusiness income, shall be allocated
+23 as provided in paragraphs 5 through 8 of this article.
+24 (5) (a) Net rents and royalties from real property located in this
+25 state are allocable to this state.
+26 (b) Net rents and royalties from tangible personal property are
+27 allocable to this state: (1) If and to the extent that the property is
+28 utilized in this state, or (2) in their entirety if the taxpayer's
+29 commercial domicile is in this state and the taxpayer is not organized
+30 under the laws of or taxable in the state in which the property is
+31 utilized.
+32 (c) The extent of utilization of tangible personal property in a
+33 state is determined by multiplying the rents and royalties by a
+34 fraction, the numerator of which is the number of days of physical
+35 location of the property in the state during the rental or royalty period
+36 in the taxable year and the denominator of which is the number of
+37 days of physical location of the property everywhere during all rental
+38 or royalty periods in the taxable year. If the physical location of the
+39 property during the rental or royalty period is unknown or
+40 unascertainable by the taxpayer, tangible personal property is utilized
+41 in the state in which the property was located at the time the rental or
+42 royalty payer obtained possession.
+43 (6) (a) Capital gains and losses from sales of real property located
+
+HB 2336—Am. by HCW 23
+1 in this state are allocable to this state.
+2 (b) Capital gains and losses from sales of tangible personal
+3 property are allocable to this state if (1) the property had a situs in
+4 this state at the time of the sale, or (2) the taxpayer's commercial
+5 domicile is in this state and the taxpayer is not taxable in the state in
+6 which the property had a situs.
+7 (c) Capital gains and losses from sales of intangible personal
+8 property are allocable to this state if the taxpayer's commercial
+9 domicile is in this state.
+10 (7) Interest and dividends are allocable to this state if the
+11 taxpayer's commercial domicile is in this state.
+12 (8) (a) Patent and copyright royalties are allocable to this state:
+13 (1) If and to the extent that the patent or copyright is utilized by the
+14 payer in this state, or (2) if and to the extent that the patent copyright
+15 is utilized by the payer in a state in which the taxpayer is not taxable
+16 and the taxpayer's commercial domicile is in this state.
+17 (b) A patent is utilized in a state to the extent that it is employed
+18 in production, fabrication, manufacturing, or other processing in the
+19 state or to the extent that a patented product is produced in the state.
+20 If the basis of receipts from patent royalties does not permit allocation
+21 to states or if the accounting procedures do not reflect states of
+22 utilization, the patent is utilized in the state in which the taxpayer's
+23 commercial domicile is located.
+24 (c) A copyright is utilized in a state to the extent that printing or
+25 other publication originates in the state. If the basis of receipts from
+26 copyright royalties does not permit allocation to states or if the
+27 accounting procedures do not reflect states of utilization, the copyright
+28 is utilized in the state in which the taxpayer's commercial domicile is
+29 located.
+30 (9) All business income shall be apportioned to this state by
+31 multiplying the income by a fraction, the numerator of which is the
+32 property factor plus the payroll factor plus the sales factor, and the
+33 denominator of which is three.
+34 (10) The property factor is a fraction, the numerator of which is
+35 the average value of the taxpayer's real and tangible personal
+36 property owned or rented and used in this state during the tax period
+37 and the denominator of which is the average value of all the taxpayer's
+38 real and tangible personal property owned or rented and used during
+39 the tax period.
+40 (11) Property owned by the taxpayer is valued at its original cost.
+41 Property rented by the taxpayer is valued at eight times the net annual
+42 rental rate. Net annual rental rate is the annual rental rate paid by the
+43 taxpayer less any annual rental rate received by the taxpayer from
+
+HB 2336—Am. by HCW 24
+1 subrentals.
+2 (12) The average value of property shall be determined by
+3 averaging the values at the beginning and ending of the tax period but
+4 the tax administrator may require the averaging of monthly values
+5 during the tax period if reasonably required to reflect properly the
+6 average value of the taxpayer's property.
+7 (13) The payroll factor is a fraction, the numerator of which is the
+8 total amount paid in this state during the tax period by the taxpayer
+9 for compensation and the denominator of which is the total
+10 compensation paid everywhere during the tax period.
+11 (14) Compensation is paid in this state if:
+12 (a) The individual's service is performed entirely within the state;
+13 (b) The individual's service is performed both within and without
+14 the state, but the service performed without the state is incidental to
+15 the individual's service within the state; or
+16 (c) Some of the service is performed in the state and (1) the base
+17 of operations or, if there is no base of operations, the place from which
+18 the service is directed or controlled is in the state, or (2) the base of
+19 operations or the place from which the service is directed or controlled
+20 is not in any state in which some part of the service is performed, but
+21 the individual's residence is in this state.
+22 (15) The sales factor is a fraction, the numerator of which is the
+23 total sales of the taxpayer in this state during the tax period, and the
+24 denominator of which is the total sales of the taxpayer everywhere
+25 during the tax period.
+26 (16) Sales of tangible personal property are in this state if:
+27 (a) The property is delivered or shipped to a purchaser, other
+28 than the United States government, within this state regardless of the
+29 f.o.b. point or other conditions of the sale; or
+30 (b) The property is shipped from an office, store, warehouse,
+31 factory, or other place of storage in this state and (1) the purchaser is
+32 the United States government or (2) the taxpayer is not taxable in the
+33 state of the purchaser.
+34 (17) Sales, other than sales of tangible personal property, are in
+35 this state if:
+36 (a) The income-producing activity is performed in this state; or
+37 (b) The income-producing activity is performed both in and
+38 outside this state and a greater proportion of the income-producing
+39 activity is performed in this state than in any other state, based on
+40 costs of performance.
+41 (18) If the allocation and apportionment provisions of this article
+42 do not fairly represent the extent of the taxpayer's business activity in
+43 this state, the taxpayer may petition for or the tax administrator may
+
+HB 2336—Am. by HCW 25
+1 require, in respect to all or any part of the taxpayer's business activity,
+2 if reasonable:
+3 (a) Separate accounting;
+4 (b) The exclusion of any one or more of the factors;
+5 (c) The inclusion of one or more additional factors which will
+6 fairly represent the taxpayer's business activity in this state; or
+7 (d) The employment of any other method to effectuate an
+8 equitable allocation and apportionment of the taxpayer's income.
+9
+10 ARTICLE V.—Elements of Sales and Use Tax Laws
+11 (1) Tax credit. Each purchaser liable for a use tax on tangible
+12 personal property shall be entitled to full credit for the combined
+13 amount or amounts of legally imposed sales or use taxes paid by him
+14 with respect to the same property to another state and any subdivision
+15 thereof. The credit shall be applied first against the amount of any use
+16 tax due the state, and any unused portion of the credit shall then be
+17 applied against the amount of any use tax due a subdivision.
+18 (2) Exemption certificates, vendors may rely. Whenever a vendor
+19 receives and accepts in good faith from a purchaser a resale or other
+20 exemption certificate or other written evidence of exemption
+21 authorized by the appropriate state or subdivision taxing authority,
+22 the vendor shall be relieved of liability for a sales or use tax with
+23 respect to the transaction.
+24
+25 ARTICLE VI.—The Commission
+26 (1) Organization and management. (a) The multistate tax
+27 commission is hereby established. It shall be composed of one
+28 "member" from each party state who shall be the head of the state
+29 agency charged with the administration of the types of taxes to which
+30 this compact applies. If there is more than one such agency the state
+31 shall provide by law for the selection of the commission member from
+32 the heads of the relevant agencies. State law may provide that a
+33 member of the commission be represented by an alternate but only if
+34 there is on file with the commission written notification of the
+35 designation and identity of the alternate. The attorney general of each
+36 party state or his designee, or other counsel if the laws of the party
+37 state specifically provide, shall be entitled to attend the meetings of the
+38 commission, but shall not vote. Such attorneys general, designees, or
+39 other counsel shall receive all notices of meetings required under
+40 paragraph (1) (e) of this article.
+41 (b) Each party state shall provide by law for the selection of
+42 representatives from its subdivisions affected by this compact to
+43 consult with the commission member from that state.
+
+HB 2336—Am. by HCW 26
+1 (c) Each member shall be entitled to one vote. The commission
+2 shall not act unless a majority of the members are present, and no
+3 action shall be binding unless approved by a majority of the total
+4 number of members.
+5 (d) The commission shall adopt an official seal to be used as it
+6 may provide.
+7 (e) The commission shall hold an annual meeting and such other
+8 regular meetings as its bylaws may provide and such special meetings
+9 as its executive committee may determine. The commission bylaws
+10 shall specify the dates of the annual and any other regular meetings,
+11 and shall provide for the giving of notice of annual, regular and
+12 special meetings. Notices of special meetings shall include the reasons
+13 therefor and an agenda of the items to be considered.
+14 (f) The commission shall elect annually, from among its members,
+15 a chairman, a vice-chairman and a treasurer. The commission shall
+16 appoint an executive director who shall serve at its pleasure, and it
+17 shall fix his duties and compensation. The executive director shall be
+18 secretary of the commission. The commission shall make provision for
+19 the bonding of such of its officers and employees as it may deem
+20 appropriate.
+21 (g) Irrespective of the civil service, personnel or other merit
+22 system laws of any party state, the executive director shall appoint or
+23 discharge such personnel as may be necessary for the performance of
+24 the functions of the commission and shall fix their duties and
+25 compensation. The commission bylaws shall provide for personnel
+26 policies and programs.
+27 (h) The commission may borrow, accept or contract for the
+28 services of personnel from any state, the United States, or any other
+29 governmental entity.
+30 (i) The commission may accept for any of its purposes and
+31 functions any and all donations and grants of money, equipment,
+32 supplies, materials and services, conditional or otherwise, from any
+33 governmental entity, and may utilize and dispose of the same.
+34 (j) The commission may establish one or more offices for the
+35 transacting of its business.
+36 (k) The commission shall adopt bylaws for the conduct of its
+37 business. The commission shall publish its bylaws in convenient form,
+38 and shall file a copy of the bylaws and any amendments thereto with
+39 the appropriate agency or officer in each of the party states.
+40 (l) The commission annually shall make to the governor and
+41 legislature of each party state a report covering its activities for the
+42 preceding year. Any donation or grant accepted by the commission or
+43 services borrowed shall be reported in the annual report of the
+
+HB 2336—Am. by HCW 27
+1 commission, and shall include the nature, amount and conditions, if
+2 any, of the donation, gift, grant or services borrowed and the identity
+3 of the donor or lender. The commission may make additional reports
+4 as it may deem desirable.
+5 (2) Committees. (a) To assist in the conduct of its business when
+6 the full commission is not meeting, the commission shall have an
+7 executive committee of seven members, including the chairman, vice-
+8 chairman, treasurer and four other members elected annually by the
+9 commission. The executive committee, subject to the provisions of this
+10 compact and consistent with the policies of the commission, shall
+11 function as provided in the laws of the commission.
+12 (b) The commission may establish advisory and technical
+13 committees, membership on which may include private persons and
+14 public officials, in furthering any of its activities. Such committees
+15 may consider any matter of concern to the commission, including
+16 problems of special interest to any party state and problems dealing
+17 with particular types of taxes.
+18 (c) The commission may establish such additional committees as
+19 its bylaws may provide.
+20 (3) Powers. In addition to powers conferred elsewhere in this
+21 compact, the commission shall have power to:
+22 (a) Study state and local tax systems and particular types of state
+23 and local taxes.
+24 (b) Develop and recommend proposals for an increase in
+25 uniformity or compatibility of state and local tax laws with a view
+26 toward encouraging the simplification and improvement of state and
+27 local tax law and administration.
+28 (c) Compile and publish information as in its judgment would
+29 assist the party states in implementation of the compact and taxpayers
+30 in complying with state and local tax laws.
+31 (d) Do all things necessary and incidental to the administration of
+32 its functions pursuant to this compact.
+33 (4) Finance. (a) The commission shall submit to the governor or
+34 designated officer or officers of each party state a budget of its
+35 estimated expenditures for such period as may be required by the laws
+36 of that state for presentation to the legislature thereof.
+37 (b) Each of the commission's budget of estimated expenditures
+38 shall contain specific recommendations of the amounts to be
+39 appropriated by each of the party states. The total amount of
+40 appropriations requested under any such budget shall be apportioned
+41 among the party states as follows: One-tenth in equal shares; and the
+42 remainder in proportion of the amount of revenue collected by each
+43 party state and its subdivisions from income taxes, capital stock taxes,
+
+HB 2336—Am. by HCW 28
+1 gross receipts taxes, sales and use taxes. In determining such amounts,
+2 the commission shall employ such available public sources of
+3 information as, in its judgment, present the most equitable and
+4 accurate comparisons among the party states. Each of the
+5 commission's budgets of estimated expenditures and requests for
+6 appropriations shall indicate the sources used in obtaining
+7 information employed in applying the formula contained in this
+8 paragraph.
+9 (c) The commission shall not pledge the credit of any party state.
+10 The commission may meet any of its obligations in whole or in part
+11 with funds available to it under paragraph (1) (i) of this article:
+12 Provided, That the commission takes specific action setting aside such
+13 funds prior to incurring any obligation to be met in whole or in part in
+14 such manner. Except where the commission makes use of funds
+15 available to it under paragraph (1) (i), the commission shall not incur
+16 any obligation prior to the allotment of funds by the party states
+17 adequate to meet the same.
+18 (d) The commission shall keep accurate accounts of all receipts
+19 and disbursements. The receipts and disbursements of the commission
+20 shall be subject to the audit and accounting procedures established
+21 under its bylaws. All receipts and disbursements of funds handled by
+22 the commission shall be audited yearly by a certified or licensed public
+23 accountant and the report of the audit shall be included in and become
+24 part of the annual report of the commission.
+25 (e) The accounts of the commission shall be open at any
+26 reasonable time for inspection by duly constituted officers of the party
+27 states and by any persons authorized by the commission.
+28 (f) Nothing contained in this article shall be construed to prevent
+29 commission compliance with laws relating to audit or inspection of
+30 accounts by or on behalf of any government contributing to the
+31 support of the commission.
+32
+33 ARTICLE VII.—Uniform Regulations and Forms
+34 (1) Whenever any two or more party states, or subdivisions of
+35 party states, have uniform or similar provisions of law relating to an
+36 income tax, capital stock tax, gross receipts tax, sales or use tax, the
+37 commission may adopt uniform regulations for any phase of the
+38 administration of such law, including assertion of jurisdiction to tax,
+39 or prescribing uniform tax forms. The commission may also act with
+40 respect to the provisions of article IV of this compact.
+41 (2) Prior to the adoption of any regulation, the commission shall:
+42 (a) As provided in its bylaws, hold at least one public hearing on
+43 due notice to all affected party states and subdivisions thereof and to
+
+HB 2336—Am. by HCW 29
+1 all taxpayers and other persons who have made timely request of the
+2 commission for advance notice of its regulation-making proceedings.
+3 (b) Afford all affected party states and subdivisions and
+4 interested persons an opportunity to submit relevant written data and
+5 views, which shall be considered fully by the commission.
+6 (3) The commission shall submit any regulations adopted by it to
+7 the appropriate officials of all party states and subdivisions to which
+8 they might apply. Each such state and subdivision shall consider any
+9 such regulation for adoption in accordance with its own laws and
+10 procedures.
+11
+12 ARTICLE VIII.—Interstate Audits
+13 (1) This article shall be in force only in those party states that
+14 specifically provide therefor by statute.
+15 (2) Any party state or subdivision thereof desiring to make or
+16 participate in an audit of any accounts, books, papers, records or
+17 other documents may request the commission to perform the audit on
+18 its behalf. In responding to the request, the commission shall have
+19 access to and may examine, at any reasonable time, such accounts,
+20 books, papers, records, and other documents and any relevant
+21 property or stock of merchandise. The commission may enter into
+22 agreements with party states or their subdivisions for assistance in
+23 performance of the audit. The commission shall make charges, to be
+24 paid by the state or local government or governments for which it
+25 performs the service, for any audits performed by it in order to
+26 reimburse itself for the actual costs incurred in making the audit.
+27 (3) The commission may require the attendance of any person
+28 within the state where it is conducting an audit or part thereof at a
+29 time and place fixed by it within such state for the purpose of giving
+30 testimony with respect to any account, book, paper, document, other
+31 record, property or stock of merchandise being examined in
+32 connection with the audit. If the person is not within the jurisdiction,
+33 he may be required to attend for such purpose at any time and place
+34 fixed by the commission within the state of which he is a resident:
+35 Provided, That such state has adopted this article.
+36 (4) The commission may apply to any court having power to issue
+37 compulsory process for orders in aid of its powers and responsibilities
+38 pursuant to this article and any and all such courts shall have
+39 jurisdiction to issue such orders. Failure of any person to obey any
+40 such order shall be punishable as contempt of the issuing court. If the
+41 party or subject matter on account of which the commission seeks an
+42 order is within the jurisdiction of the court to which application is
+43 made, such application may be to a court in the state or subdivision on
+
+HB 2336—Am. by HCW 30
+1 behalf of which the audit is being made or a court in the state in which
+2 the object of the order being sought is situated. The provisions of this
+3 paragraph apply only to courts in a state that has adopted this article.
+4 (5) The commission may decline to perform any audit requested
+5 if it finds that its available personnel or other resources are
+6 insufficient for the purpose or that, in the terms requested, the audit is
+7 impracticable of satisfactory performance. If the commission, on the
+8 basis of its experience, has reason to believe that an audit of a
+9 particular taxpayer, either at a particular time or on a particular
+10 schedule, would be of interest to a number of party states or their
+11 subdivisions, it may offer to make the audit or audits, the offer to be
+12 contingent on sufficient participation therein as determined by the
+13 commission.
+14 (6) Information obtained by any audit pursuant to this article
+15 shall be confidential and available only for tax purposes to party
+16 states, their subdivisions or the United States. Availability of
+17 information shall be in accordance with the laws of the states or
+18 subdivisions on whose account the commission performs the audit,
+19 and only through the appropriate agencies or officers of such states or
+20 subdivisions. Nothing in this article shall be construed to require any
+21 taxpayer to keep records for any period not otherwise required by law.
+22 (7) Other arrangements made or authorized pursuant to law for
+23 cooperative audit by or on behalf of the party states or any of their
+24 subdivisions are not superseded or invalidated by this article.
+25 (8) In no event shall the commission make any charge against a
+26 taxpayer for an audit.
+27 (9) As used in this article, "tax," in addition to the meaning
+28 ascribed to it in article II, means any tax or license fee imposed in
+29 whole or in part for revenue purposes.
+30
+31 ARTICLE IX.—Arbitration
+32 (1) Whenever the commission finds a need for settling disputes
+33 concerning apportionments and allocations by arbitration, it may
+34 adopt a regulation placing this article in effect, notwithstanding the
+35 provisions of article VII.
+36 (2) The commission shall select and maintain an arbitration panel
+37 composed of officers and employees of state and local governments
+38 and private persons who shall be knowledgeable and experienced in
+39 matters of tax law and administration.
+40 (3) Whenever a taxpayer who has elected to employ article IV, or
+41 whenever the laws of the party state or subdivision thereof are
+42 substantially identical with the relevant provisions of article IV, the
+43 taxpayer, by written notice to the commission and to each party state
+
+HB 2336—Am. by HCW 31
+1 or subdivision thereof that would be affected, may secure arbitration
+2 of an apportionment or allocation, if he is dissatisfied with the final
+3 administrative determination of the tax agency of the state or
+4 subdivision with respect thereto on the ground that it would subject
+5 him to double or multiple taxation by two or more party states or
+6 subdivisions thereof. Each party state and subdivision thereof hereby
+7 consents to the arbitration as provided herein, and agrees to be bound
+8 thereby.
+9 (4) The arbitration board shall be composed of one person
+10 selected by the taxpayer, one by the agency or agencies involved, and
+11 one member of the commission's arbitration panel. If the agencies
+12 involved are unable to agree on the person to be selected by them,
+13 such person shall be selected by lot from the total membership of the
+14 arbitration panel. The two persons selected for the board in the
+15 manner provided by the foregoing provisions of this paragraph shall
+16 jointly select the third member of the board. If they are unable to
+17 agree on the selection, the third member shall be selected by lot from
+18 among the total membership of the arbitration panel. No member of a
+19 board selected by lot shall be qualified to serve if he is an officer or
+20 employee or is otherwise affiliated with any party to the arbitration
+21 proceeding. Residence within the jurisdiction of a party to the
+22 arbitration proceeding shall not constitute affiliation within the
+23 meaning of this paragraph.
+24 (5) The board may sit in any state or subdivision party to the
+25 proceeding, in the state of the taxpayer's incorporation, residence or
+26 domicile, in any state where the taxpayer does business, or in any
+27 place that it finds most appropriate for gaining access to evidence
+28 relevant to the matter before it.
+29 (6) The board shall give due notice of the times and places of its
+30 hearings. The parties shall be entitled to be heard, to present evidence,
+31 and to examine and cross-examine witnesses. The board shall act by
+32 majority vote.
+33 (7) The board shall have power to administer oaths, take
+34 testimony, subpoena and require the attendance of witnesses and the
+35 production of accounts, books, papers, records, and other documents,
+36 and issue commissions to take testimony. Subpoenas may be signed by
+37 any member of the board. In case of failure to obey a subpoena, and
+38 upon application by the board, any judge of a court of competent
+39 jurisdiction of the state in which the board is sitting or in which the
+40 person to whom the subpoena is directed may be found may make an
+41 order requiring compliance with the subpoena, and the court may
+42 punish failure to obey the order as a contempt. The provisions of this
+43 paragraph apply only in states that have adopted this article.
+
+HB 2336—Am. by HCW 32
+1 (8) Unless the parties otherwise agree the expenses and other
+2 costs of the arbitration shall be assessed and allocated among the
+3 parties by the board in such manner as it may determine. The
+4 commission shall fix a schedule of compensation for members of
+5 arbitration boards and of other allowable expenses and costs. No
+6 officer or employee of a state or local government who serves as a
+7 member of a board shall be entitled to compensation therefor unless
+8 he is required on account of his service to forego the regular
+9 compensation attaching to his public employment, but any such board
+10 member shall be entitled to expenses.
+11 (9) The board shall determine the disputed apportionment or
+12 allocation and any matters necessary thereto. The determinations of
+13 the board shall be final for purposes of making the apportionment or
+14 allocation, but for no other purpose.
+15 (10) The board shall file with the commission and with each tax
+16 agency represented in the proceeding: The determination of the
+17 board; the board's written statement of its reasons therefor; the
+18 record of the board's proceedings; and any other documents required
+19 by the arbitration rules of the commission to be filed.
+20 (11) The commission shall publish the determinations of boards
+21 together with the statements of the reasons therefor.
+22 (12) The commission shall adopt and publish rules of procedure
+23 and practice and shall file a copy of such rules and of any amendment
+24 thereto with the appropriate agency or officer in each of the party
+25 states.
+26 (13) Nothing contained herein shall prevent at any time a written
+27 compromise of any matter or matters in dispute, if otherwise lawful,
+28 by the parties to the arbitration proceeding.
+29
+30 ARTICLE X.—Entry Into Force and Withdrawal
+31 (1) This compact shall enter into force when enacted into law by
+32 any seven states. Thereafter, this compact shall become effective as to
+33 any other state upon its enactment thereof. The commission shall
+34 arrange for notification of all party states whenever there is a new
+35 enactment of the compact.
+36 (2) Any party state may withdraw from this compact by enacting
+37 a statute repealing the same. No withdrawal shall affect any liability
+38 already incurred by or chargeable to a party state prior to the time of
+39 such withdrawal.
+40 (3) No proceeding commenced before an arbitration board prior
+41 to the withdrawal of a state and to which the withdrawing state or any
+42 subdivision thereof is a party shall be discontinued or terminated by
+43 the withdrawal, nor shall the board thereby lose jurisdiction over any
+
+HB 2336—Am. by HCW 33
+1 of the parties to the proceeding necessary to make a binding
+2 determination therein.
+3
+4 ARTICLE XI.—Effect on Other Laws and Jurisdiction
+5 Nothing in this compact shall be construed to:
+6 (a) Affect the power of any state or subdivision thereof to fix rates
+7 of taxation, except that a party state shall be obligated to implement
+8 article III (2) of this compact.
+9 (b) Apply to any tax or fixed fee imposed for the registration of a
+10 motor vehicle or any tax on motor fuel, other than a sales tax:
+11 Provided, That the definition of "tax" in article VIII (9) may apply for
+12 the purposes of that article and the commission's powers of study and
+13 recommendation pursuant to article VI (3) may apply.
+14 (c) Withdraw or limit the jurisdiction of any state or local court
+15 or administrative officer or body with respect to any person,
+16 corporation or other entity or subject matter, except to the extent that
+17 such jurisdiction is expressly conferred by or pursuant to this compact
+18 upon another agency or body.
+19 (d) Supersede or limit the jurisdiction of any court of the United
+20 States.
+21
+22 ARTICLE XII.—Construction and Severability
+23 This compact shall be liberally construed so as to effectuate the
+24 purposes thereof. The provisions of this compact shall be severable
+25 and if any phrase, clause, sentence or provision of this compact is
+26 declared to be contrary to the constitution of any state or of the United
+27 States or the applicability thereof to any government, agency, person
+28 or circumstance is held invalid, the validity of the remainder of this
+29 compact and the applicability thereof to any government, agency,
+30 person or circumstance shall not be affected thereby. If this compact
+31 shall be held contrary to the constitution of any state participating
+32 therein, the compact shall remain in full force and effect as to the
+33 remaining party states and in full force and effect as to the state
+34 affected as to all severable matters.}
+35 Sec. 8. {9.} K.S.A. 79-1129, 79-3271, 79-3279 and, 79-3287 {and
+36 79-4301} and K.S.A. 2024 Supp. 79-32,110 and 79-32,113 are hereby
+37 repealed.
+38 Sec. 9. {10.} This act shall take effect and be in force from and after
+39 its publication in the statute book.
+
+[DELETED: Apfr pt{tsc0p1b2K3K4s6B7N829l0a1t2p3s4o5ce ie tx re pt to K. 7, a6a7t8c9{0a1s2s3(]
+[DELETED: Wi o {cS1wani70o1P2e3c4t5i6t pt f is , pl ad s t s rd t i7a8(920(l bs i, ie wh is ie in t1a2mg sh ie by te at p. T3a4f5f a a6p7t8t9te fs ae m, te rg fr is te a0p1z2(3e4i5a6K7(8a9i0T1e2c3(]
+[DELETED: Wbb(l a(ftr(0(1(2r3(4a5(6ie e o a u gp f fl  t7f8i9(0a1(2a3c4a5(6t7t8d9e0o1t2d3t4n5i6(7f8a9d0d1d2a3l]
+[DELETED: Wietrtf(f(0d1t2a3(4a5t6s7( / 8t910(1as t f s t 2i3S4u5a6n7c8u9(0cm or ae tx cs be cg te dd t1d2c3f4(5s6s7s8b9s0f1o2(3(]
+[DELETED: Wew(dgS3yi0t1i2p3o4b5"s 6a7i8i9b0s1t2bs 3e4t5u6(7t8(9o0(1b2s3o4b5b6c7(8i9( w t o0o1l2p, or te p, s, t, s, d, o3f]
+[DELETED: W(or(au(Co0t1(2uy gp of es we py bs ay is t3t4f5(6l7p8s9i0c1m2(37 74t5(6a7p8f9(n s" ie te ss of a0s1c2o3a4o5e6s7o8p9a0(1f2o3i]
+[DELETED: Ws(ods s mit cy or fm t, ss ad ps oe(t s" ie te rg of ia0a1c2i3a4(5p6a7(r a pn tt hs ed io sh ct wh t8i9(0p1bf of an it cy or fm t, ss a2ps of ee bt ps wh he as in a3i4(5S637ps or py fe sl be ad to ts se b8m9nr of wh is te ft cr ms in ts se ad t0d1o2m3n {4b5m6t7o8se ad te dr of wh is te ft cr m9ee a, in te ce of ie mr c, t0n1a2e3(]
+[DELETED: Watm(oa(bf0(1t223t4f5( ( { s6p fr ad ss fr of te cd gp o u7c8(9m0te tr es to ay te at md ur t1s ( {e e sl be ee a2i3t4g5m6e7t8(9m0t1f2cg cy of we ad fr oc ce ae fr u3e4(5t6q7(8(A qg ts cy sl me t9e0p1(2b3i]
+[DELETED: Wtmstp s Kt(os0m1t2s3s4f5(y mg te it fs se c6qg bs ie fm a, dn a7m8t9o0s1tt s 2c3a4s5i6f7(8bs 9q0m1f2(3f4b5fm te pn of m, dn ad a6s7w8t9t0a1(2c3p]
+[DELETED: W1ds ( ( { ld(gitwa0t1s2a3a4o5f6p7t8g9w0t1u2(3sn () o K. 7, ad as t4{5e6e7(8t9b0t1m2y3s4t5s6p7c8t9s0(1t2K3i]
+[DELETED: W1be2h(ftar0q1(2f3N4t5(6f7t8a9r0t1(2f3N4t5e6w7N8t9s0r1r2(3t4c5(6o7(r s 8b9te qy we rs to te Ks dt of lr f0e1m2n3a]
+[DELETED: W1el(ntmaf(0bs e 1t2u3p4i5a6pr d e x d 7d8t9T0p1a2g3w4a5t6(7s8o9(0i ( ( { f1m2(3b4o5t6s7r8a9i0(1a2b3(y tr hg py me an e]
+[DELETED: W1pet( (c(aca0(1t2t3d4e5o6t7d8t9n0i1(2f3a4d5d6d7a8l9i0e1t2r3t4f5(6f7(8d9p0(1a2t3s]
+[DELETED: W1( / t1(as t f s t iSua0n1c2u3(4cm or ae tx cs be cg te dd t5d. 6c7f8(9s0s1s2c3d4t526(7(8e9w0(1d2g3(415K6s7o8f9(0c1S233i]
+[DELETED: W1((tpp(((e ig ay is pd bh in ao0a1c2( t3t4t5(6s7(8(9u0o1s2(3i4(A ct r, gt le or sr i5p6s7i8(9t0t1p2(3(4l5(6l7(8c9(f te se or ss of at of rs u0s1a2a3s]
+[DELETED: W1s(g te ps of ts s, acta e { b 2{((d0d1n2c3(s se p" ms ay p4c5s6S7f8b9u0s1(2(3I:T4N5i6O7o8O9o1(2I:T3N054i5O6o8(9(0I:T1N2i3O]
+[DELETED: W1oOe(I:TNiO0o2(3t4at el to te tx cd ur sn () as if t5n6s7(8i9i0t1m a2a3(4t5(6i7(. 8i9(0y1t2i3S4f5i6s7s8i9e0t1e2i3(]
+[DELETED: W1bifusp(it0c1u2f3(g te ps of K. 7, a4a5i6a7(8a9(0e1as  tt is t to e  b t s2c3(465c6o7(8c9(t as pd in K. 24 S. 6, a0a1r2(3u4{546e7s9M0A1T2(3o]
+[DELETED: W1b(e uy or cy in sc(t(AA0(1C2p3(4o5(" ms ay c, p, f6al t y n s 7b8(9i0a1f2p3(4c5(6w7t8w9i0(1f2p3o4w5s6t7s8c9(0w1a2o3t]
+[DELETED: W2rc(ticar0A1(2an ie tx we ie is st to at a3a4p5e6t7w8a in a wh a I et t r x 9c0i1a2S3a4b5m6t7t8s9t0f1as to ss wn a se be gr tn t2a3t4s5(r o, st f Eh py se or a6s7t8t9r0v1s2t3v]
+[DELETED: W2rcfof te d, ad sh ad f, un an by tchep(0p2A3(4(5a6a7a8i9(0t1(2o3(4s5p6b, sl ln c, ss fe c, i7c8(9i0(1o2t3e4f5c6f7(8u9(0C, te Ch of Po R, ay ty o1p2s3(]
+[DELETED: W2fal(tfpib0o1e2a3(4u5s6i7c8t9d0(1c2t3a4(5s6(7a8ud in ts s, or () in tr ey if te t9c0u1u2(3s4f5l6i7d8o9py dg te rl or ry pd is un o0u1i2r3(]
+[DELETED: W2i(l s s s f ptdw(pd0(t ad ds ae ae to ts se if t1t2(3(4p5i6a7(8i9s0I1t2u3c4(5o6c7a8i9l0(1m2p3d4(5te ae ve of te ts rl ad te p6p7a8r9t0(1P2r3t]
+[DELETED: W2s(e ae ve of py sl b dd batda(tfr cn ad te dr of wh is te t0c1(2(3(4t5t6(7o8t9o0i1t2(3t4d5d6(7(8t9f0(1f2t3s4(5t6(7(8o9a0c1(2d3t]
+[DELETED: W2ri(((f(e et of ay or md to ee ae0A1( E2p3a4w5t6t7a8(9r0en ce or or wn ee of e1a2t3r5A6(n ad m () Te me t7cn is hy e. It sl be cd of o8"9a0t1s2t3m4ts n n 5d6p7s8c9o0p1(2r3c]
+[DELETED: W2(san(m(ra0s1a2s3t4(5a6a7s8s9t0a1(2s3d4te fs of te cn ad sl fx t ds a5c6p7(8s9g0(1f2s3g4(5t6(7b8a9t0(1l2p3s]
+[DELETED: W2caoa(tecc0c1f2(e cn my eh ay ad t3c4p5m6p7w8(9i0( I1c2(3a4(p ad rd ps fr an ie i5u6t7l8(9a0i1(2i3(4d5e6o7(8sl cn sc rs of te as to b9ad by h of te y s. e l at o0a1a2r3p]
+[DELETED: W2gte cn sl ey sh ae pc ss oiae cs ag te py s. Eh of tcas sl ie te ss ud in oip(0T1w2P3f4s5a6a7a8(9a0s1u2t3a4p5(e as of te cn sl be on at a6r7s8(9c0a1s3A4(5p6i7c8a9o0r1(2(3d]
+[DELETED: W2ac(d al ad py ss ad ss aiv(tts0p2A3(4s5(6p7o8i9a0b, p, r, ad or ds ad ay r1p2a3p4p5p6r7(8w9t0t1r, py or sk of me bg ed i2c3h4f5P6(7c8p9j0s1p2o3m]
+[DELETED: W3btp(if it fs tt is ae pl or or rs aiibp0s1s2c3c4(5s6s, tr ss or te Ud S. Ay o7i8s9a0s1t2(3c4s5(6t7(8a9w1A2(3c4a5p6(7c8a9m0(1w2s3t]
+[DELETED: W3ooae dn of te tx ay of te se oshsct(e n bd sl  cd of  p0s1o2i3s4a5m6j7a8a9b0e1p. Re wn te jn of a py to t2an pg sl nt ce an wn t3m4(5p6d7p8r9(0h1a2m3(e bd sl he pr to ar o, t4t5p6a7a8u9j0p1o2p3p]
+[DELETED: W3(cpcaomh is rd on a of hs se to fo te rc0m1(2a3t4a5(6a7b8r9b0(1t2(3a4t5s6(7c8b0A1(2a3a4a5e6(7a8a9s0(1t2s3t]
+[DELETED: W3of te ps to te pg ny to me a bdAN(oa(0m1P2t3r4(5or ae or or by wh rt to ay p6c7s8u9(0S2A3T4p5a6d7S8o9c0p1s2t3r4a5S67 a7r8S9i]
