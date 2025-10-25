@@ -1,0 +1,401 @@
+Title: SENATE BILL No. 138
+Official Title: SENATE BILL No. 138
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Judiciary
+1-31
+1 AN ACT concerning crimes, punishment and criminal procedure; relating
+2 to search and seizure; requiring the statement of facts sufficient to show
+3 probable cause justifying a search warrant to be made by a law
+4 enforcement officer; amending K.S.A. 22-2502 and repealing the
+5 existing section.
+6
+7 Be it enacted by the Legislature of the State of Kansas:
+8 Section 1. K.S.A. 22-2502 is hereby amended to read as follows: 22-
+9 2502. (a) A search warrant shall be issued only upon the oral or written
+10 statement, including those conveyed or received by electronic
+11 communication, of any person a law enforcement officer under oath or
+12 affirmation which that states facts sufficient to show probable cause that a
+13 crime has been, is being or is about to be committed and which
+14 particularly describes a person, place or means of conveyance to be
+15 searched and things to be seized. Any statement which that is made orally
+16 shall be either taken down by a certified shorthand reporter, sworn to under
+17 oath and made part of the application for a search warrant, or recorded
+18 before the magistrate from whom the search warrant is requested and
+19 sworn to under oath. Any statement orally made shall be reduced to
+20 writing as soon thereafter as possible. If the magistrate is satisfied that
+21 grounds for the application exist or that there is probable cause to believe
+22 that they exist, the magistrate may issue a search warrant for:
+23 (1) The search or seizure of the following:
+24 (A) Anything that can be seized under the fourth amendment of the
+25 United States constitution;
+26 (B) anything which that has been used in the commission of a crime,
+27 or any contraband or any property which that constitutes or may be
+28 considered a part of the evidence, fruits or instrumentalities of a crime
+29 under the laws of this state, any other state or of the United States. The
+30 term "fruits" as used in this act shall be interpreted to include any property
+31 into which the thing or things unlawfully taken or possessed may have
+32 been converted;
+33 (C) any person who has been kidnapped in violation of the laws of
+34 this state or who has been kidnapped in another jurisdiction and is now
+35 concealed within this state;
+36 (D) any human fetus or human corpse;
+SB 138 2
+1 (E) any biological material, DNA, cellular material, blood, hair or
+2 fingerprints;
+3 (F) any person for whom a valid felony arrest warrant has been issued
+4 in this state or in another jurisdiction; or
+5 (G) (i) any information concerning the user of an electronic
+6 communication service;, any information concerning the location of
+7 electronic communications systems, including, but not limited to, towers
+8 transmitting cellular signals involved in any wire communication;, and any
+9 other information made through an electronic communications system; or
+10 (ii) the jurisdiction granted in this paragraph shall extend to
+11 information held by entities registered to do business in the state of
+12 Kansas, submitting to the jurisdiction thereof, and entities primarily
+13 located outside the state of Kansas if the jurisdiction in which the entity is
+14 primarily located recognizes the authority of the magistrate to issue the
+15 search warrant; or
+16 (2) the installation, maintenance and use of a tracking device.
+17 (b) (1) The search warrant under subsection (a)(2) shall authorize the
+18 installation and use of the tracking device to track and collect tracking data
+19 relating to a person or property for a specified period of time, not to
+20 exceed 30 days from the date of the installation of the device.
+21 (2) The search warrant under subsection (a)(2) may authorize the
+22 retrieval of the tracking data recorded by the tracking device during the
+23 specified period of time for authorized use of such tracking device within a
+24 reasonable time after the expiration of such warrant, for good cause
+25 shown.
+26 (3) The magistrate may, for good cause shown, grant one or more
+27 extensions of a search warrant under subsection (a)(2) for the use of a
+28 tracking device, not to exceed 30 days each.
+29 (c) Before ruling on a request for a search warrant, the magistrate
+30 may require the affiant to appear personally and may examine under oath
+31 the affiant and any witnesses that the affiant may produce. Such
+32 proceeding shall be taken down by a certified shorthand reporter or
+33 recording equipment and made part of the application for a search warrant.
+34 (d) For a warrant executed prior to July 1, 2014, affidavits or sworn
+35 testimony in support of the probable cause requirement of this section or
+36 search warrants for tracking devices shall not be made available for
+37 examination without a written order of the court, except that such
+38 affidavits or testimony when requested shall be made available to the
+39 defendant or the defendant's counsel for such disposition as either may
+40 desire.
+41 (e) (1) For a warrant executed on or after July 1, 2014, affidavits or
+42 sworn testimony in support of the probable cause requirement of this
+43 section or search warrants for tracking devices shall not be open to the
+SB 138 3
+1 public until the warrant has been executed. After the warrant has been
+2 executed, such affidavits or sworn testimony shall be made available to:
+3 (A) The defendant or the defendant's counsel, when requested, for
+4 such disposition as either may desire; and
+5 (B) any person, when requested, in accordance with the requirements
+6 of this subsection.
+7 (2) Any person may request that affidavits or sworn testimony be
+8 disclosed by filing such request with the clerk of the court. The clerk of the
+9 court shall promptly notify the defendant or the defendant's counsel, the
+10 prosecutor and the magistrate that such request was filed. The prosecutor
+11 shall promptly notify any victim.
+12 (3) Within five business days after receiving notice of a request for
+13 disclosure from the clerk of the court, the defendant or the defendant's
+14 counsel and the prosecutor may submit to the magistrate, under seal,
+15 either:
+16 (A) Proposed redactions, if any, to the affidavits or sworn testimony
+17 and the reasons supporting such proposed redactions; or
+18 (B) a motion to seal the affidavits or sworn testimony and the reasons
+19 supporting such proposed seal.
+20 (4) The magistrate shall review the requested affidavits or sworn
+21 testimony and any proposed redactions or motion to seal submitted by the
+22 defendant, the defendant's counsel or the prosecutor. The magistrate shall
+23 make appropriate redactions, or seal the affidavits or sworn testimony, as
+24 necessary to prevent public disclosure of information that would:
+25 (A) Jeopardize the physical, mental or emotional safety or well-being
+26 of a victim, witness, confidential source or undercover agent, or cause the
+27 destruction of evidence;
+28 (B) reveal information obtained from a court-ordered wiretap or from
+29 a search warrant for a tracking device that has not expired;
+30 (C) interfere with any prospective law enforcement action, criminal
+31 investigation or prosecution;
+32 (D) reveal the identity of any confidential source or undercover agent;
+33 (E) reveal confidential investigative techniques or procedures not
+34 known to the general public;
+35 (F) endanger the life or physical safety of any person;
+36 (G) reveal the name, address, telephone number or any other
+37 information which specifically and individually identifies the victim of any
+38 sexual offense described in article 35 of chapter 21 of the Kansas Statutes
+39 Annotated, prior to their repeal, or article 55 of chapter 21 of the Kansas
+40 Statutes Annotated or K.S.A. 21-6419 through 21-6422, and amendments
+41 thereto;
+42 (H) reveal the name of any minor;
+43 (I) reveal any date of birth, personal or business telephone number,
+SB 138 4
+1 driver's license number, nondriver's identification number, social security
+2 number, employee identification number, taxpayer identification number,
+3 vehicle identification number or financial account information; or
+4 (J) constitute a clearly unwarranted invasion of personal privacy. As
+5 used in this subparagraph, "clearly unwarranted invasion of personal
+6 privacy" means revealing information that would be highly offensive to a
+7 reasonable person and is totally unrelated to the alleged crime that resulted
+8 in the issuance of the search warrant, including information totally
+9 unrelated to the alleged crime that may pose a risk to a person or property
+10 and is not of legitimate concern to the public. The provisions of this
+11 subparagraph shall only be used to redact and shall not be used to seal
+12 affidavits or sworn testimony.
+13 (5) Within five business days after receiving proposed redactions or a
+14 motion to seal from the defendant, the defendant's counsel or the
+15 prosecutor, or within 10 business days after receiving notice of a request
+16 for disclosure, whichever is earlier, the magistrate shall either:
+17 (A) Order disclosure of the affidavits or sworn testimony with
+18 appropriate redactions, if any; or
+19 (B) order the affidavits or sworn testimony sealed and not subject to
+20 public disclosure.
+21 (6) (A) If the magistrate orders disclosure of the affidavits or sworn
+22 testimony with appropriate redactions, if any, to any person in accordance
+23 with the requirements of this subsection, then such affidavits or sworn
+24 testimony shall become part of the court record and shall be accessible to
+25 the public.
+26 (B) If the magistrate orders the affidavits or sworn testimony sealed
+27 and not subject to public disclosure in accordance with the requirements of
+28 this subsection, then such affidavits or sworn testimony shall become part
+29 of the court record that is not accessible to the public.
+30 (C) Any request for disclosure of affidavits or sworn testimony in
+31 accordance with the requirements of this subsection shall become part of
+32 the court record and shall be accessible to the public, regardless of whether
+33 the magistrate orders disclosure with appropriate redactions, if any, or
+34 sealing of the requested affidavit or sworn testimony.
+35 (f) As used in this section:
+36 (1) "Electronic communication" means the use of electronic
+37 equipment to send or transfer a copy of an original document;
+38 (2) "electronic communication service" and "electronic
+39 communication system" have the meaning as defined in K.S.A. 22-2514,
+40 and amendments thereto;
+41 (3) "tracking data" means information gathered or recorded by a
+42 tracking device;
+43 (4) "tracking device" means an electronic or mechanical device that
+SB 138 5
+1 permits a person to remotely determine or track the position or movement
+2 of a person or object. "Tracking device" includes, but is not limited to, a
+3 device that stores geographic data for subsequent access or analysis and a
+4 device that allows for the real-time monitoring of movement; and
+5 (5) "victim" shall include any victim of an alleged crime that resulted
+6 in the issuance of the search warrant, or, if the victim is deceased, the
+7 victim's family, as defined in K.S.A. 74-7335, and amendments thereto.
+8 (g) Nothing in this section shall be construed as requiring a search
+9 warrant for cellular location information in an emergency situation
+10 pursuant to K.S.A. 22-4615, and amendments thereto.
+11 Sec. 2. K.S.A. 22-2502 is hereby repealed.
+12 Sec. 3. This act shall take effect and be in force from and after its
+13 publication in the statute book.
+[DELETED: Atpet ; eBS20s, ig te cd or rd by e1c2a3cs s s t d 4p5s6s7o8b9s0w1g2t3(4(5U6(7o w t c8c9u0t1i2b3(4t5c6(]
+[DELETED: 8(f(i() (y in cg te ur of an ecn  an  te l oeto0(e jn gd in ts ph sl ed t1i2K3l4p5s6(7(8i9r0e1(2r3s4r5s6(7e8t9(0m1te at ad ay ws tt te at my p. S2p3r4(5t6s7et 8a9d0d1(2s3s]
+[DELETED: 8pe(s(o(dc0p1s2(3d4c5e6(7a8(9s0(1t2d3m4n5(6o7d8(9a0(1i2(3(4k5(6(l te n, a, te nr or ay o7i8s9A0S1t2(3(]
+[DELETED: 8dnv(upriu0a1s2a3(4mn to sl fm te d, te ds cl or t5p6f7(e s n 8a9(0p1(2t3w4t5t6(7a8t9o0(1a2t3t4s5(6(c c" ms te ue of e7e8(c cn s" ad "9c0a1(2t3(]
+[DELETED: 8podd(iv(wt fr cr ln in in an e s0p1S2S3p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 138
+By Committee on Judiciary
+1-31
+1 AN ACT concerning crimes, punishment and criminal procedure; relating
+2 to search and seizure; requiring the statement of facts sufficient to show
+3 probable cause justifying a search warrant to be made by a law
+4 enforcement officer; amending K.S.A. 22-2502 and repealing the
+5 existing section.
+6
+7 Be it enacted by the Legislature of the State of Kansas:
+8 Section 1. K.S.A. 22-2502 is hereby amended to read as follows: 22-
+9 2502. (a) A search warrant shall be issued only upon the oral or written
+10 statement, including those conveyed or received by electronic
+11 communication, of any person a law enforcement officer under oath or
+12 affirmation which that states facts sufficient to show probable cause that a
+13 crime has been, is being or is about to be committed and which
+14 particularly describes a person, place or means of conveyance to be
+15 searched and things to be seized. Any statement which that is made orally
+16 shall be either taken down by a certified shorthand reporter, sworn to under
+17 oath and made part of the application for a search warrant, or recorded
+18 before the magistrate from whom the search warrant is requested and
+19 sworn to under oath. Any statement orally made shall be reduced to
+20 writing as soon thereafter as possible. If the magistrate is satisfied that
+21 grounds for the application exist or that there is probable cause to believe
+22 that they exist, the magistrate may issue a search warrant for:
+23 (1) The search or seizure of the following:
+24 (A) Anything that can be seized under the fourth amendment of the
+25 United States constitution;
+26 (B) anything which that has been used in the commission of a crime,
+27 or any contraband or any property which that constitutes or may be
+28 considered a part of the evidence, fruits or instrumentalities of a crime
+29 under the laws of this state, any other state or of the United States. The
+30 term "fruits" as used in this act shall be interpreted to include any property
+31 into which the thing or things unlawfully taken or possessed may have
+32 been converted;
+33 (C) any person who has been kidnapped in violation of the laws of
+34 this state or who has been kidnapped in another jurisdiction and is now
+35 concealed within this state;
+36 (D) any human fetus or human corpse;
+
+SB 138 2
+1 (E) any biological material, DNA, cellular material, blood, hair or
+2 fingerprints;
+3 (F) any person for whom a valid felony arrest warrant has been issued
+4 in this state or in another jurisdiction; or
+5 (G) (i) any information concerning the user of an electronic
+6 communication service;, any information concerning the location of
+7 electronic communications systems, including, but not limited to, towers
+8 transmitting cellular signals involved in any wire communication;, and any
+9 other information made through an electronic communications system; or
+10 (ii) the jurisdiction granted in this paragraph shall extend to
+11 information held by entities registered to do business in the state of
+12 Kansas, submitting to the jurisdiction thereof, and entities primarily
+13 located outside the state of Kansas if the jurisdiction in which the entity is
+14 primarily located recognizes the authority of the magistrate to issue the
+15 search warrant; or
+16 (2) the installation, maintenance and use of a tracking device.
+17 (b) (1) The search warrant under subsection (a)(2) shall authorize the
+18 installation and use of the tracking device to track and collect tracking data
+19 relating to a person or property for a specified period of time, not to
+20 exceed 30 days from the date of the installation of the device.
+21 (2) The search warrant under subsection (a)(2) may authorize the
+22 retrieval of the tracking data recorded by the tracking device during the
+23 specified period of time for authorized use of such tracking device within a
+24 reasonable time after the expiration of such warrant, for good cause
+25 shown.
+26 (3) The magistrate may, for good cause shown, grant one or more
+27 extensions of a search warrant under subsection (a)(2) for the use of a
+28 tracking device, not to exceed 30 days each.
+29 (c) Before ruling on a request for a search warrant, the magistrate
+30 may require the affiant to appear personally and may examine under oath
+31 the affiant and any witnesses that the affiant may produce. Such
+32 proceeding shall be taken down by a certified shorthand reporter or
+33 recording equipment and made part of the application for a search warrant.
+34 (d) For a warrant executed prior to July 1, 2014, affidavits or sworn
+35 testimony in support of the probable cause requirement of this section or
+36 search warrants for tracking devices shall not be made available for
+37 examination without a written order of the court, except that such
+38 affidavits or testimony when requested shall be made available to the
+39 defendant or the defendant's counsel for such disposition as either may
+40 desire.
+41 (e) (1) For a warrant executed on or after July 1, 2014, affidavits or
+42 sworn testimony in support of the probable cause requirement of this
+43 section or search warrants for tracking devices shall not be open to the
+
+SB 138 3
+1 public until the warrant has been executed. After the warrant has been
+2 executed, such affidavits or sworn testimony shall be made available to:
+3 (A) The defendant or the defendant's counsel, when requested, for
+4 such disposition as either may desire; and
+5 (B) any person, when requested, in accordance with the requirements
+6 of this subsection.
+7 (2) Any person may request that affidavits or sworn testimony be
+8 disclosed by filing such request with the clerk of the court. The clerk of the
+9 court shall promptly notify the defendant or the defendant's counsel, the
+10 prosecutor and the magistrate that such request was filed. The prosecutor
+11 shall promptly notify any victim.
+12 (3) Within five business days after receiving notice of a request for
+13 disclosure from the clerk of the court, the defendant or the defendant's
+14 counsel and the prosecutor may submit to the magistrate, under seal,
+15 either:
+16 (A) Proposed redactions, if any, to the affidavits or sworn testimony
+17 and the reasons supporting such proposed redactions; or
+18 (B) a motion to seal the affidavits or sworn testimony and the reasons
+19 supporting such proposed seal.
+20 (4) The magistrate shall review the requested affidavits or sworn
+21 testimony and any proposed redactions or motion to seal submitted by the
+22 defendant, the defendant's counsel or the prosecutor. The magistrate shall
+23 make appropriate redactions, or seal the affidavits or sworn testimony, as
+24 necessary to prevent public disclosure of information that would:
+25 (A) Jeopardize the physical, mental or emotional safety or well-being
+26 of a victim, witness, confidential source or undercover agent, or cause the
+27 destruction of evidence;
+28 (B) reveal information obtained from a court-ordered wiretap or from
+29 a search warrant for a tracking device that has not expired;
+30 (C) interfere with any prospective law enforcement action, criminal
+31 investigation or prosecution;
+32 (D) reveal the identity of any confidential source or undercover agent;
+33 (E) reveal confidential investigative techniques or procedures not
+34 known to the general public;
+35 (F) endanger the life or physical safety of any person;
+36 (G) reveal the name, address, telephone number or any other
+37 information which specifically and individually identifies the victim of any
+38 sexual offense described in article 35 of chapter 21 of the Kansas Statutes
+39 Annotated, prior to their repeal, or article 55 of chapter 21 of the Kansas
+40 Statutes Annotated or K.S.A. 21-6419 through 21-6422, and amendments
+41 thereto;
+42 (H) reveal the name of any minor;
+43 (I) reveal any date of birth, personal or business telephone number,
+
+SB 138 4
+1 driver's license number, nondriver's identification number, social security
+2 number, employee identification number, taxpayer identification number,
+3 vehicle identification number or financial account information; or
+4 (J) constitute a clearly unwarranted invasion of personal privacy. As
+5 used in this subparagraph, "clearly unwarranted invasion of personal
+6 privacy" means revealing information that would be highly offensive to a
+7 reasonable person and is totally unrelated to the alleged crime that resulted
+8 in the issuance of the search warrant, including information totally
+9 unrelated to the alleged crime that may pose a risk to a person or property
+10 and is not of legitimate concern to the public. The provisions of this
+11 subparagraph shall only be used to redact and shall not be used to seal
+12 affidavits or sworn testimony.
+13 (5) Within five business days after receiving proposed redactions or a
+14 motion to seal from the defendant, the defendant's counsel or the
+15 prosecutor, or within 10 business days after receiving notice of a request
+16 for disclosure, whichever is earlier, the magistrate shall either:
+17 (A) Order disclosure of the affidavits or sworn testimony with
+18 appropriate redactions, if any; or
+19 (B) order the affidavits or sworn testimony sealed and not subject to
+20 public disclosure.
+21 (6) (A) If the magistrate orders disclosure of the affidavits or sworn
+22 testimony with appropriate redactions, if any, to any person in accordance
+23 with the requirements of this subsection, then such affidavits or sworn
+24 testimony shall become part of the court record and shall be accessible to
+25 the public.
+26 (B) If the magistrate orders the affidavits or sworn testimony sealed
+27 and not subject to public disclosure in accordance with the requirements of
+28 this subsection, then such affidavits or sworn testimony shall become part
+29 of the court record that is not accessible to the public.
+30 (C) Any request for disclosure of affidavits or sworn testimony in
+31 accordance with the requirements of this subsection shall become part of
+32 the court record and shall be accessible to the public, regardless of whether
+33 the magistrate orders disclosure with appropriate redactions, if any, or
+34 sealing of the requested affidavit or sworn testimony.
+35 (f) As used in this section:
+36 (1) "Electronic communication" means the use of electronic
+37 equipment to send or transfer a copy of an original document;
+38 (2) "electronic communication service" and "electronic
+39 communication system" have the meaning as defined in K.S.A. 22-2514,
+40 and amendments thereto;
+41 (3) "tracking data" means information gathered or recorded by a
+42 tracking device;
+43 (4) "tracking device" means an electronic or mechanical device that
+
+SB 138 5
+1 permits a person to remotely determine or track the position or movement
+2 of a person or object. "Tracking device" includes, but is not limited to, a
+3 device that stores geographic data for subsequent access or analysis and a
+4 device that allows for the real-time monitoring of movement; and
+5 (5) "victim" shall include any victim of an alleged crime that resulted
+6 in the issuance of the search warrant, or, if the victim is deceased, the
+7 victim's family, as defined in K.S.A. 74-7335, and amendments thereto.
+8 (g) Nothing in this section shall be construed as requiring a search
+9 warrant for cellular location information in an emergency situation
+10 pursuant to K.S.A. 22-4615, and amendments thereto.
+11 Sec. 2. K.S.A. 22-2502 is hereby repealed.
+12 Sec. 3. This act shall take effect and be in force from and after its
+13 publication in the statute book.
+
+[DELETED: Atpet ; eBS20s, ig te cd or rd by e1c2a3cs s s t d 4p5s6s7o8b9s0w1g2t3(4(5U6(7o w t c8c9u0t1i2b3(4t5c6(]
+[DELETED: 8(f(i() (y in cg te ur of an ecn  an  te l oeto0(e jn gd in ts ph sl ed t1i2K3l4p5s6(7(8i9r0e1(2r3s4r5s6(7e8t9(0m1te at ad ay ws tt te at my p. S2p3r4(5t6s7et 8a9d0d1(2s3s]
+[DELETED: 8pe(s(o(dc0p1s2(3d4c5e6(7a8(9s0(1t2d3m4n5(6o7d8(9a0(1i2(3(4k5(6(l te n, a, te nr or ay o7i8s9A0S1t2(3(]
+[DELETED: 8dnv(upriu0a1s2a3(4mn to sl fm te d, te ds cl or t5p6f7(e s n 8a9(0p1(2t3w4t5t6(7a8t9o0(1a2t3t4s5(6(c c" ms te ue of e7e8(c cn s" ad "9c0a1(2t3(]
+[DELETED: 8podd(iv(wt fr cr ln in in an e s0p1S2S3p]

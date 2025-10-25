@@ -1,0 +1,261 @@
+Title: HOUSE BILL No. 2293
+Official Title: HOUSE BILL No. 2293
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Commerce, Labor and Economic Development
+Requested by Representative Croft
+2-5
+1 AN ACT concerning infrastructure; relating to drone technology;
+2 prohibiting the acquisition of critical components of drone technology
+3 from countries of concern; relating to state contracts; prohibiting state
+4 agencies from procuring final or finished goods or services from a
+5 foreign principal.
+6
+7 Be it enacted by the Legislature of the State of Kansas:
+8 Section 1. (a) In addition to the provisions of K.S.A. 75-3739, and
+9 amendments thereto, and any other applicable statutes concerning
+10 purchases, a governmental agency shall not purchase or acquire any drone
+11 or any related services, maintenance agreements or equipment, the critical
+12 components of which were:
+13 (1) Produced in any country of concern; or
+14 (2) produced or owned by any foreign principal.
+15 (b) Any critical components for drones or any related services or
+16 equipment that were acquired prior to July 1, 2025, and that are not in
+17 compliance with subsection (a) may continue to be used by the
+18 governmental agency that acquired such critical components. When a
+19 governmental agency determines that a critical component must be
+20 replaced, the governmental agency may use any replacement component
+21 acquired prior to July 1, 2025, but no new replacement component shall be
+22 acquired from any foreign principal.
+23 (c) Any acquisition that is otherwise prohibited under subsection (a)
+24 or (b) may be completed by a governmental agency if:
+25 (1) There is no other reasonable means to acquire such critical
+26 components or of addressing the needs of the governmental agency
+27 necessitating such acquisition;
+28 (2) the agreement for such acquisition is approved by the secretary of
+29 administration after consultation with the adjutant general; and
+30 (3) failure to acquire such critical components or otherwise address
+31 the needs of the governmental agency would pose a greater threat to the
+32 safety and security of this state than that posed by entering into such
+33 acquisition agreement.
+34 (d) The provisions of this section shall not apply to any contract or
+35 agreement entered into prior to July 1, 2025.
+HB 2293 2
+1 Sec. 2. (a) (1) Except as provided by paragraph (2), no state agency
+2 shall enter into a contract or agreement to procure final or finished goods
+3 or services from a foreign principal.
+4 (2) A state agency may enter into a contract or agreement to procure
+5 final or finished goods or services from a foreign principal if such foreign
+6 principal:
+7 (A) Previously received a determination that there are no unresolved
+8 national security concerns and action under 50 U.S.C. § 4565, as in effect
+9 on July 1, 2025, that has concluded with respect to a covered transaction,
+10 if such foreign principal has not undergone a change in control constituting
+11 a covered control transaction since such determination to conclude action
+12 was made; or
+13 (B) has a national security agreement in effect on July 1, 2025, with
+14 the committee on foreign investment in the United States, or the United
+15 States department of defense, under 50 U.S.C. § 4565, as in effect on July
+16 1, 2025, and maintains such national security agreement.
+17 (b) The provisions of this section shall not apply to any contract or
+18 agreement entered into prior to July 1, 2025.
+19 Sec. 3. As used in sections 1 and 2, and amendments thereto:
+20 (a) "Company" means any:
+21 (1) For-profit corporation, partnership, limited partnership, limited
+22 liability partnership, limited liability company, joint venture, trust,
+23 association, sole proprietorship or other organization, including any:
+24 (A) Subsidiary of such company, a majority ownership interest of
+25 which is held by such company;
+26 (B) parent company that holds a majority ownership interest of such
+27 company; and
+28 (C) other affiliate or business association of such company whose
+29 primary purpose is to make a profit; or
+30 (2) nonprofit organization.
+31 (b) (1) "Country of concern" means the following:
+32 (A) People's republic of China, including the Hong Kong special
+33 administrative region;
+34 (B) republic of Cuba;
+35 (C) islamic republic of Iran;
+36 (D) democratic people's republic of Korea;
+37 (E) Russian federation; and
+38 (F) Bolivarian republic of Venezuela.
+39 (2) "Country of concern" does not include the republic of China
+40 (Taiwan).
+41 (c) (1) "Critical component" means those components or
+42 subcomponents that are:
+43 (A) Distinct and serviceable articles; and
+HB 2293 3
+1 (B) the primary component or subcomponent of an identifiable
+2 process or subprocess necessary to the recording, storing or transmitting of
+3 data or any other form of information.
+4 (2) "Critical component" includes any software installed in a drone.
+5 (d) "Domicile" means the country where a:
+6 (1) Company is organized;
+7 (2) company completes a substantial portion of its business; or
+8 (3) majority of a company's ownership interest is held.
+9 (e) "Drone" means an unmanned aircraft that is controlled remotely
+10 by a human operator or operates autonomously through computer software
+11 or other programming.
+12 (f) "Foreign principal" means:
+13 (1) The government or any official of the government of a country of
+14 concern;
+15 (2) any political party, subdivision thereof or any member of a
+16 political party of a country of concern;
+17 (3) any corporation, partnership, association, organization or other
+18 combination of persons organized under the laws of or having its principal
+19 place of business in a country of concern. "Foreign principal" includes any
+20 subsidiary owned or wholly controlled by any such entity;
+21 (4) any agent of or any entity otherwise under the control of a country
+22 of concern;
+23 (5) any individual whose residence is in a country of concern and
+24 who is not a citizen or lawful permanent resident of the United States; or
+25 (6) any individual, entity or combination thereof described in
+26 paragraphs (1) through (5) that has a controlling interest in any company
+27 formed for the purpose of manufacturing, distributing, transporting or
+28 selling critical components for drones and related services and equipment.
+29 (g) "Governmental agency" means the state or any political or taxing
+30 subdivision of the state or any office, agency or instrumentality thereof.
+31 (h) "State agency" means any department, authority, bureau, division,
+32 office or other governmental agency of this state.
+33 Sec. 4. This act shall take effect and be in force from and after its
+34 publication in the statute book.
+[DELETED: AN AT cg i; rg to de tpfafBSas t, ad ay or ae ss c0p1o2c3(4(5(6e7ce wh sn () my ce to be ud by t8g a9gl a ds tt  cl ct mt b0r1a2a3(4o5(6c7n8(9a0(1t2s3a4(5a]
+[DELETED: 3Sso(fp(no0i1a2w3(4t5S617(8a9S0(1(2ly p, ld ly c, jt v, t3a4(5w6(7c8(9p0(1(2(3a4(5(6(7(8(9(0(1() (l c" ms te cs o2s3(]
+[DELETED: 3(e pt or t f an pd((((((0b1o2(3(4c5(6p7(8c9p0s1(2o3(4w5(y i, ey or cn tf dd i6p7f8s9(0s1(2o3S4p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2293
+By Committee on Commerce, Labor and Economic Development
+Requested by Representative Croft
+2-5
+1 AN ACT concerning infrastructure; relating to drone technology;
+2 prohibiting the acquisition of critical components of drone technology
+3 from countries of concern; relating to state contracts; prohibiting state
+4 agencies from procuring final or finished goods or services from a
+5 foreign principal.
+6
+7 Be it enacted by the Legislature of the State of Kansas:
+8 Section 1. (a) In addition to the provisions of K.S.A. 75-3739, and
+9 amendments thereto, and any other applicable statutes concerning
+10 purchases, a governmental agency shall not purchase or acquire any drone
+11 or any related services, maintenance agreements or equipment, the critical
+12 components of which were:
+13 (1) Produced in any country of concern; or
+14 (2) produced or owned by any foreign principal.
+15 (b) Any critical components for drones or any related services or
+16 equipment that were acquired prior to July 1, 2025, and that are not in
+17 compliance with subsection (a) may continue to be used by the
+18 governmental agency that acquired such critical components. When a
+19 governmental agency determines that a critical component must be
+20 replaced, the governmental agency may use any replacement component
+21 acquired prior to July 1, 2025, but no new replacement component shall be
+22 acquired from any foreign principal.
+23 (c) Any acquisition that is otherwise prohibited under subsection (a)
+24 or (b) may be completed by a governmental agency if:
+25 (1) There is no other reasonable means to acquire such critical
+26 components or of addressing the needs of the governmental agency
+27 necessitating such acquisition;
+28 (2) the agreement for such acquisition is approved by the secretary of
+29 administration after consultation with the adjutant general; and
+30 (3) failure to acquire such critical components or otherwise address
+31 the needs of the governmental agency would pose a greater threat to the
+32 safety and security of this state than that posed by entering into such
+33 acquisition agreement.
+34 (d) The provisions of this section shall not apply to any contract or
+35 agreement entered into prior to July 1, 2025.
+
+HB 2293 2
+1 Sec. 2. (a) (1) Except as provided by paragraph (2), no state agency
+2 shall enter into a contract or agreement to procure final or finished goods
+3 or services from a foreign principal.
+4 (2) A state agency may enter into a contract or agreement to procure
+5 final or finished goods or services from a foreign principal if such foreign
+6 principal:
+7 (A) Previously received a determination that there are no unresolved
+8 national security concerns and action under 50 U.S.C. § 4565, as in effect
+9 on July 1, 2025, that has concluded with respect to a covered transaction,
+10 if such foreign principal has not undergone a change in control constituting
+11 a covered control transaction since such determination to conclude action
+12 was made; or
+13 (B) has a national security agreement in effect on July 1, 2025, with
+14 the committee on foreign investment in the United States, or the United
+15 States department of defense, under 50 U.S.C. § 4565, as in effect on July
+16 1, 2025, and maintains such national security agreement.
+17 (b) The provisions of this section shall not apply to any contract or
+18 agreement entered into prior to July 1, 2025.
+19 Sec. 3. As used in sections 1 and 2, and amendments thereto:
+20 (a) "Company" means any:
+21 (1) For-profit corporation, partnership, limited partnership, limited
+22 liability partnership, limited liability company, joint venture, trust,
+23 association, sole proprietorship or other organization, including any:
+24 (A) Subsidiary of such company, a majority ownership interest of
+25 which is held by such company;
+26 (B) parent company that holds a majority ownership interest of such
+27 company; and
+28 (C) other affiliate or business association of such company whose
+29 primary purpose is to make a profit; or
+30 (2) nonprofit organization.
+31 (b) (1) "Country of concern" means the following:
+32 (A) People's republic of China, including the Hong Kong special
+33 administrative region;
+34 (B) republic of Cuba;
+35 (C) islamic republic of Iran;
+36 (D) democratic people's republic of Korea;
+37 (E) Russian federation; and
+38 (F) Bolivarian republic of Venezuela.
+39 (2) "Country of concern" does not include the republic of China
+40 (Taiwan).
+41 (c) (1) "Critical component" means those components or
+42 subcomponents that are:
+43 (A) Distinct and serviceable articles; and
+
+HB 2293 3
+1 (B) the primary component or subcomponent of an identifiable
+2 process or subprocess necessary to the recording, storing or transmitting of
+3 data or any other form of information.
+4 (2) "Critical component" includes any software installed in a drone.
+5 (d) "Domicile" means the country where a:
+6 (1) Company is organized;
+7 (2) company completes a substantial portion of its business; or
+8 (3) majority of a company's ownership interest is held.
+9 (e) "Drone" means an unmanned aircraft that is controlled remotely
+10 by a human operator or operates autonomously through computer software
+11 or other programming.
+12 (f) "Foreign principal" means:
+13 (1) The government or any official of the government of a country of
+14 concern;
+15 (2) any political party, subdivision thereof or any member of a
+16 political party of a country of concern;
+17 (3) any corporation, partnership, association, organization or other
+18 combination of persons organized under the laws of or having its principal
+19 place of business in a country of concern. "Foreign principal" includes any
+20 subsidiary owned or wholly controlled by any such entity;
+21 (4) any agent of or any entity otherwise under the control of a country
+22 of concern;
+23 (5) any individual whose residence is in a country of concern and
+24 who is not a citizen or lawful permanent resident of the United States; or
+25 (6) any individual, entity or combination thereof described in
+26 paragraphs (1) through (5) that has a controlling interest in any company
+27 formed for the purpose of manufacturing, distributing, transporting or
+28 selling critical components for drones and related services and equipment.
+29 (g) "Governmental agency" means the state or any political or taxing
+30 subdivision of the state or any office, agency or instrumentality thereof.
+31 (h) "State agency" means any department, authority, bureau, division,
+32 office or other governmental agency of this state.
+33 Sec. 4. This act shall take effect and be in force from and after its
+34 publication in the statute book.
+
+[DELETED: AN AT cg i; rg to de tpfafBSas t, ad ay or ae ss c0p1o2c3(4(5(6e7ce wh sn () my ce to be ud by t8g a9gl a ds tt  cl ct mt b0r1a2a3(4o5(6c7n8(9a0(1t2s3a4(5a]
+[DELETED: 3Sso(fp(no0i1a2w3(4t5S617(8a9S0(1(2ly p, ld ly c, jt v, t3a4(5w6(7c8(9p0(1(2(3a4(5(6(7(8(9(0(1() (l c" ms te cs o2s3(]
+[DELETED: 3(e pt or t f an pd((((((0b1o2(3(4c5(6p7(8c9p0s1(2o3(4w5(y i, ey or cn tf dd i6p7f8s9(0s1(2o3S4p]

@@ -1,0 +1,209 @@
+Title: HOUSE BILL No. 2060
+Official Title: HOUSE BILL No. 2060
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Joint Committee on Information Technology
+1-22
+1 AN ACT concerning information technology; relating to the information
+2 technology executive council; requiring certain reports to be given to
+3 the joint committee on information technology; amending K.S.A. 2024
+4 Supp. 75-7203 and 75-7245 and repealing the existing sections.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 Section 1. K.S.A. 2024 Supp. 75-7203 hereby amended to read as
+8 follows: 75-7203. (a) The information technology executive council is
+9 hereby authorized to adopt such policies and rules and regulations as
+10 necessary to implement, administer and enforce the provisions of this act.
+11 (b) The council shall:
+12 (1) Adopt:
+13 (A) Information technology resource policies and procedures and
+14 project management methodologies for all executive branch agencies;
+15 (B) an information technology architecture, including
+16 telecommunications systems, networks and equipment, that covers all state
+17 agencies;
+18 (C) standards for data management for all executive branch agencies;
+19 and
+20 (D) a strategic information technology management plan for the
+21 executive branch;
+22 (2) provide direction and coordination for the application of the
+23 executive branch's information technology resources;
+24 (3) designate the ownership of information resource processes and the
+25 lead executive branch agency for implementation of new technologies and
+26 networks shared by multiple agencies within the executive branch of state
+27 government;
+28 (4) develop a plan to integrate all information technology services for
+29 the executive branch into the office of information technology services and
+30 all cybersecurity services for state educational institutions as defined in
+31 K.S.A. 76-711, and amendments thereto, into the office of information
+32 technology services and the Kansas information security office; and
+33 (5) perform such other functions and duties as necessary to carry out
+34 the provisions of this act.
+35 (c) The information technology executive council shall report the
+36 plan developed under subsection (b)(4) to the senate standing committee
+HB 2060 2
+1 on ways and means and, the house standing committee on legislative
+2 modernization or its successor committee and the joint committee on
+3 information technology prior to January 15, 2026, in accordance with
+4 K.S.A. 2024 Supp. 75-7245, and amendments thereto.
+5 Sec. 2. K.S.A. 2024 Supp. 75-7245 is hereby amended to read as
+6 follows: 75-7245. (a) On and after July 1, 2027, all cybersecurity services
+7 for each branch of state government shall be administered by the chief
+8 information technology officer and the chief information security officer of
+9 such branch. All cybersecurity employees within the legislative and
+10 executive branches of state government shall work at the direction of the
+11 chief information technology officer of the branch.
+12 (b) Prior to January 1, 2026:
+13 (1) The information technology executive council shall develop a
+14 plan to integrate all executive branch information technology services into
+15 the office of information technology services. The council shall consult
+16 with each agency head when developing such plan.
+17 (2) The judicial chief information technology officer shall develop an
+18 estimated project cost to provide information technology to judicial
+19 agencies and all employees of such agencies, including state and county-
+20 funded judicial branch district court employees. Such employees shall be
+21 required to use such state-issued information technology hardware. The
+22 project cost developed pursuant to this paragraph shall include, in
+23 consultation with the executive branch information technology officer, a
+24 plan to allow each piece of information technology hardware that is used
+25 by a judicial branch employee to access a judicial branch application to
+26 have access to the KANWIN network and an estimated project cost to
+27 develop a cybersecurity program for all judicial districts that complies
+28 with the national institute of standards and technology cybersecurity
+29 framework (CSF) 2.0, as in effect on July 1, 2024.
+30 (c) The information technology executive council shall report the
+31 plan developed pursuant to subsection (b) to the senate standing committee
+32 on ways and means and, the house standing committee on legislative
+33 modernization or its successor committee and the joint committee on
+34 information technology prior to January 15, 2026.
+35 (d) Prior to February 1, 2025, every website that is maintained by a
+36 branch of government or state agency shall be moved to a ".gov" domain.
+37 (e) On July 1, 2025, and each year thereafter, moneys appropriated
+38 from the state general fund to or any special revenue fund of any state
+39 agency for information technology and cybersecurity expenditures shall be
+40 appropriated as a separate line item and shall not be merged with other
+41 items of appropriation for such state agency to allow for detailed review
+42 by the senate committee on ways and means and the house of
+43 representatives committee on appropriations during each regular
+HB 2060 3
+1 legislative session.
+2 (f) The provisions of this section do not apply to state educational
+3 institutions as defined in K.S.A. 76-711, and amendments thereto.
+4 (g) This section shall expire on July 1, 2026.
+5 Sec. 3. K.S.A. 2024 Supp. 75-7203, as amended by section 20 of
+6 2024 Senate Bill No. 291, and 75-7245 are hereby repealed.
+7 Sec. 4. This act shall take effect and be in force from and after its
+8 publication in the statute book.
+[DELETED: AttSBSfh0n1(2(3(4p5(n in ty a, i6t7a8(9a0(1e2(3e4(5l6n7g8(9t0a1K2t3(4t5(6p]
+[DELETED: 0o a tm ai pKSffiss 0e1c2(3(4p5t6w7(8e9a0f1r2pt ct dd pt to ts ph sl i, i3c4p5b6h7d8w9f0(1p2o a t3m a4i5(6b7(8f9a0a1i2by te se ce on ws ad ms ad te he o3rs ce on as dg eh r]
+[DELETED: 0l(i(S2Sp]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2060
+By Joint Committee on Information Technology
+1-22
+1 AN ACT concerning information technology; relating to the information
+2 technology executive council; requiring certain reports to be given to
+3 the joint committee on information technology; amending K.S.A. 2024
+4 Supp. 75-7203 and 75-7245 and repealing the existing sections.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 Section 1. K.S.A. 2024 Supp. 75-7203 hereby amended to read as
+8 follows: 75-7203. (a) The information technology executive council is
+9 hereby authorized to adopt such policies and rules and regulations as
+10 necessary to implement, administer and enforce the provisions of this act.
+11 (b) The council shall:
+12 (1) Adopt:
+13 (A) Information technology resource policies and procedures and
+14 project management methodologies for all executive branch agencies;
+15 (B) an information technology architecture, including
+16 telecommunications systems, networks and equipment, that covers all state
+17 agencies;
+18 (C) standards for data management for all executive branch agencies;
+19 and
+20 (D) a strategic information technology management plan for the
+21 executive branch;
+22 (2) provide direction and coordination for the application of the
+23 executive branch's information technology resources;
+24 (3) designate the ownership of information resource processes and the
+25 lead executive branch agency for implementation of new technologies and
+26 networks shared by multiple agencies within the executive branch of state
+27 government;
+28 (4) develop a plan to integrate all information technology services for
+29 the executive branch into the office of information technology services and
+30 all cybersecurity services for state educational institutions as defined in
+31 K.S.A. 76-711, and amendments thereto, into the office of information
+32 technology services and the Kansas information security office; and
+33 (5) perform such other functions and duties as necessary to carry out
+34 the provisions of this act.
+35 (c) The information technology executive council shall report the
+36 plan developed under subsection (b)(4) to the senate standing committee
+
+HB 2060 2
+1 on ways and means and, the house standing committee on legislative
+2 modernization or its successor committee and the joint committee on
+3 information technology prior to January 15, 2026, in accordance with
+4 K.S.A. 2024 Supp. 75-7245, and amendments thereto.
+5 Sec. 2. K.S.A. 2024 Supp. 75-7245 is hereby amended to read as
+6 follows: 75-7245. (a) On and after July 1, 2027, all cybersecurity services
+7 for each branch of state government shall be administered by the chief
+8 information technology officer and the chief information security officer of
+9 such branch. All cybersecurity employees within the legislative and
+10 executive branches of state government shall work at the direction of the
+11 chief information technology officer of the branch.
+12 (b) Prior to January 1, 2026:
+13 (1) The information technology executive council shall develop a
+14 plan to integrate all executive branch information technology services into
+15 the office of information technology services. The council shall consult
+16 with each agency head when developing such plan.
+17 (2) The judicial chief information technology officer shall develop an
+18 estimated project cost to provide information technology to judicial
+19 agencies and all employees of such agencies, including state and county-
+20 funded judicial branch district court employees. Such employees shall be
+21 required to use such state-issued information technology hardware. The
+22 project cost developed pursuant to this paragraph shall include, in
+23 consultation with the executive branch information technology officer, a
+24 plan to allow each piece of information technology hardware that is used
+25 by a judicial branch employee to access a judicial branch application to
+26 have access to the KANWIN network and an estimated project cost to
+27 develop a cybersecurity program for all judicial districts that complies
+28 with the national institute of standards and technology cybersecurity
+29 framework (CSF) 2.0, as in effect on July 1, 2024.
+30 (c) The information technology executive council shall report the
+31 plan developed pursuant to subsection (b) to the senate standing committee
+32 on ways and means and, the house standing committee on legislative
+33 modernization or its successor committee and the joint committee on
+34 information technology prior to January 15, 2026.
+35 (d) Prior to February 1, 2025, every website that is maintained by a
+36 branch of government or state agency shall be moved to a ".gov" domain.
+37 (e) On July 1, 2025, and each year thereafter, moneys appropriated
+38 from the state general fund to or any special revenue fund of any state
+39 agency for information technology and cybersecurity expenditures shall be
+40 appropriated as a separate line item and shall not be merged with other
+41 items of appropriation for such state agency to allow for detailed review
+42 by the senate committee on ways and means and the house of
+43 representatives committee on appropriations during each regular
+
+HB 2060 3
+1 legislative session.
+2 (f) The provisions of this section do not apply to state educational
+3 institutions as defined in K.S.A. 76-711, and amendments thereto.
+4 (g) This section shall expire on July 1, 2026.
+5 Sec. 3. K.S.A. 2024 Supp. 75-7203, as amended by section 20 of
+6 2024 Senate Bill No. 291, and 75-7245 are hereby repealed.
+7 Sec. 4. This act shall take effect and be in force from and after its
+8 publication in the statute book.
+
+[DELETED: AttSBSfh0n1(2(3(4p5(n in ty a, i6t7a8(9a0(1e2(3e4(5l6n7g8(9t0a1K2t3(4t5(6p]
+[DELETED: 0o a tm ai pKSffiss 0e1c2(3(4p5t6w7(8e9a0f1r2pt ct dd pt to ts ph sl i, i3c4p5b6h7d8w9f0(1p2o a t3m a4i5(6b7(8f9a0a1i2by te se ce on ws ad ms ad te he o3rs ce on as dg eh r]
+[DELETED: 0l(i(S2Sp]

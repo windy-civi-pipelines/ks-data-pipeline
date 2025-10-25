@@ -1,0 +1,2656 @@
+Title: SENATE BILL No. 296
+Official Title: SENATE BILL No. 296
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 30 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Assessment and Taxation
+3-12
+1 AN ACT concerning the department of revenue; eliminating certain tax
+2 credits, exemptions, incentives, refunds and limitations, a transitional
+3 adjustment, a checkoff and a restoration program administered by the
+4 secretary that have expired or are no longer applicable; providing
+5 certain technical changes to remove or modify statutory cross
+6 references; amending K.S.A. 74-50,136, 74-8947, 75-3712, 75-4275,
+7 79-225, 79-255 and 79-32,140a and K.S.A. 2024 Supp. 79-32,117, 79-
+8 32,143a and 79-32,160a; also repealing K.S.A. 75-3713e, 79-201h, 79-
+9 1705, 79-3221f, 79-3288a, 79-32,117a, 79-32,117b, 79-32,117c, 79-
+10 32,117d, 79-32,117e, 79-32,140, 79-32,160b, 79-32,181, 79-32,181a,
+11 79-32,192, 79-32,193, 79-32,206, 79-32,214, 79-32,215, 79-32,238,
+12 79-32,239, 79-32,240, 79-32,241, 79-32,244, 79-32,257, 79-32,258,
+13 79-32,259, 79-32,260, 79-32,262, 79-32,264 and 79-32,272 and K.S.A.
+14 2024 Supp. 79-32,203.
+15
+16 Be it enacted by the Legislature of the State of Kansas:
+17 Section 1. K.S.A. 74-50,136 is hereby amended to read as follows:
+18 74-50,136. (a) The provisions of this section shall be known and may be
+19 cited as the "economic revitalization and reinvestment act."
+20 (b) The purpose of the economic revitalization and reinvestment act is
+21 to foster Kansas employment by encouraging product development and
+22 engineering leading to new manufactured products in Kansas.
+23 (c) As used in this act:
+24 (1) "Base eligibility period" means the three taxable years
+25 immediately preceding the date of application for benefits under this act.
+26 (2) "Eligible aviation business" means a person, corporation,
+27 partnership or other entity engaged in the aviation manufacturing or
+28 service industry and doing business in Kansas that satisfies conditions
+29 imposed by the secretary, which may include, among other conditions, that
+30 the person, corporation, partnership or other entity:
+31 (A) Paid at least $150,000,000 in average annual gross Kansas
+32 compensation, according to reports filed with the secretary of labor, during
+33 the base eligibility period;
+34 (B) paid at least $50,000 of average annual gross compensation per
+35 Kansas employee during the base eligibility period;
+36 (C) has invested at least $500,000,000 in real and tangible personal
+SB 296 2
+1 property located within and currently used in the operation of a business in
+2 Kansas; and
+3 (D) is described by the north American industrial classification
+4 system as being in the manufacturing or service sector.
+5 (3) "Eligible aviation project" means a research, development,
+6 engineering or manufacturing project:
+7 (A) Undertaken by an eligible aviation business relating to the
+8 development of a new or improved business component or product and
+9 may include, but not be limited to, product development and design,
+10 applied research, manufacturing, improvement, replacement or acquisition
+11 of real or personal property and modernization and retooling of existing
+12 property in Kansas,;
+13 (B) for which the eligible aviation business proposes to invest not less
+14 than $500,000,000 in Kansas in direct connection with the eligible aviation
+15 project of not less than $500,000,000 in Kansas; and
+16 (C) for which the eligible aviation business proposes to employ up to
+17 4,000 full-time employees in Kansas, as defined in K.S.A. 74-50,114, and
+18 amendments thereto.
+19 (4) "Eligible business" means a person, corporation, partnership or
+20 other entity doing business in Kansas that satisfies conditions imposed by
+21 the secretary, which may include, among other conditions, that the person,
+22 corporation, partnership or other entity:
+23 (A) Paid at least $600,000,000 in average annual gross Kansas
+24 compensation, according to reports filed with the secretary of labor, during
+25 the base eligibility period; and
+26 (B) paid at least $50,000 of average annual gross compensation per
+27 Kansas employee during the base eligibility period; and
+28 (C) has invested at least $1,000,000,000 in real and tangible personal
+29 property located within and currently used in the operation of a business in
+30 Kansas; and
+31 (D) is described by North American industrial classification system as
+32 being in the manufacturing sector.
+33 (5) "Eligible project" means a research, development, engineering or
+34 manufacturing project:
+35 (A) Undertaken by an eligible business relating to the development of
+36 a new or improved business component or product and may include, but
+37 not be limited to, product development and design, applied research,
+38 manufacturing, improvement, replacement or acquisition of real or
+39 personal property and modernization and retooling of existing property in
+40 Kansas,;
+41 (B) for which the eligible business proposes to invest not less than
+42 $500,000,000 in Kansas in direct connection with the eligible project of
+43 not less than $500,000,000 in Kansas; and
+SB 296 3
+1 (C) for which the eligible business proposes to employ up to 4,000
+2 full-time employees in Kansas, as defined in K.S.A. 74-50,114, and
+3 amendments thereto.
+4 (6) "Eligible wind or solar energy business" means a person,
+5 corporation, partnership or other entity engaged in the wind or solar energy
+6 manufacturing industry and doing business in Kansas that satisfies
+7 conditions imposed by the secretary, which may include among other
+8 conditions, that the person, corporation, partnership or other entity:
+9 (A) Pay at least $32,500 of average annual compensation per Kansas
+10 employee; and
+11 (B) is described by the North American industrial classification
+12 system as being in the manufacturing sector.
+13 (7) "Eligible wind or solar energy project" means a research,
+14 development, engineering or manufacturing project:
+15 (A) Undertaken by an eligible wind or solar energy business relating
+16 to the production of a business component or product and may include, but
+17 not be limited to, product development and design, applied research,
+18 manufacturing, improvement, replacement or acquisition of real or
+19 personal property and modernization and retooling of existing property in
+20 Kansas,;
+21 (B) for which the eligible wind or solar energy business proposes to
+22 invest not less than $30,000,000 in Kansas in direct connection with the
+23 eligible wind or solar energy project of not less than $30,000,000 in
+24 Kansas; and
+25 (C) for which the eligible wind or solar energy business proposes to
+26 employ at least 200 full-time employees in Kansas within five years, as
+27 defined in K.S.A. 74-50,114, and amendments thereto.
+28 (8) "Gross compensation" means gross wages and benefits paid to or
+29 on behalf of employees receiving wages.
+30 (9) "Secretary" means the secretary of commerce.
+31 (d) A person, corporation, partnership or other entity proposing to
+32 undertake an eligible project, eligible aviation project or eligible wind or
+33 solar energy project may apply to the secretary to enter into an agreement
+34 for benefits under this act. The application shall include (1) evidence that
+35 the applicant is an "eligible business," "eligible aviation business" or
+36 "eligible wind or solar energy business" as defined in subsection (c) and
+37 (2) a detailed description of the eligible project, eligible aviation project or
+38 eligible wind or solar energy project.
+39 (e) Upon receipt of an application described in subsection (d), if the
+40 secretary finds that the application is from an eligible business, eligible
+41 aviation business or eligible wind or solar energy business and that the
+42 project constitutes an eligible project, eligible aviation project or eligible
+43 wind or solar energy project, the secretary may enter into an agreement
+SB 296 4
+1 with the eligible business, eligible aviation business or eligible wind or
+2 solar energy business for benefits under this act. Such agreement for
+3 benefits shall be subject to review and approval of the state finance council
+4 created by K.S.A. 75-3708, and amendments thereto, acting on this matter
+5 which is hereby characterized as a matter of legislative delegation and
+6 subject to the guidelines prescribed in subsection (c) of K.S.A. 75-
+7 3711c(c), and amendments thereto. The agreement shall commit the
+8 secretary to request that the Kansas development finance authority issue
+9 bonds pursuant to the Kansas development finance authority act, K.S.A.
+10 74-8901 et seq., and amendments thereto, to finance the eligible project for
+11 the benefit of the eligible business in an aggregate principal amount not to
+12 exceed $500,000,000, plus costs of issuance, costs of credit enhancement,
+13 reserve funds and capitalized interest, or in the case of an eligible aviation
+14 project in a principal amount not to exceed $33,000,000 for a single
+15 eligible aviation project or in the case of an eligible wind or solar energy
+16 project in a principal amount not to exceed $5,000,000 for a single eligible
+17 wind or solar energy project and in an aggregate principal amount not to
+18 exceed $150,000,000 for all eligible aviation, wind or solar energy
+19 projects, plus costs of issuance, costs of credit enhancement, reserve funds
+20 and capitalized interest, and shall commit the eligible business, eligible
+21 aviation business or eligible wind or solar energy business to pay the
+22 principal of and interest on such obligations, except that during the period
+23 from the issuance of such bonds through the maturity of such obligations
+24 but not to exceed 20 years revenue realized from withholding upon Kansas
+25 wages paid by the eligible business, eligible aviation business or eligible
+26 wind or solar energy business pursuant to K.S.A. 79-3294 et seq., and
+27 amendments thereto, which is necessary to pay the principal and interest
+28 on such obligations shall be credited to the special economic revitalization
+29 fund created in subsection (h), and shall be transferred by the state
+30 treasurer to pay principal and interest on such obligations as provided by
+31 law. The agreement shall further specifically provide that if the revenue
+32 from the withholding upon Kansas wages is insufficient to pay principal
+33 and interest on the bonds, the eligible business, eligible aviation business
+34 or eligible wind or solar energy business shall remain obligated to make
+35 such payments. The terms and conditions with respect to the obligations
+36 shall be set forth in the agreement or in the financing documents relating to
+37 the issuance of the bonds. In the event the eligible business, eligible
+38 aviation business or eligible wind or solar energy business terminates,
+39 cancels or reduces the scope of the eligible project, eligible aviation
+40 project or eligible wind or solar energy project approved by the secretary,
+41 the agreement shall provide that with respect to debt service, the eligible
+42 business, eligible aviation business or eligible wind or solar energy
+43 business shall remain responsible for payment of the entire outstanding
+SB 296 5
+1 principal as well as any interest still outstanding, and no moneys
+2 remaining in the special economic revitalization fund shall be made
+3 available for the purpose of paying the remaining principal and interest
+4 portion of the eligible business', eligible aviation business' or eligible wind
+5 or solar energy business' debt service obligation.
+6 (f) Income tax refunds and balances due resulting from withholding
+7 upon Kansas wages paid by the eligible business, eligible aviation business
+8 or eligible wind or solar energy business pursuant to K.S.A. 79-3294 et
+9 seq., and amendments thereto, shall be reconciled on at least an annual
+10 basis by a method defined in the agreement described in subsection (e).
+11 (g) The Kansas development finance authority is hereby authorized to
+12 issue obligations, for the purpose of financing the eligible project, eligible
+13 aviation project or eligible wind or solar energy project provided in
+14 subsection (e), in a principal amount not to exceed the amount specified in
+15 subsection (e). The maximum maturity of bonds issued pursuant to this act
+16 shall be 20 years, unless the secretary shall find and determine that a
+17 maturity greater than 20 years, but in no event greater than 30 years, is
+18 necessary for economic feasibility of the eligible project, eligible aviation
+19 project or eligible wind or solar energy project of the eligible business,
+20 eligible aviation business or eligible wind or solar energy business.
+21 (h) The state treasurer shall credit all revenue collected or received
+22 from withholding upon Kansas wages paid by a taxpayer which is an
+23 eligible business, eligible aviation business or eligible wind or solar energy
+24 business with respect to an eligible project, eligible aviation project or
+25 eligible wind or solar energy project, as certified by the secretary, to the
+26 special economic revitalization fund, which fund is hereby created in the
+27 custody of the state treasurer but shall not be a part of the state general
+28 fund. Distributions from the special economic revitalization fund shall be
+29 used to pay principal and interest on the bonds as authorized pursuant to
+30 this act and shall not be subject to appropriation. On or before the 10th day
+31 of each month, the director of accounts and reports shall transfer from the
+32 state general fund to the special economic revitalization fund interest
+33 earnings based on: (1) The average daily balance of moneys in the special
+34 economic revitalization fund for the preceding month; and (2) the net
+35 earnings rate of the pooled money investment portfolio for the preceding
+36 month. The provisions of this section shall expire when all principal and
+37 interest on obligations issued for the purpose of financing all or a portion
+38 of the costs of an eligible project, eligible aviation project or eligible wind
+39 or solar energy project has been paid. Moneys credited to the special
+40 economic revitalization fund in accordance with the foregoing provisions
+41 shall be distributed to or on the order of the Kansas development finance
+42 authority to pay principal and interest on bonds issued to finance an
+43 eligible project, eligible aviation project or eligible wind or solar energy
+SB 296 6
+1 project. The state treasurer shall make such distributions on such dates as
+2 mutually agreed to by the Kansas development finance authority, the
+3 paying agent for such obligations and the state treasurer. The total of all
+4 distributions under this section shall not exceed an amount determined to
+5 be sufficient to pay the principal and interest on such bonds.
+6 (i) The eligible business, eligible aviation business or eligible wind or
+7 solar energy business shall not be allowed to participate in the IMPACT
+8 act or program pursuant to K.S.A. 74-50,102 et seq., and amendments
+9 thereto, with respect to the eligible project, eligible aviation project or
+10 eligible wind or solar energy project. The secretary may include provisions
+11 in the agreement described in subsection (e) to limit or reduce the amount
+12 of eligible credits, including but not limited to those allowed pursuant to
+13 K.S.A. 79-32,160a, or 79-32,182b or 79-32,206, and amendments thereto,
+14 on the investment of the proceeds of the bonds issued under this act.
+15 Nothing in this subsection shall be construed to prohibit the eligible
+16 business, eligible aviation business or eligible wind or solar energy
+17 business from receiving credits allowed by law for any investment not
+18 related to bonds issued pursuant to this section.
+19 (j) All hiring and use of the employees described in subsection (c)(5)
+20 (C) by an eligible business in connection with an eligible project, or
+21 described in subsection (c)(3)(C) by an eligible aviation business in
+22 connection with an eligible aviation project or an eligible wind or solar
+23 energy business, as described in subsection (c)(7), shall be subject to post
+24 audit under the legislative post audit act, and amendments thereto. All
+25 audit expenses incurred shall be charged to and paid by such eligible
+26 business or eligible aviation business. All moneys received for such audit
+27 expenses shall be deposited in the state treasury and credited to the audit
+28 services fund of the division of post audit. The division of post audit is
+29 hereby authorized to conduct the audit work authorized by this section in
+30 accordance with the provisions of the legislative post audit act, and
+31 amendments thereto.
+32 (k) Bonds issued under this section shall not be used to provide for or
+33 to increase compensation packages, rewards, bonuses, pensions, enhanced
+34 retirement, stock options, buyouts or substantial severance pay or other
+35 financial benefits to any chief executive officer, chief financial officer or
+36 any officers of the company.
+37 (l) The agreement described in subsection (e) shall include a
+38 provision requiring the eligible business, eligible aviation business or
+39 eligible wind or solar energy business to agree that:
+40 (1) The eligible business, eligible aviation business or eligible wind
+41 or solar energy business shall be subject to post audit under the legislative
+42 post audit act, and amendments thereto,;
+43 (2) the eligible business, eligible aviation business or eligible wind or
+SB 296 7
+1 solar energy business shall pay audit expenses; and
+2 (3) the eligible business, eligible aviation business or eligible wind or
+3 solar energy business shall not limit access to information required under
+4 the legislative post audit act, and amendments thereto.
+5 (m) The secretary shall report to the state finance council on any new
+6 agreements entered into between the secretary and an eligible business,
+7 eligible aviation business or eligible wind or solar energy business
+8 pursuant to this section.
+9 (n) No new eligible project, eligible aviation project or eligible wind
+10 or solar energy project shall be approved for financing under the
+11 provisions of this section on or after July 1, 2013.
+12 Sec. 2. K.S.A. 74-8947 is hereby amended to read as follows: 74-
+13 8947. (a) For the purpose of financing the construction of a new integrated
+14 coal gasification power plant or expansion of an existing integrated coal
+15 gasification power plant, the Kansas development finance authority is
+16 hereby authorized to issue revenue bonds pursuant to the Kansas
+17 development finance authority act, K.S.A. 74-8901 et seq., and
+18 amendments thereto, in amounts sufficient to pay the costs of such
+19 construction or expansion, including any required interest on the bonds
+20 during construction and installation, plus all amounts required for the costs
+21 of bond issuance, costs of credit enhancement or other financial contracts,
+22 capitalized interest and any required reserves on the bonds. The bonds, and
+23 interest thereon, issued pursuant to this section shall be payable from
+24 revenues pledged to the Kansas development finance authority for such
+25 purpose, which may include revenues derived from sales of generation
+26 from the integrated coal gasification power plant.
+27 (b) The provisions of subsection (a) of K.S.A. 74-8905(a), and
+28 amendments thereto, shall not prohibit the issuance of bonds by the
+29 Kansas development finance authority for the purposes of this section and
+30 any such issuance of bonds is exempt from the provisions of subsection (a)
+31 of K.S.A. 74-8905(a), and amendments thereto, which that would operate
+32 to preclude such issuance.
+33 (c) Revenue bonds, including refunding revenue bonds, issued under
+34 this section shall not constitute an indebtedness of the state of Kansas, nor
+35 shall they constitute indebtedness within the meaning of any constitutional
+36 or statutory provision limiting the incurring of indebtedness.
+37 (d) Revenue bonds, including refunding revenue bonds, issued
+38 hereunder and the income derived therefrom are and shall be exempt from
+39 all state, county and municipal taxation in the state of Kansas, except
+40 Kansas estate taxes.
+41 (e) As used in this section:
+42 (1) "Expansion of an existing integrated coal gasification power
+43 plant" means expansion, beginning after December 31, 2005, of the
+SB 296 8
+1 capacity of an existing integrated coal gasification power plant by at least
+2 10% of such capacity, and includes construction or expansion of
+3 transmission facilities which that are located at the site of such plant and
+4 are employed specifically to serve such expansion.
+5 (2) "Integrated coal gasification power plant" has the meaning
+6 provided by K.S.A. 79-32,238, and amendments thereto means a facility
+7 that: (A) Is located in Kansas; (B) converts coal into synthesis gas that
+8 can be used as a fuel to generate energy; and (C) uses the synthesis gas as
+9 a fuel to generate electric energy.
+10 (3) "New integrated coal gasification power plant" means an
+11 integrated coal gasification power plant construction of which begins after
+12 December 31, 2005, and includes transmission facilities which that are
+13 located at the site of such plant and are employed specifically to serve such
+14 plant.
+15 Sec. 3. K.S.A. 75-3712 is hereby amended to read as follows: 75-
+16 3712. (a) The state emergency fund is hereby continued in the state
+17 treasury for the use of the state finance council created by K.S.A. 75-3708,
+18 and amendments thereto, for the purposes and within the limitations
+19 prescribed by K.S.A. 75-3713, 75-3713a, 75-3713b, 75-3713c, 75-3713d,
+20 and 75-3714 and K.S.A. 75-3713e, and amendments thereto.
+21 (b) (1) Upon certification by the director of the budget to the director
+22 of accounts and reports that the unencumbered balance in the state
+23 emergency fund is insufficient to pay an amount that is necessary to
+24 finance an action approved by the state finance council pursuant to K.S.A.
+25 75-3713, 75-3713a, 75-3713b, 75-3713c, or 75-3713d or K.S.A. 75-3713e,
+26 and amendments thereto, the director of accounts and reports shall transfer
+27 an amount equal to the insufficient amount from the state general fund to
+28 the state emergency fund. The total of all amounts transferred from the
+29 state general fund to the state emergency fund pursuant to this subsection
+30 (b)(1) during any fiscal year shall not exceed $10,000,000, excluding all
+31 amounts transferred from the state general fund pursuant to subsection (b)
+32 (2).
+33 (2) In addition to the provisions of subsection (b)(1), during the
+34 period commencing on the effective date of this act May 31, 2007, until
+35 January 14, 2008, notwithstanding the provisions of any other statute to
+36 the contrary:
+37 (A) The director of the budget shall: (i) Provide (i) notice to the state
+38 finance council that the unencumbered balance in the state emergency fund
+39 is insufficient to pay an amount that is necessary to finance an action
+40 approved by the state finance council pursuant to K.S.A. 75-3713, 75-
+41 3713a, or 75-3713b, or K.S.A. 75-3713e, and amendments thereto, which
+42 that is directly related to a severe weather-related state of disaster
+43 emergency declared by the governor pursuant to K.S.A. 48-924, and
+SB 296 9
+1 amendments thereto,; and (ii) the director of the budget shall include with
+2 such notice the director's recommendations regarding a specific amount or
+3 amounts, which that in the aggregate are equal to the insufficient amount,
+4 and which that could be transferred to the state emergency fund for such
+5 purpose from the state general fund or any special revenue fund or funds,
+6 or any account or accounts of the state general fund or any such special
+7 revenue fund or funds; and
+8 (B) upon approval such recommendation or any modification thereof
+9 by the state finance council, by unanimous vote of all of the members of
+10 the council, acting on this matter which that is hereby characterized as a
+11 matter of legislative delegation and subject to the guidelines prescribed in
+12 subsection (c) of K.S.A. 75-3711c(c), and amendments thereto, the
+13 director of the budget shall certify to the director of accounts and reports
+14 such recommendation, including any modifications, as approved by the
+15 state finance council; and
+16 (C) upon receipt of such certification by the director of the budget,
+17 the director of accounts and reports shall transfer the amount or amounts
+18 specified in such certification from the state general fund or any special
+19 revenue fund or funds, or any account or accounts of the state general fund
+20 or any such special revenue fund or funds, to the state emergency fund,
+21 except that the total of all amounts transferred to the state emergency fund
+22 pursuant to this subsection (b)(2) during the period commencing on the
+23 effective date of this act May 31, 2007, until January 14, 2008, shall not
+24 exceed $25,000,000.
+25 Sec. 4. K.S.A. 75-4275 is hereby amended to read as follows: 75-
+26 4275. Any state bank, national banking association or production credit
+27 association or agricultural credit association chartered by the farm credit
+28 administration under the federal farm credit act, as amended (12 U.S.C. §
+29 2001 et seq.), who claims a tax credit pursuant to K.S.A. 79-1126a or 79-
+30 32,181a, and amendments thereto, shall not use any funds from an
+31 agricultural production loan deposit, invested pursuant to K.S.A. 75-4268
+32 through 75-4274, and amendments thereto, for agricultural production
+33 loans to qualify for the tax credit pursuant to K.S.A. 79-1126a or 79-
+34 32,181a, and amendments thereto.
+35 Sec. 5. K.S.A. 79-225 is hereby amended to read as follows: 79-225.
+36 (a) The following described property, to the extent herein specified, shall
+37 be exempt from all property taxes levied under the laws of the state of
+38 Kansas:
+39 (1) Any new integrated coal gasification power plant property or any
+40 expanded integrated coal gasification power plant property.
+41 (2) All property purchased for or constructed or installed at an
+42 integrated coal gasification power plant to comply with air emission
+43 standards imposed by state or federal law.
+SB 296 10
+1 (b) The provisions of subsection (a) shall apply from and after
+2 purchase or commencement of construction or installation of such property
+3 and for the 12 taxable years immediately following the taxable year in
+4 which construction or installation of such property is completed.
+5 (c) The provisions of this section shall apply to all taxable years
+6 commencing after December 31, 2005.
+7 (d) As used in this section:
+8 (1) "Expanded integrated coal gasification power plant property"
+9 means any real or tangible personal property purchased, constructed or
+10 installed for incorporation in and use as part of an expansion of an existing
+11 integrated coal gasification power plant, construction of which expansion
+12 begins after December 31, 2005.
+13 (2) "Expansion of an existing integrated coal gasification power
+14 plant" means expansion of the capacity of an existing integrated coal
+15 gasification power plant by at least 10% of such capacity.
+16 (3) "Integrated coal gasification power plant" has the meaning
+17 provided by K.S.A. 79-32,238, and amendments thereto means a facility
+18 that: (A) Is located in Kansas; (B) converts coal into synthesis gas that
+19 can be used as a fuel to generate energy; and (C) uses the synthesis gas as
+20 a fuel to generate electric energy.
+21 (4) "New integrated coal gasification power plant property" means
+22 any real or tangible personal property purchased, constructed or installed
+23 for incorporation in and use as part of an integrated coal gasification
+24 power plant, construction of which begins after December 31, 2005.
+25 Sec. 6. K.S.A. 79-255 is hereby amended to read as follows: 79-255.
+26 (a) For all taxable years commencing after December 31, 1999, and
+27 subject to the provisions of this section, there shall be allowed as a
+28 property tax refund to the operator of an oil lease an amount equal to 50%
+29 of the total amount of property tax levied and actually and timely paid by
+30 the operator for a property tax year which is attributable to the working
+31 interest of an oil lease the average daily production per well from which is
+32 15 barrels or less when the price per barrel of oil is $16 or less, as
+33 prescribed in the oil and gas appraisal guide by the director of property
+34 valuation for the applicable tax year. No refund shall be allowed for
+35 property tax paid upon machinery and equipment for which a credit is
+36 claimed pursuant to K.S.A. 79-32,206, and amendments thereto.
+37 (b) No claim for a refund allowable pursuant to subsection (a) shall
+38 be paid unless filed with and in possession of the department of revenue on
+39 or before April 15 of the year next succeeding the year in which such taxes
+40 were paid, except that the director of taxation may extend the time for
+41 filing any claim or accept a claim filed after the deadline for filing when
+42 good cause exists therefor if the claim has been filed within three years of
+43 the deadline.
+SB 296 11
+1 (c) The allowable amount of such claim shall be paid to the operator
+2 from the income tax refund fund upon warrants of the director of accounts
+3 and reports pursuant to vouchers approved by the director of taxation or by
+4 any person designated by the claimant, but no warrant issued hereunder
+5 shall be drawn in an amount of less than $5. No interest shall be allowed
+6 on any payment made to an operator pursuant to this section.
+7 (d) Insofar as the same may be made applicable, the provisions of
+8 K.S.A. 79-3226, and amendments thereto, shall apply to claims for refunds
+9 allowable pursuant to this section which may become in dispute.
+10 (e) The department of revenue shall devise and provide forms and
+11 instructions necessary to administer this section, and the secretary of
+12 revenue may adopt rules and regulations for such purpose.
+13 Sec. 7. K.S.A. 2024 Supp. 79-32,117 is hereby amended to read as
+14 follows: 79-32,117. (a) The Kansas adjusted gross income of an individual
+15 means such individual's federal adjusted gross income for the taxable year,
+16 with the modifications specified in this section.
+17 (b) There shall be added to federal adjusted gross income:
+18 (i) Interest income less any related expenses directly incurred in the
+19 purchase of state or political subdivision obligations, to the extent that the
+20 same is not included in federal adjusted gross income, on obligations of
+21 any state or political subdivision thereof, but to the extent that interest
+22 income on obligations of this state or a political subdivision thereof issued
+23 prior to January 1, 1988, is specifically exempt from income tax under the
+24 laws of this state authorizing the issuance of such obligations, it shall be
+25 excluded from computation of Kansas adjusted gross income whether or
+26 not included in federal adjusted gross income. Interest income on
+27 obligations of this state or a political subdivision thereof issued after
+28 December 31, 1987, shall be excluded from computation of Kansas
+29 adjusted gross income whether or not included in federal adjusted gross
+30 income.
+31 (ii) Taxes on or measured by income or fees or payments in lieu of
+32 income taxes imposed by this state or any other taxing jurisdiction to the
+33 extent deductible in determining federal adjusted gross income and not
+34 credited against federal income tax. This paragraph shall not apply to taxes
+35 imposed under the provisions of K.S.A. 79-1107 or 79-1108, and
+36 amendments thereto, for privilege tax year 1995, and all such years
+37 thereafter.
+38 (iii) The federal net operating loss deduction, except that the federal
+39 net operating loss deduction shall not be added to an individual's federal
+40 adjusted gross income for tax years beginning after December 31, 2016.
+41 (iv) Federal income tax refunds received by the taxpayer if the
+42 deduction of the taxes being refunded resulted in a tax benefit for Kansas
+43 income tax purposes during a prior taxable year. Such refunds shall be
+SB 296 12
+1 included in income in the year actually received regardless of the method
+2 of accounting used by the taxpayer. For purposes hereof, a tax benefit shall
+3 be deemed to have resulted if the amount of the tax had been deducted in
+4 determining income subject to a Kansas income tax for a prior year
+5 regardless of the rate of taxation applied in such prior year to the Kansas
+6 taxable income, but only that portion of the refund shall be included as
+7 bears the same proportion to the total refund received as the federal taxes
+8 deducted in the year to which such refund is attributable bears to the total
+9 federal income taxes paid for such year. For purposes of the foregoing
+10 sentence, federal taxes shall be considered to have been deducted only to
+11 the extent such deduction does not reduce Kansas taxable income below
+12 zero.
+13 (v) The amount of any depreciation deduction or business expense
+14 deduction claimed on the taxpayer's federal income tax return for any
+15 capital expenditure in making any building or facility accessible to the
+16 handicapped, for which expenditure the taxpayer claimed the credit
+17 allowed by K.S.A. 79-32,177, and amendments thereto.
+18 (vi) Any amount of designated employee contributions picked up by
+19 an employer pursuant to K.S.A. 12-5005, 20-2603, 74-4919 and 74-4965,
+20 and amendments thereto.
+21 (vii) The amount of any charitable contribution made to the extent the
+22 same is claimed as the basis for the credit allowed pursuant to K.S.A. 79-
+23 32,196, and amendments thereto.
+24 (viii) The amount of any costs incurred for improvements to a swine
+25 facility, claimed for deduction in determining federal adjusted gross
+26 income, to the extent the same is claimed as the basis for any credit
+27 allowed pursuant to K.S.A. 79-32,204, and amendments thereto.
+28 (ix) The amount of any ad valorem taxes and assessments paid and
+29 the amount of any costs incurred for habitat management or construction
+30 and maintenance of improvements on real property, claimed for deduction
+31 in determining federal adjusted gross income, to the extent the same is
+32 claimed as the basis for any credit allowed pursuant to K.S.A. 79-32,203,
+33 and amendments thereto. The provisions of this paragraph shall expire
+34 and have no effect on and after July 1, 2025.
+35 (x) Amounts received as nonqualified withdrawals, as defined by
+36 K.S.A. 75-643, and amendments thereto, if, at the time of contribution to a
+37 family postsecondary education savings account, such amounts were
+38 subtracted from the federal adjusted gross income pursuant to subsection
+39 (c)(xv) or if such amounts are not already included in the federal adjusted
+40 gross income.
+41 (xi) The amount of any contribution made to the same extent the
+42 same is claimed as the basis for the credit allowed pursuant to K.S.A. 74-
+43 50,154, and amendments thereto.
+SB 296 13
+1 (xii) For taxable years commencing after December 31, 2004,
+2 amounts received as withdrawals not in accordance with the provisions of
+3 K.S.A. 74-50,204, and amendments thereto, if, at the time of contribution
+4 to an individual development account, such amounts were subtracted from
+5 the federal adjusted gross income pursuant to subsection (c)(xiii), or if
+6 such amounts are not already included in the federal adjusted gross
+7 income.
+8 (xiii) The amount of any expenditures claimed for deduction in
+9 determining federal adjusted gross income, to the extent the same is
+10 claimed as the basis for any credit allowed pursuant to K.S.A. 79-32,217
+11 through 79-32,220 or 79-32,222, and amendments thereto.
+12 (xiv) The amount of any amortization deduction claimed in
+13 determining federal adjusted gross income to the extent the same is
+14 claimed for deduction pursuant to K.S.A. 79-32,221, and amendments
+15 thereto.
+16 (xv) The amount of any expenditures claimed for deduction in
+17 determining federal adjusted gross income, to the extent the same is
+18 claimed as the basis for any credit allowed pursuant to K.S.A. 79-32,223
+19 through 79-32,226, 79-32,228 through 79-32,231, 79-32,233 through 79-
+20 32,236, 79-32,238 through 79-32,241, 79-32,245 through 79-32,248 or 79-
+21 32,251 through 79-32,254, and amendments thereto.
+22 (xvi) The amount of any amortization deduction claimed in
+23 determining federal adjusted gross income to the extent the same is
+24 claimed for deduction pursuant to K.S.A. 79-32,227, 79-32,232, 79-
+25 32,237, 79-32,249, 79-32,250 or 79-32,255, and amendments thereto.
+26 (xvii) The amount of any amortization deduction claimed in
+27 determining federal adjusted gross income to the extent the same is
+28 claimed for deduction pursuant to K.S.A. 79-32,256, and amendments
+29 thereto.
+30 (xviii) For taxable years commencing after December 31, 2006, the
+31 amount of any ad valorem or property taxes and assessments paid to a state
+32 other than Kansas or local government located in a state other than Kansas
+33 by a taxpayer who resides in a state other than Kansas, when the law of
+34 such state does not allow a resident of Kansas who earns income in such
+35 other state to claim a deduction for ad valorem or property taxes or
+36 assessments paid to a political subdivision of the state of Kansas in
+37 determining taxable income for income tax purposes in such other state, to
+38 the extent that such taxes and assessments are claimed as an itemized
+39 deduction for federal income tax purposes.
+40 (xix) For taxable years beginning after December 31, 2012, and
+41 ending before January 1, 2017, the amount of any: (1) Loss from business
+42 as determined under the federal internal revenue code and reported from
+43 schedule C and on line 12 of the taxpayer's form 1040 federal individual
+SB 296 14
+1 income tax return; (2) loss from rental real estate, royalties, partnerships, S
+2 corporations, except those with wholly owned subsidiaries subject to the
+3 Kansas privilege tax, estates, trusts, residual interest in real estate
+4 mortgage investment conduits and net farm rental as determined under the
+5 federal internal revenue code and reported from schedule E and on line 17
+6 of the taxpayer's form 1040 federal individual income tax return; and (3)
+7 farm loss as determined under the federal internal revenue code and
+8 reported from schedule F and on line 18 of the taxpayer's form 1040
+9 federal income tax return; all to the extent deducted or subtracted in
+10 determining the taxpayer's federal adjusted gross income. For purposes of
+11 this subsection, references to the federal form 1040 and federal schedule
+12 C, schedule E, and schedule F, shall be to such form and schedules as they
+13 existed for tax year 2011, and as revised thereafter by the internal revenue
+14 service.
+15 (xx) For taxable years beginning after December 31, 2012, and
+16 ending before January 1, 2017, the amount of any deduction for self-
+17 employment taxes under section 164(f) of the federal internal revenue
+18 code as in effect on January 1, 2012, and amendments thereto, in
+19 determining the federal adjusted gross income of an individual taxpayer, to
+20 the extent the deduction is attributable to income reported on schedule C,
+21 E or F and on line 12, 17 or 18 of the taxpayer's form 1040 federal income
+22 tax return.
+23 (xxi) For taxable years beginning after December 31, 2012, and
+24 ending before January 1, 2017, the amount of any deduction for pension,
+25 profit sharing, and annuity plans of self-employed individuals under
+26 section 62(a)(6) of the federal internal revenue code as in effect on January
+27 1, 2012, and amendments thereto, in determining the federal adjusted gross
+28 income of an individual taxpayer.
+29 (xxii) For taxable years beginning after December 31, 2012, and
+30 ending before January 1, 2017, the amount of any deduction for health
+31 insurance under section 162(l) of the federal internal revenue code as in
+32 effect on January 1, 2012, and amendments thereto, in determining the
+33 federal adjusted gross income of an individual taxpayer.
+34 (xxiii) For taxable years beginning after December 31, 2012, and
+35 ending before January 1, 2017, the amount of any deduction for domestic
+36 production activities under section 199 of the federal internal revenue code
+37 as in effect on January 1, 2012, and amendments thereto, in determining
+38 the federal adjusted gross income of an individual taxpayer.
+39 (xxiv) For taxable years commencing after December 31, 2013, that
+40 portion of the amount of any expenditure deduction claimed in
+41 determining federal adjusted gross income for expenses paid for medical
+42 care of the taxpayer or the taxpayer's spouse or dependents when such
+43 expenses were paid or incurred for an abortion, or for a health benefit plan,
+SB 296 15
+1 as defined in K.S.A. 65-6731, and amendments thereto, for the purchase of
+2 an optional rider for coverage of abortion in accordance with K.S.A. 40-
+3 2,190, and amendments thereto, to the extent that such taxes and
+4 assessments are claimed as an itemized deduction for federal income tax
+5 purposes.
+6 (xxv) For taxable years commencing after December 31, 2013, that
+7 portion of the amount of any expenditure deduction claimed in
+8 determining federal adjusted gross income for expenses paid by a taxpayer
+9 for health care when such expenses were paid or incurred for abortion
+10 coverage, a health benefit plan, as defined in K.S.A. 65-6731, and
+11 amendments thereto, when such expenses were paid or incurred for
+12 abortion coverage or amounts contributed to health savings accounts for
+13 such taxpayer's employees for the purchase of an optional rider for
+14 coverage of abortion in accordance with K.S.A. 40-2,190, and
+15 amendments thereto, to the extent that such taxes and assessments are
+16 claimed as a deduction for federal income tax purposes.
+17 (xxvi) For all taxable years beginning after December 31, 2016, the
+18 amount of any charitable contribution made to the extent the same is
+19 claimed as the basis for the credit allowed pursuant to K.S.A. 72-4357, and
+20 amendments thereto, and is also claimed as an itemized deduction for
+21 federal income tax purposes.
+22 (xxvii) For all taxable years commencing after December 31, 2020,
+23 the amount of any interest expense paid or accrued in a previous taxable
+24 year but allowed as a deduction pursuant to section 163 of the federal
+25 internal revenue code in the current taxable year by reason of the
+26 carryforward of disallowed business interest pursuant to section 163(j) of
+27 the federal internal revenue code. For purposes of this paragraph, an
+28 interest expense is considered paid or accrued only in the first taxable year
+29 the deduction would have been allowable pursuant to section 163 of the
+30 federal internal revenue code if the limitation pursuant to section 163(j) of
+31 the federal internal revenue code did not exist.
+32 (xxviii) For all taxable years beginning after December 31, 2021, the
+33 amount of any contributions to, or earnings from, a first-time home buyer
+34 savings account if distributions from the account were not used to pay for
+35 expenses or transactions authorized pursuant to K.S.A. 2024 Supp. 58-
+36 4904, and amendments thereto, or were not held for the minimum length
+37 of time required pursuant to K.S.A. 2024 Supp. 58-4904, and amendments
+38 thereto. Contributions to, or earnings from, such account shall also include
+39 any amount resulting from the account holder not designating a surviving
+40 payable on death beneficiary pursuant to K.S.A. 2024 Supp. 58-4904(e),
+41 and amendments thereto.
+42 (xxix) For all taxable years beginning after December 31, 2024, the
+43 amount of any contributions to, or earnings from, an adoption savings
+SB 296 16
+1 account if distributions from the account were not used to pay for expenses
+2 or transactions authorized pursuant to K.S.A. 2024 Supp. 38-2504, and
+3 amendments thereto, or were not held for the minimum length of time
+4 required pursuant to K.S.A. 2024 Supp. 38-2504, and amendments thereto.
+5 Contributions to, or earnings from, such account shall also include any
+6 amount resulting from the account holder not designating a surviving
+7 payable on death beneficiary pursuant to K.S.A. 2024 Supp. 38-2504(e),
+8 and amendments thereto.
+9 (c) There shall be subtracted from federal adjusted gross income:
+10 (i) Interest or dividend income on obligations or securities of any
+11 authority, commission or instrumentality of the United States and its
+12 possessions less any related expenses directly incurred in the purchase of
+13 such obligations or securities, to the extent included in federal adjusted
+14 gross income but exempt from state income taxes under the laws of the
+15 United States.
+16 (ii) Any amounts received which are included in federal adjusted
+17 gross income but which are specifically exempt from Kansas income
+18 taxation under the laws of the state of Kansas.
+19 (iii) The portion of any gain or loss from the sale or other disposition
+20 of property having a higher adjusted basis for Kansas income tax purposes
+21 than for federal income tax purposes on the date such property was sold or
+22 disposed of in a transaction in which gain or loss was recognized for
+23 purposes of federal income tax that does not exceed such difference in
+24 basis, but if a gain is considered a long-term capital gain for federal
+25 income tax purposes, the modification shall be limited to that portion of
+26 such gain which is included in federal adjusted gross income.
+27 (iv) The amount necessary to prevent the taxation under this act of
+28 any annuity or other amount of income or gain which was properly
+29 included in income or gain and was taxed under the laws of this state for a
+30 taxable year prior to the effective date of this act, as amended, to the
+31 taxpayer, or to a decedent by reason of whose death the taxpayer acquired
+32 the right to receive the income or gain, or to a trust or estate from which
+33 the taxpayer received the income or gain.
+34 (v) The amount of any refund or credit for overpayment of taxes on
+35 or measured by income or fees or payments in lieu of income taxes
+36 imposed by this state, or any taxing jurisdiction, to the extent included in
+37 gross income for federal income tax purposes.
+38 (vi) Accumulation distributions received by a taxpayer as a
+39 beneficiary of a trust to the extent that the same are included in federal
+40 adjusted gross income.
+41 (vii) Amounts received as annuities under the federal civil service
+42 retirement system from the civil service retirement and disability fund and
+43 other amounts received as retirement benefits in whatever form which
+SB 296 17
+1 were earned for being employed by the federal government or for service
+2 in the armed forces of the United States.
+3 (viii) Amounts received by retired railroad employees as a
+4 supplemental annuity under the provisions of 45 U.S.C. §§ 228b(a) and
+5 228c(a)(1) et seq.
+6 (ix) Amounts received by retired employees of a city and by retired
+7 employees of any board of such city as retirement allowances pursuant to
+8 K.S.A. 13-14,106, and amendments thereto, or pursuant to any charter
+9 ordinance exempting a city from the provisions of K.S.A. 13-14,106, and
+10 amendments thereto.
+11 (x) (1) For taxable years beginning after December 31, 2021, the
+12 amount of any federal credit disallowance under the provisions of 26
+13 U.S.C. § 280C(a).
+14 (2) For taxable years beginning after December 31, 2019, and ending
+15 before January 1, 2022, 50% of the amount of the federal employee
+16 retention credit disallowance under rules similar to the rules of 26 U.S.C. §
+17 280C(a). The taxpayer shall be required to prove that such taxpayer
+18 previously filed Kansas income tax returns and paid Kansas income tax on
+19 the disallowed amount. Notwithstanding any other provision of law to the
+20 contrary, any claim for refund or amended return relating to this
+21 subparagraph shall be allowed to be filed on or before April 15, 2025, and
+22 no claim for refund or amended return shall be allowed or filed after April
+23 15, 2025.
+24 (xi) For taxable years beginning after December 31, 1986, dividend
+25 income on stock issued by Kansas venture capital, inc.
+26 (xii) For taxable years beginning after December 31, 1989, amounts
+27 received by retired employees of a board of public utilities as pension and
+28 retirement benefits pursuant to K.S.A. 13-1246, 13-1246a and 13-1249,
+29 and amendments thereto.
+30 (xiii) For taxable years beginning after December 31, 2004, amounts
+31 contributed to and the amount of income earned on contributions deposited
+32 to an individual development account under K.S.A. 74-50,201 et seq., and
+33 amendments thereto.
+34 (xiv) For all taxable years commencing after December 31, 1996, that
+35 portion of any income of a bank organized under the laws of this state or
+36 any other state, a national banking association organized under the laws of
+37 the United States, an association organized under the savings and loan
+38 code of this state or any other state, or a federal savings association
+39 organized under the laws of the United States, for which an election as an
+40 S corporation under subchapter S of the federal internal revenue code is in
+41 effect, which accrues to the taxpayer who is a stockholder of such
+42 corporation and which is not distributed to the stockholders as dividends of
+43 the corporation. For taxable years beginning after December 31, 2012, and
+SB 296 18
+1 ending before January 1, 2017, the amount of modification under this
+2 subsection shall exclude the portion of income or loss reported on schedule
+3 E and included on line 17 of the taxpayer's form 1040 federal individual
+4 income tax return.
+5 (xv) The cumulative amounts not exceeding $3,000, or $6,000 for a
+6 married couple filing a joint return, for each designated beneficiary that
+7 are contributed to: (1) A family postsecondary education savings account
+8 established under the Kansas postsecondary education savings program or
+9 a qualified tuition program established and maintained by another state or
+10 agency or instrumentality thereof pursuant to section 529 of the internal
+11 revenue code of 1986, as amended, for the purpose of paying the qualified
+12 higher education expenses of a designated beneficiary; or (2) an achieving
+13 a better life experience (ABLE) account established under the Kansas
+14 ABLE savings program or a qualified ABLE program established and
+15 maintained by another state or agency or instrumentality thereof pursuant
+16 to section 529A of the internal revenue code of 1986, as amended, for the
+17 purpose of saving private funds to support an individual with a disability.
+18 The terms and phrases used in this paragraph shall have the meaning
+19 respectively ascribed thereto by the provisions of K.S.A. 75-643 and 75-
+20 652, and amendments thereto, and the provisions of such sections are
+21 hereby incorporated by reference for all purposes thereof. For all taxable
+22 years beginning after December 31, 2022, contributions made to a
+23 qualified tuition program account or a qualified ABLE program account
+24 pursuant to this paragraph on and after January 1 but prior to the date
+25 required for filing a return pursuant to K.S.A. 79-3221, and amendments
+26 thereto, of the successive taxable year may be elected by the taxpayer to
+27 apply to the prior taxable year if such election is made at the time of filing
+28 the return. No contribution shall be used as a modification pursuant to this
+29 paragraph in more than one taxable year.
+30 (xvi) For all taxable years beginning after December 31, 2004,
+31 amounts received by taxpayers who are or were members of the armed
+32 forces of the United States, including service in the Kansas army and air
+33 national guard, as a recruitment, sign up or retention bonus received by
+34 such taxpayer as an incentive to join, enlist or remain in the armed services
+35 of the United States, including service in the Kansas army and air national
+36 guard, and amounts received for repayment of educational or student loans
+37 incurred by or obligated to such taxpayer and received by such taxpayer as
+38 a result of such taxpayer's service in the armed forces of the United States,
+39 including service in the Kansas army and air national guard.
+40 (xvii) For all taxable years beginning after December 31, 2004,
+41 amounts received by taxpayers who are eligible members of the Kansas
+42 army and air national guard as a reimbursement pursuant to K.S.A. 48-
+43 281, and amendments thereto, and amounts received for death benefits
+SB 296 19
+1 pursuant to K.S.A. 48-282, and amendments thereto, to the extent that
+2 such death benefits are included in federal adjusted gross income of the
+3 taxpayer.
+4 (xviii) (A) For all taxable years beginning after December 31, 2007,
+5 and ending before January 1, 2024, amounts received as benefits under the
+6 federal social security act which are included in federal adjusted gross
+7 income of a taxpayer with federal adjusted gross income of $75,000 or
+8 less, whether such taxpayer's filing status is single, head of household,
+9 married filing separate or married filing jointly.
+10 (B) For all taxable years beginning after December 31, 2023, amounts
+11 received as benefits under the federal social security act that are included
+12 in federal adjusted gross income of a taxpayer.
+13 (xix) Amounts received by retired employees of Washburn university
+14 as retirement and pension benefits under the university's retirement plan.
+15 (xx) For taxable years beginning after December 31, 2012, and
+16 ending before January 1, 2017, the amount of any: (1) Net profit from
+17 business as determined under the federal internal revenue code and
+18 reported from schedule C and on line 12 of the taxpayer's form 1040
+19 federal individual income tax return; (2) net income, not including
+20 guaranteed payments as defined in section 707(c) of the federal internal
+21 revenue code and as reported to the taxpayer from federal schedule K-1,
+22 (form 1065-B), in box 9, code F or as reported to the taxpayer from federal
+23 schedule K-1, (form 1065) in box 4, from rental real estate, royalties,
+24 partnerships, S corporations, estates, trusts, residual interest in real estate
+25 mortgage investment conduits and net farm rental as determined under the
+26 federal internal revenue code and reported from schedule E and on line 17
+27 of the taxpayer's form 1040 federal individual income tax return; and (3)
+28 net farm profit as determined under the federal internal revenue code and
+29 reported from schedule F and on line 18 of the taxpayer's form 1040
+30 federal income tax return; all to the extent included in the taxpayer's
+31 federal adjusted gross income. For purposes of this subsection, references
+32 to the federal form 1040 and federal schedule C, schedule E, and schedule
+33 F, shall be to such form and schedules as they existed for tax year 2011
+34 and as revised thereafter by the internal revenue service.
+35 (xxi) For all taxable years beginning after December 31, 2013,
+36 amounts equal to the unreimbursed travel, lodging and medical
+37 expenditures directly incurred by a taxpayer while living, or a dependent
+38 of the taxpayer while living, for the donation of one or more human organs
+39 of the taxpayer, or a dependent of the taxpayer, to another person for
+40 human organ transplantation. The expenses may be claimed as a
+41 subtraction modification provided for in this section to the extent the
+42 expenses are not already subtracted from the taxpayer's federal adjusted
+43 gross income. In no circumstances shall the subtraction modification
+SB 296 20
+1 provided for in this section for any individual, or a dependent, exceed
+2 $5,000. As used in this section, "human organ" means all or part of a liver,
+3 pancreas, kidney, intestine, lung or bone marrow. The provisions of this
+4 paragraph shall take effect on the day the secretary of revenue certifies to
+5 the director of the budget that the cost for the department of revenue of
+6 modifications to the automated tax system for the purpose of
+7 implementing this paragraph will not exceed $20,000.
+8 (xxii) For taxable years beginning after December 31, 2012, and
+9 ending before January 1, 2017, the amount of net gain from the sale of: (1)
+10 Cattle and horses, regardless of age, held by the taxpayer for draft,
+11 breeding, dairy or sporting purposes, and held by such taxpayer for 24
+12 months or more from the date of acquisition; and (2) other livestock,
+13 regardless of age, held by the taxpayer for draft, breeding, dairy or
+14 sporting purposes, and held by such taxpayer for 12 months or more from
+15 the date of acquisition. The subtraction from federal adjusted gross income
+16 shall be limited to the amount of the additions recognized under the
+17 provisions of subsection (b)(xix) attributable to the business in which the
+18 livestock sold had been used. As used in this paragraph, the term
+19 "livestock" shall not include poultry.
+20 (xxiii) For all taxable years beginning after December 31, 2012,
+21 amounts received under either the Overland Park, Kansas police
+22 department retirement plan or the Overland Park, Kansas fire department
+23 retirement plan, both as established by the city of Overland Park, pursuant
+24 to the city's home rule authority.
+25 (xxiv) For taxable years beginning after December 31, 2013, and
+26 ending before January 1, 2017, the net gain from the sale from Christmas
+27 trees grown in Kansas and held by the taxpayer for six years or more.
+28 (xxv) For all taxable years commencing after December 31, 2020,
+29 100% of global intangible low-taxed income under section 951A of the
+30 federal internal revenue code of 1986, before any deductions allowed
+31 under section 250(a)(1)(B) of such code.
+32 (xxvi) (1) For all taxable years commencing after December 31,
+33 2020, the amount of any interest expense paid or accrued in the current
+34 taxable year and disallowed as a deduction pursuant to section 163(j) of
+35 the federal internal revenue code.
+36 (2) For purposes of this paragraph, an interest expense is considered
+37 paid or accrued only in the first taxable year the deduction would have
+38 been allowable pursuant to section 163 of the federal internal revenue code
+39 if the limitation pursuant to section 163(j) of the federal internal revenue
+40 code did not exist.
+41 (3) For tax year 2021, an amount equal to the sum of any interest
+42 expenses paid or accrued in tax years 2018, 2019 and 2020 less the sum of
+43 amounts allowed as a deduction pursuant to section 163 of the federal
+SB 296 21
+1 internal revenue code in tax years 2018, 2019 and 2020.
+2 (xxvii) For taxable years commencing after December 31, 2020, the
+3 amount disallowed as a deduction pursuant to section 274 of the federal
+4 internal revenue code of 1986 for meal expenditures shall be allowed to
+5 the extent such expense was deductible for determining federal income tax
+6 and was allowed and in effect on December 31, 2017.
+7 (xxviii) For all taxable years beginning after December 31, 2021: (1)
+8 The amount contributed to a first-time home buyer savings account
+9 pursuant to K.S.A. 2024 Supp. 58-4903, and amendments thereto, in an
+10 amount not to exceed $3,000 for an individual or $6,000 for a married
+11 couple filing a joint return; or (2) amounts received as income earned from
+12 assets in a first-time home buyer savings account. For all taxable years
+13 beginning after December 31, 2022, contributions made to a first-time
+14 home buyer savings account pursuant to subparagraph (1) on and after
+15 January 1 but prior to the date required for filing a return pursuant to
+16 K.S.A. 79-3221, and amendments thereto, of the successive taxable year
+17 may be elected by the taxpayer to apply to the prior taxable year if such
+18 election is made at the time of filing the return. No contribution shall be
+19 used as a modification pursuant to subparagraph (1) in more than one
+20 taxable year.
+21 (xxix) For taxable years beginning after December 31, 2017, for an
+22 individual taxpayer who carried back federal net operating losses arising in
+23 a taxable year beginning after December 31, 2017, and before January 1,
+24 2021, pursuant to section 172(b)(1) of the federal internal revenue code as
+25 amended by the coronavirus aid, relief, and economic security act
+26 (CARES act), the amount of such federal net operating loss carryback for
+27 each applicable year. If the amount of such federal net operating loss
+28 carryback exceeds the taxpayer's Kansas adjusted gross income for such
+29 taxable year, the amount thereof that exceeds such Kansas adjusted gross
+30 income may be carried forward as a subtraction modification in the
+31 following taxable year or years until the total amount of such federal net
+32 operating loss carryback has been deducted, except that no such unused
+33 amount shall be carried forward for deduction as a subtraction
+34 modification after the 20th taxable year following the taxable year of the
+35 net operating loss. Notwithstanding any other provision of law to the
+36 contrary, an extension of time shall be allowed for a claim for refund or
+37 amended return for tax years 2018, 2019 or 2020 limited to the application
+38 of the provisions of this paragraph and such claim for refund or amended
+39 return must be filed on or before April 15, 2025.
+40 (xxx) For all taxable years beginning after December 31, 2024: (1)
+41 The amount contributed to an adoption savings account pursuant to K.S.A.
+42 2024 Supp. 38-2503, and amendments thereto, in an amount not to exceed
+43 $6,000 for an individual or $12,000 for a married couple filing a joint
+SB 296 22
+1 return; or (2) amounts received as income earned from assets in an
+2 adoption savings account.
+3 (d) There shall be added to or subtracted from federal adjusted gross
+4 income the taxpayer's share, as beneficiary of an estate or trust, of the
+5 Kansas fiduciary adjustment determined under K.S.A. 79-32,135, and
+6 amendments thereto.
+7 (e) The amount of modifications required to be made under this
+8 section by a partner which relates to items of income, gain, loss, deduction
+9 or credit of a partnership shall be determined under K.S.A. 79-32,131, and
+10 amendments thereto, to the extent that such items affect federal adjusted
+11 gross income of the partner.
+12 Sec. 8. K.S.A. 79-32,140a is hereby amended to read as follows: 79-
+13 32,140a. (a) Whenever, as a result of the provisions of K.S.A. 79-32,138 or
+14 79-32,140, and amendments thereto, an assessment of additional income
+15 tax is required to be made, no interest or penalties shall begin to accrue
+16 upon such assessment until July 1, 1984.
+17 (b) Whenever, as a result of the provisions of K.S.A. 79-32,138 or 79-
+18 32,140, and amendments thereto, an overpayment of income tax was
+19 incurred, interest shall not accrue on such overpayment until 90 days after
+20 the date of receipt of the taxpayer's claim of overpayment of tax.
+21 Sec. 9. K.S.A. 2024 Supp. 79-32,143a is hereby amended to read as
+22 follows: 79-32,143a. (a) For taxable years beginning after December 31,
+23 2020, a taxpayer may elect to take an expense deduction from Kansas net
+24 income before expensing or recapture allocated or apportioned to this state
+25 for the cost of the following property placed in service in this state during
+26 the taxable year: (1) Tangible property eligible for depreciation under the
+27 modified accelerated cost recovery system in section 168 of the internal
+28 revenue code, as amended, but not including residential rental property,
+29 nonresidential real property, any railroad grading or tunnel bore or any
+30 other property with an applicable recovery period in excess of 25 years as
+31 defined under section 168(c) or (g) of the internal revenue code, as
+32 amended; and (2) computer software as defined in section 197(e)(3)(B) of
+33 the internal revenue code, as amended, and as described in section 197(e)
+34 (3)(A)(i) of the internal revenue code, as amended, to which section 167 of
+35 the internal revenue code, as amended, applies. If such election is made,
+36 the amount of expense deduction for such cost shall equal the difference
+37 between the depreciable cost of such property for federal income tax
+38 purposes and the sum of the amount of bonus depreciation being claimed
+39 for such property pursuant to section 168(k) and the amount of expensing
+40 deduction being claimed for such property pursuant to section 179 of the
+41 internal revenue code, as amended, for federal income tax purposes in such
+42 tax year, multiplied by the applicable factor, determined by using, the table
+43 provided in subsection (f), based on the method of depreciation selected
+SB 296 23
+1 pursuant to section 168(b)(1), (2), or (3) or (g) of the internal revenue
+2 code, as amended, and the applicable recovery period for such property as
+3 defined under section 168(c) or (g) of the internal revenue code, as
+4 amended. This election shall be made by the due date of the original
+5 return, including any extensions, and may be made only for the taxable
+6 year in which the property is placed in service, and once made, shall be
+7 irrevocable.
+8 (b) If the amount of expense deduction calculated pursuant to
+9 subsection (a) exceeds the taxpayer's Kansas net income before expensing
+10 or recapture allocated or apportioned to this state, such excess amount
+11 shall be treated as a Kansas net operating loss as provided in K.S.A. 79-
+12 32,143, and amendments thereto.
+13 (c) If the property for which an expense deduction is taken pursuant
+14 to subsection (a) is subsequently sold during the applicable recovery
+15 period for such property as defined under section 168(c) of the internal
+16 revenue code, as amended, and in a manner that would cause recapture of
+17 any previously taken expense or depreciation deductions for federal
+18 income tax purposes, or if the situs of such property is otherwise changed
+19 such that the property is relocated outside the state of Kansas during such
+20 applicable recovery period, then the expense deduction determined
+21 pursuant to subsection (a) shall be subject to recapture and treated as
+22 Kansas taxable income allocated to this state. The amount of recapture
+23 shall be the Kansas expense deduction determined pursuant to subsection
+24 (a) multiplied by a fraction, the numerator of which is the number of years
+25 remaining in the applicable recovery period for such property as defined
+26 under section 168(c) or (g) of the internal revenue code, as amended, after
+27 such property is sold or removed from the state including the year of such
+28 disposition, and the denominator of which is the total number of years in
+29 such applicable recovery period.
+30 (d) The situs of tangible property for purposes of claiming and
+31 recapture of the expense deduction shall be the physical location of such
+32 property. If such property is mobile, the situs shall be the physical location
+33 of the business operations from where such property is used or based. The
+34 situs of computer software shall be apportioned to Kansas based on the
+35 fraction, the numerator of which is the number of the taxpayer's users
+36 located in Kansas of licenses for such computer software used in the active
+37 conduct of the taxpayer's business operations, and the denominator of
+38 which is the total number of the taxpayer's users of the licenses for such
+39 computer software used in the active conduct of the taxpayer's business
+40 operations everywhere.
+41 (e) Any member of a unitary group filing a combined report may
+42 elect to take an expense deduction pursuant to subsection (a) for an
+43 investment in property made by any member of the combined group,
+SB 296 24
+1 provided that the amount calculated pursuant to subsection (a) may only be
+2 deducted from the Kansas net income before expensing or recapture
+3 allocated to or apportioned to this state by such member making the
+4 election.
+5 (f) The following table shall be used in determining the expense
+6 deduction calculated pursuant to subsection (a):
+7 Factors
+8 IRC§168 IRC§168(b)(1) IRC§168(b)(2) IRC§168(b)(3) or (g)
+9 Recover Period Depreciation Depreciation Depreciation
+10 (year) Method Method Method
+11 2.5 * .077 .092
+12 3 .075 .091 .106
+13 3.5 * .102 .116
+14 4 * .114 .129
+15 5 .116 .135 .150
+16 6 * .154 .170
+17 6.5 * .163 .179
+18 7 .151 .173 .190
+19 7.5 * .181 .199
+20 8 * .191 .208
+21 8.5 * .199 .217
+22 9 * .208 .226
+23 9.5 * .216 .235
+24 10 .198 .224 .244
+25 10.5 * .232 .252
+26 11 * .240 .261
+27 11.5 * .248 .269
+28 12 * .256 .277
+29 12.5 * .263 .285
+30 13 * .271 .293
+31 13.5 * .278 .300
+32 14 * .285 .308
+33 15 * .299 .323
+34 16 * .313 .337
+35 16.5 * .319 .344
+36 17 * .326 .351
+37 18 * .339 .365
+38 19 * .351 .378
+39 20 * .363 .391
+40 22 * .386 .415
+41 24 * .408 .438
+42 25 * .419 .449
+43 *Not Applicable
+44
+SB 296 25
+1 (g) If a taxpayer elects to expense any investment pursuant to
+2 subsection (a), such taxpayer shall not be eligible for any tax credit,
+3 accelerated depreciation, or deduction for such investment allowed
+4 pursuant to K.S.A. 79-32,160a(e), 79-32,182b, 79-32,201, 79-32,204, 79-
+5 32,211, 79-32,218, 79-32,221, 79-32,222, 79-32,224, 79-32,227, 79-
+6 32,229, 79-32,232, 79-32,234, 79-32,237, 79-32,239, 79-32,246, 79-
+7 32,249, 79-32,252, 79-32,255, and 79-32,256 and 79-32,258, and
+8 amendments thereto.
+9 (h) (1) For tax year 2013, the deduction allowed by this section shall
+10 only be available to taxpayers subject to the income tax on corporations
+11 imposed pursuant to K.S.A. 79-32,110(c), and amendments thereto, and
+12 used only to determine such taxpayer's corporate income tax liability.
+13 (2) For tax years 2014 through 2020, the deduction allowed by this
+14 section shall only be available to taxpayers subject to the income tax on
+15 corporations imposed pursuant to K.S.A. 79-32,110(c), and amendments
+16 thereto, or the privilege tax imposed upon any national banking
+17 association, state bank, savings bank, trust company or savings and loan
+18 association pursuant to article 11 of chapter 79 of the Kansas Statutes
+19 Annotated, and amendments thereto, and used only to determine such
+20 taxpayer's corporate income or privilege tax liability.
+21 (i) For tax year 2021, and all tax years thereafter, the deduction
+22 allowed by this section shall be available to all taxpayers subject to the
+23 income tax imposed pursuant to K.S.A. 79-32,110, and amendments
+24 thereto, or the privilege tax imposed upon any national banking
+25 association, state bank, savings bank, trust company or savings and loan
+26 association pursuant to article 11 of chapter 79 of the Kansas Statutes
+27 Annotated, and amendments thereto, and used only to determine such
+28 taxpayer's income or privilege tax liability.
+29 Sec. 10. K.S.A. 2024 Supp. 79-32,160a is hereby amended to read as
+30 follows: 79-32,160a. (a) For taxable years commencing after December
+31 31, 1999, and before January 1, 2012, any taxpayer who shall invest in a
+32 qualified business facility, as defined in K.S.A. 79-32,154(b), and
+33 amendments thereto, and effective for tax years commencing after
+34 December 31, 2010, and before January 1, 2012, located in an area other
+35 than a metropolitan county as defined in either K.S.A. 74-50,114 or 74-
+36 50,211, and amendments thereto, and also meets the definition of a
+37 business in K.S.A. 74-50,114(b), and amendments thereto, shall be
+38 allowed a credit for such investment, in an amount determined under
+39 subsection (b) or (c), as the case requires, against the tax imposed by the
+40 Kansas income tax act or where the qualified business facility is the
+41 principal place from which the trade or business of the taxpayer is directed
+42 or managed and the facility has facilitated the creation of at least 20 new
+43 full-time positions, against the premium tax or privilege fees imposed
+SB 296 26
+1 pursuant to K.S.A. 40-252, and amendments thereto, or as measured by the
+2 net income of financial institutions imposed pursuant to article 11 of
+3 chapter 79 of the Kansas Statutes Annotated, and amendments thereto, for
+4 the taxable year during which commencement of commercial operations,
+5 as defined in K.S.A. 79-32,154(f), and amendments thereto, occurs at such
+6 qualified business facility. In the case of a taxpayer who meets the
+7 definition of a manufacturing business in K.S.A. 74-50,114(d), and
+8 amendments thereto, no credit shall be allowed under this section unless
+9 the number of qualified business facility employees, as determined under
+10 K.S.A. 79-32,154(d), and amendments thereto, engaged or maintained in
+11 employment at the qualified business facility as a direct result of the
+12 investment by the taxpayer for the taxable year for which the credit is
+13 claimed equals or exceeds two. In the case of a taxpayer who meets the
+14 definition of a nonmanufacturing business in K.S.A. 74-50,114(f), and
+15 amendments thereto, no credit shall be allowed under this section unless
+16 the number of qualified business facility employees, as determined under
+17 K.S.A. 79-32,154(d), and amendments thereto, engaged or maintained in
+18 employment at the qualified business facility as a direct result of the
+19 investment by the taxpayer for the taxable year for which the credit is
+20 claimed equals or exceeds five. Where an employee performs services for
+21 the taxpayer outside the qualified business facility, the employee shall be
+22 considered engaged or maintained in employment at the qualified business
+23 facility if: (1) The employee's service performed outside the qualified
+24 business facility is incidental to the employee's service inside the qualified
+25 business facility; or (2) the base of operations or, the place from which the
+26 service is directed or controlled, is at the qualified business facility.
+27 (b) The credit allowed by subsection (a) for any taxpayer who invests
+28 in a qualified business facility that is located in a designated
+29 nonmetropolitan region established under K.S.A. 74-50,116, and
+30 amendments thereto, on or after the effective date of this act, shall be a
+31 portion of the income tax imposed by the Kansas income tax act on the
+32 taxpayer's Kansas taxable income, the premium tax or privilege fees
+33 imposed pursuant to K.S.A. 40-252, and amendments thereto, or the
+34 privilege tax as measured by the net income of financial institutions
+35 imposed pursuant to article 11 of chapter 79 of the Kansas Statutes
+36 Annotated, and amendments thereto, for the taxable year for which such
+37 credit is allowed, but in the case where the qualified business facility
+38 investment was made prior to January 1, 1996, not in excess of 50% of
+39 such tax. Such portion shall be an amount equal to the sum of the
+40 following:
+41 (1) $2,500 for each qualified business facility employee determined
+42 under K.S.A. 79-32,154, and amendments thereto; plus
+43 (2) $1,000 for each $100,000, or major fraction thereof, which shall
+SB 296 27
+1 be deemed to be 51% or more, in qualified business facility investment, as
+2 determined under K.S.A. 79-32,154, and amendments thereto.
+3 (c) The credit allowed by subsection (a) for any taxpayer who invests
+4 in a qualified business facility that is not located in a nonmetropolitan
+5 region established under K.S.A. 74-50,116, and amendments thereto, and
+6 effective for tax years commencing after December 31, 2010, and before
+7 January 1, 2012, located in an area other than a metropolitan county as
+8 defined in either K.S.A. 74-50,114 or 74-50,211, and amendments thereto,
+9 and that also meets the definition of business in K.S.A. 74-50,114(b), and
+10 amendments thereto, on or after the effective date of this act, shall be a
+11 portion of the income tax imposed by the Kansas income tax act on the
+12 taxpayer's Kansas taxable income, the premium tax or privilege fees
+13 imposed pursuant to K.S.A. 40-252, and amendments thereto, or the
+14 privilege tax as measured by the net income of financial institutions
+15 imposed pursuant to article 11 of chapter 79 of the Kansas Statutes
+16 Annotated, and amendments thereto, for the taxable year for which such
+17 credit is allowed, but in the case where the qualified business facility
+18 investment was made prior to January 1, 1996, not in excess of 50% of
+19 such tax. Such portion shall be an amount equal to the sum of the
+20 following:
+21 (1) $1,500 for each qualified business facility employee as
+22 determined under K.S.A. 79-32,154, and amendments thereto; and
+23 (2) $1,000 for each $100,000, or major fraction thereof, which shall
+24 be deemed to be 51% or more, in qualified business facility investment as
+25 determined under K.S.A. 79-32,154, and amendments thereto.
+26 (d) The credit allowed by subsection (a) for each qualified business
+27 facility employee and for qualified business facility investment shall be a
+28 one-time credit. If the amount of the credit allowed under subsection (a)
+29 exceeds the tax imposed by the Kansas income tax act on the taxpayer's
+30 Kansas taxable income, the premium tax and privilege fees imposed
+31 pursuant to K.S.A. 40-252, and amendments thereto, or the privilege tax as
+32 measured by the net income of financial institutions imposed pursuant to
+33 article 11 of chapter 79 of the Kansas Statutes Annotated, and amendments
+34 thereto, for the taxable year, or in the case where the qualified business
+35 facility investment was made prior to January 1, 1996, 50% of such tax
+36 imposed upon the amount which exceeds such tax liability or such portion
+37 thereof may be carried over for credit in the same manner in the
+38 succeeding taxable years until the total amount of such credit is used.
+39 Except that, before the credit is allowed, a taxpayer, who meets the
+40 definition of a manufacturing business in K.S.A. 74-50,114(d), and
+41 amendments thereto, shall recertify annually that the net increase of a
+42 minimum of two qualified business facility employees has continued to be
+43 maintained and a taxpayer, who meets the definition of a
+SB 296 28
+1 nonmanufacturing business in K.S.A. 74-50,114(f), and amendments
+2 thereto, shall recertify annually that the net increase of a minimum of five
+3 qualified business employees has continued to be maintained.
+4 (e) Notwithstanding the foregoing provisions of this section, and
+5 except as otherwise provided in this subsection, any taxpayer qualified and
+6 certified under the provisions of K.S.A. 74-50,131, and amendments
+7 thereto, that prior to making a commitment to invest in a qualified Kansas
+8 business, has filed a certificate of intent to invest in a qualified business
+9 facility in a form satisfactory to the secretary of commerce, shall be
+10 entitled to a credit in an amount equal to 10% of that portion of the
+11 qualified business facility investment that exceeds $50,000 in lieu of the
+12 credit provided in subsection (b)(2) or (c)(2) without regard to the number
+13 of qualified business facility employees engaged or maintained in
+14 employment at the qualified business facility. For tax years beginning on
+15 or after January 1, 2012, for a qualified business facility investment in
+16 Douglas, Johnson, Sedgwick, Shawnee or Wyandotte county, such credit
+17 shall be in an amount equal to 10% of that portion of the qualified business
+18 facility investment that exceeds $1,000,000. Any taxpayer who has filed a
+19 certificate of intent to invest in a qualified business facility pursuant to this
+20 subsection in Douglas, Johnson, Sedgwick, Shawnee or Wyandotte county
+21 prior to December 31, 2011, and commences investments in a qualified
+22 business facility prior to December 31, 2013, may claim credits under
+23 K.S.A. 74-50,131, 74-50,132 and 79-32,160a(e), and amendments thereto,
+24 in an amount equal to 10% of that portion of the qualified business facility
+25 investment that exceeds $50,000. Timing modifications may be authorized
+26 at the discretion of the secretary of commerce and the secretary of revenue
+27 during the transition period. The credit allowed by this subsection shall be
+28 a one-time credit. If the amount thereof exceeds the tax imposed by the
+29 Kansas income tax act on the taxpayer's Kansas taxable income or the
+30 premium tax or privilege fees imposed pursuant to K.S.A. 40-252, and
+31 amendments thereto, or the privilege tax as measured by net income of
+32 financial institutions imposed pursuant to article 11 of chapter 79 of the
+33 Kansas Statutes Annotated, and amendments thereto, for the taxable year,
+34 the amount thereof that exceeds such tax liability may be carried forward
+35 for credit in the succeeding taxable year or years until the total amount of
+36 the tax credit is used, except that no such tax credit shall be carried
+37 forward for deduction after the 16th taxable year succeeding the taxable
+38 year in which such credit initially was claimed, and no carryforward shall
+39 be allowed for deduction in any succeeding taxable year unless the
+40 taxpayer certifies under oath that the taxpayer continues to meet the
+41 requirements of K.S.A. 74-50,131, and amendments thereto, and this act.
+42 In no event shall any credit allowed under this section that expired during
+43 any taxable year prior to the taxable year commencing January 1, 2011, be
+SB 296 29
+1 revived under the provisions of this act.
+2 (f) For projects placed into service on and after January 1, 2021, a
+3 taxpayer may transfer up to 50% of the tax credit allowed under subsection
+4 (e), as provided in this subsection. The taxpayer may make a transfer to
+5 one or more transferees, but the total of all transfers shall not exceed 50%
+6 of the taxpayer's tax credit. The taxpayer shall make the transfer or
+7 transfers within a single tax year. The credit may be transferred to any
+8 individual or entity and shall be claimed in the year the credit was
+9 transferred against the transferee's tax liability for the income tax under the
+10 Kansas income tax act or the premium tax or privilege fees imposed
+11 pursuant to K.S.A. 40-252, and amendments thereto, or the privilege tax as
+12 measured by the net income of financial institutions imposed pursuant to
+13 article 11 of chapter 79 of the Kansas Statutes Annotated, and amendments
+14 thereto. The amount of the credit that exceeds the transferee's tax liability
+15 for such year may be carried forward for credit in the succeeding taxable
+16 year or years until the total amount of the tax credit is used, except that no
+17 such credit shall be carried forward for deduction after the 16th taxable
+18 year succeeding the taxable year in which such credit was initially
+19 claimed. The taxpayer or transferee shall provide such documentation of
+20 the tax credit transfer to the secretary of revenue as may be required by the
+21 secretary.
+22 (g) In the event the tax credit earned by the taxpayer and transferred
+23 to a transferee is later disallowed in whole or in part by the secretary of
+24 revenue, the taxpayer that originally earned the tax credit shall be liable for
+25 repayment to the state in the amount disallowed.
+26 (h) For tax years commencing after December 31, 2005, any taxpayer
+27 claiming credits pursuant to this section, as a condition for claiming and
+28 qualifying for such credits, shall provide information pursuant to K.S.A.
+29 79-32,243, and amendments thereto, as part of the tax return in which such
+30 credits are claimed. Such credits shall not be denied solely on the basis of
+31 the contents of the information provided by the taxpayer pursuant to
+32 K.S.A. 79-32,243, and amendments thereto.
+33 (i) This section and K.S.A. 79-32,160b, and amendments thereto,
+34 shall be a part of and supplemental to the job expansion and investment
+35 credit act of 1976, and amendments thereto.
+36 Sec. 11. K.S.A. 74-50,136, 74-8947, 75-3712, 75-3713e, 75-4275,
+37 79-201h, 79-225, 79-255, 79-1705, 79-3221f, 79-3288a, 79-32,117a, 79-
+38 32,117b, 79-32,117c, 79-32,117d, 79-32,117e, 79-32,140, 79-32,140a, 79-
+39 32,160b, 79-32,181, 79-32,181a, 79-32,192, 79-32,193, 79-32,206, 79-
+40 32,214, 79-32,215, 79-32,238, 79-32,239, 79-32,240, 79-32,241, 79-
+41 32,244, 79-32,257, 79-32,258, 79-32,259, 79-32,260, 79-32,262, 79-
+42 32,264 and 79-32,272 and K.S.A. 2024 Supp. 79-32,117, 79-32,143a, 79-
+43 32,160a and 79-32,203 are hereby repealed.
+SB 296 30
+1 Sec. 12. This act shall take effect and be in force from and after its
+2 publication in the statute book.
+[DELETED: Acascn tl cs to re or my sy cr73103172737426B7S879c0(1t2e3(4(e ey p" ms te te te y5i6(e an b" ms a p, c7p8s9i0t1(2c3t4(5K6(]
+[DELETED: 6pK(s d b te nn il s(e an p" ms a r, de(s dm0a1o2p3(4t5p6(748a9(0o1t2c3(4c5t6(7K8(9p0K1(2b3(4m5(6a7n8m, i, rt or an of rl o9p0K1(2$3n]
+[DELETED: 6(fa(e wd or sr ey b" ms a pcmg i ad dg bs in Ks tt scc(0e1(2s3(e wd or sr ey p" ms a r4d5(6t7n8m, i, rt or an of rl o9p0K1(2i3e4K5(6e7d8(9o0(1(2u3s4f5tn  " o6"7(8e9(0s1a2p3w]
+[DELETED: 6wsbcws s K3sb071t2e3r4p5e6p7w8e9p0a1a2p3f4b5w6w7a8o9f0t1l2f3a4o5s6s7t8a9c0p1t2b3b]
+[DELETED: 6pl as wl as a it sl o, ad no mrapo(uos0b1(2i3a4s5s6s7m8n9p0e1(2f3e4b5e6s7c8f9u0t0 1o2s3e4e5e6m7i8o9o0e1s2a3e]
+[DELETED: 6pmpdb(sat0e1i2o3K4o5N6b7b8r9(0(1d2c3e4a5a6b7e8s9h0a1a2(3t4r5f6a7(e at dd in sn () sl ie a8p9e0(1o2p3(]
+[DELETED: 6s(st(aes p(0or sr ey pt sl be ad fr fg ur t1p2S384c5g6hy ad to ie re bs pt to te K7dt fe ay a, K. 71 et s, a8a9c0d1o2c3i4r5p6f7( s K8a9K0a1o2t3(4t5s6o7(e b, ig rg re b, i8h9a0K1(2(3p]
+[DELETED: 6c1% of sh c, ad is cn or en ota(d cl gn pr p hs te mptca0(w id cl gn pr p" ms a1i2D3l4p5S637t8a9p0a1(2o3e4f576a7a8t9s0(1a2(3(4p5J6t7(8f9i0a132t is 3e]
+[DELETED: 6asaapor(b0t1m2sn () o K. 7 ad as t t3d4s5s6(7t8s9r0o1e2p3e4e5S647a8a92031a2t3l o435S6(7b8K9(0e1(2i3s]
+[DELETED: 61(paw(c((m0i1i2b3(4p5g6(d cl gn pr p hs te m7p8t9c0a1(2a3f4p5S6(7s8p9o0t1i213p4v N5p6c7(8b9o0w1f2g3t]
+[DELETED: 61(faaso(Ka0(1i2r3S4f5m6w7(8(9p0s1a2i3p4l5e6nt id in fl ad gs i. It ie o7o8D9a0i1(2i3e4c5id ur te ps of K. 77 or 7, a6a7t8(9n0a1(2d3i]
+[DELETED: 61iobdrtbdf0s1t2z3(4d5c6hr 7a8(9a0a1(2s334(5f6i7a8(9t0a1i2c3a4a5(6K7f8s9(0g1(2s35]
+[DELETED: 61(r te ys cg ar Dr 3, 2aKttsi(d0c1t2(e at of ay an dn cd i3d4c5t6(s 7d8c9t03132(e at of ay an dn cd i3d4c536(e at of ay an dn cd i7d8c9t0(1a2o3b4s5o6a7d8t9d0(1e2a3s]
+[DELETED: 61icKs pe t, e, t, rl it in rl emfofre f0d1t2C3e4s5(6e7e8c9d0t1E2t3(4e5p6s718i9(0e1i2e3f4(5e6p7a8t9(0pn of te at of ay ee dn cd i1d2c3e]
+[DELETED: 61aa2, ad as t, to te et tt sh ts aap(pn of te at of ay ee dn cd idf0c1a2a3s4ce of an in ae wh K. 4, a5a6c7(8a9c0a1f2(3t4y5i6c7t8i9t0f1t2(3a4s5e647o8t9a0p1a2(3a]
+[DELETED: 61aoarCat pa(0(1a2p3s4g5U6(7g8t9(0o1t2d3p4b5i6s7(8a9i0t1t2t3t4(5o6i7g8(n ds rd by a tr as a9b0a1(2r3o]
+[DELETED: 61wi(s rd by rd rd es as as2(eKo0a1(2a3U4(5b6r72h 8p9t0c, ay cm fr rd or ad rn g to t1s2n314(5i6(7r8r9a0(1c2t3a4(5p6a7t8c9o0S1e2c3t]
+[DELETED: 61esEi(maea0a1r2h3a4A5m6t7p8T9r06s 1h2ys r r s e 3q4p5r6t7a8t9p0(1a2f3n4s5o6g7i8a9i0(1a2a32]
+[DELETED: 61pst(afilm0(1r2i3(4a5(6e7bl 8r9fl ; t t 0g1r2(3s4p5m6f7o8n9r0f1f2t3F4a5(6as el to te ud t, lg ad m7e8o9o0hn on t. Te es my be cd as a1s2e3g]
+[DELETED: 62p$pptms to te ad tx sm fr te pe oi(e0Cy 1b2m3r4s5t6s7p8ls 9"0(1as rd ur er te Od P, Ks p2d3r4t5(6e7t8(910f1u2(324t5t6(7p8b9i0c1(2e3a]
+[DELETED: 62i(aita(Tp0a1c2a3b4h5J6K7m8e9u0t1(2i3a425ad b te cs a, r, ad ec s a6(7ef 8c9t0i1f2o3at sl be cd fd fr dn as a s4m0 5nr 6c7a8o9r0(1T223$]
+[DELETED: 62ra(iKa(so0a1g2S33475t6u7(83 a a9i0t1S2f324i5f6t7m8r9n0o1d2a3t4(5t6t7b8p9f0d1i2t3p]
+[DELETED: 62pcdaryi(f te at of ee dn cd pt ts0o1s233(4t5p6r7a8i9s0ae ry p, tn te ee dn d1p2K3s4(5r6u7s8d9s0(1r2p3o4s5f6l7c8w9c0o1(2e3i]
+[DELETED: 62pdae(dF8I)I)IdDnDnD)MdMdM125*.7.23.5.1.335*.2.44*.4.55.6.5.66*.4.765*.3.87.1.3.975*.1.08*.1.185*.9.29*.8.395*.6.410.8.4.515*.2.611*.0.715*.8.812*.6.915*.3.013*.1.115*.8.214*.5.315*.9.416*.3.515*.9.617*.6.718*.9.819*.1.920*.3.022*.6.124*.8.225*.9.3*]
+[DELETED: 62(sad d, or dn fr sh it ap3, 7, 7, 7, 7, 7, 73, 7, 7, 7, 7, 7, 73, 7, 7 a 7 ad 7, aa(0o1i2u3(4s5c6t, or te pe tx id un ay nl b7a8a9A0t1(2a3i4t, or te pe tx id un ay nl b5a6a7A8t9S0f132qd bs f, as dd in K. 7, a3as t, ad ee fr tx ys cg a4D5t657bs in K. 7, ad as t, sl b8ah 9s0K1p2o3f]
+[DELETED: 62pnctaqdn f a m bs i K. 7, aat0K1e2i3c4d5a6t7K8e9i0c1t2c3f4b5b6s7(8in a qd bs fy tt is ld in a d9nn rn ed ur K. 7, a0a1p2t3i4p5i6A7c8i9s0f1(2u3(]
+[DELETED: 62bd(ireJda0a1p2t3i4p5i6A7c8i9s0f1(0 fr eh qd bs fy ee a2d3(4b5d6(7f8o9e0K1p2m3a4t5f6i7t8s9E0dn f a m bs i K. 7, a1a2m3md ad a t, wo ms te dn of a]
+[DELETED: 62n bs in K. 7, ad atq(ectbf0e1q2c3of qd bs fy es ed or md i4e5o6D7s8f9c0s1p2b3K4i5i6a7d8a9K0p1a2f3K4t5f6t7f6 8y9b0t1r2I3a]
+[DELETED: 62r(t(ootit0K1p2m3a4t5f6y7s6 8y9c0t1s2(3t4r5r6(7c8q970c1t2K3( a4s5c6S77839303, 7, 7, 7, 7, 7, 713, 7, 7, 7, 7, 7, 72333]
+[DELETED: 63Sp]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 296
+By Committee on Assessment and Taxation
+3-12
+1 AN ACT concerning the department of revenue; eliminating certain tax
+2 credits, exemptions, incentives, refunds and limitations, a transitional
+3 adjustment, a checkoff and a restoration program administered by the
+4 secretary that have expired or are no longer applicable; providing
+5 certain technical changes to remove or modify statutory cross
+6 references; amending K.S.A. 74-50,136, 74-8947, 75-3712, 75-4275,
+7 79-225, 79-255 and 79-32,140a and K.S.A. 2024 Supp. 79-32,117, 79-
+8 32,143a and 79-32,160a; also repealing K.S.A. 75-3713e, 79-201h, 79-
+9 1705, 79-3221f, 79-3288a, 79-32,117a, 79-32,117b, 79-32,117c, 79-
+10 32,117d, 79-32,117e, 79-32,140, 79-32,160b, 79-32,181, 79-32,181a,
+11 79-32,192, 79-32,193, 79-32,206, 79-32,214, 79-32,215, 79-32,238,
+12 79-32,239, 79-32,240, 79-32,241, 79-32,244, 79-32,257, 79-32,258,
+13 79-32,259, 79-32,260, 79-32,262, 79-32,264 and 79-32,272 and K.S.A.
+14 2024 Supp. 79-32,203.
+15
+16 Be it enacted by the Legislature of the State of Kansas:
+17 Section 1. K.S.A. 74-50,136 is hereby amended to read as follows:
+18 74-50,136. (a) The provisions of this section shall be known and may be
+19 cited as the "economic revitalization and reinvestment act."
+20 (b) The purpose of the economic revitalization and reinvestment act is
+21 to foster Kansas employment by encouraging product development and
+22 engineering leading to new manufactured products in Kansas.
+23 (c) As used in this act:
+24 (1) "Base eligibility period" means the three taxable years
+25 immediately preceding the date of application for benefits under this act.
+26 (2) "Eligible aviation business" means a person, corporation,
+27 partnership or other entity engaged in the aviation manufacturing or
+28 service industry and doing business in Kansas that satisfies conditions
+29 imposed by the secretary, which may include, among other conditions, that
+30 the person, corporation, partnership or other entity:
+31 (A) Paid at least $150,000,000 in average annual gross Kansas
+32 compensation, according to reports filed with the secretary of labor, during
+33 the base eligibility period;
+34 (B) paid at least $50,000 of average annual gross compensation per
+35 Kansas employee during the base eligibility period;
+36 (C) has invested at least $500,000,000 in real and tangible personal
+
+SB 296 2
+1 property located within and currently used in the operation of a business in
+2 Kansas; and
+3 (D) is described by the north American industrial classification
+4 system as being in the manufacturing or service sector.
+5 (3) "Eligible aviation project" means a research, development,
+6 engineering or manufacturing project:
+7 (A) Undertaken by an eligible aviation business relating to the
+8 development of a new or improved business component or product and
+9 may include, but not be limited to, product development and design,
+10 applied research, manufacturing, improvement, replacement or acquisition
+11 of real or personal property and modernization and retooling of existing
+12 property in Kansas,;
+13 (B) for which the eligible aviation business proposes to invest not less
+14 than $500,000,000 in Kansas in direct connection with the eligible aviation
+15 project of not less than $500,000,000 in Kansas; and
+16 (C) for which the eligible aviation business proposes to employ up to
+17 4,000 full-time employees in Kansas, as defined in K.S.A. 74-50,114, and
+18 amendments thereto.
+19 (4) "Eligible business" means a person, corporation, partnership or
+20 other entity doing business in Kansas that satisfies conditions imposed by
+21 the secretary, which may include, among other conditions, that the person,
+22 corporation, partnership or other entity:
+23 (A) Paid at least $600,000,000 in average annual gross Kansas
+24 compensation, according to reports filed with the secretary of labor, during
+25 the base eligibility period; and
+26 (B) paid at least $50,000 of average annual gross compensation per
+27 Kansas employee during the base eligibility period; and
+28 (C) has invested at least $1,000,000,000 in real and tangible personal
+29 property located within and currently used in the operation of a business in
+30 Kansas; and
+31 (D) is described by North American industrial classification system as
+32 being in the manufacturing sector.
+33 (5) "Eligible project" means a research, development, engineering or
+34 manufacturing project:
+35 (A) Undertaken by an eligible business relating to the development of
+36 a new or improved business component or product and may include, but
+37 not be limited to, product development and design, applied research,
+38 manufacturing, improvement, replacement or acquisition of real or
+39 personal property and modernization and retooling of existing property in
+40 Kansas,;
+41 (B) for which the eligible business proposes to invest not less than
+42 $500,000,000 in Kansas in direct connection with the eligible project of
+43 not less than $500,000,000 in Kansas; and
+
+SB 296 3
+1 (C) for which the eligible business proposes to employ up to 4,000
+2 full-time employees in Kansas, as defined in K.S.A. 74-50,114, and
+3 amendments thereto.
+4 (6) "Eligible wind or solar energy business" means a person,
+5 corporation, partnership or other entity engaged in the wind or solar energy
+6 manufacturing industry and doing business in Kansas that satisfies
+7 conditions imposed by the secretary, which may include among other
+8 conditions, that the person, corporation, partnership or other entity:
+9 (A) Pay at least $32,500 of average annual compensation per Kansas
+10 employee; and
+11 (B) is described by the North American industrial classification
+12 system as being in the manufacturing sector.
+13 (7) "Eligible wind or solar energy project" means a research,
+14 development, engineering or manufacturing project:
+15 (A) Undertaken by an eligible wind or solar energy business relating
+16 to the production of a business component or product and may include, but
+17 not be limited to, product development and design, applied research,
+18 manufacturing, improvement, replacement or acquisition of real or
+19 personal property and modernization and retooling of existing property in
+20 Kansas,;
+21 (B) for which the eligible wind or solar energy business proposes to
+22 invest not less than $30,000,000 in Kansas in direct connection with the
+23 eligible wind or solar energy project of not less than $30,000,000 in
+24 Kansas; and
+25 (C) for which the eligible wind or solar energy business proposes to
+26 employ at least 200 full-time employees in Kansas within five years, as
+27 defined in K.S.A. 74-50,114, and amendments thereto.
+28 (8) "Gross compensation" means gross wages and benefits paid to or
+29 on behalf of employees receiving wages.
+30 (9) "Secretary" means the secretary of commerce.
+31 (d) A person, corporation, partnership or other entity proposing to
+32 undertake an eligible project, eligible aviation project or eligible wind or
+33 solar energy project may apply to the secretary to enter into an agreement
+34 for benefits under this act. The application shall include (1) evidence that
+35 the applicant is an "eligible business," "eligible aviation business" or
+36 "eligible wind or solar energy business" as defined in subsection (c) and
+37 (2) a detailed description of the eligible project, eligible aviation project or
+38 eligible wind or solar energy project.
+39 (e) Upon receipt of an application described in subsection (d), if the
+40 secretary finds that the application is from an eligible business, eligible
+41 aviation business or eligible wind or solar energy business and that the
+42 project constitutes an eligible project, eligible aviation project or eligible
+43 wind or solar energy project, the secretary may enter into an agreement
+
+SB 296 4
+1 with the eligible business, eligible aviation business or eligible wind or
+2 solar energy business for benefits under this act. Such agreement for
+3 benefits shall be subject to review and approval of the state finance council
+4 created by K.S.A. 75-3708, and amendments thereto, acting on this matter
+5 which is hereby characterized as a matter of legislative delegation and
+6 subject to the guidelines prescribed in subsection (c) of K.S.A. 75-
+7 3711c(c), and amendments thereto. The agreement shall commit the
+8 secretary to request that the Kansas development finance authority issue
+9 bonds pursuant to the Kansas development finance authority act, K.S.A.
+10 74-8901 et seq., and amendments thereto, to finance the eligible project for
+11 the benefit of the eligible business in an aggregate principal amount not to
+12 exceed $500,000,000, plus costs of issuance, costs of credit enhancement,
+13 reserve funds and capitalized interest, or in the case of an eligible aviation
+14 project in a principal amount not to exceed $33,000,000 for a single
+15 eligible aviation project or in the case of an eligible wind or solar energy
+16 project in a principal amount not to exceed $5,000,000 for a single eligible
+17 wind or solar energy project and in an aggregate principal amount not to
+18 exceed $150,000,000 for all eligible aviation, wind or solar energy
+19 projects, plus costs of issuance, costs of credit enhancement, reserve funds
+20 and capitalized interest, and shall commit the eligible business, eligible
+21 aviation business or eligible wind or solar energy business to pay the
+22 principal of and interest on such obligations, except that during the period
+23 from the issuance of such bonds through the maturity of such obligations
+24 but not to exceed 20 years revenue realized from withholding upon Kansas
+25 wages paid by the eligible business, eligible aviation business or eligible
+26 wind or solar energy business pursuant to K.S.A. 79-3294 et seq., and
+27 amendments thereto, which is necessary to pay the principal and interest
+28 on such obligations shall be credited to the special economic revitalization
+29 fund created in subsection (h), and shall be transferred by the state
+30 treasurer to pay principal and interest on such obligations as provided by
+31 law. The agreement shall further specifically provide that if the revenue
+32 from the withholding upon Kansas wages is insufficient to pay principal
+33 and interest on the bonds, the eligible business, eligible aviation business
+34 or eligible wind or solar energy business shall remain obligated to make
+35 such payments. The terms and conditions with respect to the obligations
+36 shall be set forth in the agreement or in the financing documents relating to
+37 the issuance of the bonds. In the event the eligible business, eligible
+38 aviation business or eligible wind or solar energy business terminates,
+39 cancels or reduces the scope of the eligible project, eligible aviation
+40 project or eligible wind or solar energy project approved by the secretary,
+41 the agreement shall provide that with respect to debt service, the eligible
+42 business, eligible aviation business or eligible wind or solar energy
+43 business shall remain responsible for payment of the entire outstanding
+
+SB 296 5
+1 principal as well as any interest still outstanding, and no moneys
+2 remaining in the special economic revitalization fund shall be made
+3 available for the purpose of paying the remaining principal and interest
+4 portion of the eligible business', eligible aviation business' or eligible wind
+5 or solar energy business' debt service obligation.
+6 (f) Income tax refunds and balances due resulting from withholding
+7 upon Kansas wages paid by the eligible business, eligible aviation business
+8 or eligible wind or solar energy business pursuant to K.S.A. 79-3294 et
+9 seq., and amendments thereto, shall be reconciled on at least an annual
+10 basis by a method defined in the agreement described in subsection (e).
+11 (g) The Kansas development finance authority is hereby authorized to
+12 issue obligations, for the purpose of financing the eligible project, eligible
+13 aviation project or eligible wind or solar energy project provided in
+14 subsection (e), in a principal amount not to exceed the amount specified in
+15 subsection (e). The maximum maturity of bonds issued pursuant to this act
+16 shall be 20 years, unless the secretary shall find and determine that a
+17 maturity greater than 20 years, but in no event greater than 30 years, is
+18 necessary for economic feasibility of the eligible project, eligible aviation
+19 project or eligible wind or solar energy project of the eligible business,
+20 eligible aviation business or eligible wind or solar energy business.
+21 (h) The state treasurer shall credit all revenue collected or received
+22 from withholding upon Kansas wages paid by a taxpayer which is an
+23 eligible business, eligible aviation business or eligible wind or solar energy
+24 business with respect to an eligible project, eligible aviation project or
+25 eligible wind or solar energy project, as certified by the secretary, to the
+26 special economic revitalization fund, which fund is hereby created in the
+27 custody of the state treasurer but shall not be a part of the state general
+28 fund. Distributions from the special economic revitalization fund shall be
+29 used to pay principal and interest on the bonds as authorized pursuant to
+30 this act and shall not be subject to appropriation. On or before the 10th day
+31 of each month, the director of accounts and reports shall transfer from the
+32 state general fund to the special economic revitalization fund interest
+33 earnings based on: (1) The average daily balance of moneys in the special
+34 economic revitalization fund for the preceding month; and (2) the net
+35 earnings rate of the pooled money investment portfolio for the preceding
+36 month. The provisions of this section shall expire when all principal and
+37 interest on obligations issued for the purpose of financing all or a portion
+38 of the costs of an eligible project, eligible aviation project or eligible wind
+39 or solar energy project has been paid. Moneys credited to the special
+40 economic revitalization fund in accordance with the foregoing provisions
+41 shall be distributed to or on the order of the Kansas development finance
+42 authority to pay principal and interest on bonds issued to finance an
+43 eligible project, eligible aviation project or eligible wind or solar energy
+
+SB 296 6
+1 project. The state treasurer shall make such distributions on such dates as
+2 mutually agreed to by the Kansas development finance authority, the
+3 paying agent for such obligations and the state treasurer. The total of all
+4 distributions under this section shall not exceed an amount determined to
+5 be sufficient to pay the principal and interest on such bonds.
+6 (i) The eligible business, eligible aviation business or eligible wind or
+7 solar energy business shall not be allowed to participate in the IMPACT
+8 act or program pursuant to K.S.A. 74-50,102 et seq., and amendments
+9 thereto, with respect to the eligible project, eligible aviation project or
+10 eligible wind or solar energy project. The secretary may include provisions
+11 in the agreement described in subsection (e) to limit or reduce the amount
+12 of eligible credits, including but not limited to those allowed pursuant to
+13 K.S.A. 79-32,160a, or 79-32,182b or 79-32,206, and amendments thereto,
+14 on the investment of the proceeds of the bonds issued under this act.
+15 Nothing in this subsection shall be construed to prohibit the eligible
+16 business, eligible aviation business or eligible wind or solar energy
+17 business from receiving credits allowed by law for any investment not
+18 related to bonds issued pursuant to this section.
+19 (j) All hiring and use of the employees described in subsection (c)(5)
+20 (C) by an eligible business in connection with an eligible project, or
+21 described in subsection (c)(3)(C) by an eligible aviation business in
+22 connection with an eligible aviation project or an eligible wind or solar
+23 energy business, as described in subsection (c)(7), shall be subject to post
+24 audit under the legislative post audit act, and amendments thereto. All
+25 audit expenses incurred shall be charged to and paid by such eligible
+26 business or eligible aviation business. All moneys received for such audit
+27 expenses shall be deposited in the state treasury and credited to the audit
+28 services fund of the division of post audit. The division of post audit is
+29 hereby authorized to conduct the audit work authorized by this section in
+30 accordance with the provisions of the legislative post audit act, and
+31 amendments thereto.
+32 (k) Bonds issued under this section shall not be used to provide for or
+33 to increase compensation packages, rewards, bonuses, pensions, enhanced
+34 retirement, stock options, buyouts or substantial severance pay or other
+35 financial benefits to any chief executive officer, chief financial officer or
+36 any officers of the company.
+37 (l) The agreement described in subsection (e) shall include a
+38 provision requiring the eligible business, eligible aviation business or
+39 eligible wind or solar energy business to agree that:
+40 (1) The eligible business, eligible aviation business or eligible wind
+41 or solar energy business shall be subject to post audit under the legislative
+42 post audit act, and amendments thereto,;
+43 (2) the eligible business, eligible aviation business or eligible wind or
+
+SB 296 7
+1 solar energy business shall pay audit expenses; and
+2 (3) the eligible business, eligible aviation business or eligible wind or
+3 solar energy business shall not limit access to information required under
+4 the legislative post audit act, and amendments thereto.
+5 (m) The secretary shall report to the state finance council on any new
+6 agreements entered into between the secretary and an eligible business,
+7 eligible aviation business or eligible wind or solar energy business
+8 pursuant to this section.
+9 (n) No new eligible project, eligible aviation project or eligible wind
+10 or solar energy project shall be approved for financing under the
+11 provisions of this section on or after July 1, 2013.
+12 Sec. 2. K.S.A. 74-8947 is hereby amended to read as follows: 74-
+13 8947. (a) For the purpose of financing the construction of a new integrated
+14 coal gasification power plant or expansion of an existing integrated coal
+15 gasification power plant, the Kansas development finance authority is
+16 hereby authorized to issue revenue bonds pursuant to the Kansas
+17 development finance authority act, K.S.A. 74-8901 et seq., and
+18 amendments thereto, in amounts sufficient to pay the costs of such
+19 construction or expansion, including any required interest on the bonds
+20 during construction and installation, plus all amounts required for the costs
+21 of bond issuance, costs of credit enhancement or other financial contracts,
+22 capitalized interest and any required reserves on the bonds. The bonds, and
+23 interest thereon, issued pursuant to this section shall be payable from
+24 revenues pledged to the Kansas development finance authority for such
+25 purpose, which may include revenues derived from sales of generation
+26 from the integrated coal gasification power plant.
+27 (b) The provisions of subsection (a) of K.S.A. 74-8905(a), and
+28 amendments thereto, shall not prohibit the issuance of bonds by the
+29 Kansas development finance authority for the purposes of this section and
+30 any such issuance of bonds is exempt from the provisions of subsection (a)
+31 of K.S.A. 74-8905(a), and amendments thereto, which that would operate
+32 to preclude such issuance.
+33 (c) Revenue bonds, including refunding revenue bonds, issued under
+34 this section shall not constitute an indebtedness of the state of Kansas, nor
+35 shall they constitute indebtedness within the meaning of any constitutional
+36 or statutory provision limiting the incurring of indebtedness.
+37 (d) Revenue bonds, including refunding revenue bonds, issued
+38 hereunder and the income derived therefrom are and shall be exempt from
+39 all state, county and municipal taxation in the state of Kansas, except
+40 Kansas estate taxes.
+41 (e) As used in this section:
+42 (1) "Expansion of an existing integrated coal gasification power
+43 plant" means expansion, beginning after December 31, 2005, of the
+
+SB 296 8
+1 capacity of an existing integrated coal gasification power plant by at least
+2 10% of such capacity, and includes construction or expansion of
+3 transmission facilities which that are located at the site of such plant and
+4 are employed specifically to serve such expansion.
+5 (2) "Integrated coal gasification power plant" has the meaning
+6 provided by K.S.A. 79-32,238, and amendments thereto means a facility
+7 that: (A) Is located in Kansas; (B) converts coal into synthesis gas that
+8 can be used as a fuel to generate energy; and (C) uses the synthesis gas as
+9 a fuel to generate electric energy.
+10 (3) "New integrated coal gasification power plant" means an
+11 integrated coal gasification power plant construction of which begins after
+12 December 31, 2005, and includes transmission facilities which that are
+13 located at the site of such plant and are employed specifically to serve such
+14 plant.
+15 Sec. 3. K.S.A. 75-3712 is hereby amended to read as follows: 75-
+16 3712. (a) The state emergency fund is hereby continued in the state
+17 treasury for the use of the state finance council created by K.S.A. 75-3708,
+18 and amendments thereto, for the purposes and within the limitations
+19 prescribed by K.S.A. 75-3713, 75-3713a, 75-3713b, 75-3713c, 75-3713d,
+20 and 75-3714 and K.S.A. 75-3713e, and amendments thereto.
+21 (b) (1) Upon certification by the director of the budget to the director
+22 of accounts and reports that the unencumbered balance in the state
+23 emergency fund is insufficient to pay an amount that is necessary to
+24 finance an action approved by the state finance council pursuant to K.S.A.
+25 75-3713, 75-3713a, 75-3713b, 75-3713c, or 75-3713d or K.S.A. 75-3713e,
+26 and amendments thereto, the director of accounts and reports shall transfer
+27 an amount equal to the insufficient amount from the state general fund to
+28 the state emergency fund. The total of all amounts transferred from the
+29 state general fund to the state emergency fund pursuant to this subsection
+30 (b)(1) during any fiscal year shall not exceed $10,000,000, excluding all
+31 amounts transferred from the state general fund pursuant to subsection (b)
+32 (2).
+33 (2) In addition to the provisions of subsection (b)(1), during the
+34 period commencing on the effective date of this act May 31, 2007, until
+35 January 14, 2008, notwithstanding the provisions of any other statute to
+36 the contrary:
+37 (A) The director of the budget shall: (i) Provide (i) notice to the state
+38 finance council that the unencumbered balance in the state emergency fund
+39 is insufficient to pay an amount that is necessary to finance an action
+40 approved by the state finance council pursuant to K.S.A. 75-3713, 75-
+41 3713a, or 75-3713b, or K.S.A. 75-3713e, and amendments thereto, which
+42 that is directly related to a severe weather-related state of disaster
+43 emergency declared by the governor pursuant to K.S.A. 48-924, and
+
+SB 296 9
+1 amendments thereto,; and (ii) the director of the budget shall include with
+2 such notice the director's recommendations regarding a specific amount or
+3 amounts, which that in the aggregate are equal to the insufficient amount,
+4 and which that could be transferred to the state emergency fund for such
+5 purpose from the state general fund or any special revenue fund or funds,
+6 or any account or accounts of the state general fund or any such special
+7 revenue fund or funds; and
+8 (B) upon approval such recommendation or any modification thereof
+9 by the state finance council, by unanimous vote of all of the members of
+10 the council, acting on this matter which that is hereby characterized as a
+11 matter of legislative delegation and subject to the guidelines prescribed in
+12 subsection (c) of K.S.A. 75-3711c(c), and amendments thereto, the
+13 director of the budget shall certify to the director of accounts and reports
+14 such recommendation, including any modifications, as approved by the
+15 state finance council; and
+16 (C) upon receipt of such certification by the director of the budget,
+17 the director of accounts and reports shall transfer the amount or amounts
+18 specified in such certification from the state general fund or any special
+19 revenue fund or funds, or any account or accounts of the state general fund
+20 or any such special revenue fund or funds, to the state emergency fund,
+21 except that the total of all amounts transferred to the state emergency fund
+22 pursuant to this subsection (b)(2) during the period commencing on the
+23 effective date of this act May 31, 2007, until January 14, 2008, shall not
+24 exceed $25,000,000.
+25 Sec. 4. K.S.A. 75-4275 is hereby amended to read as follows: 75-
+26 4275. Any state bank, national banking association or production credit
+27 association or agricultural credit association chartered by the farm credit
+28 administration under the federal farm credit act, as amended (12 U.S.C. §
+29 2001 et seq.), who claims a tax credit pursuant to K.S.A. 79-1126a or 79-
+30 32,181a, and amendments thereto, shall not use any funds from an
+31 agricultural production loan deposit, invested pursuant to K.S.A. 75-4268
+32 through 75-4274, and amendments thereto, for agricultural production
+33 loans to qualify for the tax credit pursuant to K.S.A. 79-1126a or 79-
+34 32,181a, and amendments thereto.
+35 Sec. 5. K.S.A. 79-225 is hereby amended to read as follows: 79-225.
+36 (a) The following described property, to the extent herein specified, shall
+37 be exempt from all property taxes levied under the laws of the state of
+38 Kansas:
+39 (1) Any new integrated coal gasification power plant property or any
+40 expanded integrated coal gasification power plant property.
+41 (2) All property purchased for or constructed or installed at an
+42 integrated coal gasification power plant to comply with air emission
+43 standards imposed by state or federal law.
+
+SB 296 10
+1 (b) The provisions of subsection (a) shall apply from and after
+2 purchase or commencement of construction or installation of such property
+3 and for the 12 taxable years immediately following the taxable year in
+4 which construction or installation of such property is completed.
+5 (c) The provisions of this section shall apply to all taxable years
+6 commencing after December 31, 2005.
+7 (d) As used in this section:
+8 (1) "Expanded integrated coal gasification power plant property"
+9 means any real or tangible personal property purchased, constructed or
+10 installed for incorporation in and use as part of an expansion of an existing
+11 integrated coal gasification power plant, construction of which expansion
+12 begins after December 31, 2005.
+13 (2) "Expansion of an existing integrated coal gasification power
+14 plant" means expansion of the capacity of an existing integrated coal
+15 gasification power plant by at least 10% of such capacity.
+16 (3) "Integrated coal gasification power plant" has the meaning
+17 provided by K.S.A. 79-32,238, and amendments thereto means a facility
+18 that: (A) Is located in Kansas; (B) converts coal into synthesis gas that
+19 can be used as a fuel to generate energy; and (C) uses the synthesis gas as
+20 a fuel to generate electric energy.
+21 (4) "New integrated coal gasification power plant property" means
+22 any real or tangible personal property purchased, constructed or installed
+23 for incorporation in and use as part of an integrated coal gasification
+24 power plant, construction of which begins after December 31, 2005.
+25 Sec. 6. K.S.A. 79-255 is hereby amended to read as follows: 79-255.
+26 (a) For all taxable years commencing after December 31, 1999, and
+27 subject to the provisions of this section, there shall be allowed as a
+28 property tax refund to the operator of an oil lease an amount equal to 50%
+29 of the total amount of property tax levied and actually and timely paid by
+30 the operator for a property tax year which is attributable to the working
+31 interest of an oil lease the average daily production per well from which is
+32 15 barrels or less when the price per barrel of oil is $16 or less, as
+33 prescribed in the oil and gas appraisal guide by the director of property
+34 valuation for the applicable tax year. No refund shall be allowed for
+35 property tax paid upon machinery and equipment for which a credit is
+36 claimed pursuant to K.S.A. 79-32,206, and amendments thereto.
+37 (b) No claim for a refund allowable pursuant to subsection (a) shall
+38 be paid unless filed with and in possession of the department of revenue on
+39 or before April 15 of the year next succeeding the year in which such taxes
+40 were paid, except that the director of taxation may extend the time for
+41 filing any claim or accept a claim filed after the deadline for filing when
+42 good cause exists therefor if the claim has been filed within three years of
+43 the deadline.
+
+SB 296 11
+1 (c) The allowable amount of such claim shall be paid to the operator
+2 from the income tax refund fund upon warrants of the director of accounts
+3 and reports pursuant to vouchers approved by the director of taxation or by
+4 any person designated by the claimant, but no warrant issued hereunder
+5 shall be drawn in an amount of less than $5. No interest shall be allowed
+6 on any payment made to an operator pursuant to this section.
+7 (d) Insofar as the same may be made applicable, the provisions of
+8 K.S.A. 79-3226, and amendments thereto, shall apply to claims for refunds
+9 allowable pursuant to this section which may become in dispute.
+10 (e) The department of revenue shall devise and provide forms and
+11 instructions necessary to administer this section, and the secretary of
+12 revenue may adopt rules and regulations for such purpose.
+13 Sec. 7. K.S.A. 2024 Supp. 79-32,117 is hereby amended to read as
+14 follows: 79-32,117. (a) The Kansas adjusted gross income of an individual
+15 means such individual's federal adjusted gross income for the taxable year,
+16 with the modifications specified in this section.
+17 (b) There shall be added to federal adjusted gross income:
+18 (i) Interest income less any related expenses directly incurred in the
+19 purchase of state or political subdivision obligations, to the extent that the
+20 same is not included in federal adjusted gross income, on obligations of
+21 any state or political subdivision thereof, but to the extent that interest
+22 income on obligations of this state or a political subdivision thereof issued
+23 prior to January 1, 1988, is specifically exempt from income tax under the
+24 laws of this state authorizing the issuance of such obligations, it shall be
+25 excluded from computation of Kansas adjusted gross income whether or
+26 not included in federal adjusted gross income. Interest income on
+27 obligations of this state or a political subdivision thereof issued after
+28 December 31, 1987, shall be excluded from computation of Kansas
+29 adjusted gross income whether or not included in federal adjusted gross
+30 income.
+31 (ii) Taxes on or measured by income or fees or payments in lieu of
+32 income taxes imposed by this state or any other taxing jurisdiction to the
+33 extent deductible in determining federal adjusted gross income and not
+34 credited against federal income tax. This paragraph shall not apply to taxes
+35 imposed under the provisions of K.S.A. 79-1107 or 79-1108, and
+36 amendments thereto, for privilege tax year 1995, and all such years
+37 thereafter.
+38 (iii) The federal net operating loss deduction, except that the federal
+39 net operating loss deduction shall not be added to an individual's federal
+40 adjusted gross income for tax years beginning after December 31, 2016.
+41 (iv) Federal income tax refunds received by the taxpayer if the
+42 deduction of the taxes being refunded resulted in a tax benefit for Kansas
+43 income tax purposes during a prior taxable year. Such refunds shall be
+
+SB 296 12
+1 included in income in the year actually received regardless of the method
+2 of accounting used by the taxpayer. For purposes hereof, a tax benefit shall
+3 be deemed to have resulted if the amount of the tax had been deducted in
+4 determining income subject to a Kansas income tax for a prior year
+5 regardless of the rate of taxation applied in such prior year to the Kansas
+6 taxable income, but only that portion of the refund shall be included as
+7 bears the same proportion to the total refund received as the federal taxes
+8 deducted in the year to which such refund is attributable bears to the total
+9 federal income taxes paid for such year. For purposes of the foregoing
+10 sentence, federal taxes shall be considered to have been deducted only to
+11 the extent such deduction does not reduce Kansas taxable income below
+12 zero.
+13 (v) The amount of any depreciation deduction or business expense
+14 deduction claimed on the taxpayer's federal income tax return for any
+15 capital expenditure in making any building or facility accessible to the
+16 handicapped, for which expenditure the taxpayer claimed the credit
+17 allowed by K.S.A. 79-32,177, and amendments thereto.
+18 (vi) Any amount of designated employee contributions picked up by
+19 an employer pursuant to K.S.A. 12-5005, 20-2603, 74-4919 and 74-4965,
+20 and amendments thereto.
+21 (vii) The amount of any charitable contribution made to the extent the
+22 same is claimed as the basis for the credit allowed pursuant to K.S.A. 79-
+23 32,196, and amendments thereto.
+24 (viii) The amount of any costs incurred for improvements to a swine
+25 facility, claimed for deduction in determining federal adjusted gross
+26 income, to the extent the same is claimed as the basis for any credit
+27 allowed pursuant to K.S.A. 79-32,204, and amendments thereto.
+28 (ix) The amount of any ad valorem taxes and assessments paid and
+29 the amount of any costs incurred for habitat management or construction
+30 and maintenance of improvements on real property, claimed for deduction
+31 in determining federal adjusted gross income, to the extent the same is
+32 claimed as the basis for any credit allowed pursuant to K.S.A. 79-32,203,
+33 and amendments thereto. The provisions of this paragraph shall expire
+34 and have no effect on and after July 1, 2025.
+35 (x) Amounts received as nonqualified withdrawals, as defined by
+36 K.S.A. 75-643, and amendments thereto, if, at the time of contribution to a
+37 family postsecondary education savings account, such amounts were
+38 subtracted from the federal adjusted gross income pursuant to subsection
+39 (c)(xv) or if such amounts are not already included in the federal adjusted
+40 gross income.
+41 (xi) The amount of any contribution made to the same extent the
+42 same is claimed as the basis for the credit allowed pursuant to K.S.A. 74-
+43 50,154, and amendments thereto.
+
+SB 296 13
+1 (xii) For taxable years commencing after December 31, 2004,
+2 amounts received as withdrawals not in accordance with the provisions of
+3 K.S.A. 74-50,204, and amendments thereto, if, at the time of contribution
+4 to an individual development account, such amounts were subtracted from
+5 the federal adjusted gross income pursuant to subsection (c)(xiii), or if
+6 such amounts are not already included in the federal adjusted gross
+7 income.
+8 (xiii) The amount of any expenditures claimed for deduction in
+9 determining federal adjusted gross income, to the extent the same is
+10 claimed as the basis for any credit allowed pursuant to K.S.A. 79-32,217
+11 through 79-32,220 or 79-32,222, and amendments thereto.
+12 (xiv) The amount of any amortization deduction claimed in
+13 determining federal adjusted gross income to the extent the same is
+14 claimed for deduction pursuant to K.S.A. 79-32,221, and amendments
+15 thereto.
+16 (xv) The amount of any expenditures claimed for deduction in
+17 determining federal adjusted gross income, to the extent the same is
+18 claimed as the basis for any credit allowed pursuant to K.S.A. 79-32,223
+19 through 79-32,226, 79-32,228 through 79-32,231, 79-32,233 through 79-
+20 32,236, 79-32,238 through 79-32,241, 79-32,245 through 79-32,248 or 79-
+21 32,251 through 79-32,254, and amendments thereto.
+22 (xvi) The amount of any amortization deduction claimed in
+23 determining federal adjusted gross income to the extent the same is
+24 claimed for deduction pursuant to K.S.A. 79-32,227, 79-32,232, 79-
+25 32,237, 79-32,249, 79-32,250 or 79-32,255, and amendments thereto.
+26 (xvii) The amount of any amortization deduction claimed in
+27 determining federal adjusted gross income to the extent the same is
+28 claimed for deduction pursuant to K.S.A. 79-32,256, and amendments
+29 thereto.
+30 (xviii) For taxable years commencing after December 31, 2006, the
+31 amount of any ad valorem or property taxes and assessments paid to a state
+32 other than Kansas or local government located in a state other than Kansas
+33 by a taxpayer who resides in a state other than Kansas, when the law of
+34 such state does not allow a resident of Kansas who earns income in such
+35 other state to claim a deduction for ad valorem or property taxes or
+36 assessments paid to a political subdivision of the state of Kansas in
+37 determining taxable income for income tax purposes in such other state, to
+38 the extent that such taxes and assessments are claimed as an itemized
+39 deduction for federal income tax purposes.
+40 (xix) For taxable years beginning after December 31, 2012, and
+41 ending before January 1, 2017, the amount of any: (1) Loss from business
+42 as determined under the federal internal revenue code and reported from
+43 schedule C and on line 12 of the taxpayer's form 1040 federal individual
+
+SB 296 14
+1 income tax return; (2) loss from rental real estate, royalties, partnerships, S
+2 corporations, except those with wholly owned subsidiaries subject to the
+3 Kansas privilege tax, estates, trusts, residual interest in real estate
+4 mortgage investment conduits and net farm rental as determined under the
+5 federal internal revenue code and reported from schedule E and on line 17
+6 of the taxpayer's form 1040 federal individual income tax return; and (3)
+7 farm loss as determined under the federal internal revenue code and
+8 reported from schedule F and on line 18 of the taxpayer's form 1040
+9 federal income tax return; all to the extent deducted or subtracted in
+10 determining the taxpayer's federal adjusted gross income. For purposes of
+11 this subsection, references to the federal form 1040 and federal schedule
+12 C, schedule E, and schedule F, shall be to such form and schedules as they
+13 existed for tax year 2011, and as revised thereafter by the internal revenue
+14 service.
+15 (xx) For taxable years beginning after December 31, 2012, and
+16 ending before January 1, 2017, the amount of any deduction for self-
+17 employment taxes under section 164(f) of the federal internal revenue
+18 code as in effect on January 1, 2012, and amendments thereto, in
+19 determining the federal adjusted gross income of an individual taxpayer, to
+20 the extent the deduction is attributable to income reported on schedule C,
+21 E or F and on line 12, 17 or 18 of the taxpayer's form 1040 federal income
+22 tax return.
+23 (xxi) For taxable years beginning after December 31, 2012, and
+24 ending before January 1, 2017, the amount of any deduction for pension,
+25 profit sharing, and annuity plans of self-employed individuals under
+26 section 62(a)(6) of the federal internal revenue code as in effect on January
+27 1, 2012, and amendments thereto, in determining the federal adjusted gross
+28 income of an individual taxpayer.
+29 (xxii) For taxable years beginning after December 31, 2012, and
+30 ending before January 1, 2017, the amount of any deduction for health
+31 insurance under section 162(l) of the federal internal revenue code as in
+32 effect on January 1, 2012, and amendments thereto, in determining the
+33 federal adjusted gross income of an individual taxpayer.
+34 (xxiii) For taxable years beginning after December 31, 2012, and
+35 ending before January 1, 2017, the amount of any deduction for domestic
+36 production activities under section 199 of the federal internal revenue code
+37 as in effect on January 1, 2012, and amendments thereto, in determining
+38 the federal adjusted gross income of an individual taxpayer.
+39 (xxiv) For taxable years commencing after December 31, 2013, that
+40 portion of the amount of any expenditure deduction claimed in
+41 determining federal adjusted gross income for expenses paid for medical
+42 care of the taxpayer or the taxpayer's spouse or dependents when such
+43 expenses were paid or incurred for an abortion, or for a health benefit plan,
+
+SB 296 15
+1 as defined in K.S.A. 65-6731, and amendments thereto, for the purchase of
+2 an optional rider for coverage of abortion in accordance with K.S.A. 40-
+3 2,190, and amendments thereto, to the extent that such taxes and
+4 assessments are claimed as an itemized deduction for federal income tax
+5 purposes.
+6 (xxv) For taxable years commencing after December 31, 2013, that
+7 portion of the amount of any expenditure deduction claimed in
+8 determining federal adjusted gross income for expenses paid by a taxpayer
+9 for health care when such expenses were paid or incurred for abortion
+10 coverage, a health benefit plan, as defined in K.S.A. 65-6731, and
+11 amendments thereto, when such expenses were paid or incurred for
+12 abortion coverage or amounts contributed to health savings accounts for
+13 such taxpayer's employees for the purchase of an optional rider for
+14 coverage of abortion in accordance with K.S.A. 40-2,190, and
+15 amendments thereto, to the extent that such taxes and assessments are
+16 claimed as a deduction for federal income tax purposes.
+17 (xxvi) For all taxable years beginning after December 31, 2016, the
+18 amount of any charitable contribution made to the extent the same is
+19 claimed as the basis for the credit allowed pursuant to K.S.A. 72-4357, and
+20 amendments thereto, and is also claimed as an itemized deduction for
+21 federal income tax purposes.
+22 (xxvii) For all taxable years commencing after December 31, 2020,
+23 the amount of any interest expense paid or accrued in a previous taxable
+24 year but allowed as a deduction pursuant to section 163 of the federal
+25 internal revenue code in the current taxable year by reason of the
+26 carryforward of disallowed business interest pursuant to section 163(j) of
+27 the federal internal revenue code. For purposes of this paragraph, an
+28 interest expense is considered paid or accrued only in the first taxable year
+29 the deduction would have been allowable pursuant to section 163 of the
+30 federal internal revenue code if the limitation pursuant to section 163(j) of
+31 the federal internal revenue code did not exist.
+32 (xxviii) For all taxable years beginning after December 31, 2021, the
+33 amount of any contributions to, or earnings from, a first-time home buyer
+34 savings account if distributions from the account were not used to pay for
+35 expenses or transactions authorized pursuant to K.S.A. 2024 Supp. 58-
+36 4904, and amendments thereto, or were not held for the minimum length
+37 of time required pursuant to K.S.A. 2024 Supp. 58-4904, and amendments
+38 thereto. Contributions to, or earnings from, such account shall also include
+39 any amount resulting from the account holder not designating a surviving
+40 payable on death beneficiary pursuant to K.S.A. 2024 Supp. 58-4904(e),
+41 and amendments thereto.
+42 (xxix) For all taxable years beginning after December 31, 2024, the
+43 amount of any contributions to, or earnings from, an adoption savings
+
+SB 296 16
+1 account if distributions from the account were not used to pay for expenses
+2 or transactions authorized pursuant to K.S.A. 2024 Supp. 38-2504, and
+3 amendments thereto, or were not held for the minimum length of time
+4 required pursuant to K.S.A. 2024 Supp. 38-2504, and amendments thereto.
+5 Contributions to, or earnings from, such account shall also include any
+6 amount resulting from the account holder not designating a surviving
+7 payable on death beneficiary pursuant to K.S.A. 2024 Supp. 38-2504(e),
+8 and amendments thereto.
+9 (c) There shall be subtracted from federal adjusted gross income:
+10 (i) Interest or dividend income on obligations or securities of any
+11 authority, commission or instrumentality of the United States and its
+12 possessions less any related expenses directly incurred in the purchase of
+13 such obligations or securities, to the extent included in federal adjusted
+14 gross income but exempt from state income taxes under the laws of the
+15 United States.
+16 (ii) Any amounts received which are included in federal adjusted
+17 gross income but which are specifically exempt from Kansas income
+18 taxation under the laws of the state of Kansas.
+19 (iii) The portion of any gain or loss from the sale or other disposition
+20 of property having a higher adjusted basis for Kansas income tax purposes
+21 than for federal income tax purposes on the date such property was sold or
+22 disposed of in a transaction in which gain or loss was recognized for
+23 purposes of federal income tax that does not exceed such difference in
+24 basis, but if a gain is considered a long-term capital gain for federal
+25 income tax purposes, the modification shall be limited to that portion of
+26 such gain which is included in federal adjusted gross income.
+27 (iv) The amount necessary to prevent the taxation under this act of
+28 any annuity or other amount of income or gain which was properly
+29 included in income or gain and was taxed under the laws of this state for a
+30 taxable year prior to the effective date of this act, as amended, to the
+31 taxpayer, or to a decedent by reason of whose death the taxpayer acquired
+32 the right to receive the income or gain, or to a trust or estate from which
+33 the taxpayer received the income or gain.
+34 (v) The amount of any refund or credit for overpayment of taxes on
+35 or measured by income or fees or payments in lieu of income taxes
+36 imposed by this state, or any taxing jurisdiction, to the extent included in
+37 gross income for federal income tax purposes.
+38 (vi) Accumulation distributions received by a taxpayer as a
+39 beneficiary of a trust to the extent that the same are included in federal
+40 adjusted gross income.
+41 (vii) Amounts received as annuities under the federal civil service
+42 retirement system from the civil service retirement and disability fund and
+43 other amounts received as retirement benefits in whatever form which
+
+SB 296 17
+1 were earned for being employed by the federal government or for service
+2 in the armed forces of the United States.
+3 (viii) Amounts received by retired railroad employees as a
+4 supplemental annuity under the provisions of 45 U.S.C. §§ 228b(a) and
+5 228c(a)(1) et seq.
+6 (ix) Amounts received by retired employees of a city and by retired
+7 employees of any board of such city as retirement allowances pursuant to
+8 K.S.A. 13-14,106, and amendments thereto, or pursuant to any charter
+9 ordinance exempting a city from the provisions of K.S.A. 13-14,106, and
+10 amendments thereto.
+11 (x) (1) For taxable years beginning after December 31, 2021, the
+12 amount of any federal credit disallowance under the provisions of 26
+13 U.S.C. § 280C(a).
+14 (2) For taxable years beginning after December 31, 2019, and ending
+15 before January 1, 2022, 50% of the amount of the federal employee
+16 retention credit disallowance under rules similar to the rules of 26 U.S.C. §
+17 280C(a). The taxpayer shall be required to prove that such taxpayer
+18 previously filed Kansas income tax returns and paid Kansas income tax on
+19 the disallowed amount. Notwithstanding any other provision of law to the
+20 contrary, any claim for refund or amended return relating to this
+21 subparagraph shall be allowed to be filed on or before April 15, 2025, and
+22 no claim for refund or amended return shall be allowed or filed after April
+23 15, 2025.
+24 (xi) For taxable years beginning after December 31, 1986, dividend
+25 income on stock issued by Kansas venture capital, inc.
+26 (xii) For taxable years beginning after December 31, 1989, amounts
+27 received by retired employees of a board of public utilities as pension and
+28 retirement benefits pursuant to K.S.A. 13-1246, 13-1246a and 13-1249,
+29 and amendments thereto.
+30 (xiii) For taxable years beginning after December 31, 2004, amounts
+31 contributed to and the amount of income earned on contributions deposited
+32 to an individual development account under K.S.A. 74-50,201 et seq., and
+33 amendments thereto.
+34 (xiv) For all taxable years commencing after December 31, 1996, that
+35 portion of any income of a bank organized under the laws of this state or
+36 any other state, a national banking association organized under the laws of
+37 the United States, an association organized under the savings and loan
+38 code of this state or any other state, or a federal savings association
+39 organized under the laws of the United States, for which an election as an
+40 S corporation under subchapter S of the federal internal revenue code is in
+41 effect, which accrues to the taxpayer who is a stockholder of such
+42 corporation and which is not distributed to the stockholders as dividends of
+43 the corporation. For taxable years beginning after December 31, 2012, and
+
+SB 296 18
+1 ending before January 1, 2017, the amount of modification under this
+2 subsection shall exclude the portion of income or loss reported on schedule
+3 E and included on line 17 of the taxpayer's form 1040 federal individual
+4 income tax return.
+5 (xv) The cumulative amounts not exceeding $3,000, or $6,000 for a
+6 married couple filing a joint return, for each designated beneficiary that
+7 are contributed to: (1) A family postsecondary education savings account
+8 established under the Kansas postsecondary education savings program or
+9 a qualified tuition program established and maintained by another state or
+10 agency or instrumentality thereof pursuant to section 529 of the internal
+11 revenue code of 1986, as amended, for the purpose of paying the qualified
+12 higher education expenses of a designated beneficiary; or (2) an achieving
+13 a better life experience (ABLE) account established under the Kansas
+14 ABLE savings program or a qualified ABLE program established and
+15 maintained by another state or agency or instrumentality thereof pursuant
+16 to section 529A of the internal revenue code of 1986, as amended, for the
+17 purpose of saving private funds to support an individual with a disability.
+18 The terms and phrases used in this paragraph shall have the meaning
+19 respectively ascribed thereto by the provisions of K.S.A. 75-643 and 75-
+20 652, and amendments thereto, and the provisions of such sections are
+21 hereby incorporated by reference for all purposes thereof. For all taxable
+22 years beginning after December 31, 2022, contributions made to a
+23 qualified tuition program account or a qualified ABLE program account
+24 pursuant to this paragraph on and after January 1 but prior to the date
+25 required for filing a return pursuant to K.S.A. 79-3221, and amendments
+26 thereto, of the successive taxable year may be elected by the taxpayer to
+27 apply to the prior taxable year if such election is made at the time of filing
+28 the return. No contribution shall be used as a modification pursuant to this
+29 paragraph in more than one taxable year.
+30 (xvi) For all taxable years beginning after December 31, 2004,
+31 amounts received by taxpayers who are or were members of the armed
+32 forces of the United States, including service in the Kansas army and air
+33 national guard, as a recruitment, sign up or retention bonus received by
+34 such taxpayer as an incentive to join, enlist or remain in the armed services
+35 of the United States, including service in the Kansas army and air national
+36 guard, and amounts received for repayment of educational or student loans
+37 incurred by or obligated to such taxpayer and received by such taxpayer as
+38 a result of such taxpayer's service in the armed forces of the United States,
+39 including service in the Kansas army and air national guard.
+40 (xvii) For all taxable years beginning after December 31, 2004,
+41 amounts received by taxpayers who are eligible members of the Kansas
+42 army and air national guard as a reimbursement pursuant to K.S.A. 48-
+43 281, and amendments thereto, and amounts received for death benefits
+
+SB 296 19
+1 pursuant to K.S.A. 48-282, and amendments thereto, to the extent that
+2 such death benefits are included in federal adjusted gross income of the
+3 taxpayer.
+4 (xviii) (A) For all taxable years beginning after December 31, 2007,
+5 and ending before January 1, 2024, amounts received as benefits under the
+6 federal social security act which are included in federal adjusted gross
+7 income of a taxpayer with federal adjusted gross income of $75,000 or
+8 less, whether such taxpayer's filing status is single, head of household,
+9 married filing separate or married filing jointly.
+10 (B) For all taxable years beginning after December 31, 2023, amounts
+11 received as benefits under the federal social security act that are included
+12 in federal adjusted gross income of a taxpayer.
+13 (xix) Amounts received by retired employees of Washburn university
+14 as retirement and pension benefits under the university's retirement plan.
+15 (xx) For taxable years beginning after December 31, 2012, and
+16 ending before January 1, 2017, the amount of any: (1) Net profit from
+17 business as determined under the federal internal revenue code and
+18 reported from schedule C and on line 12 of the taxpayer's form 1040
+19 federal individual income tax return; (2) net income, not including
+20 guaranteed payments as defined in section 707(c) of the federal internal
+21 revenue code and as reported to the taxpayer from federal schedule K-1,
+22 (form 1065-B), in box 9, code F or as reported to the taxpayer from federal
+23 schedule K-1, (form 1065) in box 4, from rental real estate, royalties,
+24 partnerships, S corporations, estates, trusts, residual interest in real estate
+25 mortgage investment conduits and net farm rental as determined under the
+26 federal internal revenue code and reported from schedule E and on line 17
+27 of the taxpayer's form 1040 federal individual income tax return; and (3)
+28 net farm profit as determined under the federal internal revenue code and
+29 reported from schedule F and on line 18 of the taxpayer's form 1040
+30 federal income tax return; all to the extent included in the taxpayer's
+31 federal adjusted gross income. For purposes of this subsection, references
+32 to the federal form 1040 and federal schedule C, schedule E, and schedule
+33 F, shall be to such form and schedules as they existed for tax year 2011
+34 and as revised thereafter by the internal revenue service.
+35 (xxi) For all taxable years beginning after December 31, 2013,
+36 amounts equal to the unreimbursed travel, lodging and medical
+37 expenditures directly incurred by a taxpayer while living, or a dependent
+38 of the taxpayer while living, for the donation of one or more human organs
+39 of the taxpayer, or a dependent of the taxpayer, to another person for
+40 human organ transplantation. The expenses may be claimed as a
+41 subtraction modification provided for in this section to the extent the
+42 expenses are not already subtracted from the taxpayer's federal adjusted
+43 gross income. In no circumstances shall the subtraction modification
+
+SB 296 20
+1 provided for in this section for any individual, or a dependent, exceed
+2 $5,000. As used in this section, "human organ" means all or part of a liver,
+3 pancreas, kidney, intestine, lung or bone marrow. The provisions of this
+4 paragraph shall take effect on the day the secretary of revenue certifies to
+5 the director of the budget that the cost for the department of revenue of
+6 modifications to the automated tax system for the purpose of
+7 implementing this paragraph will not exceed $20,000.
+8 (xxii) For taxable years beginning after December 31, 2012, and
+9 ending before January 1, 2017, the amount of net gain from the sale of: (1)
+10 Cattle and horses, regardless of age, held by the taxpayer for draft,
+11 breeding, dairy or sporting purposes, and held by such taxpayer for 24
+12 months or more from the date of acquisition; and (2) other livestock,
+13 regardless of age, held by the taxpayer for draft, breeding, dairy or
+14 sporting purposes, and held by such taxpayer for 12 months or more from
+15 the date of acquisition. The subtraction from federal adjusted gross income
+16 shall be limited to the amount of the additions recognized under the
+17 provisions of subsection (b)(xix) attributable to the business in which the
+18 livestock sold had been used. As used in this paragraph, the term
+19 "livestock" shall not include poultry.
+20 (xxiii) For all taxable years beginning after December 31, 2012,
+21 amounts received under either the Overland Park, Kansas police
+22 department retirement plan or the Overland Park, Kansas fire department
+23 retirement plan, both as established by the city of Overland Park, pursuant
+24 to the city's home rule authority.
+25 (xxiv) For taxable years beginning after December 31, 2013, and
+26 ending before January 1, 2017, the net gain from the sale from Christmas
+27 trees grown in Kansas and held by the taxpayer for six years or more.
+28 (xxv) For all taxable years commencing after December 31, 2020,
+29 100% of global intangible low-taxed income under section 951A of the
+30 federal internal revenue code of 1986, before any deductions allowed
+31 under section 250(a)(1)(B) of such code.
+32 (xxvi) (1) For all taxable years commencing after December 31,
+33 2020, the amount of any interest expense paid or accrued in the current
+34 taxable year and disallowed as a deduction pursuant to section 163(j) of
+35 the federal internal revenue code.
+36 (2) For purposes of this paragraph, an interest expense is considered
+37 paid or accrued only in the first taxable year the deduction would have
+38 been allowable pursuant to section 163 of the federal internal revenue code
+39 if the limitation pursuant to section 163(j) of the federal internal revenue
+40 code did not exist.
+41 (3) For tax year 2021, an amount equal to the sum of any interest
+42 expenses paid or accrued in tax years 2018, 2019 and 2020 less the sum of
+43 amounts allowed as a deduction pursuant to section 163 of the federal
+
+SB 296 21
+1 internal revenue code in tax years 2018, 2019 and 2020.
+2 (xxvii) For taxable years commencing after December 31, 2020, the
+3 amount disallowed as a deduction pursuant to section 274 of the federal
+4 internal revenue code of 1986 for meal expenditures shall be allowed to
+5 the extent such expense was deductible for determining federal income tax
+6 and was allowed and in effect on December 31, 2017.
+7 (xxviii) For all taxable years beginning after December 31, 2021: (1)
+8 The amount contributed to a first-time home buyer savings account
+9 pursuant to K.S.A. 2024 Supp. 58-4903, and amendments thereto, in an
+10 amount not to exceed $3,000 for an individual or $6,000 for a married
+11 couple filing a joint return; or (2) amounts received as income earned from
+12 assets in a first-time home buyer savings account. For all taxable years
+13 beginning after December 31, 2022, contributions made to a first-time
+14 home buyer savings account pursuant to subparagraph (1) on and after
+15 January 1 but prior to the date required for filing a return pursuant to
+16 K.S.A. 79-3221, and amendments thereto, of the successive taxable year
+17 may be elected by the taxpayer to apply to the prior taxable year if such
+18 election is made at the time of filing the return. No contribution shall be
+19 used as a modification pursuant to subparagraph (1) in more than one
+20 taxable year.
+21 (xxix) For taxable years beginning after December 31, 2017, for an
+22 individual taxpayer who carried back federal net operating losses arising in
+23 a taxable year beginning after December 31, 2017, and before January 1,
+24 2021, pursuant to section 172(b)(1) of the federal internal revenue code as
+25 amended by the coronavirus aid, relief, and economic security act
+26 (CARES act), the amount of such federal net operating loss carryback for
+27 each applicable year. If the amount of such federal net operating loss
+28 carryback exceeds the taxpayer's Kansas adjusted gross income for such
+29 taxable year, the amount thereof that exceeds such Kansas adjusted gross
+30 income may be carried forward as a subtraction modification in the
+31 following taxable year or years until the total amount of such federal net
+32 operating loss carryback has been deducted, except that no such unused
+33 amount shall be carried forward for deduction as a subtraction
+34 modification after the 20th taxable year following the taxable year of the
+35 net operating loss. Notwithstanding any other provision of law to the
+36 contrary, an extension of time shall be allowed for a claim for refund or
+37 amended return for tax years 2018, 2019 or 2020 limited to the application
+38 of the provisions of this paragraph and such claim for refund or amended
+39 return must be filed on or before April 15, 2025.
+40 (xxx) For all taxable years beginning after December 31, 2024: (1)
+41 The amount contributed to an adoption savings account pursuant to K.S.A.
+42 2024 Supp. 38-2503, and amendments thereto, in an amount not to exceed
+43 $6,000 for an individual or $12,000 for a married couple filing a joint
+
+SB 296 22
+1 return; or (2) amounts received as income earned from assets in an
+2 adoption savings account.
+3 (d) There shall be added to or subtracted from federal adjusted gross
+4 income the taxpayer's share, as beneficiary of an estate or trust, of the
+5 Kansas fiduciary adjustment determined under K.S.A. 79-32,135, and
+6 amendments thereto.
+7 (e) The amount of modifications required to be made under this
+8 section by a partner which relates to items of income, gain, loss, deduction
+9 or credit of a partnership shall be determined under K.S.A. 79-32,131, and
+10 amendments thereto, to the extent that such items affect federal adjusted
+11 gross income of the partner.
+12 Sec. 8. K.S.A. 79-32,140a is hereby amended to read as follows: 79-
+13 32,140a. (a) Whenever, as a result of the provisions of K.S.A. 79-32,138 or
+14 79-32,140, and amendments thereto, an assessment of additional income
+15 tax is required to be made, no interest or penalties shall begin to accrue
+16 upon such assessment until July 1, 1984.
+17 (b) Whenever, as a result of the provisions of K.S.A. 79-32,138 or 79-
+18 32,140, and amendments thereto, an overpayment of income tax was
+19 incurred, interest shall not accrue on such overpayment until 90 days after
+20 the date of receipt of the taxpayer's claim of overpayment of tax.
+21 Sec. 9. K.S.A. 2024 Supp. 79-32,143a is hereby amended to read as
+22 follows: 79-32,143a. (a) For taxable years beginning after December 31,
+23 2020, a taxpayer may elect to take an expense deduction from Kansas net
+24 income before expensing or recapture allocated or apportioned to this state
+25 for the cost of the following property placed in service in this state during
+26 the taxable year: (1) Tangible property eligible for depreciation under the
+27 modified accelerated cost recovery system in section 168 of the internal
+28 revenue code, as amended, but not including residential rental property,
+29 nonresidential real property, any railroad grading or tunnel bore or any
+30 other property with an applicable recovery period in excess of 25 years as
+31 defined under section 168(c) or (g) of the internal revenue code, as
+32 amended; and (2) computer software as defined in section 197(e)(3)(B) of
+33 the internal revenue code, as amended, and as described in section 197(e)
+34 (3)(A)(i) of the internal revenue code, as amended, to which section 167 of
+35 the internal revenue code, as amended, applies. If such election is made,
+36 the amount of expense deduction for such cost shall equal the difference
+37 between the depreciable cost of such property for federal income tax
+38 purposes and the sum of the amount of bonus depreciation being claimed
+39 for such property pursuant to section 168(k) and the amount of expensing
+40 deduction being claimed for such property pursuant to section 179 of the
+41 internal revenue code, as amended, for federal income tax purposes in such
+42 tax year, multiplied by the applicable factor, determined by using, the table
+43 provided in subsection (f), based on the method of depreciation selected
+
+SB 296 23
+1 pursuant to section 168(b)(1), (2), or (3) or (g) of the internal revenue
+2 code, as amended, and the applicable recovery period for such property as
+3 defined under section 168(c) or (g) of the internal revenue code, as
+4 amended. This election shall be made by the due date of the original
+5 return, including any extensions, and may be made only for the taxable
+6 year in which the property is placed in service, and once made, shall be
+7 irrevocable.
+8 (b) If the amount of expense deduction calculated pursuant to
+9 subsection (a) exceeds the taxpayer's Kansas net income before expensing
+10 or recapture allocated or apportioned to this state, such excess amount
+11 shall be treated as a Kansas net operating loss as provided in K.S.A. 79-
+12 32,143, and amendments thereto.
+13 (c) If the property for which an expense deduction is taken pursuant
+14 to subsection (a) is subsequently sold during the applicable recovery
+15 period for such property as defined under section 168(c) of the internal
+16 revenue code, as amended, and in a manner that would cause recapture of
+17 any previously taken expense or depreciation deductions for federal
+18 income tax purposes, or if the situs of such property is otherwise changed
+19 such that the property is relocated outside the state of Kansas during such
+20 applicable recovery period, then the expense deduction determined
+21 pursuant to subsection (a) shall be subject to recapture and treated as
+22 Kansas taxable income allocated to this state. The amount of recapture
+23 shall be the Kansas expense deduction determined pursuant to subsection
+24 (a) multiplied by a fraction, the numerator of which is the number of years
+25 remaining in the applicable recovery period for such property as defined
+26 under section 168(c) or (g) of the internal revenue code, as amended, after
+27 such property is sold or removed from the state including the year of such
+28 disposition, and the denominator of which is the total number of years in
+29 such applicable recovery period.
+30 (d) The situs of tangible property for purposes of claiming and
+31 recapture of the expense deduction shall be the physical location of such
+32 property. If such property is mobile, the situs shall be the physical location
+33 of the business operations from where such property is used or based. The
+34 situs of computer software shall be apportioned to Kansas based on the
+35 fraction, the numerator of which is the number of the taxpayer's users
+36 located in Kansas of licenses for such computer software used in the active
+37 conduct of the taxpayer's business operations, and the denominator of
+38 which is the total number of the taxpayer's users of the licenses for such
+39 computer software used in the active conduct of the taxpayer's business
+40 operations everywhere.
+41 (e) Any member of a unitary group filing a combined report may
+42 elect to take an expense deduction pursuant to subsection (a) for an
+43 investment in property made by any member of the combined group,
+
+SB 296 24
+1 provided that the amount calculated pursuant to subsection (a) may only be
+2 deducted from the Kansas net income before expensing or recapture
+3 allocated to or apportioned to this state by such member making the
+4 election.
+5 (f) The following table shall be used in determining the expense
+6 deduction calculated pursuant to subsection (a):
+7 Factors
+8 IRC§168 IRC§168(b)(1) IRC§168(b)(2) IRC§168(b)(3) or (g)
+9 Recover Period Depreciation Depreciation Depreciation
+10 (year) Method Method Method
+11 2.5 * .077 .092
+12 3 .075 .091 .106
+13 3.5 * .102 .116
+14 4 * .114 .129
+15 5 .116 .135 .150
+16 6 * .154 .170
+17 6.5 * .163 .179
+18 7 .151 .173 .190
+19 7.5 * .181 .199
+20 8 * .191 .208
+21 8.5 * .199 .217
+22 9 * .208 .226
+23 9.5 * .216 .235
+24 10 .198 .224 .244
+25 10.5 * .232 .252
+26 11 * .240 .261
+27 11.5 * .248 .269
+28 12 * .256 .277
+29 12.5 * .263 .285
+30 13 * .271 .293
+31 13.5 * .278 .300
+32 14 * .285 .308
+33 15 * .299 .323
+34 16 * .313 .337
+35 16.5 * .319 .344
+36 17 * .326 .351
+37 18 * .339 .365
+38 19 * .351 .378
+39 20 * .363 .391
+40 22 * .386 .415
+41 24 * .408 .438
+42 25 * .419 .449
+43 *Not Applicable
+44
+
+SB 296 25
+1 (g) If a taxpayer elects to expense any investment pursuant to
+2 subsection (a), such taxpayer shall not be eligible for any tax credit,
+3 accelerated depreciation, or deduction for such investment allowed
+4 pursuant to K.S.A. 79-32,160a(e), 79-32,182b, 79-32,201, 79-32,204, 79-
+5 32,211, 79-32,218, 79-32,221, 79-32,222, 79-32,224, 79-32,227, 79-
+6 32,229, 79-32,232, 79-32,234, 79-32,237, 79-32,239, 79-32,246, 79-
+7 32,249, 79-32,252, 79-32,255, and 79-32,256 and 79-32,258, and
+8 amendments thereto.
+9 (h) (1) For tax year 2013, the deduction allowed by this section shall
+10 only be available to taxpayers subject to the income tax on corporations
+11 imposed pursuant to K.S.A. 79-32,110(c), and amendments thereto, and
+12 used only to determine such taxpayer's corporate income tax liability.
+13 (2) For tax years 2014 through 2020, the deduction allowed by this
+14 section shall only be available to taxpayers subject to the income tax on
+15 corporations imposed pursuant to K.S.A. 79-32,110(c), and amendments
+16 thereto, or the privilege tax imposed upon any national banking
+17 association, state bank, savings bank, trust company or savings and loan
+18 association pursuant to article 11 of chapter 79 of the Kansas Statutes
+19 Annotated, and amendments thereto, and used only to determine such
+20 taxpayer's corporate income or privilege tax liability.
+21 (i) For tax year 2021, and all tax years thereafter, the deduction
+22 allowed by this section shall be available to all taxpayers subject to the
+23 income tax imposed pursuant to K.S.A. 79-32,110, and amendments
+24 thereto, or the privilege tax imposed upon any national banking
+25 association, state bank, savings bank, trust company or savings and loan
+26 association pursuant to article 11 of chapter 79 of the Kansas Statutes
+27 Annotated, and amendments thereto, and used only to determine such
+28 taxpayer's income or privilege tax liability.
+29 Sec. 10. K.S.A. 2024 Supp. 79-32,160a is hereby amended to read as
+30 follows: 79-32,160a. (a) For taxable years commencing after December
+31 31, 1999, and before January 1, 2012, any taxpayer who shall invest in a
+32 qualified business facility, as defined in K.S.A. 79-32,154(b), and
+33 amendments thereto, and effective for tax years commencing after
+34 December 31, 2010, and before January 1, 2012, located in an area other
+35 than a metropolitan county as defined in either K.S.A. 74-50,114 or 74-
+36 50,211, and amendments thereto, and also meets the definition of a
+37 business in K.S.A. 74-50,114(b), and amendments thereto, shall be
+38 allowed a credit for such investment, in an amount determined under
+39 subsection (b) or (c), as the case requires, against the tax imposed by the
+40 Kansas income tax act or where the qualified business facility is the
+41 principal place from which the trade or business of the taxpayer is directed
+42 or managed and the facility has facilitated the creation of at least 20 new
+43 full-time positions, against the premium tax or privilege fees imposed
+
+SB 296 26
+1 pursuant to K.S.A. 40-252, and amendments thereto, or as measured by the
+2 net income of financial institutions imposed pursuant to article 11 of
+3 chapter 79 of the Kansas Statutes Annotated, and amendments thereto, for
+4 the taxable year during which commencement of commercial operations,
+5 as defined in K.S.A. 79-32,154(f), and amendments thereto, occurs at such
+6 qualified business facility. In the case of a taxpayer who meets the
+7 definition of a manufacturing business in K.S.A. 74-50,114(d), and
+8 amendments thereto, no credit shall be allowed under this section unless
+9 the number of qualified business facility employees, as determined under
+10 K.S.A. 79-32,154(d), and amendments thereto, engaged or maintained in
+11 employment at the qualified business facility as a direct result of the
+12 investment by the taxpayer for the taxable year for which the credit is
+13 claimed equals or exceeds two. In the case of a taxpayer who meets the
+14 definition of a nonmanufacturing business in K.S.A. 74-50,114(f), and
+15 amendments thereto, no credit shall be allowed under this section unless
+16 the number of qualified business facility employees, as determined under
+17 K.S.A. 79-32,154(d), and amendments thereto, engaged or maintained in
+18 employment at the qualified business facility as a direct result of the
+19 investment by the taxpayer for the taxable year for which the credit is
+20 claimed equals or exceeds five. Where an employee performs services for
+21 the taxpayer outside the qualified business facility, the employee shall be
+22 considered engaged or maintained in employment at the qualified business
+23 facility if: (1) The employee's service performed outside the qualified
+24 business facility is incidental to the employee's service inside the qualified
+25 business facility; or (2) the base of operations or, the place from which the
+26 service is directed or controlled, is at the qualified business facility.
+27 (b) The credit allowed by subsection (a) for any taxpayer who invests
+28 in a qualified business facility that is located in a designated
+29 nonmetropolitan region established under K.S.A. 74-50,116, and
+30 amendments thereto, on or after the effective date of this act, shall be a
+31 portion of the income tax imposed by the Kansas income tax act on the
+32 taxpayer's Kansas taxable income, the premium tax or privilege fees
+33 imposed pursuant to K.S.A. 40-252, and amendments thereto, or the
+34 privilege tax as measured by the net income of financial institutions
+35 imposed pursuant to article 11 of chapter 79 of the Kansas Statutes
+36 Annotated, and amendments thereto, for the taxable year for which such
+37 credit is allowed, but in the case where the qualified business facility
+38 investment was made prior to January 1, 1996, not in excess of 50% of
+39 such tax. Such portion shall be an amount equal to the sum of the
+40 following:
+41 (1) $2,500 for each qualified business facility employee determined
+42 under K.S.A. 79-32,154, and amendments thereto; plus
+43 (2) $1,000 for each $100,000, or major fraction thereof, which shall
+
+SB 296 27
+1 be deemed to be 51% or more, in qualified business facility investment, as
+2 determined under K.S.A. 79-32,154, and amendments thereto.
+3 (c) The credit allowed by subsection (a) for any taxpayer who invests
+4 in a qualified business facility that is not located in a nonmetropolitan
+5 region established under K.S.A. 74-50,116, and amendments thereto, and
+6 effective for tax years commencing after December 31, 2010, and before
+7 January 1, 2012, located in an area other than a metropolitan county as
+8 defined in either K.S.A. 74-50,114 or 74-50,211, and amendments thereto,
+9 and that also meets the definition of business in K.S.A. 74-50,114(b), and
+10 amendments thereto, on or after the effective date of this act, shall be a
+11 portion of the income tax imposed by the Kansas income tax act on the
+12 taxpayer's Kansas taxable income, the premium tax or privilege fees
+13 imposed pursuant to K.S.A. 40-252, and amendments thereto, or the
+14 privilege tax as measured by the net income of financial institutions
+15 imposed pursuant to article 11 of chapter 79 of the Kansas Statutes
+16 Annotated, and amendments thereto, for the taxable year for which such
+17 credit is allowed, but in the case where the qualified business facility
+18 investment was made prior to January 1, 1996, not in excess of 50% of
+19 such tax. Such portion shall be an amount equal to the sum of the
+20 following:
+21 (1) $1,500 for each qualified business facility employee as
+22 determined under K.S.A. 79-32,154, and amendments thereto; and
+23 (2) $1,000 for each $100,000, or major fraction thereof, which shall
+24 be deemed to be 51% or more, in qualified business facility investment as
+25 determined under K.S.A. 79-32,154, and amendments thereto.
+26 (d) The credit allowed by subsection (a) for each qualified business
+27 facility employee and for qualified business facility investment shall be a
+28 one-time credit. If the amount of the credit allowed under subsection (a)
+29 exceeds the tax imposed by the Kansas income tax act on the taxpayer's
+30 Kansas taxable income, the premium tax and privilege fees imposed
+31 pursuant to K.S.A. 40-252, and amendments thereto, or the privilege tax as
+32 measured by the net income of financial institutions imposed pursuant to
+33 article 11 of chapter 79 of the Kansas Statutes Annotated, and amendments
+34 thereto, for the taxable year, or in the case where the qualified business
+35 facility investment was made prior to January 1, 1996, 50% of such tax
+36 imposed upon the amount which exceeds such tax liability or such portion
+37 thereof may be carried over for credit in the same manner in the
+38 succeeding taxable years until the total amount of such credit is used.
+39 Except that, before the credit is allowed, a taxpayer, who meets the
+40 definition of a manufacturing business in K.S.A. 74-50,114(d), and
+41 amendments thereto, shall recertify annually that the net increase of a
+42 minimum of two qualified business facility employees has continued to be
+43 maintained and a taxpayer, who meets the definition of a
+
+SB 296 28
+1 nonmanufacturing business in K.S.A. 74-50,114(f), and amendments
+2 thereto, shall recertify annually that the net increase of a minimum of five
+3 qualified business employees has continued to be maintained.
+4 (e) Notwithstanding the foregoing provisions of this section, and
+5 except as otherwise provided in this subsection, any taxpayer qualified and
+6 certified under the provisions of K.S.A. 74-50,131, and amendments
+7 thereto, that prior to making a commitment to invest in a qualified Kansas
+8 business, has filed a certificate of intent to invest in a qualified business
+9 facility in a form satisfactory to the secretary of commerce, shall be
+10 entitled to a credit in an amount equal to 10% of that portion of the
+11 qualified business facility investment that exceeds $50,000 in lieu of the
+12 credit provided in subsection (b)(2) or (c)(2) without regard to the number
+13 of qualified business facility employees engaged or maintained in
+14 employment at the qualified business facility. For tax years beginning on
+15 or after January 1, 2012, for a qualified business facility investment in
+16 Douglas, Johnson, Sedgwick, Shawnee or Wyandotte county, such credit
+17 shall be in an amount equal to 10% of that portion of the qualified business
+18 facility investment that exceeds $1,000,000. Any taxpayer who has filed a
+19 certificate of intent to invest in a qualified business facility pursuant to this
+20 subsection in Douglas, Johnson, Sedgwick, Shawnee or Wyandotte county
+21 prior to December 31, 2011, and commences investments in a qualified
+22 business facility prior to December 31, 2013, may claim credits under
+23 K.S.A. 74-50,131, 74-50,132 and 79-32,160a(e), and amendments thereto,
+24 in an amount equal to 10% of that portion of the qualified business facility
+25 investment that exceeds $50,000. Timing modifications may be authorized
+26 at the discretion of the secretary of commerce and the secretary of revenue
+27 during the transition period. The credit allowed by this subsection shall be
+28 a one-time credit. If the amount thereof exceeds the tax imposed by the
+29 Kansas income tax act on the taxpayer's Kansas taxable income or the
+30 premium tax or privilege fees imposed pursuant to K.S.A. 40-252, and
+31 amendments thereto, or the privilege tax as measured by net income of
+32 financial institutions imposed pursuant to article 11 of chapter 79 of the
+33 Kansas Statutes Annotated, and amendments thereto, for the taxable year,
+34 the amount thereof that exceeds such tax liability may be carried forward
+35 for credit in the succeeding taxable year or years until the total amount of
+36 the tax credit is used, except that no such tax credit shall be carried
+37 forward for deduction after the 16th taxable year succeeding the taxable
+38 year in which such credit initially was claimed, and no carryforward shall
+39 be allowed for deduction in any succeeding taxable year unless the
+40 taxpayer certifies under oath that the taxpayer continues to meet the
+41 requirements of K.S.A. 74-50,131, and amendments thereto, and this act.
+42 In no event shall any credit allowed under this section that expired during
+43 any taxable year prior to the taxable year commencing January 1, 2011, be
+
+SB 296 29
+1 revived under the provisions of this act.
+2 (f) For projects placed into service on and after January 1, 2021, a
+3 taxpayer may transfer up to 50% of the tax credit allowed under subsection
+4 (e), as provided in this subsection. The taxpayer may make a transfer to
+5 one or more transferees, but the total of all transfers shall not exceed 50%
+6 of the taxpayer's tax credit. The taxpayer shall make the transfer or
+7 transfers within a single tax year. The credit may be transferred to any
+8 individual or entity and shall be claimed in the year the credit was
+9 transferred against the transferee's tax liability for the income tax under the
+10 Kansas income tax act or the premium tax or privilege fees imposed
+11 pursuant to K.S.A. 40-252, and amendments thereto, or the privilege tax as
+12 measured by the net income of financial institutions imposed pursuant to
+13 article 11 of chapter 79 of the Kansas Statutes Annotated, and amendments
+14 thereto. The amount of the credit that exceeds the transferee's tax liability
+15 for such year may be carried forward for credit in the succeeding taxable
+16 year or years until the total amount of the tax credit is used, except that no
+17 such credit shall be carried forward for deduction after the 16th taxable
+18 year succeeding the taxable year in which such credit was initially
+19 claimed. The taxpayer or transferee shall provide such documentation of
+20 the tax credit transfer to the secretary of revenue as may be required by the
+21 secretary.
+22 (g) In the event the tax credit earned by the taxpayer and transferred
+23 to a transferee is later disallowed in whole or in part by the secretary of
+24 revenue, the taxpayer that originally earned the tax credit shall be liable for
+25 repayment to the state in the amount disallowed.
+26 (h) For tax years commencing after December 31, 2005, any taxpayer
+27 claiming credits pursuant to this section, as a condition for claiming and
+28 qualifying for such credits, shall provide information pursuant to K.S.A.
+29 79-32,243, and amendments thereto, as part of the tax return in which such
+30 credits are claimed. Such credits shall not be denied solely on the basis of
+31 the contents of the information provided by the taxpayer pursuant to
+32 K.S.A. 79-32,243, and amendments thereto.
+33 (i) This section and K.S.A. 79-32,160b, and amendments thereto,
+34 shall be a part of and supplemental to the job expansion and investment
+35 credit act of 1976, and amendments thereto.
+36 Sec. 11. K.S.A. 74-50,136, 74-8947, 75-3712, 75-3713e, 75-4275,
+37 79-201h, 79-225, 79-255, 79-1705, 79-3221f, 79-3288a, 79-32,117a, 79-
+38 32,117b, 79-32,117c, 79-32,117d, 79-32,117e, 79-32,140, 79-32,140a, 79-
+39 32,160b, 79-32,181, 79-32,181a, 79-32,192, 79-32,193, 79-32,206, 79-
+40 32,214, 79-32,215, 79-32,238, 79-32,239, 79-32,240, 79-32,241, 79-
+41 32,244, 79-32,257, 79-32,258, 79-32,259, 79-32,260, 79-32,262, 79-
+42 32,264 and 79-32,272 and K.S.A. 2024 Supp. 79-32,117, 79-32,143a, 79-
+43 32,160a and 79-32,203 are hereby repealed.
+
+SB 296 30
+1 Sec. 12. This act shall take effect and be in force from and after its
+2 publication in the statute book.
+
+[DELETED: Acascn tl cs to re or my sy cr73103172737426B7S879c0(1t2e3(4(e ey p" ms te te te y5i6(e an b" ms a p, c7p8s9i0t1(2c3t4(5K6(]
+[DELETED: 6pK(s d b te nn il s(e an p" ms a r, de(s dm0a1o2p3(4t5p6(748a9(0o1t2c3(4c5t6(7K8(9p0K1(2b3(4m5(6a7n8m, i, rt or an of rl o9p0K1(2$3n]
+[DELETED: 6(fa(e wd or sr ey b" ms a pcmg i ad dg bs in Ks tt scc(0e1(2s3(e wd or sr ey p" ms a r4d5(6t7n8m, i, rt or an of rl o9p0K1(2i3e4K5(6e7d8(9o0(1(2u3s4f5tn  " o6"7(8e9(0s1a2p3w]
+[DELETED: 6wsbcws s K3sb071t2e3r4p5e6p7w8e9p0a1a2p3f4b5w6w7a8o9f0t1l2f3a4o5s6s7t8a9c0p1t2b3b]
+[DELETED: 6pl as wl as a it sl o, ad no mrapo(uos0b1(2i3a4s5s6s7m8n9p0e1(2f3e4b5e6s7c8f9u0t0 1o2s3e4e5e6m7i8o9o0e1s2a3e]
+[DELETED: 6pmpdb(sat0e1i2o3K4o5N6b7b8r9(0(1d2c3e4a5a6b7e8s9h0a1a2(3t4r5f6a7(e at dd in sn () sl ie a8p9e0(1o2p3(]
+[DELETED: 6s(st(aes p(0or sr ey pt sl be ad fr fg ur t1p2S384c5g6hy ad to ie re bs pt to te K7dt fe ay a, K. 71 et s, a8a9c0d1o2c3i4r5p6f7( s K8a9K0a1o2t3(4t5s6o7(e b, ig rg re b, i8h9a0K1(2(3p]
+[DELETED: 6c1% of sh c, ad is cn or en ota(d cl gn pr p hs te mptca0(w id cl gn pr p" ms a1i2D3l4p5S637t8a9p0a1(2o3e4f576a7a8t9s0(1a2(3(4p5J6t7(8f9i0a132t is 3e]
+[DELETED: 6asaapor(b0t1m2sn () o K. 7 ad as t t3d4s5s6(7t8s9r0o1e2p3e4e5S647a8a92031a2t3l o435S6(7b8K9(0e1(2i3s]
+[DELETED: 61(paw(c((m0i1i2b3(4p5g6(d cl gn pr p hs te m7p8t9c0a1(2a3f4p5S6(7s8p9o0t1i213p4v N5p6c7(8b9o0w1f2g3t]
+[DELETED: 61(faaso(Ka0(1i2r3S4f5m6w7(8(9p0s1a2i3p4l5e6nt id in fl ad gs i. It ie o7o8D9a0i1(2i3e4c5id ur te ps of K. 77 or 7, a6a7t8(9n0a1(2d3i]
+[DELETED: 61iobdrtbdf0s1t2z3(4d5c6hr 7a8(9a0a1(2s334(5f6i7a8(9t0a1i2c3a4a5(6K7f8s9(0g1(2s35]
+[DELETED: 61(r te ys cg ar Dr 3, 2aKttsi(d0c1t2(e at of ay an dn cd i3d4c5t6(s 7d8c9t03132(e at of ay an dn cd i3d4c536(e at of ay an dn cd i7d8c9t0(1a2o3b4s5o6a7d8t9d0(1e2a3s]
+[DELETED: 61icKs pe t, e, t, rl it in rl emfofre f0d1t2C3e4s5(6e7e8c9d0t1E2t3(4e5p6s718i9(0e1i2e3f4(5e6p7a8t9(0pn of te at of ay ee dn cd i1d2c3e]
+[DELETED: 61aa2, ad as t, to te et tt sh ts aap(pn of te at of ay ee dn cd idf0c1a2a3s4ce of an in ae wh K. 4, a5a6c7(8a9c0a1f2(3t4y5i6c7t8i9t0f1t2(3a4s5e647o8t9a0p1a2(3a]
+[DELETED: 61aoarCat pa(0(1a2p3s4g5U6(7g8t9(0o1t2d3p4b5i6s7(8a9i0t1t2t3t4(5o6i7g8(n ds rd by a tr as a9b0a1(2r3o]
+[DELETED: 61wi(s rd by rd rd es as as2(eKo0a1(2a3U4(5b6r72h 8p9t0c, ay cm fr rd or ad rn g to t1s2n314(5i6(7r8r9a0(1c2t3a4(5p6a7t8c9o0S1e2c3t]
+[DELETED: 61esEi(maea0a1r2h3a4A5m6t7p8T9r06s 1h2ys r r s e 3q4p5r6t7a8t9p0(1a2f3n4s5o6g7i8a9i0(1a2a32]
+[DELETED: 61pst(afilm0(1r2i3(4a5(6e7bl 8r9fl ; t t 0g1r2(3s4p5m6f7o8n9r0f1f2t3F4a5(6as el to te ud t, lg ad m7e8o9o0hn on t. Te es my be cd as a1s2e3g]
+[DELETED: 62p$pptms to te ad tx sm fr te pe oi(e0Cy 1b2m3r4s5t6s7p8ls 9"0(1as rd ur er te Od P, Ks p2d3r4t5(6e7t8(910f1u2(324t5t6(7p8b9i0c1(2e3a]
+[DELETED: 62i(aita(Tp0a1c2a3b4h5J6K7m8e9u0t1(2i3a425ad b te cs a, r, ad ec s a6(7ef 8c9t0i1f2o3at sl be cd fd fr dn as a s4m0 5nr 6c7a8o9r0(1T223$]
+[DELETED: 62ra(iKa(so0a1g2S33475t6u7(83 a a9i0t1S2f324i5f6t7m8r9n0o1d2a3t4(5t6t7b8p9f0d1i2t3p]
+[DELETED: 62pcdaryi(f te at of ee dn cd pt ts0o1s233(4t5p6r7a8i9s0ae ry p, tn te ee dn d1p2K3s4(5r6u7s8d9s0(1r2p3o4s5f6l7c8w9c0o1(2e3i]
+[DELETED: 62pdae(dF8I)I)IdDnDnD)MdMdM125*.7.23.5.1.335*.2.44*.4.55.6.5.66*.4.765*.3.87.1.3.975*.1.08*.1.185*.9.29*.8.395*.6.410.8.4.515*.2.611*.0.715*.8.812*.6.915*.3.013*.1.115*.8.214*.5.315*.9.416*.3.515*.9.617*.6.718*.9.819*.1.920*.3.022*.6.124*.8.225*.9.3*]
+[DELETED: 62(sad d, or dn fr sh it ap3, 7, 7, 7, 7, 7, 73, 7, 7, 7, 7, 7, 73, 7, 7 a 7 ad 7, aa(0o1i2u3(4s5c6t, or te pe tx id un ay nl b7a8a9A0t1(2a3i4t, or te pe tx id un ay nl b5a6a7A8t9S0f132qd bs f, as dd in K. 7, a3as t, ad ee fr tx ys cg a4D5t657bs in K. 7, ad as t, sl b8ah 9s0K1p2o3f]
+[DELETED: 62pnctaqdn f a m bs i K. 7, aat0K1e2i3c4d5a6t7K8e9i0c1t2c3f4b5b6s7(8in a qd bs fy tt is ld in a d9nn rn ed ur K. 7, a0a1p2t3i4p5i6A7c8i9s0f1(2u3(]
+[DELETED: 62bd(ireJda0a1p2t3i4p5i6A7c8i9s0f1(0 fr eh qd bs fy ee a2d3(4b5d6(7f8o9e0K1p2m3a4t5f6i7t8s9E0dn f a m bs i K. 7, a1a2m3md ad a t, wo ms te dn of a]
+[DELETED: 62n bs in K. 7, ad atq(ectbf0e1q2c3of qd bs fy es ed or md i4e5o6D7s8f9c0s1p2b3K4i5i6a7d8a9K0p1a2f3K4t5f6t7f6 8y9b0t1r2I3a]
+[DELETED: 62r(t(ootit0K1p2m3a4t5f6y7s6 8y9c0t1s2(3t4r5r6(7c8q970c1t2K3( a4s5c6S77839303, 7, 7, 7, 7, 7, 713, 7, 7, 7, 7, 7, 72333]
+[DELETED: 63Sp]

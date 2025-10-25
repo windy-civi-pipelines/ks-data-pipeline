@@ -1,0 +1,120 @@
+Title: HOUSE BILL No. 2313
+Official Title: HOUSE BILL No. 2313
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Financial Institutions and Pensions
+Requested by Representative Hoheisel
+2-6
+1 AN ACT concerning state-issued devices and networks; relating to
+2 artificial intelligence platforms; prohibiting the use of artificial
+3 intelligence platforms of concern on such devices and networks.
+4
+5 Be it enacted by the Legislature of the State of Kansas:
+6 Section 1. (a) No electronic device that is owned or issued to an
+7 employee by a state agency shall be used to access an artificial intelligence
+8 platform of concern. All state agencies shall prohibit the installation of any
+9 application that allows users to access an artificial intelligence platform of
+10 concern on any electronic device that is issued by the state agency. Any
+11 network that is operated by a state agency shall prohibit the use of artificial
+12 intelligence platforms of concern by users who access the network.
+13 (b) Any state agency that utilizes an artificial intelligence platform of
+14 concern or has an account with an artificial intelligence platform of
+15 concern shall deactivate and delete such account and shall no longer use
+16 the artificial intelligence platform.
+17 (c) The provisions of this section shall not apply to state agencies that
+18 are using an electronic device owned or issued to an employee by a state
+19 agency to access an artificial intelligence platform of concern for the
+20 purposes of law enforcement activities or cybersecurity investigations.
+21 (d) As used in this section:
+22 (1) "Artificial intelligence platform of concern" means:
+23 (A) The artificial intelligence model commonly referred to as
+24 DeepSeek and any artificial intelligence model that is owned or controlled,
+25 directly or indirectly, by Hangzhou DeepSeek Artificial Intelligence Basic
+26 Technology Research Company or a subsidiary or successor company of
+27 such company; or
+28 (B) an artificial intelligence model that is controlled, directly or
+29 indirectly, by a country of concern;
+30 (2) (A) "country of concern" means the following:
+31 (i) People's republic of China, including the Hong Kong special
+32 administrative region;
+33 (ii) republic of Cuba;
+34 (iii) islamic republic of Iran;
+35 (iv) democtratic people's republic of Korea;
+HB 2313 2
+1 (v) Russian federation; and
+2 (vi) Bolivarian republic of Venezuela.
+3 (B) "country of concern" does not include the republic of China
+4 (Taiwan); and
+5 (3) "state agency" means any state office or officers, department,
+6 board, commission, institution or bureau or any agency, division or unit
+7 thereof.
+8 Sec. 2. This act shall take effect and be in force from and after its
+9 publication in the statute book.
+[DELETED: AN  c sd ds ad n; rg tal ie p; pg te ue of aiBSepa0c1n2i3(4c5c6t7(8a9a0p1(2(3(e al ie ml cy rd to a4D5d6T7s8(9i0(1(2a3(4(5(]
+[DELETED: 3(((((btSp]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2313
+By Committee on Financial Institutions and Pensions
+Requested by Representative Hoheisel
+2-6
+1 AN ACT concerning state-issued devices and networks; relating to
+2 artificial intelligence platforms; prohibiting the use of artificial
+3 intelligence platforms of concern on such devices and networks.
+4
+5 Be it enacted by the Legislature of the State of Kansas:
+6 Section 1. (a) No electronic device that is owned or issued to an
+7 employee by a state agency shall be used to access an artificial intelligence
+8 platform of concern. All state agencies shall prohibit the installation of any
+9 application that allows users to access an artificial intelligence platform of
+10 concern on any electronic device that is issued by the state agency. Any
+11 network that is operated by a state agency shall prohibit the use of artificial
+12 intelligence platforms of concern by users who access the network.
+13 (b) Any state agency that utilizes an artificial intelligence platform of
+14 concern or has an account with an artificial intelligence platform of
+15 concern shall deactivate and delete such account and shall no longer use
+16 the artificial intelligence platform.
+17 (c) The provisions of this section shall not apply to state agencies that
+18 are using an electronic device owned or issued to an employee by a state
+19 agency to access an artificial intelligence platform of concern for the
+20 purposes of law enforcement activities or cybersecurity investigations.
+21 (d) As used in this section:
+22 (1) "Artificial intelligence platform of concern" means:
+23 (A) The artificial intelligence model commonly referred to as
+24 DeepSeek and any artificial intelligence model that is owned or controlled,
+25 directly or indirectly, by Hangzhou DeepSeek Artificial Intelligence Basic
+26 Technology Research Company or a subsidiary or successor company of
+27 such company; or
+28 (B) an artificial intelligence model that is controlled, directly or
+29 indirectly, by a country of concern;
+30 (2) (A) "country of concern" means the following:
+31 (i) People's republic of China, including the Hong Kong special
+32 administrative region;
+33 (ii) republic of Cuba;
+34 (iii) islamic republic of Iran;
+35 (iv) democtratic people's republic of Korea;
+
+HB 2313 2
+1 (v) Russian federation; and
+2 (vi) Bolivarian republic of Venezuela.
+3 (B) "country of concern" does not include the republic of China
+4 (Taiwan); and
+5 (3) "state agency" means any state office or officers, department,
+6 board, commission, institution or bureau or any agency, division or unit
+7 thereof.
+8 Sec. 2. This act shall take effect and be in force from and after its
+9 publication in the statute book.
+
+[DELETED: AN  c sd ds ad n; rg tal ie p; pg te ue of aiBSepa0c1n2i3(4c5c6t7(8a9a0p1(2(3(e al ie ml cy rd to a4D5d6T7s8(9i0(1(2a3(4(5(]
+[DELETED: 3(((((btSp]

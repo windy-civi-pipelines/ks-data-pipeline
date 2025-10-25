@@ -1,0 +1,759 @@
+Title: SENATE BILL No. 115
+Official Title: SENATE BILL No. 115
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Federal and State Affairs
+1-30
+1 AN ACT concerning precious metals; relating to gold and silver bullion
+2 and specie; enacting the Kansas bullion depository act; authorizing the
+3 state treasurer to establish, administer or contract for the administration
+4 of bullion depositories; allowing state moneys to be deposited in such
+5 bullion depositories and invested in specie legal tender; amending
+6 K.S.A. 2024 Supp. 75-4209 and repealing the existing section.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 New Section 1. The provisions of sections 1 through 10, and
+10 amendments thereto, shall be known and may be cited as the Kansas
+11 bullion depository act.
+12 New Sec. 2. As used in the Kansas bullion depository act:
+13 (a) "Act" means the Kansas bullion depository act.
+14 (b) "Administrator" means the individual or entity appointed by the
+15 state treasurer to oversee the operation and management of the
+16 depositories.
+17 (c) "Bullion" means refined gold or silver in any shape or form with
+18 uniform content and purity, including, but not limited to, coins, rounds,
+19 bars, ingots or any other product that is:
+20 (1) Stamped or imprinted with the weight and purity of the gold or
+21 silver that it contains; and
+22 (2) valued primarily based on its metal content and not on its form
+23 and function.
+24 (d) "Depository" means a bullion depository established by section 9,
+25 and amendments thereto, or established by and located in another
+26 jurisdiction and designated as a depository by the state treasurer pursuant
+27 to section 3, and amendments thereto.
+28 (e) "Depository account" means an account established with a
+29 depository to facilitate the storage, transfer and exchange of bullion.
+30 (f) "Electronic currency" means a representation of actual precious
+31 metals, specie or bullion held in a depository account that may be
+32 transferred by electronic instruction. Such representation shall reflect the
+33 exact units of physical precious metals, specie or bullion in such
+34 depository account in its fractional troy ounce measurement as provided in
+35 this act.
+36 (g) "Precious metal" means gold or silver.
+SB 115 2
+1 (h) "Specie" means bullion fabricated into products of uniform shape,
+2 size, design, content, weight and purity that is suitable for or customarily
+3 used as currency, as a medium of exchange or as the medium for purchase,
+4 sale, storage, transfer or delivery of precious metals in retail or wholesale
+5 transactions.
+6 (i) "Specie legal tender" means gold or silver coin or bullion,
+7 including, but not limited to, gold or silver coin issued by the United
+8 States.
+9 New Sec. 3. (a) The state treasurer may:
+10 (1) Establish and administer bullion depositories to provide a secure
+11 location for the storage of bullion;
+12 (2) contract with a third party to act as the administrator to manage
+13 the day-to-day operations of bullion depositories located in this state and
+14 implement the depositories' security, storage and transactional and
+15 administrative procedures in accordance with this act; or
+16 (3) contract with one or more bullion depositories established and
+17 located in another jurisdiction for the secure storage and administration of
+18 bullion deposits made in accordance with this act.
+19 (b) If the state treasurer enters into a contract pursuant to subsection
+20 (a)(3), the state treasurer shall designate the bullion depository named in
+21 such contract as an official state bullion depository.
+22 (c) As used in this section, "security" means physical, online and
+23 logical security standards that meet generally accepted standards within
+24 the information assurance industry.
+25 New Sec. 4. (a) A person, an individual, a corporation, a partnership,
+26 a company, an association, a trust, an estate and a governmental entity,
+27 may establish a depository account by entering into a depository
+28 agreement with a depository.
+29 (b) A depository account holder may purchase, sell, deposit or
+30 withdraw bullion through the holder's account in accordance with this
+31 section and any rules and regulations adopted thereunder. A depository
+32 shall have processes and systems to facilitate timely bullion purchases,
+33 sales, deposits and withdrawals, including, but not limited to:
+34 (1) Physical deposits and withdrawals to and from the depository's
+35 physical location, or a partner organization such as a major mint or refiner
+36 capable of providing bullion that meets standards established by the state
+37 treasurer; and
+38 (2) electronic systems that meet current industry standards for the
+39 purchase and sale of bullion for depository account holders that cannot or
+40 choose not to travel to the physical location.
+41 (c) State agencies, counties, municipalities and other governmental
+42 entities may use a depository for storing bullion. The state treasurer may
+43 deposit a portion of state moneys into a depository in the form of bullion
+SB 115 3
+1 and such bullion shall be considered part of the state's official financial
+2 reserves. The state treasurer shall develop guidelines for the state's use of
+3 depositories. All deposits of state moneys into a depository shall be
+4 secured by a pledge of securities as provided in K.S.A. 75-4218, and
+5 amendments thereto.
+6 (d) The administrator shall maintain a record of all depository
+7 accounts and all transactions, deposits and withdrawals associated with
+8 each account. Such records shall be provided to the state treasurer within
+9 five business days after the state treasurer's request. All records shall be
+10 kept and maintained, at a minimum, on an approved state computer system
+11 for a period of at least seven years.
+12 New Sec. 5. (a) The administrator shall ensure that a depository has
+13 state-of-the-art security measures to prevent theft, fraud or other
+14 unauthorized access or removal of bullion.
+15 (b) A depository shall maintain insurance coverage sufficient to cover
+16 the full value of all bullion stored at the depository. Such insurance shall
+17 be provided by an insurer that is rated "A" or higher by am best company
+18 or an equivalent rating by another national rating service acceptable to the
+19 administrator.
+20 (c) An independent third party shall conduct audits at least twice a
+21 year to verify the amount and value of bullion stored in a depository and to
+22 inspect the security measures and protocols in place. Such independent
+23 third party shall be an established provider with a good history of
+24 providing such auditing service. Documentation of audit results shall be
+25 made available within a reasonable timeframe to the public upon request.
+26 Documentation shall include, at a minimum, summary totals of precious
+27 metal amounts assessed, as well as documentation of any discrepancies
+28 found during the audit.
+29 (d) A depository shall comply all with federal and state laws
+30 pertaining to bullion storage, management and transactions. The
+31 administrator shall consult regularly with legal counsel to ensure that each
+32 depository remains compliant with evolving laws and regulations.
+33 New Sec. 6. (a) An employee or official associated with the oversight
+34 or operation of a depository shall:
+35 (1) Have no financial interests in companies or entities that produce,
+36 sell or manage bullion; and
+37 (2) disclose any potential conflict of interest to the state treasurer
+38 immediately upon discovery.
+39 (b) A violation of this section may result in the employee's or
+40 official's removal from position, fines or other legal penalties as
+41 determined by the state treasurer.
+42 New Sec. 7. The state treasurer shall have all authority necessary to
+43 enter into contractual agreements with third parties to administer this act.
+SB 115 4
+1 The administrator may enter into contractual agreements with private
+2 entities for the provision of services for bullion storage, transportation or
+3 security. All contractual agreements shall be reviewed and approved by the
+4 state treasurer to ensure that such agreements align with the state's interests
+5 and security requirements.
+6 New Sec. 8. (a) A depository shall not be terminated or transferred to
+7 a private entity unless such termination or transfer is approved by an act of
+8 the legislature. A depository termination or transfer shall ensure the
+9 security of the bullion, the rights of account holders and the financial
+10 interests of the state.
+11 (b) The administrator shall provide a quarterly report to the state
+12 treasurer detailing the operations, transactions and financial status of each
+13 depository.
+14 (c) The state treasurer shall provide an annual report to the legislature
+15 on or before the first day of the regular session of the legislature regarding
+16 the operations and financial status of each depository.
+17 New Sec. 9. The state treasurer shall adopt rules and regulations
+18 necessary to administer the provisions of this act, including, but not
+19 limited to, rules and regulations for the establishment, operation, security
+20 and administration of a depository.
+21 New Sec. 10. (a) A purported confiscation, requisition, seizure or
+22 other attempt to control the ownership, disposition or proceeds of a
+23 withdrawal, transfer, liquidation or settlement of a depository account or
+24 an electronic currency account, including the precious metals represented
+25 by the balance of a depository account or an electronic currency account, if
+26 effected by a governmental or quasi-governmental authority other than an
+27 authority of this state or by a financial institution or other person acting on
+28 behalf of or pursuant to a directive or authorization issued by a
+29 governmental or quasi-governmental authority other than an authority of
+30 this state, in the course of a generalized declaration of illegality or
+31 emergency relating to the ownership, possession or disposition of one or
+32 more precious metals, contracts or other rights to the precious metals,
+33 contracts or derivatives of the ownership, possession, disposition, contracts
+34 or other rights, is hereby declared to be null and void and shall have no
+35 force or effect.
+36 (b) A depository in the case of receiving notice of a purported
+37 confiscation, requisition, seizure or other attempt to control the ownership,
+38 disposition or proceeds of a withdrawal, transfer, liquidation or settlement
+39 of a depository account or an electronic currency account, including the
+40 precious metals represented by the balance of a depository account or an
+41 electronic currency account, if effected by a governmental or quasi-
+42 governmental authority other than an authority of this state or by a
+43 financial institution or other person acting on behalf of or pursuant to a
+SB 115 5
+1 directive or authorization issued by a governmental or quasi-governmental
+2 authority other than an authority of this state, in the course of a generalized
+3 declaration of illegality or emergency relating to the ownership, possession
+4 or disposition of one or more precious metals, contracts or other rights to
+5 the precious metals, contracts or derivatives of the ownership, possession,
+6 disposition, contracts or other rights, shall not recognize the governmental
+7 or quasi-governmental authority, financial institution or other person
+8 acting as the lawful successor of the registered holder of the depository
+9 account or the electronic currency account in question.
+10 (c) Upon receipt of notice of any transaction described in subsection
+11 (a), with respect to all or any portion of the balance of a depository
+12 account or an electronic currency account, a depository shall suspend
+13 withdrawal privileges associated with the balances of the depository
+14 account or electronic currency account until suitable substitute
+15 arrangements may be effected in accordance with rules and regulations of
+16 the state treasurer to enable the registered account holder to take delivery
+17 of the precious metals represented by the account balances in question. A
+18 voluntary transfer of a depository account or an electronic currency
+19 account balance or of a depository account or an electronic currency
+20 account among depository account or electronic currency account holders
+21 may continue to take place unaffected by the suspension, and the
+22 depository shall recognize such voluntary transfer to the full extent
+23 authorized by this section and rules and regulations adopted under this act.
+24 (d) The state treasurer shall refer any matter relating to an action
+25 described in subsection (a) to the attorney general for resolution.
+26 Sec. 11. K.S.A. 2024 Supp. 75-4209 is hereby amended to read as
+27 follows: 75-4209. (a) The director of investments may invest and reinvest
+28 state moneys eligible for investment which are not invested in accordance
+29 with K.S.A. 75-4237, and amendments thereto, in the following
+30 investments:
+31 (1) Direct obligations of, or obligations that are insured as to principal
+32 and interest by, the United States of America or any agency thereof and
+33 obligations and securities of the United States sponsored enterprises which
+34 under federal law may be accepted as security for public funds, on and
+35 after the effective date of this act moneys available for investment under
+36 this subsection shall not be invested in mortgage-backed securities of such
+37 enterprises and of the government national mortgage association, except
+38 that any such mortgage-backed securities held prior to the effective date of
+39 this act may be held to maturity;
+40 (2) repurchase agreements with a bank or a primary government
+41 securities dealer which reports to the market reports division of the federal
+42 reserve bank of New York for direct obligations of, or obligations that are
+43 insured as to principal and interest by, the United States government or any
+SB 115 6
+1 agency thereof and obligations and securities of United States government
+2 sponsored enterprises which under federal law may be accepted as security
+3 for public funds;
+4 (3) commercial paper that does not exceed 270 days to maturity and
+5 which has received one of the two highest commercial paper credit ratings
+6 by a nationally recognized investment rating firm; and
+7 (4) corporate bonds which have received one of the two highest
+8 ratings by a nationally recognized investment rating firm; and
+9 (5) specie legal tender, as defined in section 2, and amendments
+10 thereto.
+11 (b) When moneys are available for deposit or investments, the
+12 director of investments may invest in SKILL act projects and bonds
+13 pursuant to K.S.A. 74-8920, and amendments thereto, and in state agency
+14 bonds and bond projects.
+15 (c) When moneys are available for deposits or investments, the
+16 director of investments may invest in preferred stock of Kansas venture
+17 capital, inc., under terms and conditions prescribed by K.S.A. 74-8203,
+18 and amendments thereto, but such investments shall not in the aggregate
+19 exceed a total amount of $10,000,000.
+20 (d) When moneys are available for deposits or investments, the
+21 director of investments may invest in loans pursuant to legislative
+22 mandates, except that not more than the greater of 10% or $140,000,000 of
+23 the state moneys shall be invested. The provisions of this subsection shall
+24 not apply to the provisions of subsection (m).
+25 (e) Interest on investment accounts in banks is to be paid at maturity,
+26 but not less than annually.
+27 (f) Investments made by the director of investments under the
+28 provisions of this section shall be made with judgment and care, under
+29 circumstances then prevailing, which persons of prudence, discretion and
+30 intelligence exercise in the management of their own affairs, not for
+31 speculation, but for investment, considering the probable safety of their
+32 capital as well as the probable income to be derived.
+33 (g) Investments under subsection (a) or (b) or under K.S.A. 75-4237,
+34 and amendments thereto, shall be for a period not to exceed four years,
+35 except that linked deposits authorized under the provisions of K.S.A. 2-
+36 3703 through 2-3707, and amendments thereto, shall not exceed a period
+37 of 10 years; agricultural production loan deposits authorized under the
+38 provisions of K.S.A. 75-4268 through 75-4274, and amendments thereto,
+39 shall not exceed a period of eight years and housing loan deposits
+40 authorized under K.S.A. 75-4276 through 75-4282, and amendments
+41 thereto, shall not exceed a period of five years or 20 years, as applicable
+42 pursuant to K.S.A. 75-4279, and amendments thereto.
+43 (h) Investments in securities under subsection (a)(1) shall be limited
+SB 115 7
+1 to securities which do not have any more interest rate risk than do direct
+2 United States government obligations of similar maturities. For purposes
+3 of this subsection, "interest rate risk" means market value changes due to
+4 changes in current interest rates.
+5 (i) The director of investments shall not invest state moneys eligible
+6 for investment under subsection (a), in the municipal investment pool
+7 fund, created under K.S.A. 12-1677a, and amendments thereto.
+8 (j) The director of investments shall not invest moneys in the pooled
+9 money investment portfolio in derivatives. As used in this subsection,
+10 "derivatives" means a financial contract whose value depends on the value
+11 of an underlying asset or index of asset values.
+12 (k) Moneys and investments in the pooled money investment
+13 portfolio shall be invested and reinvested by the director of investments in
+14 accordance with investment policies developed, approved, published and
+15 updated on an annual basis by the board. Such investment policies shall
+16 include at a minimum guidelines which identify credit standards, eligible
+17 instruments, allowable maturity ranges, methods for valuing the portfolio,
+18 calculating earnings and yields and limits on portfolio concentration for
+19 each type of investment. Any changes in such investment policies shall be
+20 approved by the pooled money investment board. Such investment policies
+21 may specify the contents of reports, methods of crediting funds and
+22 accounts and other operating procedures.
+23 (l) The board shall adopt rules and regulations to establish an overall
+24 percentage limitation on the investment of moneys in investments
+25 authorized under subsection (a)(3), and within such authorized investment,
+26 the board shall establish a percentage limitation on the investment in any
+27 single business entity.
+28 (m) (1) During the fiscal year ending June 30, 2017, the director of
+29 the budget shall estimate on or before June 27, 2017, the amount of the
+30 unencumbered ending balance in the state general fund for fiscal year
+31 2017. If the amount of such unencumbered ending balance in the state
+32 general fund is less than $50,000,000, the director of the budget shall
+33 certify the difference between $50,000,000, and the amount of such
+34 unencumbered ending balance to the pooled money investment board.
+35 Upon the liquidation of all investments and reinvestments of state moneys
+36 pursuant to K.S.A. 75-2263(j), and amendments thereto, and upon receipt
+37 of such certification by the director of the budget, during the fiscal year
+38 ending June 30, 2017, the pooled money investment board shall authorize
+39 the director of accounts and reports to transfer an amount equal to the
+40 amount certified by the director of the budget pursuant to this subsection
+41 from the pooled money investment portfolio to the state general fund.
+42 Upon receipt of such authorization, the director of accounts and reports
+43 shall make such transfer. The chairperson of the pooled money investment
+SB 115 8
+1 board shall transmit a copy of such authorization to the director of
+2 legislative research and the director of the budget.
+3 (2) (A) On or before June 30, 2019, the director of accounts and
+4 reports shall transfer an amount equal to 1/ of the amount transferred
+6
+5 pursuant to subsection (m)(1) from the state general fund to the pooled
+6 money investment portfolio.
+7 (B) On or before June 30, 2020, the director of accounts and reports
+8 shall transfer an amount equal to 1/ of the amount transferred pursuant to
+2
+9 subsection (m)(1), reduced by the amount transferred pursuant to
+10 subsection (m)(2)(A) from the state general fund to the pooled money
+11 investment portfolio.
+12 (C) On or before June 30, 2021, and June 30, 2022, during each such
+13 fiscal year, the director of accounts and reports shall transfer an amount
+14 equal to 1/ of the amount transferred pursuant to subsection (m)(1),
+2
+15 reduced by the amount transferred pursuant to subsection (m)(2)(A) and
+16 (m)(2)(B) from the state general fund to the pooled money investment
+17 portfolio.
+18 (3) During the fiscal year ending June 30, 2018, after any transfer
+19 made pursuant to subsection (m)(1), the pooled money investment board
+20 shall authorize the director of accounts and reports to transfer the
+21 remaining amount of all investments and reinvestments of state moneys
+22 liquidated pursuant to K.S.A. 75-2263(j), and amendments thereto, from
+23 the pooled money investment portfolio to the state general fund. Upon
+24 receipt of such authorization, the director of accounts and reports shall
+25 make such transfer. The chairperson of the pooled money investment
+26 board shall transmit a copy of such authorization to the director of
+27 legislative research and the director of the budget.
+28 (4) (A) On or before June 30, 2019, the director of accounts and
+29 reports shall transfer an amount equal to 1/ of the amount transferred
+6
+30 pursuant to subsection (m)(3) from the state general fund to the pooled
+31 money investment portfolio.
+32 (B) On or before June 30, 2020, the director of accounts and reports
+33 shall transfer an amount equal to 1/ of the amount transferred pursuant to
+2
+34 subsection (m)(3), reduced by the amount transferred pursuant to
+35 subsection (m)(4)(A) from the state general fund to the pooled money
+36 investment portfolio.
+37 (C) On or before June 30, 2021, and June 30, 2022, during each such
+38 fiscal year, the director of accounts and reports shall transfer an amount
+39 equal to 1/ of the amount transferred pursuant to subsection (m)(3),
+2
+40 reduced by the amount transferred pursuant to subsection (m)(4)(A) and
+41 (m)(4)(B) from the state general fund to the pooled money investment
+42 portfolio Investments in specie legal tender under subsection (a)(5) shall
+43 not exceed 20% of the total amount of the pooled money investment
+SB 115 9
+1 portfolio at the time such investment is made.
+2 Sec. 12. K.S.A. 2024 Supp. 75-4209 is hereby repealed.
+3 Sec. 13. This act shall take effect and be in force from and after its
+4 publication in the statute book.
+[DELETED: AasobKBNw Sn 1e ps of ss 1 th 1, a0a1b2N3(4(5se tr to oe te on ad mt of t6d7(8u9b0(1s2(3a4(5ad as t, or ed b ad ld in a6j7t8(y a" ms an at ed wh a9d0(1m2t3et us of pl ps m, se or bn in s4d5t6(]
+[DELETED: 5(sust(e l t" s r  c oiSN0(1l2(3t4it te d' s, se ad tl a5a6(7l8b9(0(1s2(3l4t5N6a7my eh a dy at by eg io a d8a9(t 0w1s2s3s4(5p6c7t8(9p0c1(2e3d]
+[DELETED: 5ardsa(e ar l m a d of l daef0k1f2N3st sy ms to pt t, fd or o4u5(6t7b8o9a0(1y2i3t4p5m6D7m8f9( d sl c al wh fl ad se l0pg to bn s, mt ad t. T1a2d3N4o5(6s7(8i9(0os rl fm p, fs or or ll ps a1d2N3e]
+[DELETED: 5TessaNats0i1(2t3d4(5o6t7N8n9l0a1N2o3w4a5b6e7a8bf of or pt to a de or an id by a9g0t1e2m3c4o5f6(7c8d9o0p1e2g3f]
+[DELETED: 5dadotdoaa0(1(2a3w4at or ec cy at ul se s5a6t7o8v9a0a1m ce t te pe ud b te s, ad t2d3a4(5d6S7f8s9wh K. 7, ad as t, in te f0i1(2a3o4u5a6t7e8t9t0(1s2r3i]
+[DELETED: 5asf(wb(r(0t1(s t 2d3p4b5(6d7c8a9e0(1dr of is m it in ls pt to l2m3t4n5(6b7(s me b te dr of is ur t8p9c0i1s2c3(4a5e637o8p9s0a1t2p3(]
+[DELETED: 5tUoc(ff(m0"1o2(s ad is in te pd my i3p4a5u6i7i8c9e0a1m2a3(4pe ln on te it of ms in i5a6t7s8(9t0u122g3c4u5U6p7o8e9t0a1f2U3s]
+[DELETED: 5bl(rr o / opm(s / sn (, rd by te at td pt t0s1i2(3f4eo / o5r6(7p8(9m0sl ae  dr f s a rs tr 1r2l3t4r5m6b7l8(9ro / o0p1m2(3s / 4sn (, rd by te t td pt t5s6i7(8f9eo / o0r1(2p3n]
+[DELETED: 5pSSp]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 115
+By Committee on Federal and State Affairs
+1-30
+1 AN ACT concerning precious metals; relating to gold and silver bullion
+2 and specie; enacting the Kansas bullion depository act; authorizing the
+3 state treasurer to establish, administer or contract for the administration
+4 of bullion depositories; allowing state moneys to be deposited in such
+5 bullion depositories and invested in specie legal tender; amending
+6 K.S.A. 2024 Supp. 75-4209 and repealing the existing section.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 New Section 1. The provisions of sections 1 through 10, and
+10 amendments thereto, shall be known and may be cited as the Kansas
+11 bullion depository act.
+12 New Sec. 2. As used in the Kansas bullion depository act:
+13 (a) "Act" means the Kansas bullion depository act.
+14 (b) "Administrator" means the individual or entity appointed by the
+15 state treasurer to oversee the operation and management of the
+16 depositories.
+17 (c) "Bullion" means refined gold or silver in any shape or form with
+18 uniform content and purity, including, but not limited to, coins, rounds,
+19 bars, ingots or any other product that is:
+20 (1) Stamped or imprinted with the weight and purity of the gold or
+21 silver that it contains; and
+22 (2) valued primarily based on its metal content and not on its form
+23 and function.
+24 (d) "Depository" means a bullion depository established by section 9,
+25 and amendments thereto, or established by and located in another
+26 jurisdiction and designated as a depository by the state treasurer pursuant
+27 to section 3, and amendments thereto.
+28 (e) "Depository account" means an account established with a
+29 depository to facilitate the storage, transfer and exchange of bullion.
+30 (f) "Electronic currency" means a representation of actual precious
+31 metals, specie or bullion held in a depository account that may be
+32 transferred by electronic instruction. Such representation shall reflect the
+33 exact units of physical precious metals, specie or bullion in such
+34 depository account in its fractional troy ounce measurement as provided in
+35 this act.
+36 (g) "Precious metal" means gold or silver.
+
+SB 115 2
+1 (h) "Specie" means bullion fabricated into products of uniform shape,
+2 size, design, content, weight and purity that is suitable for or customarily
+3 used as currency, as a medium of exchange or as the medium for purchase,
+4 sale, storage, transfer or delivery of precious metals in retail or wholesale
+5 transactions.
+6 (i) "Specie legal tender" means gold or silver coin or bullion,
+7 including, but not limited to, gold or silver coin issued by the United
+8 States.
+9 New Sec. 3. (a) The state treasurer may:
+10 (1) Establish and administer bullion depositories to provide a secure
+11 location for the storage of bullion;
+12 (2) contract with a third party to act as the administrator to manage
+13 the day-to-day operations of bullion depositories located in this state and
+14 implement the depositories' security, storage and transactional and
+15 administrative procedures in accordance with this act; or
+16 (3) contract with one or more bullion depositories established and
+17 located in another jurisdiction for the secure storage and administration of
+18 bullion deposits made in accordance with this act.
+19 (b) If the state treasurer enters into a contract pursuant to subsection
+20 (a)(3), the state treasurer shall designate the bullion depository named in
+21 such contract as an official state bullion depository.
+22 (c) As used in this section, "security" means physical, online and
+23 logical security standards that meet generally accepted standards within
+24 the information assurance industry.
+25 New Sec. 4. (a) A person, an individual, a corporation, a partnership,
+26 a company, an association, a trust, an estate and a governmental entity,
+27 may establish a depository account by entering into a depository
+28 agreement with a depository.
+29 (b) A depository account holder may purchase, sell, deposit or
+30 withdraw bullion through the holder's account in accordance with this
+31 section and any rules and regulations adopted thereunder. A depository
+32 shall have processes and systems to facilitate timely bullion purchases,
+33 sales, deposits and withdrawals, including, but not limited to:
+34 (1) Physical deposits and withdrawals to and from the depository's
+35 physical location, or a partner organization such as a major mint or refiner
+36 capable of providing bullion that meets standards established by the state
+37 treasurer; and
+38 (2) electronic systems that meet current industry standards for the
+39 purchase and sale of bullion for depository account holders that cannot or
+40 choose not to travel to the physical location.
+41 (c) State agencies, counties, municipalities and other governmental
+42 entities may use a depository for storing bullion. The state treasurer may
+43 deposit a portion of state moneys into a depository in the form of bullion
+
+SB 115 3
+1 and such bullion shall be considered part of the state's official financial
+2 reserves. The state treasurer shall develop guidelines for the state's use of
+3 depositories. All deposits of state moneys into a depository shall be
+4 secured by a pledge of securities as provided in K.S.A. 75-4218, and
+5 amendments thereto.
+6 (d) The administrator shall maintain a record of all depository
+7 accounts and all transactions, deposits and withdrawals associated with
+8 each account. Such records shall be provided to the state treasurer within
+9 five business days after the state treasurer's request. All records shall be
+10 kept and maintained, at a minimum, on an approved state computer system
+11 for a period of at least seven years.
+12 New Sec. 5. (a) The administrator shall ensure that a depository has
+13 state-of-the-art security measures to prevent theft, fraud or other
+14 unauthorized access or removal of bullion.
+15 (b) A depository shall maintain insurance coverage sufficient to cover
+16 the full value of all bullion stored at the depository. Such insurance shall
+17 be provided by an insurer that is rated "A" or higher by am best company
+18 or an equivalent rating by another national rating service acceptable to the
+19 administrator.
+20 (c) An independent third party shall conduct audits at least twice a
+21 year to verify the amount and value of bullion stored in a depository and to
+22 inspect the security measures and protocols in place. Such independent
+23 third party shall be an established provider with a good history of
+24 providing such auditing service. Documentation of audit results shall be
+25 made available within a reasonable timeframe to the public upon request.
+26 Documentation shall include, at a minimum, summary totals of precious
+27 metal amounts assessed, as well as documentation of any discrepancies
+28 found during the audit.
+29 (d) A depository shall comply all with federal and state laws
+30 pertaining to bullion storage, management and transactions. The
+31 administrator shall consult regularly with legal counsel to ensure that each
+32 depository remains compliant with evolving laws and regulations.
+33 New Sec. 6. (a) An employee or official associated with the oversight
+34 or operation of a depository shall:
+35 (1) Have no financial interests in companies or entities that produce,
+36 sell or manage bullion; and
+37 (2) disclose any potential conflict of interest to the state treasurer
+38 immediately upon discovery.
+39 (b) A violation of this section may result in the employee's or
+40 official's removal from position, fines or other legal penalties as
+41 determined by the state treasurer.
+42 New Sec. 7. The state treasurer shall have all authority necessary to
+43 enter into contractual agreements with third parties to administer this act.
+
+SB 115 4
+1 The administrator may enter into contractual agreements with private
+2 entities for the provision of services for bullion storage, transportation or
+3 security. All contractual agreements shall be reviewed and approved by the
+4 state treasurer to ensure that such agreements align with the state's interests
+5 and security requirements.
+6 New Sec. 8. (a) A depository shall not be terminated or transferred to
+7 a private entity unless such termination or transfer is approved by an act of
+8 the legislature. A depository termination or transfer shall ensure the
+9 security of the bullion, the rights of account holders and the financial
+10 interests of the state.
+11 (b) The administrator shall provide a quarterly report to the state
+12 treasurer detailing the operations, transactions and financial status of each
+13 depository.
+14 (c) The state treasurer shall provide an annual report to the legislature
+15 on or before the first day of the regular session of the legislature regarding
+16 the operations and financial status of each depository.
+17 New Sec. 9. The state treasurer shall adopt rules and regulations
+18 necessary to administer the provisions of this act, including, but not
+19 limited to, rules and regulations for the establishment, operation, security
+20 and administration of a depository.
+21 New Sec. 10. (a) A purported confiscation, requisition, seizure or
+22 other attempt to control the ownership, disposition or proceeds of a
+23 withdrawal, transfer, liquidation or settlement of a depository account or
+24 an electronic currency account, including the precious metals represented
+25 by the balance of a depository account or an electronic currency account, if
+26 effected by a governmental or quasi-governmental authority other than an
+27 authority of this state or by a financial institution or other person acting on
+28 behalf of or pursuant to a directive or authorization issued by a
+29 governmental or quasi-governmental authority other than an authority of
+30 this state, in the course of a generalized declaration of illegality or
+31 emergency relating to the ownership, possession or disposition of one or
+32 more precious metals, contracts or other rights to the precious metals,
+33 contracts or derivatives of the ownership, possession, disposition, contracts
+34 or other rights, is hereby declared to be null and void and shall have no
+35 force or effect.
+36 (b) A depository in the case of receiving notice of a purported
+37 confiscation, requisition, seizure or other attempt to control the ownership,
+38 disposition or proceeds of a withdrawal, transfer, liquidation or settlement
+39 of a depository account or an electronic currency account, including the
+40 precious metals represented by the balance of a depository account or an
+41 electronic currency account, if effected by a governmental or quasi-
+42 governmental authority other than an authority of this state or by a
+43 financial institution or other person acting on behalf of or pursuant to a
+
+SB 115 5
+1 directive or authorization issued by a governmental or quasi-governmental
+2 authority other than an authority of this state, in the course of a generalized
+3 declaration of illegality or emergency relating to the ownership, possession
+4 or disposition of one or more precious metals, contracts or other rights to
+5 the precious metals, contracts or derivatives of the ownership, possession,
+6 disposition, contracts or other rights, shall not recognize the governmental
+7 or quasi-governmental authority, financial institution or other person
+8 acting as the lawful successor of the registered holder of the depository
+9 account or the electronic currency account in question.
+10 (c) Upon receipt of notice of any transaction described in subsection
+11 (a), with respect to all or any portion of the balance of a depository
+12 account or an electronic currency account, a depository shall suspend
+13 withdrawal privileges associated with the balances of the depository
+14 account or electronic currency account until suitable substitute
+15 arrangements may be effected in accordance with rules and regulations of
+16 the state treasurer to enable the registered account holder to take delivery
+17 of the precious metals represented by the account balances in question. A
+18 voluntary transfer of a depository account or an electronic currency
+19 account balance or of a depository account or an electronic currency
+20 account among depository account or electronic currency account holders
+21 may continue to take place unaffected by the suspension, and the
+22 depository shall recognize such voluntary transfer to the full extent
+23 authorized by this section and rules and regulations adopted under this act.
+24 (d) The state treasurer shall refer any matter relating to an action
+25 described in subsection (a) to the attorney general for resolution.
+26 Sec. 11. K.S.A. 2024 Supp. 75-4209 is hereby amended to read as
+27 follows: 75-4209. (a) The director of investments may invest and reinvest
+28 state moneys eligible for investment which are not invested in accordance
+29 with K.S.A. 75-4237, and amendments thereto, in the following
+30 investments:
+31 (1) Direct obligations of, or obligations that are insured as to principal
+32 and interest by, the United States of America or any agency thereof and
+33 obligations and securities of the United States sponsored enterprises which
+34 under federal law may be accepted as security for public funds, on and
+35 after the effective date of this act moneys available for investment under
+36 this subsection shall not be invested in mortgage-backed securities of such
+37 enterprises and of the government national mortgage association, except
+38 that any such mortgage-backed securities held prior to the effective date of
+39 this act may be held to maturity;
+40 (2) repurchase agreements with a bank or a primary government
+41 securities dealer which reports to the market reports division of the federal
+42 reserve bank of New York for direct obligations of, or obligations that are
+43 insured as to principal and interest by, the United States government or any
+
+SB 115 6
+1 agency thereof and obligations and securities of United States government
+2 sponsored enterprises which under federal law may be accepted as security
+3 for public funds;
+4 (3) commercial paper that does not exceed 270 days to maturity and
+5 which has received one of the two highest commercial paper credit ratings
+6 by a nationally recognized investment rating firm; and
+7 (4) corporate bonds which have received one of the two highest
+8 ratings by a nationally recognized investment rating firm; and
+9 (5) specie legal tender, as defined in section 2, and amendments
+10 thereto.
+11 (b) When moneys are available for deposit or investments, the
+12 director of investments may invest in SKILL act projects and bonds
+13 pursuant to K.S.A. 74-8920, and amendments thereto, and in state agency
+14 bonds and bond projects.
+15 (c) When moneys are available for deposits or investments, the
+16 director of investments may invest in preferred stock of Kansas venture
+17 capital, inc., under terms and conditions prescribed by K.S.A. 74-8203,
+18 and amendments thereto, but such investments shall not in the aggregate
+19 exceed a total amount of $10,000,000.
+20 (d) When moneys are available for deposits or investments, the
+21 director of investments may invest in loans pursuant to legislative
+22 mandates, except that not more than the greater of 10% or $140,000,000 of
+23 the state moneys shall be invested. The provisions of this subsection shall
+24 not apply to the provisions of subsection (m).
+25 (e) Interest on investment accounts in banks is to be paid at maturity,
+26 but not less than annually.
+27 (f) Investments made by the director of investments under the
+28 provisions of this section shall be made with judgment and care, under
+29 circumstances then prevailing, which persons of prudence, discretion and
+30 intelligence exercise in the management of their own affairs, not for
+31 speculation, but for investment, considering the probable safety of their
+32 capital as well as the probable income to be derived.
+33 (g) Investments under subsection (a) or (b) or under K.S.A. 75-4237,
+34 and amendments thereto, shall be for a period not to exceed four years,
+35 except that linked deposits authorized under the provisions of K.S.A. 2-
+36 3703 through 2-3707, and amendments thereto, shall not exceed a period
+37 of 10 years; agricultural production loan deposits authorized under the
+38 provisions of K.S.A. 75-4268 through 75-4274, and amendments thereto,
+39 shall not exceed a period of eight years and housing loan deposits
+40 authorized under K.S.A. 75-4276 through 75-4282, and amendments
+41 thereto, shall not exceed a period of five years or 20 years, as applicable
+42 pursuant to K.S.A. 75-4279, and amendments thereto.
+43 (h) Investments in securities under subsection (a)(1) shall be limited
+
+SB 115 7
+1 to securities which do not have any more interest rate risk than do direct
+2 United States government obligations of similar maturities. For purposes
+3 of this subsection, "interest rate risk" means market value changes due to
+4 changes in current interest rates.
+5 (i) The director of investments shall not invest state moneys eligible
+6 for investment under subsection (a), in the municipal investment pool
+7 fund, created under K.S.A. 12-1677a, and amendments thereto.
+8 (j) The director of investments shall not invest moneys in the pooled
+9 money investment portfolio in derivatives. As used in this subsection,
+10 "derivatives" means a financial contract whose value depends on the value
+11 of an underlying asset or index of asset values.
+12 (k) Moneys and investments in the pooled money investment
+13 portfolio shall be invested and reinvested by the director of investments in
+14 accordance with investment policies developed, approved, published and
+15 updated on an annual basis by the board. Such investment policies shall
+16 include at a minimum guidelines which identify credit standards, eligible
+17 instruments, allowable maturity ranges, methods for valuing the portfolio,
+18 calculating earnings and yields and limits on portfolio concentration for
+19 each type of investment. Any changes in such investment policies shall be
+20 approved by the pooled money investment board. Such investment policies
+21 may specify the contents of reports, methods of crediting funds and
+22 accounts and other operating procedures.
+23 (l) The board shall adopt rules and regulations to establish an overall
+24 percentage limitation on the investment of moneys in investments
+25 authorized under subsection (a)(3), and within such authorized investment,
+26 the board shall establish a percentage limitation on the investment in any
+27 single business entity.
+28 (m) (1) During the fiscal year ending June 30, 2017, the director of
+29 the budget shall estimate on or before June 27, 2017, the amount of the
+30 unencumbered ending balance in the state general fund for fiscal year
+31 2017. If the amount of such unencumbered ending balance in the state
+32 general fund is less than $50,000,000, the director of the budget shall
+33 certify the difference between $50,000,000, and the amount of such
+34 unencumbered ending balance to the pooled money investment board.
+35 Upon the liquidation of all investments and reinvestments of state moneys
+36 pursuant to K.S.A. 75-2263(j), and amendments thereto, and upon receipt
+37 of such certification by the director of the budget, during the fiscal year
+38 ending June 30, 2017, the pooled money investment board shall authorize
+39 the director of accounts and reports to transfer an amount equal to the
+40 amount certified by the director of the budget pursuant to this subsection
+41 from the pooled money investment portfolio to the state general fund.
+42 Upon receipt of such authorization, the director of accounts and reports
+43 shall make such transfer. The chairperson of the pooled money investment
+
+SB 115 8
+1 board shall transmit a copy of such authorization to the director of
+2 legislative research and the director of the budget.
+3 (2) (A) On or before June 30, 2019, the director of accounts and
+4 reports shall transfer an amount equal to 1/ of the amount transferred
+6
+5 pursuant to subsection (m)(1) from the state general fund to the pooled
+6 money investment portfolio.
+7 (B) On or before June 30, 2020, the director of accounts and reports
+8 shall transfer an amount equal to 1/ of the amount transferred pursuant to
+2
+9 subsection (m)(1), reduced by the amount transferred pursuant to
+10 subsection (m)(2)(A) from the state general fund to the pooled money
+11 investment portfolio.
+12 (C) On or before June 30, 2021, and June 30, 2022, during each such
+13 fiscal year, the director of accounts and reports shall transfer an amount
+14 equal to 1/ of the amount transferred pursuant to subsection (m)(1),
+2
+15 reduced by the amount transferred pursuant to subsection (m)(2)(A) and
+16 (m)(2)(B) from the state general fund to the pooled money investment
+17 portfolio.
+18 (3) During the fiscal year ending June 30, 2018, after any transfer
+19 made pursuant to subsection (m)(1), the pooled money investment board
+20 shall authorize the director of accounts and reports to transfer the
+21 remaining amount of all investments and reinvestments of state moneys
+22 liquidated pursuant to K.S.A. 75-2263(j), and amendments thereto, from
+23 the pooled money investment portfolio to the state general fund. Upon
+24 receipt of such authorization, the director of accounts and reports shall
+25 make such transfer. The chairperson of the pooled money investment
+26 board shall transmit a copy of such authorization to the director of
+27 legislative research and the director of the budget.
+28 (4) (A) On or before June 30, 2019, the director of accounts and
+29 reports shall transfer an amount equal to 1/ of the amount transferred
+6
+30 pursuant to subsection (m)(3) from the state general fund to the pooled
+31 money investment portfolio.
+32 (B) On or before June 30, 2020, the director of accounts and reports
+33 shall transfer an amount equal to 1/ of the amount transferred pursuant to
+2
+34 subsection (m)(3), reduced by the amount transferred pursuant to
+35 subsection (m)(4)(A) from the state general fund to the pooled money
+36 investment portfolio.
+37 (C) On or before June 30, 2021, and June 30, 2022, during each such
+38 fiscal year, the director of accounts and reports shall transfer an amount
+39 equal to 1/ of the amount transferred pursuant to subsection (m)(3),
+2
+40 reduced by the amount transferred pursuant to subsection (m)(4)(A) and
+41 (m)(4)(B) from the state general fund to the pooled money investment
+42 portfolio Investments in specie legal tender under subsection (a)(5) shall
+43 not exceed 20% of the total amount of the pooled money investment
+
+SB 115 9
+1 portfolio at the time such investment is made.
+2 Sec. 12. K.S.A. 2024 Supp. 75-4209 is hereby repealed.
+3 Sec. 13. This act shall take effect and be in force from and after its
+4 publication in the statute book.
+
+[DELETED: AasobKBNw Sn 1e ps of ss 1 th 1, a0a1b2N3(4(5se tr to oe te on ad mt of t6d7(8u9b0(1s2(3a4(5ad as t, or ed b ad ld in a6j7t8(y a" ms an at ed wh a9d0(1m2t3et us of pl ps m, se or bn in s4d5t6(]
+[DELETED: 5(sust(e l t" s r  c oiSN0(1l2(3t4it te d' s, se ad tl a5a6(7l8b9(0(1s2(3l4t5N6a7my eh a dy at by eg io a d8a9(t 0w1s2s3s4(5p6c7t8(9p0c1(2e3d]
+[DELETED: 5ardsa(e ar l m a d of l daef0k1f2N3st sy ms to pt t, fd or o4u5(6t7b8o9a0(1y2i3t4p5m6D7m8f9( d sl c al wh fl ad se l0pg to bn s, mt ad t. T1a2d3N4o5(6s7(8i9(0os rl fm p, fs or or ll ps a1d2N3e]
+[DELETED: 5TessaNats0i1(2t3d4(5o6t7N8n9l0a1N2o3w4a5b6e7a8bf of or pt to a de or an id by a9g0t1e2m3c4o5f6(7c8d9o0p1e2g3f]
+[DELETED: 5dadotdoaa0(1(2a3w4at or ec cy at ul se s5a6t7o8v9a0a1m ce t te pe ud b te s, ad t2d3a4(5d6S7f8s9wh K. 7, ad as t, in te f0i1(2a3o4u5a6t7e8t9t0(1s2r3i]
+[DELETED: 5asf(wb(r(0t1(s t 2d3p4b5(6d7c8a9e0(1dr of is m it in ls pt to l2m3t4n5(6b7(s me b te dr of is ur t8p9c0i1s2c3(4a5e637o8p9s0a1t2p3(]
+[DELETED: 5tUoc(ff(m0"1o2(s ad is in te pd my i3p4a5u6i7i8c9e0a1m2a3(4pe ln on te it of ms in i5a6t7s8(9t0u122g3c4u5U6p7o8e9t0a1f2U3s]
+[DELETED: 5bl(rr o / opm(s / sn (, rd by te at td pt t0s1i2(3f4eo / o5r6(7p8(9m0sl ae  dr f s a rs tr 1r2l3t4r5m6b7l8(9ro / o0p1m2(3s / 4sn (, rd by te t td pt t5s6i7(8f9eo / o0r1(2p3n]
+[DELETED: 5pSSp]

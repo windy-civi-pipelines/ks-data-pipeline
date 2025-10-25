@@ -1,0 +1,269 @@
+Title: HOUSE BILL No. 2083
+Official Title: HOUSE BILL No. 2083
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Taxation
+Requested by Kimberly Gencur on behalf of the Advanced Power Alliance
+1-23
+1 AN ACT concerning property taxation; relating to exemptions; providing a
+2 property tax exemption for new energy storage systems; excluding new
+3 energy storage systems from the commercial and industrial machinery
+4 and equipment exemption; amending K.S.A. 79-223 and K.S.A. 2024
+5 Supp. 79-266 and repealing the existing sections.
+6
+7 Be it enacted by the Legislature of the State of Kansas:
+8 Section 1. K.S.A. 79-223 is hereby amended to read as follows: 79-
+9 223. (a) It is the purpose of this section to promote, stimulate, foster and
+10 encourage new investments in commercial and industrial machinery and
+11 equipment in the state of Kansas, to contribute to the economic recovery of
+12 the state, to enhance business opportunities in the state, to encourage the
+13 location of new businesses and industries in the state as well as the
+14 retention and expansion of existing businesses and industries and to
+15 promote the economic stability of the state by maintaining and providing
+16 employment opportunities, thereby contributing to the general welfare of
+17 the citizens of the state, by exempting from property taxation all newly
+18 purchased or leased commercial and industrial machinery and equipment,
+19 including machinery and equipment transferred into this state for the
+20 purpose of expanding an existing business or for the creation of a new
+21 business.
+22 (b) The following described property, to the extent specified by this
+23 section, shall be and is hereby exempt from all property or ad valorem
+24 taxes levied under the laws of the state of Kansas:
+25 First. Commercial and industrial machinery and equipment acquired by
+26 qualified purchase or lease made or entered into after June 30, 2006, as the
+27 result of a bona fide transaction not consummated for the purpose of
+28 avoiding taxation.
+29 Second. Commercial and industrial machinery and equipment
+30 transported into this state after June 30, 2006, for the purpose of expanding
+31 an existing business or creation of a new business.
+32 (c) Any purchase, lease or transportation of commercial and industrial
+33 machinery and equipment consummated for the purpose of avoiding
+34 taxation shall subject the property to the penalty provisions of K.S.A. 79-
+35 1422 and 79-1427a, and amendments thereto. The county appraiser shall
+HB 2083 2
+1 not reclassify any property that is properly classified for property tax
+2 purposes within subclass (5) of class 2 of section 1 of article 11 of the
+3 constitution of the state of Kansas.
+4 (d) As used in this section:
+5 (1) "Acquired" shall not include the transfer of property pursuant to
+6 an exchange for stock securities, or the transfer of assets from one going
+7 concern to another due to a merger, reorganization or other consolidation;
+8 (2) "commercial and industrial machinery and equipment" means
+9 property classified for property tax purposes within subclass (5) of class 2
+10 of section 1 of article 11 of the constitution of the state of Kansas, but shall
+11 not include:
+12 (A) Any electric generation facility or addition to an electric
+13 generation facility that is used predominately to produce and generate
+14 electricity utilizing renewable energy resources or technologies as defined
+15 in K.S.A. 79-201, and amendments thereto; or
+16 (B) on and after January 1, 2026, any new energy storage system as
+17 defined in K.S.A. 2024 Supp. 79-266, and amendments thereto. This
+18 exclusion shall not apply to an energy storage system that received any
+19 necessary county approval prior to January 1, 2026;
+20 (3) "qualified lease" means a lease of commercial and industrial
+21 machinery and equipment for not less than 30 days for fair and valuable
+22 consideration where such machinery and equipment is physically
+23 transferred to the lessee to be used in the lessee's business or trade; and
+24 (4) "qualified purchase" means a purchase of commercial and
+25 industrial machinery and equipment for fair and valuable consideration
+26 where such machinery and equipment is physically transferred to the
+27 purchaser to be used in the purchaser's business or trade.
+28 (e) The secretary of revenue is hereby authorized to adopt rules and
+29 regulations to administer the provisions of this section.
+30 Sec. 2. K.S.A. 2024 Supp. 79-266 is hereby amended to read as
+31 follows: 79-266. (a) The following described property, to the extent herein
+32 specified, shall be exempt from all property or ad valorem taxes levied
+33 under the laws of the state of Kansas:
+34 (1) Any new electric generation facility.
+35 (2) Any new addition to a new or existing electric generation facility.
+36 (3) Any new pollution control device constructed or installed on or
+37 after January 1, 2025, at a new or existing electric generation facility.
+38 (4) On and after January 1, 2026, any new energy storage system.
+39 (b) The provisions of this section shall apply from and after
+40 commencement of construction or installation of such property and for the
+41 10 taxable years immediately following the taxable year in which
+42 construction or installation of such property is completed.
+43 (c) As used in this section:
+HB 2083 3
+1 (1) "Existing electric generation facility" means an electric generation
+2 facility described in K.S.A. 66-104(e) or 66-128(b)(2)(C), and
+3 amendments thereto, that is in existence on December 31, 2024. "Existing
+4 electric generation facility" does not include an electric generation facility
+5 that converts wind, solar, biomass, landfill gas or any other renewable
+6 source of energy to electricity.
+7 (2) "New addition" means any real or tangible personal property
+8 constructed or installed on or after January 1, 2025, for incorporation in
+9 and use as part of a new or existing electric generation facility.
+10 (3) "New electric generation facility" means an electric generation
+11 facility described in K.S.A. 66-104(e) or 66-128(b)(2)(C), and
+12 amendments thereto, and the commencement of construction of such
+13 facility began on or after January 1, 2025. "New electric generation
+14 facility" includes any electric generation facility that utilizes nuclear
+15 energy for the generation of electricity. "New electric generation facility"
+16 does not include any electric generation facility that converts wind, solar,
+17 biomass, landfill gas or any other renewable source of energy to electricity.
+18 (4) "Energy storage system" or "ESS" means commercial or utility-
+19 scale electrochemical, mechanical, electrostatic or gravitational devices
+20 that charge or collect energy from the electrical grid or a generation
+21 facility, store or use that energy and then discharge stored energy at a
+22 later time to provide electricity or other electrical grid services. For
+23 purposes of this paragraph, a generation facility includes any existing or
+24 new electric generation facilities or any electric generation facility that
+25 utilizes renewable energy resources or technologies including wind, solar,
+26 biomass, landfill gas or any other renewable source of energy.
+27 (5) "New energy storage system" means an energy storage system
+28 that the commencement of construction or installation of such property
+29 began on or after January 1, 2026, but does not include an energy storage
+30 system that received any necessary county approval prior to January 1,
+31 2026.
+32 (d) Except as otherwise specifically provided, the provisions of this
+33 section shall apply to all taxable years commencing after December 31,
+34 2024.
+35 Sec. 3. K.S.A. 79-223 and K.S.A. 2024 Supp. 79-266 are hereby
+36 repealed.
+37 Sec. 4. This act shall take effect and be in force from and after its
+38 publication in the statute book.
+[DELETED: ApeaSBS20e1e2t3l4r5p6e7t8p9i0p1b2(3s4t5F6q7r8a9S. Cl ad il my ad e0t1a2(3m4t51]
+[DELETED: 3npc((ac(p0o1n2(y ec gn f or an to an e3g t4e5i6(7d8e9n0(1m2cn we sh my ad et is p3t4(d p" ms a pe of cl a5i6w7p8(9r0S1f2s3u4(5(6(7a8(9(e ps of ts sn sl ay fm ad a0c110 te ys iy fg te te yr in w2c3(]
+[DELETED: 3(fy dd in K. 6) or 6, aaets(ca0(1fy dd in K. 6) or 6, a2a3f4f5e6d7b8(9s0t1f2l3p4n5u6b7(8t9b0s122(3s425S6r7S8p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2083
+By Committee on Taxation
+Requested by Kimberly Gencur on behalf of the Advanced Power Alliance
+1-23
+1 AN ACT concerning property taxation; relating to exemptions; providing a
+2 property tax exemption for new energy storage systems; excluding new
+3 energy storage systems from the commercial and industrial machinery
+4 and equipment exemption; amending K.S.A. 79-223 and K.S.A. 2024
+5 Supp. 79-266 and repealing the existing sections.
+6
+7 Be it enacted by the Legislature of the State of Kansas:
+8 Section 1. K.S.A. 79-223 is hereby amended to read as follows: 79-
+9 223. (a) It is the purpose of this section to promote, stimulate, foster and
+10 encourage new investments in commercial and industrial machinery and
+11 equipment in the state of Kansas, to contribute to the economic recovery of
+12 the state, to enhance business opportunities in the state, to encourage the
+13 location of new businesses and industries in the state as well as the
+14 retention and expansion of existing businesses and industries and to
+15 promote the economic stability of the state by maintaining and providing
+16 employment opportunities, thereby contributing to the general welfare of
+17 the citizens of the state, by exempting from property taxation all newly
+18 purchased or leased commercial and industrial machinery and equipment,
+19 including machinery and equipment transferred into this state for the
+20 purpose of expanding an existing business or for the creation of a new
+21 business.
+22 (b) The following described property, to the extent specified by this
+23 section, shall be and is hereby exempt from all property or ad valorem
+24 taxes levied under the laws of the state of Kansas:
+25 First. Commercial and industrial machinery and equipment acquired by
+26 qualified purchase or lease made or entered into after June 30, 2006, as the
+27 result of a bona fide transaction not consummated for the purpose of
+28 avoiding taxation.
+29 Second. Commercial and industrial machinery and equipment
+30 transported into this state after June 30, 2006, for the purpose of expanding
+31 an existing business or creation of a new business.
+32 (c) Any purchase, lease or transportation of commercial and industrial
+33 machinery and equipment consummated for the purpose of avoiding
+34 taxation shall subject the property to the penalty provisions of K.S.A. 79-
+35 1422 and 79-1427a, and amendments thereto. The county appraiser shall
+
+HB 2083 2
+1 not reclassify any property that is properly classified for property tax
+2 purposes within subclass (5) of class 2 of section 1 of article 11 of the
+3 constitution of the state of Kansas.
+4 (d) As used in this section:
+5 (1) "Acquired" shall not include the transfer of property pursuant to
+6 an exchange for stock securities, or the transfer of assets from one going
+7 concern to another due to a merger, reorganization or other consolidation;
+8 (2) "commercial and industrial machinery and equipment" means
+9 property classified for property tax purposes within subclass (5) of class 2
+10 of section 1 of article 11 of the constitution of the state of Kansas, but shall
+11 not include:
+12 (A) Any electric generation facility or addition to an electric
+13 generation facility that is used predominately to produce and generate
+14 electricity utilizing renewable energy resources or technologies as defined
+15 in K.S.A. 79-201, and amendments thereto; or
+16 (B) on and after January 1, 2026, any new energy storage system as
+17 defined in K.S.A. 2024 Supp. 79-266, and amendments thereto. This
+18 exclusion shall not apply to an energy storage system that received any
+19 necessary county approval prior to January 1, 2026;
+20 (3) "qualified lease" means a lease of commercial and industrial
+21 machinery and equipment for not less than 30 days for fair and valuable
+22 consideration where such machinery and equipment is physically
+23 transferred to the lessee to be used in the lessee's business or trade; and
+24 (4) "qualified purchase" means a purchase of commercial and
+25 industrial machinery and equipment for fair and valuable consideration
+26 where such machinery and equipment is physically transferred to the
+27 purchaser to be used in the purchaser's business or trade.
+28 (e) The secretary of revenue is hereby authorized to adopt rules and
+29 regulations to administer the provisions of this section.
+30 Sec. 2. K.S.A. 2024 Supp. 79-266 is hereby amended to read as
+31 follows: 79-266. (a) The following described property, to the extent herein
+32 specified, shall be exempt from all property or ad valorem taxes levied
+33 under the laws of the state of Kansas:
+34 (1) Any new electric generation facility.
+35 (2) Any new addition to a new or existing electric generation facility.
+36 (3) Any new pollution control device constructed or installed on or
+37 after January 1, 2025, at a new or existing electric generation facility.
+38 (4) On and after January 1, 2026, any new energy storage system.
+39 (b) The provisions of this section shall apply from and after
+40 commencement of construction or installation of such property and for the
+41 10 taxable years immediately following the taxable year in which
+42 construction or installation of such property is completed.
+43 (c) As used in this section:
+
+HB 2083 3
+1 (1) "Existing electric generation facility" means an electric generation
+2 facility described in K.S.A. 66-104(e) or 66-128(b)(2)(C), and
+3 amendments thereto, that is in existence on December 31, 2024. "Existing
+4 electric generation facility" does not include an electric generation facility
+5 that converts wind, solar, biomass, landfill gas or any other renewable
+6 source of energy to electricity.
+7 (2) "New addition" means any real or tangible personal property
+8 constructed or installed on or after January 1, 2025, for incorporation in
+9 and use as part of a new or existing electric generation facility.
+10 (3) "New electric generation facility" means an electric generation
+11 facility described in K.S.A. 66-104(e) or 66-128(b)(2)(C), and
+12 amendments thereto, and the commencement of construction of such
+13 facility began on or after January 1, 2025. "New electric generation
+14 facility" includes any electric generation facility that utilizes nuclear
+15 energy for the generation of electricity. "New electric generation facility"
+16 does not include any electric generation facility that converts wind, solar,
+17 biomass, landfill gas or any other renewable source of energy to electricity.
+18 (4) "Energy storage system" or "ESS" means commercial or utility-
+19 scale electrochemical, mechanical, electrostatic or gravitational devices
+20 that charge or collect energy from the electrical grid or a generation
+21 facility, store or use that energy and then discharge stored energy at a
+22 later time to provide electricity or other electrical grid services. For
+23 purposes of this paragraph, a generation facility includes any existing or
+24 new electric generation facilities or any electric generation facility that
+25 utilizes renewable energy resources or technologies including wind, solar,
+26 biomass, landfill gas or any other renewable source of energy.
+27 (5) "New energy storage system" means an energy storage system
+28 that the commencement of construction or installation of such property
+29 began on or after January 1, 2026, but does not include an energy storage
+30 system that received any necessary county approval prior to January 1,
+31 2026.
+32 (d) Except as otherwise specifically provided, the provisions of this
+33 section shall apply to all taxable years commencing after December 31,
+34 2024.
+35 Sec. 3. K.S.A. 79-223 and K.S.A. 2024 Supp. 79-266 are hereby
+36 repealed.
+37 Sec. 4. This act shall take effect and be in force from and after its
+38 publication in the statute book.
+
+[DELETED: ApeaSBS20e1e2t3l4r5p6e7t8p9i0p1b2(3s4t5F6q7r8a9S. Cl ad il my ad e0t1a2(3m4t51]
+[DELETED: 3npc((ac(p0o1n2(y ec gn f or an to an e3g t4e5i6(7d8e9n0(1m2cn we sh my ad et is p3t4(d p" ms a pe of cl a5i6w7p8(9r0S1f2s3u4(5(6(7a8(9(e ps of ts sn sl ay fm ad a0c110 te ys iy fg te te yr in w2c3(]
+[DELETED: 3(fy dd in K. 6) or 6, aaets(ca0(1fy dd in K. 6) or 6, a2a3f4f5e6d7b8(9s0t1f2l3p4n5u6b7(8t9b0s122(3s425S6r7S8p]

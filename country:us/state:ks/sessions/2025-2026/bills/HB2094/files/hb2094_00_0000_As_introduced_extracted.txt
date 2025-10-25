@@ -1,0 +1,803 @@
+Title: HOUSE BILL No. 2094
+Official Title: HOUSE BILL No. 2094
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Federal and State Affairs
+Requested by Kevin Barone on behalf of The Capitol Lobby Group
+1-27
+1 AN ACT concerning tobacco products; authorizing the sale of electronic
+2 cigarettes in cigarette vending machines; amending K.S.A. 79-3301,
+3 79-3303 and 79-3399 and K.S.A. 2024 Supp. 79-3321 and repealing
+4 the existing sections.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 Section 1. K.S.A. 79-3301 is hereby amended to read as follows: 79-
+8 3301. As used in K.S.A. 79-3301 et seq., and amendments thereto:
+9 (a) "Act" means the Kansas cigarette and tobacco products act.
+10 (b) "Carrier" means one who transports cigarettes from a
+11 manufacturer to a wholesale dealer or from one wholesale dealer to
+12 another.
+13 (c) "Carton" means the container used by the manufacturer of
+14 cigarettes in which no more than 10 packages of cigarettes are placed prior
+15 to shipment from such manufacturer.
+16 (d) "Cigarette" means any roll for smoking, made wholly or in part of
+17 tobacco, irrespective of size or shape, and irrespective of tobacco being
+18 flavored, adulterated or mixed with any other ingredient if the wrapper is
+19 in greater part made of any material except tobacco.
+20 (e) "Conspicuous location or place" means a location or place
+21 available to the general public.
+22 (f) "Consumer" means the person purchasing or receiving cigarettes
+23 or tobacco products for final use.
+24 (g) "Contracting entity" means any public or private person, firm or
+25 entity that has entered into a contract with the secretary of revenue to
+26 provide services.
+27 (h) "Dealer" means any person who engages in the sale or
+28 manufacture of cigarettes, tobacco products or electronic cigarettes in the
+29 state of Kansas, and who is required to be licensed under the provisions of
+30 this act.
+31 (i) "Dealer establishment" means any location or premises, other than
+32 vending machine locations, at or from which cigarettes, tobacco products
+33 or electronic cigarettes are sold, and where records are kept.
+34 (j) "Director" means the director of taxation.
+35 (k) "Distributor" means:
+HB 2094 2
+1 (1) Any person engaged in the business of selling tobacco products in
+2 this state who brings, or causes to be brought, into this state from outside
+3 the state any tobacco products for sale;
+4 (2) any person who makes, manufactures, fabricates or stores tobacco
+5 products in this state for sale in this state; or
+6 (3) any person engaged in the business of selling tobacco products
+7 outside this state who ships or transports tobacco products to any person in
+8 the business of selling tobacco products in this state.
+9 (l) "Division" means the division of taxation.
+10 (m) "Electronic cigarette" means a battery-powered device, whether
+11 or not such device is shaped like a cigarette, that can provide inhaled doses
+12 of nicotine by delivering a vaporized solution by means of cartridges or
+13 other chemical delivery systems.
+14 (n) "Importer" means the same as provided defined in 26 U.S.C. §
+15 5702(k).
+16 (o) "License" means the privilege of a licensee to sell cigarettes or
+17 tobacco products in the state of Kansas, and the written evidence of such
+18 authority or privilege as issued by the director.
+19 (p) "Licensee" means any person holding a current license issued
+20 pursuant to this act.
+21 (q) "Manufacturer" means the same as provided defined in 26 U.S.C.
+22 § 5702(d).
+23 (r) "Manufacturer's salesperson" means a person employed by a
+24 cigarette manufacturer who sells cigarettes, manufactured by such
+25 employer and procured from wholesale dealers.
+26 (s) (1) "Package" means a container in which no more than 25
+27 individual cigarettes are wrapped and sealed by the manufacturer of
+28 cigarettes prior to shipment to a wholesale dealer;.
+29 (2) For the purposes of K.S.A. 79-3321(v) and (w), and amendments
+30 thereto, "package" means the same as provided defined in 15 U.S.C. §
+31 1332(4).
+32 (t) "Person" means any individual, partnership, society, association,
+33 joint-stock company, corporation, estate, receiver, trustee, assignee, referee
+34 or any other person acting in a fiduciary or representative capacity whether
+35 appointed by a court or otherwise and any combination of individuals.
+36 (u) "Received" means the coming to rest of cigarettes for sale by any
+37 dealer in the state of Kansas.
+38 (v) "Retail dealer" or "retailers" means a person, other than a vending
+39 machine operator, in possession of cigarettes or electronic cigarettes for
+40 the purpose of sale to a consumer.
+41 (w) "Sale" means any transfer of title or possession or both,
+42 exchange, barter, distribution or gift of cigarettes, tobacco products or
+43 electronic cigarettes, with or without consideration.
+HB 2094 3
+1 (x) "Sample" means cigarettes or tobacco products distributed to
+2 members of the general public at no cost for purposes of promoting the
+3 product.
+4 (y) "Self-service display" means a display that contains cigarettes or
+5 tobacco products and is located in an area openly accessible to a retail
+6 dealer's consumers, and from which such consumers can readily access
+7 cigarettes or tobacco products without the assistance of a salesperson, and
+8 which is knowingly utilized by the retail dealer to market and sell
+9 cigarettes and tobacco products to consumers. A display case that holds
+10 cigarettes or tobacco products behind locked doors does not constitute a
+11 self-service display.
+12 (z) "Stamps" means tax indicia applied by means of heat process,
+13 pressure or any other process approved by the director.
+14 (aa) "Tax indicia" means visible evidence of tax payment in the form
+15 of stamps.
+16 (bb) "Tobacco products" means cigars, cheroots, stogies, periques;
+17 granulated, plug cut, crimp cut, ready rubbed and other smoking tobacco;
+18 snuff, snuff flour; cavendish; plug and twist tobacco; fine cut and other
+19 chewing tobaccos; shorts; refuse scraps, clippings, cuttings and sweepings
+20 of tobacco, and other kinds and forms of tobacco, prepared in such manner
+21 as to be suitable for chewing or smoking in a pipe or otherwise, or both for
+22 chewing and smoking. Tobacco products do not include cigarettes.
+23 (cc) "Tobacco specialty store" means a dealer establishment that
+24 derives at least 65% of such dealer establishment's revenue from cigarettes
+25 or tobacco products.
+26 (dd) "Vending machine" means any coin operated machine,
+27 contrivance or device, by means of which merchandise may be sold.
+28 (ee) "Vending machine distributor" means any person who sells
+29 cigarette or electronic cigarette vending machines to a vending machine
+30 operator operating vending machines in the state of Kansas.
+31 (ff) (1) "Vending machine operator" means any person who places a
+32 vending machine, owned, leased or operated by such person, at locations
+33 where cigarettes or electronic cigarettes are sold from such vending
+34 machine.
+35 (2) The owner or lessee of the premises upon which a vending
+36 machine is placed shall not be considered the operator of the machine, nor
+37 shall the owner or lessee, or any employee or agent of the owner or lessee
+38 be considered an authorized agent of the vending machine operator, if the
+39 owner or lessee does not own or lease the machine and the owner's or
+40 lessee's sole remuneration from the machine is a flat rental fee or
+41 commission based upon the number or value of cigarettes or electronic
+42 cigarettes sold from the machine, or a combination of both.
+43 (gg) "Wholesale dealer" means any person who sells cigarettes or
+HB 2094 4
+1 electronic cigarettes to other wholesale dealers, retail dealers, vending
+2 machine operators and manufacturer's salespersons for the purpose of
+3 resale in the state of Kansas.
+4 (hh) "Wholesale sales price" means the original net invoice price for
+5 which a manufacturer sells a tobacco product to a distributor, as shown by
+6 the manufacturer's original invoice.
+7 Sec. 2. K.S.A. 79-3303 is hereby amended to read as follows: 79-
+8 3303. (a) Each person engaged in the business of selling cigarettes or
+9 electronic cigarettes in the state of Kansas and each vending machine
+10 distributor shall obtain a license as provided by this act. A separate
+11 application, license and fee is required for each dealer establishment
+12 owned or operated by a dealer. A vending machine operator is required to
+13 obtain a vending machine operator's master license and, in addition, a
+14 separate permit for each vending machine operated by the operator. A
+15 vending machine operator may submit one application for the vending
+16 machine operator's master license and all permits for vending machines
+17 operated by the operator. The license shall be displayed in the dealer
+18 establishment and the vending machine permit shall remain securely and
+19 visibly attached to the vending machine and contain such information as
+20 the director may require. Any vending machine found without such permit
+21 attached to the machine shall be sealed by an agent of the director and
+22 such seal shall be removed only by an agent of the director after payment
+23 of the permit fee and the penalties provided by this act.
+24 (b) The application for a vending machine operator's master license
+25 and vending machine permits shall list the brand name and serial number
+26 of each machine and such other information as required by the director.
+27 Except in accordance with proper judicial order or as otherwise provided
+28 by law, it shall be unlawful for any officer or employee of the division to
+29 divulge or make known in any way the location of any vending machine to
+30 any person not an officer or employee of the division or contracting entity
+31 of the division, where the division has determined disclosure of such
+32 information is essential for completion of the contract and has taken
+33 appropriate steps to preserve confidentiality, except that such information
+34 may be divulged to any law enforcement officer for use in the officer's
+35 official duties. Any officer, employee or contracting entity revealing any
+36 such location in violation of this provision, in addition to the penalties
+37 otherwise provided in this act, shall be dismissed from office.
+38 (c) A vending machine operator, in the course of business as a
+39 vending machine operator, may dispose of or sell vending machines
+40 without securing a license to sell vending machines. The vending machine
+41 operator may move vending machines from one location to another and, if
+42 a vending machine becomes inoperative or is disposed of, the permit for
+43 such machine may be transferred to another machine. A vending machine
+HB 2094 5
+1 operator, within 10 days, shall notify the director of the brand name and
+2 serial number of vending machines that become inoperative or that the
+3 operator disposes of, sells, acquires or brings into service in this state as
+4 additional machines.
+5 (d) The key to the lower or storage compartment of a vending
+6 machine shall remain only in the possession of the vending machine
+7 operator or the operator's authorized agent. All services connected with the
+8 operation of a vending machine shall be performed by the vending
+9 machine operator or the operator's authorized agent. All vending machines
+10 shall be subject to inspection by the director or the director's authorized
+11 agents. No permit shall be issued for a cigarette vending machine unless it
+12 is constructed so that at least one package of each vertical column of
+13 cigarettes located therein is visible showing tax indicia.
+14 (e) All vending machines operated on military installations shall have
+15 a permit affixed to the machines and the cigarettes shall show tax indicia
+16 of the Kansas tax.
+17 (f) On or before the 10th day of each month, each vending machine
+18 distributor shall report to the director, on forms provided by the director,
+19 all sales of cigarette and electronic cigarette vending machines by the
+20 distributor to persons in the state of Kansas during the preceding month;
+21 the name and address of the purchaser; and the brand name, serial number
+22 and sale price of the machines.
+23 (g) Concurrently with a change in ownership of a dealer
+24 establishment the license applicable to the establishment is void and shall
+25 be surrendered to the director and shall not be transferred. On removal of a
+26 dealer establishment from one location to another, the owner of the
+27 establishment shall notify the director and surrender the owner's license.
+28 The director shall issue a new license for the unexpired term of the
+29 surrendered license on payment of a fee of $2. If a dealer's license is lost,
+30 stolen or destroyed, the director may issue a new license on proof of loss,
+31 theft or destruction, at a cost of $2. The director shall remit all moneys
+32 received under this subsection to the state treasurer in accordance with the
+33 provisions of K.S.A. 75-4215, and amendments thereto. Upon receipt of
+34 each such remittance, the state treasurer shall deposit the entire amount in
+35 the state treasury to the credit of the state general fund.
+36 (h) Any vending machine that sells electronic cigarettes shall be
+37 permitted to sell any of the following:
+38 (1) Devices used to vaporize a liquid solution for the purpose of
+39 consuming nicotine through the use of an electronic cigarette;
+40 (2) cartridges, pods or any other containers used in any device
+41 described in paragraph (1) to store such liquid solution; and
+42 (3) batteries used in electronic cigarettes and the appropriate
+43 charging devices for such batteries, if applicable.
+HB 2094 6
+1 Sec. 3. K.S.A. 2024 Supp. 79-3321 is hereby amended to read as
+2 follows: 79-3321. It shall be unlawful for any person:
+3 (a) Except as otherwise specifically provided by this act, to possess,
+4 sell, transport, import, distribute, wholesale or manufacture more than
+5 1,000 cigarettes without the required tax indicia being affixed as herein
+6 provided required by this act.
+7 (b) To mutilate or attach to any individual package of cigarettes any
+8 stamp that has in any manner been mutilated or that has been heretofore
+9 attached to a different individual package of cigarettes or to have in
+10 possession any stamps so mutilated.
+11 (c) To prevent the director or any officer or agent authorized by law,
+12 to make a full inspection for the purpose of this act, of any place of
+13 business and all premises connected thereto where cigarettes are or may be
+14 manufactured, sold, distributed, or given away.
+15 (d) To use any artful device or deceptive practice to conceal any
+16 violation of this act or to mislead the director or officer or agent authorized
+17 by law in the enforcement of this act.
+18 (e) Who is a dealer to fail to produce on demand of the director or
+19 any officer or agent authorized by law any records or invoices required to
+20 be kept by such person.
+21 (f) Knowingly to make, use, or present to the director or agent thereof
+22 any falsified invoice or falsely state the nature or quantity of the goods
+23 invoiced.
+24 (g) Who is a dealer to fail or refuse to keep and preserve for the time
+25 and in the manner required by this act all the records required by this act to
+26 be kept and preserved.
+27 (h) To wholesale cigarettes to any person, other than a manufacturer's
+28 salesperson, retail dealer or wholesaler who is:
+29 (1) Duly licensed by the state where such manufacturer's salesperson,
+30 retail dealer or wholesaler is located; or
+31 (2) exempt from state licensing under applicable state or federal laws
+32 or court decisions including any such person operating as a retail dealer
+33 upon land allotted to or held in trust for an Indian tribe recognized by the
+34 United States bureau of Indian affairs.
+35 (i) To have in possession any evidence of tax indicia provided for
+36 herein required by this act and not purchased from the director.
+37 (j) To fail or refuse to permit the director or any officer or agent
+38 authorized by law to inspect a carrier transporting cigarettes.
+39 (k) To vend small cigars, or any products so wrapped as to be
+40 confused with cigarettes, from a machine vending cigarettes, nor shall a
+41 vending machine be so built to vend cigars or products that may be
+42 confused with cigarettes, be attached to a cigarette vending machine. This
+43 subsection shall not apply to the sale of electronic cigarettes from a
+HB 2094 7
+1 vending machine.
+2 (l) To sell, furnish or distribute cigarettes, electronic cigarettes or
+3 tobacco products to any person under 21 years of age.
+4 (m) Who is under 21 years of age to purchase or attempt to purchase
+5 cigarettes, electronic cigarettes or tobacco products.
+6 (n) Who is under 21 years of age to possess or attempt to possess
+7 cigarettes, electronic cigarettes or tobacco products.
+8 (o) To sell cigarettes to a retailer or at retail that do not bear Kansas
+9 tax indicia or upon which the Kansas cigarette tax has not been paid.
+10 (p) To sell cigarettes without having a license for such sale as
+11 provided herein required by this act.
+12 (q) To sell a vending machine without having a vending machine
+13 distributor's license.
+14 (r) Who is a retail dealer to fail to post and maintain in a conspicuous
+15 place in the dealer's establishment the following notice: "By law,
+16 cigarettes, electronic cigarettes and tobacco products may be sold only to
+17 persons 21 years of age and older."
+18 (s) To distribute samples within 500 feet of any school when such
+19 facility is being used primarily by persons under 21 years of age unless the
+20 sampling is:
+21 (1) In an area to which persons under 21 years of age are denied
+22 access;
+23 (2) in or at a retail location where cigarettes and tobacco products are
+24 the primary commodity offered for sale at retail; or
+25 (3) at or adjacent to an outdoor production, repair or construction site
+26 or facility.
+27 (t) To sell cigarettes, electronic cigarettes or tobacco products by
+28 means of a vending machine, including vending machines that sell
+29 packaged, single cigarettes, in any establishment, or portion of an
+30 establishment, which is open to minors, except that this subsection shall
+31 not apply to:
+32 (1) The installation and use by the proprietor of the establishment, or
+33 by the proprietor's agents or employees, of vending machines behind a
+34 counter, or in some place in such establishment, or portion thereof, to
+35 which minors are prohibited by law from having access; or
+36 (2) the installation and use of a vending machine in a commercial
+37 building or industrial plant, or portions thereof, where the public is not
+38 customarily admitted and where machines are intended for the sole use of
+39 adult employees employed in the building or plant.
+40 (u) To sell cigarettes, electronic cigarettes or tobacco products by
+41 means of a self-service display in any establishment, except that the
+42 provisions of this subsection shall not apply to:
+43 (1) A vending machine that is permitted under subsection (t);
+HB 2094 8
+1 (2) a self-service display that is located in a tobacco specialty store;
+2 or
+3 (3) a self-service display located in a facility where the retailer
+4 ensures that no person younger than 21 years of age is present or permitted
+5 to enter at any time.
+6 (v) To sell or distribute in this state; to acquire, hold, own, possess or
+7 transport for sale or distribution in this state; or to import or cause to be
+8 imported, into this state for sale or distribution in this state:
+9 (1) Any cigarettes the package of which:
+10 (A) Bears any statement, label, stamp, sticker or notice indicating that
+11 the manufacturer did not intend the cigarettes to be sold, distributed or
+12 used in the United States, including, but not limited to, labels stating "For
+13 Export Only," "U.S. Tax-Exempt," "For Use Outside U.S." or similar
+14 wording; or
+15 (B) does not comply with:
+16 (i) All requirements imposed by or pursuant to federal law regarding
+17 warnings and other information on packages of cigarettes manufactured,
+18 packaged or imported for sale, distribution or use in the United States,
+19 including but not limited to the precise warning labels specified in the
+20 federal cigarette labeling and advertising act, 15 U.S.C. § 1333; and
+21 (ii) all federal trademark and copyright laws;
+22 (2) any cigarettes imported into the United States in violation of 26
+23 U.S.C. § 5754 or any other federal law, or federal regulations
+24 implementing such laws;
+25 (3) any cigarettes that such person otherwise knows or has reason to
+26 know the manufacturer did not intend to be sold, distributed or used in the
+27 United States; or
+28 (4) any cigarettes for which there has not been submitted to the
+29 secretary of the U.S. department of health and human services the list or
+30 lists of the ingredients added to tobacco in the manufacture of such
+31 cigarettes required by the federal cigarette labeling and advertising act, 15
+32 U.S.C. § 1335a.
+33 (w) To alter the package of any cigarettes, prior to sale or distribution
+34 to the ultimate consumer, so as to remove, conceal or obscure:
+35 (1) Any statement, label, stamp, sticker or notice described in
+36 subsection (v); or
+37 (2) any health warning that is not specified in, or does not conform
+38 with, the requirements of, the federal cigarette labeling and advertising act,
+39 15 U.S.C. § 1333.
+40 (x) To affix any stamp required pursuant to K.S.A. 79-3311, and
+41 amendments thereto, to the package of any cigarettes described in
+42 subsection (v) or altered in violation of subsection (w).
+43 (y) To possess, sell, transport, import, distribute, wholesale or
+HB 2094 9
+1 manufacture cigarettes, smokeless tobacco or roll-your-own tobacco in
+2 violation of K.S.A. 50-6a01 et seq., and amendments thereto.
+3 (z) To sell cigarettes, smokeless tobacco or roll-your-own tobacco in
+4 any manner that is not a direct, face-to-face exchange between the retailer
+5 and the consumer, except:
+6 (1) Mail-order sales, which shall not include mail-order redemption
+7 coupons and distribution of free samples through the mail;
+8 (2) vending machines as provided in subsection (t); and
+9 (3) self-service displays as provided in subsection (u).
+10 Sec. 4. K.S.A. 79-3399 is hereby amended to read as follows: 79-
+11 3399. (a) On and after July 1, 2017, A tax is hereby imposed upon the
+12 privilege of selling or dealing in electronic cigarettes in this state by any
+13 person engaged in business as a distributor thereof, at the rate of $.05 per
+14 milliliter of consumable material for electronic cigarettes and a
+15 proportionate tax at the like rate on all fractional parts thereof. For
+16 electronic cigarettes in the possession of retail dealers or vending machine
+17 operators for which tax has not been paid, tax shall be imposed under this
+18 subsection at the earliest time the retail dealer or vending machine
+19 operator:
+20 (1) Brings or causes to be brought into this state from without the
+21 state electronic cigarettes for sale;
+22 (2) makes, manufactures or fabricates electronic cigarettes in this
+23 state for sale in this state; or
+24 (3) sells electronic cigarettes to consumers within this state.
+25 (b) As used in this section, "consumable material" means any liquid
+26 solution or other material that is depleted as an electronic cigarette is used.
+27 (c) The secretary of revenue shall adopt rules and regulations to
+28 implement the provisions of this section.
+29 Sec. 5. K.S.A. 79-3301, 79-3303 and 79-3399 and K.S.A. 2024 Supp.
+30 79-3321 are hereby repealed.
+31 Sec. 6. This act shall take effect and be in force from and after its
+32 publication in the statute book.
+[DELETED: Ac7tBS3(0(" ms oe wo ts cs fm a1m2a3(" ms te cr ud b te mr o4c5t6(7t8f9i0(s ln or p" ms a ln or p1a2(3o4(5e6p7(" ms ay pn wo es in te se o8m9s0t1(2v3o4(5(]
+[DELETED: 4(tt(p(ot(0(1o2o3o4(556(7t8a9(0p1(2§3(4ce mr wo ss c, md by s5e6(7i8c9(0t112(3j4o5a6(7d8(9m0t1(" ms ay tr of te or pn or b2e3e]
+[DELETED: 4(mp(tdcwc0c1s2(3p4(5o6(7g8s9c0o1a2c3(4d5o6(g m" ms ay cn od m7c8(9c0o1(2v3w o a4m5(6m7s8b9o0l1c2c3( o]
+[DELETED: 4e tmr(wtS3e0d1a2o3o4s5v6m7o8e9v0t1a2s3o4(5a6o7E8b9d0a1o2i3a4m5o6s7o8(9v0w1o2a3s]
+[DELETED: 4osoa(moom0s1a2i3c4(5a6o7(0 8d9a a v0d1t2a3(y wh a ce in op of a d4e5b6d7e8T9s0s1t2r3p4e5t6(7p8(9c0(1d2(s ud in ec cs ad te a3c]
+[DELETED: 4Sf(s1p(sa0p1(2t3b4m5(6v7b8(9a0b1(2a3i4(5a6b7(8s9(0r1(2o3u4U5(6h7(8a9(0c1v2c3s]
+[DELETED: 4v(t(c(c(t0(1p2(3d4(5pe in te ds et te fg n: "y l6c7p8(9f0s1(2a3(4t5(6o7(8m9p, se c, in a e, or pn of a0e1n2(3b4c5w6(7b8c9a0(1m2p3(]
+[DELETED: 4(o(et(ti(0(1t2u3E4w5(6(7w8p9i0f1(2(3U. § 54 or ay or fl l, or fl r4i5(6k7U8(9s0l1c2U3(4t5(y s, l, s, sr or ne dd i6s7(8w910(1as t, t te pe of a cs dd i2s3(o p, s, t, i, d, we o]
+[DELETED: 4mv(aa(c((0S132p3p4mr of ce ml fr ec cs ad a5p6e7o8s o9o0(1s2(3s4(5(6s7(8i9S071S2p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2094
+By Committee on Federal and State Affairs
+Requested by Kevin Barone on behalf of The Capitol Lobby Group
+1-27
+1 AN ACT concerning tobacco products; authorizing the sale of electronic
+2 cigarettes in cigarette vending machines; amending K.S.A. 79-3301,
+3 79-3303 and 79-3399 and K.S.A. 2024 Supp. 79-3321 and repealing
+4 the existing sections.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 Section 1. K.S.A. 79-3301 is hereby amended to read as follows: 79-
+8 3301. As used in K.S.A. 79-3301 et seq., and amendments thereto:
+9 (a) "Act" means the Kansas cigarette and tobacco products act.
+10 (b) "Carrier" means one who transports cigarettes from a
+11 manufacturer to a wholesale dealer or from one wholesale dealer to
+12 another.
+13 (c) "Carton" means the container used by the manufacturer of
+14 cigarettes in which no more than 10 packages of cigarettes are placed prior
+15 to shipment from such manufacturer.
+16 (d) "Cigarette" means any roll for smoking, made wholly or in part of
+17 tobacco, irrespective of size or shape, and irrespective of tobacco being
+18 flavored, adulterated or mixed with any other ingredient if the wrapper is
+19 in greater part made of any material except tobacco.
+20 (e) "Conspicuous location or place" means a location or place
+21 available to the general public.
+22 (f) "Consumer" means the person purchasing or receiving cigarettes
+23 or tobacco products for final use.
+24 (g) "Contracting entity" means any public or private person, firm or
+25 entity that has entered into a contract with the secretary of revenue to
+26 provide services.
+27 (h) "Dealer" means any person who engages in the sale or
+28 manufacture of cigarettes, tobacco products or electronic cigarettes in the
+29 state of Kansas, and who is required to be licensed under the provisions of
+30 this act.
+31 (i) "Dealer establishment" means any location or premises, other than
+32 vending machine locations, at or from which cigarettes, tobacco products
+33 or electronic cigarettes are sold, and where records are kept.
+34 (j) "Director" means the director of taxation.
+35 (k) "Distributor" means:
+
+HB 2094 2
+1 (1) Any person engaged in the business of selling tobacco products in
+2 this state who brings, or causes to be brought, into this state from outside
+3 the state any tobacco products for sale;
+4 (2) any person who makes, manufactures, fabricates or stores tobacco
+5 products in this state for sale in this state; or
+6 (3) any person engaged in the business of selling tobacco products
+7 outside this state who ships or transports tobacco products to any person in
+8 the business of selling tobacco products in this state.
+9 (l) "Division" means the division of taxation.
+10 (m) "Electronic cigarette" means a battery-powered device, whether
+11 or not such device is shaped like a cigarette, that can provide inhaled doses
+12 of nicotine by delivering a vaporized solution by means of cartridges or
+13 other chemical delivery systems.
+14 (n) "Importer" means the same as provided defined in 26 U.S.C. §
+15 5702(k).
+16 (o) "License" means the privilege of a licensee to sell cigarettes or
+17 tobacco products in the state of Kansas, and the written evidence of such
+18 authority or privilege as issued by the director.
+19 (p) "Licensee" means any person holding a current license issued
+20 pursuant to this act.
+21 (q) "Manufacturer" means the same as provided defined in 26 U.S.C.
+22 § 5702(d).
+23 (r) "Manufacturer's salesperson" means a person employed by a
+24 cigarette manufacturer who sells cigarettes, manufactured by such
+25 employer and procured from wholesale dealers.
+26 (s) (1) "Package" means a container in which no more than 25
+27 individual cigarettes are wrapped and sealed by the manufacturer of
+28 cigarettes prior to shipment to a wholesale dealer;.
+29 (2) For the purposes of K.S.A. 79-3321(v) and (w), and amendments
+30 thereto, "package" means the same as provided defined in 15 U.S.C. §
+31 1332(4).
+32 (t) "Person" means any individual, partnership, society, association,
+33 joint-stock company, corporation, estate, receiver, trustee, assignee, referee
+34 or any other person acting in a fiduciary or representative capacity whether
+35 appointed by a court or otherwise and any combination of individuals.
+36 (u) "Received" means the coming to rest of cigarettes for sale by any
+37 dealer in the state of Kansas.
+38 (v) "Retail dealer" or "retailers" means a person, other than a vending
+39 machine operator, in possession of cigarettes or electronic cigarettes for
+40 the purpose of sale to a consumer.
+41 (w) "Sale" means any transfer of title or possession or both,
+42 exchange, barter, distribution or gift of cigarettes, tobacco products or
+43 electronic cigarettes, with or without consideration.
+
+HB 2094 3
+1 (x) "Sample" means cigarettes or tobacco products distributed to
+2 members of the general public at no cost for purposes of promoting the
+3 product.
+4 (y) "Self-service display" means a display that contains cigarettes or
+5 tobacco products and is located in an area openly accessible to a retail
+6 dealer's consumers, and from which such consumers can readily access
+7 cigarettes or tobacco products without the assistance of a salesperson, and
+8 which is knowingly utilized by the retail dealer to market and sell
+9 cigarettes and tobacco products to consumers. A display case that holds
+10 cigarettes or tobacco products behind locked doors does not constitute a
+11 self-service display.
+12 (z) "Stamps" means tax indicia applied by means of heat process,
+13 pressure or any other process approved by the director.
+14 (aa) "Tax indicia" means visible evidence of tax payment in the form
+15 of stamps.
+16 (bb) "Tobacco products" means cigars, cheroots, stogies, periques;
+17 granulated, plug cut, crimp cut, ready rubbed and other smoking tobacco;
+18 snuff, snuff flour; cavendish; plug and twist tobacco; fine cut and other
+19 chewing tobaccos; shorts; refuse scraps, clippings, cuttings and sweepings
+20 of tobacco, and other kinds and forms of tobacco, prepared in such manner
+21 as to be suitable for chewing or smoking in a pipe or otherwise, or both for
+22 chewing and smoking. Tobacco products do not include cigarettes.
+23 (cc) "Tobacco specialty store" means a dealer establishment that
+24 derives at least 65% of such dealer establishment's revenue from cigarettes
+25 or tobacco products.
+26 (dd) "Vending machine" means any coin operated machine,
+27 contrivance or device, by means of which merchandise may be sold.
+28 (ee) "Vending machine distributor" means any person who sells
+29 cigarette or electronic cigarette vending machines to a vending machine
+30 operator operating vending machines in the state of Kansas.
+31 (ff) (1) "Vending machine operator" means any person who places a
+32 vending machine, owned, leased or operated by such person, at locations
+33 where cigarettes or electronic cigarettes are sold from such vending
+34 machine.
+35 (2) The owner or lessee of the premises upon which a vending
+36 machine is placed shall not be considered the operator of the machine, nor
+37 shall the owner or lessee, or any employee or agent of the owner or lessee
+38 be considered an authorized agent of the vending machine operator, if the
+39 owner or lessee does not own or lease the machine and the owner's or
+40 lessee's sole remuneration from the machine is a flat rental fee or
+41 commission based upon the number or value of cigarettes or electronic
+42 cigarettes sold from the machine, or a combination of both.
+43 (gg) "Wholesale dealer" means any person who sells cigarettes or
+
+HB 2094 4
+1 electronic cigarettes to other wholesale dealers, retail dealers, vending
+2 machine operators and manufacturer's salespersons for the purpose of
+3 resale in the state of Kansas.
+4 (hh) "Wholesale sales price" means the original net invoice price for
+5 which a manufacturer sells a tobacco product to a distributor, as shown by
+6 the manufacturer's original invoice.
+7 Sec. 2. K.S.A. 79-3303 is hereby amended to read as follows: 79-
+8 3303. (a) Each person engaged in the business of selling cigarettes or
+9 electronic cigarettes in the state of Kansas and each vending machine
+10 distributor shall obtain a license as provided by this act. A separate
+11 application, license and fee is required for each dealer establishment
+12 owned or operated by a dealer. A vending machine operator is required to
+13 obtain a vending machine operator's master license and, in addition, a
+14 separate permit for each vending machine operated by the operator. A
+15 vending machine operator may submit one application for the vending
+16 machine operator's master license and all permits for vending machines
+17 operated by the operator. The license shall be displayed in the dealer
+18 establishment and the vending machine permit shall remain securely and
+19 visibly attached to the vending machine and contain such information as
+20 the director may require. Any vending machine found without such permit
+21 attached to the machine shall be sealed by an agent of the director and
+22 such seal shall be removed only by an agent of the director after payment
+23 of the permit fee and the penalties provided by this act.
+24 (b) The application for a vending machine operator's master license
+25 and vending machine permits shall list the brand name and serial number
+26 of each machine and such other information as required by the director.
+27 Except in accordance with proper judicial order or as otherwise provided
+28 by law, it shall be unlawful for any officer or employee of the division to
+29 divulge or make known in any way the location of any vending machine to
+30 any person not an officer or employee of the division or contracting entity
+31 of the division, where the division has determined disclosure of such
+32 information is essential for completion of the contract and has taken
+33 appropriate steps to preserve confidentiality, except that such information
+34 may be divulged to any law enforcement officer for use in the officer's
+35 official duties. Any officer, employee or contracting entity revealing any
+36 such location in violation of this provision, in addition to the penalties
+37 otherwise provided in this act, shall be dismissed from office.
+38 (c) A vending machine operator, in the course of business as a
+39 vending machine operator, may dispose of or sell vending machines
+40 without securing a license to sell vending machines. The vending machine
+41 operator may move vending machines from one location to another and, if
+42 a vending machine becomes inoperative or is disposed of, the permit for
+43 such machine may be transferred to another machine. A vending machine
+
+HB 2094 5
+1 operator, within 10 days, shall notify the director of the brand name and
+2 serial number of vending machines that become inoperative or that the
+3 operator disposes of, sells, acquires or brings into service in this state as
+4 additional machines.
+5 (d) The key to the lower or storage compartment of a vending
+6 machine shall remain only in the possession of the vending machine
+7 operator or the operator's authorized agent. All services connected with the
+8 operation of a vending machine shall be performed by the vending
+9 machine operator or the operator's authorized agent. All vending machines
+10 shall be subject to inspection by the director or the director's authorized
+11 agents. No permit shall be issued for a cigarette vending machine unless it
+12 is constructed so that at least one package of each vertical column of
+13 cigarettes located therein is visible showing tax indicia.
+14 (e) All vending machines operated on military installations shall have
+15 a permit affixed to the machines and the cigarettes shall show tax indicia
+16 of the Kansas tax.
+17 (f) On or before the 10th day of each month, each vending machine
+18 distributor shall report to the director, on forms provided by the director,
+19 all sales of cigarette and electronic cigarette vending machines by the
+20 distributor to persons in the state of Kansas during the preceding month;
+21 the name and address of the purchaser; and the brand name, serial number
+22 and sale price of the machines.
+23 (g) Concurrently with a change in ownership of a dealer
+24 establishment the license applicable to the establishment is void and shall
+25 be surrendered to the director and shall not be transferred. On removal of a
+26 dealer establishment from one location to another, the owner of the
+27 establishment shall notify the director and surrender the owner's license.
+28 The director shall issue a new license for the unexpired term of the
+29 surrendered license on payment of a fee of $2. If a dealer's license is lost,
+30 stolen or destroyed, the director may issue a new license on proof of loss,
+31 theft or destruction, at a cost of $2. The director shall remit all moneys
+32 received under this subsection to the state treasurer in accordance with the
+33 provisions of K.S.A. 75-4215, and amendments thereto. Upon receipt of
+34 each such remittance, the state treasurer shall deposit the entire amount in
+35 the state treasury to the credit of the state general fund.
+36 (h) Any vending machine that sells electronic cigarettes shall be
+37 permitted to sell any of the following:
+38 (1) Devices used to vaporize a liquid solution for the purpose of
+39 consuming nicotine through the use of an electronic cigarette;
+40 (2) cartridges, pods or any other containers used in any device
+41 described in paragraph (1) to store such liquid solution; and
+42 (3) batteries used in electronic cigarettes and the appropriate
+43 charging devices for such batteries, if applicable.
+
+HB 2094 6
+1 Sec. 3. K.S.A. 2024 Supp. 79-3321 is hereby amended to read as
+2 follows: 79-3321. It shall be unlawful for any person:
+3 (a) Except as otherwise specifically provided by this act, to possess,
+4 sell, transport, import, distribute, wholesale or manufacture more than
+5 1,000 cigarettes without the required tax indicia being affixed as herein
+6 provided required by this act.
+7 (b) To mutilate or attach to any individual package of cigarettes any
+8 stamp that has in any manner been mutilated or that has been heretofore
+9 attached to a different individual package of cigarettes or to have in
+10 possession any stamps so mutilated.
+11 (c) To prevent the director or any officer or agent authorized by law,
+12 to make a full inspection for the purpose of this act, of any place of
+13 business and all premises connected thereto where cigarettes are or may be
+14 manufactured, sold, distributed, or given away.
+15 (d) To use any artful device or deceptive practice to conceal any
+16 violation of this act or to mislead the director or officer or agent authorized
+17 by law in the enforcement of this act.
+18 (e) Who is a dealer to fail to produce on demand of the director or
+19 any officer or agent authorized by law any records or invoices required to
+20 be kept by such person.
+21 (f) Knowingly to make, use, or present to the director or agent thereof
+22 any falsified invoice or falsely state the nature or quantity of the goods
+23 invoiced.
+24 (g) Who is a dealer to fail or refuse to keep and preserve for the time
+25 and in the manner required by this act all the records required by this act to
+26 be kept and preserved.
+27 (h) To wholesale cigarettes to any person, other than a manufacturer's
+28 salesperson, retail dealer or wholesaler who is:
+29 (1) Duly licensed by the state where such manufacturer's salesperson,
+30 retail dealer or wholesaler is located; or
+31 (2) exempt from state licensing under applicable state or federal laws
+32 or court decisions including any such person operating as a retail dealer
+33 upon land allotted to or held in trust for an Indian tribe recognized by the
+34 United States bureau of Indian affairs.
+35 (i) To have in possession any evidence of tax indicia provided for
+36 herein required by this act and not purchased from the director.
+37 (j) To fail or refuse to permit the director or any officer or agent
+38 authorized by law to inspect a carrier transporting cigarettes.
+39 (k) To vend small cigars, or any products so wrapped as to be
+40 confused with cigarettes, from a machine vending cigarettes, nor shall a
+41 vending machine be so built to vend cigars or products that may be
+42 confused with cigarettes, be attached to a cigarette vending machine. This
+43 subsection shall not apply to the sale of electronic cigarettes from a
+
+HB 2094 7
+1 vending machine.
+2 (l) To sell, furnish or distribute cigarettes, electronic cigarettes or
+3 tobacco products to any person under 21 years of age.
+4 (m) Who is under 21 years of age to purchase or attempt to purchase
+5 cigarettes, electronic cigarettes or tobacco products.
+6 (n) Who is under 21 years of age to possess or attempt to possess
+7 cigarettes, electronic cigarettes or tobacco products.
+8 (o) To sell cigarettes to a retailer or at retail that do not bear Kansas
+9 tax indicia or upon which the Kansas cigarette tax has not been paid.
+10 (p) To sell cigarettes without having a license for such sale as
+11 provided herein required by this act.
+12 (q) To sell a vending machine without having a vending machine
+13 distributor's license.
+14 (r) Who is a retail dealer to fail to post and maintain in a conspicuous
+15 place in the dealer's establishment the following notice: "By law,
+16 cigarettes, electronic cigarettes and tobacco products may be sold only to
+17 persons 21 years of age and older."
+18 (s) To distribute samples within 500 feet of any school when such
+19 facility is being used primarily by persons under 21 years of age unless the
+20 sampling is:
+21 (1) In an area to which persons under 21 years of age are denied
+22 access;
+23 (2) in or at a retail location where cigarettes and tobacco products are
+24 the primary commodity offered for sale at retail; or
+25 (3) at or adjacent to an outdoor production, repair or construction site
+26 or facility.
+27 (t) To sell cigarettes, electronic cigarettes or tobacco products by
+28 means of a vending machine, including vending machines that sell
+29 packaged, single cigarettes, in any establishment, or portion of an
+30 establishment, which is open to minors, except that this subsection shall
+31 not apply to:
+32 (1) The installation and use by the proprietor of the establishment, or
+33 by the proprietor's agents or employees, of vending machines behind a
+34 counter, or in some place in such establishment, or portion thereof, to
+35 which minors are prohibited by law from having access; or
+36 (2) the installation and use of a vending machine in a commercial
+37 building or industrial plant, or portions thereof, where the public is not
+38 customarily admitted and where machines are intended for the sole use of
+39 adult employees employed in the building or plant.
+40 (u) To sell cigarettes, electronic cigarettes or tobacco products by
+41 means of a self-service display in any establishment, except that the
+42 provisions of this subsection shall not apply to:
+43 (1) A vending machine that is permitted under subsection (t);
+
+HB 2094 8
+1 (2) a self-service display that is located in a tobacco specialty store;
+2 or
+3 (3) a self-service display located in a facility where the retailer
+4 ensures that no person younger than 21 years of age is present or permitted
+5 to enter at any time.
+6 (v) To sell or distribute in this state; to acquire, hold, own, possess or
+7 transport for sale or distribution in this state; or to import or cause to be
+8 imported, into this state for sale or distribution in this state:
+9 (1) Any cigarettes the package of which:
+10 (A) Bears any statement, label, stamp, sticker or notice indicating that
+11 the manufacturer did not intend the cigarettes to be sold, distributed or
+12 used in the United States, including, but not limited to, labels stating "For
+13 Export Only," "U.S. Tax-Exempt," "For Use Outside U.S." or similar
+14 wording; or
+15 (B) does not comply with:
+16 (i) All requirements imposed by or pursuant to federal law regarding
+17 warnings and other information on packages of cigarettes manufactured,
+18 packaged or imported for sale, distribution or use in the United States,
+19 including but not limited to the precise warning labels specified in the
+20 federal cigarette labeling and advertising act, 15 U.S.C. § 1333; and
+21 (ii) all federal trademark and copyright laws;
+22 (2) any cigarettes imported into the United States in violation of 26
+23 U.S.C. § 5754 or any other federal law, or federal regulations
+24 implementing such laws;
+25 (3) any cigarettes that such person otherwise knows or has reason to
+26 know the manufacturer did not intend to be sold, distributed or used in the
+27 United States; or
+28 (4) any cigarettes for which there has not been submitted to the
+29 secretary of the U.S. department of health and human services the list or
+30 lists of the ingredients added to tobacco in the manufacture of such
+31 cigarettes required by the federal cigarette labeling and advertising act, 15
+32 U.S.C. § 1335a.
+33 (w) To alter the package of any cigarettes, prior to sale or distribution
+34 to the ultimate consumer, so as to remove, conceal or obscure:
+35 (1) Any statement, label, stamp, sticker or notice described in
+36 subsection (v); or
+37 (2) any health warning that is not specified in, or does not conform
+38 with, the requirements of, the federal cigarette labeling and advertising act,
+39 15 U.S.C. § 1333.
+40 (x) To affix any stamp required pursuant to K.S.A. 79-3311, and
+41 amendments thereto, to the package of any cigarettes described in
+42 subsection (v) or altered in violation of subsection (w).
+43 (y) To possess, sell, transport, import, distribute, wholesale or
+
+HB 2094 9
+1 manufacture cigarettes, smokeless tobacco or roll-your-own tobacco in
+2 violation of K.S.A. 50-6a01 et seq., and amendments thereto.
+3 (z) To sell cigarettes, smokeless tobacco or roll-your-own tobacco in
+4 any manner that is not a direct, face-to-face exchange between the retailer
+5 and the consumer, except:
+6 (1) Mail-order sales, which shall not include mail-order redemption
+7 coupons and distribution of free samples through the mail;
+8 (2) vending machines as provided in subsection (t); and
+9 (3) self-service displays as provided in subsection (u).
+10 Sec. 4. K.S.A. 79-3399 is hereby amended to read as follows: 79-
+11 3399. (a) On and after July 1, 2017, A tax is hereby imposed upon the
+12 privilege of selling or dealing in electronic cigarettes in this state by any
+13 person engaged in business as a distributor thereof, at the rate of $.05 per
+14 milliliter of consumable material for electronic cigarettes and a
+15 proportionate tax at the like rate on all fractional parts thereof. For
+16 electronic cigarettes in the possession of retail dealers or vending machine
+17 operators for which tax has not been paid, tax shall be imposed under this
+18 subsection at the earliest time the retail dealer or vending machine
+19 operator:
+20 (1) Brings or causes to be brought into this state from without the
+21 state electronic cigarettes for sale;
+22 (2) makes, manufactures or fabricates electronic cigarettes in this
+23 state for sale in this state; or
+24 (3) sells electronic cigarettes to consumers within this state.
+25 (b) As used in this section, "consumable material" means any liquid
+26 solution or other material that is depleted as an electronic cigarette is used.
+27 (c) The secretary of revenue shall adopt rules and regulations to
+28 implement the provisions of this section.
+29 Sec. 5. K.S.A. 79-3301, 79-3303 and 79-3399 and K.S.A. 2024 Supp.
+30 79-3321 are hereby repealed.
+31 Sec. 6. This act shall take effect and be in force from and after its
+32 publication in the statute book.
+
+[DELETED: Ac7tBS3(0(" ms oe wo ts cs fm a1m2a3(" ms te cr ud b te mr o4c5t6(7t8f9i0(s ln or p" ms a ln or p1a2(3o4(5e6p7(" ms ay pn wo es in te se o8m9s0t1(2v3o4(5(]
+[DELETED: 4(tt(p(ot(0(1o2o3o4(556(7t8a9(0p1(2§3(4ce mr wo ss c, md by s5e6(7i8c9(0t112(3j4o5a6(7d8(9m0t1(" ms ay tr of te or pn or b2e3e]
+[DELETED: 4(mp(tdcwc0c1s2(3p4(5o6(7g8s9c0o1a2c3(4d5o6(g m" ms ay cn od m7c8(9c0o1(2v3w o a4m5(6m7s8b9o0l1c2c3( o]
+[DELETED: 4e tmr(wtS3e0d1a2o3o4s5v6m7o8e9v0t1a2s3o4(5a6o7E8b9d0a1o2i3a4m5o6s7o8(9v0w1o2a3s]
+[DELETED: 4osoa(moom0s1a2i3c4(5a6o7(0 8d9a a v0d1t2a3(y wh a ce in op of a d4e5b6d7e8T9s0s1t2r3p4e5t6(7p8(9c0(1d2(s ud in ec cs ad te a3c]
+[DELETED: 4Sf(s1p(sa0p1(2t3b4m5(6v7b8(9a0b1(2a3i4(5a6b7(8s9(0r1(2o3u4U5(6h7(8a9(0c1v2c3s]
+[DELETED: 4v(t(c(c(t0(1p2(3d4(5pe in te ds et te fg n: "y l6c7p8(9f0s1(2a3(4t5(6o7(8m9p, se c, in a e, or pn of a0e1n2(3b4c5w6(7b8c9a0(1m2p3(]
+[DELETED: 4(o(et(ti(0(1t2u3E4w5(6(7w8p9i0f1(2(3U. § 54 or ay or fl l, or fl r4i5(6k7U8(9s0l1c2U3(4t5(y s, l, s, sr or ne dd i6s7(8w910(1as t, t te pe of a cs dd i2s3(o p, s, t, i, d, we o]
+[DELETED: 4mv(aa(c((0S132p3p4mr of ce ml fr ec cs ad a5p6e7o8s o9o0(1s2(3s4(5(6s7(8i9S071S2p]

@@ -1,0 +1,597 @@
+Title: HOUSE BILL No. 2114
+Official Title: HOUSE BILL No. 2114
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Water
+Requested by Earl Lewis on behalf of the Kansas Department of Agriculture
+1-28
+1 AN ACT concerning water; relating to dams, levees and other water
+2 obstructions; clarifying which structures shall be considered water
+3 obstructions and not a dam; increasing application fees for a permit to
+4 construct, modify or add to a dam; requiring preconstruction permit
+5 fees to construct, modify or add to a water obstruction or to change or
+6 diminish the course, current or cross section of a stream; requiring any
+7 licensed professional engineer who conducts inspections required by
+8 the act to be approved by the chief engineer; adding a civil penalty of
+9 not less than $100 nor more than $1,000 per violation; remitting civil
+10 penalty amounts to the water structures fund; amending K.S.A. 82a-
+11 301, 82a-302, 82a-303b, 82a-305a and 82a-328 and repealing the
+12 existing sections.
+13
+14 Be it enacted by the Legislature of the State of Kansas:
+15 Section 1. K.S.A. 82a-301 is hereby amended to read as follows: 82a-
+16 301. (a) (1) Except as provided in subsections (c) and (d), without the prior
+17 written consent or permit of the chief engineer of the division of water
+18 resources of the Kansas department of agriculture, it shall be unlawful for
+19 any person, partnership, association, corporation or agency or political
+20 subdivision of the state government to:
+21 (A) Construct, modify or add to any dam;
+22 (B) construct, modify or add to any water obstruction in a designated
+23 stream; or
+24 (C) change or diminish the course, current, or cross section of any
+25 designated stream within this state.
+26 (2) Any application for any permit or consent shall be made in
+27 writing in such form as specified by the chief engineer.
+28 (3) Revetments for the purpose of stabilizing a caving bank which
+29 that are properly placed shall not be construed as obstructions for the
+30 purposes of this section.
+31 (b) As used in K.S.A. 82a-301 et seq., and amendments thereto:
+32 (1) "Dam" means any artificial barrier including appurtenant works
+33 with the ability to impound water, waste water or other liquids that has a
+34 height of 25 feet or more; or has a height of six feet or greater and a
+35 storage volume at the top of the emergency spillway elevation of 50 or
+HB 2114 2
+1 more acre feet. The height of a dam or barrier shall be measured from the
+2 lowest elevation of the streambed, downstream toe or outside limit of the
+3 dam to the elevation of the top of the dam.
+4 (2) "Designated stream" means a natural or man-made channel that
+5 conveys drainage or runoff from a watershed having an area of:
+6 (A) One or more square miles in zone one, which includes all
+7 geographic points located in or east of Washington, Clay, Dickinson,
+8 Marion, Harvey, Sedgwick or Sumner counties;
+9 (B) two or more square miles in zone two, which includes all
+10 geographic points located west of zone one and in or east of Smith,
+11 Osborne, Russell, Barton, Stafford, Pratt or Barber counties; or
+12 (C) three or more square miles in zone three, which includes all
+13 geographic points located west of zone two.
+14 (c) (1) The prior written consent or permit of the chief engineer shall
+15 not apply to water obstructions that meet the following requirements:
+16 (A) The change in the cross section of a designated stream is
+17 obstructed less than 5% and the water obstruction or change is contained
+18 within a land area measuring 25 feet or less along the stream length; or
+19 (B) (i) the water obstruction is not a dam as defined in subsection (b);
+20 (ii) the water obstruction is not located within an incorporated area;
+21 (iii) every part of the water obstruction, and any water impounded by
+22 such obstruction, is located more than 300 feet from any property
+23 boundary; and
+24 (iv) the watershed area above the water obstruction is five square
+25 miles or less.
+26 (2) If the water obstruction does not meet the requirements of
+27 subsection (c)(1)(B)(iii), but meets all other requirements of subsection (c)
+28 (1)(B), such water obstruction may be exempted from the permitting
+29 requirements of subsection (a) if the chief engineer determines such water
+30 obstruction has minimal impact upon safety and property based upon a
+31 review of the information, to be provided by the owner, including:
+32 (A) An aerial photo or topographic map depicting the location of the
+33 proposed project, the location of the stream, the layout of the water
+34 obstruction, the property lines and names and addresses of adjoining
+35 property owners; and
+36 (B) the principal dimensions of the project including, but not limited
+37 to, the height above streambed.
+38 (3) Notwithstanding any other provision of this section, the chief
+39 engineer may require a permit for any water obstruction described in this
+40 subsection if the chief engineer determines such permit is necessary for the
+41 protection of life or property.
+42 (d) The prior written consent or permit of the chief engineer shall not
+43 be required for construction or modification of a hazard class A dam that:
+HB 2114 3
+1 (1) Has a height of less than 30 feet and a storage volume at the top of
+2 the emergency spillway elevation of less than 125 acre feet, and the dam
+3 location and dimensions have been registered with the division of water
+4 resources in a written form prescribed by the chief engineer; or
+5 (2) is a wastewater storage structure for a confined feeding facility
+6 that has been approved by the secretary of health and environment
+7 pursuant to K.S.A. 65-171d, and amendments thereto.
+8 (e) Any structure that meets the provisions of subsection (b)(1) shall
+9 be considered a water obstruction and not a dam if the primary purpose of
+10 the structure is to serve as a:
+11 (1) Dry detention road fill for state, county or municipal government;
+12 or
+13 (2) low head dam that has a maximum height below the lowest
+14 stream bank.
+15 Sec. 2. K.S.A. 82a-302 is hereby amended to read as follows: 82a-
+16 302. (a) Except as otherwise provided for general permits, each application
+17 for the consent or permit required by K.S.A. 82a-301, and amendments
+18 thereto, shall be accompanied by complete maps, plans, profiles and
+19 specifications of such construction, modification or addition proposed to
+20 be made, the required application fee as provided in subsection (b) unless
+21 otherwise exempted, and such other data and information as the chief
+22 engineer may require. The chief engineer shall adopt rules and regulations
+23 for the issuance of a general permit which. A general permit may be issued
+24 for projects which that require limited supervision and review.
+25 (b) (1) The application fee for a permit to construct, modify or add to
+26 a dam shall be $200 a dam shall be:
+27 (A) $5,000 for a hazard class C dam;
+28 (B) $3,000 for a hazard class B dam; and
+29 (C) $1,500 for a hazard class A dam that does not qualify for the
+30 exemption provided for in K.S.A. 82a-301(d), and amendments thereto, or
+31 for either of the exemptions provided in K.S.A. 82a-301(e)(1) or (2), and
+32 amendments thereto.
+33 (2) The application fee for a permit to modify or add to a dam shall
+34 be:
+35 (A) $3,000 for a hazard class C dam;
+36 (B) $2,000 for a hazard class B dam; and
+37 (C) $1,000 for a hazard class A dam that does not qualify for the
+38 exemption provided for in K.S.A. 82a-301(d), and amendments thereto, or
+39 does not qualify for either of the exemptions provided in K.S.A. 82a-301(e)
+40 (1) or (2), and amendments thereto.
+41 (3) The application fee for a permit to construct, modify, or add to a
+42 water obstruction or to change or diminish the course, current or cross
+43 section of a stream shall be based on the watershed area.
+HB 2114 4
+1 Watershed Area Above the Project Permit Application Fee Post-
+2 Construction Permit Fee
+3 Less than 5 square miles $100 $200
+4 Between 5 and 50 square miles $200 $400
+5 More than 50 square miles $500 $1,000
+6
+7 (3)(4) The application fee for a general permit shall be $100.
+8 (c) All fees collected by the chief engineer pursuant to this section
+9 shall be remitted to the state treasurer as provided in K.S.A. 82a-328, and
+10 amendments thereto.
+11 Sec. 3. K.S.A. 82a-303b is hereby amended to read as follows: 82a-
+12 303b. (a) (1) In order to secure conformity with adopted rules and
+13 regulations and to assure compliance with the terms, conditions or
+14 restrictions of any consent or permit granted pursuant to the provisions of
+15 K.S.A. 82a-301 through 82a-303, and amendments thereto, (A) The chief
+16 engineer or an authorized representative of the chief engineer, including a
+17 licensed professional engineer approved by the chief engineer, shall have
+18 the power and the duty to inspect any dam or other water obstruction.
+19 (B) Upon a finding pursuant to K.S.A. 82a-303c(a), and amendments
+20 thereto, by the chief engineer that a dam is unsafe, the chief engineer shall
+21 order an annual inspection of the dam until it:
+22 (i) Such dam is either in compliance with all applicable provisions of
+23 this act, any rules and regulations promulgated pursuant to this act, permit
+24 conditions and orders of the chief engineer; or
+25 (ii) the dam is removed.
+26 (C) The safety inspection shall be conducted by the chief engineer or
+27 authorized representative and of the chief engineer, including a licensed
+28 professional engineer approved by the chief engineer.
+29 (D) The cost shall be paid by the dam owner shall pay the
+30 department the costs of any safety inspection that:
+31 (i) is conducted by the chief engineer or an authorized representative
+32 of the chief engineer who is an employee of the department; or
+33 (ii) the department contracts for the performance of a licensed
+34 professional engineer approved by the chief engineer.
+35 (E) The class and size of a dam for the purpose of assessing
+36 inspection fees as provided for in this section shall be defined by rules and
+37 regulations adopted by the chief engineer pursuant to K.S.A. 82a-303a,
+38 and amendments thereto.
+39 (F) For inspections conducted by the chief engineer or the chief
+40 engineer's authorized representative or an authorized representative of the
+41 chief engineer who is an employee of the department, inspection fees are
+42 as follows:
+43 Size of Dam Inspection fee
+HB 2114 5
+1 Class 1 $1,500
+2 Class 2 $1,500
+3 Class 3 $2,500
+4 Class 4 $4,000
+5 (2) Each hazard class C dam shall be required to have a safety
+6 inspection conducted by a licensed professional engineer qualified in
+7 design, construction, maintenance and operation of dams once every three
+8 years, unless otherwise ordered by the chief engineer or an authorized
+9 representative of the chief engineer, including a licensed professional
+10 engineer approved by the chief engineer, at least every three years.
+11 (3) Each hazard class B dam shall be required to have a safety
+12 inspection conducted by a licensed professional engineer qualified in
+13 design, construction, maintenance and operation of dams once every five
+14 years unless otherwise ordered by the chief engineer or an authorized
+15 representative of the chief engineer, including a licensed professional
+16 engineer approved by the chief engineer, at least every five years.
+17 (4) Each hazard class A dam that does not qualify for the exemption
+18 provided for in K.S.A. 82a-301(d), and amendments thereto, or meet the
+19 requirements for either of the exemptions provided for in K.S.A. 82a-
+20 301(e)(1) or (2), and amendments thereto, shall be required to have a
+21 safety inspection conducted by the chief engineer or an authorized
+22 representative of the chief engineer, including a licensed professional
+23 engineer approved by the chief engineer, at least every 10 years.
+24 (5) Within 60 days of the date of inspection, a report of the inspection
+25 shall be provided to issued by the chief engineer or provided to the chief
+26 engineer by the licensed professional engineer who conducted the
+27 inspection. The report shall document the physical condition of the dam,
+28 describing any deficiencies observed, an analysis of the capacity of the
+29 dam and its spillway works, compliance of the dam with approved plans
+30 and permit conditions, changes observed in the condition of the dam since
+31 the previous inspection, an assessment of the hazard classification of the
+32 dam including a statement that the engineer either agrees or disagrees with
+33 the current classification, and any other information relevant to the safety
+34 of the dam or specifically requested by the chief engineer.
+35 (5) Upon failure of a dam owner to comply with the applicable
+36 inspection interval, the chief engineer or such chief engineer's authorized
+37 representative shall conduct a mandatory inspection of the dam and the
+38 costs as established by this act for the inspection shall be paid by the
+39 owner, in addition to any other remedies provided for violations of this act.
+40 (6) The failure to file provide a complete and timely report as
+41 required by the provisions of this act, or the failure to submit the fees
+42 assessed for inspections conducted by the chief engineer or the chief
+43 engineer's authorized representative to the department as required by this
+HB 2114 6
+1 section, shall be deemed a violation of this act and subject to the penalties
+2 provided by K.S.A. 82a-305a, and amendments thereto.
+3 (b) For the purpose of inspecting any dam or other water obstruction,
+4 the chief engineer or an authorized representative of the chief engineer,
+5 including a licensed professional engineer approved by the chief engineer,
+6 shall have the right of access to private property. Costs for any work which
+7 that may be required by the chief engineer or the authorized
+8 representative, including a licensed professional engineer approved by the
+9 chief engineer, prior to or as a result of the inspection of a dam or other
+10 water obstruction shall be paid by the owner, governmental agency or
+11 operator of such dam or other water obstruction.
+12 (c) All fees collected by the chief engineer pursuant to this section
+13 shall be remitted to the state treasurer as provided in K.S.A. 82a-328, and
+14 amendments thereto.
+15 Sec. 4. K.S.A. 82a-305a is hereby amended to read as follows: 82a-
+16 305a. (a) Any person, partnership, association, corporation or agency or
+17 political subdivision of the state government who violates any provision of
+18 this act or of any rule and regulation or order issued pursuant thereto shall
+19 be deemed guilty of a class C misdemeanor. Each day that any such
+20 violation occurs after notice of the original violation is served upon the
+21 violator by the chief engineer by restricted mail shall constitute a separate
+22 offense.
+23 (b) Upon request of the chief engineer, the attorney general shall
+24 bring suit in the name of the state of Kansas in any court of competent
+25 jurisdiction to enjoin (1) the unlawful construction, modification,
+26 operation or maintenance of any dam or other water obstruction, or (2) the
+27 unlawful change or diminution of the course, current or cross section of a
+28 river or stream. Such court may require the removal or modification of any
+29 such dam or other water obstruction by mandatory injunction.
+30 (c) In addition to any other penalty provided for by law, any person
+31 who commits a violation of K.S.A. 82a-301 et seq., and amendments
+32 thereto, or any rule and regulation adopted thereunder, may be subject to
+33 a civil penalty not less than $100 nor more than $1,000 per violation. In
+34 the case of a continuing violation, each notice provided by the chief
+35 engineer of such continuing violation and the required corrective action
+36 thereof shall be considered a separate violation if not corrected within
+37 seven days of receiving such notice. Such civil penalty may be assessed in
+38 addition to any other penalty provided by law.
+39 (d) No civil penalty shall be imposed pursuant to this section except
+40 on the written order of the chief engineer.
+41 (e) Any person aggrieved by an order of the chief engineer pursuant
+42 to this section may appeal to a district court of competent jurisdiction in
+43 the manner provided by the Kansas judicial review act.
+HB 2114 7
+1 (f) All moneys collected by the chief engineer pursuant to this section
+2 shall be deposited in the state treasury in accordance with K.S.A. 75-4215,
+3 and amendments thereto, and shall be credited to the water structures fund
+4 pursuant to K.S.A. 82a-328, and amendments thereto.
+5 Sec. 5. K.S.A. 82a-328 is hereby amended to read as follows: 82a-
+6 328. There is hereby created in the state treasury the water structures fund.
+7 The chief engineer of the division of water resources, Kansas department
+8 of agriculture shall remit all moneys received under K.S.A. 82a-302, 82a-
+9 303b, 82a-305a and 24-126, and amendments thereto, to the state treasurer
+10 in accordance with the provisions of K.S.A. 75-4215, and amendments
+11 thereto. Upon receipt of each such remittance, the state treasurer shall
+12 deposit the entire amount in the state treasury to the credit of the water
+13 structures fund. All expenditures from the water structures fund shall be
+14 made in accordance with appropriation acts upon warrants of the director
+15 of accounts and reports issued pursuant to vouchers approved by the
+16 secretary of agriculture or by a person designated by the secretary.
+17 Sec. 6. K.S.A. 82a-301, 82a-302, 82a-303b, 82a-305a and 82a-328
+18 are hereby repealed.
+19 Sec. 7. This act shall take effect and be in force from and after its
+20 publication in the statute book.
+[DELETED: Aoocfdltn0p132e4B5S637w8r9a0s1(2(3s4(5d6(7w8(9t a0p1(2(3w4h5s]
+[DELETED: 4mld(c(gM(0g1O2(3g4(5n6(7o8w9(0(1(2st m 3b4(5m6(s 7s8(9r0o1r2(3p4o5p6(7t8(9e0s1p2(3b]
+[DELETED: 4(tlr(tp(b0t1(2o3(4s5S637f8t9s0b1o2e3f4f5(6a7(8(9(0e1f2a3(4b5(6(7(8e9d0(1(2w3s]
+[DELETED: 4WCLs$0$Bs$0$Ms$0$((s0a1S23.  I3rs d s 4r5K6e7l8t9(0t1o2(3t4c5(6(7a8p9( ct sl be pd b t dm o sl py t0d1(2o3(4p5( f6i7r8a9( o0e1c2a3SmI]
+[DELETED: 4C1$C2$C3$C4$(iy dyr0e1(2i a3d4y t o5r6e7(8p9r031sr 2r3e4(5s6e by te ld pl er wo cd t7i8d9d0a1t2d3t4o5(6i7r8c9o0( f p a1r2a3e]
+[DELETED: 4sp(tist my be rd by te cf er or te arc0w1o2(3s4a5S637p8t9b0v1v2o3(4b5jn to en () te ul c, m6o7u8r9s0(1w2t3a4t5e6t7s8a9(0o1(2t3t]
+[DELETED: 4(sapS3To30i1t2d3s4m5o6s7S8a9S0p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2114
+By Committee on Water
+Requested by Earl Lewis on behalf of the Kansas Department of Agriculture
+1-28
+1 AN ACT concerning water; relating to dams, levees and other water
+2 obstructions; clarifying which structures shall be considered water
+3 obstructions and not a dam; increasing application fees for a permit to
+4 construct, modify or add to a dam; requiring preconstruction permit
+5 fees to construct, modify or add to a water obstruction or to change or
+6 diminish the course, current or cross section of a stream; requiring any
+7 licensed professional engineer who conducts inspections required by
+8 the act to be approved by the chief engineer; adding a civil penalty of
+9 not less than $100 nor more than $1,000 per violation; remitting civil
+10 penalty amounts to the water structures fund; amending K.S.A. 82a-
+11 301, 82a-302, 82a-303b, 82a-305a and 82a-328 and repealing the
+12 existing sections.
+13
+14 Be it enacted by the Legislature of the State of Kansas:
+15 Section 1. K.S.A. 82a-301 is hereby amended to read as follows: 82a-
+16 301. (a) (1) Except as provided in subsections (c) and (d), without the prior
+17 written consent or permit of the chief engineer of the division of water
+18 resources of the Kansas department of agriculture, it shall be unlawful for
+19 any person, partnership, association, corporation or agency or political
+20 subdivision of the state government to:
+21 (A) Construct, modify or add to any dam;
+22 (B) construct, modify or add to any water obstruction in a designated
+23 stream; or
+24 (C) change or diminish the course, current, or cross section of any
+25 designated stream within this state.
+26 (2) Any application for any permit or consent shall be made in
+27 writing in such form as specified by the chief engineer.
+28 (3) Revetments for the purpose of stabilizing a caving bank which
+29 that are properly placed shall not be construed as obstructions for the
+30 purposes of this section.
+31 (b) As used in K.S.A. 82a-301 et seq., and amendments thereto:
+32 (1) "Dam" means any artificial barrier including appurtenant works
+33 with the ability to impound water, waste water or other liquids that has a
+34 height of 25 feet or more; or has a height of six feet or greater and a
+35 storage volume at the top of the emergency spillway elevation of 50 or
+
+HB 2114 2
+1 more acre feet. The height of a dam or barrier shall be measured from the
+2 lowest elevation of the streambed, downstream toe or outside limit of the
+3 dam to the elevation of the top of the dam.
+4 (2) "Designated stream" means a natural or man-made channel that
+5 conveys drainage or runoff from a watershed having an area of:
+6 (A) One or more square miles in zone one, which includes all
+7 geographic points located in or east of Washington, Clay, Dickinson,
+8 Marion, Harvey, Sedgwick or Sumner counties;
+9 (B) two or more square miles in zone two, which includes all
+10 geographic points located west of zone one and in or east of Smith,
+11 Osborne, Russell, Barton, Stafford, Pratt or Barber counties; or
+12 (C) three or more square miles in zone three, which includes all
+13 geographic points located west of zone two.
+14 (c) (1) The prior written consent or permit of the chief engineer shall
+15 not apply to water obstructions that meet the following requirements:
+16 (A) The change in the cross section of a designated stream is
+17 obstructed less than 5% and the water obstruction or change is contained
+18 within a land area measuring 25 feet or less along the stream length; or
+19 (B) (i) the water obstruction is not a dam as defined in subsection (b);
+20 (ii) the water obstruction is not located within an incorporated area;
+21 (iii) every part of the water obstruction, and any water impounded by
+22 such obstruction, is located more than 300 feet from any property
+23 boundary; and
+24 (iv) the watershed area above the water obstruction is five square
+25 miles or less.
+26 (2) If the water obstruction does not meet the requirements of
+27 subsection (c)(1)(B)(iii), but meets all other requirements of subsection (c)
+28 (1)(B), such water obstruction may be exempted from the permitting
+29 requirements of subsection (a) if the chief engineer determines such water
+30 obstruction has minimal impact upon safety and property based upon a
+31 review of the information, to be provided by the owner, including:
+32 (A) An aerial photo or topographic map depicting the location of the
+33 proposed project, the location of the stream, the layout of the water
+34 obstruction, the property lines and names and addresses of adjoining
+35 property owners; and
+36 (B) the principal dimensions of the project including, but not limited
+37 to, the height above streambed.
+38 (3) Notwithstanding any other provision of this section, the chief
+39 engineer may require a permit for any water obstruction described in this
+40 subsection if the chief engineer determines such permit is necessary for the
+41 protection of life or property.
+42 (d) The prior written consent or permit of the chief engineer shall not
+43 be required for construction or modification of a hazard class A dam that:
+
+HB 2114 3
+1 (1) Has a height of less than 30 feet and a storage volume at the top of
+2 the emergency spillway elevation of less than 125 acre feet, and the dam
+3 location and dimensions have been registered with the division of water
+4 resources in a written form prescribed by the chief engineer; or
+5 (2) is a wastewater storage structure for a confined feeding facility
+6 that has been approved by the secretary of health and environment
+7 pursuant to K.S.A. 65-171d, and amendments thereto.
+8 (e) Any structure that meets the provisions of subsection (b)(1) shall
+9 be considered a water obstruction and not a dam if the primary purpose of
+10 the structure is to serve as a:
+11 (1) Dry detention road fill for state, county or municipal government;
+12 or
+13 (2) low head dam that has a maximum height below the lowest
+14 stream bank.
+15 Sec. 2. K.S.A. 82a-302 is hereby amended to read as follows: 82a-
+16 302. (a) Except as otherwise provided for general permits, each application
+17 for the consent or permit required by K.S.A. 82a-301, and amendments
+18 thereto, shall be accompanied by complete maps, plans, profiles and
+19 specifications of such construction, modification or addition proposed to
+20 be made, the required application fee as provided in subsection (b) unless
+21 otherwise exempted, and such other data and information as the chief
+22 engineer may require. The chief engineer shall adopt rules and regulations
+23 for the issuance of a general permit which. A general permit may be issued
+24 for projects which that require limited supervision and review.
+25 (b) (1) The application fee for a permit to construct, modify or add to
+26 a dam shall be $200 a dam shall be:
+27 (A) $5,000 for a hazard class C dam;
+28 (B) $3,000 for a hazard class B dam; and
+29 (C) $1,500 for a hazard class A dam that does not qualify for the
+30 exemption provided for in K.S.A. 82a-301(d), and amendments thereto, or
+31 for either of the exemptions provided in K.S.A. 82a-301(e)(1) or (2), and
+32 amendments thereto.
+33 (2) The application fee for a permit to modify or add to a dam shall
+34 be:
+35 (A) $3,000 for a hazard class C dam;
+36 (B) $2,000 for a hazard class B dam; and
+37 (C) $1,000 for a hazard class A dam that does not qualify for the
+38 exemption provided for in K.S.A. 82a-301(d), and amendments thereto, or
+39 does not qualify for either of the exemptions provided in K.S.A. 82a-301(e)
+40 (1) or (2), and amendments thereto.
+41 (3) The application fee for a permit to construct, modify, or add to a
+42 water obstruction or to change or diminish the course, current or cross
+43 section of a stream shall be based on the watershed area.
+
+HB 2114 4
+1 Watershed Area Above the Project Permit Application Fee Post-
+2 Construction Permit Fee
+3 Less than 5 square miles $100 $200
+4 Between 5 and 50 square miles $200 $400
+5 More than 50 square miles $500 $1,000
+6
+7 (3)(4) The application fee for a general permit shall be $100.
+8 (c) All fees collected by the chief engineer pursuant to this section
+9 shall be remitted to the state treasurer as provided in K.S.A. 82a-328, and
+10 amendments thereto.
+11 Sec. 3. K.S.A. 82a-303b is hereby amended to read as follows: 82a-
+12 303b. (a) (1) In order to secure conformity with adopted rules and
+13 regulations and to assure compliance with the terms, conditions or
+14 restrictions of any consent or permit granted pursuant to the provisions of
+15 K.S.A. 82a-301 through 82a-303, and amendments thereto, (A) The chief
+16 engineer or an authorized representative of the chief engineer, including a
+17 licensed professional engineer approved by the chief engineer, shall have
+18 the power and the duty to inspect any dam or other water obstruction.
+19 (B) Upon a finding pursuant to K.S.A. 82a-303c(a), and amendments
+20 thereto, by the chief engineer that a dam is unsafe, the chief engineer shall
+21 order an annual inspection of the dam until it:
+22 (i) Such dam is either in compliance with all applicable provisions of
+23 this act, any rules and regulations promulgated pursuant to this act, permit
+24 conditions and orders of the chief engineer; or
+25 (ii) the dam is removed.
+26 (C) The safety inspection shall be conducted by the chief engineer or
+27 authorized representative and of the chief engineer, including a licensed
+28 professional engineer approved by the chief engineer.
+29 (D) The cost shall be paid by the dam owner shall pay the
+30 department the costs of any safety inspection that:
+31 (i) is conducted by the chief engineer or an authorized representative
+32 of the chief engineer who is an employee of the department; or
+33 (ii) the department contracts for the performance of a licensed
+34 professional engineer approved by the chief engineer.
+35 (E) The class and size of a dam for the purpose of assessing
+36 inspection fees as provided for in this section shall be defined by rules and
+37 regulations adopted by the chief engineer pursuant to K.S.A. 82a-303a,
+38 and amendments thereto.
+39 (F) For inspections conducted by the chief engineer or the chief
+40 engineer's authorized representative or an authorized representative of the
+41 chief engineer who is an employee of the department, inspection fees are
+42 as follows:
+43 Size of Dam Inspection fee
+
+HB 2114 5
+1 Class 1 $1,500
+2 Class 2 $1,500
+3 Class 3 $2,500
+4 Class 4 $4,000
+5 (2) Each hazard class C dam shall be required to have a safety
+6 inspection conducted by a licensed professional engineer qualified in
+7 design, construction, maintenance and operation of dams once every three
+8 years, unless otherwise ordered by the chief engineer or an authorized
+9 representative of the chief engineer, including a licensed professional
+10 engineer approved by the chief engineer, at least every three years.
+11 (3) Each hazard class B dam shall be required to have a safety
+12 inspection conducted by a licensed professional engineer qualified in
+13 design, construction, maintenance and operation of dams once every five
+14 years unless otherwise ordered by the chief engineer or an authorized
+15 representative of the chief engineer, including a licensed professional
+16 engineer approved by the chief engineer, at least every five years.
+17 (4) Each hazard class A dam that does not qualify for the exemption
+18 provided for in K.S.A. 82a-301(d), and amendments thereto, or meet the
+19 requirements for either of the exemptions provided for in K.S.A. 82a-
+20 301(e)(1) or (2), and amendments thereto, shall be required to have a
+21 safety inspection conducted by the chief engineer or an authorized
+22 representative of the chief engineer, including a licensed professional
+23 engineer approved by the chief engineer, at least every 10 years.
+24 (5) Within 60 days of the date of inspection, a report of the inspection
+25 shall be provided to issued by the chief engineer or provided to the chief
+26 engineer by the licensed professional engineer who conducted the
+27 inspection. The report shall document the physical condition of the dam,
+28 describing any deficiencies observed, an analysis of the capacity of the
+29 dam and its spillway works, compliance of the dam with approved plans
+30 and permit conditions, changes observed in the condition of the dam since
+31 the previous inspection, an assessment of the hazard classification of the
+32 dam including a statement that the engineer either agrees or disagrees with
+33 the current classification, and any other information relevant to the safety
+34 of the dam or specifically requested by the chief engineer.
+35 (5) Upon failure of a dam owner to comply with the applicable
+36 inspection interval, the chief engineer or such chief engineer's authorized
+37 representative shall conduct a mandatory inspection of the dam and the
+38 costs as established by this act for the inspection shall be paid by the
+39 owner, in addition to any other remedies provided for violations of this act.
+40 (6) The failure to file provide a complete and timely report as
+41 required by the provisions of this act, or the failure to submit the fees
+42 assessed for inspections conducted by the chief engineer or the chief
+43 engineer's authorized representative to the department as required by this
+
+HB 2114 6
+1 section, shall be deemed a violation of this act and subject to the penalties
+2 provided by K.S.A. 82a-305a, and amendments thereto.
+3 (b) For the purpose of inspecting any dam or other water obstruction,
+4 the chief engineer or an authorized representative of the chief engineer,
+5 including a licensed professional engineer approved by the chief engineer,
+6 shall have the right of access to private property. Costs for any work which
+7 that may be required by the chief engineer or the authorized
+8 representative, including a licensed professional engineer approved by the
+9 chief engineer, prior to or as a result of the inspection of a dam or other
+10 water obstruction shall be paid by the owner, governmental agency or
+11 operator of such dam or other water obstruction.
+12 (c) All fees collected by the chief engineer pursuant to this section
+13 shall be remitted to the state treasurer as provided in K.S.A. 82a-328, and
+14 amendments thereto.
+15 Sec. 4. K.S.A. 82a-305a is hereby amended to read as follows: 82a-
+16 305a. (a) Any person, partnership, association, corporation or agency or
+17 political subdivision of the state government who violates any provision of
+18 this act or of any rule and regulation or order issued pursuant thereto shall
+19 be deemed guilty of a class C misdemeanor. Each day that any such
+20 violation occurs after notice of the original violation is served upon the
+21 violator by the chief engineer by restricted mail shall constitute a separate
+22 offense.
+23 (b) Upon request of the chief engineer, the attorney general shall
+24 bring suit in the name of the state of Kansas in any court of competent
+25 jurisdiction to enjoin (1) the unlawful construction, modification,
+26 operation or maintenance of any dam or other water obstruction, or (2) the
+27 unlawful change or diminution of the course, current or cross section of a
+28 river or stream. Such court may require the removal or modification of any
+29 such dam or other water obstruction by mandatory injunction.
+30 (c) In addition to any other penalty provided for by law, any person
+31 who commits a violation of K.S.A. 82a-301 et seq., and amendments
+32 thereto, or any rule and regulation adopted thereunder, may be subject to
+33 a civil penalty not less than $100 nor more than $1,000 per violation. In
+34 the case of a continuing violation, each notice provided by the chief
+35 engineer of such continuing violation and the required corrective action
+36 thereof shall be considered a separate violation if not corrected within
+37 seven days of receiving such notice. Such civil penalty may be assessed in
+38 addition to any other penalty provided by law.
+39 (d) No civil penalty shall be imposed pursuant to this section except
+40 on the written order of the chief engineer.
+41 (e) Any person aggrieved by an order of the chief engineer pursuant
+42 to this section may appeal to a district court of competent jurisdiction in
+43 the manner provided by the Kansas judicial review act.
+
+HB 2114 7
+1 (f) All moneys collected by the chief engineer pursuant to this section
+2 shall be deposited in the state treasury in accordance with K.S.A. 75-4215,
+3 and amendments thereto, and shall be credited to the water structures fund
+4 pursuant to K.S.A. 82a-328, and amendments thereto.
+5 Sec. 5. K.S.A. 82a-328 is hereby amended to read as follows: 82a-
+6 328. There is hereby created in the state treasury the water structures fund.
+7 The chief engineer of the division of water resources, Kansas department
+8 of agriculture shall remit all moneys received under K.S.A. 82a-302, 82a-
+9 303b, 82a-305a and 24-126, and amendments thereto, to the state treasurer
+10 in accordance with the provisions of K.S.A. 75-4215, and amendments
+11 thereto. Upon receipt of each such remittance, the state treasurer shall
+12 deposit the entire amount in the state treasury to the credit of the water
+13 structures fund. All expenditures from the water structures fund shall be
+14 made in accordance with appropriation acts upon warrants of the director
+15 of accounts and reports issued pursuant to vouchers approved by the
+16 secretary of agriculture or by a person designated by the secretary.
+17 Sec. 6. K.S.A. 82a-301, 82a-302, 82a-303b, 82a-305a and 82a-328
+18 are hereby repealed.
+19 Sec. 7. This act shall take effect and be in force from and after its
+20 publication in the statute book.
+
+[DELETED: Aoocfdltn0p132e4B5S637w8r9a0s1(2(3s4(5d6(7w8(9t a0p1(2(3w4h5s]
+[DELETED: 4mld(c(gM(0g1O2(3g4(5n6(7o8w9(0(1(2st m 3b4(5m6(s 7s8(9r0o1r2(3p4o5p6(7t8(9e0s1p2(3b]
+[DELETED: 4(tlr(tp(b0t1(2o3(4s5S637f8t9s0b1o2e3f4f5(6a7(8(9(0e1f2a3(4b5(6(7(8e9d0(1(2w3s]
+[DELETED: 4WCLs$0$Bs$0$Ms$0$((s0a1S23.  I3rs d s 4r5K6e7l8t9(0t1o2(3t4c5(6(7a8p9( ct sl be pd b t dm o sl py t0d1(2o3(4p5( f6i7r8a9( o0e1c2a3SmI]
+[DELETED: 4C1$C2$C3$C4$(iy dyr0e1(2i a3d4y t o5r6e7(8p9r031sr 2r3e4(5s6e by te ld pl er wo cd t7i8d9d0a1t2d3t4o5(6i7r8c9o0( f p a1r2a3e]
+[DELETED: 4sp(tist my be rd by te cf er or te arc0w1o2(3s4a5S637p8t9b0v1v2o3(4b5jn to en () te ul c, m6o7u8r9s0(1w2t3a4t5e6t7s8a9(0o1(2t3t]
+[DELETED: 4(sapS3To30i1t2d3s4m5o6s7S8a9S0p]

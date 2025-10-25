@@ -1,0 +1,1517 @@
+Title: SENATE BILL No. 282
+Official Title: SENATE BILL No. 282
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Assessment and Taxation
+2-28
+1 AN ACT concerning retirement and pensions; relating to the Kansas public
+2 employees retirement system; enacting the Kansas retirement
+3 investment and savings plan act; establishing terms, conditions and
+4 requirements related thereto; providing for the plan document,
+5 membership elections, benefits, contributions, distributions and
+6 prospective plan changes by the legislature; authorizing an employer
+7 contribution rate to amortize the actuarial costs of the defined benefit
+8 plan; directing the pooled money investment board to loan moneys to
+9 provide startup and related administrative costs of the plan upon
+10 approval of the state finance council; creating the Kansas public
+11 employees retirement system defined contribution fund; amending
+12 K.S.A. 2024 Supp. 74-4920 and repealing the existing section.
+13
+14 Be it enacted by the Legislature of the State of Kansas:
+15 New Section 1. (a) The provisions of sections 1 through 15, and
+16 amendments thereto, shall be known and may be cited as the Kansas
+17 retirement investment and savings plan act (KRISP). Such act shall be
+18 effective on and after July 1, 2027.
+19 (b) Any employee who is first employed by a participating employer
+20 on or after July 1, 2027, and who elects to participate in the plan or fails to
+21 make an election pursuant to section 5, and amendments thereto, shall be a
+22 member of the plan under the provisions of this act as of the first day of
+23 employment of such employee with such participating employer.
+24 (c) (1) The provisions of this act shall not apply to members of the
+25 Kansas police and firemen's retirement system, K.S.A. 74-4951 et seq.,
+26 and amendments thereto, the retirement system for judges, K.S.A. 20-2601
+27 et seq., and amendments thereto, and security officers as provided in
+28 K.S.A. 74-4914a, and amendments thereto.
+29 (2) The provisions of this act shall not apply to members of the
+30 Kansas public employees retirement system as provided in K.S.A. 74-4901
+31 et seq., 74-49,201 et seq., and 74-49,301 et seq., and amendments thereto,
+32 first employed by a participating employer prior to July 1, 2027, except for
+33 members who elect to participate in the Kansas retirement investment and
+34 savings plan pursuant to section 5, and amendments thereto.
+35 New Sec. 2. Unless the context requires otherwise, terms that are
+36 used in this act have the meanings set forth in K.S.A. 74-4902, and
+SB 282 2
+1 amendments thereto, and the following definitions apply:
+2 (a) "Act" means the Kansas retirement investment and savings plan
+3 act, sections 1 through 15, and amendments thereto;
+4 (b) "active plan member" or "plan member" means a Kansas
+5 retirement investment and savings plan member who is actively employed
+6 by a participating employer;
+7 (c) "covered position" means a position with an affiliated employer
+8 that is eligible for membership in the Kansas public employees retirement
+9 system pursuant to the provisions of K.S.A. 74-4901 et seq., and
+10 amendments thereto;
+11 (d) "defined benefit plan" means the defined benefit plan for the
+12 Kansas public employees retirement system, K.S.A. 74-4901 et seq., 74-
+13 49,201 et seq. and 74-49,301 et seq., and amendments thereto, the Kansas
+14 police and firemen's retirement system, K.S.A. 74-4951 et seq., and
+15 amendments thereto, and the retirement system for judges, K.S.A. 20-2601
+16 et seq., and amendments thereto;
+17 (e) "deferred compensation plan" means the same as defined in
+18 K.S.A. 74-49b08, and amendments thereto;
+19 (f) "employee" means the same as defined in K.S.A. 74-4902 and 74-
+20 4932, and amendments thereto, except that the provisions of this act shall
+21 apply only to employees who:
+22 (1) (A) Are first employed by a participating employer on or after
+23 July 1, 2027, or are employees of a participating employer that affiliates on
+24 or after July 1, 2027; and
+25 (B) elect to participate in the plan or fail to make an election pursuant
+26 to section 5(a)(1), and amendments thereto; or
+27 (2) (A) are first employed by a participating employer prior to July 1,
+28 2027; and
+29 (B) elect to become a member of the plan pursuant to section 5(a)(2),
+30 and amendments thereto;
+31 (g) "first employed" means an employee who:
+32 (1) Has not been an employee in a covered position of any
+33 participating employer prior to July 1, 2027, and is employed by a
+34 participating employer in a covered position on or after July 1, 2027;
+35 (2) is a former member of the system who withdrew contribution
+36 accounts before July 1, 2027, and who is again employed by a
+37 participating employer in a covered position on or after July 1, 2027; or
+38 (3) was an inactive nonvested member and who is again employed by
+39 a participating employer in a covered position on or after July 1, 2027;
+40 (h) "inactive nonvested member" means a member who has
+41 terminated employment with a participating employer and who does not
+42 have a vested retirement benefit in the system on July 1, 2027;
+43 (i) "plan" or "Kansas retirement investment and savings plan" means
+SB 282 3
+1 the plan established by section 3, and amendments thereto; and
+2 (j) "qualified Roth contribution program" means a program described
+3 in section 402A(b)(1) of the federal internal revenue code that meets the
+4 requirements of section 402A(b)(2) of the federal internal revenue code.
+5 New Sec. 3. (a) (1) The board shall establish a separate Kansas
+6 retirement investment and savings plan in accordance with the provisions
+7 of this act. The plan and related trust shall be established with the primary
+8 objective of providing a share of the retirement income needed to replace a
+9 member's preretirement standard of living throughout retirement following
+10 a full career of employment and to meet participating employers'
+11 objectives for recruiting and retaining qualified employees. Maintaining
+12 the member's standard of living in retirement shall include income from
+13 the plan in addition to social security, personal savings and other
+14 retirement arrangements including from nonparticipating employers. The
+15 plan shall be established as a pension plan for the exclusive benefit of
+16 members and their beneficiaries and as a qualified governmental plan
+17 pursuant to sections 401(a) and 414(d) of the federal internal revenue code
+18 and its implementing regulations. Retirement accounts shall be established
+19 for each plan member. Assets of the plan shall be held in trust for the
+20 exclusive benefit of participants and their beneficiaries. The plan is
+21 established in addition to any retirement, pension, deferred compensation
+22 or other benefit plan administered by the state or a political subdivision
+23 thereof.
+24 (2) As a component of the Kansas retirement investment and savings
+25 plan, the board shall establish a deferred compensation plan in accordance
+26 with section 457 of the federal internal revenue code. Deferred
+27 compensation accounts shall be established for each plan member to allow
+28 for additional elective contributions by members of the Kansas retirement
+29 investment and savings plan. All moneys deferred, transferred or rolled
+30 over in accordance with the provisions of the deferred compensation plan
+31 shall be held in trust in accordance with section 457 of the federal internal
+32 revenue code for the exclusive benefit of participants and their
+33 beneficiaries. All employees subject to the provisions of this act shall
+34 participate in the deferred compensation plan unless an employee elects, in
+35 a manner prescribed by the board, not to participate in such plan. Any
+36 amount of the member's salary or compensation that is deferred on a pre-
+37 tax basis shall not be subject to state income taxes for the year in which
+38 such sum is contributed but shall be subject to applicable state income
+39 taxes for the year in which distributions are received by the member. The
+40 board may utilize the Kansas public employees deferred compensation act,
+41 K.S.A. 74-49b07 through 74-49b15, and amendments thereto, to
+42 implement the provisions of this act solely or as one of two or more 457
+43 plans.
+SB 282 4
+1 (3) The board shall establish a qualified Roth contribution program
+2 for members in both the Kansas retirement investment and savings plan
+3 and the deferred compensation plan. Any amounts contributed to a
+4 qualified Roth contribution program shall be subject to state withholding
+5 and income taxes for the year in which such sum is contributed to the
+6 program but shall not be subject to applicable state income taxes for the
+7 year in which distributions are received by the member, unless the
+8 provisions of article 32 of chapter 79 of the Kansas Statutes Annotated,
+9 and amendments thereto, provide otherwise.
+10 (b) The board may enter into agreements with approved insurers,
+11 investment managers or other contracting parties whereby benefits or
+12 investment services under the Kansas retirement investment and savings
+13 plan would be made available to participants. The board may enter into an
+14 agreement with one or more qualified private firms for consolidated billing
+15 services, participant enrollment services, communications services,
+16 participant account recordkeeping services and other services related to the
+17 administration of the Kansas retirement investment and savings plan.
+18 (c) No significant costs shall be incurred by the state as a result of the
+19 administration of this act unless such costs are recovered by the following
+20 means: (1) A service charge collected from all participants; or (2) credit
+21 allowances or reimbursement of specified plan expenses as provided under
+22 agreements with one or more qualified private firms entered into pursuant
+23 to subsection (b). The amount of any such significant costs incurred and to
+24 be recovered by the state shall be determined by the board.
+25 (d) (1) Subject to the provisions of this section, the pooled money
+26 investment board is authorized and directed to loan to the Kansas public
+27 employees retirement system sufficient moneys to provide startup and
+28 related administrative costs of this act upon approval of such loan by the
+29 state finance council acting on this matter, which is hereby characterized
+30 as a matter of legislative delegation and subject to the guidelines
+31 prescribed in K.S.A. 75-3711c(c), and amendments thereto.
+32 (2) No loan shall be made unless the terms thereof have been
+33 approved by the director of the budget. A copy of the terms of the loan
+34 shall be submitted to the director of legislative research. The pooled
+35 money investment board is authorized and directed to use any moneys in
+36 the operating accounts, investment accounts or other investments of the
+37 state of Kansas to provide the funds for such loan. Each such loan shall
+38 bear interest at a rate equal to the net earnings rate of the pooled money
+39 investment portfolio at the time of the making of such loan. Such loan
+40 shall not be deemed to be an indebtedness or debt of the state of Kansas
+41 within the meaning of section 6 of article 11 of the constitution of the state
+42 of Kansas.
+43 (3) Upon certification of the amount of each loan authorized pursuant
+SB 282 5
+1 to this subsection to the executive director of the Kansas public employees
+2 retirement system, the pooled money investment board shall transfer each
+3 such amount from the state bank account or accounts prescribed in this
+4 subsection to the Kansas public employees retirement fund.
+5 (4) The principal and interest of each loan authorized pursuant to this
+6 subsection shall be repaid in payments payable on or before June 30, 2030,
+7 or June 30 of each subsequent year in which a loan to the system has
+8 occurred pursuant to this section.
+9 (5) The board of trustees shall report annually on the status of any
+10 loan made pursuant to this section to the joint committee on pensions,
+11 investments and benefits.
+12 (e) The board is authorized to negotiate and enter into contracts with
+13 qualified insurers, investment managers and other contracting parties for
+14 the purposes of implementing and providing essential services for the
+15 Kansas retirement investment and savings plan, including acquisition of
+16 actuarial, investment, consulting, auditing and other services necessary
+17 therefor. Contracts entered into under this act shall be subject to the
+18 provisions of K.S.A. 74-4909(15), and amendments thereto, and shall not
+19 be negotiated in accordance with the provisions of K.S.A. 75-37,102, and
+20 amendments thereto, or K.S.A. 75-37,132, and amendments thereto.
+21 New Sec. 4. The legislature may, from time to time, prospectively
+22 change the statutory provisions governing the plan and expressly reserve
+23 the right to do so. The state of Kansas shall not be responsible for any loss
+24 incurred by any member under the plan established pursuant to this act.
+25 New Sec. 5. (a) (1) An employee who is first employed by a
+26 participating employer on or after July 1, 2027, may elect to become a
+27 member of the Kansas retirement investment and savings plan or a
+28 member of the Kansas public employees retirement system act of 2015,
+29 K.S.A. 74-49,301 et seq., and amendments thereto, by making an election
+30 within 30 days from the first day of employment with a participating
+31 employer.
+32 (2) Except as otherwise provided in this act, an active member of the
+33 defined benefit plan on July 1, 2027, or an inactive vested member of the
+34 defined benefit plan who is again employed by a participating employer in
+35 a covered position on or after July 1, 2027, may elect to become a member
+36 of the Kansas retirement investment and savings plan by making an
+37 election within a 30-day period established by the board.
+38 (b) (1) Elections made pursuant to this section shall be made on a
+39 form and in a manner prescribed by the board.
+40 (2) (A) A defined benefit plan member failing to make an election
+41 prescribed by this section remains a member of the defined benefit plan.
+42 (B) An employee who is first employed by a participating employer
+43 on or after July 1, 2027, failing to make an election prescribed by this
+SB 282 6
+1 section shall become a member of the Kansas retirement investment and
+2 savings plan under the provisions of this act.
+3 (3) An election under this section, including the default election
+4 pursuant to subsection (b)(2), is a one-time irrevocable election.
+5 (4) Any election made pursuant to this section is for all of such
+6 member's credited service and for all employee and employer
+7 contributions. An election to become a Kansas retirement investment and
+8 savings plan member permanently terminates active membership in the
+9 defined benefit plan and the service of such member on and after July 1,
+10 2027, in the Kansas retirement investment and savings plan shall not be
+11 credited for the purposes of the defined benefit plan. The system shall
+12 calculate the actuarial present value of such member's accrued retirement
+13 benefit for all credited service prior to July 1, 2027, and shall transfer a
+14 lump-sum amount equal to such actuarial present value to such member's
+15 rollover account. For members of the defined benefit plan under K.S.A.
+16 74-49,301 et seq., and amendment thereto, the amount transferred shall be
+17 the greater of: (A) An amount equal to the value of the member's annuity
+18 savings account and retirement annuity account; or (B) the actuarial
+19 present value of such member's accrued retirement benefit. The actuarial
+20 present value shall be determined by the actuary using the actuarial
+21 assumptions and tables currently in use by the system and the member's
+22 attained age.
+23 (c) A member in either the defined benefit plan or the Kansas
+24 retirement investment and savings plan who becomes inactive after an
+25 election under this section and who returns to active membership remains
+26 in the plan previously elected.
+27 (d) A member of the defined benefit plan who is subject to a domestic
+28 relations order or an execution or income-withholding order may not
+29 transfer to the Kansas retirement investment and savings plan unless the
+30 order is modified to apply under the Kansas retirement investment and
+31 savings plan.
+32 (e) (1) A member of the defined benefit plan who is purchasing
+33 service credit through installment payments, either made directly to the
+34 board or pursuant to a payroll deduction agreement, shall not transfer
+35 membership to the Kansas retirement investment and savings plan unless
+36 the member first completes the contract for purchase of service credit.
+37 (2) A member who files an election to transfer membership may
+38 make a lump-sum payment for up to the balance of the service credit
+39 remaining to be purchased prior to transferring, subject to the limitations
+40 of section 415 of the federal internal revenue code. The lump-sum
+41 payment, unless made by a rollover, shall be made with after-tax dollars.
+42 (f) (1) Employee and employer contributions shall be made to the
+43 retirement system during any 30-day election window and the system shall
+SB 282 7
+1 hold such contributions until an election is made, including the default
+2 election.
+3 (2) If an employee elects to become a member of the Kansas
+4 retirement investment and savings plan pursuant to subsection (a)(1),
+5 employee contributions made during the 30-day election window,
+6 including any interest earnings thereon, shall be credited as soon as
+7 practicable by the system to the member's mandatory contribution account.
+8 Employer contributions made during the 30-day election window shall be
+9 credited as soon as practicable by the system to the member's employer
+10 contribution account.
+11 (3) If an employee elects to become a member of the Kansas public
+12 employees retirement system act of 2015 pursuant to subsection (a)(1),
+13 employee contributions made during the 30-day election window,
+14 including any interest earnings thereon, shall be credited as soon as
+15 practicable by the system to the member's annuity savings account.
+16 Employer contributions made during the 30-day election window shall be
+17 credited as soon as practicable by the system to the member's retirement
+18 annuity account.
+19 New Sec. 6. The board shall accept the rollover of contributions and
+20 the income on those contributions from another eligible retirement plan to
+21 the member's rollover account only to the extent allowed under the federal
+22 internal revenue code.
+23 New Sec. 7. (a) A Kansas retirement investment and savings plan
+24 member's mandatory contribution account includes the member's
+25 contributions and the income on those contributions and is vested from the
+26 date that the employee becomes a member of the plan.
+27 (b) A Kansas retirement investment and savings plan member's
+28 deferred compensation account includes the member's elective
+29 contributions and the income on those contributions and is vested from the
+30 date that the employee becomes a member of the plan.
+31 (c) A Kansas retirement investment and savings plan member's
+32 employer contribution account includes the employer's contributions and
+33 the income on those contributions and is vested only when the member has
+34 a total of five years of participating service in the Kansas retirement
+35 investment and savings plan.
+36 (d) A Kansas retirement investment and savings plan member's
+37 rollover account includes the member's rollovers of contributions made
+38 pursuant to section 5 or 6, and amendments thereto, and income on those
+39 contributions and are vested from the date that the contributions are
+40 credited to the account.
+41 (e) If the Kansas retirement investment and savings plan member's
+42 employer contribution account is not vested upon termination of plan
+43 membership, as provided in this section, the employer contributions and
+SB 282 8
+1 income are forfeited as provided in section 8, and amendments thereto.
+2 New Sec. 8. (a) (1) An active Kansas retirement investment and
+3 savings plan member shall contribute 6% of compensation to the member's
+4 mandatory contribution account.
+5 (2) Except as provided in subsection (d), an active plan member shall
+6 initially contribute 1% of compensation to the member's deferred
+7 compensation account and such contribution rate shall increase annually
+8 by 1% of the active plan member's compensation until such active plan
+9 member reaches a maximum contribution rate of 10% of compensation.
+10 All contributions to a member's deferred compensation account under this
+11 section shall be subject to the contribution limits under sections 415 and
+12 457 of the federal internal revenue code. The board may implement this
+13 subsection as an eligible automatic contribution arrangement under section
+14 414(w) of the federal internal revenue code.
+15 (b) (1) All contributions under subsection (a)(1) shall be picked up by
+16 the employer via a salary reduction as provided in section 414(h)(2) of the
+17 federal internal revenue code. An employer shall not pick up such
+18 contributions without a corresponding salary reduction as provided in
+19 section 414(h)(2) of the federal internal revenue code.
+20 (2) Each participating employer shall establish a system of regular
+21 payroll deductions to defer each payroll period the amounts from the
+22 salary or compensation of each employee who is a member of the deferred
+23 compensation plan in accordance with this act and the applicable
+24 provisions of the federal internal revenue code.
+25 (c) An active plan member's participating employer shall contribute
+26 the following to each member's employer contribution account:
+27 (1) 4% of compensation to the active plan member's employer
+28 contribution account; and
+29 (2) an additional 0.5% of compensation to the active plan member's
+30 employer contribution account if such member contributes 1% of
+31 compensation to the deferred compensation plan or an additional 1% of
+32 compensation if such member contributes 2% or more of compensation to
+33 the deferred compensation plan.
+34 (d) An active plan member shall be permitted to adjust the amount of
+35 elective contributions to such member's deferred compensation account at
+36 least annually or on a more frequent basis as established by the board. All
+37 contribution elections shall be made in 1% increments. An active plan
+38 member shall be permitted to stop making contributions to such member's
+39 deferred compensation account. An active plan member shall be permitted
+40 to resume making contributions to such member's deferred compensation
+41 account following any previous stoppage. The board shall develop and
+42 make available to all plan members an electronic means for making
+43 contribution elections to a member's deferred compensation account.
+SB 282 9
+1 (e) Forfeitures of employer contributions and investment income on
+2 the employer contributions may not be used to increase a plan member's
+3 retirement account. The board shall allocate the forfeitures under this
+4 section to meet the plan's administrative expenses, including startup
+5 expenses. The board may use forfeitures to reduce the employer
+6 contribution obligation once expenses are met.
+7 New Sec. 9. (a) (1) The board shall create an investment policy
+8 structured to meet the primary objective of providing a share, in addition
+9 to social security, personal savings and other retirement arrangements, of
+10 the retirement income needed to replace a member's preretirement standard
+11 of living throughout retirement following a full career of employment. The
+12 board shall require in any agreement with entities pursuant to section 3,
+13 and amendments thereto, that the following investment alternatives under
+14 the Kansas retirement investment and savings plan are offered to members,
+15 including, but not limited to:
+16 (A) A government securities investment fund;
+17 (B) a fixed income index investment fund;
+18 (C) a common stock index investment fund;
+19 (D) a small capitalization stock index investment fund;
+20 (E) an international stock index investment fund; and
+21 (F) hybrid funds mixing and matching various investment funds,
+22 tailored to projected retirement years.
+23 (2) (A) The board shall select an index that is a commonly recognized
+24 index comprised of common stock the aggregate market value of which is
+25 a reasonably complete representation of the United States equity markets.
+26 (B) The common stock index investment fund shall be invested in a
+27 portfolio designed to replicate the performance of the index selected under
+28 subparagraph (A). The portfolio shall be designed such that, to the extent
+29 practicable, the percentage of the large capitalization stock index
+30 investment fund that is invested in each stock is the same as the percentage
+31 determined by dividing the aggregate market value of all shares of that
+32 stock by the aggregate market value of all shares of all stocks included in
+33 such index.
+34 (3) (A) The board shall select an index that is a commonly recognized
+35 index comprised of common stock, the aggregate market value of which
+36 represents the United States equity markets excluding the common stocks
+37 included in the common stock index investment fund.
+38 (B) The small capitalization stock index investment fund shall be
+39 invested in a portfolio designed to replicate the performance of the index
+40 in subparagraph (A). The portfolio shall be designed such that, to the
+41 extent practicable, the percentage of the small capitalization stock index
+42 investment fund that is invested in each stock is the same as the percentage
+43 determined by dividing the aggregate market value of all shares of that
+SB 282 10
+1 stock by the aggregate market value of all shares of all stocks included in
+2 such index.
+3 (4) (A) The board shall select an index that is a commonly recognized
+4 index comprised of stock, the aggregate market value of which is a
+5 reasonably complete representation of the international equity markets
+6 excluding the United States equity markets.
+7 (B) The international stock index investment fund shall be invested in
+8 a portfolio designed to replicate the performance of the index in
+9 subparagraph (A). The portfolio shall be designed such that, to the extent
+10 practicable, the percentage of the international stock index investment
+11 fund that is invested in each stock is the same percentage determined by
+12 dividing the aggregate market value of all shares of that stock by the
+13 aggregate market value of all shares of all stocks included in such index.
+14 (b) The board shall establish a default investment option for any plan
+15 member who does not have an effective investment direction. The board
+16 may utilize a hybrid investment fund established pursuant to this section as
+17 the default investment fund.
+18 (c) Assets within each member's account shall be invested as directed
+19 by the member within the investment alternatives established by the board.
+20 (d) A plan member may elect the investment funds and alternatives
+21 referred to in this section into which the sums in the member's accounts are
+22 to be invested or reinvested. The board shall develop and make available
+23 to all plan members an electronic means for investment allocation
+24 elections. Elections to allocate existing account balances among the
+25 various investment alternatives referred to in this section shall be
+26 permitted on a daily basis. Elections to allocate future contributions among
+27 the various investment alternatives referred to in this section shall be
+28 permitted on a monthly basis. All investment elections shall be made in
+29 1% increments. The sum of the percentages elected for all investment
+30 alternatives shall equal 100%.
+31 New Sec. 10. Any time after termination of service, a plan member or
+32 the plan member's beneficiary may terminate plan membership by filing a
+33 written application with the board and removing the plan member's vested
+34 account balance from the plan through any combination of the following
+35 payout options, each of which is subject to the provisions of the plan
+36 document and the federal internal revenue code and the applicable
+37 regulations of the federal internal revenue service:
+38 (a) A direct rollover to an eligible retirement plan;
+39 (b) an indirect rollover to an eligible retirement plan;
+40 (c) a lump-sum distribution of the plan member's vested account
+41 balance; or
+42 (d) an optional form of distribution offered by the board under section
+43 11, and amendments thereto.
+SB 282 11
+1 New Sec. 11. (a) Subject to the provisions of the plan document, a
+2 plan member, after termination of service, may leave the plan member's
+3 vested account balance in the plan, and the plan member is eligible for a
+4 distribution as provided in this section.
+5 (b) (1) After termination of service and upon filing a written
+6 application with the board, a plan member may select any distribution
+7 option provided by the plan document. The board shall make available
+8 within the plan lifetime annuity options from an insurer, including:
+9 (A) Single-life;
+10 (B) joint and survivor;
+11 (C) period certain;
+12 (D) qualified longevity annuity contracts; and
+13 (E) other annuity forms as the board may choose to provide.
+14 (2) The board shall create a default distribution option using a
+15 lifetime annuity form.
+16 (c) A plan member who is less than 65 years of age, or 701/ years of
+2
+17 age if the member was born before July 1, 1949, who returns to service
+18 may not continue to receive a distribution under this section while actively
+19 employed in a covered position except as may otherwise be required under
+20 an applicable annuity contract provided under the plan.
+21 (d) The plan document shall provide that distributions shall comply
+22 with the minimum distribution requirements established in the federal
+23 internal revenue code and applicable under K.S.A. 74-49,123, and
+24 amendments thereto.
+25 (e) The plan document may specify minimum account balances for
+26 purposes of allowing benefit payment options and rollovers in accordance
+27 with the federal internal revenue code.
+28 New Sec. 12. A plan member's beneficiary shall be determined as
+29 provided in the defined benefit plan regulations. Upon filing a written
+30 application with the board after the death of a plan member, the plan
+31 member's beneficiary is entitled to the plan member's vested account
+32 balance.
+33 New Sec. 13. Before termination of service, a plan member shall not
+34 receive a refund of any portion of the plan member's vested account
+35 balance.
+36 New Sec. 14. A Kansas retirement investment and savings plan
+37 member shall be eligible for death and disability benefits provided to
+38 members of the defined benefit plan under K.S.A. 74-4927, and
+39 amendments thereto.
+40 New Sec. 15. There is hereby created in the state treasury the Kansas
+41 public employees retirement system defined contribution fund. The fund
+42 shall be administered by the Kansas public employees retirement system in
+43 accordance with the provisions of this act. All expenditures from the fund
+SB 282 12
+1 shall be made in accordance with appropriation acts upon warrants of the
+2 director of accounts and reports issued pursuant to vouchers approved by
+3 the chairperson of the board, the executive director of the system or the
+4 executive director's designee.
+5 Sec. 16. K.S.A. 2024 Supp. 74-4920 is hereby amended to read as
+6 follows: 74-4920. (1) (a) Upon the basis of each annual actuarial valuation
+7 and appraisal as provided for in K.S.A. 74-4908(3)(a), and amendments
+8 thereto, the board shall certify, on or before July 15 of each year, to the
+9 division of the budget in the case of the state and to the agent for each
+10 other participating employer an actuarially determined estimate of the rate
+11 of contribution that will be required, together with all accumulated
+12 contributions and other assets of the system, to be paid by each such
+13 participating employer to pay all liabilities that shall exist or accrue under
+14 the system, including amortization of the actuarial accrued liability as
+15 determined by the board. The board shall determine the actuarial cost
+16 method to be used in annual actuarial valuations, to determine the
+17 employer contribution rates that shall be certified by the board. Such
+18 certified rate of contribution, amortization methods and periods and
+19 actuarial cost method shall be based on the standards set forth in K.S.A.
+20 74-4908(3)(a), and amendments thereto, and shall not be based on any
+21 other purpose outside of the needs of the system.
+22 (b) (i) For employers affiliating on and after January 1, 1999, upon
+23 the basis of an annual actuarial valuation and appraisal of the system
+24 conducted in the manner provided for in K.S.A. 74-4908, and amendments
+25 thereto, the board shall certify, on or before July 15 of each year to each
+26 such employer an actuarially determined estimate of the rate of
+27 contribution that shall be required to be paid by each such employer to pay
+28 all of the liabilities that shall accrue under the system from and after the
+29 entry date as determined by the board, upon recommendation of the
+30 actuary. Such rate shall be termed the employer's participating service
+31 contribution and shall be uniform for all participating employers. Such
+32 additional liability shall be amortized as determined by the board. For all
+33 participating employers described in this section, the board shall determine
+34 the actuarial cost method to be used in annual actuarial valuations to
+35 determine the employer contribution rates that shall be certified by the
+36 board.
+37 (ii) The board shall determine for each such employer separately an
+38 amount sufficient to amortize all liabilities for prior service costs that shall
+39 have accrued at the time of entry into the system. On the basis of such
+40 determination the board shall annually certify to each such employer
+41 separately an actuarially determined estimate of the rate of contribution
+42 that shall be required to be paid by that employer to pay all of the
+43 liabilities for such prior service costs. Such rate shall be termed the
+SB 282 13
+1 employer's prior service contribution.
+2 (c) On and after July 1, 2027, the board shall certify a contribution
+3 rate required to amortize the unfunded actuarial liability of the defined
+4 benefit plan. Such certified rate of contribution, amortization methods,
+5 periods and actuarial cost method shall be based on the standards set
+6 forth in K.S.A. 74-4908(3)(a), and amendments thereto, and shall not be
+7 based on any other purpose outside of the needs of the system. Each
+8 participating employer shall appropriate and pay such certified
+9 contribution rate as applied to the total compensation of employees
+10 participating in the Kansas retirement investment and savings plan act
+11 and the defined benefit plan.
+12 (2) The division of the budget and the governor shall include in the
+13 budget and in the budget request for appropriations for personal services
+14 the sum required to satisfy the state's obligation under this act as certified
+15 by the board and shall present the same to the legislature for allowance and
+16 appropriation.
+17 (3) Each other participating employer shall appropriate and pay to the
+18 system a sum sufficient to satisfy the obligation under this act as certified
+19 by the board.
+20 (4) Each participating employer is hereby authorized to pay the
+21 employer's contribution from the same fund that the compensation for
+22 which such contribution is made is paid from or from any other funds
+23 available to it for such purpose. Each political subdivision, other than an
+24 instrumentality of the state, that is by law authorized to levy taxes for other
+25 purposes, may levy annually at the time of its levy of taxes, a tax that may
+26 be in addition to all other taxes authorized by law for the purpose of
+27 making its contributions under this act and, in the case of cities and
+28 counties, to pay a portion of the principal and interest on bonds issued
+29 under the authority of K.S.A. 12-1774, and amendments thereto, by cities
+30 located in the county, which tax, together with any other fund available,
+31 shall be sufficient to enable it to make such contribution. In lieu of levying
+32 the tax authorized in this subsection, any taxing subdivision may pay such
+33 costs from any employee benefits contribution fund established pursuant to
+34 K.S.A. 12-16,102, and amendments thereto. Each participating employer
+35 that is not by law authorized to levy taxes as described above, but that
+36 prepares a budget for its expenses for the ensuing year and presents the
+37 same to a governing body that is authorized by law to levy taxes as
+38 described above, may include in its budget an amount sufficient to make
+39 its contributions under this act, which may be in addition to all other taxes
+40 authorized by law. Such governing body to which the budget is submitted
+41 for approval, may levy a tax sufficient to allow the participating employer
+42 to make its contributions under this act, which tax, together with any other
+43 fund available, shall be sufficient to enable the participating employer to
+SB 282 14
+1 make the contributions required by this act.
+2 (5) (a) The rate of contribution certified to a participating employer as
+3 provided in this section shall apply during the fiscal year of the
+4 participating employer that begins in the second calendar year following
+5 the year of the actuarial valuation.
+6 (b) (i) Except as specifically provided in this section, for fiscal years
+7 commencing in calendar year 1996 and in each subsequent calendar year,
+8 the rate of contribution certified to the state of Kansas shall in no event
+9 exceed the state's contribution rate for the immediately preceding fiscal
+10 year by more than 0.2% of the amount of compensation upon which
+11 members contribute during the period.
+12 (ii) Except as specifically provided in this subsection, for the fiscal
+13 years commencing in the following calendar years, the rate of contribution
+14 certified to the state of Kansas and to the participating employers under
+15 K.S.A. 74-4931, and amendments thereto, shall in no event exceed the
+16 state's contribution rate for the immediately preceding fiscal year by more
+17 than the following amounts expressed as a percentage of compensation
+18 upon which members contribute during the period: (A) For the fiscal year
+19 commencing in calendar years 2010 through 2012, an amount not to
+20 exceed more than 0.6% of the amount of the immediately preceding fiscal
+21 year; (B) for the fiscal year commencing in calendar year 2013, an amount
+22 not to exceed more than 0.9% of the amount of the immediately preceding
+23 fiscal year; (C) for the fiscal year commencing in calendar year 2014, an
+24 amount not to exceed more than 1% of the amount of the immediately
+25 preceding fiscal year; (D) for the fiscal year commencing in calendar year
+26 2015, the employer rate of contribution shall be 10.91%; (E) for the fiscal
+27 year commencing in calendar year 2016, the employer rate of contribution
+28 shall be 10.81%, except as provided by section 37(b) of chapter 54 of 2017
+29 Session Laws of Kansas, and amendments thereto, for the participating
+30 employers under K.S.A. 74-4931, and amendments thereto; (F) for the
+31 fiscal year commencing in calendar year 2017, the employer rate of
+32 contribution shall be 12.01%; (G) for the fiscal year commencing in
+33 calendar year 2021, the employer rate of contribution shall be 13.33%; (H)
+34 for the fiscal year commencing in calendar year 2022, the employer rate of
+35 contribution shall be 13.11%; and (I) in each subsequent calendar year, an
+36 amount not to exceed more than 1.2% of the amount of the immediately
+37 preceding fiscal year.
+38 (iii) Except as specifically provided in this section, for fiscal years
+39 commencing in calendar year 1997 and in each subsequent calendar year,
+40 the rate of contribution certified to participating employers other than the
+41 state of Kansas shall in no event exceed such participating employer's
+42 contribution rate for the immediately preceding fiscal year by more than
+43 0.15% of the amount of compensation upon which members contribute
+SB 282 15
+1 during the period.
+2 (iv) Except as specifically provided in this subsection, for the fiscal
+3 years commencing in the following calendar years, the rate of contribution
+4 certified to participating employers other than the state of Kansas shall in
+5 no event exceed the contribution rate for such employers for the
+6 immediately preceding fiscal year by more than the following amounts
+7 expressed as a percentage of compensation upon which members
+8 contribute during the period: (A) For the fiscal year commencing in
+9 calendar years 2010 through 2013, an amount not to exceed more than
+10 0.6% of the amount of the immediately preceding fiscal year; (B) for the
+11 fiscal year commencing in calendar year 2014, an amount not to exceed
+12 more than 0.9% of the amount of the immediately preceding fiscal year;
+13 (C) for the fiscal year commencing in calendar year 2015, an amount not
+14 to exceed more than 1% of the amount of the immediately preceding fiscal
+15 year; (D) for the fiscal year commencing in calendar year 2016, an amount
+16 not to exceed more than 1.1% of the amount of the immediately preceding
+17 fiscal year; and (E) for the fiscal year commencing in calendar year 2017,
+18 and in each subsequent calendar year, an amount not to exceed more than
+19 1.2% of the amount of the immediately preceding fiscal year. On and after
+20 July 1, 2027, for the purposes of this section, member compensation shall
+21 include compensation of members of the Kansas retirement investment and
+22 savings plan established under sections 1 through 15, and amendments
+23 thereto.
+24 (v) As part of the annual actuarial valuation, there shall be a separate
+25 employer rate of contribution calculated for the state of Kansas, a separate
+26 employer rate of contribution calculated for participating employers under
+27 K.S.A. 74-4931, and amendments thereto, a combined employer rate of
+28 contribution calculated for the state of Kansas and participating employers
+29 under K.S.A. 74-4931, and amendments thereto, and a separate employer
+30 rate of contribution calculated for all other participating employers.
+31 (vi) There shall be a combined employer rate of contribution certified
+32 to the state of Kansas and participating employers under K.S.A. 74-4931,
+33 and amendments thereto. There shall be a separate employer rate of
+34 contribution certified to all other participating employers.
+35 (vii) If the combined employer rate of contribution calculated for the
+36 state of Kansas and participating employers under K.S.A. 74-4931, and
+37 amendments thereto, is greater than the separate employer rate of
+38 contribution for the state of Kansas, the difference in the two rates applied
+39 to the actual payroll of the state of Kansas for the applicable fiscal year
+40 shall be calculated. This amount shall be certified by the board for deposit
+41 as additional employer contributions to the retirement benefit
+42 accumulation reserve for the participating employers under K.S.A. 74-
+43 4931, and amendments thereto.
+SB 282 16
+1 (6) The actuarial cost of any legislation enacted in the 1994 session of
+2 the Kansas legislature will be included in the June 30, 1994, actuarial
+3 valuation in determining contribution rates for participating employers.
+4 (7) The actuarial cost of the provisions of K.S.A. 74-4950i, and
+5 amendments thereto, will be included in the June 30, 1998, actuarial
+6 valuation in determining contribution rates for participating employers.
+7 The actuarial accrued liability incurred for the provisions of K.S.A. 74-
+8 4950i, and amendments thereto, shall be amortized over 15 years.
+9 (8) Except as otherwise provided by law, the actuarial cost of any
+10 legislation enacted by the Kansas legislature, except the actuarial cost of
+11 K.S.A. 74-49,114a, and amendments thereto, shall be in addition to the
+12 employer contribution rates certified for the employer contribution rate in
+13 the fiscal year immediately following such enactment. Such actuarial cost
+14 shall be determined by the qualified actuary employed or retained by the
+15 system pursuant to K.S.A. 74-4908, and amendments thereto, and reported
+16 to the system and the joint committee on pensions, investments and
+17 benefits.
+18 (9) Notwithstanding the provisions of subsection (8), the actuarial
+19 cost of the provisions of K.S.A. 74-49,109 et seq., and amendments
+20 thereto, shall be first reflected in employer contribution rates effective with
+21 the first day of the first payroll period for the fiscal year 2005. The
+22 actuarial accrued liability incurred for the provisions of K.S.A. 74-49,109
+23 et seq., and amendments thereto, shall be amortized over 10 years.
+24 (10) The cost of the postretirement benefit payment provided
+25 pursuant to the provisions of K.S.A. 74-49,114b, and amendments thereto,
+26 for retirants other than local retirants as described in subsection (11) or
+27 insured disability benefit recipients shall be paid in the fiscal year
+28 commencing on July 1, 2007.
+29 (11) The actuarial accrued liability incurred for the provisions of
+30 K.S.A. 74-49,114b, and amendments thereto, for the KPERS local group
+31 and retirants who were employees of local employers that affiliated with
+32 the Kansas police and firemen's retirement system shall be amortized over
+33 10 years.
+34 (12) The cost of the postretirement benefit payment provided
+35 pursuant to the provisions of K.S.A. 74-49,114c, and amendments thereto,
+36 for retirants other than local retirants as described in subsection (13) or
+37 insured disability benefit recipients shall be paid in the fiscal year
+38 commencing on July 1, 2008.
+39 (13) The actuarial accrued liability incurred for the provisions of
+40 K.S.A. 74-49,114c, and amendments thereto, for the KPERS local group
+41 and retirants who were employees of local employers that affiliated with
+42 the Kansas police and firemen's retirement system shall be amortized over
+43 10 years.
+SB 282 17
+1 (14) The board with the advice of the actuary may fix the contribution
+2 rates for participating employers joining the system after one year from the
+3 first entry date or for employers who exercise the option contained in
+4 K.S.A. 74-4912, and amendments thereto, at rates different from the rate
+5 fixed for employers joining within one year of the first entry date.
+6 (15) Employer contributions shall in no way be limited by any other
+7 act that now or in the future establishes or limits the compensation of any
+8 member.
+9 (16) Notwithstanding any provision of law to the contrary, each
+10 participating employer shall remit quarterly, or as the board may otherwise
+11 provide, all employee deductions and required employer contributions to
+12 the executive director for credit to the Kansas public employees retirement
+13 fund within three days after the end of the period covered by the
+14 remittance by electronic funds transfer. Remittances of such deductions
+15 and contributions received after such date are delinquent. Delinquent
+16 payments due under this subsection shall be subject to interest at the rate
+17 established for interest on judgments under K.S.A. 16-204(a), and
+18 amendments thereto. At the request of the board, delinquent payments that
+19 are due or interest owed on such payments, or both, may be deducted from
+20 any other moneys payable to such employer by any department or agency
+21 of the state.
+22 Sec. 17. K.S.A. 2024 Supp. 74-4920 is hereby repealed.
+23 Sec. 18. This act shall take effect and be in force from and after its
+24 publication in the statute book.
+[DELETED: Aes rt s; eg te Ks rirs rd t; pg fr te pn dmp e, b, c, ds apcpp0a1e2K4B5N6a7r8e9(0o1m2m3e4(5K6a7e8K9(0K1e2f3m4s5N6u]
+[DELETED: 2a(a(e pn m" or "n m" ms a Krb(tsm pt to te ps of K. 71 et s, a0a1(2K344p5a6e7(8K9(041a2(3J4o5(6t7(829(0a1(2(s nt bn an ee in a cd pn of a3p4p5(6as be Jy 1, 2, ad wo is an ed by a7p8(9a0(e nd m" ms a mr wo h1t2h3(]
+[DELETED: 2t(irNroom0a fl cr of et ad to mt pg e1o2t3te pn in an to sl s, pl ss ad o4r5p6m7p8a9f0e1e2o3t4(5p6wh sn 47 of te fl il re c. D7c8f9i0o1s2re ce fr te ee bt of ps ad t3b4p5a6a7t8s9t0b1K. 77 th 7, ad as t, t2i3p]
+[DELETED: 2(faqapypa0(1i2i3p4a5s, pt et s, cs s6p7a8(9a0m1a2a3t4b5(6i7e8r9s0as a mr of le dn ad st to te g1p2(3a4s5m6t7s8b9i0s1w2o3(]
+[DELETED: 2trss(soo(0l1i2(3q4t5K6a7t8p9b0a1N2c3t4i5N6p7m8m9K0w1e2(3d4d5a6o7e8(9f0(1p2(3o]
+[DELETED: 2ss(p(ms cd se ad fr al ee ad ecsd021c2c3b4l5r677t8s9p0p1a2a3(4r5e6i7(8r9t0o1s2(3s4b5m6t7(8m9r0o1p2(3r]
+[DELETED: 2he(ree cs me dg te 3y en wipEc0c1(2e3ee cs me dg te 3y en w4i5p6E7c8a9N0t1t2i3N4ms my cn at is te m5c6d7(s t t s 8dd cn at is te ms e9c0d1( Ks rt t d ss pn m2e3t4a5i6(s t t s 7r8p9c0c1(2e3m]
+[DELETED: 2iNsm(iy ce 1% of cn to te ms dcbm0A1s243s445(6t7f8c9s0(1p2s3cn pn in ae wh ts at ad te a4p5(6t7(s 8c9(0er cn at if sh mr cs 1% o1c2c3t4(5e6l7c8m9d0t1a2m3c]
+[DELETED: 2(trse. Te bd my ue fs to re te ecNst0t1o2b3a4t5i6(7(8(9(0(1(2t3(4i5a6(7p8s9p, te pe of te le cn sk i0i1d2s3s4(5i6r7i8(9i0i1e2i3d]
+[DELETED: 21ss(ire(a po dd to re te pe of te ix is0p1f2d3a4(5m6m7t8(9b0(1r2t3to al pn ms an ec ms fr it a4e5vs it as rd to in ts sn sl b6p7t8p910a1N2t3w4a5p6dt l l 7r8(9(0(1b2(31]
+[DELETED: 21Npvd() (r tn of se ad un fg a waow(0(1(2(3(4(5l6(0/ 7a8m9e0a1(2w3il re ce ad ae ur K. 7, a4a5(6p7w8N9p0a1m2b3N4r5b6N7m8ms of te dd bt pn ur K. 7, a9a0N1p2s3a]
+[DELETED: 21sdteSfatd0o1o2c3p4t5d6m7e8cf 9a071o2(3t4c5t6sh er an ay dd ee of te re o7c8a9e0a1c2a3p4t5d6b7(8a9h0d1s2t3l]
+[DELETED: 21e(rbpfbpg er sl ae ad py sh cc0p1a2(3b4t5b6a7(8s9b0(1e2w3a4i5p6b7m8c9u0l1s2t3c4K5t6p7s8d9i0a1f2t3f]
+[DELETED: 21m(pd in ts sn sl a dg te fl yr of tpt(cte0y1m2(3y4c5K6s7t8u9c0e1y2n3f4a5p627y8s9S0er 1f2c3c4f5c6a7p8(9c0t1s2c30]
+[DELETED: 21d(ycno et ed te cn re fr sh es fr tied as a pe of cn un wh mcc001f2m3(4t5y6n7f8a910J1i2s3t4(5e6e7K8c9u0r1(2t3a4c5(6s7as t, is gr tn te se er re o8c9t0s1as al er cs to te rt b2a34]
+[DELETED: 21(tv(avT4(0l1K2e3t4s5s6t7b8(9c0t1t2a3e4(e ct of te pt bt pt p5p6f7i8c9(0K1a2t314(e ct of te pt bt pt p5p6f7i8c9(0K1a2t31]
+[DELETED: 21(rfKf(am(0p1p2t3f4r5a6p7ed fr it on js ur K. 1, a8a9a0a1o2S3S4p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 282
+By Committee on Assessment and Taxation
+2-28
+1 AN ACT concerning retirement and pensions; relating to the Kansas public
+2 employees retirement system; enacting the Kansas retirement
+3 investment and savings plan act; establishing terms, conditions and
+4 requirements related thereto; providing for the plan document,
+5 membership elections, benefits, contributions, distributions and
+6 prospective plan changes by the legislature; authorizing an employer
+7 contribution rate to amortize the actuarial costs of the defined benefit
+8 plan; directing the pooled money investment board to loan moneys to
+9 provide startup and related administrative costs of the plan upon
+10 approval of the state finance council; creating the Kansas public
+11 employees retirement system defined contribution fund; amending
+12 K.S.A. 2024 Supp. 74-4920 and repealing the existing section.
+13
+14 Be it enacted by the Legislature of the State of Kansas:
+15 New Section 1. (a) The provisions of sections 1 through 15, and
+16 amendments thereto, shall be known and may be cited as the Kansas
+17 retirement investment and savings plan act (KRISP). Such act shall be
+18 effective on and after July 1, 2027.
+19 (b) Any employee who is first employed by a participating employer
+20 on or after July 1, 2027, and who elects to participate in the plan or fails to
+21 make an election pursuant to section 5, and amendments thereto, shall be a
+22 member of the plan under the provisions of this act as of the first day of
+23 employment of such employee with such participating employer.
+24 (c) (1) The provisions of this act shall not apply to members of the
+25 Kansas police and firemen's retirement system, K.S.A. 74-4951 et seq.,
+26 and amendments thereto, the retirement system for judges, K.S.A. 20-2601
+27 et seq., and amendments thereto, and security officers as provided in
+28 K.S.A. 74-4914a, and amendments thereto.
+29 (2) The provisions of this act shall not apply to members of the
+30 Kansas public employees retirement system as provided in K.S.A. 74-4901
+31 et seq., 74-49,201 et seq., and 74-49,301 et seq., and amendments thereto,
+32 first employed by a participating employer prior to July 1, 2027, except for
+33 members who elect to participate in the Kansas retirement investment and
+34 savings plan pursuant to section 5, and amendments thereto.
+35 New Sec. 2. Unless the context requires otherwise, terms that are
+36 used in this act have the meanings set forth in K.S.A. 74-4902, and
+
+SB 282 2
+1 amendments thereto, and the following definitions apply:
+2 (a) "Act" means the Kansas retirement investment and savings plan
+3 act, sections 1 through 15, and amendments thereto;
+4 (b) "active plan member" or "plan member" means a Kansas
+5 retirement investment and savings plan member who is actively employed
+6 by a participating employer;
+7 (c) "covered position" means a position with an affiliated employer
+8 that is eligible for membership in the Kansas public employees retirement
+9 system pursuant to the provisions of K.S.A. 74-4901 et seq., and
+10 amendments thereto;
+11 (d) "defined benefit plan" means the defined benefit plan for the
+12 Kansas public employees retirement system, K.S.A. 74-4901 et seq., 74-
+13 49,201 et seq. and 74-49,301 et seq., and amendments thereto, the Kansas
+14 police and firemen's retirement system, K.S.A. 74-4951 et seq., and
+15 amendments thereto, and the retirement system for judges, K.S.A. 20-2601
+16 et seq., and amendments thereto;
+17 (e) "deferred compensation plan" means the same as defined in
+18 K.S.A. 74-49b08, and amendments thereto;
+19 (f) "employee" means the same as defined in K.S.A. 74-4902 and 74-
+20 4932, and amendments thereto, except that the provisions of this act shall
+21 apply only to employees who:
+22 (1) (A) Are first employed by a participating employer on or after
+23 July 1, 2027, or are employees of a participating employer that affiliates on
+24 or after July 1, 2027; and
+25 (B) elect to participate in the plan or fail to make an election pursuant
+26 to section 5(a)(1), and amendments thereto; or
+27 (2) (A) are first employed by a participating employer prior to July 1,
+28 2027; and
+29 (B) elect to become a member of the plan pursuant to section 5(a)(2),
+30 and amendments thereto;
+31 (g) "first employed" means an employee who:
+32 (1) Has not been an employee in a covered position of any
+33 participating employer prior to July 1, 2027, and is employed by a
+34 participating employer in a covered position on or after July 1, 2027;
+35 (2) is a former member of the system who withdrew contribution
+36 accounts before July 1, 2027, and who is again employed by a
+37 participating employer in a covered position on or after July 1, 2027; or
+38 (3) was an inactive nonvested member and who is again employed by
+39 a participating employer in a covered position on or after July 1, 2027;
+40 (h) "inactive nonvested member" means a member who has
+41 terminated employment with a participating employer and who does not
+42 have a vested retirement benefit in the system on July 1, 2027;
+43 (i) "plan" or "Kansas retirement investment and savings plan" means
+
+SB 282 3
+1 the plan established by section 3, and amendments thereto; and
+2 (j) "qualified Roth contribution program" means a program described
+3 in section 402A(b)(1) of the federal internal revenue code that meets the
+4 requirements of section 402A(b)(2) of the federal internal revenue code.
+5 New Sec. 3. (a) (1) The board shall establish a separate Kansas
+6 retirement investment and savings plan in accordance with the provisions
+7 of this act. The plan and related trust shall be established with the primary
+8 objective of providing a share of the retirement income needed to replace a
+9 member's preretirement standard of living throughout retirement following
+10 a full career of employment and to meet participating employers'
+11 objectives for recruiting and retaining qualified employees. Maintaining
+12 the member's standard of living in retirement shall include income from
+13 the plan in addition to social security, personal savings and other
+14 retirement arrangements including from nonparticipating employers. The
+15 plan shall be established as a pension plan for the exclusive benefit of
+16 members and their beneficiaries and as a qualified governmental plan
+17 pursuant to sections 401(a) and 414(d) of the federal internal revenue code
+18 and its implementing regulations. Retirement accounts shall be established
+19 for each plan member. Assets of the plan shall be held in trust for the
+20 exclusive benefit of participants and their beneficiaries. The plan is
+21 established in addition to any retirement, pension, deferred compensation
+22 or other benefit plan administered by the state or a political subdivision
+23 thereof.
+24 (2) As a component of the Kansas retirement investment and savings
+25 plan, the board shall establish a deferred compensation plan in accordance
+26 with section 457 of the federal internal revenue code. Deferred
+27 compensation accounts shall be established for each plan member to allow
+28 for additional elective contributions by members of the Kansas retirement
+29 investment and savings plan. All moneys deferred, transferred or rolled
+30 over in accordance with the provisions of the deferred compensation plan
+31 shall be held in trust in accordance with section 457 of the federal internal
+32 revenue code for the exclusive benefit of participants and their
+33 beneficiaries. All employees subject to the provisions of this act shall
+34 participate in the deferred compensation plan unless an employee elects, in
+35 a manner prescribed by the board, not to participate in such plan. Any
+36 amount of the member's salary or compensation that is deferred on a pre-
+37 tax basis shall not be subject to state income taxes for the year in which
+38 such sum is contributed but shall be subject to applicable state income
+39 taxes for the year in which distributions are received by the member. The
+40 board may utilize the Kansas public employees deferred compensation act,
+41 K.S.A. 74-49b07 through 74-49b15, and amendments thereto, to
+42 implement the provisions of this act solely or as one of two or more 457
+43 plans.
+
+SB 282 4
+1 (3) The board shall establish a qualified Roth contribution program
+2 for members in both the Kansas retirement investment and savings plan
+3 and the deferred compensation plan. Any amounts contributed to a
+4 qualified Roth contribution program shall be subject to state withholding
+5 and income taxes for the year in which such sum is contributed to the
+6 program but shall not be subject to applicable state income taxes for the
+7 year in which distributions are received by the member, unless the
+8 provisions of article 32 of chapter 79 of the Kansas Statutes Annotated,
+9 and amendments thereto, provide otherwise.
+10 (b) The board may enter into agreements with approved insurers,
+11 investment managers or other contracting parties whereby benefits or
+12 investment services under the Kansas retirement investment and savings
+13 plan would be made available to participants. The board may enter into an
+14 agreement with one or more qualified private firms for consolidated billing
+15 services, participant enrollment services, communications services,
+16 participant account recordkeeping services and other services related to the
+17 administration of the Kansas retirement investment and savings plan.
+18 (c) No significant costs shall be incurred by the state as a result of the
+19 administration of this act unless such costs are recovered by the following
+20 means: (1) A service charge collected from all participants; or (2) credit
+21 allowances or reimbursement of specified plan expenses as provided under
+22 agreements with one or more qualified private firms entered into pursuant
+23 to subsection (b). The amount of any such significant costs incurred and to
+24 be recovered by the state shall be determined by the board.
+25 (d) (1) Subject to the provisions of this section, the pooled money
+26 investment board is authorized and directed to loan to the Kansas public
+27 employees retirement system sufficient moneys to provide startup and
+28 related administrative costs of this act upon approval of such loan by the
+29 state finance council acting on this matter, which is hereby characterized
+30 as a matter of legislative delegation and subject to the guidelines
+31 prescribed in K.S.A. 75-3711c(c), and amendments thereto.
+32 (2) No loan shall be made unless the terms thereof have been
+33 approved by the director of the budget. A copy of the terms of the loan
+34 shall be submitted to the director of legislative research. The pooled
+35 money investment board is authorized and directed to use any moneys in
+36 the operating accounts, investment accounts or other investments of the
+37 state of Kansas to provide the funds for such loan. Each such loan shall
+38 bear interest at a rate equal to the net earnings rate of the pooled money
+39 investment portfolio at the time of the making of such loan. Such loan
+40 shall not be deemed to be an indebtedness or debt of the state of Kansas
+41 within the meaning of section 6 of article 11 of the constitution of the state
+42 of Kansas.
+43 (3) Upon certification of the amount of each loan authorized pursuant
+
+SB 282 5
+1 to this subsection to the executive director of the Kansas public employees
+2 retirement system, the pooled money investment board shall transfer each
+3 such amount from the state bank account or accounts prescribed in this
+4 subsection to the Kansas public employees retirement fund.
+5 (4) The principal and interest of each loan authorized pursuant to this
+6 subsection shall be repaid in payments payable on or before June 30, 2030,
+7 or June 30 of each subsequent year in which a loan to the system has
+8 occurred pursuant to this section.
+9 (5) The board of trustees shall report annually on the status of any
+10 loan made pursuant to this section to the joint committee on pensions,
+11 investments and benefits.
+12 (e) The board is authorized to negotiate and enter into contracts with
+13 qualified insurers, investment managers and other contracting parties for
+14 the purposes of implementing and providing essential services for the
+15 Kansas retirement investment and savings plan, including acquisition of
+16 actuarial, investment, consulting, auditing and other services necessary
+17 therefor. Contracts entered into under this act shall be subject to the
+18 provisions of K.S.A. 74-4909(15), and amendments thereto, and shall not
+19 be negotiated in accordance with the provisions of K.S.A. 75-37,102, and
+20 amendments thereto, or K.S.A. 75-37,132, and amendments thereto.
+21 New Sec. 4. The legislature may, from time to time, prospectively
+22 change the statutory provisions governing the plan and expressly reserve
+23 the right to do so. The state of Kansas shall not be responsible for any loss
+24 incurred by any member under the plan established pursuant to this act.
+25 New Sec. 5. (a) (1) An employee who is first employed by a
+26 participating employer on or after July 1, 2027, may elect to become a
+27 member of the Kansas retirement investment and savings plan or a
+28 member of the Kansas public employees retirement system act of 2015,
+29 K.S.A. 74-49,301 et seq., and amendments thereto, by making an election
+30 within 30 days from the first day of employment with a participating
+31 employer.
+32 (2) Except as otherwise provided in this act, an active member of the
+33 defined benefit plan on July 1, 2027, or an inactive vested member of the
+34 defined benefit plan who is again employed by a participating employer in
+35 a covered position on or after July 1, 2027, may elect to become a member
+36 of the Kansas retirement investment and savings plan by making an
+37 election within a 30-day period established by the board.
+38 (b) (1) Elections made pursuant to this section shall be made on a
+39 form and in a manner prescribed by the board.
+40 (2) (A) A defined benefit plan member failing to make an election
+41 prescribed by this section remains a member of the defined benefit plan.
+42 (B) An employee who is first employed by a participating employer
+43 on or after July 1, 2027, failing to make an election prescribed by this
+
+SB 282 6
+1 section shall become a member of the Kansas retirement investment and
+2 savings plan under the provisions of this act.
+3 (3) An election under this section, including the default election
+4 pursuant to subsection (b)(2), is a one-time irrevocable election.
+5 (4) Any election made pursuant to this section is for all of such
+6 member's credited service and for all employee and employer
+7 contributions. An election to become a Kansas retirement investment and
+8 savings plan member permanently terminates active membership in the
+9 defined benefit plan and the service of such member on and after July 1,
+10 2027, in the Kansas retirement investment and savings plan shall not be
+11 credited for the purposes of the defined benefit plan. The system shall
+12 calculate the actuarial present value of such member's accrued retirement
+13 benefit for all credited service prior to July 1, 2027, and shall transfer a
+14 lump-sum amount equal to such actuarial present value to such member's
+15 rollover account. For members of the defined benefit plan under K.S.A.
+16 74-49,301 et seq., and amendment thereto, the amount transferred shall be
+17 the greater of: (A) An amount equal to the value of the member's annuity
+18 savings account and retirement annuity account; or (B) the actuarial
+19 present value of such member's accrued retirement benefit. The actuarial
+20 present value shall be determined by the actuary using the actuarial
+21 assumptions and tables currently in use by the system and the member's
+22 attained age.
+23 (c) A member in either the defined benefit plan or the Kansas
+24 retirement investment and savings plan who becomes inactive after an
+25 election under this section and who returns to active membership remains
+26 in the plan previously elected.
+27 (d) A member of the defined benefit plan who is subject to a domestic
+28 relations order or an execution or income-withholding order may not
+29 transfer to the Kansas retirement investment and savings plan unless the
+30 order is modified to apply under the Kansas retirement investment and
+31 savings plan.
+32 (e) (1) A member of the defined benefit plan who is purchasing
+33 service credit through installment payments, either made directly to the
+34 board or pursuant to a payroll deduction agreement, shall not transfer
+35 membership to the Kansas retirement investment and savings plan unless
+36 the member first completes the contract for purchase of service credit.
+37 (2) A member who files an election to transfer membership may
+38 make a lump-sum payment for up to the balance of the service credit
+39 remaining to be purchased prior to transferring, subject to the limitations
+40 of section 415 of the federal internal revenue code. The lump-sum
+41 payment, unless made by a rollover, shall be made with after-tax dollars.
+42 (f) (1) Employee and employer contributions shall be made to the
+43 retirement system during any 30-day election window and the system shall
+
+SB 282 7
+1 hold such contributions until an election is made, including the default
+2 election.
+3 (2) If an employee elects to become a member of the Kansas
+4 retirement investment and savings plan pursuant to subsection (a)(1),
+5 employee contributions made during the 30-day election window,
+6 including any interest earnings thereon, shall be credited as soon as
+7 practicable by the system to the member's mandatory contribution account.
+8 Employer contributions made during the 30-day election window shall be
+9 credited as soon as practicable by the system to the member's employer
+10 contribution account.
+11 (3) If an employee elects to become a member of the Kansas public
+12 employees retirement system act of 2015 pursuant to subsection (a)(1),
+13 employee contributions made during the 30-day election window,
+14 including any interest earnings thereon, shall be credited as soon as
+15 practicable by the system to the member's annuity savings account.
+16 Employer contributions made during the 30-day election window shall be
+17 credited as soon as practicable by the system to the member's retirement
+18 annuity account.
+19 New Sec. 6. The board shall accept the rollover of contributions and
+20 the income on those contributions from another eligible retirement plan to
+21 the member's rollover account only to the extent allowed under the federal
+22 internal revenue code.
+23 New Sec. 7. (a) A Kansas retirement investment and savings plan
+24 member's mandatory contribution account includes the member's
+25 contributions and the income on those contributions and is vested from the
+26 date that the employee becomes a member of the plan.
+27 (b) A Kansas retirement investment and savings plan member's
+28 deferred compensation account includes the member's elective
+29 contributions and the income on those contributions and is vested from the
+30 date that the employee becomes a member of the plan.
+31 (c) A Kansas retirement investment and savings plan member's
+32 employer contribution account includes the employer's contributions and
+33 the income on those contributions and is vested only when the member has
+34 a total of five years of participating service in the Kansas retirement
+35 investment and savings plan.
+36 (d) A Kansas retirement investment and savings plan member's
+37 rollover account includes the member's rollovers of contributions made
+38 pursuant to section 5 or 6, and amendments thereto, and income on those
+39 contributions and are vested from the date that the contributions are
+40 credited to the account.
+41 (e) If the Kansas retirement investment and savings plan member's
+42 employer contribution account is not vested upon termination of plan
+43 membership, as provided in this section, the employer contributions and
+
+SB 282 8
+1 income are forfeited as provided in section 8, and amendments thereto.
+2 New Sec. 8. (a) (1) An active Kansas retirement investment and
+3 savings plan member shall contribute 6% of compensation to the member's
+4 mandatory contribution account.
+5 (2) Except as provided in subsection (d), an active plan member shall
+6 initially contribute 1% of compensation to the member's deferred
+7 compensation account and such contribution rate shall increase annually
+8 by 1% of the active plan member's compensation until such active plan
+9 member reaches a maximum contribution rate of 10% of compensation.
+10 All contributions to a member's deferred compensation account under this
+11 section shall be subject to the contribution limits under sections 415 and
+12 457 of the federal internal revenue code. The board may implement this
+13 subsection as an eligible automatic contribution arrangement under section
+14 414(w) of the federal internal revenue code.
+15 (b) (1) All contributions under subsection (a)(1) shall be picked up by
+16 the employer via a salary reduction as provided in section 414(h)(2) of the
+17 federal internal revenue code. An employer shall not pick up such
+18 contributions without a corresponding salary reduction as provided in
+19 section 414(h)(2) of the federal internal revenue code.
+20 (2) Each participating employer shall establish a system of regular
+21 payroll deductions to defer each payroll period the amounts from the
+22 salary or compensation of each employee who is a member of the deferred
+23 compensation plan in accordance with this act and the applicable
+24 provisions of the federal internal revenue code.
+25 (c) An active plan member's participating employer shall contribute
+26 the following to each member's employer contribution account:
+27 (1) 4% of compensation to the active plan member's employer
+28 contribution account; and
+29 (2) an additional 0.5% of compensation to the active plan member's
+30 employer contribution account if such member contributes 1% of
+31 compensation to the deferred compensation plan or an additional 1% of
+32 compensation if such member contributes 2% or more of compensation to
+33 the deferred compensation plan.
+34 (d) An active plan member shall be permitted to adjust the amount of
+35 elective contributions to such member's deferred compensation account at
+36 least annually or on a more frequent basis as established by the board. All
+37 contribution elections shall be made in 1% increments. An active plan
+38 member shall be permitted to stop making contributions to such member's
+39 deferred compensation account. An active plan member shall be permitted
+40 to resume making contributions to such member's deferred compensation
+41 account following any previous stoppage. The board shall develop and
+42 make available to all plan members an electronic means for making
+43 contribution elections to a member's deferred compensation account.
+
+SB 282 9
+1 (e) Forfeitures of employer contributions and investment income on
+2 the employer contributions may not be used to increase a plan member's
+3 retirement account. The board shall allocate the forfeitures under this
+4 section to meet the plan's administrative expenses, including startup
+5 expenses. The board may use forfeitures to reduce the employer
+6 contribution obligation once expenses are met.
+7 New Sec. 9. (a) (1) The board shall create an investment policy
+8 structured to meet the primary objective of providing a share, in addition
+9 to social security, personal savings and other retirement arrangements, of
+10 the retirement income needed to replace a member's preretirement standard
+11 of living throughout retirement following a full career of employment. The
+12 board shall require in any agreement with entities pursuant to section 3,
+13 and amendments thereto, that the following investment alternatives under
+14 the Kansas retirement investment and savings plan are offered to members,
+15 including, but not limited to:
+16 (A) A government securities investment fund;
+17 (B) a fixed income index investment fund;
+18 (C) a common stock index investment fund;
+19 (D) a small capitalization stock index investment fund;
+20 (E) an international stock index investment fund; and
+21 (F) hybrid funds mixing and matching various investment funds,
+22 tailored to projected retirement years.
+23 (2) (A) The board shall select an index that is a commonly recognized
+24 index comprised of common stock the aggregate market value of which is
+25 a reasonably complete representation of the United States equity markets.
+26 (B) The common stock index investment fund shall be invested in a
+27 portfolio designed to replicate the performance of the index selected under
+28 subparagraph (A). The portfolio shall be designed such that, to the extent
+29 practicable, the percentage of the large capitalization stock index
+30 investment fund that is invested in each stock is the same as the percentage
+31 determined by dividing the aggregate market value of all shares of that
+32 stock by the aggregate market value of all shares of all stocks included in
+33 such index.
+34 (3) (A) The board shall select an index that is a commonly recognized
+35 index comprised of common stock, the aggregate market value of which
+36 represents the United States equity markets excluding the common stocks
+37 included in the common stock index investment fund.
+38 (B) The small capitalization stock index investment fund shall be
+39 invested in a portfolio designed to replicate the performance of the index
+40 in subparagraph (A). The portfolio shall be designed such that, to the
+41 extent practicable, the percentage of the small capitalization stock index
+42 investment fund that is invested in each stock is the same as the percentage
+43 determined by dividing the aggregate market value of all shares of that
+
+SB 282 10
+1 stock by the aggregate market value of all shares of all stocks included in
+2 such index.
+3 (4) (A) The board shall select an index that is a commonly recognized
+4 index comprised of stock, the aggregate market value of which is a
+5 reasonably complete representation of the international equity markets
+6 excluding the United States equity markets.
+7 (B) The international stock index investment fund shall be invested in
+8 a portfolio designed to replicate the performance of the index in
+9 subparagraph (A). The portfolio shall be designed such that, to the extent
+10 practicable, the percentage of the international stock index investment
+11 fund that is invested in each stock is the same percentage determined by
+12 dividing the aggregate market value of all shares of that stock by the
+13 aggregate market value of all shares of all stocks included in such index.
+14 (b) The board shall establish a default investment option for any plan
+15 member who does not have an effective investment direction. The board
+16 may utilize a hybrid investment fund established pursuant to this section as
+17 the default investment fund.
+18 (c) Assets within each member's account shall be invested as directed
+19 by the member within the investment alternatives established by the board.
+20 (d) A plan member may elect the investment funds and alternatives
+21 referred to in this section into which the sums in the member's accounts are
+22 to be invested or reinvested. The board shall develop and make available
+23 to all plan members an electronic means for investment allocation
+24 elections. Elections to allocate existing account balances among the
+25 various investment alternatives referred to in this section shall be
+26 permitted on a daily basis. Elections to allocate future contributions among
+27 the various investment alternatives referred to in this section shall be
+28 permitted on a monthly basis. All investment elections shall be made in
+29 1% increments. The sum of the percentages elected for all investment
+30 alternatives shall equal 100%.
+31 New Sec. 10. Any time after termination of service, a plan member or
+32 the plan member's beneficiary may terminate plan membership by filing a
+33 written application with the board and removing the plan member's vested
+34 account balance from the plan through any combination of the following
+35 payout options, each of which is subject to the provisions of the plan
+36 document and the federal internal revenue code and the applicable
+37 regulations of the federal internal revenue service:
+38 (a) A direct rollover to an eligible retirement plan;
+39 (b) an indirect rollover to an eligible retirement plan;
+40 (c) a lump-sum distribution of the plan member's vested account
+41 balance; or
+42 (d) an optional form of distribution offered by the board under section
+43 11, and amendments thereto.
+
+SB 282 11
+1 New Sec. 11. (a) Subject to the provisions of the plan document, a
+2 plan member, after termination of service, may leave the plan member's
+3 vested account balance in the plan, and the plan member is eligible for a
+4 distribution as provided in this section.
+5 (b) (1) After termination of service and upon filing a written
+6 application with the board, a plan member may select any distribution
+7 option provided by the plan document. The board shall make available
+8 within the plan lifetime annuity options from an insurer, including:
+9 (A) Single-life;
+10 (B) joint and survivor;
+11 (C) period certain;
+12 (D) qualified longevity annuity contracts; and
+13 (E) other annuity forms as the board may choose to provide.
+14 (2) The board shall create a default distribution option using a
+15 lifetime annuity form.
+16 (c) A plan member who is less than 65 years of age, or 701/ years of
+2
+17 age if the member was born before July 1, 1949, who returns to service
+18 may not continue to receive a distribution under this section while actively
+19 employed in a covered position except as may otherwise be required under
+20 an applicable annuity contract provided under the plan.
+21 (d) The plan document shall provide that distributions shall comply
+22 with the minimum distribution requirements established in the federal
+23 internal revenue code and applicable under K.S.A. 74-49,123, and
+24 amendments thereto.
+25 (e) The plan document may specify minimum account balances for
+26 purposes of allowing benefit payment options and rollovers in accordance
+27 with the federal internal revenue code.
+28 New Sec. 12. A plan member's beneficiary shall be determined as
+29 provided in the defined benefit plan regulations. Upon filing a written
+30 application with the board after the death of a plan member, the plan
+31 member's beneficiary is entitled to the plan member's vested account
+32 balance.
+33 New Sec. 13. Before termination of service, a plan member shall not
+34 receive a refund of any portion of the plan member's vested account
+35 balance.
+36 New Sec. 14. A Kansas retirement investment and savings plan
+37 member shall be eligible for death and disability benefits provided to
+38 members of the defined benefit plan under K.S.A. 74-4927, and
+39 amendments thereto.
+40 New Sec. 15. There is hereby created in the state treasury the Kansas
+41 public employees retirement system defined contribution fund. The fund
+42 shall be administered by the Kansas public employees retirement system in
+43 accordance with the provisions of this act. All expenditures from the fund
+
+SB 282 12
+1 shall be made in accordance with appropriation acts upon warrants of the
+2 director of accounts and reports issued pursuant to vouchers approved by
+3 the chairperson of the board, the executive director of the system or the
+4 executive director's designee.
+5 Sec. 16. K.S.A. 2024 Supp. 74-4920 is hereby amended to read as
+6 follows: 74-4920. (1) (a) Upon the basis of each annual actuarial valuation
+7 and appraisal as provided for in K.S.A. 74-4908(3)(a), and amendments
+8 thereto, the board shall certify, on or before July 15 of each year, to the
+9 division of the budget in the case of the state and to the agent for each
+10 other participating employer an actuarially determined estimate of the rate
+11 of contribution that will be required, together with all accumulated
+12 contributions and other assets of the system, to be paid by each such
+13 participating employer to pay all liabilities that shall exist or accrue under
+14 the system, including amortization of the actuarial accrued liability as
+15 determined by the board. The board shall determine the actuarial cost
+16 method to be used in annual actuarial valuations, to determine the
+17 employer contribution rates that shall be certified by the board. Such
+18 certified rate of contribution, amortization methods and periods and
+19 actuarial cost method shall be based on the standards set forth in K.S.A.
+20 74-4908(3)(a), and amendments thereto, and shall not be based on any
+21 other purpose outside of the needs of the system.
+22 (b) (i) For employers affiliating on and after January 1, 1999, upon
+23 the basis of an annual actuarial valuation and appraisal of the system
+24 conducted in the manner provided for in K.S.A. 74-4908, and amendments
+25 thereto, the board shall certify, on or before July 15 of each year to each
+26 such employer an actuarially determined estimate of the rate of
+27 contribution that shall be required to be paid by each such employer to pay
+28 all of the liabilities that shall accrue under the system from and after the
+29 entry date as determined by the board, upon recommendation of the
+30 actuary. Such rate shall be termed the employer's participating service
+31 contribution and shall be uniform for all participating employers. Such
+32 additional liability shall be amortized as determined by the board. For all
+33 participating employers described in this section, the board shall determine
+34 the actuarial cost method to be used in annual actuarial valuations to
+35 determine the employer contribution rates that shall be certified by the
+36 board.
+37 (ii) The board shall determine for each such employer separately an
+38 amount sufficient to amortize all liabilities for prior service costs that shall
+39 have accrued at the time of entry into the system. On the basis of such
+40 determination the board shall annually certify to each such employer
+41 separately an actuarially determined estimate of the rate of contribution
+42 that shall be required to be paid by that employer to pay all of the
+43 liabilities for such prior service costs. Such rate shall be termed the
+
+SB 282 13
+1 employer's prior service contribution.
+2 (c) On and after July 1, 2027, the board shall certify a contribution
+3 rate required to amortize the unfunded actuarial liability of the defined
+4 benefit plan. Such certified rate of contribution, amortization methods,
+5 periods and actuarial cost method shall be based on the standards set
+6 forth in K.S.A. 74-4908(3)(a), and amendments thereto, and shall not be
+7 based on any other purpose outside of the needs of the system. Each
+8 participating employer shall appropriate and pay such certified
+9 contribution rate as applied to the total compensation of employees
+10 participating in the Kansas retirement investment and savings plan act
+11 and the defined benefit plan.
+12 (2) The division of the budget and the governor shall include in the
+13 budget and in the budget request for appropriations for personal services
+14 the sum required to satisfy the state's obligation under this act as certified
+15 by the board and shall present the same to the legislature for allowance and
+16 appropriation.
+17 (3) Each other participating employer shall appropriate and pay to the
+18 system a sum sufficient to satisfy the obligation under this act as certified
+19 by the board.
+20 (4) Each participating employer is hereby authorized to pay the
+21 employer's contribution from the same fund that the compensation for
+22 which such contribution is made is paid from or from any other funds
+23 available to it for such purpose. Each political subdivision, other than an
+24 instrumentality of the state, that is by law authorized to levy taxes for other
+25 purposes, may levy annually at the time of its levy of taxes, a tax that may
+26 be in addition to all other taxes authorized by law for the purpose of
+27 making its contributions under this act and, in the case of cities and
+28 counties, to pay a portion of the principal and interest on bonds issued
+29 under the authority of K.S.A. 12-1774, and amendments thereto, by cities
+30 located in the county, which tax, together with any other fund available,
+31 shall be sufficient to enable it to make such contribution. In lieu of levying
+32 the tax authorized in this subsection, any taxing subdivision may pay such
+33 costs from any employee benefits contribution fund established pursuant to
+34 K.S.A. 12-16,102, and amendments thereto. Each participating employer
+35 that is not by law authorized to levy taxes as described above, but that
+36 prepares a budget for its expenses for the ensuing year and presents the
+37 same to a governing body that is authorized by law to levy taxes as
+38 described above, may include in its budget an amount sufficient to make
+39 its contributions under this act, which may be in addition to all other taxes
+40 authorized by law. Such governing body to which the budget is submitted
+41 for approval, may levy a tax sufficient to allow the participating employer
+42 to make its contributions under this act, which tax, together with any other
+43 fund available, shall be sufficient to enable the participating employer to
+
+SB 282 14
+1 make the contributions required by this act.
+2 (5) (a) The rate of contribution certified to a participating employer as
+3 provided in this section shall apply during the fiscal year of the
+4 participating employer that begins in the second calendar year following
+5 the year of the actuarial valuation.
+6 (b) (i) Except as specifically provided in this section, for fiscal years
+7 commencing in calendar year 1996 and in each subsequent calendar year,
+8 the rate of contribution certified to the state of Kansas shall in no event
+9 exceed the state's contribution rate for the immediately preceding fiscal
+10 year by more than 0.2% of the amount of compensation upon which
+11 members contribute during the period.
+12 (ii) Except as specifically provided in this subsection, for the fiscal
+13 years commencing in the following calendar years, the rate of contribution
+14 certified to the state of Kansas and to the participating employers under
+15 K.S.A. 74-4931, and amendments thereto, shall in no event exceed the
+16 state's contribution rate for the immediately preceding fiscal year by more
+17 than the following amounts expressed as a percentage of compensation
+18 upon which members contribute during the period: (A) For the fiscal year
+19 commencing in calendar years 2010 through 2012, an amount not to
+20 exceed more than 0.6% of the amount of the immediately preceding fiscal
+21 year; (B) for the fiscal year commencing in calendar year 2013, an amount
+22 not to exceed more than 0.9% of the amount of the immediately preceding
+23 fiscal year; (C) for the fiscal year commencing in calendar year 2014, an
+24 amount not to exceed more than 1% of the amount of the immediately
+25 preceding fiscal year; (D) for the fiscal year commencing in calendar year
+26 2015, the employer rate of contribution shall be 10.91%; (E) for the fiscal
+27 year commencing in calendar year 2016, the employer rate of contribution
+28 shall be 10.81%, except as provided by section 37(b) of chapter 54 of 2017
+29 Session Laws of Kansas, and amendments thereto, for the participating
+30 employers under K.S.A. 74-4931, and amendments thereto; (F) for the
+31 fiscal year commencing in calendar year 2017, the employer rate of
+32 contribution shall be 12.01%; (G) for the fiscal year commencing in
+33 calendar year 2021, the employer rate of contribution shall be 13.33%; (H)
+34 for the fiscal year commencing in calendar year 2022, the employer rate of
+35 contribution shall be 13.11%; and (I) in each subsequent calendar year, an
+36 amount not to exceed more than 1.2% of the amount of the immediately
+37 preceding fiscal year.
+38 (iii) Except as specifically provided in this section, for fiscal years
+39 commencing in calendar year 1997 and in each subsequent calendar year,
+40 the rate of contribution certified to participating employers other than the
+41 state of Kansas shall in no event exceed such participating employer's
+42 contribution rate for the immediately preceding fiscal year by more than
+43 0.15% of the amount of compensation upon which members contribute
+
+SB 282 15
+1 during the period.
+2 (iv) Except as specifically provided in this subsection, for the fiscal
+3 years commencing in the following calendar years, the rate of contribution
+4 certified to participating employers other than the state of Kansas shall in
+5 no event exceed the contribution rate for such employers for the
+6 immediately preceding fiscal year by more than the following amounts
+7 expressed as a percentage of compensation upon which members
+8 contribute during the period: (A) For the fiscal year commencing in
+9 calendar years 2010 through 2013, an amount not to exceed more than
+10 0.6% of the amount of the immediately preceding fiscal year; (B) for the
+11 fiscal year commencing in calendar year 2014, an amount not to exceed
+12 more than 0.9% of the amount of the immediately preceding fiscal year;
+13 (C) for the fiscal year commencing in calendar year 2015, an amount not
+14 to exceed more than 1% of the amount of the immediately preceding fiscal
+15 year; (D) for the fiscal year commencing in calendar year 2016, an amount
+16 not to exceed more than 1.1% of the amount of the immediately preceding
+17 fiscal year; and (E) for the fiscal year commencing in calendar year 2017,
+18 and in each subsequent calendar year, an amount not to exceed more than
+19 1.2% of the amount of the immediately preceding fiscal year. On and after
+20 July 1, 2027, for the purposes of this section, member compensation shall
+21 include compensation of members of the Kansas retirement investment and
+22 savings plan established under sections 1 through 15, and amendments
+23 thereto.
+24 (v) As part of the annual actuarial valuation, there shall be a separate
+25 employer rate of contribution calculated for the state of Kansas, a separate
+26 employer rate of contribution calculated for participating employers under
+27 K.S.A. 74-4931, and amendments thereto, a combined employer rate of
+28 contribution calculated for the state of Kansas and participating employers
+29 under K.S.A. 74-4931, and amendments thereto, and a separate employer
+30 rate of contribution calculated for all other participating employers.
+31 (vi) There shall be a combined employer rate of contribution certified
+32 to the state of Kansas and participating employers under K.S.A. 74-4931,
+33 and amendments thereto. There shall be a separate employer rate of
+34 contribution certified to all other participating employers.
+35 (vii) If the combined employer rate of contribution calculated for the
+36 state of Kansas and participating employers under K.S.A. 74-4931, and
+37 amendments thereto, is greater than the separate employer rate of
+38 contribution for the state of Kansas, the difference in the two rates applied
+39 to the actual payroll of the state of Kansas for the applicable fiscal year
+40 shall be calculated. This amount shall be certified by the board for deposit
+41 as additional employer contributions to the retirement benefit
+42 accumulation reserve for the participating employers under K.S.A. 74-
+43 4931, and amendments thereto.
+
+SB 282 16
+1 (6) The actuarial cost of any legislation enacted in the 1994 session of
+2 the Kansas legislature will be included in the June 30, 1994, actuarial
+3 valuation in determining contribution rates for participating employers.
+4 (7) The actuarial cost of the provisions of K.S.A. 74-4950i, and
+5 amendments thereto, will be included in the June 30, 1998, actuarial
+6 valuation in determining contribution rates for participating employers.
+7 The actuarial accrued liability incurred for the provisions of K.S.A. 74-
+8 4950i, and amendments thereto, shall be amortized over 15 years.
+9 (8) Except as otherwise provided by law, the actuarial cost of any
+10 legislation enacted by the Kansas legislature, except the actuarial cost of
+11 K.S.A. 74-49,114a, and amendments thereto, shall be in addition to the
+12 employer contribution rates certified for the employer contribution rate in
+13 the fiscal year immediately following such enactment. Such actuarial cost
+14 shall be determined by the qualified actuary employed or retained by the
+15 system pursuant to K.S.A. 74-4908, and amendments thereto, and reported
+16 to the system and the joint committee on pensions, investments and
+17 benefits.
+18 (9) Notwithstanding the provisions of subsection (8), the actuarial
+19 cost of the provisions of K.S.A. 74-49,109 et seq., and amendments
+20 thereto, shall be first reflected in employer contribution rates effective with
+21 the first day of the first payroll period for the fiscal year 2005. The
+22 actuarial accrued liability incurred for the provisions of K.S.A. 74-49,109
+23 et seq., and amendments thereto, shall be amortized over 10 years.
+24 (10) The cost of the postretirement benefit payment provided
+25 pursuant to the provisions of K.S.A. 74-49,114b, and amendments thereto,
+26 for retirants other than local retirants as described in subsection (11) or
+27 insured disability benefit recipients shall be paid in the fiscal year
+28 commencing on July 1, 2007.
+29 (11) The actuarial accrued liability incurred for the provisions of
+30 K.S.A. 74-49,114b, and amendments thereto, for the KPERS local group
+31 and retirants who were employees of local employers that affiliated with
+32 the Kansas police and firemen's retirement system shall be amortized over
+33 10 years.
+34 (12) The cost of the postretirement benefit payment provided
+35 pursuant to the provisions of K.S.A. 74-49,114c, and amendments thereto,
+36 for retirants other than local retirants as described in subsection (13) or
+37 insured disability benefit recipients shall be paid in the fiscal year
+38 commencing on July 1, 2008.
+39 (13) The actuarial accrued liability incurred for the provisions of
+40 K.S.A. 74-49,114c, and amendments thereto, for the KPERS local group
+41 and retirants who were employees of local employers that affiliated with
+42 the Kansas police and firemen's retirement system shall be amortized over
+43 10 years.
+
+SB 282 17
+1 (14) The board with the advice of the actuary may fix the contribution
+2 rates for participating employers joining the system after one year from the
+3 first entry date or for employers who exercise the option contained in
+4 K.S.A. 74-4912, and amendments thereto, at rates different from the rate
+5 fixed for employers joining within one year of the first entry date.
+6 (15) Employer contributions shall in no way be limited by any other
+7 act that now or in the future establishes or limits the compensation of any
+8 member.
+9 (16) Notwithstanding any provision of law to the contrary, each
+10 participating employer shall remit quarterly, or as the board may otherwise
+11 provide, all employee deductions and required employer contributions to
+12 the executive director for credit to the Kansas public employees retirement
+13 fund within three days after the end of the period covered by the
+14 remittance by electronic funds transfer. Remittances of such deductions
+15 and contributions received after such date are delinquent. Delinquent
+16 payments due under this subsection shall be subject to interest at the rate
+17 established for interest on judgments under K.S.A. 16-204(a), and
+18 amendments thereto. At the request of the board, delinquent payments that
+19 are due or interest owed on such payments, or both, may be deducted from
+20 any other moneys payable to such employer by any department or agency
+21 of the state.
+22 Sec. 17. K.S.A. 2024 Supp. 74-4920 is hereby repealed.
+23 Sec. 18. This act shall take effect and be in force from and after its
+24 publication in the statute book.
+
+[DELETED: Aes rt s; eg te Ks rirs rd t; pg fr te pn dmp e, b, c, ds apcpp0a1e2K4B5N6a7r8e9(0o1m2m3e4(5K6a7e8K9(0K1e2f3m4s5N6u]
+[DELETED: 2a(a(e pn m" or "n m" ms a Krb(tsm pt to te ps of K. 71 et s, a0a1(2K344p5a6e7(8K9(041a2(3J4o5(6t7(829(0a1(2(s nt bn an ee in a cd pn of a3p4p5(6as be Jy 1, 2, ad wo is an ed by a7p8(9a0(e nd m" ms a mr wo h1t2h3(]
+[DELETED: 2t(irNroom0a fl cr of et ad to mt pg e1o2t3te pn in an to sl s, pl ss ad o4r5p6m7p8a9f0e1e2o3t4(5p6wh sn 47 of te fl il re c. D7c8f9i0o1s2re ce fr te ee bt of ps ad t3b4p5a6a7t8s9t0b1K. 77 th 7, ad as t, t2i3p]
+[DELETED: 2(faqapypa0(1i2i3p4a5s, pt et s, cs s6p7a8(9a0m1a2a3t4b5(6i7e8r9s0as a mr of le dn ad st to te g1p2(3a4s5m6t7s8b9i0s1w2o3(]
+[DELETED: 2trss(soo(0l1i2(3q4t5K6a7t8p9b0a1N2c3t4i5N6p7m8m9K0w1e2(3d4d5a6o7e8(9f0(1p2(3o]
+[DELETED: 2ss(p(ms cd se ad fr al ee ad ecsd021c2c3b4l5r677t8s9p0p1a2a3(4r5e6i7(8r9t0o1s2(3s4b5m6t7(8m9r0o1p2(3r]
+[DELETED: 2he(ree cs me dg te 3y en wipEc0c1(2e3ee cs me dg te 3y en w4i5p6E7c8a9N0t1t2i3N4ms my cn at is te m5c6d7(s t t s 8dd cn at is te ms e9c0d1( Ks rt t d ss pn m2e3t4a5i6(s t t s 7r8p9c0c1(2e3m]
+[DELETED: 2iNsm(iy ce 1% of cn to te ms dcbm0A1s243s445(6t7f8c9s0(1p2s3cn pn in ae wh ts at ad te a4p5(6t7(s 8c9(0er cn at if sh mr cs 1% o1c2c3t4(5e6l7c8m9d0t1a2m3c]
+[DELETED: 2(trse. Te bd my ue fs to re te ecNst0t1o2b3a4t5i6(7(8(9(0(1(2t3(4i5a6(7p8s9p, te pe of te le cn sk i0i1d2s3s4(5i6r7i8(9i0i1e2i3d]
+[DELETED: 21ss(ire(a po dd to re te pe of te ix is0p1f2d3a4(5m6m7t8(9b0(1r2t3to al pn ms an ec ms fr it a4e5vs it as rd to in ts sn sl b6p7t8p910a1N2t3w4a5p6dt l l 7r8(9(0(1b2(31]
+[DELETED: 21Npvd() (r tn of se ad un fg a waow(0(1(2(3(4(5l6(0/ 7a8m9e0a1(2w3il re ce ad ae ur K. 7, a4a5(6p7w8N9p0a1m2b3N4r5b6N7m8ms of te dd bt pn ur K. 7, a9a0N1p2s3a]
+[DELETED: 21sdteSfatd0o1o2c3p4t5d6m7e8cf 9a071o2(3t4c5t6sh er an ay dd ee of te re o7c8a9e0a1c2a3p4t5d6b7(8a9h0d1s2t3l]
+[DELETED: 21e(rbpfbpg er sl ae ad py sh cc0p1a2(3b4t5b6a7(8s9b0(1e2w3a4i5p6b7m8c9u0l1s2t3c4K5t6p7s8d9i0a1f2t3f]
+[DELETED: 21m(pd in ts sn sl a dg te fl yr of tpt(cte0y1m2(3y4c5K6s7t8u9c0e1y2n3f4a5p627y8s9S0er 1f2c3c4f5c6a7p8(9c0t1s2c30]
+[DELETED: 21d(ycno et ed te cn re fr sh es fr tied as a pe of cn un wh mcc001f2m3(4t5y6n7f8a910J1i2s3t4(5e6e7K8c9u0r1(2t3a4c5(6s7as t, is gr tn te se er re o8c9t0s1as al er cs to te rt b2a34]
+[DELETED: 21(tv(avT4(0l1K2e3t4s5s6t7b8(9c0t1t2a3e4(e ct of te pt bt pt p5p6f7i8c9(0K1a2t314(e ct of te pt bt pt p5p6f7i8c9(0K1a2t31]
+[DELETED: 21(rfKf(am(0p1p2t3f4r5a6p7ed fr it on js ur K. 1, a8a9a0a1o2S3S4p]

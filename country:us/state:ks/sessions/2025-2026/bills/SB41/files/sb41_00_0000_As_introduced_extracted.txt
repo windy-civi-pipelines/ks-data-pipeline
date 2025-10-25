@@ -1,0 +1,443 @@
+Title: SENATE BILL No. 41
+Official Title: SENATE BILL No. 41
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Public Health and Welfare
+1-21
+1 AN ACT concerning health and healthcare; relating to the healthcare
+2 provider insurance availability act; adding advanced practice registered
+3 nurse to the definition of healthcare provider; amending K.S.A. 40-
+4 3401 and repealing the existing section.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 Section 1. K.S.A. 40-3401 is hereby amended to read as follows: 40-
+8 3401. As used in this act:
+9 (a) "Applicant" means any healthcare provider.
+10 (b) "Basic coverage" means a policy of professional liability
+11 insurance required to be maintained by each healthcare provider pursuant
+12 to the provisions of K.S.A. 40-3402(a) or (b), and amendments thereto.
+13 (c) "Commissioner" means the commissioner of insurance.
+14 (d) "Fiscal year" means the year commencing on the effective date of
+15 this act and each year, commencing on the first day of July thereafter.
+16 (e) "Fund" means the healthcare stabilization fund established
+17 pursuant to K.S.A. 40-3403(a), and amendments thereto.
+18 (f) (1) "Healthcare provider" means a:
+19 (A) Person licensed to practice any branch of the healing arts by the
+20 state board of healing arts, a ;
+21 (B) person who holds a temporary permit to practice any branch of
+22 the healing arts issued by the state board of healing arts, a ;
+23 (C) person engaged in a postgraduate training program approved by
+24 the state board of healing arts, a ;
+25 (D) medical care facility licensed by the state of Kansas, a ;
+26 (E) podiatrist licensed by the state board of healing arts, a ;
+27 (F) health maintenance organization that has been issued a certificate
+28 of authority by the commissioner, an ;
+29 (G) optometrist licensed by the board of examiners in optometry, a ;
+30 (H) pharmacist licensed by the state board of pharmacy, a ;
+31 (I) licensed professional nurse who is authorized to practice as a
+32 registered nurse anesthetist, a ;
+33 (J) licensed professional nurse who has been granted a temporary
+34 authorization to practice nurse anesthesia under K.S.A. 65-1153, and
+35 amendments thereto, a ;
+36 (K) professional corporation organized pursuant to the professional
+SB 41 2
+1 corporation law of Kansas by persons who are authorized by such law to
+2 form such a corporation and who are healthcare providers as defined by
+3 this subsection, a ;
+4 (L) Kansas limited liability company organized for the purpose of
+5 rendering professional services by its members who are healthcare
+6 providers as defined by this subsection and who are legally authorized to
+7 render the professional services for which the limited liability company is
+8 organized, a ;
+9 (M) partnership of persons who are healthcare providers under this
+10 subsection, a ;
+11 (N) Kansas not-for-profit nonprofit corporation organized for the
+12 purpose of rendering professional services by persons who are healthcare
+13 providers as defined by this subsection, a ;
+14 (O) nonprofit corporation organized to administer the graduate
+15 medical education programs of community hospitals or medical care
+16 facilities affiliated with the university of Kansas school of medicine, a ;
+17 (P) dentist certified by the state board of healing arts to administer
+18 anesthetics under K.S.A. 65-2899, and amendments thereto, a ;
+19 (Q) psychiatric hospital licensed prior to January 1, 1988, and
+20 continuously thereafter under K.S.A. 2015 Supp. 75-3307b, prior to its
+21 repeal, and K.S.A. 39-2001 et seq., and amendments thereto, or a mental
+22 health center or mental health clinic licensed by the state of Kansas. On
+23 and after January 1, 2015, "healthcare provider" also means a ;
+24 (R) physician assistant licensed by the state board of healing arts, a ;
+25 (S) licensed advanced practice registered nurse who is authorized by
+26 the board of nursing to practice as an advanced practice registered nurse in
+27 the classification of a nurse-midwife, a ;
+28 (T) licensed advanced practice registered nurse who has been granted
+29 a temporary authorization by the board of nursing to practice as an
+30 advanced practice registered nurse in the classification of a nurse-midwife,
+31 a ;
+32 (U) advanced practice registered nurse who has been issued a license
+33 pursuant to K.S.A 65-1131, and amendments thereto, and who has
+34 authority to prescribe drugs under K.S.A. 65-1130, and amendments
+35 thereto;
+36 (V) nursing facility licensed by the state of Kansas, an ;
+37 (W) assisted living facility licensed by the state of Kansas; or
+38 (X) a residential healthcare facility licensed by the state of Kansas.
+39 (2) "Healthcare provider" does not include:
+40 (1)(A) Any state institution for people with intellectual disability;
+41 (2)(B) any state psychiatric hospital;
+42 (3)(C) any person holding an exempt license issued by the state
+43 board of healing arts or the board of nursing;
+SB 41 3
+1 (4)(D) any person holding a visiting clinical professor license from
+2 the state board of healing arts;
+3 (5)(E) any person holding an inactive license issued by the state
+4 board of healing arts;
+5 (6)(F) any person holding a federally active license issued by the
+6 state board of healing arts;
+7 (7)(G) an advanced practice registered nurse who is authorized by
+8 the board of nursing to practice as an advanced practice registered nurse in
+9 the classification of nurse-midwife or nurse anesthetist and who practices
+10 solely in the course of employment or active duty in the United States
+11 government or any of its departments, bureaus or agencies or who
+12 provides professional services as a charitable healthcare provider as
+13 defined under K.S.A. 75-6102, and amendments thereto; or
+14 (8)(H) a physician assistant licensed by the state board of healing arts
+15 who practices solely in the course of employment or active duty in the
+16 United States government or any of its departments, bureaus or agencies or
+17 who provides professional services as a charitable healthcare provider as
+18 defined under K.S.A. 75-6102, and amendments thereto.
+19 (g) "Inactive healthcare provider" means a person or other entity who
+20 purchased basic coverage or qualified as a self-insurer on or subsequent to
+21 the effective date of this act but who, at the time a claim is made for
+22 personal injury or death arising out of the rendering of or the failure to
+23 render professional services by such healthcare provider, does not have
+24 basic coverage or self-insurance in effect solely because such person is no
+25 longer engaged in rendering professional service as a healthcare provider.
+26 (h) "Insurer" means any corporation, association, reciprocal
+27 exchange, inter-insurer and any other legal entity authorized to write
+28 bodily injury or property damage liability insurance in this state, including
+29 workers compensation and automobile liability insurance, pursuant to the
+30 provisions of the acts contained in article 9, 11, 12 or 16 of chapter 40 of
+31 the Kansas Statutes Annotated, and amendments thereto.
+32 (i) "Plan" means the operating and administrative rules and
+33 procedures developed by insurers and rating organizations or the
+34 commissioner to make professional liability insurance available to
+35 healthcare providers.
+36 (j) "Professional liability insurance" means insurance providing
+37 coverage for legal liability arising out of the performance of professional
+38 services rendered or that should have been rendered by a healthcare
+39 provider.
+40 (k) "Rating organization" means a corporation, an unincorporated
+41 association, a partnership or an individual licensed pursuant to K.S.A. 40-
+42 956, and amendments thereto, to make rates for professional liability
+43 insurance.
+SB 41 4
+1 (l) "Self-insurer" means a healthcare provider who qualifies as a self-
+2 insurer pursuant to K.S.A. 40-3414, and amendments thereto.
+3 (m) "Medical care facility" means the same, when used in the
+4 healthcare provider insurance availability act, the same as defined in
+5 K.S.A. 65-425, and amendments thereto, except that as used in the
+6 healthcare provider insurance availability act, such term, as it relates to
+7 insurance coverage under the healthcare provider insurance availability
+8 act, also includes any director, trustee, officer or administrator of a medical
+9 care facility.
+10 (n) "Mental health center" means a mental health center licensed by
+11 the state of Kansas under K.S.A. 39-2001 et seq., and amendments thereto,
+12 except that, as used in the healthcare provider insurance availability act,
+13 such term, as it relates to insurance coverage under the healthcare provider
+14 insurance availability act, also includes any director, trustee, officer or
+15 administrator of a mental health center.
+16 (o) "Mental health clinic" means a mental health clinic licensed by
+17 the state of Kansas under K.S.A. 39-2001 et seq., and amendments thereto,
+18 except that, as used in the healthcare provider insurance availability act,
+19 such term, as it relates to insurance coverage under the healthcare provider
+20 insurance availability act, also includes any director, trustee, officer or
+21 administrator of a mental health clinic.
+22 (p) "State institution for people with intellectual disability" means
+23 Winfield state hospital and training center, Parsons state hospital and
+24 training center and the Kansas neurological institute.
+25 (q) "State psychiatric hospital" means Larned state hospital,
+26 Osawatomie state hospital and Rainbow mental health facility.
+27 (r) "Person engaged in residency training" means:
+28 (1) A person engaged in a postgraduate training program approved by
+29 the state board of healing arts who is employed by and is studying at the
+30 university of Kansas medical center but only when if such person is
+31 engaged in medical activities that do not include extracurricular, extra-
+32 institutional medical service for which such person receives extra
+33 compensation and that have not been approved by the dean of the school
+34 of medicine and the executive vice-chancellor of the university of Kansas
+35 medical center. Persons engaged in residency training shall be considered
+36 resident healthcare providers for purposes of K.S.A. 40-3401 et seq., and
+37 amendments thereto; and
+38 (2) a person engaged in a postgraduate training program approved by
+39 the state board of healing arts who is employed by a nonprofit corporation
+40 organized to administer the graduate medical education programs of
+41 community hospitals or medical care facilities affiliated with the university
+42 of Kansas school of medicine or who is employed by an affiliate of the
+43 university of Kansas school of medicine as defined in K.S.A. 76-367, and
+SB 41 5
+1 amendments thereto, but only when if such person is engaged in medical
+2 activities that do not include extracurricular, extra-institutional medical
+3 service for which such person receives extra compensation and that have
+4 not been approved by the chief operating officer of the nonprofit
+5 corporation or the chief operating officer of the affiliate and the executive
+6 vice-chancellor of the university of Kansas medical center.
+7 (s) "Full-time physician faculty employed by the university of Kansas
+8 medical center" means a person licensed to practice medicine and surgery
+9 who holds a full-time appointment at the university of Kansas medical
+10 center when such person is providing healthcare. A person licensed to
+11 practice medicine and surgery who holds a full-time appointment at the
+12 university of Kansas medical center may also be employed part-time part
+13 time by the United States department of veterans affairs if such
+14 employment is approved by the executive vice-chancellor of the university
+15 of Kansas medical center.
+16 (t) "Sexual act" or "sexual activity" means that sexual conduct that
+17 constitutes a criminal or tortious act under the laws of the state of Kansas.
+18 (u) "Board" means the board of governors created by K.S.A. 40-3403,
+19 and amendments thereto.
+20 (v) "Board of directors" means the governing board created by K.S.A.
+21 40-3413, and amendments thereto.
+22 (w) "Locum tenens contract" means a temporary agreement not
+23 exceeding 182 days per calendar year that employs a healthcare provider
+24 to actively render professional services in this state.
+25 (x) "Professional services" means patient care or other services
+26 authorized under the act governing licensure of a healthcare provider.
+27 (y) "Healthcare facility" means a nursing facility, an assisted living
+28 facility or a residential healthcare facility as all such terms are defined in
+29 K.S.A. 39-923, and amendments thereto.
+30 (z) "Charitable healthcare provider" means the same as defined in
+31 K.S.A. 75-6102, and amendments thereto.
+32 Sec. 2. K.S.A. 40-3401 is hereby repealed.
+33 Sec. 3. This act shall take effect and be in force from and after its
+34 publication in the statute book.
+[DELETED: Apn3BS3(0(c c" ms a py of pl l1i2t3(4(5t6(" ms te he sn fd e7p8(9(0s1(2t3(4t5(6(7(8o9(0(1(2r3(4a5a6(]
+[DELETED: 1cft(rg pl ss b is ms wo ae hpro(0s1( n n c2p3p4(t cn od to ar te g5m6f7(8a9(c hl d pr  J, , 0c1r2h3a4(5(6t7t8(9a0a1a2()a3ps 4a5t6(7(8(9(0 1 2 (3b]
+[DELETED: 1 t (b(s tt0s1g w2p3d4 5w6U7w8d9(0p1t2p3r4b5l6(" ms ay c, a, r7e8b9w0p1t2(" ms te og ad ae rs a3ps dd by is ad rg os or t4cr to me pl ly ie ae t5h6(l ly i" ms ie p7c8s9p0(1a293i]
+[DELETED: 1(i(l  t wh aKhiac0(1t2e3s4i5a6(7t8e9s0i1a2(3W4t5(e pc h" ms Ld se h6O7(8(9t0u b o w i s1e2il ml se fr wh sh pn rs e3c4o5m6r7a8(9t0o1c2o3u]
+[DELETED: 1aasnt bn ad b te cf og or of te ncv(mw0c1p2u3t by te Ud Ss dt of vs as if s4e5o6(7c8(9a0(142(s t 3e4t5(l " ms pt e r r 6a7(8f9K0(1K2S3S4p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 41
+By Committee on Public Health and Welfare
+1-21
+1 AN ACT concerning health and healthcare; relating to the healthcare
+2 provider insurance availability act; adding advanced practice registered
+3 nurse to the definition of healthcare provider; amending K.S.A. 40-
+4 3401 and repealing the existing section.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 Section 1. K.S.A. 40-3401 is hereby amended to read as follows: 40-
+8 3401. As used in this act:
+9 (a) "Applicant" means any healthcare provider.
+10 (b) "Basic coverage" means a policy of professional liability
+11 insurance required to be maintained by each healthcare provider pursuant
+12 to the provisions of K.S.A. 40-3402(a) or (b), and amendments thereto.
+13 (c) "Commissioner" means the commissioner of insurance.
+14 (d) "Fiscal year" means the year commencing on the effective date of
+15 this act and each year, commencing on the first day of July thereafter.
+16 (e) "Fund" means the healthcare stabilization fund established
+17 pursuant to K.S.A. 40-3403(a), and amendments thereto.
+18 (f) (1) "Healthcare provider" means a:
+19 (A) Person licensed to practice any branch of the healing arts by the
+20 state board of healing arts, a ;
+21 (B) person who holds a temporary permit to practice any branch of
+22 the healing arts issued by the state board of healing arts, a ;
+23 (C) person engaged in a postgraduate training program approved by
+24 the state board of healing arts, a ;
+25 (D) medical care facility licensed by the state of Kansas, a ;
+26 (E) podiatrist licensed by the state board of healing arts, a ;
+27 (F) health maintenance organization that has been issued a certificate
+28 of authority by the commissioner, an ;
+29 (G) optometrist licensed by the board of examiners in optometry, a ;
+30 (H) pharmacist licensed by the state board of pharmacy, a ;
+31 (I) licensed professional nurse who is authorized to practice as a
+32 registered nurse anesthetist, a ;
+33 (J) licensed professional nurse who has been granted a temporary
+34 authorization to practice nurse anesthesia under K.S.A. 65-1153, and
+35 amendments thereto, a ;
+36 (K) professional corporation organized pursuant to the professional
+
+SB 41 2
+1 corporation law of Kansas by persons who are authorized by such law to
+2 form such a corporation and who are healthcare providers as defined by
+3 this subsection, a ;
+4 (L) Kansas limited liability company organized for the purpose of
+5 rendering professional services by its members who are healthcare
+6 providers as defined by this subsection and who are legally authorized to
+7 render the professional services for which the limited liability company is
+8 organized, a ;
+9 (M) partnership of persons who are healthcare providers under this
+10 subsection, a ;
+11 (N) Kansas not-for-profit nonprofit corporation organized for the
+12 purpose of rendering professional services by persons who are healthcare
+13 providers as defined by this subsection, a ;
+14 (O) nonprofit corporation organized to administer the graduate
+15 medical education programs of community hospitals or medical care
+16 facilities affiliated with the university of Kansas school of medicine, a ;
+17 (P) dentist certified by the state board of healing arts to administer
+18 anesthetics under K.S.A. 65-2899, and amendments thereto, a ;
+19 (Q) psychiatric hospital licensed prior to January 1, 1988, and
+20 continuously thereafter under K.S.A. 2015 Supp. 75-3307b, prior to its
+21 repeal, and K.S.A. 39-2001 et seq., and amendments thereto, or a mental
+22 health center or mental health clinic licensed by the state of Kansas. On
+23 and after January 1, 2015, "healthcare provider" also means a ;
+24 (R) physician assistant licensed by the state board of healing arts, a ;
+25 (S) licensed advanced practice registered nurse who is authorized by
+26 the board of nursing to practice as an advanced practice registered nurse in
+27 the classification of a nurse-midwife, a ;
+28 (T) licensed advanced practice registered nurse who has been granted
+29 a temporary authorization by the board of nursing to practice as an
+30 advanced practice registered nurse in the classification of a nurse-midwife,
+31 a ;
+32 (U) advanced practice registered nurse who has been issued a license
+33 pursuant to K.S.A 65-1131, and amendments thereto, and who has
+34 authority to prescribe drugs under K.S.A. 65-1130, and amendments
+35 thereto;
+36 (V) nursing facility licensed by the state of Kansas, an ;
+37 (W) assisted living facility licensed by the state of Kansas; or
+38 (X) a residential healthcare facility licensed by the state of Kansas.
+39 (2) "Healthcare provider" does not include:
+40 (1)(A) Any state institution for people with intellectual disability;
+41 (2)(B) any state psychiatric hospital;
+42 (3)(C) any person holding an exempt license issued by the state
+43 board of healing arts or the board of nursing;
+
+SB 41 3
+1 (4)(D) any person holding a visiting clinical professor license from
+2 the state board of healing arts;
+3 (5)(E) any person holding an inactive license issued by the state
+4 board of healing arts;
+5 (6)(F) any person holding a federally active license issued by the
+6 state board of healing arts;
+7 (7)(G) an advanced practice registered nurse who is authorized by
+8 the board of nursing to practice as an advanced practice registered nurse in
+9 the classification of nurse-midwife or nurse anesthetist and who practices
+10 solely in the course of employment or active duty in the United States
+11 government or any of its departments, bureaus or agencies or who
+12 provides professional services as a charitable healthcare provider as
+13 defined under K.S.A. 75-6102, and amendments thereto; or
+14 (8)(H) a physician assistant licensed by the state board of healing arts
+15 who practices solely in the course of employment or active duty in the
+16 United States government or any of its departments, bureaus or agencies or
+17 who provides professional services as a charitable healthcare provider as
+18 defined under K.S.A. 75-6102, and amendments thereto.
+19 (g) "Inactive healthcare provider" means a person or other entity who
+20 purchased basic coverage or qualified as a self-insurer on or subsequent to
+21 the effective date of this act but who, at the time a claim is made for
+22 personal injury or death arising out of the rendering of or the failure to
+23 render professional services by such healthcare provider, does not have
+24 basic coverage or self-insurance in effect solely because such person is no
+25 longer engaged in rendering professional service as a healthcare provider.
+26 (h) "Insurer" means any corporation, association, reciprocal
+27 exchange, inter-insurer and any other legal entity authorized to write
+28 bodily injury or property damage liability insurance in this state, including
+29 workers compensation and automobile liability insurance, pursuant to the
+30 provisions of the acts contained in article 9, 11, 12 or 16 of chapter 40 of
+31 the Kansas Statutes Annotated, and amendments thereto.
+32 (i) "Plan" means the operating and administrative rules and
+33 procedures developed by insurers and rating organizations or the
+34 commissioner to make professional liability insurance available to
+35 healthcare providers.
+36 (j) "Professional liability insurance" means insurance providing
+37 coverage for legal liability arising out of the performance of professional
+38 services rendered or that should have been rendered by a healthcare
+39 provider.
+40 (k) "Rating organization" means a corporation, an unincorporated
+41 association, a partnership or an individual licensed pursuant to K.S.A. 40-
+42 956, and amendments thereto, to make rates for professional liability
+43 insurance.
+
+SB 41 4
+1 (l) "Self-insurer" means a healthcare provider who qualifies as a self-
+2 insurer pursuant to K.S.A. 40-3414, and amendments thereto.
+3 (m) "Medical care facility" means the same, when used in the
+4 healthcare provider insurance availability act, the same as defined in
+5 K.S.A. 65-425, and amendments thereto, except that as used in the
+6 healthcare provider insurance availability act, such term, as it relates to
+7 insurance coverage under the healthcare provider insurance availability
+8 act, also includes any director, trustee, officer or administrator of a medical
+9 care facility.
+10 (n) "Mental health center" means a mental health center licensed by
+11 the state of Kansas under K.S.A. 39-2001 et seq., and amendments thereto,
+12 except that, as used in the healthcare provider insurance availability act,
+13 such term, as it relates to insurance coverage under the healthcare provider
+14 insurance availability act, also includes any director, trustee, officer or
+15 administrator of a mental health center.
+16 (o) "Mental health clinic" means a mental health clinic licensed by
+17 the state of Kansas under K.S.A. 39-2001 et seq., and amendments thereto,
+18 except that, as used in the healthcare provider insurance availability act,
+19 such term, as it relates to insurance coverage under the healthcare provider
+20 insurance availability act, also includes any director, trustee, officer or
+21 administrator of a mental health clinic.
+22 (p) "State institution for people with intellectual disability" means
+23 Winfield state hospital and training center, Parsons state hospital and
+24 training center and the Kansas neurological institute.
+25 (q) "State psychiatric hospital" means Larned state hospital,
+26 Osawatomie state hospital and Rainbow mental health facility.
+27 (r) "Person engaged in residency training" means:
+28 (1) A person engaged in a postgraduate training program approved by
+29 the state board of healing arts who is employed by and is studying at the
+30 university of Kansas medical center but only when if such person is
+31 engaged in medical activities that do not include extracurricular, extra-
+32 institutional medical service for which such person receives extra
+33 compensation and that have not been approved by the dean of the school
+34 of medicine and the executive vice-chancellor of the university of Kansas
+35 medical center. Persons engaged in residency training shall be considered
+36 resident healthcare providers for purposes of K.S.A. 40-3401 et seq., and
+37 amendments thereto; and
+38 (2) a person engaged in a postgraduate training program approved by
+39 the state board of healing arts who is employed by a nonprofit corporation
+40 organized to administer the graduate medical education programs of
+41 community hospitals or medical care facilities affiliated with the university
+42 of Kansas school of medicine or who is employed by an affiliate of the
+43 university of Kansas school of medicine as defined in K.S.A. 76-367, and
+
+SB 41 5
+1 amendments thereto, but only when if such person is engaged in medical
+2 activities that do not include extracurricular, extra-institutional medical
+3 service for which such person receives extra compensation and that have
+4 not been approved by the chief operating officer of the nonprofit
+5 corporation or the chief operating officer of the affiliate and the executive
+6 vice-chancellor of the university of Kansas medical center.
+7 (s) "Full-time physician faculty employed by the university of Kansas
+8 medical center" means a person licensed to practice medicine and surgery
+9 who holds a full-time appointment at the university of Kansas medical
+10 center when such person is providing healthcare. A person licensed to
+11 practice medicine and surgery who holds a full-time appointment at the
+12 university of Kansas medical center may also be employed part-time part
+13 time by the United States department of veterans affairs if such
+14 employment is approved by the executive vice-chancellor of the university
+15 of Kansas medical center.
+16 (t) "Sexual act" or "sexual activity" means that sexual conduct that
+17 constitutes a criminal or tortious act under the laws of the state of Kansas.
+18 (u) "Board" means the board of governors created by K.S.A. 40-3403,
+19 and amendments thereto.
+20 (v) "Board of directors" means the governing board created by K.S.A.
+21 40-3413, and amendments thereto.
+22 (w) "Locum tenens contract" means a temporary agreement not
+23 exceeding 182 days per calendar year that employs a healthcare provider
+24 to actively render professional services in this state.
+25 (x) "Professional services" means patient care or other services
+26 authorized under the act governing licensure of a healthcare provider.
+27 (y) "Healthcare facility" means a nursing facility, an assisted living
+28 facility or a residential healthcare facility as all such terms are defined in
+29 K.S.A. 39-923, and amendments thereto.
+30 (z) "Charitable healthcare provider" means the same as defined in
+31 K.S.A. 75-6102, and amendments thereto.
+32 Sec. 2. K.S.A. 40-3401 is hereby repealed.
+33 Sec. 3. This act shall take effect and be in force from and after its
+34 publication in the statute book.
+
+[DELETED: Apn3BS3(0(c c" ms a py of pl l1i2t3(4(5t6(" ms te he sn fd e7p8(9(0s1(2t3(4t5(6(7(8o9(0(1(2r3(4a5a6(]
+[DELETED: 1cft(rg pl ss b is ms wo ae hpro(0s1( n n c2p3p4(t cn od to ar te g5m6f7(8a9(c hl d pr  J, , 0c1r2h3a4(5(6t7t8(9a0a1a2()a3ps 4a5t6(7(8(9(0 1 2 (3b]
+[DELETED: 1 t (b(s tt0s1g w2p3d4 5w6U7w8d9(0p1t2p3r4b5l6(" ms ay c, a, r7e8b9w0p1t2(" ms te og ad ae rs a3ps dd by is ad rg os or t4cr to me pl ly ie ae t5h6(l ly i" ms ie p7c8s9p0(1a293i]
+[DELETED: 1(i(l  t wh aKhiac0(1t2e3s4i5a6(7t8e9s0i1a2(3W4t5(e pc h" ms Ld se h6O7(8(9t0u b o w i s1e2il ml se fr wh sh pn rs e3c4o5m6r7a8(9t0o1c2o3u]
+[DELETED: 1aasnt bn ad b te cf og or of te ncv(mw0c1p2u3t by te Ud Ss dt of vs as if s4e5o6(7c8(9a0(142(s t 3e4t5(l " ms pt e r r 6a7(8f9K0(1K2S3S4p]

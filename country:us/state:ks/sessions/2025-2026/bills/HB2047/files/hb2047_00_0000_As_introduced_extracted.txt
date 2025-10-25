@@ -1,0 +1,405 @@
+Title: HOUSE BILL No. 2047
+Official Title: HOUSE BILL No. 2047
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Insurance
+Requested by Eric Turek on behalf of the Kansas Insurance Department
+1-21
+1 AN ACT concerning motor vehicle liability insurance; providing for the
+2 establishment of a web-based online insurance verification system for
+3 the verification of evidence of motor vehicle liability insurance;
+4 amending K.S.A. 8-173 and repealing the existing section.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 New Section 1. (a) Sections 1 through 9, and amendments thereto,
+8 shall be known and may be cited as the Kansas real time motor vehicle
+9 insurance verification act.
+10 (b) As used in this act:
+11 (1) "Act" means the Kansas real time motor vehicle act.
+12 (2) "Commercial vehicle coverage" means any coverage provided to
+13 an insured, regardless of number of vehicles covered, under a commercial
+14 coverage form and rated from a commercial manual approved by the
+15 department.
+16 (3) "Commissioner" means the commissioner of insurance.
+17 (4) "Department" means the Kansas insurance department.
+18 (5) "Insurance verification system" means the web-based system for
+19 online verification of motor vehicle liability insurance.
+20 (6) "KDOR" means the Kansas department of revenue.
+21 New Sec. 2. (a) The commissioner shall establish a web-based system
+22 for online verification of motor vehicle insurance and require motor
+23 vehicle insurers to establish functionality for such system, as specified in
+24 this act. Implementation of the insurance verification system, including
+25 any exceptions as provided for in this act, supersedes any existing motor
+26 vehicle liability insurance verification system requirements and shall be
+27 the sole electronic system used for the purpose of verifying motor vehicle
+28 liability insurance as required by the laws of Kansas.
+29 (b) The commissioner shall adopt such reasonable rules and
+30 regulations as are necessary to effectuate the provisions of this act.
+31 New Sec. 3. (a) The insurance verification system shall:
+32 (1) (A) Transmit requests to insurers for verification of motor vehicle
+33 liability insurance via web services established by the insurers in
+34 compliance with specifications and standards prescribed by the
+35 commissioner in rules and regulations; and
+HB 2047 2
+1 (B) insurance company systems shall respond to each request for
+2 verification of motor vehicle liability insurance with a prescribed response
+3 upon evaluation of the data provided in such request;
+4 (2) include appropriate provisions to secure its data against
+5 unauthorized access in accordance with applicable data privacy protection
+6 laws;
+7 (3) be used for verification of motor vehicle liability insurance as
+8 prescribed by the laws of Kansas and shall be accessible to authorized
+9 personnel of the department, KDOR division of vehicles, the courts, law
+10 enforcement agencies and other entities authorized by state or federal
+11 privacy laws;
+12 (4) be interfaced, wherever appropriate, with existing state systems;
+13 and
+14 (5) include information that shall enable authorized personnel to
+15 make inquiries of insurers of motor vehicle liability insurance by using
+16 multiple data elements for greater matching accuracy, including, but not
+17 limited to:
+18 (A) Insurer national association of insurance commissioners company
+19 code number;
+20 (B) vehicle identification number;
+21 (C) policy number;
+22 (D) verification date; or
+23 (E) any other information required by the commissioner or KDOR to
+24 operate the insurance verification system.
+25 New Sec. 4. The commissioner may conduct a competitive bid and
+26 contract with a private service provider that has successfully implemented
+27 similar systems in other states to assist in establishing, implementing and
+28 maintaining the insurance verification system.
+29 New Sec. 5. The department shall provide funding for the
+30 implementation, ongoing maintenance and enhancement of the insurance
+31 verification system created by this act from the insurance department
+32 regulation service fund, established under K.S.A. 40-112, and amendments
+33 thereto.
+34 New Sec. 6. (a) Insurers shall cooperate with the commissioner and
+35 KDOR in establishing and maintaining the insurance verification system
+36 and provide motor vehicle insurance policy status information as provided
+37 in rules and regulations established by the commissioner.
+38 (b) Insurer systems shall be permitted reasonable system downtime
+39 for maintenance and other work with advance notice to KDOR. Insurers
+40 shall not be subject to enforcement fees or other penalties under such
+41 circumstances or when systems are unavailable because of emergency,
+42 outside attack or other unexpected outages not planned by the insurer and
+43 that are reasonably outside its control as determined by KDOR.
+HB 2047 3
+1 (c) Each property and casualty insurance company that is licensed to
+2 issue motor vehicle liability insurance or is authorized to do business in
+3 Kansas shall provide verification of liability insurance for every motor
+4 vehicle insured in Kansas by such company as required by this act.
+5 (d) This act shall not apply to vehicles insured under commercial
+6 motor vehicle coverage, except that insurers of such vehicles may
+7 participate on a voluntary basis.
+8 (e) Insurers shall not be required to verify evidence of insurance for
+9 vehicles registered in other jurisdictions.
+10 (f) Insurers shall be immune from civil and administrative liability for
+11 good faith efforts to comply with the terms of this act.
+12 (g) Nothing in this section shall prohibit an insurer from using the
+13 services of a third-party vendor to facilitate the insurance verification
+14 program required by this act.
+15 New Sec. 7. The commissioner may establish, through rules and
+16 regulations, an alternative method for verifying motor vehicle liability
+17 insurance for insurers that insure 1,000 or fewer vehicles within Kansas.
+18 New Sec. 8. All information and data provided by insurance
+19 companies to the insurance verification system, and all reports, responses
+20 or other information generated for the purposes of the insurance
+21 verification system shall be confidential by law and privileged, shall not be
+22 subject to the open records act, K.S.A. 45-215, and amendments thereto,
+23 and shall not be subject to discovery or admissible as evidence in any
+24 private civil action.
+25 New Sec. 9. The insurance verification system shall be fully
+26 operational not later than July 1, 2026, following an appropriate testing
+27 period of not less than nine months. No enforcement action shall be taken
+28 based on information obtained from the insurance verification system until
+29 such system has successfully completed the testing period.
+30 Sec. 10. K.S.A. 8-173 is hereby amended to read as follows: 8-173.
+31 (a) An application for registration of a vehicle as provided in article 1 of
+32 chapter 8 of the Kansas Statutes Annotated, and amendments thereto, shall
+33 not be accepted unless the person making such application shall exhibit:
+34 (1) A receipt showing that such person has paid all personal property
+35 taxes levied against such person for the preceding year, including taxes
+36 upon such vehicle, except that if such application is made before May 11,
+37 such receipt need show payment of only one-half 1/ the preceding year's
+2
+38 tax; or
+39 (2) evidence that such vehicle was assessed for taxation purposes by a
+40 state agency, or was assessed as stock in trade of a merchant or
+41 manufacturer or was exempt from taxation under the laws of this state.
+42 (b) An application for registration of a vehicle as provided in article 1
+43 of chapter 8 of the Kansas Statutes Annotated, and amendments thereto,
+HB 2047 4
+1 shall not be accepted if the records of the county treasurer show that the
+2 applicant is delinquent and owes personal property taxes levied against the
+3 applicant for any preceding year.
+4 (c) An original application for registration of a motor vehicle shall
+5 not be accepted until the applicant signs a certification, provided by the
+6 director of motor vehicles, certifying that the applicant has and will
+7 maintain, during the period of registration, the required insurance, self-
+8 insurance or other financial security required pursuant to K.S.A. 40-3104,
+9 and amendments thereto.
+10 (d) An application for registration or renewal of registration of a
+11 vehicle shall not be accepted if the applicant is unable to provide proof of
+12 the insurance, self-insurance or other financial security required by article
+13 31 of chapter 40 of the Kansas Statutes Annotated, and amendments
+14 thereto. Proof of insurance shall be verified by examination of the
+15 insurance card or other documentation issued by an insurance company, a
+16 certificate of self-insurance issued by the commissioner, a binder of
+17 insurance, a certificate of insurance, a motor carrier identification number
+18 issued by the state corporation commission, proof of insurance for vehicles
+19 covered under a fleet policy, a commercial policy covering more than one
+20 vehicle or a policy of insurance required by K.S.A. 40-3104, and
+21 amendments thereto, and for vehicles used as part of a drivers education
+22 program, a dealership contract and a copy of a motor vehicle liability
+23 insurance policy issued to a school district or accredited nonpublic school.
+24 Examination of a photocopy, facsimile or an image displayed on a cellular
+25 phone or any other type of portable electronic device of any of these
+26 documents shall suffice for verification of registration or renewal. Any
+27 person to whom such image of proof of insurance, self-insurance or other
+28 financial security required by article 31 of chapter 40 of the Kansas
+29 Statutes Annotated, and amendments thereto, is displayed, shall view only
+30 such image displayed on such cellular phone or other portable electronic
+31 device. Such person shall be prohibited from viewing any other content or
+32 information stored on such cellular phone or other portable electronic
+33 device. Proof of insurance may also be verified on-line online or
+34 electronically, in accordance with the provisions of the Kansas real time
+35 insurance verification act and sections 1 through 9, and amendments
+36 thereto, and the commissioner of insurance may require, by duly adopted
+37 rules and regulations, any motor vehicle liability insurance company
+38 authorized to do business in this state to provide verification of insurance
+39 in that manner. Any motor vehicle liability insurance company which is
+40 providing verification of insurance on-line or electronically on the day
+41 preceding the effective date of this act may continue to do so in the same
+42 manner and shall be deemed to be in compliance with this section.
+43 (e) On and after January 1, 2018, An application for registration or
+HB 2047 5
+1 renewal of registration of a vehicle shall not be accepted, if the records of
+2 the division show that after three attempts by the Kansas turnpike authority
+3 to contact the registered owner, including at least one registered letter, the
+4 registered owner of such vehicle has unpaid tolls and that the director of
+5 the Kansas turnpike authority or the director's designee has instructed the
+6 division to refuse to accept the registration or renewal of registration,
+7 pursuant to K.S.A. 68-2020a, and amendments thereto, unless the owner or
+8 registered owner makes payment to the county treasurer at the time of
+9 registration or renewal of registration. Of such moneys collected, 15%
+10 shall be retained by the county treasurer and the remainder shall be
+11 remitted to the Kansas turnpike authority.
+12 Sec. 11. K.S.A. 8-173 is hereby repealed.
+13 Sec. 12. This act shall take effect and be in force from and after its
+14 publication in the statute book.
+[DELETED: Aet vf e  mr  l iaBNsi0(1(2(3a4c5d6(7(8(9o0(1N2f3v4t5a6v7t8l9(e cr sl at sh re rs a0r1N2(3ly ie va wb ss ed by te is i4ce wh ss ad ss pd by t5c]
+[DELETED: 7(vu(e ae ps to se is da aul(pp0e1p2(3a4(5m6m7l8(9c0(1(2(3(4o5N6c7s8m9Nw S. 5e dt sl pe fg fr t0i1v2r3t4N5K6a7i8(9f0s1c2o3t]
+[DELETED: 7(iKv(mr ve c, et tt is of sh vs mp(v0(1g2(3s4p5N6r7i8Nw S. 8l in ad da pd by i9c0or or in gd fr te ps of te i1v2s3a4p5Nw S. 9e ie vn sm sl be f6o7p8b9s0S1(2c3n4(5t6u7s / 8t9(0s a o ws ad s  i te f a t o1m2(3o]
+[DELETED: 7saa(ndmia0(1v2t334t5i6c7i8i9c0ve or a p of ie rd b K. 4 a1a2p3i4E5p6d7p8f9S0s1d2i3d. Pf of ie m ao be v o o o4e5i6t7r8a9i0p1p2m3(]
+[DELETED: 7rttrtdprr0s1r2S3S4p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2047
+By Committee on Insurance
+Requested by Eric Turek on behalf of the Kansas Insurance Department
+1-21
+1 AN ACT concerning motor vehicle liability insurance; providing for the
+2 establishment of a web-based online insurance verification system for
+3 the verification of evidence of motor vehicle liability insurance;
+4 amending K.S.A. 8-173 and repealing the existing section.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 New Section 1. (a) Sections 1 through 9, and amendments thereto,
+8 shall be known and may be cited as the Kansas real time motor vehicle
+9 insurance verification act.
+10 (b) As used in this act:
+11 (1) "Act" means the Kansas real time motor vehicle act.
+12 (2) "Commercial vehicle coverage" means any coverage provided to
+13 an insured, regardless of number of vehicles covered, under a commercial
+14 coverage form and rated from a commercial manual approved by the
+15 department.
+16 (3) "Commissioner" means the commissioner of insurance.
+17 (4) "Department" means the Kansas insurance department.
+18 (5) "Insurance verification system" means the web-based system for
+19 online verification of motor vehicle liability insurance.
+20 (6) "KDOR" means the Kansas department of revenue.
+21 New Sec. 2. (a) The commissioner shall establish a web-based system
+22 for online verification of motor vehicle insurance and require motor
+23 vehicle insurers to establish functionality for such system, as specified in
+24 this act. Implementation of the insurance verification system, including
+25 any exceptions as provided for in this act, supersedes any existing motor
+26 vehicle liability insurance verification system requirements and shall be
+27 the sole electronic system used for the purpose of verifying motor vehicle
+28 liability insurance as required by the laws of Kansas.
+29 (b) The commissioner shall adopt such reasonable rules and
+30 regulations as are necessary to effectuate the provisions of this act.
+31 New Sec. 3. (a) The insurance verification system shall:
+32 (1) (A) Transmit requests to insurers for verification of motor vehicle
+33 liability insurance via web services established by the insurers in
+34 compliance with specifications and standards prescribed by the
+35 commissioner in rules and regulations; and
+
+HB 2047 2
+1 (B) insurance company systems shall respond to each request for
+2 verification of motor vehicle liability insurance with a prescribed response
+3 upon evaluation of the data provided in such request;
+4 (2) include appropriate provisions to secure its data against
+5 unauthorized access in accordance with applicable data privacy protection
+6 laws;
+7 (3) be used for verification of motor vehicle liability insurance as
+8 prescribed by the laws of Kansas and shall be accessible to authorized
+9 personnel of the department, KDOR division of vehicles, the courts, law
+10 enforcement agencies and other entities authorized by state or federal
+11 privacy laws;
+12 (4) be interfaced, wherever appropriate, with existing state systems;
+13 and
+14 (5) include information that shall enable authorized personnel to
+15 make inquiries of insurers of motor vehicle liability insurance by using
+16 multiple data elements for greater matching accuracy, including, but not
+17 limited to:
+18 (A) Insurer national association of insurance commissioners company
+19 code number;
+20 (B) vehicle identification number;
+21 (C) policy number;
+22 (D) verification date; or
+23 (E) any other information required by the commissioner or KDOR to
+24 operate the insurance verification system.
+25 New Sec. 4. The commissioner may conduct a competitive bid and
+26 contract with a private service provider that has successfully implemented
+27 similar systems in other states to assist in establishing, implementing and
+28 maintaining the insurance verification system.
+29 New Sec. 5. The department shall provide funding for the
+30 implementation, ongoing maintenance and enhancement of the insurance
+31 verification system created by this act from the insurance department
+32 regulation service fund, established under K.S.A. 40-112, and amendments
+33 thereto.
+34 New Sec. 6. (a) Insurers shall cooperate with the commissioner and
+35 KDOR in establishing and maintaining the insurance verification system
+36 and provide motor vehicle insurance policy status information as provided
+37 in rules and regulations established by the commissioner.
+38 (b) Insurer systems shall be permitted reasonable system downtime
+39 for maintenance and other work with advance notice to KDOR. Insurers
+40 shall not be subject to enforcement fees or other penalties under such
+41 circumstances or when systems are unavailable because of emergency,
+42 outside attack or other unexpected outages not planned by the insurer and
+43 that are reasonably outside its control as determined by KDOR.
+
+HB 2047 3
+1 (c) Each property and casualty insurance company that is licensed to
+2 issue motor vehicle liability insurance or is authorized to do business in
+3 Kansas shall provide verification of liability insurance for every motor
+4 vehicle insured in Kansas by such company as required by this act.
+5 (d) This act shall not apply to vehicles insured under commercial
+6 motor vehicle coverage, except that insurers of such vehicles may
+7 participate on a voluntary basis.
+8 (e) Insurers shall not be required to verify evidence of insurance for
+9 vehicles registered in other jurisdictions.
+10 (f) Insurers shall be immune from civil and administrative liability for
+11 good faith efforts to comply with the terms of this act.
+12 (g) Nothing in this section shall prohibit an insurer from using the
+13 services of a third-party vendor to facilitate the insurance verification
+14 program required by this act.
+15 New Sec. 7. The commissioner may establish, through rules and
+16 regulations, an alternative method for verifying motor vehicle liability
+17 insurance for insurers that insure 1,000 or fewer vehicles within Kansas.
+18 New Sec. 8. All information and data provided by insurance
+19 companies to the insurance verification system, and all reports, responses
+20 or other information generated for the purposes of the insurance
+21 verification system shall be confidential by law and privileged, shall not be
+22 subject to the open records act, K.S.A. 45-215, and amendments thereto,
+23 and shall not be subject to discovery or admissible as evidence in any
+24 private civil action.
+25 New Sec. 9. The insurance verification system shall be fully
+26 operational not later than July 1, 2026, following an appropriate testing
+27 period of not less than nine months. No enforcement action shall be taken
+28 based on information obtained from the insurance verification system until
+29 such system has successfully completed the testing period.
+30 Sec. 10. K.S.A. 8-173 is hereby amended to read as follows: 8-173.
+31 (a) An application for registration of a vehicle as provided in article 1 of
+32 chapter 8 of the Kansas Statutes Annotated, and amendments thereto, shall
+33 not be accepted unless the person making such application shall exhibit:
+34 (1) A receipt showing that such person has paid all personal property
+35 taxes levied against such person for the preceding year, including taxes
+36 upon such vehicle, except that if such application is made before May 11,
+37 such receipt need show payment of only one-half 1/ the preceding year's
+2
+38 tax; or
+39 (2) evidence that such vehicle was assessed for taxation purposes by a
+40 state agency, or was assessed as stock in trade of a merchant or
+41 manufacturer or was exempt from taxation under the laws of this state.
+42 (b) An application for registration of a vehicle as provided in article 1
+43 of chapter 8 of the Kansas Statutes Annotated, and amendments thereto,
+
+HB 2047 4
+1 shall not be accepted if the records of the county treasurer show that the
+2 applicant is delinquent and owes personal property taxes levied against the
+3 applicant for any preceding year.
+4 (c) An original application for registration of a motor vehicle shall
+5 not be accepted until the applicant signs a certification, provided by the
+6 director of motor vehicles, certifying that the applicant has and will
+7 maintain, during the period of registration, the required insurance, self-
+8 insurance or other financial security required pursuant to K.S.A. 40-3104,
+9 and amendments thereto.
+10 (d) An application for registration or renewal of registration of a
+11 vehicle shall not be accepted if the applicant is unable to provide proof of
+12 the insurance, self-insurance or other financial security required by article
+13 31 of chapter 40 of the Kansas Statutes Annotated, and amendments
+14 thereto. Proof of insurance shall be verified by examination of the
+15 insurance card or other documentation issued by an insurance company, a
+16 certificate of self-insurance issued by the commissioner, a binder of
+17 insurance, a certificate of insurance, a motor carrier identification number
+18 issued by the state corporation commission, proof of insurance for vehicles
+19 covered under a fleet policy, a commercial policy covering more than one
+20 vehicle or a policy of insurance required by K.S.A. 40-3104, and
+21 amendments thereto, and for vehicles used as part of a drivers education
+22 program, a dealership contract and a copy of a motor vehicle liability
+23 insurance policy issued to a school district or accredited nonpublic school.
+24 Examination of a photocopy, facsimile or an image displayed on a cellular
+25 phone or any other type of portable electronic device of any of these
+26 documents shall suffice for verification of registration or renewal. Any
+27 person to whom such image of proof of insurance, self-insurance or other
+28 financial security required by article 31 of chapter 40 of the Kansas
+29 Statutes Annotated, and amendments thereto, is displayed, shall view only
+30 such image displayed on such cellular phone or other portable electronic
+31 device. Such person shall be prohibited from viewing any other content or
+32 information stored on such cellular phone or other portable electronic
+33 device. Proof of insurance may also be verified on-line online or
+34 electronically, in accordance with the provisions of the Kansas real time
+35 insurance verification act and sections 1 through 9, and amendments
+36 thereto, and the commissioner of insurance may require, by duly adopted
+37 rules and regulations, any motor vehicle liability insurance company
+38 authorized to do business in this state to provide verification of insurance
+39 in that manner. Any motor vehicle liability insurance company which is
+40 providing verification of insurance on-line or electronically on the day
+41 preceding the effective date of this act may continue to do so in the same
+42 manner and shall be deemed to be in compliance with this section.
+43 (e) On and after January 1, 2018, An application for registration or
+
+HB 2047 5
+1 renewal of registration of a vehicle shall not be accepted, if the records of
+2 the division show that after three attempts by the Kansas turnpike authority
+3 to contact the registered owner, including at least one registered letter, the
+4 registered owner of such vehicle has unpaid tolls and that the director of
+5 the Kansas turnpike authority or the director's designee has instructed the
+6 division to refuse to accept the registration or renewal of registration,
+7 pursuant to K.S.A. 68-2020a, and amendments thereto, unless the owner or
+8 registered owner makes payment to the county treasurer at the time of
+9 registration or renewal of registration. Of such moneys collected, 15%
+10 shall be retained by the county treasurer and the remainder shall be
+11 remitted to the Kansas turnpike authority.
+12 Sec. 11. K.S.A. 8-173 is hereby repealed.
+13 Sec. 12. This act shall take effect and be in force from and after its
+14 publication in the statute book.
+
+[DELETED: Aet vf e  mr  l iaBNsi0(1(2(3a4c5d6(7(8(9o0(1N2f3v4t5a6v7t8l9(e cr sl at sh re rs a0r1N2(3ly ie va wb ss ed by te is i4ce wh ss ad ss pd by t5c]
+[DELETED: 7(vu(e ae ps to se is da aul(pp0e1p2(3a4(5m6m7l8(9c0(1(2(3(4o5N6c7s8m9Nw S. 5e dt sl pe fg fr t0i1v2r3t4N5K6a7i8(9f0s1c2o3t]
+[DELETED: 7(iKv(mr ve c, et tt is of sh vs mp(v0(1g2(3s4p5N6r7i8Nw S. 8l in ad da pd by i9c0or or in gd fr te ps of te i1v2s3a4p5Nw S. 9e ie vn sm sl be f6o7p8b9s0S1(2c3n4(5t6u7s / 8t9(0s a o ws ad s  i te f a t o1m2(3o]
+[DELETED: 7saa(ndmia0(1v2t334t5i6c7i8i9c0ve or a p of ie rd b K. 4 a1a2p3i4E5p6d7p8f9S0s1d2i3d. Pf of ie m ao be v o o o4e5i6t7r8a9i0p1p2m3(]
+[DELETED: 7rttrtdprr0s1r2S3S4p]

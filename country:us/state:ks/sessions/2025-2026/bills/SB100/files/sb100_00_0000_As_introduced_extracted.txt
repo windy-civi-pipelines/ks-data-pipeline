@@ -1,0 +1,660 @@
+Title: SENATE BILL No. 100
+Official Title: SENATE BILL No. 100
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Federal and State Affairs
+1-29
+1 AN ACT concerning housing; relating to denial of housing or other
+2 adverse actions against tenants or prospective tenants on the basis of
+3 past evictions or rental arrears; prohibiting the reporting of evictions or
+4 rental arrears information by consumer reporting agencies or the use of
+5 such information by landlords for adverse action against tenants after
+6 three years from the date of the evictions or rental arrears; requiring
+7 consumer reporting agencies to provide an opportunity for individuals
+8 to explain any record of evictions or rental arrears; enacting the Kansas
+9 fair chance housing and homelessness reduction act; amending K.S.A.
+10 2024 Supp. 50-626 and repealing the existing section.
+11
+12 Be it enacted by the Legislature of the State of Kansas:
+13 New Section 1. Sections 1 through 4, and amendments thereto, shall
+14 be known and may be cited as the Kansas fair chance housing and
+15 homelessness reduction act.
+16 New Sec. 2. As used in sections 1 through 4, and amendments
+17 thereto:
+18 (a) "Adverse action" means a denial or cancellation of, an increase in
+19 any charge for or any other adverse or unfavorable change in the terms of a
+20 rental agreement applied for by a consumer, offered to a consumer or
+21 previously entered into by a consumer for a dwelling unit.
+22 (b) "Consumer" means an individual.
+23 (c) "Consumer report" means any written, oral or other
+24 communication of any information by a consumer reporting agency
+25 bearing on a consumer's credit worthiness, credit standing, credit capacity,
+26 character, general reputation, personal characteristics, eviction history,
+27 rental arrears or other residential or tenant history or mode of living that is
+28 used or expected to be used or collected, in whole or in part, for the
+29 purpose of serving as a factor in establishing the consumer's eligibility for:
+30 (1) Credit or insurance to be used primarily for personal, family or
+31 household purposes;
+32 (2) employment purposes;
+33 (3) renting a dwelling unit from a landlord as a tenant; or
+34 (4) other purposes as permitted by federal or state law.
+35 (d) "Consumer reporting agency" means any person that for monetary
+36 fees, dues or on a cooperative nonprofit basis, regularly engages, in whole
+SB 100 2
+1 or in part, in the practice of assembling or evaluating consumer credit
+2 information or other information on consumers for the purpose of
+3 furnishing consumer reports to third parties and uses any means or facility
+4 of interstate commerce for the purpose of preparing or furnishing
+5 consumer reports. "Consumer reporting agency" includes any consumer
+6 reporting agency that compiles and maintains files on consumers on a
+7 nationwide basis, reseller or specialty consumer reporting agency.
+8 (e) "Consumer reporting agency that compiles and maintains files on
+9 consumers on a nationwide basis" means a consumer reporting agency that
+10 regularly engages in the practice of assembling or evaluating, and
+11 maintaining, for the purpose of furnishing consumer reports to third parties
+12 bearing on a consumer's credit worthiness, credit standing or credit
+13 capacity, each of the following data regarding consumers residing
+14 nationwide:
+15 (1) Public record information; and
+16 (2) credit account information from persons who furnish such
+17 information regularly and in the ordinary course of business.
+18 (f) "Dwelling unit" means a structure or the part of a structure that is
+19 used as a home, residence or sleeping place by one person who maintains a
+20 household or by two or more persons who maintain a common household.
+21 "Dwelling unit" does not include real property used to accommodate a
+22 manufactured home or mobile home, unless such manufactured home or
+23 mobile home is rented or leased by the landlord.
+24 (g) "File" when used in connection with information on any
+25 consumer, means all of the information on the consumer recorded and
+26 retained by a consumer reporting agency regardless of how the
+27 information is stored.
+28 (h) "Landlord" means the owner, lessor or sublessor of a dwelling
+29 unit, or the building of which it is a part, and the manager of the premises.
+30 (i) "Owner" means one or more persons, jointly or severally, in whom
+31 is vested all or part of the:
+32 (1) Legal title to property; or
+33 (2) beneficial ownership and a right to prevent use and enjoyment of
+34 the premises, including a mortgagee in possession.
+35 (j) "Person" means any individual, partnership, corporation, limited
+36 liability company, business trust, estate, cooperative, association or other
+37 for-profit or nonprofit entity. "Person" does not include any governmental
+38 agency or other governmental entity.
+39 (k) "Premises" means a dwelling unit, and the structure of which it is
+40 a part, and facilities and appurtenances therein and grounds, areas and
+41 facilities held out for the use of tenants generally or the use of which is
+42 promised to the tenant.
+43 (l) "Rental agreement" means all agreements whether written or oral
+SB 100 3
+1 and enforceable rules and regulations adopted by a landlord pursuant to
+2 K.S.A. 58-2556, and amendments thereto, embodying the terms and
+3 conditions concerning the use and occupancy of a dwelling unit and
+4 premise.
+5 (m) "Rental arrears" means any late, unpaid or overdue rent and any
+6 adverse information pertaining to the credit worthiness, credit standing,
+7 credit capacity or an ability to make rental payments of a consumer arising
+8 from a current or prior rental agreement entered into by the consumer.
+9 (n) "Reseller" means a consumer reporting agency that:
+10 (1) Assembles and merges information contained in the database of
+11 another consumer reporting agency or multiple consumer reporting
+12 agencies concerning any consumer for purposes of furnishing such
+13 information to any third party; and
+14 (2) does not maintain a database of the assembled or merged
+15 information from which new consumer reports are produced.
+16 (o) "Residential or tenant history" includes any information relating
+17 to an eviction or to rental arrears.
+18 (p) "Specialty consumer reporting agency" means a consumer
+19 reporting agency that compiles and maintains files on consumers relating
+20 to:
+21 (1) Medical records or payments;
+22 (2) residential or tenant history;
+23 (3) check writing history;
+24 (4) employment history; or
+25 (5) insurance claims.
+26 (q) "Tenant" means a consumer entitled under a rental agreement to
+27 occupy a dwelling unit to the exclusion of others.
+28 New Sec. 3. (a) (1) A consumer reporting agency shall not make or
+29 furnish a consumer report that contains residential or tenant history that is
+30 adverse to the consumer unless the consumer reporting agency has
+31 contacted the consumer, advised the consumer of the residential or tenant
+32 history to be included in such consumer report and offered the consumer
+33 an opportunity to provide an explanation with respect to any such history.
+34 The consumer reporting agency shall attempt to contact the consumer by
+35 means of first-class mail addressed to the most current address of record of
+36 the consumer, telephone to the most recent telephone number of record of
+37 the consumer, if any, and email to the most recent email address of record
+38 of the consumer, if any. Any explanation provided by the consumer shall
+39 be included in the consumer report by the consumer reporting agency.
+40 (2) The consumer report shall include a record of such attempts to
+41 contact the consumer, and if the consumer reporting agency fails to
+42 establish contact with the consumer, the reason for such failure. The
+43 consumer reporting agency shall permit and provide the consumer with the
+SB 100 4
+1 opportunity to provide an explanation, whether verbally or in writing by
+2 mail or email.
+3 (3) The consumer report shall not be furnished until the consumer has
+4 provided an explanation for any adverse residential or tenant history that is
+5 included in the consumer report or 15 business days after the date of
+6 mailing, by first-class mail, of the request for an explanation of the adverse
+7 residential or tenant history, whichever occurs first. In efforts to contact
+8 the consumer, the consumer reporting agency shall advise the consumer of
+9 such deadline and provide a mailing address, email address and telephone
+10 number by which the consumer may provide an explanation.
+11 (b) No consumer reporting agency shall make any consumer report
+12 containing any information or record pertaining to:
+13 (1) An eviction of the consumer by a landlord from a dwelling unit
+14 that antedate the report by more than three years; or
+15 (2) rental arrears of the consumer, including accounts placed for
+16 collection or charged to profit and loss that antedate the report by more
+17 than three years. The three-year period shall begin with respect to any
+18 rental arrears or delinquent account placed for collection, internally or by
+19 referral to a third party, whichever is earlier, charged to profit and loss or
+20 subjected to any similar action, upon the expiration of the 180-day period
+21 beginning on the date of the commencement of the delinquency that
+22 immediately preceded the collection activity, charge to profit and loss or
+23 similar action.
+24 (c) In considering whether to enter into a rental agreement with a
+25 consumer for a dwelling unit or as a basis for taking any adverse action
+26 against a tenant, no landlord shall:
+27 (1) Consider any residential or tenant history prohibited by subsection
+28 (b), whether provided by a consumer reporting agency, contained in a
+29 consumer report or obtained by other means from any public or private
+30 source; or
+31 (2) consider any consumer report containing any residential or tenant
+32 history that does not include an explanation by the consumer or a record of
+33 attempts to contact such consumer as required by subsection (a).
+34 (d) If a landlord declines to enter into a rental agreement with a
+35 consumer for a dwelling unit, cancels such a rental agreement with a
+36 tenant or alters the terms of such a rental agreement adversely to a tenant,
+37 the landlord shall provide the consumer or tenant with any consumer
+38 report or any residential or tenant history from any public or private source
+39 obtained, consulted or considered by the landlord with respect to such
+40 adverse action.
+41 New Sec. 4. (a) A violation of any provision of section 3, and
+42 amendments thereto, by a landlord or a consumer reporting agency is a
+43 deceptive act or practice under the provisions of the Kansas consumer
+SB 100 5
+1 protection act and shall be subject to any and all of the enforcement
+2 provisions of the Kansas consumer protection act.
+3 Sec. 5. K.S.A. 2024 Supp. 50-626 is hereby amended to read as
+4 follows: 50-626. (a) No supplier shall engage in any deceptive act or
+5 practice in connection with a consumer transaction.
+6 (b) Deceptive acts and practices include, but are not limited to, the
+7 following, each of which is hereby declared to be a violation of this act,
+8 whether or not any consumer has in fact been misled:
+9 (1) Representations made knowingly or with reason to know that:
+10 (A) Property or services have sponsorship, approval, accessories,
+11 characteristics, ingredients, uses, benefits or quantities that they do not
+12 have;
+13 (B) the supplier has a sponsorship, approval, status, affiliation or
+14 connection that the supplier does not have;
+15 (C) property is original or new, if such property has been deteriorated,
+16 altered, reconditioned, repossessed or is second-hand or otherwise used to
+17 an extent that is materially different from the representation;
+18 (D) property or services are of particular standard, quality, grade,
+19 style or model, if they are of another which that differs materially from the
+20 representation;
+21 (E) the consumer will receive a rebate, discount or other benefit as an
+22 inducement for entering into a consumer transaction in return for giving
+23 the supplier the names of prospective consumers or otherwise helping the
+24 supplier to enter into other consumer transactions, if receipt of benefit is
+25 contingent on an event occurring after the consumer enters into the
+26 transaction;
+27 (F) property or services has uses, benefits or characteristics unless the
+28 supplier relied upon and possesses a reasonable basis for making such
+29 representation; or
+30 (G) use, benefit or characteristic of property or services has been
+31 proven or otherwise substantiated unless the supplier relied upon and
+32 possesses the type and amount of proof or substantiation represented to
+33 exist;
+34 (2) the willful use, in any oral or written representation, of
+35 exaggeration, falsehood, innuendo or ambiguity as to a material fact;
+36 (3) the willful failure to state a material fact, or the willful
+37 concealment, suppression or omission of a material fact;
+38 (4) disparaging the property, services or business of another by
+39 making, knowingly or with reason to know, false or misleading
+40 representations of material facts;
+41 (5) offering property or services without intent to sell them;
+42 (6) offering property or services without intent to supply reasonable,
+43 expectable public demand, unless the offer discloses the limitation;
+SB 100 6
+1 (7) making false or misleading representations, knowingly or with
+2 reason to know, of fact concerning the reason for, existence of or amounts
+3 of price reductions, or the price in comparison to prices of competitors or
+4 one's own price at a past or future time;
+5 (8) falsely stating, knowingly or with reason to know, that a consumer
+6 transaction involves consumer rights, remedies or obligations;
+7 (9) falsely stating, knowingly or with reason to know, that services,
+8 replacements or repairs are needed;
+9 (10) falsely stating, knowingly or with reason to know, the reasons
+10 for offering or supplying property or services at sale or discount prices;
+11 (11) sending or delivering a solicitation for goods or services which
+12 that could reasonably be interpreted or construed as a bill, invoice or
+13 statement of account due, unless:
+14 (A) Such solicitation contains the following notice, on its face, in
+15 conspicuous and legible type in contrast by typography, layout or color
+16 with other printing on its face:
+17 "THIS IS A SOLICITATION FOR THE PURCHASE OF GOODS OR
+18 SERVICES AND NOT A BILL, INVOICE OR STATEMENT OF
+19 ACCOUNT DUE. YOU ARE UNDER NO OBLIGATION TO MAKE
+20 ANY PAYMENTS UNLESS YOU ACCEPT THIS OFFER"; and
+21 (B) such solicitation, if made by any classified telephone directory
+22 service not affiliated with a local telephone service in the area of service,
+23 contains the following notice, on its face, in a prominent and conspicuous
+24 manner:
+25 "_____________________________ IS NOT
+26 (name of telephone directory service)
+27 AFFILIATED WITH ANY LOCAL TELEPHONE COMPANY";
+28 (12) (A) using, in any printed advertisement, an assumed or fictitious
+29 name for the conduct of such person's business that includes the name of
+30 any municipality, community or region or other description of the
+31 municipality, community or region in this state in such a manner as to
+32 suggest that such person's business is located in such municipality,
+33 community or region unless:
+34 (A)(i) Such person's business is, in fact, located in such municipality,
+35 community or region; or
+36 (B)(ii) such person includes in any such printed advertisement the
+37 complete street and city address of the location from which such person's
+38 business is actually conducted. If located outside of Kansas, the state in
+39 which such person's business is located also shall be included.
+40 (B) The provisions of this subsection shall not apply to the use of any
+41 trademark or service mark registered under the laws of this state or under
+42 federal law;, any such name that, when applied to the goods or services of
+43 such person's business, is merely descriptive of them;, or any such name
+SB 100 7
+1 that is merely a surname. Nothing in this subsection shall be construed to
+2 impose any liability on any publisher when such publisher had no
+3 knowledge that the business was not, in fact, located in such municipality,
+4 community or region;
+5 (13) (A) making an oral solicitation for products or services based on
+6 a mortgage trigger lead unless the solicitation clearly and conspicuously
+7 states in the initial phase of the solicitation that the solicitor is not
+8 affiliated with the lender or broker with which the consumer initially
+9 applied and that the solicitation is based on personal information about the
+10 consumer that was purchased, directly or indirectly, from a consumer
+11 reporting agency without the knowledge or permission of the lender or
+12 broker with which the consumer initially applied;
+13 (B) making a written solicitation for products or services based on a
+14 mortgage trigger lead unless the solicitation clearly and conspicuously
+15 states on the first page of the solicitation that the solicitor is not affiliated
+16 with the lender or broker with which the consumer initially applied and
+17 that the solicitation is based on personal information about the consumer
+18 that was purchased, directly or indirectly, from a consumer reporting
+19 agency without the knowledge or permission of the lender or broker with
+20 which the consumer initially applied. A clear and conspicuous shall include
+21 statement of such solicitation includes having legible type in contrast by
+22 typography, layout or color with other printing on the first page of the
+23 correspondence; and
+24 (C) any solicitor under clause (A) or (B) shall be in compliance with
+25 the provisions of the Kansas mortgage business act, unless otherwise
+26 exempted from such act, and any other law or regulation; and
+27 (14) failing to release funds representing an insurance settlement
+28 payment for damage to real property subject to a mortgage by the
+29 mortgage holder to the mortgagor within 30 days after receiving written
+30 proof that the damaged property is replaced or otherwise repaired to the
+31 satisfaction of the mortgagor and the mortgage holder. Any person who
+32 submits false information regarding the condition of the property shall be
+33 liable in damages to the mortgage holder or the mortgage holder's assignee
+34 for the amount of the funds together with interest thereon, attorney fees,
+35 and any additional damages that the mortgage holder or the mortgage
+36 holder's assignee has incurred; and
+37 (15) willfully violating the provisions of section 3, and amendments
+38 thereto. This paragraph and all relevant provisions of the consumer
+39 protection act pertaining to enforcement of the act or penalties, remedies,
+40 damages or recovery of attorney fees for violations of the act shall be an
+41 alternative to applicable provisions of the residential landlord and tenant
+42 act, K.S.A. 58-2540 et seq., and amendments thereto, for the purposes of
+43 enforcement of the provisions of section 3, and amendments thereto. In a
+SB 100 8
+1 proceeding under the consumer protection act for purposes of such
+2 enforcement, the provisions of such act shall take precedence in any
+3 conflict with provisions of the residential landlord and tenant act.
+4 Sec. 6. K.S.A. 2024 Supp. 50-626 is hereby repealed.
+5 Sec. 7. This act shall take effect and be in force from and after its
+6 publication in the statute book.
+[DELETED: Aaprstctf022B3N4b5h6N7t8(9a0r1p2(3(r r" ms ay w, ol or o4c5b6c7r8u9p0(1h2(3(4(5(6f]
+[DELETED: 0oin or or in on cs fr te pe ofof ie ce fr te pe of pg or fcrn(c0r es in te pe of a or e, a1m2b3c, eh of te fg da rg cs r4n5(6(t at in fm ps wo fh s7i8(9u0h1"2m3m4(" wn ud in cn wh in on a5c6rd by a cr rg ay rs of hw t7i8(9u0(1i2(3(4t5(6l7f8a9(0a1f2p3(]
+[DELETED: 0aKcp(acf(0(1ar cr rg ay or me cr r2as cg a cr fr ps of fg s3i4(s nt mn a de of te ad or m5i6(7t8(y cr rg a" ms a c9r0t1(2(3(4(5(6(7o8N9f0as 1c2h3a4T5m6t7t8o9b0(1c2e3c]
+[DELETED: 0om(pimrts0n1(2c3(4t5(6c7t8r9r0s1b2i3s4(5c6a7(8(9c0s1(2h3a4(5c6t7t8r9o0a1N2a3d]
+[DELETED: 0ppSfp(fw(0(1c2h3(4c5(6a7a8(9s0r1(2i3t4s5c6t7(8s9r0(1p2p3e4(e wl u, in ay ol or wn r, o5e6(e wl fe to se a ml f, or te w7c8(9m, ky or wh rn to k, fe or m0r1(2(3e]
+[DELETED: 0(roo(t(r(0f1(2t c3s4(5c6w7"8SS D NT  B, IE OR ST O9A0A1(2s3c4m5"6(7A8(9n0a m, c or n or or dn of t1m2ss 3c4(5c6(7c8b9w0(1t2f3s]
+[DELETED: 0tikc(asaa0c1r2b3(4m5s6w7t8t9a0w1s2t3c4(5t6e7(8p9m0p1s2s3l4f5a6h7(8t9p0d1a2a3e]
+[DELETED: 0pecSSp]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 100
+By Committee on Federal and State Affairs
+1-29
+1 AN ACT concerning housing; relating to denial of housing or other
+2 adverse actions against tenants or prospective tenants on the basis of
+3 past evictions or rental arrears; prohibiting the reporting of evictions or
+4 rental arrears information by consumer reporting agencies or the use of
+5 such information by landlords for adverse action against tenants after
+6 three years from the date of the evictions or rental arrears; requiring
+7 consumer reporting agencies to provide an opportunity for individuals
+8 to explain any record of evictions or rental arrears; enacting the Kansas
+9 fair chance housing and homelessness reduction act; amending K.S.A.
+10 2024 Supp. 50-626 and repealing the existing section.
+11
+12 Be it enacted by the Legislature of the State of Kansas:
+13 New Section 1. Sections 1 through 4, and amendments thereto, shall
+14 be known and may be cited as the Kansas fair chance housing and
+15 homelessness reduction act.
+16 New Sec. 2. As used in sections 1 through 4, and amendments
+17 thereto:
+18 (a) "Adverse action" means a denial or cancellation of, an increase in
+19 any charge for or any other adverse or unfavorable change in the terms of a
+20 rental agreement applied for by a consumer, offered to a consumer or
+21 previously entered into by a consumer for a dwelling unit.
+22 (b) "Consumer" means an individual.
+23 (c) "Consumer report" means any written, oral or other
+24 communication of any information by a consumer reporting agency
+25 bearing on a consumer's credit worthiness, credit standing, credit capacity,
+26 character, general reputation, personal characteristics, eviction history,
+27 rental arrears or other residential or tenant history or mode of living that is
+28 used or expected to be used or collected, in whole or in part, for the
+29 purpose of serving as a factor in establishing the consumer's eligibility for:
+30 (1) Credit or insurance to be used primarily for personal, family or
+31 household purposes;
+32 (2) employment purposes;
+33 (3) renting a dwelling unit from a landlord as a tenant; or
+34 (4) other purposes as permitted by federal or state law.
+35 (d) "Consumer reporting agency" means any person that for monetary
+36 fees, dues or on a cooperative nonprofit basis, regularly engages, in whole
+
+SB 100 2
+1 or in part, in the practice of assembling or evaluating consumer credit
+2 information or other information on consumers for the purpose of
+3 furnishing consumer reports to third parties and uses any means or facility
+4 of interstate commerce for the purpose of preparing or furnishing
+5 consumer reports. "Consumer reporting agency" includes any consumer
+6 reporting agency that compiles and maintains files on consumers on a
+7 nationwide basis, reseller or specialty consumer reporting agency.
+8 (e) "Consumer reporting agency that compiles and maintains files on
+9 consumers on a nationwide basis" means a consumer reporting agency that
+10 regularly engages in the practice of assembling or evaluating, and
+11 maintaining, for the purpose of furnishing consumer reports to third parties
+12 bearing on a consumer's credit worthiness, credit standing or credit
+13 capacity, each of the following data regarding consumers residing
+14 nationwide:
+15 (1) Public record information; and
+16 (2) credit account information from persons who furnish such
+17 information regularly and in the ordinary course of business.
+18 (f) "Dwelling unit" means a structure or the part of a structure that is
+19 used as a home, residence or sleeping place by one person who maintains a
+20 household or by two or more persons who maintain a common household.
+21 "Dwelling unit" does not include real property used to accommodate a
+22 manufactured home or mobile home, unless such manufactured home or
+23 mobile home is rented or leased by the landlord.
+24 (g) "File" when used in connection with information on any
+25 consumer, means all of the information on the consumer recorded and
+26 retained by a consumer reporting agency regardless of how the
+27 information is stored.
+28 (h) "Landlord" means the owner, lessor or sublessor of a dwelling
+29 unit, or the building of which it is a part, and the manager of the premises.
+30 (i) "Owner" means one or more persons, jointly or severally, in whom
+31 is vested all or part of the:
+32 (1) Legal title to property; or
+33 (2) beneficial ownership and a right to prevent use and enjoyment of
+34 the premises, including a mortgagee in possession.
+35 (j) "Person" means any individual, partnership, corporation, limited
+36 liability company, business trust, estate, cooperative, association or other
+37 for-profit or nonprofit entity. "Person" does not include any governmental
+38 agency or other governmental entity.
+39 (k) "Premises" means a dwelling unit, and the structure of which it is
+40 a part, and facilities and appurtenances therein and grounds, areas and
+41 facilities held out for the use of tenants generally or the use of which is
+42 promised to the tenant.
+43 (l) "Rental agreement" means all agreements whether written or oral
+
+SB 100 3
+1 and enforceable rules and regulations adopted by a landlord pursuant to
+2 K.S.A. 58-2556, and amendments thereto, embodying the terms and
+3 conditions concerning the use and occupancy of a dwelling unit and
+4 premise.
+5 (m) "Rental arrears" means any late, unpaid or overdue rent and any
+6 adverse information pertaining to the credit worthiness, credit standing,
+7 credit capacity or an ability to make rental payments of a consumer arising
+8 from a current or prior rental agreement entered into by the consumer.
+9 (n) "Reseller" means a consumer reporting agency that:
+10 (1) Assembles and merges information contained in the database of
+11 another consumer reporting agency or multiple consumer reporting
+12 agencies concerning any consumer for purposes of furnishing such
+13 information to any third party; and
+14 (2) does not maintain a database of the assembled or merged
+15 information from which new consumer reports are produced.
+16 (o) "Residential or tenant history" includes any information relating
+17 to an eviction or to rental arrears.
+18 (p) "Specialty consumer reporting agency" means a consumer
+19 reporting agency that compiles and maintains files on consumers relating
+20 to:
+21 (1) Medical records or payments;
+22 (2) residential or tenant history;
+23 (3) check writing history;
+24 (4) employment history; or
+25 (5) insurance claims.
+26 (q) "Tenant" means a consumer entitled under a rental agreement to
+27 occupy a dwelling unit to the exclusion of others.
+28 New Sec. 3. (a) (1) A consumer reporting agency shall not make or
+29 furnish a consumer report that contains residential or tenant history that is
+30 adverse to the consumer unless the consumer reporting agency has
+31 contacted the consumer, advised the consumer of the residential or tenant
+32 history to be included in such consumer report and offered the consumer
+33 an opportunity to provide an explanation with respect to any such history.
+34 The consumer reporting agency shall attempt to contact the consumer by
+35 means of first-class mail addressed to the most current address of record of
+36 the consumer, telephone to the most recent telephone number of record of
+37 the consumer, if any, and email to the most recent email address of record
+38 of the consumer, if any. Any explanation provided by the consumer shall
+39 be included in the consumer report by the consumer reporting agency.
+40 (2) The consumer report shall include a record of such attempts to
+41 contact the consumer, and if the consumer reporting agency fails to
+42 establish contact with the consumer, the reason for such failure. The
+43 consumer reporting agency shall permit and provide the consumer with the
+
+SB 100 4
+1 opportunity to provide an explanation, whether verbally or in writing by
+2 mail or email.
+3 (3) The consumer report shall not be furnished until the consumer has
+4 provided an explanation for any adverse residential or tenant history that is
+5 included in the consumer report or 15 business days after the date of
+6 mailing, by first-class mail, of the request for an explanation of the adverse
+7 residential or tenant history, whichever occurs first. In efforts to contact
+8 the consumer, the consumer reporting agency shall advise the consumer of
+9 such deadline and provide a mailing address, email address and telephone
+10 number by which the consumer may provide an explanation.
+11 (b) No consumer reporting agency shall make any consumer report
+12 containing any information or record pertaining to:
+13 (1) An eviction of the consumer by a landlord from a dwelling unit
+14 that antedate the report by more than three years; or
+15 (2) rental arrears of the consumer, including accounts placed for
+16 collection or charged to profit and loss that antedate the report by more
+17 than three years. The three-year period shall begin with respect to any
+18 rental arrears or delinquent account placed for collection, internally or by
+19 referral to a third party, whichever is earlier, charged to profit and loss or
+20 subjected to any similar action, upon the expiration of the 180-day period
+21 beginning on the date of the commencement of the delinquency that
+22 immediately preceded the collection activity, charge to profit and loss or
+23 similar action.
+24 (c) In considering whether to enter into a rental agreement with a
+25 consumer for a dwelling unit or as a basis for taking any adverse action
+26 against a tenant, no landlord shall:
+27 (1) Consider any residential or tenant history prohibited by subsection
+28 (b), whether provided by a consumer reporting agency, contained in a
+29 consumer report or obtained by other means from any public or private
+30 source; or
+31 (2) consider any consumer report containing any residential or tenant
+32 history that does not include an explanation by the consumer or a record of
+33 attempts to contact such consumer as required by subsection (a).
+34 (d) If a landlord declines to enter into a rental agreement with a
+35 consumer for a dwelling unit, cancels such a rental agreement with a
+36 tenant or alters the terms of such a rental agreement adversely to a tenant,
+37 the landlord shall provide the consumer or tenant with any consumer
+38 report or any residential or tenant history from any public or private source
+39 obtained, consulted or considered by the landlord with respect to such
+40 adverse action.
+41 New Sec. 4. (a) A violation of any provision of section 3, and
+42 amendments thereto, by a landlord or a consumer reporting agency is a
+43 deceptive act or practice under the provisions of the Kansas consumer
+
+SB 100 5
+1 protection act and shall be subject to any and all of the enforcement
+2 provisions of the Kansas consumer protection act.
+3 Sec. 5. K.S.A. 2024 Supp. 50-626 is hereby amended to read as
+4 follows: 50-626. (a) No supplier shall engage in any deceptive act or
+5 practice in connection with a consumer transaction.
+6 (b) Deceptive acts and practices include, but are not limited to, the
+7 following, each of which is hereby declared to be a violation of this act,
+8 whether or not any consumer has in fact been misled:
+9 (1) Representations made knowingly or with reason to know that:
+10 (A) Property or services have sponsorship, approval, accessories,
+11 characteristics, ingredients, uses, benefits or quantities that they do not
+12 have;
+13 (B) the supplier has a sponsorship, approval, status, affiliation or
+14 connection that the supplier does not have;
+15 (C) property is original or new, if such property has been deteriorated,
+16 altered, reconditioned, repossessed or is second-hand or otherwise used to
+17 an extent that is materially different from the representation;
+18 (D) property or services are of particular standard, quality, grade,
+19 style or model, if they are of another which that differs materially from the
+20 representation;
+21 (E) the consumer will receive a rebate, discount or other benefit as an
+22 inducement for entering into a consumer transaction in return for giving
+23 the supplier the names of prospective consumers or otherwise helping the
+24 supplier to enter into other consumer transactions, if receipt of benefit is
+25 contingent on an event occurring after the consumer enters into the
+26 transaction;
+27 (F) property or services has uses, benefits or characteristics unless the
+28 supplier relied upon and possesses a reasonable basis for making such
+29 representation; or
+30 (G) use, benefit or characteristic of property or services has been
+31 proven or otherwise substantiated unless the supplier relied upon and
+32 possesses the type and amount of proof or substantiation represented to
+33 exist;
+34 (2) the willful use, in any oral or written representation, of
+35 exaggeration, falsehood, innuendo or ambiguity as to a material fact;
+36 (3) the willful failure to state a material fact, or the willful
+37 concealment, suppression or omission of a material fact;
+38 (4) disparaging the property, services or business of another by
+39 making, knowingly or with reason to know, false or misleading
+40 representations of material facts;
+41 (5) offering property or services without intent to sell them;
+42 (6) offering property or services without intent to supply reasonable,
+43 expectable public demand, unless the offer discloses the limitation;
+
+SB 100 6
+1 (7) making false or misleading representations, knowingly or with
+2 reason to know, of fact concerning the reason for, existence of or amounts
+3 of price reductions, or the price in comparison to prices of competitors or
+4 one's own price at a past or future time;
+5 (8) falsely stating, knowingly or with reason to know, that a consumer
+6 transaction involves consumer rights, remedies or obligations;
+7 (9) falsely stating, knowingly or with reason to know, that services,
+8 replacements or repairs are needed;
+9 (10) falsely stating, knowingly or with reason to know, the reasons
+10 for offering or supplying property or services at sale or discount prices;
+11 (11) sending or delivering a solicitation for goods or services which
+12 that could reasonably be interpreted or construed as a bill, invoice or
+13 statement of account due, unless:
+14 (A) Such solicitation contains the following notice, on its face, in
+15 conspicuous and legible type in contrast by typography, layout or color
+16 with other printing on its face:
+17 "THIS IS A SOLICITATION FOR THE PURCHASE OF GOODS OR
+18 SERVICES AND NOT A BILL, INVOICE OR STATEMENT OF
+19 ACCOUNT DUE. YOU ARE UNDER NO OBLIGATION TO MAKE
+20 ANY PAYMENTS UNLESS YOU ACCEPT THIS OFFER"; and
+21 (B) such solicitation, if made by any classified telephone directory
+22 service not affiliated with a local telephone service in the area of service,
+23 contains the following notice, on its face, in a prominent and conspicuous
+24 manner:
+25 "_____________________________ IS NOT
+26 (name of telephone directory service)
+27 AFFILIATED WITH ANY LOCAL TELEPHONE COMPANY";
+28 (12) (A) using, in any printed advertisement, an assumed or fictitious
+29 name for the conduct of such person's business that includes the name of
+30 any municipality, community or region or other description of the
+31 municipality, community or region in this state in such a manner as to
+32 suggest that such person's business is located in such municipality,
+33 community or region unless:
+34 (A)(i) Such person's business is, in fact, located in such municipality,
+35 community or region; or
+36 (B)(ii) such person includes in any such printed advertisement the
+37 complete street and city address of the location from which such person's
+38 business is actually conducted. If located outside of Kansas, the state in
+39 which such person's business is located also shall be included.
+40 (B) The provisions of this subsection shall not apply to the use of any
+41 trademark or service mark registered under the laws of this state or under
+42 federal law;, any such name that, when applied to the goods or services of
+43 such person's business, is merely descriptive of them;, or any such name
+
+SB 100 7
+1 that is merely a surname. Nothing in this subsection shall be construed to
+2 impose any liability on any publisher when such publisher had no
+3 knowledge that the business was not, in fact, located in such municipality,
+4 community or region;
+5 (13) (A) making an oral solicitation for products or services based on
+6 a mortgage trigger lead unless the solicitation clearly and conspicuously
+7 states in the initial phase of the solicitation that the solicitor is not
+8 affiliated with the lender or broker with which the consumer initially
+9 applied and that the solicitation is based on personal information about the
+10 consumer that was purchased, directly or indirectly, from a consumer
+11 reporting agency without the knowledge or permission of the lender or
+12 broker with which the consumer initially applied;
+13 (B) making a written solicitation for products or services based on a
+14 mortgage trigger lead unless the solicitation clearly and conspicuously
+15 states on the first page of the solicitation that the solicitor is not affiliated
+16 with the lender or broker with which the consumer initially applied and
+17 that the solicitation is based on personal information about the consumer
+18 that was purchased, directly or indirectly, from a consumer reporting
+19 agency without the knowledge or permission of the lender or broker with
+20 which the consumer initially applied. A clear and conspicuous shall include
+21 statement of such solicitation includes having legible type in contrast by
+22 typography, layout or color with other printing on the first page of the
+23 correspondence; and
+24 (C) any solicitor under clause (A) or (B) shall be in compliance with
+25 the provisions of the Kansas mortgage business act, unless otherwise
+26 exempted from such act, and any other law or regulation; and
+27 (14) failing to release funds representing an insurance settlement
+28 payment for damage to real property subject to a mortgage by the
+29 mortgage holder to the mortgagor within 30 days after receiving written
+30 proof that the damaged property is replaced or otherwise repaired to the
+31 satisfaction of the mortgagor and the mortgage holder. Any person who
+32 submits false information regarding the condition of the property shall be
+33 liable in damages to the mortgage holder or the mortgage holder's assignee
+34 for the amount of the funds together with interest thereon, attorney fees,
+35 and any additional damages that the mortgage holder or the mortgage
+36 holder's assignee has incurred; and
+37 (15) willfully violating the provisions of section 3, and amendments
+38 thereto. This paragraph and all relevant provisions of the consumer
+39 protection act pertaining to enforcement of the act or penalties, remedies,
+40 damages or recovery of attorney fees for violations of the act shall be an
+41 alternative to applicable provisions of the residential landlord and tenant
+42 act, K.S.A. 58-2540 et seq., and amendments thereto, for the purposes of
+43 enforcement of the provisions of section 3, and amendments thereto. In a
+
+SB 100 8
+1 proceeding under the consumer protection act for purposes of such
+2 enforcement, the provisions of such act shall take precedence in any
+3 conflict with provisions of the residential landlord and tenant act.
+4 Sec. 6. K.S.A. 2024 Supp. 50-626 is hereby repealed.
+5 Sec. 7. This act shall take effect and be in force from and after its
+6 publication in the statute book.
+
+[DELETED: Aaprstctf022B3N4b5h6N7t8(9a0r1p2(3(r r" ms ay w, ol or o4c5b6c7r8u9p0(1h2(3(4(5(6f]
+[DELETED: 0oin or or in on cs fr te pe ofof ie ce fr te pe of pg or fcrn(c0r es in te pe of a or e, a1m2b3c, eh of te fg da rg cs r4n5(6(t at in fm ps wo fh s7i8(9u0h1"2m3m4(" wn ud in cn wh in on a5c6rd by a cr rg ay rs of hw t7i8(9u0(1i2(3(4t5(6l7f8a9(0a1f2p3(]
+[DELETED: 0aKcp(acf(0(1ar cr rg ay or me cr r2as cg a cr fr ps of fg s3i4(s nt mn a de of te ad or m5i6(7t8(y cr rg a" ms a c9r0t1(2(3(4(5(6(7o8N9f0as 1c2h3a4T5m6t7t8o9b0(1c2e3c]
+[DELETED: 0om(pimrts0n1(2c3(4t5(6c7t8r9r0s1b2i3s4(5c6a7(8(9c0s1(2h3a4(5c6t7t8r9o0a1N2a3d]
+[DELETED: 0ppSfp(fw(0(1c2h3(4c5(6a7a8(9s0r1(2i3t4s5c6t7(8s9r0(1p2p3e4(e wl u, in ay ol or wn r, o5e6(e wl fe to se a ml f, or te w7c8(9m, ky or wh rn to k, fe or m0r1(2(3e]
+[DELETED: 0(roo(t(r(0f1(2t c3s4(5c6w7"8SS D NT  B, IE OR ST O9A0A1(2s3c4m5"6(7A8(9n0a m, c or n or or dn of t1m2ss 3c4(5c6(7c8b9w0(1t2f3s]
+[DELETED: 0tikc(asaa0c1r2b3(4m5s6w7t8t9a0w1s2t3c4(5t6e7(8p9m0p1s2s3l4f5a6h7(8t9p0d1a2a3e]
+[DELETED: 0pecSSp]

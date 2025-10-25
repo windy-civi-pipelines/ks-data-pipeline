@@ -1,0 +1,395 @@
+Title: SENATE BILL No. 259
+Official Title: SENATE BILL No. 259
+Number of Sections: 1
+Source: versions - As Amended by Senate Committee
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+As Amended by Senate Committee
+Session of 2025
+By Committee on Assessment and Taxation
+2-11
+1 AN ACT concerning taxation; relating to income tax and privilege taxes;
+2 providing that future tax rate decreases be contingent on exceeding
+3 revenue estimates; amending K.S.A. 2024 Supp. 79-1107, 79-1108 and
+4 79-32,110 and repealing the existing section sections.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 New Section 1. (a) As used in this section:
+8 (1) "Adjusted consumer price ratio" means the fiscal year consumer
+9 price index divided by the base year consumer price index.
+10 (2) "Adjusted general revenue fund collections" means actual tax
+11 receipt revenues to the state general fund.
+12 (3) "Base year revenues" means actual tax receipt revenues to the
+13 state general fund for fiscal year 2024 in the amount of $10,003,833,599.
+14 (4) "Base year consumer price index" means a 12-month average of
+15 the not seasonally adjusted consumer price index for all urban consumers
+16 for fiscal year 2024.
+17 (5) "Excess fiscal year general revenue fund collections" means the
+18 positive difference from subtracting the inflation adjusted base year
+19 revenues from the adjusted general revenue fund collections from the
+20 immediately preceding fiscal year.
+21 (6) "Fiscal year consumer price index" means a 12-month average of
+22 the not seasonally adjusted consumer price index for all urban consumers
+23 for the immediately preceding fiscal year.
+24 (7) "Inflation adjusted base year revenues" means the base year
+25 revenues multiplied by the adjusted consumer price ratio.
+26 (b) Commencing on August 15, 2025, and every August 15 thereafter,
+27 the director of the budget, in consultation with the director of legislative
+28 research, shall determine whether the total fiscal year adjusted general
+29 revenue fund collections from the immediately preceding fiscal year are in
+30 excess of the inflation adjusted base year revenues. If the total fiscal year
+31 adjusted general revenue fund collections from the immediately preceding
+32 fiscal year are in excess of the inflation adjusted base year revenues, the
+33 director of the budget shall certify to the secretary of revenue the existence
+34 of such excess and the amount of the excess.
+35 (c) In the event that the secretary of revenue certifies that the adjusted
+36 general revenue fund collections from the immediately preceding fiscal
+SB 259—Am. by SC 2
+1 year are in excess of the inflation adjusted base year revenues, the
+2 secretary shall calculate and publish the income tax rate reduction and
+3 privilege tax rate reductions as a result of the excess. In calculating the
+4 income tax rate reduction reductions, the excess fiscal year general
+5 revenue fund collections shall be computed that would result in the
+6 reduction of the income tax rates pursuant to subsection (d) in an amount
+7 approximately equal to the rate reductions down to the nearest 0.01% to go
+8 into effect for the next tax year. In calculating the privilege tax rate
+9 reductions pursuant to subsection (d), the reduction shall be a
+10 corresponding rate reduction that is equal to the total percentage
+11 adjustment to the corporate income tax. Such rate reductions shall remain
+12 in effect unless further reduced pursuant to this section. The income tax
+13 brackets and taxable income thresholds prescribed in K.S.A. 79-32,110(a),
+14 and amendments thereto, shall be adjusted to reflect the changes in income
+15 tax rates.
+16 (d) The secretary shall first compute the reduction of the income tax
+17 rates pursuant to K.S.A. 79-32,110(a), and amendments thereto, that
+18 decreases proportionally all tax rates in effect. Once the lower income tax
+19 rate is decreased to 4.5%, there shall be no further reductions to the lower
+20 income tax rate and further reductions shall only be applied to reduce the
+21 higher income tax rate in effect. Upon the higher income tax rate being
+22 decreased to 4.5%, no further reductions shall occur to K.S.A. 79-
+23 32,110(a), and amendments thereto. The secretary shall then compute
+24 decreases to:
+25 (1) The surtax imposed pursuant to K.S.A. 79-32,110(c), and
+26 amendments thereto. The surtax shall be decreased until the combined
+27 normal and surtax rates equal 4.5% that are imposed pursuant to K.S.A.
+28 79-32,110(c), and amendments thereto. Once the combined normal and
+29 surtax rates pursuant to K.S.A. 79-32,110(a) 79-32,110(c), and
+30 amendments thereto, equal 4.5%, no further reductions shall occur;
+31 (2) the normal tax imposed pursuant to K.S.A. 79-1107, and
+32 amendments thereto. The normal tax shall be decreased until the
+33 combined normal and surtax rates equal 2.82% that are imposed
+34 pursuant to K.S.A. 79-1107, and amendments thereto. Once the
+35 combined normal and surtax rates pursuant to K.S.A. 79-1107, and
+36 amendments thereto, equal 2.82%, no further reductions shall occur;
+37 and
+38 (3) the normal tax imposed pursuant to K.S.A. 79-1108, and
+39 amendments thereto. The normal tax shall be decreased until the
+40 combined normal and surtax rates equal 2.9% that are imposed
+41 pursuant to K.S.A. 79-1108, and amendments thereto. Once the
+42 combined normal and surtax rates pursuant to K.S.A. 79-1108, and
+43 amendments thereto, equal 2.9%, no further reductions shall occur.
+SB 259—Am. by SC 3
+1 Sec. 2. K.S.A. 2024 Supp. 79-1107 is hereby amended to read as
+2 follows: 79-1107. (a) Every national banking association and state bank
+3 located or doing business within the state shall pay to the state for the
+4 privilege of doing business within the state a tax according to or
+5 measured by its net income for the next preceding taxable year to be
+6 computed as provided in this act. Such tax shall consist of a normal tax
+7 and a surtax and shall be computed as follows unless otherwise modified
+8 pursuant to section 1, and amendments thereto:
+9 (1) For tax year 2024, and all tax years thereafter, the normal tax
+10 shall be an amount equal to 1.94% of such net income; and
+11 (2) the surtax shall be an amount equal to 2.125% of such net
+12 income in excess of $25,000.
+13 (b) The tax levied shall be in lieu of ad valorem taxes which might
+14 otherwise be imposed by the state or political subdivisions thereof upon
+15 shares of capital stock or the intangible assets of national banking
+16 associations and state banks.
+17 Sec. 3. K.S.A. 2024 Supp. 79-1108 is hereby amended to read as
+18 follows: 79-1108. (a) Every trust company and savings and loan
+19 association located or doing business within the state shall pay to the
+20 state for the privilege of doing business within the state a tax according
+21 to or measured by its net income for the next preceding taxable year to
+22 be computed as provided in this act. Such tax shall consist of a normal
+23 tax and a surtax and shall be computed as follows unless otherwise
+24 modified pursuant to section 1, and amendments thereto:
+25 (1) For tax year 2024, and all tax years thereafter, the normal tax
+26 on every trust company and savings and loan association shall be an
+27 amount equal to 1.93% of such net income; and
+28 (2) the surtax on every trust company and savings and loan
+29 association shall be an amount equal to 2.25% of such net income in
+30 excess of $25,000.
+31 (b) The tax levied shall be in lieu of ad valorem taxes which might
+32 otherwise be imposed by the state or political subdivision thereof upon
+33 shares of capital stock or other intangible assets of trust companies and
+34 savings and loan associations.
+35 Sec. 2. 4. K.S.A. 2024 Supp. 79-32,110 is hereby amended to read as
+36 follows: 79-32,110. (a) Resident individuals. Except as otherwise provided
+37 by K.S.A. 79-3220(a), and amendments thereto, a tax is hereby imposed
+38 upon the Kansas taxable income of every resident individual, which tax
+39 shall be computed in accordance with the following tax schedules unless
+40 otherwise modified pursuant to section 1, and amendments thereto:
+41 (1) Married individuals filing joint returns.
+42 (A) For tax years 2018 through 2023:
+43 If the taxable income is: The tax is:
+SB 259—Am. by SC 4
+1 Not over $30,000…..............................3.1% of Kansas taxable
+2 income
+3 Over $30,000 but not over $60,000…..$930 plus 5.25% of excess
+4 over $30,000
+5 Over $60,000........................................$2,505 plus 5.7% of excess
+6 over $60,000
+7 (B) For tax year 2024, and all tax years thereafter:
+8 If the taxable income is: The tax is:
+9 Not over $46,000…...............................5.2% of Kansas taxable
+10 income
+11 Over $46,000........................................$2,392 plus 5.58% of excess
+12 over $46,000
+13 (2) All other individuals.
+14 (A) For tax years 2018 through 2023:
+15 If the taxable income is: The tax is:
+16 Not over $15,000..................................3.1% of Kansas taxable
+17 income
+18 Over $15,000 but not over $30,000.....$465 plus 5.25% of excess
+19 over $15,000
+20 Over $30,000........................................$1,252.50 plus 5.7% of
+21 excess over $30,000
+22 (B) For tax year 2024, and all tax years thereafter:
+23 If the taxable income is: The tax is:
+24 Not over $23,000….............................5.2% of Kansas taxable
+25 income
+26 Over $23,000........................................$1,196 plus 5.58% of excess
+27 over $23,000
+28 (b) Nonresident individuals. A tax is hereby imposed upon the Kansas
+29 taxable income of every nonresident individual, which tax shall be an
+30 amount equal to the tax computed under subsection (a) as if the
+31 nonresident were a resident multiplied by the ratio of modified Kansas
+32 source income to Kansas adjusted gross income.
+33 (c) Corporations. A tax is hereby imposed upon the Kansas taxable
+34 income of every corporation doing business within this state or deriving
+35 income from sources within this state. Such tax shall consist of a normal
+36 tax and a surtax and shall be computed as follows unless otherwise
+37 modified pursuant to K.S.A. 2024 Supp. 74-50,321 or section 1, and
+38 amendments thereto:
+39 (1) The normal tax shall be in an amount equal to 4% of the Kansas
+40 taxable income of such corporation; and
+41 (2) the surtax shall be in an amount equal to 3% of the Kansas taxable
+42 income of such corporation in excess of $50,000.
+43 (d) Fiduciaries. A tax is hereby imposed upon the Kansas taxable
+SB 259—Am. by SC 5
+1 income of estates and trusts at the rates provided in subsection (a)(2).
+2 (e) Notwithstanding the provisions of subsections (a) and (b), for tax
+3 years 2018 through 2023, married individuals filing joint returns with
+4 taxable income of $5,000 or less, and all other individuals with taxable
+5 income of $2,500 or less, shall have a tax liability of zero.
+6 Sec. 3. 5. K.S.A. 2024 Supp. 79-1107, 79-1108 and 79-32,110 is are
+7 hereby repealed.
+8 Sec. 4. 6. This act shall take effect and be in force from and after its
+9 publication in the statute book.
+[DELETED: Apr7BN(p0(1r2(3s4(5t6f7(8p9r0i1(2t3f4(5r6(7t8r9r0e1a2f3d4o5(6g]
+[DELETED: Cyspi r r rrrai Irs pt to sn (, te rn sl be a0c1a2i3b4a5t6(7r8d9r0i1h2d334d5() e sx id pt to K. 7, a6a7n879sx rs pt to K 7 7, a0a1(e nl tx id pt to K. 7, a2a3c4pt to K. 7, ad as t. Oe t5c6a7a8(e nl tx id pt to K. 7, a9a0cd nl ad sx rs el 2% tt ae i1pt to K. 7, ad as t. Oe t2c3a]
+[DELETED: CSflpmcap(0s1(2i3(4o5s6a7S8f: . () Ey tt cy ad ss ad l9a0s1t2b3t u4m5(6o7a8(n 9a0e1(2o3s4s5S6f7b8u9s0o1(2(3I: ]
+[DELETED: CN O O (I: N0 1O2 3(4(5I: 6N7 8O9 0O1 2(3I: 4N5 6O7 8(9t0at el to te tx cd ur sn () as if t1n2s3(4i5i6t7m o8a9(0t1(2i3(. ]
+[DELETED: Ci(ytiShSp]
+
+
+================================================================================
+
+Raw Text:
+As Amended by Senate Committee
+Session of 2025
+SENATE BILL No. 259
+By Committee on Assessment and Taxation
+2-11
+1 AN ACT concerning taxation; relating to income tax and privilege taxes;
+2 providing that future tax rate decreases be contingent on exceeding
+3 revenue estimates; amending K.S.A. 2024 Supp. 79-1107, 79-1108 and
+4 79-32,110 and repealing the existing section sections.
+5
+6 Be it enacted by the Legislature of the State of Kansas:
+7 New Section 1. (a) As used in this section:
+8 (1) "Adjusted consumer price ratio" means the fiscal year consumer
+9 price index divided by the base year consumer price index.
+10 (2) "Adjusted general revenue fund collections" means actual tax
+11 receipt revenues to the state general fund.
+12 (3) "Base year revenues" means actual tax receipt revenues to the
+13 state general fund for fiscal year 2024 in the amount of $10,003,833,599.
+14 (4) "Base year consumer price index" means a 12-month average of
+15 the not seasonally adjusted consumer price index for all urban consumers
+16 for fiscal year 2024.
+17 (5) "Excess fiscal year general revenue fund collections" means the
+18 positive difference from subtracting the inflation adjusted base year
+19 revenues from the adjusted general revenue fund collections from the
+20 immediately preceding fiscal year.
+21 (6) "Fiscal year consumer price index" means a 12-month average of
+22 the not seasonally adjusted consumer price index for all urban consumers
+23 for the immediately preceding fiscal year.
+24 (7) "Inflation adjusted base year revenues" means the base year
+25 revenues multiplied by the adjusted consumer price ratio.
+26 (b) Commencing on August 15, 2025, and every August 15 thereafter,
+27 the director of the budget, in consultation with the director of legislative
+28 research, shall determine whether the total fiscal year adjusted general
+29 revenue fund collections from the immediately preceding fiscal year are in
+30 excess of the inflation adjusted base year revenues. If the total fiscal year
+31 adjusted general revenue fund collections from the immediately preceding
+32 fiscal year are in excess of the inflation adjusted base year revenues, the
+33 director of the budget shall certify to the secretary of revenue the existence
+34 of such excess and the amount of the excess.
+35 (c) In the event that the secretary of revenue certifies that the adjusted
+36 general revenue fund collections from the immediately preceding fiscal
+
+SB 259—Am. by SC 2
+1 year are in excess of the inflation adjusted base year revenues, the
+2 secretary shall calculate and publish the income tax rate reduction and
+3 privilege tax rate reductions as a result of the excess. In calculating the
+4 income tax rate reduction reductions, the excess fiscal year general
+5 revenue fund collections shall be computed that would result in the
+6 reduction of the income tax rates pursuant to subsection (d) in an amount
+7 approximately equal to the rate reductions down to the nearest 0.01% to go
+8 into effect for the next tax year. In calculating the privilege tax rate
+9 reductions pursuant to subsection (d), the reduction shall be a
+10 corresponding rate reduction that is equal to the total percentage
+11 adjustment to the corporate income tax. Such rate reductions shall remain
+12 in effect unless further reduced pursuant to this section. The income tax
+13 brackets and taxable income thresholds prescribed in K.S.A. 79-32,110(a),
+14 and amendments thereto, shall be adjusted to reflect the changes in income
+15 tax rates.
+16 (d) The secretary shall first compute the reduction of the income tax
+17 rates pursuant to K.S.A. 79-32,110(a), and amendments thereto, that
+18 decreases proportionally all tax rates in effect. Once the lower income tax
+19 rate is decreased to 4.5%, there shall be no further reductions to the lower
+20 income tax rate and further reductions shall only be applied to reduce the
+21 higher income tax rate in effect. Upon the higher income tax rate being
+22 decreased to 4.5%, no further reductions shall occur to K.S.A. 79-
+23 32,110(a), and amendments thereto. The secretary shall then compute
+24 decreases to:
+25 (1) The surtax imposed pursuant to K.S.A. 79-32,110(c), and
+26 amendments thereto. The surtax shall be decreased until the combined
+27 normal and surtax rates equal 4.5% that are imposed pursuant to K.S.A.
+28 79-32,110(c), and amendments thereto. Once the combined normal and
+29 surtax rates pursuant to K.S.A. 79-32,110(a) 79-32,110(c), and
+30 amendments thereto, equal 4.5%, no further reductions shall occur;
+31 (2) the normal tax imposed pursuant to K.S.A. 79-1107, and
+32 amendments thereto. The normal tax shall be decreased until the
+33 combined normal and surtax rates equal 2.82% that are imposed
+34 pursuant to K.S.A. 79-1107, and amendments thereto. Once the
+35 combined normal and surtax rates pursuant to K.S.A. 79-1107, and
+36 amendments thereto, equal 2.82%, no further reductions shall occur;
+37 and
+38 (3) the normal tax imposed pursuant to K.S.A. 79-1108, and
+39 amendments thereto. The normal tax shall be decreased until the
+40 combined normal and surtax rates equal 2.9% that are imposed
+41 pursuant to K.S.A. 79-1108, and amendments thereto. Once the
+42 combined normal and surtax rates pursuant to K.S.A. 79-1108, and
+43 amendments thereto, equal 2.9%, no further reductions shall occur.
+
+SB 259—Am. by SC 3
+1 Sec. 2. K.S.A. 2024 Supp. 79-1107 is hereby amended to read as
+2 follows: 79-1107. (a) Every national banking association and state bank
+3 located or doing business within the state shall pay to the state for the
+4 privilege of doing business within the state a tax according to or
+5 measured by its net income for the next preceding taxable year to be
+6 computed as provided in this act. Such tax shall consist of a normal tax
+7 and a surtax and shall be computed as follows unless otherwise modified
+8 pursuant to section 1, and amendments thereto:
+9 (1) For tax year 2024, and all tax years thereafter, the normal tax
+10 shall be an amount equal to 1.94% of such net income; and
+11 (2) the surtax shall be an amount equal to 2.125% of such net
+12 income in excess of $25,000.
+13 (b) The tax levied shall be in lieu of ad valorem taxes which might
+14 otherwise be imposed by the state or political subdivisions thereof upon
+15 shares of capital stock or the intangible assets of national banking
+16 associations and state banks.
+17 Sec. 3. K.S.A. 2024 Supp. 79-1108 is hereby amended to read as
+18 follows: 79-1108. (a) Every trust company and savings and loan
+19 association located or doing business within the state shall pay to the
+20 state for the privilege of doing business within the state a tax according
+21 to or measured by its net income for the next preceding taxable year to
+22 be computed as provided in this act. Such tax shall consist of a normal
+23 tax and a surtax and shall be computed as follows unless otherwise
+24 modified pursuant to section 1, and amendments thereto:
+25 (1) For tax year 2024, and all tax years thereafter, the normal tax
+26 on every trust company and savings and loan association shall be an
+27 amount equal to 1.93% of such net income; and
+28 (2) the surtax on every trust company and savings and loan
+29 association shall be an amount equal to 2.25% of such net income in
+30 excess of $25,000.
+31 (b) The tax levied shall be in lieu of ad valorem taxes which might
+32 otherwise be imposed by the state or political subdivision thereof upon
+33 shares of capital stock or other intangible assets of trust companies and
+34 savings and loan associations.
+35 Sec. 2. 4. K.S.A. 2024 Supp. 79-32,110 is hereby amended to read as
+36 follows: 79-32,110. (a) Resident individuals. Except as otherwise provided
+37 by K.S.A. 79-3220(a), and amendments thereto, a tax is hereby imposed
+38 upon the Kansas taxable income of every resident individual, which tax
+39 shall be computed in accordance with the following tax schedules unless
+40 otherwise modified pursuant to section 1, and amendments thereto:
+41 (1) Married individuals filing joint returns.
+42 (A) For tax years 2018 through 2023:
+43 If the taxable income is: The tax is:
+
+SB 259—Am. by SC 4
+1 Not over $30,000…..............................3.1% of Kansas taxable
+2 income
+3 Over $30,000 but not over $60,000…..$930 plus 5.25% of excess
+4 over $30,000
+5 Over $60,000........................................$2,505 plus 5.7% of excess
+6 over $60,000
+7 (B) For tax year 2024, and all tax years thereafter:
+8 If the taxable income is: The tax is:
+9 Not over $46,000…...............................5.2% of Kansas taxable
+10 income
+11 Over $46,000........................................$2,392 plus 5.58% of excess
+12 over $46,000
+13 (2) All other individuals.
+14 (A) For tax years 2018 through 2023:
+15 If the taxable income is: The tax is:
+16 Not over $15,000..................................3.1% of Kansas taxable
+17 income
+18 Over $15,000 but not over $30,000.....$465 plus 5.25% of excess
+19 over $15,000
+20 Over $30,000........................................$1,252.50 plus 5.7% of
+21 excess over $30,000
+22 (B) For tax year 2024, and all tax years thereafter:
+23 If the taxable income is: The tax is:
+24 Not over $23,000….............................5.2% of Kansas taxable
+25 income
+26 Over $23,000........................................$1,196 plus 5.58% of excess
+27 over $23,000
+28 (b) Nonresident individuals. A tax is hereby imposed upon the Kansas
+29 taxable income of every nonresident individual, which tax shall be an
+30 amount equal to the tax computed under subsection (a) as if the
+31 nonresident were a resident multiplied by the ratio of modified Kansas
+32 source income to Kansas adjusted gross income.
+33 (c) Corporations. A tax is hereby imposed upon the Kansas taxable
+34 income of every corporation doing business within this state or deriving
+35 income from sources within this state. Such tax shall consist of a normal
+36 tax and a surtax and shall be computed as follows unless otherwise
+37 modified pursuant to K.S.A. 2024 Supp. 74-50,321 or section 1, and
+38 amendments thereto:
+39 (1) The normal tax shall be in an amount equal to 4% of the Kansas
+40 taxable income of such corporation; and
+41 (2) the surtax shall be in an amount equal to 3% of the Kansas taxable
+42 income of such corporation in excess of $50,000.
+43 (d) Fiduciaries. A tax is hereby imposed upon the Kansas taxable
+
+SB 259—Am. by SC 5
+1 income of estates and trusts at the rates provided in subsection (a)(2).
+2 (e) Notwithstanding the provisions of subsections (a) and (b), for tax
+3 years 2018 through 2023, married individuals filing joint returns with
+4 taxable income of $5,000 or less, and all other individuals with taxable
+5 income of $2,500 or less, shall have a tax liability of zero.
+6 Sec. 3. 5. K.S.A. 2024 Supp. 79-1107, 79-1108 and 79-32,110 is are
+7 hereby repealed.
+8 Sec. 4. 6. This act shall take effect and be in force from and after its
+9 publication in the statute book.
+
+[DELETED: Apr7BN(p0(1r2(3s4(5t6f7(8p9r0i1(2t3f4(5r6(7t8r9r0e1a2f3d4o5(6g]
+[DELETED: Cyspi r r rrrai Irs pt to sn (, te rn sl be a0c1a2i3b4a5t6(7r8d9r0i1h2d334d5() e sx id pt to K. 7, a6a7n879sx rs pt to K 7 7, a0a1(e nl tx id pt to K. 7, a2a3c4pt to K. 7, ad as t. Oe t5c6a7a8(e nl tx id pt to K. 7, a9a0cd nl ad sx rs el 2% tt ae i1pt to K. 7, ad as t. Oe t2c3a]
+[DELETED: CSflpmcap(0s1(2i3(4o5s6a7S8f: . () Ey tt cy ad ss ad l9a0s1t2b3t u4m5(6o7a8(n 9a0e1(2o3s4s5S6f7b8u9s0o1(2(3I: ]
+[DELETED: CN O O (I: N0 1O2 3(4(5I: 6N7 8O9 0O1 2(3I: 4N5 6O7 8(9t0at el to te tx cd ur sn () as if t1n2s3(4i5i6t7m o8a9(0t1(2i3(. ]
+[DELETED: Ci(ytiShSp]
