@@ -1,0 +1,795 @@
+Title: Substitute for SENATE BILL No. 54
+Official Title: Substitute for SENATE BILL No. 54
+Number of Sections: 1
+Source: versions - Sub
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Judiciary
+2-18
+1 AN ACT concerning the code of civil procedure; relating to litigation
+2 funding by third parties; limiting discovery and disclosure of third-
+3 party litigation funding agreements; requiring reporting of such
+4 agreements to the court and requiring the judicial council to study third-
+5 party litigation funding agreements; requiring the clerk of the supreme
+6 court to develop a form for reports; exempting such reports from the
+7 open records act; amending K.S.A. 2024 Supp. 60-226 and repealing
+8 the existing section.
+9
+10 Be it enacted by the Legislature of the State of Kansas:
+11 Section 1. K.S.A. 2024 Supp. 60-226 is hereby amended to read as
+12 follows: 60-226. (a) Discovery methods. Parties may obtain discovery by
+13 one or more of the following methods: Depositions on oral examination or
+14 written questions; written interrogatories; production of documents or
+15 things or permission to enter onto land or other property under K.S.A. 60-
+16 234, K.S.A. 60-245(a)(1)(A)(iii) or K.S.A. 60-245a, and amendments
+17 thereto; physical and mental examinations; and requests for admission.
+18 (b) Discovery scope and limits. (1) Scope in general. Unless
+19 otherwise limited by court order, the scope of discovery is as follows:
+20 Parties may obtain discovery regarding any nonprivileged matter that is
+21 relevant to any party's claim or defense and proportional to the needs of
+22 the case, considering the importance of the issues at stake in the action, the
+23 amount in controversy, the parties' relative access to relevant information,
+24 the parties' resources, the importance of the discovery in resolving the
+25 issues and whether the burden or expense of the proposed discovery
+26 outweighs its likely benefit. Information within this scope of discovery
+27 need not be admissible in evidence to be discoverable.
+28 (2) Limitations on frequency and extent. (A) On motion, or on its
+29 own, the court may limit the frequency or extent of discovery methods
+30 otherwise allowed by the rules of civil procedure and must do so if it
+31 determines that:
+32 (i) The discovery sought is unreasonably cumulative or duplicative,
+33 or can be obtained from some other source that is more convenient, less
+34 burdensome or less expensive;
+35 (ii) the party seeking discovery has had ample opportunity to obtain
+36 the information by discovery in the action; or
+Sub SB 54 2
+1 (iii) the proposed discovery is outside the scope permitted by
+2 subsection (b)(1).
+3 (B) A party need not provide discovery of electronically stored
+4 information from sources that the party identifies as not reasonably
+5 accessible because of undue burden or cost. On motion to compel
+6 discovery or for a protective order, the party from whom discovery is
+7 sought must show that the information is not reasonably accessible
+8 because of undue burden or cost. If that showing is made, the court may
+9 nonetheless order discovery from such sources if the requesting party
+10 shows good cause, considering the limitations of subsection (b)(2)(A). The
+11 court may specify conditions for the discovery.
+12 (3) Agreements. (A) Insurance agreements. A party may obtain
+13 discovery of the existence and contents of any insurance agreement under
+14 which an insurance business may be liable to satisfy part or all of a
+15 possible judgment in the action or to indemnify or reimburse for payments
+16 made to satisfy the judgment. Information concerning the insurance
+17 agreement is not by reason of disclosure admissible in evidence at trial.
+18 For purposes of this paragraph, an application for insurance is not a part of
+19 an insurance agreement.
+20 (B) (i) Third-party litigation funding agreements. (a) A party shall
+21 provide to the court, for in camera review, any third-party litigation
+22 funding agreement within 30 days after commencement of a legal action
+23 or 30 days after execution of a third-party litigation funding agreement,
+24 whichever is later.
+25 (b) Except as otherwise stipulated by the parties or ordered by the
+26 court, if a party has entered into a third-party litigation funding
+27 agreement, such party shall deliver to all other parties, within 30 days
+28 after commencement of a legal action or 30 days after execution of such
+29 third-party litigation funding agreement, whichever is later, a sworn
+30 statement disclosing:
+31 (1) The identity of all contracting parties to the third-party litigation
+32 funding agreement, including the name, address and, if a party is a legal
+33 entity, the place of formation of such entity;
+34 (2) whether the agreement grants a third-party funder control or
+35 approval rights with respect to litigation or settlement decisions or
+36 otherwise has the potential to create conflicts of interest between the third-
+37 party funder and the party and, if the agreement does grant such control
+38 or approval rights, the nature of the terms and conditions relating to such
+39 control of approval rights;
+40 (3) whether the agreement grants a third-party funder the right to
+41 receive materials designated as confidential pursuant to a protective or
+42 confidentiality agreement or order in the action;
+43 (4) the existence of any known relationship between a third-party
+Sub SB 54 3
+1 funder and the adverse party, the adverse party's counsel or the court;
+2 (5) a description of the nature of the financial interest, including, but
+3 not limited to, whether such interest is, in whole or in part, recourse or
+4 non-recourse; and
+5 (6) whether any foreign person from a foreign country of concern is
+6 providing funding, directly or indirectly, for the third-party litigation
+7 funding agreement and, if so, the name, address and country of
+8 incorporation or registration of the foreign person.
+9 (ii) Limitations on discovery of third-party litigation funding
+10 agreements. (a) Information concerning the third-party litigation funding
+11 agreement is not by reason of disclosure admissible in evidence at trial.
+12 (b) Subsection (b)(3)(B)(i) shall not be construed to require a
+13 nonprofit corporation or association to disclose its members or donors.
+14 (c) Except as provided in subsection (b)(3)(B)(i), the provisions of
+15 this section shall not be construed to modify the applicability of articles 2
+16 or 4 of chapter 60 of the Kansas Statutes Annotated, and amendments
+17 thereto.
+18 (iii) Reporting of third-party litigation funding agreements. (a) On
+19 and after July 1, 2025, courts shall provide any third-party funding
+20 litigation agreement received under subsection (b)(3)(B)(i)(a) to the
+21 judicial council. The judicial council shall provide to the party who
+22 provided the third-party funding litigation agreement to the court under
+23 subsection (b)(3)(B)(i)(a) documentation that such agreement was
+24 received by the judicial council.
+25 (b) The clerk of the supreme court shall prescribe a form for use
+26 under this clause. Such form shall include a method of reporting whether
+27 the third-party litigation funding agreement is an agreement with a foreign
+28 person from a foreign country of concern and any other information the
+29 clerk determines is necessary for the judicial council to complete the study
+30 required by subsection (b)(3)(B)(iii)(d).
+31 (c) A report received pursuant to this subparagraph shall be
+32 confidential and shall not be subject to the provisions of the open records
+33 act, K.S.A. 45-215, et seq., and amendments thereto. The provisions of this
+34 subclause shall expire on July 1, 2030, unless the legislature reviews and
+35 reenacts these provisions pursuant to K.S.A. 45-229, and amendments
+36 thereto.
+37 (d) On or before January 1, 2030, the judicial council shall study the
+38 issue of third-party litigation funding agreements and submit a report
+39 containing its conclusions and recommendations to the chief justice of the
+40 supreme court, attorney general, house standing committee on judiciary
+41 and senate standing committee on judiciary on the topic of third-party
+42 litigation funding agreements in Kansas. The judicial council's report
+43 shall include recommendations on the use of third-party litigation funding
+Sub SB 54 4
+1 agreements in Kansas and whether future reporting of such agreement
+2 would be beneficial. On January 1, 2031, and each January 1 thereafter,
+3 the judicial council shall report the total number of reports received in the
+4 previous calendar year under subsection (b)(3)(B)(iii) to the chief justice
+5 of the supreme court, attorney general, house standing committee on
+6 judiciary and senate standing committee on judiciary.
+7 (4) Trial preparation; materials. (A) Documents and tangible things.
+8 Ordinarily, a party may not discover documents and tangible things that
+9 are prepared in anticipation of litigation or for trial by or for another party
+10 or its representative, including the other party's attorney, consultant, surety,
+11 indemnitor, insurer or agent. But, subject to subsection (b)(5), those
+12 materials may be discovered if:
+13 (i) They are otherwise discoverable under paragraph (1); and
+14 (ii) the party shows that it has substantial need for the materials to
+15 prepare its case and cannot, without undue hardship, obtain their
+16 substantial equivalent by other means.
+17 (B) Protection against disclosure. If the court orders discovery of
+18 those materials, it must protect against disclosure of the mental
+19 impressions, conclusions, opinions or legal theories of a party's attorney or
+20 other representative concerning the litigation.
+21 (C) Previous statement. Any party or other person may, on request
+22 and without the required showing, obtain the person's own previous
+23 statement about the action or its subject matter. If the request is refused,
+24 the person may move for a court order, and K.S.A. 60-237, and
+25 amendments thereto, applies to the award of expenses. A previous
+26 statement is either:
+27 (i) A written statement that the person has signed or otherwise
+28 adopted or approved; or
+29 (ii) a contemporaneous stenographic, mechanical, electrical or other
+30 recording, or a transcription of it, that recites substantially verbatim the
+31 person's oral statement.
+32 (5) Trial preparation; experts.
+33 (A) Deposition of an expert who may testify. A party may depose any
+34 person who has been identified as an expert whose opinions may be
+35 presented at trial. If a disclosure is required under subsection (b)(6), the
+36 deposition may be conducted only after the disclosure is provided.
+37 (B) Trial-preparation protection for draft disclosures. Subsections (b)
+38 (4)(A) and (b)(4)(B) protect drafts of any disclosure required under
+39 subsection (b)(6), and drafts of a disclosure by an expert witness provided
+40 in lieu of the disclosure required by subsection (b)(6), regardless of the
+41 form in which the draft is recorded.
+42 (C) Trial-preparation protection for communications between a
+43 party's attorney and expert witnesses. Subsections (b)(4)(A) and (b)(4)(B)
+Sub SB 54 5
+1 protect communications between the party's attorney and any witness
+2 about whom disclosure is required under subsection (b)(6), regardless of
+3 the form of the communications, except to the extent that the
+4 communications:
+5 (i) Relate to compensation for the expert's study or testimony;
+6 (ii) identify facts or data that the party's attorney provided and that
+7 the expert considered in forming the opinions to be expressed; or
+8 (iii) identify assumptions that the party's attorney provided and that
+9 the expert relied on in forming the opinions to be expressed.
+10 (D) Expert employed only for trial preparation. Ordinarily, a party
+11 may not, by interrogatories or deposition, discover facts known or
+12 opinions held by an expert who has been retained or specially employed
+13 by another party in anticipation of litigation or to prepare for trial and who
+14 is not expected to be called as a witness at trial. But a party may do so
+15 only:
+16 (i) As provided in K.S.A. 60-235(b), and amendments thereto; or
+17 (ii) on showing exceptional circumstances under which it is
+18 impracticable for the party to obtain facts or opinions on the same subject
+19 by other means.
+20 (E) Payment. Unless manifest injustice would result, the court must
+21 require that the party seeking discovery:
+22 (i) Pay the expert a reasonable fee for time spent in responding to
+23 discovery under subsection (b)(5)(A) or (b)(5)(D); and
+24 (ii) for discovery under subsection (b)(5)(D), also pay the other party
+25 a fair portion of the fees and expenses it reasonably incurred in obtaining
+26 the expert's facts and opinions.
+27 (6) Disclosure of expert testimony. (A) Required disclosures. A party
+28 must disclose to other parties the identity of any witness it may use at trial
+29 to present expert testimony. The disclosure must state:
+30 (i) The subject matter on which the expert is expected to testify; and
+31 (ii) the substance of the facts and opinions to which the expert is
+32 expected to testify.
+33 (B) Witness who is retained or specially employed. Unless otherwise
+34 stipulated or ordered by the court, if the witness is retained or specially
+35 employed to provide expert testimony in the case, or is one whose duties
+36 as the party's employee regularly involve giving expert testimony, the
+37 disclosure under subsection (b)(6)(A) must also state a summary of the
+38 grounds for each opinion.
+39 (C) Time to disclose expert testimony. A party must make these
+40 disclosures at the times and in the sequence that the court orders. Absent a
+41 stipulation or court order, the disclosures must be made:
+42 (i) At least 90 days before the date set for trial or for the case to be
+43 ready for trial; or
+Sub SB 54 6
+1 (ii) if the evidence is intended solely to contradict or rebut evidence
+2 on the same subject matter identified by another party under subsection (b)
+3 (6)(B), within 30 days after the other party's disclosure.
+4 (D) Supplementing the disclosure. The parties must supplement these
+5 disclosures when required under subsection (e).
+6 (E) Form of disclosures. Unless otherwise ordered by the court, all
+7 disclosures under this subsection must be:
+8 (i) In writing, signed and served; and
+9 (ii) filed with the court in accordance with K.S.A. 60-205(d), and
+10 amendments thereto.
+11 (7) Claiming privilege or protecting trial preparation materials. (A)
+12 Information withheld. When a party withholds information otherwise
+13 discoverable by claiming that the information is privileged or subject to
+14 protection as trial preparation material, the party must:
+15 (i) Expressly make the claim; and
+16 (ii) describe the nature of the documents, communications or things
+17 not produced or disclosed, and do so in a manner that, without revealing
+18 information itself privileged or protected, will enable other parties to
+19 assess the claim.
+20 (B) Information produced. If information produced in discovery is
+21 subject to a claim of privilege or of protection as trial preparation material,
+22 the party making the claim may notify any party that received the
+23 information of the claim and the basis for it. After being notified, a party
+24 must promptly return, sequester or destroy the specified information and
+25 any copies it has; must not use or disclose the information until the claim
+26 is resolved; must take reasonable steps to retrieve the information if the
+27 party disclosed it before being notified; and may promptly present the
+28 information to the court under seal for a determination of the claim. The
+29 producing party must preserve the information until the claim is resolved.
+30 (c) Protective orders. (1) In general. A party or any person from
+31 whom discovery is sought may move for a protective order in the court
+32 where the action is pending, as an alternative on matters relating to a
+33 deposition, in the district court where the deposition will be taken. The
+34 motion must include a certification that the movant has in good faith
+35 conferred or attempted to confer with other affected parties in an effort to
+36 resolve the dispute without court action and must describe the steps taken
+37 by all attorneys or unrepresented parties to resolve the issues in dispute.
+38 The court may, for good cause, issue an order to protect a party or person
+39 from annoyance, embarrassment, oppression or undue burden or expense,
+40 including one or more of the following:
+41 (A) Forbidding the disclosure or discovery;
+42 (B) specifying terms, including time and place or the allocation of
+43 expenses, for the disclosure or discovery;
+Sub SB 54 7
+1 (C) prescribing a discovery method other than the one selected by the
+2 party seeking discovery;
+3 (D) forbidding inquiry into certain matters, or limiting the scope of
+4 disclosure or discovery to certain matters;
+5 (E) designating the persons who may be present while the discovery
+6 is conducted;
+7 (F) requiring that a deposition be sealed and opened only on court
+8 order;
+9 (G) requiring that a trade secret or other confidential research,
+10 development or commercial information not be revealed or be revealed
+11 only in a specified way; and
+12 (H) requiring that the parties simultaneously file specified documents
+13 or information in sealed envelopes, to be opened as the court orders.
+14 (2) Ordering discovery. If a motion for a protective order is wholly or
+15 partly denied the court may, on just terms, order that any party or person
+16 provide or permit discovery.
+17 (3) Awarding expenses. The provisions of K.S.A. 60-237, and
+18 amendments thereto, apply to the award of expenses.
+19 (d) Sequence of discovery. Unless the parties stipulate or the court
+20 orders otherwise for the parties' and witnesses' convenience and in the
+21 interests of justice:
+22 (1) Methods of discovery may be used in any sequence; and
+23 (2) discovery by one party does not require any other party to delay
+24 its discovery.
+25 (e) Supplementing disclosures and responses. (1) In general. A party
+26 who has made a disclosure under subsection (b)(6), or who has responded
+27 to an interrogatory, request for production or request for admission, must
+28 supplement or correct its disclosure or response:
+29 (A) In a timely manner if the party learns that in some material
+30 respect the disclosure or response is incomplete or incorrect, and if the
+31 additional or corrective information has not otherwise been made known
+32 to the other parties during the discovery process or in writing; or
+33 (B) as ordered by the court.
+34 (2) Expert witness. For an expert to whom the disclosure requirement
+35 in subsection (b)(6) applies, the party's duty to supplement extends both to
+36 information included in the disclosure and to information given during the
+37 expert's deposition. Any additions or changes to this information must be
+38 disclosed at least 30 days before trial, unless the court orders otherwise.
+39 (f) Signing disclosures and discovery requests, responses and
+40 objections. (1) Signature required; effect of signature. Every disclosure
+41 under subsection (b)(6) and every discovery request, response or objection
+42 must be signed by at least one attorney of record in the attorney's own
+43 name, or by the party personally, if unrepresented, and must state the
+Sub SB 54 8
+1 signor's address, e-mail address and telephone number. By signing, an
+2 attorney or party certifies that to the best of the person's knowledge,
+3 information and belief formed after a reasonable inquiry:
+4 (A) With respect to a disclosure, it is complete and correct as of the
+5 time it is made;
+6 (B) with respect to a discovery request, response or objection, it is:
+7 (i) Consistent with the rules of civil procedure and warranted by
+8 existing law or by a nonfrivolous argument for extending, modifying or
+9 reversing existing law or for establishing new law;
+10 (ii) not interposed for any improper purpose, such as to harass, cause
+11 unnecessary delay or needlessly increase the cost of litigation; and
+12 (iii) neither unreasonable nor unduly burdensome or expensive
+13 considering the needs of the case, prior discovery in the case, the amount
+14 in controversy and the importance of the issues at stake in the action.
+15 (2) Failure to sign. Other parties have no duty to act on an unsigned
+16 disclosure, request, response or objection until it is signed, and the court
+17 must strike it unless a signature is promptly supplied after the omission is
+18 called to the attorney's or party's attention.
+19 (3) Sanction for improper certification. If a certification violates this
+20 section without substantial justification, the court, on motion, or on its
+21 own, must impose an appropriate sanction on the signer, the party on
+22 whose behalf the signer was acting, or both. The sanction may include an
+23 order to pay the reasonable expenses, including attorney's fees, caused by
+24 the violation.
+25 (g) Definitions. As used in this section:
+26 (1) "Foreign country of concern" means any foreign adversary as
+27 such term is defined by 15 C.F.R. § 7.4, as in effect on July 1, 2025, and
+28 any organization that is designated as a foreign terrorist organization as
+29 of July 1, 2025, pursuant to 8 U.S.C. § 1189, as in effect on July 1, 2025.
+30 (2) "Foreign person" means:
+31 (A) An individual that is not a citizen of the United States or an alien
+32 lawfully admitted for permanent residence in the United States;
+33 (B) an unincorporated association when a majority of the members
+34 are not citizens of the United States or aliens lawfully admitted for
+35 permanent residence in the United States;
+36 (C) a corporation that is not incorporated in the United States;
+37 (D) a government, political subdivision or political party of a country
+38 other than the United States;
+39 (E) an entity that is organized under the laws of a county other than
+40 the United States;
+41 (F) an entity that has a principal place of business in a country other
+42 than the United States and has shares or other ownership interest held by
+43 the government or a government official of a country other than the
+Sub SB 54 9
+1 United States; or
+2 (G) an organization in which any person or entity described in
+3 subsections (g)(2)(A) through (g)(2)(F) holds a controlling or majority
+4 interest or in which the holdings of any such persons or entities,
+5 considered together, would constitute a controlling majority interest.
+6 (3) "Reasonable interest" means a total interest not greater than
+7 11.1% of the principal.
+8 (4) "Third-party litigation funding agreement" means any agreement
+9 under which any person, other than a party, an attorney representing the
+10 party, such attorney's firm or a member of the family or household of a
+11 party has agreed to pay expenses directly related to prosecuting the legal
+12 claim and has a contractual right to receive compensation that is
+13 contingent in any respect on the outcome of the claim. "Third-party
+14 litigation funding agreement" does not include an agreement that does not
+15 afford the nonparty agreeing to pay legal expenses any profit from the
+16 legal claim beyond repayment of the amount such nonparty has
+17 contractually agreed to provide plus reasonable interest.
+18 (h) The provisions of subsection (b)(3)(B) are severable. If any
+19 portion of such subsection is held by a court to be unconstitutional or
+20 invalid, or the application of any portion of such subsection to any person
+21 or circumstance is held by a court to be unconstitutional or invalid, the
+22 invalidity shall not affect the other portions of such subsection that can be
+23 given effect without the invalid portion or application, and the
+24 applicability of such other portions of such subsection to any person or
+25 circumstance remains valid and enforceable.
+26 Sec. 2. K.S.A. 2024 Supp. 60-226 is hereby repealed.
+27 Sec. 3. This act shall take effect and be in force from and after its
+28 publication in the statute book.
+[DELETED: Afpy ln fg a; rg rg of sapcot0B1S2f3o4w5t62 K 6 K 67t8(y se ad l () e in g U9o0P1r2t3a4t5i6o7n8( (9o0o1d2(3o4b5(6t]
+[DELETED: 4(e pd dy is oe te se pd bs(iadsbn0s1c2( () e a A p m o3d4w5p6m7a8F9a0(1p2f3o4w5(6c, if a py hs d io a ty ln f7a8a9t0s1(2f3e4(5a6o7p8o9c0(1r2c3(]
+[DELETED: 4f(nn(pfg at a, if s, te n, as ad cy oi(s on dy of ty ln f0a1a2(n () sl nt be cd to re a3n4(5t6o7t8(9a0lt r 1j2p3sn () dn tt sh at w4r5(6u7t8p9c0r1(A rt rd pt to ts sh sl b2c3a4s5r6t7(8i9c0s1a2l3s]
+[DELETED: 4awtpoj(Oa0o1i2m3(4(5pe is ce ad c, wt ue h, on t6s7( I8te m, it mt pt at de of te m9i0o1(2a3s4te pn m me fr a ct o, ad K. 6, a5as t, as to te ad of e.  p6s7(8a9(0r1p2(3(4p5p6d7(8(9s0i1f2(n pn fr cs bn a3p]
+[DELETED: 4pate fm of te c, et to te et tt tc((t(t0(1m bs o d dr s n 2o3b4i5o6(7(n sg el cs ur wh it i8i9b0(1r2(3d4(5a6t7(8m9t0(1(2e3(4s5e6a7d8g9( A0d1s2(3r]
+[DELETED: 4(o((d(d((0a1(2I W3d4p5(6(7n8i9a0( I1s2t3i4m5a6i7p8i9p0( () 1w2w3d4m5c6r7b8T9f0i1(2(3e]
+[DELETED: 4(p(d(i(o(t t r l 0d1o2(3o4(5p6p7(g e Te ps of K. 6, a8a9(0o1i2(3(4i5(6w7t8s9(0r1a2t3(4(5i6i7e8d9(g ds ad dy r, rs a0o) 1u2m3n]
+[DELETED: 4sai(t((er0(1u2(r ue nr uy be or e3c4i5(6d7m8c9(0s1o2w3o4t5(6(7s8a9o0(1(2l3(4af 5p6(7(8o9(0t1(2t3t]
+[DELETED: 4U(sir s c(1(u0p1p2ct t 3c4l5a6ll cm bd rt of te at sh ny h7c8(9p0i1o2i3gn et wt te id pn or a, ad t4a5c6S7S8p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+Substitute for SENATE BILL No. 54
+By Committee on Judiciary
+2-18
+1 AN ACT concerning the code of civil procedure; relating to litigation
+2 funding by third parties; limiting discovery and disclosure of third-
+3 party litigation funding agreements; requiring reporting of such
+4 agreements to the court and requiring the judicial council to study third-
+5 party litigation funding agreements; requiring the clerk of the supreme
+6 court to develop a form for reports; exempting such reports from the
+7 open records act; amending K.S.A. 2024 Supp. 60-226 and repealing
+8 the existing section.
+9
+10 Be it enacted by the Legislature of the State of Kansas:
+11 Section 1. K.S.A. 2024 Supp. 60-226 is hereby amended to read as
+12 follows: 60-226. (a) Discovery methods. Parties may obtain discovery by
+13 one or more of the following methods: Depositions on oral examination or
+14 written questions; written interrogatories; production of documents or
+15 things or permission to enter onto land or other property under K.S.A. 60-
+16 234, K.S.A. 60-245(a)(1)(A)(iii) or K.S.A. 60-245a, and amendments
+17 thereto; physical and mental examinations; and requests for admission.
+18 (b) Discovery scope and limits. (1) Scope in general. Unless
+19 otherwise limited by court order, the scope of discovery is as follows:
+20 Parties may obtain discovery regarding any nonprivileged matter that is
+21 relevant to any party's claim or defense and proportional to the needs of
+22 the case, considering the importance of the issues at stake in the action, the
+23 amount in controversy, the parties' relative access to relevant information,
+24 the parties' resources, the importance of the discovery in resolving the
+25 issues and whether the burden or expense of the proposed discovery
+26 outweighs its likely benefit. Information within this scope of discovery
+27 need not be admissible in evidence to be discoverable.
+28 (2) Limitations on frequency and extent. (A) On motion, or on its
+29 own, the court may limit the frequency or extent of discovery methods
+30 otherwise allowed by the rules of civil procedure and must do so if it
+31 determines that:
+32 (i) The discovery sought is unreasonably cumulative or duplicative,
+33 or can be obtained from some other source that is more convenient, less
+34 burdensome or less expensive;
+35 (ii) the party seeking discovery has had ample opportunity to obtain
+36 the information by discovery in the action; or
+
+Sub SB 54 2
+1 (iii) the proposed discovery is outside the scope permitted by
+2 subsection (b)(1).
+3 (B) A party need not provide discovery of electronically stored
+4 information from sources that the party identifies as not reasonably
+5 accessible because of undue burden or cost. On motion to compel
+6 discovery or for a protective order, the party from whom discovery is
+7 sought must show that the information is not reasonably accessible
+8 because of undue burden or cost. If that showing is made, the court may
+9 nonetheless order discovery from such sources if the requesting party
+10 shows good cause, considering the limitations of subsection (b)(2)(A). The
+11 court may specify conditions for the discovery.
+12 (3) Agreements. (A) Insurance agreements. A party may obtain
+13 discovery of the existence and contents of any insurance agreement under
+14 which an insurance business may be liable to satisfy part or all of a
+15 possible judgment in the action or to indemnify or reimburse for payments
+16 made to satisfy the judgment. Information concerning the insurance
+17 agreement is not by reason of disclosure admissible in evidence at trial.
+18 For purposes of this paragraph, an application for insurance is not a part of
+19 an insurance agreement.
+20 (B) (i) Third-party litigation funding agreements. (a) A party shall
+21 provide to the court, for in camera review, any third-party litigation
+22 funding agreement within 30 days after commencement of a legal action
+23 or 30 days after execution of a third-party litigation funding agreement,
+24 whichever is later.
+25 (b) Except as otherwise stipulated by the parties or ordered by the
+26 court, if a party has entered into a third-party litigation funding
+27 agreement, such party shall deliver to all other parties, within 30 days
+28 after commencement of a legal action or 30 days after execution of such
+29 third-party litigation funding agreement, whichever is later, a sworn
+30 statement disclosing:
+31 (1) The identity of all contracting parties to the third-party litigation
+32 funding agreement, including the name, address and, if a party is a legal
+33 entity, the place of formation of such entity;
+34 (2) whether the agreement grants a third-party funder control or
+35 approval rights with respect to litigation or settlement decisions or
+36 otherwise has the potential to create conflicts of interest between the third-
+37 party funder and the party and, if the agreement does grant such control
+38 or approval rights, the nature of the terms and conditions relating to such
+39 control of approval rights;
+40 (3) whether the agreement grants a third-party funder the right to
+41 receive materials designated as confidential pursuant to a protective or
+42 confidentiality agreement or order in the action;
+43 (4) the existence of any known relationship between a third-party
+
+Sub SB 54 3
+1 funder and the adverse party, the adverse party's counsel or the court;
+2 (5) a description of the nature of the financial interest, including, but
+3 not limited to, whether such interest is, in whole or in part, recourse or
+4 non-recourse; and
+5 (6) whether any foreign person from a foreign country of concern is
+6 providing funding, directly or indirectly, for the third-party litigation
+7 funding agreement and, if so, the name, address and country of
+8 incorporation or registration of the foreign person.
+9 (ii) Limitations on discovery of third-party litigation funding
+10 agreements. (a) Information concerning the third-party litigation funding
+11 agreement is not by reason of disclosure admissible in evidence at trial.
+12 (b) Subsection (b)(3)(B)(i) shall not be construed to require a
+13 nonprofit corporation or association to disclose its members or donors.
+14 (c) Except as provided in subsection (b)(3)(B)(i), the provisions of
+15 this section shall not be construed to modify the applicability of articles 2
+16 or 4 of chapter 60 of the Kansas Statutes Annotated, and amendments
+17 thereto.
+18 (iii) Reporting of third-party litigation funding agreements. (a) On
+19 and after July 1, 2025, courts shall provide any third-party funding
+20 litigation agreement received under subsection (b)(3)(B)(i)(a) to the
+21 judicial council. The judicial council shall provide to the party who
+22 provided the third-party funding litigation agreement to the court under
+23 subsection (b)(3)(B)(i)(a) documentation that such agreement was
+24 received by the judicial council.
+25 (b) The clerk of the supreme court shall prescribe a form for use
+26 under this clause. Such form shall include a method of reporting whether
+27 the third-party litigation funding agreement is an agreement with a foreign
+28 person from a foreign country of concern and any other information the
+29 clerk determines is necessary for the judicial council to complete the study
+30 required by subsection (b)(3)(B)(iii)(d).
+31 (c) A report received pursuant to this subparagraph shall be
+32 confidential and shall not be subject to the provisions of the open records
+33 act, K.S.A. 45-215, et seq., and amendments thereto. The provisions of this
+34 subclause shall expire on July 1, 2030, unless the legislature reviews and
+35 reenacts these provisions pursuant to K.S.A. 45-229, and amendments
+36 thereto.
+37 (d) On or before January 1, 2030, the judicial council shall study the
+38 issue of third-party litigation funding agreements and submit a report
+39 containing its conclusions and recommendations to the chief justice of the
+40 supreme court, attorney general, house standing committee on judiciary
+41 and senate standing committee on judiciary on the topic of third-party
+42 litigation funding agreements in Kansas. The judicial council's report
+43 shall include recommendations on the use of third-party litigation funding
+
+Sub SB 54 4
+1 agreements in Kansas and whether future reporting of such agreement
+2 would be beneficial. On January 1, 2031, and each January 1 thereafter,
+3 the judicial council shall report the total number of reports received in the
+4 previous calendar year under subsection (b)(3)(B)(iii) to the chief justice
+5 of the supreme court, attorney general, house standing committee on
+6 judiciary and senate standing committee on judiciary.
+7 (4) Trial preparation; materials. (A) Documents and tangible things.
+8 Ordinarily, a party may not discover documents and tangible things that
+9 are prepared in anticipation of litigation or for trial by or for another party
+10 or its representative, including the other party's attorney, consultant, surety,
+11 indemnitor, insurer or agent. But, subject to subsection (b)(5), those
+12 materials may be discovered if:
+13 (i) They are otherwise discoverable under paragraph (1); and
+14 (ii) the party shows that it has substantial need for the materials to
+15 prepare its case and cannot, without undue hardship, obtain their
+16 substantial equivalent by other means.
+17 (B) Protection against disclosure. If the court orders discovery of
+18 those materials, it must protect against disclosure of the mental
+19 impressions, conclusions, opinions or legal theories of a party's attorney or
+20 other representative concerning the litigation.
+21 (C) Previous statement. Any party or other person may, on request
+22 and without the required showing, obtain the person's own previous
+23 statement about the action or its subject matter. If the request is refused,
+24 the person may move for a court order, and K.S.A. 60-237, and
+25 amendments thereto, applies to the award of expenses. A previous
+26 statement is either:
+27 (i) A written statement that the person has signed or otherwise
+28 adopted or approved; or
+29 (ii) a contemporaneous stenographic, mechanical, electrical or other
+30 recording, or a transcription of it, that recites substantially verbatim the
+31 person's oral statement.
+32 (5) Trial preparation; experts.
+33 (A) Deposition of an expert who may testify. A party may depose any
+34 person who has been identified as an expert whose opinions may be
+35 presented at trial. If a disclosure is required under subsection (b)(6), the
+36 deposition may be conducted only after the disclosure is provided.
+37 (B) Trial-preparation protection for draft disclosures. Subsections (b)
+38 (4)(A) and (b)(4)(B) protect drafts of any disclosure required under
+39 subsection (b)(6), and drafts of a disclosure by an expert witness provided
+40 in lieu of the disclosure required by subsection (b)(6), regardless of the
+41 form in which the draft is recorded.
+42 (C) Trial-preparation protection for communications between a
+43 party's attorney and expert witnesses. Subsections (b)(4)(A) and (b)(4)(B)
+
+Sub SB 54 5
+1 protect communications between the party's attorney and any witness
+2 about whom disclosure is required under subsection (b)(6), regardless of
+3 the form of the communications, except to the extent that the
+4 communications:
+5 (i) Relate to compensation for the expert's study or testimony;
+6 (ii) identify facts or data that the party's attorney provided and that
+7 the expert considered in forming the opinions to be expressed; or
+8 (iii) identify assumptions that the party's attorney provided and that
+9 the expert relied on in forming the opinions to be expressed.
+10 (D) Expert employed only for trial preparation. Ordinarily, a party
+11 may not, by interrogatories or deposition, discover facts known or
+12 opinions held by an expert who has been retained or specially employed
+13 by another party in anticipation of litigation or to prepare for trial and who
+14 is not expected to be called as a witness at trial. But a party may do so
+15 only:
+16 (i) As provided in K.S.A. 60-235(b), and amendments thereto; or
+17 (ii) on showing exceptional circumstances under which it is
+18 impracticable for the party to obtain facts or opinions on the same subject
+19 by other means.
+20 (E) Payment. Unless manifest injustice would result, the court must
+21 require that the party seeking discovery:
+22 (i) Pay the expert a reasonable fee for time spent in responding to
+23 discovery under subsection (b)(5)(A) or (b)(5)(D); and
+24 (ii) for discovery under subsection (b)(5)(D), also pay the other party
+25 a fair portion of the fees and expenses it reasonably incurred in obtaining
+26 the expert's facts and opinions.
+27 (6) Disclosure of expert testimony. (A) Required disclosures. A party
+28 must disclose to other parties the identity of any witness it may use at trial
+29 to present expert testimony. The disclosure must state:
+30 (i) The subject matter on which the expert is expected to testify; and
+31 (ii) the substance of the facts and opinions to which the expert is
+32 expected to testify.
+33 (B) Witness who is retained or specially employed. Unless otherwise
+34 stipulated or ordered by the court, if the witness is retained or specially
+35 employed to provide expert testimony in the case, or is one whose duties
+36 as the party's employee regularly involve giving expert testimony, the
+37 disclosure under subsection (b)(6)(A) must also state a summary of the
+38 grounds for each opinion.
+39 (C) Time to disclose expert testimony. A party must make these
+40 disclosures at the times and in the sequence that the court orders. Absent a
+41 stipulation or court order, the disclosures must be made:
+42 (i) At least 90 days before the date set for trial or for the case to be
+43 ready for trial; or
+
+Sub SB 54 6
+1 (ii) if the evidence is intended solely to contradict or rebut evidence
+2 on the same subject matter identified by another party under subsection (b)
+3 (6)(B), within 30 days after the other party's disclosure.
+4 (D) Supplementing the disclosure. The parties must supplement these
+5 disclosures when required under subsection (e).
+6 (E) Form of disclosures. Unless otherwise ordered by the court, all
+7 disclosures under this subsection must be:
+8 (i) In writing, signed and served; and
+9 (ii) filed with the court in accordance with K.S.A. 60-205(d), and
+10 amendments thereto.
+11 (7) Claiming privilege or protecting trial preparation materials. (A)
+12 Information withheld. When a party withholds information otherwise
+13 discoverable by claiming that the information is privileged or subject to
+14 protection as trial preparation material, the party must:
+15 (i) Expressly make the claim; and
+16 (ii) describe the nature of the documents, communications or things
+17 not produced or disclosed, and do so in a manner that, without revealing
+18 information itself privileged or protected, will enable other parties to
+19 assess the claim.
+20 (B) Information produced. If information produced in discovery is
+21 subject to a claim of privilege or of protection as trial preparation material,
+22 the party making the claim may notify any party that received the
+23 information of the claim and the basis for it. After being notified, a party
+24 must promptly return, sequester or destroy the specified information and
+25 any copies it has; must not use or disclose the information until the claim
+26 is resolved; must take reasonable steps to retrieve the information if the
+27 party disclosed it before being notified; and may promptly present the
+28 information to the court under seal for a determination of the claim. The
+29 producing party must preserve the information until the claim is resolved.
+30 (c) Protective orders. (1) In general. A party or any person from
+31 whom discovery is sought may move for a protective order in the court
+32 where the action is pending, as an alternative on matters relating to a
+33 deposition, in the district court where the deposition will be taken. The
+34 motion must include a certification that the movant has in good faith
+35 conferred or attempted to confer with other affected parties in an effort to
+36 resolve the dispute without court action and must describe the steps taken
+37 by all attorneys or unrepresented parties to resolve the issues in dispute.
+38 The court may, for good cause, issue an order to protect a party or person
+39 from annoyance, embarrassment, oppression or undue burden or expense,
+40 including one or more of the following:
+41 (A) Forbidding the disclosure or discovery;
+42 (B) specifying terms, including time and place or the allocation of
+43 expenses, for the disclosure or discovery;
+
+Sub SB 54 7
+1 (C) prescribing a discovery method other than the one selected by the
+2 party seeking discovery;
+3 (D) forbidding inquiry into certain matters, or limiting the scope of
+4 disclosure or discovery to certain matters;
+5 (E) designating the persons who may be present while the discovery
+6 is conducted;
+7 (F) requiring that a deposition be sealed and opened only on court
+8 order;
+9 (G) requiring that a trade secret or other confidential research,
+10 development or commercial information not be revealed or be revealed
+11 only in a specified way; and
+12 (H) requiring that the parties simultaneously file specified documents
+13 or information in sealed envelopes, to be opened as the court orders.
+14 (2) Ordering discovery. If a motion for a protective order is wholly or
+15 partly denied the court may, on just terms, order that any party or person
+16 provide or permit discovery.
+17 (3) Awarding expenses. The provisions of K.S.A. 60-237, and
+18 amendments thereto, apply to the award of expenses.
+19 (d) Sequence of discovery. Unless the parties stipulate or the court
+20 orders otherwise for the parties' and witnesses' convenience and in the
+21 interests of justice:
+22 (1) Methods of discovery may be used in any sequence; and
+23 (2) discovery by one party does not require any other party to delay
+24 its discovery.
+25 (e) Supplementing disclosures and responses. (1) In general. A party
+26 who has made a disclosure under subsection (b)(6), or who has responded
+27 to an interrogatory, request for production or request for admission, must
+28 supplement or correct its disclosure or response:
+29 (A) In a timely manner if the party learns that in some material
+30 respect the disclosure or response is incomplete or incorrect, and if the
+31 additional or corrective information has not otherwise been made known
+32 to the other parties during the discovery process or in writing; or
+33 (B) as ordered by the court.
+34 (2) Expert witness. For an expert to whom the disclosure requirement
+35 in subsection (b)(6) applies, the party's duty to supplement extends both to
+36 information included in the disclosure and to information given during the
+37 expert's deposition. Any additions or changes to this information must be
+38 disclosed at least 30 days before trial, unless the court orders otherwise.
+39 (f) Signing disclosures and discovery requests, responses and
+40 objections. (1) Signature required; effect of signature. Every disclosure
+41 under subsection (b)(6) and every discovery request, response or objection
+42 must be signed by at least one attorney of record in the attorney's own
+43 name, or by the party personally, if unrepresented, and must state the
+
+Sub SB 54 8
+1 signor's address, e-mail address and telephone number. By signing, an
+2 attorney or party certifies that to the best of the person's knowledge,
+3 information and belief formed after a reasonable inquiry:
+4 (A) With respect to a disclosure, it is complete and correct as of the
+5 time it is made;
+6 (B) with respect to a discovery request, response or objection, it is:
+7 (i) Consistent with the rules of civil procedure and warranted by
+8 existing law or by a nonfrivolous argument for extending, modifying or
+9 reversing existing law or for establishing new law;
+10 (ii) not interposed for any improper purpose, such as to harass, cause
+11 unnecessary delay or needlessly increase the cost of litigation; and
+12 (iii) neither unreasonable nor unduly burdensome or expensive
+13 considering the needs of the case, prior discovery in the case, the amount
+14 in controversy and the importance of the issues at stake in the action.
+15 (2) Failure to sign. Other parties have no duty to act on an unsigned
+16 disclosure, request, response or objection until it is signed, and the court
+17 must strike it unless a signature is promptly supplied after the omission is
+18 called to the attorney's or party's attention.
+19 (3) Sanction for improper certification. If a certification violates this
+20 section without substantial justification, the court, on motion, or on its
+21 own, must impose an appropriate sanction on the signer, the party on
+22 whose behalf the signer was acting, or both. The sanction may include an
+23 order to pay the reasonable expenses, including attorney's fees, caused by
+24 the violation.
+25 (g) Definitions. As used in this section:
+26 (1) "Foreign country of concern" means any foreign adversary as
+27 such term is defined by 15 C.F.R. § 7.4, as in effect on July 1, 2025, and
+28 any organization that is designated as a foreign terrorist organization as
+29 of July 1, 2025, pursuant to 8 U.S.C. § 1189, as in effect on July 1, 2025.
+30 (2) "Foreign person" means:
+31 (A) An individual that is not a citizen of the United States or an alien
+32 lawfully admitted for permanent residence in the United States;
+33 (B) an unincorporated association when a majority of the members
+34 are not citizens of the United States or aliens lawfully admitted for
+35 permanent residence in the United States;
+36 (C) a corporation that is not incorporated in the United States;
+37 (D) a government, political subdivision or political party of a country
+38 other than the United States;
+39 (E) an entity that is organized under the laws of a county other than
+40 the United States;
+41 (F) an entity that has a principal place of business in a country other
+42 than the United States and has shares or other ownership interest held by
+43 the government or a government official of a country other than the
+
+Sub SB 54 9
+1 United States; or
+2 (G) an organization in which any person or entity described in
+3 subsections (g)(2)(A) through (g)(2)(F) holds a controlling or majority
+4 interest or in which the holdings of any such persons or entities,
+5 considered together, would constitute a controlling majority interest.
+6 (3) "Reasonable interest" means a total interest not greater than
+7 11.1% of the principal.
+8 (4) "Third-party litigation funding agreement" means any agreement
+9 under which any person, other than a party, an attorney representing the
+10 party, such attorney's firm or a member of the family or household of a
+11 party has agreed to pay expenses directly related to prosecuting the legal
+12 claim and has a contractual right to receive compensation that is
+13 contingent in any respect on the outcome of the claim. "Third-party
+14 litigation funding agreement" does not include an agreement that does not
+15 afford the nonparty agreeing to pay legal expenses any profit from the
+16 legal claim beyond repayment of the amount such nonparty has
+17 contractually agreed to provide plus reasonable interest.
+18 (h) The provisions of subsection (b)(3)(B) are severable. If any
+19 portion of such subsection is held by a court to be unconstitutional or
+20 invalid, or the application of any portion of such subsection to any person
+21 or circumstance is held by a court to be unconstitutional or invalid, the
+22 invalidity shall not affect the other portions of such subsection that can be
+23 given effect without the invalid portion or application, and the
+24 applicability of such other portions of such subsection to any person or
+25 circumstance remains valid and enforceable.
+26 Sec. 2. K.S.A. 2024 Supp. 60-226 is hereby repealed.
+27 Sec. 3. This act shall take effect and be in force from and after its
+28 publication in the statute book.
+
+[DELETED: Afpy ln fg a; rg rg of sapcot0B1S2f3o4w5t62 K 6 K 67t8(y se ad l () e in g U9o0P1r2t3a4t5i6o7n8( (9o0o1d2(3o4b5(6t]
+[DELETED: 4(e pd dy is oe te se pd bs(iadsbn0s1c2( () e a A p m o3d4w5p6m7a8F9a0(1p2f3o4w5(6c, if a py hs d io a ty ln f7a8a9t0s1(2f3e4(5a6o7p8o9c0(1r2c3(]
+[DELETED: 4f(nn(pfg at a, if s, te n, as ad cy oi(s on dy of ty ln f0a1a2(n () sl nt be cd to re a3n4(5t6o7t8(9a0lt r 1j2p3sn () dn tt sh at w4r5(6u7t8p9c0r1(A rt rd pt to ts sh sl b2c3a4s5r6t7(8i9c0s1a2l3s]
+[DELETED: 4awtpoj(Oa0o1i2m3(4(5pe is ce ad c, wt ue h, on t6s7( I8te m, it mt pt at de of te m9i0o1(2a3s4te pn m me fr a ct o, ad K. 6, a5as t, as to te ad of e.  p6s7(8a9(0r1p2(3(4p5p6d7(8(9s0i1f2(n pn fr cs bn a3p]
+[DELETED: 4pate fm of te c, et to te et tt tc((t(t0(1m bs o d dr s n 2o3b4i5o6(7(n sg el cs ur wh it i8i9b0(1r2(3d4(5a6t7(8m9t0(1(2e3(4s5e6a7d8g9( A0d1s2(3r]
+[DELETED: 4(o((d(d((0a1(2I W3d4p5(6(7n8i9a0( I1s2t3i4m5a6i7p8i9p0( () 1w2w3d4m5c6r7b8T9f0i1(2(3e]
+[DELETED: 4(p(d(i(o(t t r l 0d1o2(3o4(5p6p7(g e Te ps of K. 6, a8a9(0o1i2(3(4i5(6w7t8s9(0r1a2t3(4(5i6i7e8d9(g ds ad dy r, rs a0o) 1u2m3n]
+[DELETED: 4sai(t((er0(1u2(r ue nr uy be or e3c4i5(6d7m8c9(0s1o2w3o4t5(6(7s8a9o0(1(2l3(4af 5p6(7(8o9(0t1(2t3t]
+[DELETED: 4U(sir s c(1(u0p1p2ct t 3c4l5a6ll cm bd rt of te at sh ny h7c8(9p0i1o2i3gn et wt te id pn or a, ad t4a5c6S7S8p]

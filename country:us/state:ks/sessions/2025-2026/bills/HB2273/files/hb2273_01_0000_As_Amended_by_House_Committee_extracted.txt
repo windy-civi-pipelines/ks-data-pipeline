@@ -1,0 +1,2041 @@
+Title: HOUSE BILL No. 2273
+Official Title: HOUSE BILL No. 2273
+Number of Sections: 1
+Source: versions - As Amended by House Committee
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+As Amended by House Committee
+Session of 2025
+By Committee on Veterans and Military
+Requested by Rob Leicht on behalf of the Kansas Office of Veterans Services
+2-5
+1 AN ACT concerning veterans and military; modifying the definition of
+2 veteran and disabled veteran; adding a citation to the code of federal
+3 register regulations to definitions of veteran and disabled veteran;
+4 amending K.S.A. 2024 Supp. 8-1,221, 8-243, 8-1324, 32-934, 48-3601,
+5 50-676, 73-201, 73-230, 73-1239, 73-1244, 75-3740 and 79-4502 and
+6 repealing the existing sections.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 Section 1. K.S.A. 2024 Supp. 8-160 is hereby amended to read as
+10 follows: 8-160. As used in this act, "disabled veteran" means a person
+11 who:
+12 (a) Served in the active military, naval, air or space service, including
+13 those groups and individuals listed under 38 C.F.R. § 3.7, and who was
+14 discharged or released therefrom under an honorable discharge or a
+15 general discharge under honorable conditions;
+16 (b) received a disability that was incurred or aggravated in the line of
+17 duty in the active military, naval, air or space service; and
+18 (c) has a service-connected evaluation percentage equal to or greater
+19 than 50%, pursuant to 38 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et seq.
+20 Sec. 2. K.S.A. 2024 Supp. 8-243 is hereby amended to read as
+21 follows: 8-243. (a) Upon payment of the required fee, the division shall
+22 issue to every applicant qualifying under the provisions of this act the
+23 driver's license as applied for by the applicant. Such license shall bear the
+24 class or classes of motor vehicles that the licensee is entitled to drive, a
+25 distinguishing number assigned to the licensee, the full legal name, date of
+26 birth, gender, address of principal residence and a brief description of the
+27 licensee, either: (1) A digital color image or photograph; or (2) a laser-
+28 engraved photograph of the licensee, a facsimile of the signature of the
+29 licensee and the statement provided for in subsection (b). No driver's
+30 license shall be valid until it has been signed by the licensee. All drivers'
+31 licenses issued to persons under the age of 21 years shall be readily
+32 distinguishable from licenses issued to persons age 21 years or older. In
+33 addition, all drivers' licenses issued to persons under the age of 18 years
+34 shall also be readily distinguishable from licenses issued to persons age 18
+35 years or older. The secretary of revenue shall implement a vertical format
+HB 2273—Am. by HC 2
+1 to make drivers' licenses issued to persons under the age of 21 more
+2 readily distinguishable. Except as otherwise provided, no driver's license
+3 issued by the division shall be valid until either: (1) A digital color image
+4 or photograph; or (2) a laser-engraved photograph of such licensee has
+5 been taken and verified before being placed on the driver's license. The
+6 secretary of revenue shall prescribe a fee of not more than $8 and upon the
+7 payment of such fee, the division shall cause either: (1) A digital color
+8 image or photograph; or (2) a laser-engraved photograph of such applicant
+9 to be placed on the driver's license. Upon payment of such fee prescribed
+10 by the secretary of revenue, plus payment of the fee required by K.S.A. 8-
+11 246, and amendments thereto, for issuance of a new license, the division
+12 shall issue to such licensee a new license containing either: (1) A digital
+13 color image or photograph; or (2) a laser-engraved photograph of such
+14 licensee. A driver's license that does not contain the principal address as
+15 required may be issued to persons who are program participants pursuant
+16 to K.S.A. 75-455, and amendments thereto, upon payment of the fee
+17 required by K.S.A. 8-246, and amendments thereto. All Kansas drivers'
+18 licenses and identification cards shall have physical security features
+19 designed to prevent tampering, counterfeiting or duplication of the
+20 document for fraudulent purposes. The secretary of revenue shall
+21 incorporate common machine-readable technology into all Kansas drivers'
+22 licenses and identification cards.
+23 (b) A Kansas driver's license issued to any person 16 years of age or
+24 older who indicated on the person's application that the person wished to
+25 make a gift of all or any part of the body of the licensee in accordance with
+26 the revised uniform anatomical gift act, K.S.A. 65-3220 through 65-3244,
+27 and amendments thereto, shall have the word "Donor" placed on the front
+28 of the licensee's driver's license.
+29 (c) Any person who is deaf or hard of hearing may request that the
+30 division issue to such person a driver's license which is readily
+31 distinguishable from drivers' licenses issued to other drivers and upon such
+32 request the division shall issue such license. Drivers' licenses issued to
+33 persons who are deaf or hard of hearing and under the age of 21 years shall
+34 be readily distinguishable from drivers' licenses issued to persons who are
+35 deaf or hard of hearing and 21 years of age or older. Upon satisfaction of
+36 subsection (a), the division shall issue a receipt of application permitting
+37 the operation of a vehicle consistent with the requested class, if there are
+38 no other restrictions or limitations, pending the division's verification of
+39 the information and production of a driver's license.
+40 (d) A driver's license issued to a person required to be registered
+41 under K.S.A. 22-4901 et seq., and amendments thereto, shall be assigned a
+42 distinguishing number by the division which will readily indicate to law
+43 enforcement officers that such person is a registered offender. The division
+HB 2273—Am. by HC 3
+1 shall develop a numbering system to implement the provisions of this
+2 subsection.
+3 (e) (1) Any person who is a veteran may request that the division
+4 issue to such person a driver's license that shall include the designation
+5 "VETERAN" displayed on the front of the driver's license at a location to
+6 be determined by the secretary of revenue. In order to receive a license
+7 described in this subsection, the veteran shall provide a copy of the
+8 veteran's DD form 214, NGB form 22 or equivalent discharge document
+9 showing character of service as honorable or general under honorable
+10 conditions.
+11 (2) As used in this subsection, "veteran" means a person who served
+12 in the active military, naval, air or space service, including those groups
+13 and individuals listed under 38 C.F.R. § 3.7, and who was discharged or
+14 released therefrom under an honorable discharge or a general discharge
+15 under honorable conditions.
+16 (3) The director of vehicles may adopt any rules and regulations
+17 necessary to carry out the provisions of this subsection.
+18 (f) (1) Any person who submits satisfactory proof to the director of
+19 vehicles, on a form provided by the director, that such person needs
+20 assistance with cognition, including, but not limited to, persons with
+21 autism spectrum disorder, may request that the division issue to such
+22 person a driver's license, that shall note such impairment on the driver's
+23 license at a location to be determined by the secretary of revenue.
+24 (2) Satisfactory proof that a person needs assistance with cognition
+25 shall include a statement from a person licensed to practice the healing arts
+26 in any state, an advanced practice registered nurse licensed under K.S.A.
+27 65-1131, and amendments thereto, a licensed physician assistant or a
+28 person clinically licensed by the Kansas behavioral sciences regulatory
+29 board certifying that such person needs assistance with cognition.
+30 Sec. 3. K.S.A. 2024 Supp. 8-1,221 is hereby amended to read as
+31 follows: 8-1,221. (a) On and after January 1, 2025, any owner or lessee of
+32 one or more passenger vehicles, trucks of a gross weight of 20,000 pounds
+33 or less or motorcycles, who is a resident of Kansas, and who submits
+34 satisfactory proof to the director of vehicles that such person is currently
+35 serving in any unit of the 1st infantry division, the Fort Riley garrison or a
+36 unit assigned to the Fort Riley garrison or has separated from the United
+37 States military, was honorably discharged and served an assignment of at
+38 least nine months in any unit of the 1st infantry division, the Fort Riley
+39 garrison or any unit assigned to the Fort Riley garrison may be issued one
+40 1st infantry division license plate for each such passenger vehicle, truck or
+41 motorcycle. Such license plate shall be issued for the same period of time
+42 as other license plates upon proper registration and payment of the regular
+43 license fee as provided in K.S.A. 8-143, and amendments thereto.
+HB 2273—Am. by HC 4
+1 (b) Any person who meets the criteria in subsection (a) may make
+2 application for such distinctive license plate, not less than 60 days prior to
+3 such person's renewal of registration date, on a form prescribed and
+4 furnished by the director of vehicles. Any applicant for the distinctive
+5 license plate shall furnish the director with proof as the director shall
+6 require that the applicant is currently serving in the 1st infantry division or
+7 is a retired member or veteran that was assigned to the 1st infantry division
+8 or Fort Riley garrison. Application for the registration of a passenger
+9 vehicle, truck or motorcycle and issuance of the license plate under this
+10 section shall be made by the owner or lessee in a manner prescribed by the
+11 director of vehicles upon forms furnished by the director.
+12 (c) No registration or distinctive license plate issued under the
+13 authority of this section shall be transferable to any other person.
+14 (d) Renewals of registration under this section shall be made
+15 annually, upon payment of the fee prescribed in K.S.A. 8-143, and
+16 amendments thereto, and in the manner prescribed in K.S.A. 8-132, and
+17 amendments thereto. No renewal of registration shall be made to any
+18 applicant until such applicant has filed with the director a form as provided
+19 in subsection (b). If such form is not filed, the applicant shall be required
+20 to comply with K.S.A. 8-143, and amendments thereto, and return the
+21 distinctive license plate to the county treasurer of such person's residence.
+22 (e) Upon satisfactory proof submitted to the director of vehicles, any
+23 person issued a license plate under this section may request that the license
+24 plate be printed to indicate that such person is a veteran or retired member
+25 of the 1st infantry division or Fort Riley garrison.
+26 (f) As used in this section, "veteran" means a person who served in
+27 the active military, naval, air or space service, including those groups and
+28 individuals listed under 38 C.F.R. § 3.7.
+29 Sec. 4. K.S.A. 2024 Supp. 8-1324 is hereby amended to read as
+30 follows: 8-1324. (a) Any resident who does not hold a current valid Kansas
+31 driver's license may make application to the division of vehicles and be
+32 issued one identification card.
+33 (b) (1) Each application for an identification card shall include a
+34 question asking if the applicant is willing to give such applicant's
+35 authorization to be listed as an organ, eye and tissue donor in the Kansas
+36 donor registry in accordance with the revised uniform anatomical gift act,
+37 K.S.A. 65-3220 through 65-3244, and amendments thereto. The gift would
+38 become effective upon the death of the donor.
+39 (2) For the purpose of obtaining an identification card, an applicant
+40 shall submit, with the application, proof of age, proof of identity and proof
+41 of lawful presence. An applicant shall submit with the application a photo
+42 identity document, except that a non-photo identity document is acceptable
+43 if it includes both the applicant's full legal name and date of birth, and
+HB 2273—Am. by HC 5
+1 documentation showing the applicant's name, the applicant's address of
+2 principal residence and the applicant's social security account number. The
+3 applicant's social security number shall remain confidential and shall not
+4 be disclosed, except as provided pursuant to K.S.A. 74-2014, and
+5 amendments thereto. If the applicant does not have a social security
+6 number, the applicant shall provide proof of lawful presence and Kansas
+7 residency. The division shall assign a distinguishing number to the
+8 identification card. Before issuing an identification card to a person, the
+9 division shall make reasonable efforts to verify with the issuing agency the
+10 issuance, validity and completeness of each document required to be
+11 presented by the applicant to prove age, identity and lawful presence.
+12 (c) The division shall not issue an identification card to any person
+13 who fails to provide proof that the person is lawfully present in the United
+14 States. If an applicant provides evidence of lawful presence as set out in
+15 K.S.A. 8-240(b)(2)(E) through (2)(I), and amendments thereto, or is an
+16 alien lawfully admitted for temporary residence under K.S.A. 8-240(b)(2)
+17 (B), and amendments thereto, the division may only issue a temporary
+18 identification card to the person under the following conditions:
+19 (1) A temporary identification card issued pursuant to this
+20 subparagraph shall be valid only during the period of time of the
+21 applicant's authorized stay in the United States or, if there is no definite
+22 end to the period of authorized stay, a period of one year;
+23 (2) a temporary identification card issued pursuant to this
+24 subparagraph shall clearly indicate that it is temporary and shall state the
+25 date upon which it expires;
+26 (3) no temporary identification card issued pursuant to this
+27 subparagraph shall be for a longer period of time than the time period
+28 permitted by K.S.A. 8-1325, and amendments thereto; and
+29 (4) a temporary identification card issued pursuant to this
+30 subparagraph may be renewed, subject at the time of renewal, to the same
+31 requirements and conditions set forth in this subsection for the issuance of
+32 the original temporary identification card.
+33 (d) The division shall not issue an identification card to any person
+34 who holds a current valid Kansas driver's license unless such driver's
+35 license has been physically surrendered pursuant to the provisions of
+36 K.S.A. 8-1002(e), and amendments thereto.
+37 (e) The division shall refuse to issue an identification card to a person
+38 holding a driver's license or identification card issued by another state
+39 without confirmation that the person is terminating or has terminated the
+40 license or identification card.
+41 (f) The parent or guardian of an applicant under 16 years of age shall
+42 sign the application for an identification card submitted by such applicant.
+43 (g) (1) The division shall require payment of a fee of $14 at the time
+HB 2273—Am. by HC 6
+1 application for an identification card is made, except that persons who are
+2 65 or more years of age or who are handicapped, as defined in K.S.A. 8-
+3 1,124, and amendments thereto, shall be required to pay a fee of only $10.
+4 In addition to the fees prescribed by this subsection, the division shall
+5 require payment of the photo fee established pursuant to K.S.A. 8-243, and
+6 amendments thereto, for the cost of the photograph to be placed on the
+7 identification card.
+8 (2) The division shall not require or accept payment of application or
+9 photo fees under this subsection for any person 17 years of age or older for
+10 purposes of meeting the voter identification requirements of K.S.A. 25-
+11 2908, and amendments thereto. Such person shall:
+12 (A) Swear under oath that such person desires an identification card
+13 in order to vote in an election in Kansas and that such person does not
+14 possess any of the forms of identification acceptable under K.S.A. 25-
+15 2908, and amendments thereto. The affidavit shall specifically list the
+16 acceptable forms of identification under K.S.A. 25-2908, and amendments
+17 thereto; and
+18 (B) produce evidence that such person is registered to vote in Kansas.
+19 (3) The secretary of revenue shall adopt rules and regulations in order
+20 to implement the provisions of paragraph (2).
+21 (h) All Kansas identification cards shall have physical security
+22 features designed to prevent tampering, counterfeiting or duplication for
+23 fraudulent purposes.
+24 (i) For the purposes of K.S.A. 8-1324 through 8-1328, and
+25 amendments thereto, a person shall be deemed to be a resident of the state
+26 if the person:
+27 (1) Owns, leases or rents a place of domicile in this state;
+28 (2) engages in a trade, business or profession in this state;
+29 (3) is registered to vote in this state;
+30 (4) enrolls the person's child in a school in this state; or
+31 (5) registers the person's motor vehicle in this state.
+32 (j) The division shall require that any person applying for an
+33 identification card submit to a mandatory facial image capture. The
+34 captured facial image shall be displayed on the front of the applicant's
+35 identification card by either:
+36 (1) A digital color image or photograph; or
+37 (2) a laser-engraved photograph of the licensee.
+38 (k) (1) Any person who is a veteran may request that the division
+39 issue to such person a nondriver identification card that shall include the
+40 designation "VETERAN" displayed on the front of the nondriver
+41 identification card at a location to be determined by the secretary of
+42 revenue. In order to receive a nondriver identification card described in
+43 this subsection, the veteran shall provide a copy of the veteran's DD form
+HB 2273—Am. by HC 7
+1 214, NGB form 22 or equivalent discharge document showing character of
+2 service as honorable or general under honorable conditions.
+3 (2) As used in this subsection, "veteran" means a person who served
+4 in the active military, naval, air or space service, including those groups
+5 and individuals listed under 38 C.F.R. § 3.7, and who was discharged or
+6 released therefrom under an honorable discharge or a general discharge
+7 under honorable conditions.
+8 (3) The director of vehicles may adopt any rules and regulations
+9 necessary to carry out the provisions of this subsection.
+10 (l) The director of vehicles may issue a temporary identification card
+11 to an applicant who cannot provide valid documentary evidence as defined
+12 by subsection (c), if the applicant provides compelling evidence proving
+13 current lawful presence. Any temporary identification card issued pursuant
+14 to this subparagraph shall be valid for one year.
+15 (m) Upon payment of the required fee, the division shall issue to
+16 every applicant qualifying under the provisions of this act an identification
+17 card. Such identification card shall bear a distinguishing number assigned
+18 to the cardholder, the full legal name, date of birth, address of principal
+19 residence, a brief description of the cardholder, either:
+20 (1) A digital color image or photograph; or
+21 (2) a laser-engraved photograph of the cardholder, and a facsimile of
+22 the signature of the cardholder. An identification card that does not contain
+23 the address of principal residence of the cardholder as required may be
+24 issued to persons who are program participants pursuant to K.S.A. 75-455,
+25 and amendments thereto.
+26 (n) An identification card issued to any person who indicated on the
+27 application that the person wished to make an anatomical gift in
+28 accordance with the revised uniform anatomical gift act, K.S.A. 65-3220
+29 through 65-3244, and amendments thereto, shall have the word "Donor"
+30 placed on the front of the applicant's identification card.
+31 (o) (1) Any person who submits satisfactory proof to the director of
+32 vehicles, on a form provided by the director, that such person needs
+33 assistance with cognition, including, but not limited to, persons with
+34 autism spectrum disorder, may request that the division issue to such
+35 person a nondriver identification card, that shall note such impairment on
+36 the nondriver identification card at a location to be determined by the
+37 secretary of revenue.
+38 (2) Satisfactory proof that a person needs assistance with cognition
+39 shall include a statement from a person licensed to practice the healing arts
+40 in any state, an advanced practice registered nurse licensed under K.S.A.
+41 65-1131, and amendments thereto, a licensed physician assistant or a
+42 person clinically licensed by the Kansas behavioral sciences regulatory
+43 board certifying that such person needs assistance with cognition.
+HB 2273—Am. by HC 8
+1 (p) The secretary of revenue shall permit an electronic online renewal
+2 of an identification card if the electronic online renewal applicant
+3 previously provided documentation of identity, lawful presence and
+4 residence to the division for electronic scanning. For purposes of this
+5 subsection, the division may rely on the division's most recent, existing
+6 color digital image and signature image of the applicant for the nondriver's
+7 identification card if the division has such images on file. The
+8 determination on whether an electronic online renewal application or
+9 equivalent of a nondriver's identification card is permitted shall be made
+10 by the director of vehicles or the director's designee. The division shall not
+11 renew a nondriver's identification card through an electronic online or
+12 equivalent process if the identification card has been previously renewed
+13 through an electronic online application in the immediately preceding
+14 card's expiration period. No renewal under this subsection shall be granted
+15 to any person who is a registered offender pursuant to K.S.A. 22-4901 et
+16 seq., and amendments thereto.
+17 Sec. 5. K.S.A. 2024 Supp. 32-934 is hereby amended to read as
+18 follows: 32-934. (a) Subject to the provisions of K.S.A. 32-920, and
+19 amendments thereto, the secretary of wildlife and parks or the secretary's
+20 designee shall issue, free of charge, a permanent license to hunt and fish to
+21 any person residing in the state who submits to the secretary satisfactory
+22 proof that the person is a disabled veteran. Any such person hunting or
+23 fishing in this state shall be subject to the provisions of all rules and
+24 regulations relating to hunting or fishing.
+25 (b) As used in this section, "disabled veteran" means a person who:
+26 (1) Served in the active military, naval, air or space service, including
+27 those groups and individuals listed under 38 C.F.R. § 3.7, and who was
+28 discharged or released therefrom under an honorable discharge or a
+29 general discharge under honorable conditions;
+30 (2) received a disability that was incurred or aggravated in the line of
+31 duty in the active military, naval, air or space service; and
+32 (3) has a service-connected evaluation percentage equal to or greater
+33 than 30% pursuant to 38 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et seq.
+34 Sec. 6. K.S.A. 2024 Supp. 48-3601 is hereby amended to read as
+35 follows: 48-3601. (a) A current member of the armed forces of the United
+36 States or the member's spouse or dependent child who is enrolled or has
+37 been accepted for admission at a postsecondary educational institution as a
+38 postsecondary student shall be deemed to be a resident of the state for the
+39 purpose of tuition and fees for attendance at such postsecondary
+40 educational institution.
+41 (b) A person is entitled to pay tuition and fees at an institution of
+42 higher education at the rates provided for Kansas residents without regard
+43 to the length of time the person has resided in the state if the person:
+HB 2273—Am. by HC 9
+1 (1) (A) Files a letter of intent to establish residence in the state with
+2 the postsecondary educational institution at which the person intends to
+3 register;
+4 (B) lives in the state while attending the postsecondary educational
+5 institution; and
+6 (C) is eligible for benefits under the federal post-9/11 veterans
+7 educational assistance act of 2008, 38 U.S.C. § 3301 et seq., or any other
+8 federal law authorizing educational benefits for veterans;
+9 (2) (A) is a veteran;
+10 (B) was stationed in Kansas for at least 11 months during active
+11 service in the armed forces or had established residency in Kansas prior to
+12 active service in the armed forces; and
+13 (C) lives in Kansas at the time of enrollment; or
+14 (3) (A) is the spouse or dependent of a veteran who was stationed in
+15 Kansas for at least 11 months during such veteran's period of active service
+16 in the armed forces or had established residency in Kansas prior to active
+17 service in the armed forces; and
+18 (B) lives in Kansas at the time of enrollment.
+19 (c) As used in this section:
+20 (1) "Armed forces" means the army, navy, marine corps, air force,
+21 space force, coast guard, Kansas army or air national guard or any
+22 component of the military reserves of the United States;
+23 (2) "postsecondary educational institution" means the same as defined
+24 in K.S.A. 74-3201b, and amendments thereto; and
+25 (3) "veteran" means a person who served in the active military, naval,
+26 air or space service, including those groups and individuals listed under
+27 38 C.F.R. § 3.7, and who was discharged or released therefrom under an
+28 honorable discharge or a general discharge under honorable conditions.
+29 (d) This section shall be a part of and supplemental to chapter 48 of
+30 the Kansas Statutes Annotated, and amendments thereto.
+31 Sec. 7. K.S.A. 2024 Supp. 50-676 is hereby amended to read as
+32 follows: 50-676. As used in K.S.A. 50-676 through 50-679, and
+33 amendments thereto:
+34 (a) "Elder person" means a person who is 60 years of age or older.
+35 (b) "Disabled person" means a person who has physical or mental
+36 impairment, or both, that substantially limits one or more of such person's
+37 major life activities.
+38 (c) "Immediate family member" means parent, child, stepchild or
+39 spouse.
+40 (d) "Major life activities" includes functions such as caring for one's
+41 self, performing manual tasks, walking, seeing, hearing, speaking,
+42 breathing, learning and working.
+43 (e) "Member of the armed forces" means a person performing active
+HB 2273—Am. by HC 10
+1 service in the army, navy, marine corps, air force, space force, coast guard
+2 or any component of the military reserves of the United States.
+3 (f) "Physical or mental impairment" means the following:
+4 (1) Any physiological disorder or condition, cosmetic disfigurement
+5 or anatomical loss substantially affecting one or more of the following
+6 body systems:
+7 (A) Neurological;
+8 (B) musculoskeletal;
+9 (C) special sense organs;
+10 (D) respiratory, including speech organs;
+11 (E) cardiovascular;
+12 (F) reproductive;
+13 (G) digestive;
+14 (H) genitourinary;
+15 (I) hemic and lymphatic;
+16 (J) skin; or
+17 (K) endocrine; or
+18 (2) any mental or psychological disorder, such as intellectual
+19 disability, organic brain syndrome, emotional or mental illness and specific
+20 learning disabilities.
+21 The term "physical or mental impairment" includes, but is not limited
+22 to, orthopedic, visual, language and hearing disorders, cerebral palsy,
+23 epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease,
+24 diabetes, intellectual disability and emotional illness.
+25 (g) "Protected consumer" means:
+26 (1) An elder person;
+27 (2) a disabled person;
+28 (3) a veteran;
+29 (4) the surviving spouse of a veteran;
+30 (5) a member of the armed forces; and
+31 (6) an immediate family member of a member of the armed forces.
+32 (h) "Substantially limits" means:
+33 (1) Unable to perform a major life activity that the average person in
+34 the general population can perform; or
+35 (2) significantly restricted as to the condition, manner or duration
+36 under which an individual can perform a particular major life activity as
+37 compared to the condition, manner or duration under which the average
+38 person in the general population can perform that same major life activity.
+39 Minor temporary ailments or injuries shall not be considered physical or
+40 mental impairments that substantially limit a person's major life activities.
+41 Minor temporary ailments include, but are not limited to, colds, influenza
+42 or sprains or minor injuries.
+43 (i) "Veteran" means a person who served in the active military, naval,
+HB 2273—Am. by HC 11
+1 air or space service, including those groups and individuals listed under
+2 38 C.F.R. § 3.7, and who was discharged or released therefrom under an
+3 honorable discharge or a general discharge under honorable conditions.
+4 Sec. 8. K.S.A. 2024 Supp. 73-201 is hereby amended to read as
+5 follows: 73-201. (a) As used in this act:
+6 (1) "Veteran" means:
+7 (A) A person who served in the active military, naval, air or space
+8 service, including those groups and individuals listed under 38 C.F.R. §
+9 3.7, and who was discharged or released therefrom under an honorable
+10 discharge or a general discharge under honorable conditions;
+11 (B) any person who has been issued the purple heart by the United
+12 States government or who:
+13 (1)(i) Served in the active military, naval, air or space service,
+14 including those groups and individuals listed under 38 C.F.R. § 3.7, and
+15 who was discharged therefrom under an honorable discharge or a general
+16 discharge under honorable conditions;
+17 (2)(ii) received a disability that was incurred or aggravated in the line
+18 of duty in the active military, naval, air or space service, including those
+19 groups and individuals listed under 38 C.F.R. § 3.7; and
+20 (3)(iii) has a disability certified by the Kansas commission on
+21 veterans affairs office office of veterans services as being service-
+22 connected, pursuant to 38 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et
+23 seq.;
+24 (C) the spouse of a service-connected disabled veteran with a
+25 permanent and total combined service-connected evaluation percentage of
+26 100%;
+27 (D) the surviving spouse of a veteran who died in the line of duty in
+28 the active military, naval, air or space service; and
+29 (E) the spouse of a prisoner of war, as defined by K.S.A. 75-4364,
+30 and amendments thereto.
+31 Veteran preference in government employment shall not apply to any
+32 person who retired from the active military service with the pay grade of
+33 04 or above unless the person retired due to wounds received in combat or
+34 is a disabled veteran with a service-connected disability evaluation rating
+35 equal to or greater than 10%, pursuant to 38 U.S.C. § 1101 et seq. or 10
+36 U.S.C. § 1201 et seq.
+37 (2) "Competent" means a good faith determination that the person is
+38 likely to successfully meet the performance standards of the position based
+39 on what a reasonable person knowledgeable in the operation of the
+40 position would conclude from all information available at the time the
+41 determination is made. The basis for such determination shall include
+42 experience, training, education, licensure, certification or other factors
+43 determined by the decision-making authority as appropriate to determine
+HB 2273—Am. by HC 12
+1 the applicant's overall qualification and ability to successfully meet the
+2 performance standards of the position. The decision-making authority shall
+3 document such factors prior to the initiation of the selection process.
+4 (3) "Disabled veteran" means a person who:
+5 (A) Served in the active military, naval, air or space service,
+6 including those groups and individuals listed under 38 C.F.R. § 3.7, and
+7 was discharged or released therefrom under an honorable discharge or a
+8 general discharge under honorable conditions;
+9 (B) received a disability that was incurred or aggravated in the line of
+10 duty in the active military, naval, air or space service, including those
+11 groups and individuals listed under 38 C.F.R. § 3.7; and
+12 (C) has a service-connected evaluation percentage, pursuant to 38
+13 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et seq.
+14 (b) In grateful recognition of the services, sacrifices and sufferings of
+15 veterans who served in the army, navy, air force, coast guard or marine
+16 corps of the United States in world war I and world war II, and of persons
+17 who have served with the armed forces of the United States during the
+18 military, naval and air operations in Korea, Vietnam, Iraq, Afghanistan or
+19 other places under the flags of the United States and the United Nations or
+20 under the flag of the United States alone, and have been honorably
+21 discharged therefrom, the provisions of this section are enacted.
+22 (c) Veterans shall be preferred for initial employment and first
+23 promotion in the state government of Kansas, and in the counties and cities
+24 of this state, if competent to perform such services. Any veteran thus
+25 preferred shall not be disqualified from holding any position in such
+26 service on account of the veteran's age or by reason of any physical or
+27 mental disability as long as such age or disability does not render the
+28 veteran incompetent to perform the duties of the position applied for.
+29 When any veteran shall apply for appointment to any such position, place,
+30 or employment, the officer, board or person whose duty it is or may be to
+31 appoint a person to fill such position, place or employment shall, if the
+32 applicant be a veteran of good reputation, and can competently perform
+33 the duties of the position applied for by the veteran, consider the veteran
+34 for appointment to such position, place, or employment. Within 30 days of
+35 filling a position, eligible veterans who have applied and are not hired
+36 shall be notified by certified mail or personal service that they are not
+37 being hired. Such notice also shall advise the veteran of any administrative
+38 appeal available.
+39 (d) The provisions of this act shall not be applicable to any persons
+40 classed as conscientious objectors. The provisions of this act shall not be
+41 controlling over the provisions of any statute, county resolution or city
+42 ordinance relating to retirement or termination on the basis of age, of
+43 employees of the state or any county or city. Whenever under any statute,
+HB 2273—Am. by HC 13
+1 county resolution or city ordinance, retirement or termination on the basis
+2 of age of any employee is required at a certain age or is optional with the
+3 employer at a certain age, such statute, resolution or ordinance shall be
+4 controlling and shall not be limited by this section.
+5 (e) (1) All notices of job openings, if any, and all applications for
+6 employment, if any, by the state and any city or county in this state shall
+7 state that the job is subject to a veteran's preference, how the preference
+8 works and how veterans may take advantage of the preference and post a
+9 written statement of:
+10 (A) The qualifications for such position;
+11 (B) any preferred qualifications of such position;
+12 (C) performance standards for the position; and
+13 (D) the process that will be used for selection.
+14 (2) A veteran, veteran's spouse or surviving spouse who qualifies for
+15 the veteran's preference, desiring to use a veteran's preference shall
+16 provide the hiring authority with a copy of the veteran's DD form 214, DD
+17 form 1300, NGB form 22 or other official discharge document recognized
+18 by the department of veterans affairs under which the spouse qualifies for
+19 the preference.
+20 (f) Every employment center of the state and any city or county
+21 human resources department, if any, shall openly display documents that
+22 indicate that veterans are eligible for a preference in their initial
+23 employment and any first promotion within the employment of the
+24 governmental entity.
+25 (g) Any veteran who alleges that a state agency, city or county has not
+26 provided the veterans preference as required by this act, after exhausting
+27 any available administrative remedy, may bring an action in the district
+28 court.
+29 Sec. 9. K.S.A. 2024 Supp. 73-230 is hereby amended to read as
+30 follows: 73-230. (a) In awarding any contract for the performance of any
+31 job or service for which moneys appropriated are to be expended, the
+32 secretary of administration, or the secretary's designee, shall give a
+33 preference to disabled veteran businesses doing business as Kansas firms,
+34 corporations or individuals, or that maintain Kansas offices or places of
+35 business and shall have the goal of awarding at least 3% of all such
+36 contracts to disabled veteran businesses.
+37 (b) As used in this section:
+38 (1) "Disabled veteran" means a person who:
+39 (A) Served in the active military, naval, air or space service,
+40 including those groups and individuals listed under 38 C.F.R. § 3.7, and
+41 who was discharged or released therefrom under an honorable discharge or
+42 a general discharge under honorable conditions;
+43 (B) received a disability that was incurred or aggravated in the line of
+HB 2273—Am. by HC 14
+1 duty in the active military, naval, air or space service;
+2 (C) has a service-connected evaluation percentage equal to or greater
+3 than 30% pursuant to 38 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et seq.
+4 (2) "Disabled veteran business" means a business: (A) Not less than
+5 51% of which is owned by one or more disabled veterans or, in the case of
+6 a publicly owned business, not less than 51% of the stock of which is
+7 owned by one or more disabled veterans; and (B) the management and
+8 daily business operations of which are controlled by one or more disabled
+9 veterans.
+10 Sec. 10. K.S.A. 2024 Supp. 73-1239 is hereby amended to read as
+11 follows: 73-1239. The Vietnam war era medallion, medal and a certificate
+12 shall be awarded regardless of whether or not such veteran served within
+13 the United States or in a foreign country. The medallion, medal and the
+14 certificate shall be awarded regardless of whether or not such veteran was
+15 under 18 years of age at the time of entry into active service. For purposes
+16 of this section, "veteran" means a person who served in the active military,
+17 naval, air or space service, including those groups and individuals listed
+18 under 38 C.F.R. § 3.7, and who was discharged under an honorable
+19 discharge or a general discharge under honorable conditions. The director
+20 of the Kansas office of veterans services shall administer the program and
+21 adopt all rules and regulations necessary to administer the program. The
+22 agency shall determine as expeditiously as possible the persons who are
+23 entitled to a Vietnam war era medallion, medal and a certificate and
+24 distribute the medallions, medals and the certificates. Applications for the
+25 Vietnam war era medallion, medal and the certificate shall be filed with
+26 the director of the Kansas office of veterans services on forms prescribed
+27 and furnished by the director of the Kansas office of veterans services. The
+28 deputy director of veteran services shall approve all applications that are in
+29 order, and shall cause a Vietnam war era medallion, medal and a certificate
+30 to be prepared for each approved veteran in the form approved by the
+31 director of the Kansas office of veterans services. The deputy director of
+32 veteran services shall review applications for the Vietnam war era
+33 medallion, medal and a certificate to ensure recipients are enrolled for
+34 eligible federal benefits.
+35 Sec. 11. K.S.A. 2024 Supp. 73-1244 is hereby amended to read as
+36 follows: 73-1244. (a) As used in this section:
+37 (1) "Service-connected disability" means, regarding disability or
+38 death, that such disability was incurred or aggravated, or that such death
+39 resulted from a disability incurred or aggravated, in the line of duty in the
+40 active military, naval, air or space service; and
+41 (2) "veteran" means a person who served in the active military, naval,
+42 air or space service, including those groups and individuals listed under
+43 38 C.F.R. § 3.7, and was discharged or released therefrom under conditions
+HB 2273—Am. by HC 15
+1 other than dishonorable.
+2 (b) No state agency or municipality, as defined in K.S.A. 12-105a,
+3 and amendments thereto, shall request or demand any other document or
+4 improvise an authentication procedure to determine eligibility for any
+5 benefit derived from a service-connected disability suffered by a Kansas
+6 veteran, except the following:
+7 (1) A United States passport as defined in 22 C.F.R. 53.1;
+8 (2) an unexpired real I.D. state driver's license as defined in 6 C.F.R.
+9 37;
+10 (3) a veterans health identity card issued by the United States
+11 department of veterans affairs;
+12 (4) a veterans identification card issued under the authority of 38
+13 U.S.C. § 5706;
+14 (5) a common access card issued by the United States department of
+15 defense; or
+16 (6) any department of defense identity cards listed in 32 C.F.R.
+17 161(b).
+18 Sec. 12. K.S.A. 2024 Supp. 75-3740 is hereby amended to read as
+19 follows: 75-3740. (a) Except as provided by K.S.A. 75-3740b, and
+20 amendments thereto, and subsections (b) and (k), all contracts and
+21 purchases made by or under the supervision of the director of purchases or
+22 any state agency for which competitive bids are required shall be awarded
+23 to the lowest responsible bidder, taking into consideration conformity with
+24 the specifications, terms of delivery, and other conditions imposed in the
+25 call for bids.
+26 (b) A contract shall be awarded to a certified business or disabled
+27 veteran business which is also a responsible bidder, whose total bid cost is
+28 not more than 10% higher than the lowest competitive bid. Such contract
+29 shall contain a promise by the certified business that the percentage of
+30 employees that are individuals with disabilities will be maintained
+31 throughout the contract term and a condition that the certified business
+32 shall not subcontract for goods or services in an aggregate amount of more
+33 than 25% of the total bid cost.
+34 (c) The director of purchases shall have power to decide as to the
+35 lowest responsible bidder for all purchases, but if:
+36 (1) (A) A responsible bidder purchases from a qualified vendor goods
+37 or services on the list certified by the director of purchases pursuant to
+38 K.S.A. 75-3317 et seq., and amendments thereto, the dollar amount of
+39 such purchases made during the previous fiscal year shall be deducted
+40 from the original bid received from such bidder for the purpose of
+41 determining the lowest responsible bid, except that such deduction shall
+42 not exceed 10% of the original bid received from such bidder; or
+43 (B) a responsible bidder purchases from a certified business the dollar
+HB 2273—Am. by HC 16
+1 amount of such purchases made during the previous fiscal year shall be
+2 deducted from the original bid received from such bidder for the purpose
+3 of determining the lowest responsible bid, except that such deduction shall
+4 not exceed 10% of the original bid received from such bidder;
+5 (2) the dollar amount of the bid received from the lowest responsible
+6 bidder from within the state is identical to the dollar amount of the bid
+7 received from the lowest responsible bidder from without the state, the
+8 contract shall be awarded to the bidder from within the state; and
+9 (3) in the case of bids for paper products specified in K.S.A. 75-
+10 3740b, and amendments thereto, the dollar amounts of the bids received
+11 from two or more lowest responsible bidders are identical, the contract
+12 shall be awarded to the bidder whose bid is for those paper products
+13 containing the highest percentage of recycled materials.
+14 (d) (1) Any or all bids may be rejected, and a bid shall be rejected if it
+15 contains any material alteration or erasure made after the bid is opened.
+16 The director of purchases may reject the bid of any bidder who is in
+17 arrears on taxes due the state, who is not properly registered to collect and
+18 remit taxes due the state or who has failed to perform satisfactorily on a
+19 previous contract with the state. The secretary of revenue is hereby
+20 authorized to exchange such information with the director of purchases as
+21 is necessary to effectuate the preceding sentence notwithstanding any other
+22 provision of law prohibiting disclosure of the contents of taxpayer records
+23 or information. Prior to determining the lowest responsible bidder on
+24 contracts for construction of buildings or for major repairs or
+25 improvements to buildings for state agencies, the director of purchases
+26 shall consider the:
+27 (A) Criteria and information developed by the secretary of
+28 administration, with the advice of the state building advisory commission
+29 to rate contractors on the basis of their performance under similar contracts
+30 with the state, local governmental entities and private entities, in addition
+31 to other criteria and information available; and
+32 (B) recommendations of the project architect, or, if there is no project
+33 architect, the recommendations of the secretary of administration or the
+34 agency architect for the project as provided in K.S.A. 75-1254, and
+35 amendments thereto.
+36 (2) In any case where competitive bids are required and where all
+37 bids are rejected, new bids shall be called for as in the first instance, unless
+38 otherwise expressly provided by law or the state agency elects not to
+39 proceed with the procurement.
+40 (e) Before the awarding of any contract for construction of a building
+41 or the making of repairs or improvements upon any building for a state
+42 agency, the director of purchases shall receive written approval from the
+43 state agency for which the building construction project has been
+HB 2273—Am. by HC 17
+1 approved, that the bids generally conform with the plans and specifications
+2 prepared by the project architect, by the secretary of administration or by
+3 the agency architect for the project, as the case may be, so as to avoid error
+4 and mistake on the part of the contractors. In all cases where material
+5 described in a contract can be obtained from any state institution, the
+6 director of purchases shall exclude the same from the contract.
+7 (f) All bids with the names of the bidders and the amounts thereof,
+8 together with all documents pertaining to the award of a contract, shall be
+9 made a part of a file or record and retained by the director of purchases for
+10 five years, unless reproduced as provided in K.S.A. 75-3737, and
+11 amendments thereto, and shall be open to public inspection at all
+12 reasonable times.
+13 (g) As used in this section:
+14 (1) "Certified business" means any business certified as provided by
+15 subsection (l) by the department of administration that is a sole
+16 proprietorship, partnership, association or corporation domiciled in
+17 Kansas, or any corporation, even if a wholly owned subsidiary of a foreign
+18 corporation, that:
+19 (A) Does business primarily in Kansas or substantially all of its
+20 production in Kansas;
+21 (B) employs at least 10% of its employees who are individuals with
+22 disabilities and reside in Kansas;
+23 (C) offers to contribute at least 75% of the premium cost for
+24 individual health insurance coverage for each employee. The department
+25 of administration shall require a certification of these facts as a condition
+26 to the certified business being awarded a contract pursuant to subsection
+27 (b); and
+28 (D) does not employ individuals under a certificate issued by the
+29 United States secretary of labor under 29 U.S.C. § 214(c);
+30 (2) "individuals with disabilities" or "individual with a disability"
+31 means any individual who:
+32 (A) Is certified by the Kansas department for aging and disability
+33 services or by the Kansas department for children and families which
+34 administers the rehabilitation services program as having a physical or
+35 mental impairment that constitutes a substantial barrier to employment;
+36 (B) works a minimum number of hours per week for a certified
+37 business necessary to qualify for health insurance coverage offered
+38 pursuant to subsection (g)(1); and
+39 (C) (i) is receiving services, has received services or is eligible to
+40 receive services under a home and community based services program, as
+41 defined by K.S.A. 39-7,100, and amendments thereto;
+42 (ii) is employed by a charitable organization domiciled in the state of
+43 Kansas and exempt from federal income taxation pursuant to section
+HB 2273—Am. by HC 18
+1 501(c)(3) of the federal internal revenue code of 1986, as amended; or
+2 (iii) is an individual with a disability pursuant to the disability
+3 standards established by the social security administration as determined
+4 by the Kansas disability determination services under the Kansas
+5 department for children and families;
+6 (3) "physical or mental impairment" means:
+7 (A) Any physiological disorder or condition, cosmetic disfigurement
+8 or anatomical loss substantially affecting one or more of the following
+9 body systems:
+10 (i) Neurological;
+11 (ii) musculoskeletal;
+12 (iii) special sense organs;
+13 (iv) respiratory, including speech organs;
+14 (v) cardiovascular;
+15 (vi) reproductive;
+16 (vii) digestive;
+17 (viii) genitourinary;
+18 (ix) hemic and lymphatic;
+19 (x) skin; or
+20 (xi) endocrine; or
+21 (B) any mental or psychological disorder, such as intellectual
+22 disability, organic brain syndrome, mental illness and specific learning
+23 disabilities. "Physical or mental impairment" includes, but is not limited
+24 to, orthopedic, visual, language and hearing disorders, cerebral palsy,
+25 epilepsy, muscular dystrophy, multiple sclerosis and intellectual disability;
+26 (4) "project architect" means the same as defined in K.S.A. 75-1251,
+27 and amendments thereto;
+28 (5) "disabled veteran" means a person who:
+29 (A) Served in the active military, naval, air or space service,
+30 including those groups and individuals listed under 38 C.F.R. § 3.7, and
+31 who was discharged or released therefrom under an honorable discharge or
+32 a general discharge under honorable conditions;
+33 (B) received a disability that was incurred or aggravated in the line of
+34 duty in the active military, naval, air or space service; and
+35 (C) has a service-connected evaluation percentage equal to or greater
+36 than 10% pursuant to 38 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et seq.;
+37 and
+38 (6) "disabled veteran business" means a business certified annually
+39 by the department of administration that is a sole proprietorship,
+40 partnership, association or corporation domiciled in Kansas, or any
+41 corporation, even if a wholly owned subsidiary of a foreign corporation,
+42 and is verified by the Kansas office of veterans services that:
+43 (A) Not less than 51% of such business is owned by one or more
+HB 2273—Am. by HC 19
+1 disabled veterans or, in the case of a publicly owned business, not less than
+2 51% of the stock is owned by one or more disabled veterans;
+3 (B) the management and daily business operations of such business
+4 are controlled by one or more disabled veterans; and
+5 (C) such business maintains the requirements of subparagraphs (A)
+6 and (B) during the entire contract term.
+7 (h) Any state agency authorized by the director of purchases to make
+8 purchases pursuant to K.S.A. 75-3739(e), and amendments thereto, shall
+9 consider any unsolicited proposal for goods or services under this section.
+10 (i) The secretary of administration and the secretary for aging and
+11 disability services, jointly, shall adopt rules and regulations as necessary to
+12 effectuate the purpose of this section.
+13 (j) At the beginning of each regular session of the legislature, the
+14 secretary of administration and the secretary for aging and disability
+15 services shall submit to the social services budget committee of the house
+16 of representatives and the appropriate subcommittee of the committee on
+17 ways and means of the senate, a written report on the number of:
+18 (1) Certified businesses certified by the department of administration
+19 during the previous fiscal year;
+20 (2) certified businesses awarded contracts pursuant to subsection (b)
+21 during the previous fiscal year;
+22 (3) contracts awarded pursuant to subsection (b) to each certified
+23 business during the previous fiscal year;
+24 (4) individuals with disabilities removed from, reinstated to or not
+25 reinstated to home and community based services or other medicaid
+26 program services during the previous fiscal year as a result of employment
+27 with a certified business;
+28 (5) individuals employed by each certified business during the
+29 previous fiscal year; and
+30 (6) individuals with disabilities employed by each certified business
+31 during the previous fiscal year.
+32 (k) When a state agency is receiving bids to purchase passenger
+33 motor vehicles, such agency shall follow the procedures prescribed in
+34 subsection (c)(2), except in the case where one of the responsible bidders
+35 offers motor vehicles that are assembled in Kansas. In such a case, 3% of
+36 the bid of the responsible bidder that offers motor vehicles assembled in
+37 Kansas shall be subtracted from the bid amount, and that amount shall be
+38 used to determine the lowest bid pursuant to subsection (c)(2). This
+39 subsection shall only apply to bids that match the exact motor vehicle
+40 specifications of the agency purchasing passenger motor vehicles.
+41 (l) The secretary of administration shall certify that a business meets
+42 the requirements for a certified business as defined in subsection (g), and
+43 shall recertify such business as having met such requirements every three
+HB 2273—Am. by HC 20
+1 years thereafter.
+2 Sec. 13. K.S.A. 2024 Supp. 79-4502 is hereby amended to read as
+3 follows: 79-4502. As used in this act, unless the context clearly indicates
+4 otherwise:
+5 (a) "Income" means the sum of adjusted gross income under the
+6 Kansas income tax act effective for tax year 2013 and thereafter without
+7 regard to any modifications pursuant to K.S.A. 79-32,117(b)(xx) through
+8 (xxiii) and (c)(xx), and amendments thereto, maintenance, support money,
+9 cash public assistance and relief, not including any refund granted under
+10 this act, the gross amount of any pension or annuity, including all
+11 monetary retirement benefits from whatever source derived, including but
+12 not limited to, all payments received under the railroad retirement act,
+13 except disability payments, payments received under the federal social
+14 security act, except that for determination of what constitutes income such
+15 amount shall not exceed 50% of any such social security payments and
+16 shall not include any social security payments to a claimant who prior to
+17 attaining full retirement age had been receiving disability payments under
+18 the federal social security act in an amount not to exceed the amount of
+19 such disability payments or 50% of any such social security payments,
+20 whichever is greater, all dividends and interest from whatever source
+21 derived not included in adjusted gross income, workers compensation and
+22 the gross amount of "loss of time" insurance. Income does not include gifts
+23 from nongovernmental sources or surplus food or other relief in kind
+24 supplied by a governmental agency, nor shall net operating losses and net
+25 capital losses be considered in the determination of income. Income does
+26 not include veterans disability compensation. Income does not include
+27 disability payments received under the federal social security act.
+28 (b) "Household" means a claimant, a claimant and spouse who
+29 occupy the homestead or a claimant and one or more individuals not
+30 related as husband and wife who together occupy a homestead.
+31 (c) "Household income" means all income received by all persons of
+32 a household in a calendar year while members of such household.
+33 (d) "Homestead" means the dwelling, or any part thereof, owned and
+34 occupied as a residence by the household and so much of the land
+35 surrounding it, as defined as a home site for ad valorem tax purposes, and
+36 may consist of a part of a multi-dwelling or multi-purpose building and a
+37 part of the land upon which it is built or a manufactured home or mobile
+38 home and the land upon which it is situated. "Owned" includes a vendee in
+39 possession under a land contract, a life tenant, a beneficiary under a trust
+40 and one or more joint tenants or tenants in common.
+41 (e) "Claimant" means a person who has filed a claim under the
+42 provisions of this act and was, during the entire calendar year preceding
+43 the year in which such claim was filed for refund under this act, except as
+HB 2273—Am. by HC 21
+1 provided in K.S.A. 79-4503, and amendments thereto, both domiciled in
+2 this state and was:
+3 (1) For purposes of a claim under K.S.A. 79-4508, and amendments
+4 thereto:
+5 (A) A person having a disability;
+6 (B) a person who is 55 years of age or older;
+7 (C) a disabled veteran;
+8 (D) the surviving spouse of a deceased member of the armed forces
+9 who died in the line of duty during a period of active service; or
+10 (E) a person other than a person included under subparagraph (A),
+11 (B), (C) or (D) having one or more dependent children under 18 years of
+12 age residing at the person's homestead during the calendar year
+13 immediately preceding the year in which a claim is filed under this act; or
+14 (2) for purposes of a claim under K.S.A. 2024 Supp. 79-4508a, and
+15 amendments thereto:
+16 (A) A person who is 65 years of age or older; or
+17 (B) a disabled veteran.
+18 The surviving spouse of a disabled veteran who was receiving benefits
+19 pursuant to subsection (e)(1)(C) at the time of the veterans' death, shall be
+20 eligible to continue to receive benefits until such time the surviving spouse
+21 remarries.
+22 When a homestead is occupied by two or more individuals and more
+23 than one of the individuals is able to qualify as a claimant, the individuals
+24 may determine between them as to whom the claimant will be. If they are
+25 unable to agree, the matter shall be referred to the secretary of revenue
+26 whose decision shall be final.
+27 (f) "Property taxes accrued" means property taxes, exclusive of
+28 special assessments, delinquent interest and charges for service, levied on
+29 a claimant's homestead in 1979 or any calendar year thereafter by the state
+30 of Kansas and the political and taxing subdivisions of the state. When a
+31 homestead is owned by two or more persons or entities as joint tenants or
+32 tenants in common and one or more of the persons or entities is not a
+33 member of claimant's household, "property taxes accrued" is that part of
+34 property taxes levied on the homestead that reflects the ownership
+35 percentage of the claimant's household. For purposes of this act, property
+36 taxes are "levied" when the tax roll is delivered to the local treasurer with
+37 the treasurer's warrant for collection. When a claimant and household own
+38 their homestead part of a calendar year, "property taxes accrued" means
+39 only taxes levied on the homestead when both owned and occupied as a
+40 homestead by the claimant's household at the time of the levy, multiplied
+41 by the percentage of 12 months that the property was owned and occupied
+42 by the household as its homestead in the year. When a household owns and
+43 occupies two or more different homesteads in the same calendar year,
+HB 2273—Am. by HC 22
+1 property taxes accrued shall be the sum of the taxes allocable to those
+2 several properties while occupied by the household as its homestead
+3 during the year. Whenever a homestead is an integral part of a larger unit
+4 such as a multi-purpose or multi-dwelling building, property taxes accrued
+5 shall be that percentage of the total property taxes accrued as the value of
+6 the homestead is of the total value. For the purpose of this act, the word
+7 "unit" refers to that parcel of property covered by a single tax statement of
+8 which the homestead is a part.
+9 (g) "Disability" means:
+10 (1) Inability to engage in any substantial gainful activity by reason of
+11 any medically determinable physical or mental impairment which can be
+12 expected to result in death or has lasted or can be expected to last for a
+13 continuous period of not less than 12 months, and an individual shall be
+14 determined to be under a disability only if the physical or mental
+15 impairment or impairments are of such severity that the individual is not
+16 only unable to do the individual's previous work but cannot, considering
+17 age, education and work experience, engage in any other kind of
+18 substantial gainful work which exists in the national economy, regardless
+19 of whether such work exists in the immediate area in which the individual
+20 lives or whether a specific job vacancy exists for the individual, or whether
+21 the individual would be hired if application was made for work. For
+22 purposes of the preceding sentence (with respect to any individual), "work
+23 which exists in the national economy" means work which exists in
+24 significant numbers either in the region where the individual lives or in
+25 several regions of the country; for purposes of this subsection, a "physical
+26 or mental impairment" is an impairment that results from anatomical,
+27 physiological or psychological abnormalities which are demonstrable by
+28 medically acceptable clinical and laboratory diagnostic techniques; or
+29 (2) blindness and inability by reason of blindness to engage in
+30 substantial gainful activity requiring skills or abilities comparable to those
+31 of any gainful activity in which the individual has previously engaged with
+32 some regularity and over a substantial period of time.
+33 (h) "Blindness" means central visual acuity of 20/ or less in the
+200
+34 better eye with the use of a correcting lens. An eye which is accompanied
+35 by a limitation in the fields of vision such that the widest diameter of the
+36 visual field subtends an angle no greater than 20 degrees shall be
+37 considered for the purpose of this paragraph as having a central visual
+38 acuity of 20/ or less.
+200
+39 (i) "Disabled veteran" means a person who is a resident of Kansas
+40 and who:
+41 (1) Served in the active military, naval, air or space service, including
+42 those groups and individuals listed under 38 C.F.R. § 3.7, and who was
+43 discharged or released therefrom under an honorable discharge or a
+HB 2273—Am. by HC 23
+1 general discharge under honorable conditions;
+2 (2) received a disability that was incurred or aggravated in the line of
+3 duty in the active military, naval, air or space service, including those
+4 groups and individuals listed under 38 C.F.R. § 3.7; and
+5 (3) has a service-connected evaluation percentage equal to or greater
+6 than 50%, pursuant to 38 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et seq.
+7 Sec. 14. K.S.A. 2024 Supp. 8-160, 8-1,221, 8-243, 8-1324, 32-934,
+8 48-3601, 50-676, 73-201, 73-230, 73-1239, 73-1244, 75-3740 and 79-
+9 4502 are hereby repealed.
+10 Sec. 15. This act shall take effect and be in force from and after its
+11 publication in the statute book.
+[DELETED: Avr r ta5rBS0f1w2(3t4d5g6(7d8(9t0S1f2i3d4c5d6b7l8e9l0l1l2d3a4s5y]
+[DELETED: Ctriobspit0b122s3c4l5r6t7r8l9dd to pt t, cg or dn of t0dt fr ft p. Te sy of re s1i2l3(4o5m6t7a8o9(0dn ie to sh pn a ds le wh is r1d2r3p4b5d6s7t8n9t0(1u2d3e]
+[DELETED: Css(i"bdvs0c1(2i3a4r5u6(7n8(9v0a1a2p3l4(5s6i768p9b0S1f2o3o4s5s1 6u7S8l1 9g01 1m2a3l]
+[DELETED: C(asflr1 i1 ov0s1d2(o e e e d r 3a4(s of rn ur ts sn sl be m5a6a7a8a9i0t1d2(3p4p5o1 6(7t8i9S0f1d2i3(4qt s h 5a6d7K8b9(0s1o2i3i]
+[DELETED: Cdpabe d, et as pd pt to K. 7, aanrl id0i1p2(3w4S5K6a7(8i9(A ty in cd id pt to t0sl 1a2e3(a ty in cd id pt to t4s5d6(o ty in cd id pt to t7s8p9(a ty in cd id pt to t0s1r2t3(4w5l6K7(8h9w0l1(2s3(]
+[DELETED: Ca61Irai(p0p122(3i4p526a7t8(9(0t1(l Ks in cs sl he pl s2f3f4(r te ps of K. 84 th 8, a5a6i7(8(9(0(1(2(e dn sl re tt a pn ag fr a3i4c5i6(7(8(9i0dn "" dd on te ft of te n1i2r3t]
+[DELETED: C2s(iaru(n0(1t2b3c4t5(6e7c8t9r0(1(2t3t4i5a6(7an tt te pn wd to me an al gt i8a9t0p1(2v3a4a5p6t7s8(9s0i162p3b]
+[DELETED: C(of an in cd if te ec oe rl ap pd dn of i, ll pe arscin cd if te dn hs sh is on f. Tde0b1r2e3t4c5t6s7S8f9a0d1a2p3f4r5(6(7t8d9g0(1d2(3t4S5f6S7b8p9pe of tn ad fs fr ae at sh p0e1(2h3t]
+[DELETED: C(tr(i(s s ef(0(1s2a3(4(5K6i7s8(9(0(1s2c3(4i5(6a738h9(0t1S2f: 5. s ud in K. 56 th 5, a3a4(5(6i7m8(9s0(1s, pg ml t, w, s, h, s2b3(]
+[DELETED: C1so((ob(((0(1(2(3(4(5(6(7(8(y ml or pl d, sh as i9d0l1T2t3e4d5(6(7(8(9(0(1(2(3(4t5(6u7c8p9M0m1M2o3(]
+[DELETED: C1a3hSf((s30d1(2S3(4i5w6d7(8o9g0(s a d cd b te K cn o1vs as o oe of vs s as bg s2c3s4(e se of a sd dd vn wh a5p617(8t9(0a1V2p304i5e6U7(8l9o0p1d2e3d]
+[DELETED: C1tpd((d in te ae m, n, ar or se siwg(0d1g2(3U4(5v6c7w8m9o0u1d2(s l d l t d 3p4o5p6s7m8v9W0o1a2a3t4f5f6s7b8a9(0c1c2o3e]
+[DELETED: C1coec(esww0(1(2(3(4(5t6p7f8b9t0(1h2ie tt vs ae ee fr a pe in tr i3e4g5(6p7a8c9S0f1j2ss 3p4c5b6c7(8(9(d in te ae m, n, ar or se s0i1w2a3(]
+[DELETED: C1d(t(5aodv0S1f2s3t4c5u6o7n8u a9d0o1a2a3e4d5V6t7a8d9o0t1d2vn ss sl rw as fr te m wr e3m4e5S6f7(d d" m, rg dy o8d9r0a1(2a33]
+[DELETED: C1o(aibv((30(s 1d2(3U4(5d6(718S9f. t 0as s , l s 1p2a3t4t5c6(7v8n9s0es tt ae is wh ds wl be m1t2s3t4(5l6(7o8K9s0f1d2n3(]
+[DELETED: C1adon(brc(031f2s3c4(5c6T7a8r9p0a1i2p3o4cs fr cn of bs or fr mr rs o5i6s7(a ad in dd by te sy o8a9t0w1t2(3a4a5a6(7b8o9p0(1o2a3se ay fr wh te bg cn pt hs b]
+[DELETED: C1aptadd(tm0fe y, us rd as pd in K. 7, a1as t, ad sl be on t pc i at a2r3(4(5sn () by te dt of an tt is a s6p, p, an or cn dd i7K8c9(0p1(2d3(s t 4i5o6t7(8(9U0(1m2(3s4a5m6(7bs n to  fr  ie ce o8p9(0r1d2(3K]
+[DELETED: C15(sby te Ks dy dn ss ur te Kd((ob0(1(2(3(4(5(6(7(8(9(0(1(y ml or pl d, sh as i2d3d4t5e6(7a8(9(d in te ae m, n, ar or se s0i1w2a3(4d5(6t7a8(9by te dt of an tt is a se p0p c i K, r 1c2a3(]
+[DELETED: C1d5(a(a(pc0(1d2e3(4s5s6o7w8(9d0(1d2(3b4(5r6p7w8(s ed by eh cd bs dg t9p0(1d2(3m4s5o6t7K8u9s0s1(2t3s]
+[DELETED: C2ySfo(Kr(c0t1m2n3e4s5a6s7a8t9s0w1d2t3f4s5c6n7d8(9o0r1(2a3(4o5s6m7p8h9p0a1(2p3t]
+[DELETED: C2pt(t((((w0(1(2ae rg at te ps hd dg te cr y3i4(5a6(7(8T9p0e1r2W3t4m5u6w7( ts 8s9a0o1h2t3m4ps e t s e 5p6t7t8t9o0h1b2b3o]
+[DELETED: C2psdsst"w(0(1a2e3c4d5i6o7a, en ad wk e, ee in a or kd o8s9o0l1t2p3w4s5s6o7p8m9(0s1o2s3(f / o4b5b6v7c8a / 9(0a1(2t3d]
+[DELETED: C2g(dg(tS440S1p]
+
+
+================================================================================
+
+Raw Text:
+As Amended by House Committee
+Session of 2025
+HOUSE BILL No. 2273
+By Committee on Veterans and Military
+Requested by Rob Leicht on behalf of the Kansas Office of Veterans Services
+2-5
+1 AN ACT concerning veterans and military; modifying the definition of
+2 veteran and disabled veteran; adding a citation to the code of federal
+3 register regulations to definitions of veteran and disabled veteran;
+4 amending K.S.A. 2024 Supp. 8-1,221, 8-243, 8-1324, 32-934, 48-3601,
+5 50-676, 73-201, 73-230, 73-1239, 73-1244, 75-3740 and 79-4502 and
+6 repealing the existing sections.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 Section 1. K.S.A. 2024 Supp. 8-160 is hereby amended to read as
+10 follows: 8-160. As used in this act, "disabled veteran" means a person
+11 who:
+12 (a) Served in the active military, naval, air or space service, including
+13 those groups and individuals listed under 38 C.F.R. § 3.7, and who was
+14 discharged or released therefrom under an honorable discharge or a
+15 general discharge under honorable conditions;
+16 (b) received a disability that was incurred or aggravated in the line of
+17 duty in the active military, naval, air or space service; and
+18 (c) has a service-connected evaluation percentage equal to or greater
+19 than 50%, pursuant to 38 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et seq.
+20 Sec. 2. K.S.A. 2024 Supp. 8-243 is hereby amended to read as
+21 follows: 8-243. (a) Upon payment of the required fee, the division shall
+22 issue to every applicant qualifying under the provisions of this act the
+23 driver's license as applied for by the applicant. Such license shall bear the
+24 class or classes of motor vehicles that the licensee is entitled to drive, a
+25 distinguishing number assigned to the licensee, the full legal name, date of
+26 birth, gender, address of principal residence and a brief description of the
+27 licensee, either: (1) A digital color image or photograph; or (2) a laser-
+28 engraved photograph of the licensee, a facsimile of the signature of the
+29 licensee and the statement provided for in subsection (b). No driver's
+30 license shall be valid until it has been signed by the licensee. All drivers'
+31 licenses issued to persons under the age of 21 years shall be readily
+32 distinguishable from licenses issued to persons age 21 years or older. In
+33 addition, all drivers' licenses issued to persons under the age of 18 years
+34 shall also be readily distinguishable from licenses issued to persons age 18
+35 years or older. The secretary of revenue shall implement a vertical format
+
+HB 2273—Am. by HC 2
+1 to make drivers' licenses issued to persons under the age of 21 more
+2 readily distinguishable. Except as otherwise provided, no driver's license
+3 issued by the division shall be valid until either: (1) A digital color image
+4 or photograph; or (2) a laser-engraved photograph of such licensee has
+5 been taken and verified before being placed on the driver's license. The
+6 secretary of revenue shall prescribe a fee of not more than $8 and upon the
+7 payment of such fee, the division shall cause either: (1) A digital color
+8 image or photograph; or (2) a laser-engraved photograph of such applicant
+9 to be placed on the driver's license. Upon payment of such fee prescribed
+10 by the secretary of revenue, plus payment of the fee required by K.S.A. 8-
+11 246, and amendments thereto, for issuance of a new license, the division
+12 shall issue to such licensee a new license containing either: (1) A digital
+13 color image or photograph; or (2) a laser-engraved photograph of such
+14 licensee. A driver's license that does not contain the principal address as
+15 required may be issued to persons who are program participants pursuant
+16 to K.S.A. 75-455, and amendments thereto, upon payment of the fee
+17 required by K.S.A. 8-246, and amendments thereto. All Kansas drivers'
+18 licenses and identification cards shall have physical security features
+19 designed to prevent tampering, counterfeiting or duplication of the
+20 document for fraudulent purposes. The secretary of revenue shall
+21 incorporate common machine-readable technology into all Kansas drivers'
+22 licenses and identification cards.
+23 (b) A Kansas driver's license issued to any person 16 years of age or
+24 older who indicated on the person's application that the person wished to
+25 make a gift of all or any part of the body of the licensee in accordance with
+26 the revised uniform anatomical gift act, K.S.A. 65-3220 through 65-3244,
+27 and amendments thereto, shall have the word "Donor" placed on the front
+28 of the licensee's driver's license.
+29 (c) Any person who is deaf or hard of hearing may request that the
+30 division issue to such person a driver's license which is readily
+31 distinguishable from drivers' licenses issued to other drivers and upon such
+32 request the division shall issue such license. Drivers' licenses issued to
+33 persons who are deaf or hard of hearing and under the age of 21 years shall
+34 be readily distinguishable from drivers' licenses issued to persons who are
+35 deaf or hard of hearing and 21 years of age or older. Upon satisfaction of
+36 subsection (a), the division shall issue a receipt of application permitting
+37 the operation of a vehicle consistent with the requested class, if there are
+38 no other restrictions or limitations, pending the division's verification of
+39 the information and production of a driver's license.
+40 (d) A driver's license issued to a person required to be registered
+41 under K.S.A. 22-4901 et seq., and amendments thereto, shall be assigned a
+42 distinguishing number by the division which will readily indicate to law
+43 enforcement officers that such person is a registered offender. The division
+
+HB 2273—Am. by HC 3
+1 shall develop a numbering system to implement the provisions of this
+2 subsection.
+3 (e) (1) Any person who is a veteran may request that the division
+4 issue to such person a driver's license that shall include the designation
+5 "VETERAN" displayed on the front of the driver's license at a location to
+6 be determined by the secretary of revenue. In order to receive a license
+7 described in this subsection, the veteran shall provide a copy of the
+8 veteran's DD form 214, NGB form 22 or equivalent discharge document
+9 showing character of service as honorable or general under honorable
+10 conditions.
+11 (2) As used in this subsection, "veteran" means a person who served
+12 in the active military, naval, air or space service, including those groups
+13 and individuals listed under 38 C.F.R. § 3.7, and who was discharged or
+14 released therefrom under an honorable discharge or a general discharge
+15 under honorable conditions.
+16 (3) The director of vehicles may adopt any rules and regulations
+17 necessary to carry out the provisions of this subsection.
+18 (f) (1) Any person who submits satisfactory proof to the director of
+19 vehicles, on a form provided by the director, that such person needs
+20 assistance with cognition, including, but not limited to, persons with
+21 autism spectrum disorder, may request that the division issue to such
+22 person a driver's license, that shall note such impairment on the driver's
+23 license at a location to be determined by the secretary of revenue.
+24 (2) Satisfactory proof that a person needs assistance with cognition
+25 shall include a statement from a person licensed to practice the healing arts
+26 in any state, an advanced practice registered nurse licensed under K.S.A.
+27 65-1131, and amendments thereto, a licensed physician assistant or a
+28 person clinically licensed by the Kansas behavioral sciences regulatory
+29 board certifying that such person needs assistance with cognition.
+30 Sec. 3. K.S.A. 2024 Supp. 8-1,221 is hereby amended to read as
+31 follows: 8-1,221. (a) On and after January 1, 2025, any owner or lessee of
+32 one or more passenger vehicles, trucks of a gross weight of 20,000 pounds
+33 or less or motorcycles, who is a resident of Kansas, and who submits
+34 satisfactory proof to the director of vehicles that such person is currently
+35 serving in any unit of the 1st infantry division, the Fort Riley garrison or a
+36 unit assigned to the Fort Riley garrison or has separated from the United
+37 States military, was honorably discharged and served an assignment of at
+38 least nine months in any unit of the 1st infantry division, the Fort Riley
+39 garrison or any unit assigned to the Fort Riley garrison may be issued one
+40 1st infantry division license plate for each such passenger vehicle, truck or
+41 motorcycle. Such license plate shall be issued for the same period of time
+42 as other license plates upon proper registration and payment of the regular
+43 license fee as provided in K.S.A. 8-143, and amendments thereto.
+
+HB 2273—Am. by HC 4
+1 (b) Any person who meets the criteria in subsection (a) may make
+2 application for such distinctive license plate, not less than 60 days prior to
+3 such person's renewal of registration date, on a form prescribed and
+4 furnished by the director of vehicles. Any applicant for the distinctive
+5 license plate shall furnish the director with proof as the director shall
+6 require that the applicant is currently serving in the 1st infantry division or
+7 is a retired member or veteran that was assigned to the 1st infantry division
+8 or Fort Riley garrison. Application for the registration of a passenger
+9 vehicle, truck or motorcycle and issuance of the license plate under this
+10 section shall be made by the owner or lessee in a manner prescribed by the
+11 director of vehicles upon forms furnished by the director.
+12 (c) No registration or distinctive license plate issued under the
+13 authority of this section shall be transferable to any other person.
+14 (d) Renewals of registration under this section shall be made
+15 annually, upon payment of the fee prescribed in K.S.A. 8-143, and
+16 amendments thereto, and in the manner prescribed in K.S.A. 8-132, and
+17 amendments thereto. No renewal of registration shall be made to any
+18 applicant until such applicant has filed with the director a form as provided
+19 in subsection (b). If such form is not filed, the applicant shall be required
+20 to comply with K.S.A. 8-143, and amendments thereto, and return the
+21 distinctive license plate to the county treasurer of such person's residence.
+22 (e) Upon satisfactory proof submitted to the director of vehicles, any
+23 person issued a license plate under this section may request that the license
+24 plate be printed to indicate that such person is a veteran or retired member
+25 of the 1st infantry division or Fort Riley garrison.
+26 (f) As used in this section, "veteran" means a person who served in
+27 the active military, naval, air or space service, including those groups and
+28 individuals listed under 38 C.F.R. § 3.7.
+29 Sec. 4. K.S.A. 2024 Supp. 8-1324 is hereby amended to read as
+30 follows: 8-1324. (a) Any resident who does not hold a current valid Kansas
+31 driver's license may make application to the division of vehicles and be
+32 issued one identification card.
+33 (b) (1) Each application for an identification card shall include a
+34 question asking if the applicant is willing to give such applicant's
+35 authorization to be listed as an organ, eye and tissue donor in the Kansas
+36 donor registry in accordance with the revised uniform anatomical gift act,
+37 K.S.A. 65-3220 through 65-3244, and amendments thereto. The gift would
+38 become effective upon the death of the donor.
+39 (2) For the purpose of obtaining an identification card, an applicant
+40 shall submit, with the application, proof of age, proof of identity and proof
+41 of lawful presence. An applicant shall submit with the application a photo
+42 identity document, except that a non-photo identity document is acceptable
+43 if it includes both the applicant's full legal name and date of birth, and
+
+HB 2273—Am. by HC 5
+1 documentation showing the applicant's name, the applicant's address of
+2 principal residence and the applicant's social security account number. The
+3 applicant's social security number shall remain confidential and shall not
+4 be disclosed, except as provided pursuant to K.S.A. 74-2014, and
+5 amendments thereto. If the applicant does not have a social security
+6 number, the applicant shall provide proof of lawful presence and Kansas
+7 residency. The division shall assign a distinguishing number to the
+8 identification card. Before issuing an identification card to a person, the
+9 division shall make reasonable efforts to verify with the issuing agency the
+10 issuance, validity and completeness of each document required to be
+11 presented by the applicant to prove age, identity and lawful presence.
+12 (c) The division shall not issue an identification card to any person
+13 who fails to provide proof that the person is lawfully present in the United
+14 States. If an applicant provides evidence of lawful presence as set out in
+15 K.S.A. 8-240(b)(2)(E) through (2)(I), and amendments thereto, or is an
+16 alien lawfully admitted for temporary residence under K.S.A. 8-240(b)(2)
+17 (B), and amendments thereto, the division may only issue a temporary
+18 identification card to the person under the following conditions:
+19 (1) A temporary identification card issued pursuant to this
+20 subparagraph shall be valid only during the period of time of the
+21 applicant's authorized stay in the United States or, if there is no definite
+22 end to the period of authorized stay, a period of one year;
+23 (2) a temporary identification card issued pursuant to this
+24 subparagraph shall clearly indicate that it is temporary and shall state the
+25 date upon which it expires;
+26 (3) no temporary identification card issued pursuant to this
+27 subparagraph shall be for a longer period of time than the time period
+28 permitted by K.S.A. 8-1325, and amendments thereto; and
+29 (4) a temporary identification card issued pursuant to this
+30 subparagraph may be renewed, subject at the time of renewal, to the same
+31 requirements and conditions set forth in this subsection for the issuance of
+32 the original temporary identification card.
+33 (d) The division shall not issue an identification card to any person
+34 who holds a current valid Kansas driver's license unless such driver's
+35 license has been physically surrendered pursuant to the provisions of
+36 K.S.A. 8-1002(e), and amendments thereto.
+37 (e) The division shall refuse to issue an identification card to a person
+38 holding a driver's license or identification card issued by another state
+39 without confirmation that the person is terminating or has terminated the
+40 license or identification card.
+41 (f) The parent or guardian of an applicant under 16 years of age shall
+42 sign the application for an identification card submitted by such applicant.
+43 (g) (1) The division shall require payment of a fee of $14 at the time
+
+HB 2273—Am. by HC 6
+1 application for an identification card is made, except that persons who are
+2 65 or more years of age or who are handicapped, as defined in K.S.A. 8-
+3 1,124, and amendments thereto, shall be required to pay a fee of only $10.
+4 In addition to the fees prescribed by this subsection, the division shall
+5 require payment of the photo fee established pursuant to K.S.A. 8-243, and
+6 amendments thereto, for the cost of the photograph to be placed on the
+7 identification card.
+8 (2) The division shall not require or accept payment of application or
+9 photo fees under this subsection for any person 17 years of age or older for
+10 purposes of meeting the voter identification requirements of K.S.A. 25-
+11 2908, and amendments thereto. Such person shall:
+12 (A) Swear under oath that such person desires an identification card
+13 in order to vote in an election in Kansas and that such person does not
+14 possess any of the forms of identification acceptable under K.S.A. 25-
+15 2908, and amendments thereto. The affidavit shall specifically list the
+16 acceptable forms of identification under K.S.A. 25-2908, and amendments
+17 thereto; and
+18 (B) produce evidence that such person is registered to vote in Kansas.
+19 (3) The secretary of revenue shall adopt rules and regulations in order
+20 to implement the provisions of paragraph (2).
+21 (h) All Kansas identification cards shall have physical security
+22 features designed to prevent tampering, counterfeiting or duplication for
+23 fraudulent purposes.
+24 (i) For the purposes of K.S.A. 8-1324 through 8-1328, and
+25 amendments thereto, a person shall be deemed to be a resident of the state
+26 if the person:
+27 (1) Owns, leases or rents a place of domicile in this state;
+28 (2) engages in a trade, business or profession in this state;
+29 (3) is registered to vote in this state;
+30 (4) enrolls the person's child in a school in this state; or
+31 (5) registers the person's motor vehicle in this state.
+32 (j) The division shall require that any person applying for an
+33 identification card submit to a mandatory facial image capture. The
+34 captured facial image shall be displayed on the front of the applicant's
+35 identification card by either:
+36 (1) A digital color image or photograph; or
+37 (2) a laser-engraved photograph of the licensee.
+38 (k) (1) Any person who is a veteran may request that the division
+39 issue to such person a nondriver identification card that shall include the
+40 designation "VETERAN" displayed on the front of the nondriver
+41 identification card at a location to be determined by the secretary of
+42 revenue. In order to receive a nondriver identification card described in
+43 this subsection, the veteran shall provide a copy of the veteran's DD form
+
+HB 2273—Am. by HC 7
+1 214, NGB form 22 or equivalent discharge document showing character of
+2 service as honorable or general under honorable conditions.
+3 (2) As used in this subsection, "veteran" means a person who served
+4 in the active military, naval, air or space service, including those groups
+5 and individuals listed under 38 C.F.R. § 3.7, and who was discharged or
+6 released therefrom under an honorable discharge or a general discharge
+7 under honorable conditions.
+8 (3) The director of vehicles may adopt any rules and regulations
+9 necessary to carry out the provisions of this subsection.
+10 (l) The director of vehicles may issue a temporary identification card
+11 to an applicant who cannot provide valid documentary evidence as defined
+12 by subsection (c), if the applicant provides compelling evidence proving
+13 current lawful presence. Any temporary identification card issued pursuant
+14 to this subparagraph shall be valid for one year.
+15 (m) Upon payment of the required fee, the division shall issue to
+16 every applicant qualifying under the provisions of this act an identification
+17 card. Such identification card shall bear a distinguishing number assigned
+18 to the cardholder, the full legal name, date of birth, address of principal
+19 residence, a brief description of the cardholder, either:
+20 (1) A digital color image or photograph; or
+21 (2) a laser-engraved photograph of the cardholder, and a facsimile of
+22 the signature of the cardholder. An identification card that does not contain
+23 the address of principal residence of the cardholder as required may be
+24 issued to persons who are program participants pursuant to K.S.A. 75-455,
+25 and amendments thereto.
+26 (n) An identification card issued to any person who indicated on the
+27 application that the person wished to make an anatomical gift in
+28 accordance with the revised uniform anatomical gift act, K.S.A. 65-3220
+29 through 65-3244, and amendments thereto, shall have the word "Donor"
+30 placed on the front of the applicant's identification card.
+31 (o) (1) Any person who submits satisfactory proof to the director of
+32 vehicles, on a form provided by the director, that such person needs
+33 assistance with cognition, including, but not limited to, persons with
+34 autism spectrum disorder, may request that the division issue to such
+35 person a nondriver identification card, that shall note such impairment on
+36 the nondriver identification card at a location to be determined by the
+37 secretary of revenue.
+38 (2) Satisfactory proof that a person needs assistance with cognition
+39 shall include a statement from a person licensed to practice the healing arts
+40 in any state, an advanced practice registered nurse licensed under K.S.A.
+41 65-1131, and amendments thereto, a licensed physician assistant or a
+42 person clinically licensed by the Kansas behavioral sciences regulatory
+43 board certifying that such person needs assistance with cognition.
+
+HB 2273—Am. by HC 8
+1 (p) The secretary of revenue shall permit an electronic online renewal
+2 of an identification card if the electronic online renewal applicant
+3 previously provided documentation of identity, lawful presence and
+4 residence to the division for electronic scanning. For purposes of this
+5 subsection, the division may rely on the division's most recent, existing
+6 color digital image and signature image of the applicant for the nondriver's
+7 identification card if the division has such images on file. The
+8 determination on whether an electronic online renewal application or
+9 equivalent of a nondriver's identification card is permitted shall be made
+10 by the director of vehicles or the director's designee. The division shall not
+11 renew a nondriver's identification card through an electronic online or
+12 equivalent process if the identification card has been previously renewed
+13 through an electronic online application in the immediately preceding
+14 card's expiration period. No renewal under this subsection shall be granted
+15 to any person who is a registered offender pursuant to K.S.A. 22-4901 et
+16 seq., and amendments thereto.
+17 Sec. 5. K.S.A. 2024 Supp. 32-934 is hereby amended to read as
+18 follows: 32-934. (a) Subject to the provisions of K.S.A. 32-920, and
+19 amendments thereto, the secretary of wildlife and parks or the secretary's
+20 designee shall issue, free of charge, a permanent license to hunt and fish to
+21 any person residing in the state who submits to the secretary satisfactory
+22 proof that the person is a disabled veteran. Any such person hunting or
+23 fishing in this state shall be subject to the provisions of all rules and
+24 regulations relating to hunting or fishing.
+25 (b) As used in this section, "disabled veteran" means a person who:
+26 (1) Served in the active military, naval, air or space service, including
+27 those groups and individuals listed under 38 C.F.R. § 3.7, and who was
+28 discharged or released therefrom under an honorable discharge or a
+29 general discharge under honorable conditions;
+30 (2) received a disability that was incurred or aggravated in the line of
+31 duty in the active military, naval, air or space service; and
+32 (3) has a service-connected evaluation percentage equal to or greater
+33 than 30% pursuant to 38 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et seq.
+34 Sec. 6. K.S.A. 2024 Supp. 48-3601 is hereby amended to read as
+35 follows: 48-3601. (a) A current member of the armed forces of the United
+36 States or the member's spouse or dependent child who is enrolled or has
+37 been accepted for admission at a postsecondary educational institution as a
+38 postsecondary student shall be deemed to be a resident of the state for the
+39 purpose of tuition and fees for attendance at such postsecondary
+40 educational institution.
+41 (b) A person is entitled to pay tuition and fees at an institution of
+42 higher education at the rates provided for Kansas residents without regard
+43 to the length of time the person has resided in the state if the person:
+
+HB 2273—Am. by HC 9
+1 (1) (A) Files a letter of intent to establish residence in the state with
+2 the postsecondary educational institution at which the person intends to
+3 register;
+4 (B) lives in the state while attending the postsecondary educational
+5 institution; and
+6 (C) is eligible for benefits under the federal post-9/11 veterans
+7 educational assistance act of 2008, 38 U.S.C. § 3301 et seq., or any other
+8 federal law authorizing educational benefits for veterans;
+9 (2) (A) is a veteran;
+10 (B) was stationed in Kansas for at least 11 months during active
+11 service in the armed forces or had established residency in Kansas prior to
+12 active service in the armed forces; and
+13 (C) lives in Kansas at the time of enrollment; or
+14 (3) (A) is the spouse or dependent of a veteran who was stationed in
+15 Kansas for at least 11 months during such veteran's period of active service
+16 in the armed forces or had established residency in Kansas prior to active
+17 service in the armed forces; and
+18 (B) lives in Kansas at the time of enrollment.
+19 (c) As used in this section:
+20 (1) "Armed forces" means the army, navy, marine corps, air force,
+21 space force, coast guard, Kansas army or air national guard or any
+22 component of the military reserves of the United States;
+23 (2) "postsecondary educational institution" means the same as defined
+24 in K.S.A. 74-3201b, and amendments thereto; and
+25 (3) "veteran" means a person who served in the active military, naval,
+26 air or space service, including those groups and individuals listed under
+27 38 C.F.R. § 3.7, and who was discharged or released therefrom under an
+28 honorable discharge or a general discharge under honorable conditions.
+29 (d) This section shall be a part of and supplemental to chapter 48 of
+30 the Kansas Statutes Annotated, and amendments thereto.
+31 Sec. 7. K.S.A. 2024 Supp. 50-676 is hereby amended to read as
+32 follows: 50-676. As used in K.S.A. 50-676 through 50-679, and
+33 amendments thereto:
+34 (a) "Elder person" means a person who is 60 years of age or older.
+35 (b) "Disabled person" means a person who has physical or mental
+36 impairment, or both, that substantially limits one or more of such person's
+37 major life activities.
+38 (c) "Immediate family member" means parent, child, stepchild or
+39 spouse.
+40 (d) "Major life activities" includes functions such as caring for one's
+41 self, performing manual tasks, walking, seeing, hearing, speaking,
+42 breathing, learning and working.
+43 (e) "Member of the armed forces" means a person performing active
+
+HB 2273—Am. by HC 10
+1 service in the army, navy, marine corps, air force, space force, coast guard
+2 or any component of the military reserves of the United States.
+3 (f) "Physical or mental impairment" means the following:
+4 (1) Any physiological disorder or condition, cosmetic disfigurement
+5 or anatomical loss substantially affecting one or more of the following
+6 body systems:
+7 (A) Neurological;
+8 (B) musculoskeletal;
+9 (C) special sense organs;
+10 (D) respiratory, including speech organs;
+11 (E) cardiovascular;
+12 (F) reproductive;
+13 (G) digestive;
+14 (H) genitourinary;
+15 (I) hemic and lymphatic;
+16 (J) skin; or
+17 (K) endocrine; or
+18 (2) any mental or psychological disorder, such as intellectual
+19 disability, organic brain syndrome, emotional or mental illness and specific
+20 learning disabilities.
+21 The term "physical or mental impairment" includes, but is not limited
+22 to, orthopedic, visual, language and hearing disorders, cerebral palsy,
+23 epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease,
+24 diabetes, intellectual disability and emotional illness.
+25 (g) "Protected consumer" means:
+26 (1) An elder person;
+27 (2) a disabled person;
+28 (3) a veteran;
+29 (4) the surviving spouse of a veteran;
+30 (5) a member of the armed forces; and
+31 (6) an immediate family member of a member of the armed forces.
+32 (h) "Substantially limits" means:
+33 (1) Unable to perform a major life activity that the average person in
+34 the general population can perform; or
+35 (2) significantly restricted as to the condition, manner or duration
+36 under which an individual can perform a particular major life activity as
+37 compared to the condition, manner or duration under which the average
+38 person in the general population can perform that same major life activity.
+39 Minor temporary ailments or injuries shall not be considered physical or
+40 mental impairments that substantially limit a person's major life activities.
+41 Minor temporary ailments include, but are not limited to, colds, influenza
+42 or sprains or minor injuries.
+43 (i) "Veteran" means a person who served in the active military, naval,
+
+HB 2273—Am. by HC 11
+1 air or space service, including those groups and individuals listed under
+2 38 C.F.R. § 3.7, and who was discharged or released therefrom under an
+3 honorable discharge or a general discharge under honorable conditions.
+4 Sec. 8. K.S.A. 2024 Supp. 73-201 is hereby amended to read as
+5 follows: 73-201. (a) As used in this act:
+6 (1) "Veteran" means:
+7 (A) A person who served in the active military, naval, air or space
+8 service, including those groups and individuals listed under 38 C.F.R. §
+9 3.7, and who was discharged or released therefrom under an honorable
+10 discharge or a general discharge under honorable conditions;
+11 (B) any person who has been issued the purple heart by the United
+12 States government or who:
+13 (1)(i) Served in the active military, naval, air or space service,
+14 including those groups and individuals listed under 38 C.F.R. § 3.7, and
+15 who was discharged therefrom under an honorable discharge or a general
+16 discharge under honorable conditions;
+17 (2)(ii) received a disability that was incurred or aggravated in the line
+18 of duty in the active military, naval, air or space service, including those
+19 groups and individuals listed under 38 C.F.R. § 3.7; and
+20 (3)(iii) has a disability certified by the Kansas commission on
+21 veterans affairs office office of veterans services as being service-
+22 connected, pursuant to 38 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et
+23 seq.;
+24 (C) the spouse of a service-connected disabled veteran with a
+25 permanent and total combined service-connected evaluation percentage of
+26 100%;
+27 (D) the surviving spouse of a veteran who died in the line of duty in
+28 the active military, naval, air or space service; and
+29 (E) the spouse of a prisoner of war, as defined by K.S.A. 75-4364,
+30 and amendments thereto.
+31 Veteran preference in government employment shall not apply to any
+32 person who retired from the active military service with the pay grade of
+33 04 or above unless the person retired due to wounds received in combat or
+34 is a disabled veteran with a service-connected disability evaluation rating
+35 equal to or greater than 10%, pursuant to 38 U.S.C. § 1101 et seq. or 10
+36 U.S.C. § 1201 et seq.
+37 (2) "Competent" means a good faith determination that the person is
+38 likely to successfully meet the performance standards of the position based
+39 on what a reasonable person knowledgeable in the operation of the
+40 position would conclude from all information available at the time the
+41 determination is made. The basis for such determination shall include
+42 experience, training, education, licensure, certification or other factors
+43 determined by the decision-making authority as appropriate to determine
+
+HB 2273—Am. by HC 12
+1 the applicant's overall qualification and ability to successfully meet the
+2 performance standards of the position. The decision-making authority shall
+3 document such factors prior to the initiation of the selection process.
+4 (3) "Disabled veteran" means a person who:
+5 (A) Served in the active military, naval, air or space service,
+6 including those groups and individuals listed under 38 C.F.R. § 3.7, and
+7 was discharged or released therefrom under an honorable discharge or a
+8 general discharge under honorable conditions;
+9 (B) received a disability that was incurred or aggravated in the line of
+10 duty in the active military, naval, air or space service, including those
+11 groups and individuals listed under 38 C.F.R. § 3.7; and
+12 (C) has a service-connected evaluation percentage, pursuant to 38
+13 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et seq.
+14 (b) In grateful recognition of the services, sacrifices and sufferings of
+15 veterans who served in the army, navy, air force, coast guard or marine
+16 corps of the United States in world war I and world war II, and of persons
+17 who have served with the armed forces of the United States during the
+18 military, naval and air operations in Korea, Vietnam, Iraq, Afghanistan or
+19 other places under the flags of the United States and the United Nations or
+20 under the flag of the United States alone, and have been honorably
+21 discharged therefrom, the provisions of this section are enacted.
+22 (c) Veterans shall be preferred for initial employment and first
+23 promotion in the state government of Kansas, and in the counties and cities
+24 of this state, if competent to perform such services. Any veteran thus
+25 preferred shall not be disqualified from holding any position in such
+26 service on account of the veteran's age or by reason of any physical or
+27 mental disability as long as such age or disability does not render the
+28 veteran incompetent to perform the duties of the position applied for.
+29 When any veteran shall apply for appointment to any such position, place,
+30 or employment, the officer, board or person whose duty it is or may be to
+31 appoint a person to fill such position, place or employment shall, if the
+32 applicant be a veteran of good reputation, and can competently perform
+33 the duties of the position applied for by the veteran, consider the veteran
+34 for appointment to such position, place, or employment. Within 30 days of
+35 filling a position, eligible veterans who have applied and are not hired
+36 shall be notified by certified mail or personal service that they are not
+37 being hired. Such notice also shall advise the veteran of any administrative
+38 appeal available.
+39 (d) The provisions of this act shall not be applicable to any persons
+40 classed as conscientious objectors. The provisions of this act shall not be
+41 controlling over the provisions of any statute, county resolution or city
+42 ordinance relating to retirement or termination on the basis of age, of
+43 employees of the state or any county or city. Whenever under any statute,
+
+HB 2273—Am. by HC 13
+1 county resolution or city ordinance, retirement or termination on the basis
+2 of age of any employee is required at a certain age or is optional with the
+3 employer at a certain age, such statute, resolution or ordinance shall be
+4 controlling and shall not be limited by this section.
+5 (e) (1) All notices of job openings, if any, and all applications for
+6 employment, if any, by the state and any city or county in this state shall
+7 state that the job is subject to a veteran's preference, how the preference
+8 works and how veterans may take advantage of the preference and post a
+9 written statement of:
+10 (A) The qualifications for such position;
+11 (B) any preferred qualifications of such position;
+12 (C) performance standards for the position; and
+13 (D) the process that will be used for selection.
+14 (2) A veteran, veteran's spouse or surviving spouse who qualifies for
+15 the veteran's preference, desiring to use a veteran's preference shall
+16 provide the hiring authority with a copy of the veteran's DD form 214, DD
+17 form 1300, NGB form 22 or other official discharge document recognized
+18 by the department of veterans affairs under which the spouse qualifies for
+19 the preference.
+20 (f) Every employment center of the state and any city or county
+21 human resources department, if any, shall openly display documents that
+22 indicate that veterans are eligible for a preference in their initial
+23 employment and any first promotion within the employment of the
+24 governmental entity.
+25 (g) Any veteran who alleges that a state agency, city or county has not
+26 provided the veterans preference as required by this act, after exhausting
+27 any available administrative remedy, may bring an action in the district
+28 court.
+29 Sec. 9. K.S.A. 2024 Supp. 73-230 is hereby amended to read as
+30 follows: 73-230. (a) In awarding any contract for the performance of any
+31 job or service for which moneys appropriated are to be expended, the
+32 secretary of administration, or the secretary's designee, shall give a
+33 preference to disabled veteran businesses doing business as Kansas firms,
+34 corporations or individuals, or that maintain Kansas offices or places of
+35 business and shall have the goal of awarding at least 3% of all such
+36 contracts to disabled veteran businesses.
+37 (b) As used in this section:
+38 (1) "Disabled veteran" means a person who:
+39 (A) Served in the active military, naval, air or space service,
+40 including those groups and individuals listed under 38 C.F.R. § 3.7, and
+41 who was discharged or released therefrom under an honorable discharge or
+42 a general discharge under honorable conditions;
+43 (B) received a disability that was incurred or aggravated in the line of
+
+HB 2273—Am. by HC 14
+1 duty in the active military, naval, air or space service;
+2 (C) has a service-connected evaluation percentage equal to or greater
+3 than 30% pursuant to 38 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et seq.
+4 (2) "Disabled veteran business" means a business: (A) Not less than
+5 51% of which is owned by one or more disabled veterans or, in the case of
+6 a publicly owned business, not less than 51% of the stock of which is
+7 owned by one or more disabled veterans; and (B) the management and
+8 daily business operations of which are controlled by one or more disabled
+9 veterans.
+10 Sec. 10. K.S.A. 2024 Supp. 73-1239 is hereby amended to read as
+11 follows: 73-1239. The Vietnam war era medallion, medal and a certificate
+12 shall be awarded regardless of whether or not such veteran served within
+13 the United States or in a foreign country. The medallion, medal and the
+14 certificate shall be awarded regardless of whether or not such veteran was
+15 under 18 years of age at the time of entry into active service. For purposes
+16 of this section, "veteran" means a person who served in the active military,
+17 naval, air or space service, including those groups and individuals listed
+18 under 38 C.F.R. § 3.7, and who was discharged under an honorable
+19 discharge or a general discharge under honorable conditions. The director
+20 of the Kansas office of veterans services shall administer the program and
+21 adopt all rules and regulations necessary to administer the program. The
+22 agency shall determine as expeditiously as possible the persons who are
+23 entitled to a Vietnam war era medallion, medal and a certificate and
+24 distribute the medallions, medals and the certificates. Applications for the
+25 Vietnam war era medallion, medal and the certificate shall be filed with
+26 the director of the Kansas office of veterans services on forms prescribed
+27 and furnished by the director of the Kansas office of veterans services. The
+28 deputy director of veteran services shall approve all applications that are in
+29 order, and shall cause a Vietnam war era medallion, medal and a certificate
+30 to be prepared for each approved veteran in the form approved by the
+31 director of the Kansas office of veterans services. The deputy director of
+32 veteran services shall review applications for the Vietnam war era
+33 medallion, medal and a certificate to ensure recipients are enrolled for
+34 eligible federal benefits.
+35 Sec. 11. K.S.A. 2024 Supp. 73-1244 is hereby amended to read as
+36 follows: 73-1244. (a) As used in this section:
+37 (1) "Service-connected disability" means, regarding disability or
+38 death, that such disability was incurred or aggravated, or that such death
+39 resulted from a disability incurred or aggravated, in the line of duty in the
+40 active military, naval, air or space service; and
+41 (2) "veteran" means a person who served in the active military, naval,
+42 air or space service, including those groups and individuals listed under
+43 38 C.F.R. § 3.7, and was discharged or released therefrom under conditions
+
+HB 2273—Am. by HC 15
+1 other than dishonorable.
+2 (b) No state agency or municipality, as defined in K.S.A. 12-105a,
+3 and amendments thereto, shall request or demand any other document or
+4 improvise an authentication procedure to determine eligibility for any
+5 benefit derived from a service-connected disability suffered by a Kansas
+6 veteran, except the following:
+7 (1) A United States passport as defined in 22 C.F.R. 53.1;
+8 (2) an unexpired real I.D. state driver's license as defined in 6 C.F.R.
+9 37;
+10 (3) a veterans health identity card issued by the United States
+11 department of veterans affairs;
+12 (4) a veterans identification card issued under the authority of 38
+13 U.S.C. § 5706;
+14 (5) a common access card issued by the United States department of
+15 defense; or
+16 (6) any department of defense identity cards listed in 32 C.F.R.
+17 161(b).
+18 Sec. 12. K.S.A. 2024 Supp. 75-3740 is hereby amended to read as
+19 follows: 75-3740. (a) Except as provided by K.S.A. 75-3740b, and
+20 amendments thereto, and subsections (b) and (k), all contracts and
+21 purchases made by or under the supervision of the director of purchases or
+22 any state agency for which competitive bids are required shall be awarded
+23 to the lowest responsible bidder, taking into consideration conformity with
+24 the specifications, terms of delivery, and other conditions imposed in the
+25 call for bids.
+26 (b) A contract shall be awarded to a certified business or disabled
+27 veteran business which is also a responsible bidder, whose total bid cost is
+28 not more than 10% higher than the lowest competitive bid. Such contract
+29 shall contain a promise by the certified business that the percentage of
+30 employees that are individuals with disabilities will be maintained
+31 throughout the contract term and a condition that the certified business
+32 shall not subcontract for goods or services in an aggregate amount of more
+33 than 25% of the total bid cost.
+34 (c) The director of purchases shall have power to decide as to the
+35 lowest responsible bidder for all purchases, but if:
+36 (1) (A) A responsible bidder purchases from a qualified vendor goods
+37 or services on the list certified by the director of purchases pursuant to
+38 K.S.A. 75-3317 et seq., and amendments thereto, the dollar amount of
+39 such purchases made during the previous fiscal year shall be deducted
+40 from the original bid received from such bidder for the purpose of
+41 determining the lowest responsible bid, except that such deduction shall
+42 not exceed 10% of the original bid received from such bidder; or
+43 (B) a responsible bidder purchases from a certified business the dollar
+
+HB 2273—Am. by HC 16
+1 amount of such purchases made during the previous fiscal year shall be
+2 deducted from the original bid received from such bidder for the purpose
+3 of determining the lowest responsible bid, except that such deduction shall
+4 not exceed 10% of the original bid received from such bidder;
+5 (2) the dollar amount of the bid received from the lowest responsible
+6 bidder from within the state is identical to the dollar amount of the bid
+7 received from the lowest responsible bidder from without the state, the
+8 contract shall be awarded to the bidder from within the state; and
+9 (3) in the case of bids for paper products specified in K.S.A. 75-
+10 3740b, and amendments thereto, the dollar amounts of the bids received
+11 from two or more lowest responsible bidders are identical, the contract
+12 shall be awarded to the bidder whose bid is for those paper products
+13 containing the highest percentage of recycled materials.
+14 (d) (1) Any or all bids may be rejected, and a bid shall be rejected if it
+15 contains any material alteration or erasure made after the bid is opened.
+16 The director of purchases may reject the bid of any bidder who is in
+17 arrears on taxes due the state, who is not properly registered to collect and
+18 remit taxes due the state or who has failed to perform satisfactorily on a
+19 previous contract with the state. The secretary of revenue is hereby
+20 authorized to exchange such information with the director of purchases as
+21 is necessary to effectuate the preceding sentence notwithstanding any other
+22 provision of law prohibiting disclosure of the contents of taxpayer records
+23 or information. Prior to determining the lowest responsible bidder on
+24 contracts for construction of buildings or for major repairs or
+25 improvements to buildings for state agencies, the director of purchases
+26 shall consider the:
+27 (A) Criteria and information developed by the secretary of
+28 administration, with the advice of the state building advisory commission
+29 to rate contractors on the basis of their performance under similar contracts
+30 with the state, local governmental entities and private entities, in addition
+31 to other criteria and information available; and
+32 (B) recommendations of the project architect, or, if there is no project
+33 architect, the recommendations of the secretary of administration or the
+34 agency architect for the project as provided in K.S.A. 75-1254, and
+35 amendments thereto.
+36 (2) In any case where competitive bids are required and where all
+37 bids are rejected, new bids shall be called for as in the first instance, unless
+38 otherwise expressly provided by law or the state agency elects not to
+39 proceed with the procurement.
+40 (e) Before the awarding of any contract for construction of a building
+41 or the making of repairs or improvements upon any building for a state
+42 agency, the director of purchases shall receive written approval from the
+43 state agency for which the building construction project has been
+
+HB 2273—Am. by HC 17
+1 approved, that the bids generally conform with the plans and specifications
+2 prepared by the project architect, by the secretary of administration or by
+3 the agency architect for the project, as the case may be, so as to avoid error
+4 and mistake on the part of the contractors. In all cases where material
+5 described in a contract can be obtained from any state institution, the
+6 director of purchases shall exclude the same from the contract.
+7 (f) All bids with the names of the bidders and the amounts thereof,
+8 together with all documents pertaining to the award of a contract, shall be
+9 made a part of a file or record and retained by the director of purchases for
+10 five years, unless reproduced as provided in K.S.A. 75-3737, and
+11 amendments thereto, and shall be open to public inspection at all
+12 reasonable times.
+13 (g) As used in this section:
+14 (1) "Certified business" means any business certified as provided by
+15 subsection (l) by the department of administration that is a sole
+16 proprietorship, partnership, association or corporation domiciled in
+17 Kansas, or any corporation, even if a wholly owned subsidiary of a foreign
+18 corporation, that:
+19 (A) Does business primarily in Kansas or substantially all of its
+20 production in Kansas;
+21 (B) employs at least 10% of its employees who are individuals with
+22 disabilities and reside in Kansas;
+23 (C) offers to contribute at least 75% of the premium cost for
+24 individual health insurance coverage for each employee. The department
+25 of administration shall require a certification of these facts as a condition
+26 to the certified business being awarded a contract pursuant to subsection
+27 (b); and
+28 (D) does not employ individuals under a certificate issued by the
+29 United States secretary of labor under 29 U.S.C. § 214(c);
+30 (2) "individuals with disabilities" or "individual with a disability"
+31 means any individual who:
+32 (A) Is certified by the Kansas department for aging and disability
+33 services or by the Kansas department for children and families which
+34 administers the rehabilitation services program as having a physical or
+35 mental impairment that constitutes a substantial barrier to employment;
+36 (B) works a minimum number of hours per week for a certified
+37 business necessary to qualify for health insurance coverage offered
+38 pursuant to subsection (g)(1); and
+39 (C) (i) is receiving services, has received services or is eligible to
+40 receive services under a home and community based services program, as
+41 defined by K.S.A. 39-7,100, and amendments thereto;
+42 (ii) is employed by a charitable organization domiciled in the state of
+43 Kansas and exempt from federal income taxation pursuant to section
+
+HB 2273—Am. by HC 18
+1 501(c)(3) of the federal internal revenue code of 1986, as amended; or
+2 (iii) is an individual with a disability pursuant to the disability
+3 standards established by the social security administration as determined
+4 by the Kansas disability determination services under the Kansas
+5 department for children and families;
+6 (3) "physical or mental impairment" means:
+7 (A) Any physiological disorder or condition, cosmetic disfigurement
+8 or anatomical loss substantially affecting one or more of the following
+9 body systems:
+10 (i) Neurological;
+11 (ii) musculoskeletal;
+12 (iii) special sense organs;
+13 (iv) respiratory, including speech organs;
+14 (v) cardiovascular;
+15 (vi) reproductive;
+16 (vii) digestive;
+17 (viii) genitourinary;
+18 (ix) hemic and lymphatic;
+19 (x) skin; or
+20 (xi) endocrine; or
+21 (B) any mental or psychological disorder, such as intellectual
+22 disability, organic brain syndrome, mental illness and specific learning
+23 disabilities. "Physical or mental impairment" includes, but is not limited
+24 to, orthopedic, visual, language and hearing disorders, cerebral palsy,
+25 epilepsy, muscular dystrophy, multiple sclerosis and intellectual disability;
+26 (4) "project architect" means the same as defined in K.S.A. 75-1251,
+27 and amendments thereto;
+28 (5) "disabled veteran" means a person who:
+29 (A) Served in the active military, naval, air or space service,
+30 including those groups and individuals listed under 38 C.F.R. § 3.7, and
+31 who was discharged or released therefrom under an honorable discharge or
+32 a general discharge under honorable conditions;
+33 (B) received a disability that was incurred or aggravated in the line of
+34 duty in the active military, naval, air or space service; and
+35 (C) has a service-connected evaluation percentage equal to or greater
+36 than 10% pursuant to 38 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et seq.;
+37 and
+38 (6) "disabled veteran business" means a business certified annually
+39 by the department of administration that is a sole proprietorship,
+40 partnership, association or corporation domiciled in Kansas, or any
+41 corporation, even if a wholly owned subsidiary of a foreign corporation,
+42 and is verified by the Kansas office of veterans services that:
+43 (A) Not less than 51% of such business is owned by one or more
+
+HB 2273—Am. by HC 19
+1 disabled veterans or, in the case of a publicly owned business, not less than
+2 51% of the stock is owned by one or more disabled veterans;
+3 (B) the management and daily business operations of such business
+4 are controlled by one or more disabled veterans; and
+5 (C) such business maintains the requirements of subparagraphs (A)
+6 and (B) during the entire contract term.
+7 (h) Any state agency authorized by the director of purchases to make
+8 purchases pursuant to K.S.A. 75-3739(e), and amendments thereto, shall
+9 consider any unsolicited proposal for goods or services under this section.
+10 (i) The secretary of administration and the secretary for aging and
+11 disability services, jointly, shall adopt rules and regulations as necessary to
+12 effectuate the purpose of this section.
+13 (j) At the beginning of each regular session of the legislature, the
+14 secretary of administration and the secretary for aging and disability
+15 services shall submit to the social services budget committee of the house
+16 of representatives and the appropriate subcommittee of the committee on
+17 ways and means of the senate, a written report on the number of:
+18 (1) Certified businesses certified by the department of administration
+19 during the previous fiscal year;
+20 (2) certified businesses awarded contracts pursuant to subsection (b)
+21 during the previous fiscal year;
+22 (3) contracts awarded pursuant to subsection (b) to each certified
+23 business during the previous fiscal year;
+24 (4) individuals with disabilities removed from, reinstated to or not
+25 reinstated to home and community based services or other medicaid
+26 program services during the previous fiscal year as a result of employment
+27 with a certified business;
+28 (5) individuals employed by each certified business during the
+29 previous fiscal year; and
+30 (6) individuals with disabilities employed by each certified business
+31 during the previous fiscal year.
+32 (k) When a state agency is receiving bids to purchase passenger
+33 motor vehicles, such agency shall follow the procedures prescribed in
+34 subsection (c)(2), except in the case where one of the responsible bidders
+35 offers motor vehicles that are assembled in Kansas. In such a case, 3% of
+36 the bid of the responsible bidder that offers motor vehicles assembled in
+37 Kansas shall be subtracted from the bid amount, and that amount shall be
+38 used to determine the lowest bid pursuant to subsection (c)(2). This
+39 subsection shall only apply to bids that match the exact motor vehicle
+40 specifications of the agency purchasing passenger motor vehicles.
+41 (l) The secretary of administration shall certify that a business meets
+42 the requirements for a certified business as defined in subsection (g), and
+43 shall recertify such business as having met such requirements every three
+
+HB 2273—Am. by HC 20
+1 years thereafter.
+2 Sec. 13. K.S.A. 2024 Supp. 79-4502 is hereby amended to read as
+3 follows: 79-4502. As used in this act, unless the context clearly indicates
+4 otherwise:
+5 (a) "Income" means the sum of adjusted gross income under the
+6 Kansas income tax act effective for tax year 2013 and thereafter without
+7 regard to any modifications pursuant to K.S.A. 79-32,117(b)(xx) through
+8 (xxiii) and (c)(xx), and amendments thereto, maintenance, support money,
+9 cash public assistance and relief, not including any refund granted under
+10 this act, the gross amount of any pension or annuity, including all
+11 monetary retirement benefits from whatever source derived, including but
+12 not limited to, all payments received under the railroad retirement act,
+13 except disability payments, payments received under the federal social
+14 security act, except that for determination of what constitutes income such
+15 amount shall not exceed 50% of any such social security payments and
+16 shall not include any social security payments to a claimant who prior to
+17 attaining full retirement age had been receiving disability payments under
+18 the federal social security act in an amount not to exceed the amount of
+19 such disability payments or 50% of any such social security payments,
+20 whichever is greater, all dividends and interest from whatever source
+21 derived not included in adjusted gross income, workers compensation and
+22 the gross amount of "loss of time" insurance. Income does not include gifts
+23 from nongovernmental sources or surplus food or other relief in kind
+24 supplied by a governmental agency, nor shall net operating losses and net
+25 capital losses be considered in the determination of income. Income does
+26 not include veterans disability compensation. Income does not include
+27 disability payments received under the federal social security act.
+28 (b) "Household" means a claimant, a claimant and spouse who
+29 occupy the homestead or a claimant and one or more individuals not
+30 related as husband and wife who together occupy a homestead.
+31 (c) "Household income" means all income received by all persons of
+32 a household in a calendar year while members of such household.
+33 (d) "Homestead" means the dwelling, or any part thereof, owned and
+34 occupied as a residence by the household and so much of the land
+35 surrounding it, as defined as a home site for ad valorem tax purposes, and
+36 may consist of a part of a multi-dwelling or multi-purpose building and a
+37 part of the land upon which it is built or a manufactured home or mobile
+38 home and the land upon which it is situated. "Owned" includes a vendee in
+39 possession under a land contract, a life tenant, a beneficiary under a trust
+40 and one or more joint tenants or tenants in common.
+41 (e) "Claimant" means a person who has filed a claim under the
+42 provisions of this act and was, during the entire calendar year preceding
+43 the year in which such claim was filed for refund under this act, except as
+
+HB 2273—Am. by HC 21
+1 provided in K.S.A. 79-4503, and amendments thereto, both domiciled in
+2 this state and was:
+3 (1) For purposes of a claim under K.S.A. 79-4508, and amendments
+4 thereto:
+5 (A) A person having a disability;
+6 (B) a person who is 55 years of age or older;
+7 (C) a disabled veteran;
+8 (D) the surviving spouse of a deceased member of the armed forces
+9 who died in the line of duty during a period of active service; or
+10 (E) a person other than a person included under subparagraph (A),
+11 (B), (C) or (D) having one or more dependent children under 18 years of
+12 age residing at the person's homestead during the calendar year
+13 immediately preceding the year in which a claim is filed under this act; or
+14 (2) for purposes of a claim under K.S.A. 2024 Supp. 79-4508a, and
+15 amendments thereto:
+16 (A) A person who is 65 years of age or older; or
+17 (B) a disabled veteran.
+18 The surviving spouse of a disabled veteran who was receiving benefits
+19 pursuant to subsection (e)(1)(C) at the time of the veterans' death, shall be
+20 eligible to continue to receive benefits until such time the surviving spouse
+21 remarries.
+22 When a homestead is occupied by two or more individuals and more
+23 than one of the individuals is able to qualify as a claimant, the individuals
+24 may determine between them as to whom the claimant will be. If they are
+25 unable to agree, the matter shall be referred to the secretary of revenue
+26 whose decision shall be final.
+27 (f) "Property taxes accrued" means property taxes, exclusive of
+28 special assessments, delinquent interest and charges for service, levied on
+29 a claimant's homestead in 1979 or any calendar year thereafter by the state
+30 of Kansas and the political and taxing subdivisions of the state. When a
+31 homestead is owned by two or more persons or entities as joint tenants or
+32 tenants in common and one or more of the persons or entities is not a
+33 member of claimant's household, "property taxes accrued" is that part of
+34 property taxes levied on the homestead that reflects the ownership
+35 percentage of the claimant's household. For purposes of this act, property
+36 taxes are "levied" when the tax roll is delivered to the local treasurer with
+37 the treasurer's warrant for collection. When a claimant and household own
+38 their homestead part of a calendar year, "property taxes accrued" means
+39 only taxes levied on the homestead when both owned and occupied as a
+40 homestead by the claimant's household at the time of the levy, multiplied
+41 by the percentage of 12 months that the property was owned and occupied
+42 by the household as its homestead in the year. When a household owns and
+43 occupies two or more different homesteads in the same calendar year,
+
+HB 2273—Am. by HC 22
+1 property taxes accrued shall be the sum of the taxes allocable to those
+2 several properties while occupied by the household as its homestead
+3 during the year. Whenever a homestead is an integral part of a larger unit
+4 such as a multi-purpose or multi-dwelling building, property taxes accrued
+5 shall be that percentage of the total property taxes accrued as the value of
+6 the homestead is of the total value. For the purpose of this act, the word
+7 "unit" refers to that parcel of property covered by a single tax statement of
+8 which the homestead is a part.
+9 (g) "Disability" means:
+10 (1) Inability to engage in any substantial gainful activity by reason of
+11 any medically determinable physical or mental impairment which can be
+12 expected to result in death or has lasted or can be expected to last for a
+13 continuous period of not less than 12 months, and an individual shall be
+14 determined to be under a disability only if the physical or mental
+15 impairment or impairments are of such severity that the individual is not
+16 only unable to do the individual's previous work but cannot, considering
+17 age, education and work experience, engage in any other kind of
+18 substantial gainful work which exists in the national economy, regardless
+19 of whether such work exists in the immediate area in which the individual
+20 lives or whether a specific job vacancy exists for the individual, or whether
+21 the individual would be hired if application was made for work. For
+22 purposes of the preceding sentence (with respect to any individual), "work
+23 which exists in the national economy" means work which exists in
+24 significant numbers either in the region where the individual lives or in
+25 several regions of the country; for purposes of this subsection, a "physical
+26 or mental impairment" is an impairment that results from anatomical,
+27 physiological or psychological abnormalities which are demonstrable by
+28 medically acceptable clinical and laboratory diagnostic techniques; or
+29 (2) blindness and inability by reason of blindness to engage in
+30 substantial gainful activity requiring skills or abilities comparable to those
+31 of any gainful activity in which the individual has previously engaged with
+32 some regularity and over a substantial period of time.
+33 (h) "Blindness" means central visual acuity of 20/ or less in the
+200
+34 better eye with the use of a correcting lens. An eye which is accompanied
+35 by a limitation in the fields of vision such that the widest diameter of the
+36 visual field subtends an angle no greater than 20 degrees shall be
+37 considered for the purpose of this paragraph as having a central visual
+38 acuity of 20/ or less.
+200
+39 (i) "Disabled veteran" means a person who is a resident of Kansas
+40 and who:
+41 (1) Served in the active military, naval, air or space service, including
+42 those groups and individuals listed under 38 C.F.R. § 3.7, and who was
+43 discharged or released therefrom under an honorable discharge or a
+
+HB 2273—Am. by HC 23
+1 general discharge under honorable conditions;
+2 (2) received a disability that was incurred or aggravated in the line of
+3 duty in the active military, naval, air or space service, including those
+4 groups and individuals listed under 38 C.F.R. § 3.7; and
+5 (3) has a service-connected evaluation percentage equal to or greater
+6 than 50%, pursuant to 38 U.S.C. § 1101 et seq. or 10 U.S.C. § 1201 et seq.
+7 Sec. 14. K.S.A. 2024 Supp. 8-160, 8-1,221, 8-243, 8-1324, 32-934,
+8 48-3601, 50-676, 73-201, 73-230, 73-1239, 73-1244, 75-3740 and 79-
+9 4502 are hereby repealed.
+10 Sec. 15. This act shall take effect and be in force from and after its
+11 publication in the statute book.
+
+[DELETED: Avr r ta5rBS0f1w2(3t4d5g6(7d8(9t0S1f2i3d4c5d6b7l8e9l0l1l2d3a4s5y]
+[DELETED: Ctriobspit0b122s3c4l5r6t7r8l9dd to pt t, cg or dn of t0dt fr ft p. Te sy of re s1i2l3(4o5m6t7a8o9(0dn ie to sh pn a ds le wh is r1d2r3p4b5d6s7t8n9t0(1u2d3e]
+[DELETED: Css(i"bdvs0c1(2i3a4r5u6(7n8(9v0a1a2p3l4(5s6i768p9b0S1f2o3o4s5s1 6u7S8l1 9g01 1m2a3l]
+[DELETED: C(asflr1 i1 ov0s1d2(o e e e d r 3a4(s of rn ur ts sn sl be m5a6a7a8a9i0t1d2(3p4p5o1 6(7t8i9S0f1d2i3(4qt s h 5a6d7K8b9(0s1o2i3i]
+[DELETED: Cdpabe d, et as pd pt to K. 7, aanrl id0i1p2(3w4S5K6a7(8i9(A ty in cd id pt to t0sl 1a2e3(a ty in cd id pt to t4s5d6(o ty in cd id pt to t7s8p9(a ty in cd id pt to t0s1r2t3(4w5l6K7(8h9w0l1(2s3(]
+[DELETED: Ca61Irai(p0p122(3i4p526a7t8(9(0t1(l Ks in cs sl he pl s2f3f4(r te ps of K. 84 th 8, a5a6i7(8(9(0(1(2(e dn sl re tt a pn ag fr a3i4c5i6(7(8(9i0dn "" dd on te ft of te n1i2r3t]
+[DELETED: C2s(iaru(n0(1t2b3c4t5(6e7c8t9r0(1(2t3t4i5a6(7an tt te pn wd to me an al gt i8a9t0p1(2v3a4a5p6t7s8(9s0i162p3b]
+[DELETED: C(of an in cd if te ec oe rl ap pd dn of i, ll pe arscin cd if te dn hs sh is on f. Tde0b1r2e3t4c5t6s7S8f9a0d1a2p3f4r5(6(7t8d9g0(1d2(3t4S5f6S7b8p9pe of tn ad fs fr ae at sh p0e1(2h3t]
+[DELETED: C(tr(i(s s ef(0(1s2a3(4(5K6i7s8(9(0(1s2c3(4i5(6a738h9(0t1S2f: 5. s ud in K. 56 th 5, a3a4(5(6i7m8(9s0(1s, pg ml t, w, s, h, s2b3(]
+[DELETED: C1so((ob(((0(1(2(3(4(5(6(7(8(y ml or pl d, sh as i9d0l1T2t3e4d5(6(7(8(9(0(1(2(3(4t5(6u7c8p9M0m1M2o3(]
+[DELETED: C1a3hSf((s30d1(2S3(4i5w6d7(8o9g0(s a d cd b te K cn o1vs as o oe of vs s as bg s2c3s4(e se of a sd dd vn wh a5p617(8t9(0a1V2p304i5e6U7(8l9o0p1d2e3d]
+[DELETED: C1tpd((d in te ae m, n, ar or se siwg(0d1g2(3U4(5v6c7w8m9o0u1d2(s l d l t d 3p4o5p6s7m8v9W0o1a2a3t4f5f6s7b8a9(0c1c2o3e]
+[DELETED: C1coec(esww0(1(2(3(4(5t6p7f8b9t0(1h2ie tt vs ae ee fr a pe in tr i3e4g5(6p7a8c9S0f1j2ss 3p4c5b6c7(8(9(d in te ae m, n, ar or se s0i1w2a3(]
+[DELETED: C1d(t(5aodv0S1f2s3t4c5u6o7n8u a9d0o1a2a3e4d5V6t7a8d9o0t1d2vn ss sl rw as fr te m wr e3m4e5S6f7(d d" m, rg dy o8d9r0a1(2a33]
+[DELETED: C1o(aibv((30(s 1d2(3U4(5d6(718S9f. t 0as s , l s 1p2a3t4t5c6(7v8n9s0es tt ae is wh ds wl be m1t2s3t4(5l6(7o8K9s0f1d2n3(]
+[DELETED: C1adon(brc(031f2s3c4(5c6T7a8r9p0a1i2p3o4cs fr cn of bs or fr mr rs o5i6s7(a ad in dd by te sy o8a9t0w1t2(3a4a5a6(7b8o9p0(1o2a3se ay fr wh te bg cn pt hs b]
+[DELETED: C1aptadd(tm0fe y, us rd as pd in K. 7, a1as t, ad sl be on t pc i at a2r3(4(5sn () by te dt of an tt is a s6p, p, an or cn dd i7K8c9(0p1(2d3(s t 4i5o6t7(8(9U0(1m2(3s4a5m6(7bs n to  fr  ie ce o8p9(0r1d2(3K]
+[DELETED: C15(sby te Ks dy dn ss ur te Kd((ob0(1(2(3(4(5(6(7(8(9(0(1(y ml or pl d, sh as i2d3d4t5e6(7a8(9(d in te ae m, n, ar or se s0i1w2a3(4d5(6t7a8(9by te dt of an tt is a se p0p c i K, r 1c2a3(]
+[DELETED: C1d5(a(a(pc0(1d2e3(4s5s6o7w8(9d0(1d2(3b4(5r6p7w8(s ed by eh cd bs dg t9p0(1d2(3m4s5o6t7K8u9s0s1(2t3s]
+[DELETED: C2ySfo(Kr(c0t1m2n3e4s5a6s7a8t9s0w1d2t3f4s5c6n7d8(9o0r1(2a3(4o5s6m7p8h9p0a1(2p3t]
+[DELETED: C2pt(t((((w0(1(2ae rg at te ps hd dg te cr y3i4(5a6(7(8T9p0e1r2W3t4m5u6w7( ts 8s9a0o1h2t3m4ps e t s e 5p6t7t8t9o0h1b2b3o]
+[DELETED: C2psdsst"w(0(1a2e3c4d5i6o7a, en ad wk e, ee in a or kd o8s9o0l1t2p3w4s5s6o7p8m9(0s1o2s3(f / o4b5b6v7c8a / 9(0a1(2t3d]
+[DELETED: C2g(dg(tS440S1p]

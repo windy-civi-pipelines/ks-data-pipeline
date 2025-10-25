@@ -1,0 +1,728 @@
+Title: HOUSE BILL No. 2071
+Official Title: HOUSE BILL No. 2071
+Number of Sections: 1
+Source: versions - As Amended by House Committee
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+As Amended by House Committee
+Session of 2025
+By Committee on Health and Human Services
+Requested by Representative Bryce
+1-23
+1 AN ACT concerning children and minors; relating to healthcare of minors;
+2 enacting the help not harm act; prohibiting healthcare providers from
+3 treating a child whose gender identity is inconsistent with the child's
+4 sex; authorizing a civil cause of action against healthcare providers for
+5 providing such treatments; restricting use of state funds to promote
+6 gender transitioning; prohibiting professional liability insurance from
+7 covering damages for healthcare providers that provide gender
+8 transition treatment to children; requiring professional discipline
+9 against a healthcare provider who performs such treatments; adding
+10 violation of the act to the definition of unprofessional conduct for
+11 physicians; amending K.S.A. 65-2837 and repealing the existing
+12 section.
+13
+14 Be it enacted by the Legislature of the State of Kansas:
+15 New Section 1. (a) The provisions of sections 1 through 6, and
+16 amendments thereto, shall be known and may be cited as the help not harm
+17 act.
+18 (b) As used in this act:
+19 (1) "Child" means an individual less than 18 years of age.
+20 (2) "Female" means an individual who is a member of the female sex.
+21 (3) "Gender" means the psychological, behavioral, social and cultural
+22 aspects of being male or female.
+23 (4) "Gender dysphoria" is the diagnosis of gender dysphoria in the
+24 fifth edition of the diagnostic and statistical manual of mental disorders.
+25 (5) "Healthcare provider" means an individual who is licensed,
+26 certified or otherwise authorized by the laws of this state to administer
+27 healthcare services in the ordinary course of the practice of such
+28 individual's profession.
+29 (6) "Male" means an individual who is a member of the male sex.
+30 (7) "Perceived sex" is an individual's internal sense of such
+31 individual's sex.
+32 (8) "Perceived gender" is an individual's internal sense of such
+33 individual's gender.
+34 (9) "Sex" means the biological indication of male and female in the
+35 context of reproductive potential or capacity, including sex chromosomes,
+HB 2071—Am. by HC 2
+1 naturally occurring sex hormones, gonads and nonambiguous internal and
+2 external genitalia present at birth, without regard to an individual's
+3 psychological, chosen or subjective experience of gender.
+4 (10) "Social transitioning" means acts other than medical or surgical
+5 interventions that are undertaken for the purpose of presenting as a
+6 member of the opposite sex, including the changing of an individual's
+7 preferred pronouns or manner of dress.
+8 New Sec. 2. (a) A recipient of state funds shall not use such funds to
+9 provide or subsidize medication or surgery as provided in section 3, and
+10 amendments thereto, as a treatment for a child's perception of gender or
+11 sex that is inconsistent with such child's sex.
+12 (b) An individual or entity that receives state funds to pay for or
+13 subsidize the treatment of children for psychological conditions, including
+14 gender dysphoria, shall not prescribe, dispense or administer medication or
+15 perform surgery as provided in section 3, and amendments thereto, or
+16 provide a referral to another healthcare provider for such medication or
+17 surgery for a child whose perceived gender or perceived sex is inconsistent
+18 with such child's sex.
+19 (c) The Kansas program of medical assistance and its managed care
+20 organizations shall not reimburse or provide coverage for medication or
+21 surgery as provided in section 3, and amendments thereto, as a treatment
+22 for a child whose perceived gender or perceived sex is inconsistent with
+23 such child's sex.
+24 (d) Except to the extent required by the first amendment to the United
+25 States constitution, a state property, facility or building shall not be used to
+26 promote or advocate the use of social transitioning, medication or surgery
+27 as provided in section 3, and amendments thereto, as a treatment for a
+28 child whose perceived gender or perceived sex is inconsistent with such
+29 child's sex.
+30 (e) A state property, facility or building shall not be used to prescribe,
+31 dispense or administer medication or perform surgery as provided in
+32 section 3, and amendments thereto, as a treatment for a child whose
+33 perceived gender or perceived sex is inconsistent with such child's sex.
+34 (f) A state employee whose official duties include the care of children
+35 shall not, while engaged in those official duties, promote the use of social
+36 transitioning or provide or promote medication or surgery as provided in
+37 section 3, and amendments thereto, as a treatment for a child whose
+38 perceived gender or perceived sex is inconsistent with such child's sex.
+39 New Sec. 3. (a) Except as provided in subsection (c) or (d), a
+40 healthcare provider shall not knowingly perform the following surgical
+41 procedures or prescribe, dispense or administer the following medications
+42 to a female child for the purpose of treatment for distress arising from such
+43 female child's perception that such child's gender or sex is not female:
+HB 2071—Am. by HC 3
+1 (1) Surgical procedures, including, but not limited to, a vaginectomy,
+2 hysterectomy, oophorectomy, ovariectomy, reconstruction of the urethra,
+3 metoidioplasty, phalloplasty, scrotoplasty, implantation of erection or
+4 testicular protheses, subcutaneous mastectomy, voice surgery, liposuction,
+5 lipofilling or pectoral implants;
+6 (2) supraphysiologic doses of testosterone or other androgens; or
+7 (3) puberty blockers such as GnRH agonists or other synthetic drugs
+8 that suppress the production of estrogen and progesterone to delay or
+9 suppress pubertal development in female children.
+10 (b) Except as provided in subsection (c) or (d), a healthcare provider
+11 shall not knowingly perform the following surgical procedures or
+12 prescribe, dispense or administer the following medications to a male child
+13 for the purpose of treatment for distress arising from such male child's
+14 perception that such child's gender or sex is not male:
+15 (1) Surgical procedures, including, but not limited to, a penectomy,
+16 orchiectomy, vaginoplasty, clitoroplasty, vulvoplasty, augmentation
+17 mammoplasty, facial feminization surgery, liposuction, lipofilling, voice
+18 surgery, thyroid cartilage reduction or gluteal augmentation;
+19 (2) supraphysiologic doses of estrogen; or
+20 (3) puberty blockers such as GnRH agonists or other synthetic drugs
+21 that suppress the production of testosterone or delay or suppress pubertal
+22 development in male children.
+23 (c) The treatments prohibited by subsections (a) and (b) shall not
+24 apply to treatment provided for other purposes, including:
+25 (1) Treatment for individuals born with a medically verifiable
+26 disorder of sex development, including:
+27 (A) An individual born with external biological sex characteristics
+28 that are irresolvably ambiguous, including an individual born with 46 XX
+29 chromosomes with virilization, 46 XY chromosomes with under
+30 virilization or having both ovarian and testicular tissue; or
+31 (B) an individual whom a physician has otherwise diagnosed with a
+32 disorder of sexual development that the physician has determined through
+33 genetic or biochemical testing that such individual does not have normal
+34 sex chromosome structure, sex steroid hormone production or sex steroid
+35 hormone action for a male or female; and
+36 (2) treatment of any infection, injury, disease or disorder that has
+37 been caused or exacerbated by the performance of a procedure listed in
+38 subsections (a) or (b).
+39 (d) If a healthcare provider has initiated a course of treatment for a
+40 child that includes prescribing, administering or dispensing of a drug
+41 prohibited by subsection (a)(2), (a)(3), (b)(2) or (b)(3) prior to the effective
+42 date of this act, the healthcare provider may continue such course of
+43 treatment if the healthcare provider:
+HB 2071—Am. by HC 4
+1 (1) Develops a plan to systematically reduce the child's use of such
+2 drug;
+3 (2) determines and documents in the child's medical record that
+4 immediately terminating the child's use of such drug would cause harm to
+5 the child; and
+6 (3) such course of treatment shall not extend beyond December 31,
+7 2025.
+8 New Sec. 4. (a) If a healthcare provider violates the provisions of
+9 section 3, and amendments thereto:
+10 (1) The healthcare provider has engaged in unprofessional conduct
+11 and, notwithstanding any provision of law to the contrary, the license of
+12 such healthcare provider shall be revoked by the appropriate licensing
+13 entity or disciplinary review board with competent jurisdiction in this
+14 state.
+15 (b) A healthcare provider who provides treatment to a child in
+16 violation of section 3(a) or (b), and amendments thereto, shall be held
+17 strictly liable to such child if the treatment or effects of such treatment
+18 results in any physical, psychological, emotional or physiological harms to
+19 such child in the next 10 years from the date that the individual turns 18
+20 years of age. A prevailing plaintiff may recover actual and punitive
+21 damages, injunctive relief, the cost of the suit and reasonable attorney
+22 fees.
+23 (c) The parents of a child who has experienced violation of section
+24 3(a) or (b), and amendments thereto, shall have a private cause of action
+25 against a healthcare provider for damages and equitable relief as the court
+26 may determine is justified. A prevailing party may recover the costs of the
+27 suit and reasonable attorney fees actual and punitive damages,
+28 injunctive relief, the cost of the suit and reasonable attorney fees.
+29 (d) (1) An individual who was provided treatment as a child in
+30 violation of section 3(a) or (b), and amendments thereto, shall have a
+31 private cause of action against the healthcare provider who provided such
+32 treatment for actual damages, punitive damages, injunctive relief, the cost
+33 of the suit and reasonable attorney fees.
+34 (2) An action against a healthcare provider pursuant to this subsection
+35 shall be filed within 10 years from the date that the individual turns 18
+36 years of age.
+37 New Sec. 5. A professional liability insurance policy issued to a
+38 healthcare provider shall not include coverage for damages assessed
+39 against the healthcare provider who provides treatment to a child in
+40 violation of section 3(a) or (b), and amendments thereto.
+41 New Sec. 6. If any provision or clause of this act or application
+42 thereof to any person or circumstance is held invalid, such invalidity shall
+43 not affect other provisions or applications of this act that can be given
+HB 2071—Am. by HC 5
+1 effect without the invalid provision or application, and to this end the
+2 provisions of this act are declared to be severable.
+3 Sec. 7. K.S.A. 65-2837 is hereby amended to read as follows: 65-
+4 2837. As used in K.S.A. 65-2836, and amendments thereto, and in this
+5 section:
+6 (a) "Professional incompetency" means:
+7 (1) One or more instances involving failure to adhere to the
+8 applicable standard of care to a degree that constitutes gross negligence, as
+9 determined by the board.
+10 (2) Repeated instances involving failure to adhere to the applicable
+11 standard of care to a degree that constitutes ordinary negligence, as
+12 determined by the board.
+13 (3) A pattern of practice or other behavior that demonstrates a
+14 manifest incapacity or incompetence to practice the healing arts.
+15 (b) "Unprofessional conduct" means:
+16 (1) Solicitation of professional patronage through the use of
+17 fraudulent or false advertisements, or profiting by the acts of those
+18 representing themselves to be agents of the licensee.
+19 (2) Representing to a patient that a manifestly incurable disease,
+20 condition or injury can be permanently cured.
+21 (3) Assisting in the care or treatment of a patient without the consent
+22 of the patient, the attending physician or the patient's legal representatives.
+23 (4) The use of any letters, words or terms as an affix, on stationery, in
+24 advertisements or otherwise indicating that such person is entitled to
+25 practice a branch of the healing arts for which such person is not licensed.
+26 (5) Performing, procuring or aiding and abetting in the performance
+27 or procurement of a criminal abortion.
+28 (6) Willful betrayal of confidential information.
+29 (7) Advertising professional superiority or the performance of
+30 professional services in a superior manner.
+31 (8) Advertising to guarantee any professional service or to perform
+32 any operation painlessly.
+33 (9) Participating in any action as a staff member of a medical care
+34 facility that is designed to exclude or that results in the exclusion of any
+35 person licensed to practice medicine and surgery from the medical staff of
+36 a nonprofit medical care facility licensed in this state because of the
+37 branch of the healing arts practiced by such person or without just cause.
+38 (10) Failure to effectuate the declaration of a qualified patient as
+39 provided in K.S.A. 65-28,107(a), and amendments thereto.
+40 (11) Prescribing, ordering, dispensing, administering, selling,
+41 supplying or giving any amphetamines or sympathomimetic amines,
+42 except as authorized by K.S.A. 65-2837a, and amendments thereto.
+43 (12) Conduct likely to deceive, defraud or harm the public.
+HB 2071—Am. by HC 6
+1 (13) Making a false or misleading statement regarding the licensee's
+2 skill or the efficacy or value of the drug, treatment or remedy prescribed
+3 by the licensee or at the licensee's direction in the treatment of any disease
+4 or other condition of the body or mind.
+5 (14) Aiding or abetting the practice of the healing arts by an
+6 unlicensed, incompetent or impaired person.
+7 (15) Allowing another person or organization to use the licensee's
+8 license to practice the healing arts.
+9 (16) Commission of any act of sexual abuse, misconduct or other
+10 improper sexual contact that exploits the licensee-patient relationship with
+11 a patient or a person responsible for health care healthcare decisions
+12 concerning such patient.
+13 (17) The use of any false, fraudulent or deceptive statement in any
+14 document connected with the practice of the healing arts including the
+15 intentional falsifying or fraudulent altering of a patient or medical care
+16 facility record.
+17 (18) Obtaining any fee by fraud, deceit or misrepresentation.
+18 (19) Directly or indirectly giving or receiving any fee, commission,
+19 rebate or other compensation for professional services not actually and
+20 personally rendered, other than through the legal functioning of lawful
+21 professional partnerships, corporations, limited liability companies or
+22 associations.
+23 (20) Failure to transfer patient records to another licensee when
+24 requested to do so by the subject patient or by such patient's legally
+25 designated representative.
+26 (21) Performing unnecessary tests, examinations or services that have
+27 no legitimate medical purpose.
+28 (22) Charging an excessive fee for services rendered.
+29 (23) Prescribing, dispensing, administering or distributing a
+30 prescription drug or substance, including a controlled substance, in an
+31 improper or inappropriate manner, or for other than a valid medical
+32 purpose, or not in the course of the licensee's professional practice.
+33 (24) Repeated failure to practice healing arts with that level of care,
+34 skill and treatment that is recognized by a reasonably prudent similar
+35 practitioner as being acceptable under similar conditions and
+36 circumstances.
+37 (25) Failure to keep written medical records that accurately describe
+38 the services rendered to the patient, including patient histories, pertinent
+39 findings, examination results and test results.
+40 (26) Delegating professional responsibilities to a person when the
+41 licensee knows or has reason to know that such person is not qualified by
+42 training, experience or licensure to perform them.
+43 (27) Using experimental forms of therapy without proper informed
+HB 2071—Am. by HC 7
+1 patient consent, without conforming to generally accepted criteria or
+2 standard protocols, without keeping detailed legible records or without
+3 having periodic analysis of the study and results reviewed by a committee
+4 or peers.
+5 (28) Prescribing, dispensing, administering or distributing an anabolic
+6 steroid or human growth hormone for other than a valid medical purpose.
+7 Bodybuilding, muscle enhancement or increasing muscle bulk or strength
+8 through the use of an anabolic steroid or human growth hormone by a
+9 person who is in good health is not a valid medical purpose.
+10 (29) Referring a patient to a health care healthcare entity for services
+11 if the licensee has a significant investment interest in the health care
+12 healthcare entity, unless the licensee informs the patient in writing of such
+13 significant investment interest and that the patient may obtain such
+14 services elsewhere.
+15 (30) Failing to properly supervise, direct or delegate acts that
+16 constitute the healing arts to persons who perform professional services
+17 pursuant to such licensee's direction, supervision, order, referral,
+18 delegation or practice protocols.
+19 (31) Violating K.S.A. 65-6703, and amendments thereto.
+20 (32) Violating the help not harm act, sections 1 through 6, and
+21 amendments thereto.
+22 (33) Charging, billing or otherwise soliciting payment from any
+23 patient, patient's representative or insurer for anatomic pathology services,
+24 if such services are not personally rendered by the licensee or under such
+25 licensee's direct supervision. As used in this subsection, "anatomic
+26 pathology services" means the gross or microscopic examination of
+27 histologic processing of human organ tissue or the examination of human
+28 cells from fluids, aspirates, washings, brushings or smears, including blood
+29 banking services, and subcellular or molecular pathology services,
+30 performed by or under the supervision of a person licensed to practice
+31 medicine and surgery or a clinical laboratory. Nothing in this subsection
+32 shall be construed to prohibit billing for anatomic pathology services by:
+33 (A) A hospital;
+34 (B) a clinical laboratory when samples are transferred between
+35 clinical laboratories for the provision of anatomic pathology services; or
+36 (C) a physician providing services to a patient pursuant to a medical
+37 retainer agreement in compliance with K.S.A. 65-4978, and amendments
+38 thereto, when the bill to the patient for such services:
+39 (i) Identifies the laboratory or physician that performed the services;
+40 (ii) discloses in writing to the patient the actual amount charged by
+41 the physician or laboratory that performed the service; and
+42 (iii) is consistent with rules and regulations adopted by the board for
+43 appropriate billing standards applicable to such services when furnished
+HB 2071—Am. by HC 8
+1 under these agreements.
+2 (33)(34) Engaging in conduct that violates patient trust and exploits
+3 the licensee-patient relationship for personal gain.
+4 (34)(35) Obstructing a board investigation including, but not limited
+5 to, engaging in one or more of the following acts:
+6 (A) Falsifying or concealing a material fact;
+7 (B) knowingly making or causing to be made any false or misleading
+8 statement or writing; or
+9 (C) other acts or conduct likely to deceive or defraud the board.
+10 (c) "False advertisement" means any advertisement that is false,
+11 misleading or deceptive in a material respect. In determining whether any
+12 advertisement is misleading, there shall be taken into account not only
+13 representations made or suggested by statement, word, design, device,
+14 sound or any combination thereof, but also the extent to which the
+15 advertisement fails to reveal facts material in the light of such
+16 representations made.
+17 (d) "Advertisement" means all representations disseminated in any
+18 manner or by any means for the purpose of inducing, or that are likely to
+19 induce, directly or indirectly, the purchase of professional services.
+20 (e) "Licensee" for purposes of this section and K.S.A. 65-2836, and
+21 amendments thereto, means all persons issued a license, permit or special
+22 permit pursuant to article 28 of chapter 65 of the Kansas Statutes
+23 Annotated, and amendments thereto.
+24 (f) "License" for purposes of this section and K.S.A. 65-2836, and
+25 amendments thereto, means any license, permit or special permit granted
+26 under article 28 of chapter 65 of the Kansas Statutes Annotated, and
+27 amendments thereto.
+28 (g) "Health careHealthcare entity" means any corporation, firm,
+29 partnership or other business entity that provides services for diagnosis or
+30 treatment of human health conditions and that is owned separately from a
+31 referring licensee's principle practice.
+32 (h) "Significant investment interest" means ownership of at least 10%
+33 of the value of the firm, partnership or other business entity that owns or
+34 leases the health care healthcare entity, or ownership of at least 10% of the
+35 shares of stock of the corporation that owns or leases the health care
+36 healthcare entity.
+37 Sec. 8. K.S.A. 65-2837 is hereby repealed.
+38 Sec. 9. This act shall take effect and be in force from and after its
+39 publication in the statute book Kansas register.
+[DELETED: Aetspgcg ds fr he ps tt pe gtn tt to c; rg pl da0v1p; ag K. 67 ad rg te e2s4B5N6a7a8(9(0(1(2a3(4f5(e p" ms n il wo s l6c7he ss in te o ce of te pe of s8i9(0(d s" is an is il se of s1i2(3i4(5c]
+[DELETED: Cnet p(impNp0a1s2(3s4g5p6p7s8w9(0o1s2f3s4(5S6p7a8c9c0(1d2s3p4(5s6t7s8p9N0h1p2t3f]
+[DELETED: C(hm, , s,  o etl((ts0(1sl nt ky pm te fg sl ps o2p3f4p5(6o, v, c, v, a7m8s9(0(1t2d3(4a5(t fr is bn wh a my v6d7(8t9cs wh v, 46 XY cs wh u0v1(2d3g4s5h6(7b8s9(0c1p2d3t]
+[DELETED: C(d(it(2Ns0(1a2s3e4s5(6v7s8r9s0y1d2f3(435a6m7st ad re ay f al ad pe d8i9(0v1p2t3o4(5s6y7N8h9a0v1N2t3n]
+[DELETED: CepS2s((e or me is ig fe to ae to tad0(1s2d3(4m5(6(n of pl pe th te ue o7f8r9(0c1(2o3(4a5p6(7o8(9(g pl sy or te pe o0p1(2a3(4f5p6a7b8(9p0(, o, d, a, s1s2e3(]
+[DELETED: C(sbo(e s u(l(0i1a h h d2c3(4d5i6f7(8(9r0p1p2a3(4r5d6(7n8(9(, d, ag or dg a0p1i2p3(4s5pr as bg ae ur sr cs a6c7(8t9f0(1l2t3(]
+[DELETED: Cpsho(sBtp0(1i h2h3s4s5(g to py s, dt or de as t6c7pt to sh ls d, s, o, r8d9(0(1a2(3p4i5ls dt s. s ud in ts s, "6ps 7h8c9bg s, ad sr or mr py s0p1m2s3(4(a cl l wn ss ae td b5c6(7r8t9(0(1t2(3a]
+[DELETED: Cu(t(t((s(0(1m2a3r4s5at fs to rl fs ml in te lt of s6r7(8m9i0(1a2p3A4(5a6u7a8( e" s 9p0t1r2(3o4l5s h6h7S8S9p]
+
+
+================================================================================
+
+Raw Text:
+As Amended by House Committee
+Session of 2025
+HOUSE BILL No. 2071
+By Committee on Health and Human Services
+Requested by Representative Bryce
+1-23
+1 AN ACT concerning children and minors; relating to healthcare of minors;
+2 enacting the help not harm act; prohibiting healthcare providers from
+3 treating a child whose gender identity is inconsistent with the child's
+4 sex; authorizing a civil cause of action against healthcare providers for
+5 providing such treatments; restricting use of state funds to promote
+6 gender transitioning; prohibiting professional liability insurance from
+7 covering damages for healthcare providers that provide gender
+8 transition treatment to children; requiring professional discipline
+9 against a healthcare provider who performs such treatments; adding
+10 violation of the act to the definition of unprofessional conduct for
+11 physicians; amending K.S.A. 65-2837 and repealing the existing
+12 section.
+13
+14 Be it enacted by the Legislature of the State of Kansas:
+15 New Section 1. (a) The provisions of sections 1 through 6, and
+16 amendments thereto, shall be known and may be cited as the help not harm
+17 act.
+18 (b) As used in this act:
+19 (1) "Child" means an individual less than 18 years of age.
+20 (2) "Female" means an individual who is a member of the female sex.
+21 (3) "Gender" means the psychological, behavioral, social and cultural
+22 aspects of being male or female.
+23 (4) "Gender dysphoria" is the diagnosis of gender dysphoria in the
+24 fifth edition of the diagnostic and statistical manual of mental disorders.
+25 (5) "Healthcare provider" means an individual who is licensed,
+26 certified or otherwise authorized by the laws of this state to administer
+27 healthcare services in the ordinary course of the practice of such
+28 individual's profession.
+29 (6) "Male" means an individual who is a member of the male sex.
+30 (7) "Perceived sex" is an individual's internal sense of such
+31 individual's sex.
+32 (8) "Perceived gender" is an individual's internal sense of such
+33 individual's gender.
+34 (9) "Sex" means the biological indication of male and female in the
+35 context of reproductive potential or capacity, including sex chromosomes,
+
+HB 2071—Am. by HC 2
+1 naturally occurring sex hormones, gonads and nonambiguous internal and
+2 external genitalia present at birth, without regard to an individual's
+3 psychological, chosen or subjective experience of gender.
+4 (10) "Social transitioning" means acts other than medical or surgical
+5 interventions that are undertaken for the purpose of presenting as a
+6 member of the opposite sex, including the changing of an individual's
+7 preferred pronouns or manner of dress.
+8 New Sec. 2. (a) A recipient of state funds shall not use such funds to
+9 provide or subsidize medication or surgery as provided in section 3, and
+10 amendments thereto, as a treatment for a child's perception of gender or
+11 sex that is inconsistent with such child's sex.
+12 (b) An individual or entity that receives state funds to pay for or
+13 subsidize the treatment of children for psychological conditions, including
+14 gender dysphoria, shall not prescribe, dispense or administer medication or
+15 perform surgery as provided in section 3, and amendments thereto, or
+16 provide a referral to another healthcare provider for such medication or
+17 surgery for a child whose perceived gender or perceived sex is inconsistent
+18 with such child's sex.
+19 (c) The Kansas program of medical assistance and its managed care
+20 organizations shall not reimburse or provide coverage for medication or
+21 surgery as provided in section 3, and amendments thereto, as a treatment
+22 for a child whose perceived gender or perceived sex is inconsistent with
+23 such child's sex.
+24 (d) Except to the extent required by the first amendment to the United
+25 States constitution, a state property, facility or building shall not be used to
+26 promote or advocate the use of social transitioning, medication or surgery
+27 as provided in section 3, and amendments thereto, as a treatment for a
+28 child whose perceived gender or perceived sex is inconsistent with such
+29 child's sex.
+30 (e) A state property, facility or building shall not be used to prescribe,
+31 dispense or administer medication or perform surgery as provided in
+32 section 3, and amendments thereto, as a treatment for a child whose
+33 perceived gender or perceived sex is inconsistent with such child's sex.
+34 (f) A state employee whose official duties include the care of children
+35 shall not, while engaged in those official duties, promote the use of social
+36 transitioning or provide or promote medication or surgery as provided in
+37 section 3, and amendments thereto, as a treatment for a child whose
+38 perceived gender or perceived sex is inconsistent with such child's sex.
+39 New Sec. 3. (a) Except as provided in subsection (c) or (d), a
+40 healthcare provider shall not knowingly perform the following surgical
+41 procedures or prescribe, dispense or administer the following medications
+42 to a female child for the purpose of treatment for distress arising from such
+43 female child's perception that such child's gender or sex is not female:
+
+HB 2071—Am. by HC 3
+1 (1) Surgical procedures, including, but not limited to, a vaginectomy,
+2 hysterectomy, oophorectomy, ovariectomy, reconstruction of the urethra,
+3 metoidioplasty, phalloplasty, scrotoplasty, implantation of erection or
+4 testicular protheses, subcutaneous mastectomy, voice surgery, liposuction,
+5 lipofilling or pectoral implants;
+6 (2) supraphysiologic doses of testosterone or other androgens; or
+7 (3) puberty blockers such as GnRH agonists or other synthetic drugs
+8 that suppress the production of estrogen and progesterone to delay or
+9 suppress pubertal development in female children.
+10 (b) Except as provided in subsection (c) or (d), a healthcare provider
+11 shall not knowingly perform the following surgical procedures or
+12 prescribe, dispense or administer the following medications to a male child
+13 for the purpose of treatment for distress arising from such male child's
+14 perception that such child's gender or sex is not male:
+15 (1) Surgical procedures, including, but not limited to, a penectomy,
+16 orchiectomy, vaginoplasty, clitoroplasty, vulvoplasty, augmentation
+17 mammoplasty, facial feminization surgery, liposuction, lipofilling, voice
+18 surgery, thyroid cartilage reduction or gluteal augmentation;
+19 (2) supraphysiologic doses of estrogen; or
+20 (3) puberty blockers such as GnRH agonists or other synthetic drugs
+21 that suppress the production of testosterone or delay or suppress pubertal
+22 development in male children.
+23 (c) The treatments prohibited by subsections (a) and (b) shall not
+24 apply to treatment provided for other purposes, including:
+25 (1) Treatment for individuals born with a medically verifiable
+26 disorder of sex development, including:
+27 (A) An individual born with external biological sex characteristics
+28 that are irresolvably ambiguous, including an individual born with 46 XX
+29 chromosomes with virilization, 46 XY chromosomes with under
+30 virilization or having both ovarian and testicular tissue; or
+31 (B) an individual whom a physician has otherwise diagnosed with a
+32 disorder of sexual development that the physician has determined through
+33 genetic or biochemical testing that such individual does not have normal
+34 sex chromosome structure, sex steroid hormone production or sex steroid
+35 hormone action for a male or female; and
+36 (2) treatment of any infection, injury, disease or disorder that has
+37 been caused or exacerbated by the performance of a procedure listed in
+38 subsections (a) or (b).
+39 (d) If a healthcare provider has initiated a course of treatment for a
+40 child that includes prescribing, administering or dispensing of a drug
+41 prohibited by subsection (a)(2), (a)(3), (b)(2) or (b)(3) prior to the effective
+42 date of this act, the healthcare provider may continue such course of
+43 treatment if the healthcare provider:
+
+HB 2071—Am. by HC 4
+1 (1) Develops a plan to systematically reduce the child's use of such
+2 drug;
+3 (2) determines and documents in the child's medical record that
+4 immediately terminating the child's use of such drug would cause harm to
+5 the child; and
+6 (3) such course of treatment shall not extend beyond December 31,
+7 2025.
+8 New Sec. 4. (a) If a healthcare provider violates the provisions of
+9 section 3, and amendments thereto:
+10 (1) The healthcare provider has engaged in unprofessional conduct
+11 and, notwithstanding any provision of law to the contrary, the license of
+12 such healthcare provider shall be revoked by the appropriate licensing
+13 entity or disciplinary review board with competent jurisdiction in this
+14 state.
+15 (b) A healthcare provider who provides treatment to a child in
+16 violation of section 3(a) or (b), and amendments thereto, shall be held
+17 strictly liable to such child if the treatment or effects of such treatment
+18 results in any physical, psychological, emotional or physiological harms to
+19 such child in the next 10 years from the date that the individual turns 18
+20 years of age. A prevailing plaintiff may recover actual and punitive
+21 damages, injunctive relief, the cost of the suit and reasonable attorney
+22 fees.
+23 (c) The parents of a child who has experienced violation of section
+24 3(a) or (b), and amendments thereto, shall have a private cause of action
+25 against a healthcare provider for damages and equitable relief as the court
+26 may determine is justified. A prevailing party may recover the costs of the
+27 suit and reasonable attorney fees actual and punitive damages,
+28 injunctive relief, the cost of the suit and reasonable attorney fees.
+29 (d) (1) An individual who was provided treatment as a child in
+30 violation of section 3(a) or (b), and amendments thereto, shall have a
+31 private cause of action against the healthcare provider who provided such
+32 treatment for actual damages, punitive damages, injunctive relief, the cost
+33 of the suit and reasonable attorney fees.
+34 (2) An action against a healthcare provider pursuant to this subsection
+35 shall be filed within 10 years from the date that the individual turns 18
+36 years of age.
+37 New Sec. 5. A professional liability insurance policy issued to a
+38 healthcare provider shall not include coverage for damages assessed
+39 against the healthcare provider who provides treatment to a child in
+40 violation of section 3(a) or (b), and amendments thereto.
+41 New Sec. 6. If any provision or clause of this act or application
+42 thereof to any person or circumstance is held invalid, such invalidity shall
+43 not affect other provisions or applications of this act that can be given
+
+HB 2071—Am. by HC 5
+1 effect without the invalid provision or application, and to this end the
+2 provisions of this act are declared to be severable.
+3 Sec. 7. K.S.A. 65-2837 is hereby amended to read as follows: 65-
+4 2837. As used in K.S.A. 65-2836, and amendments thereto, and in this
+5 section:
+6 (a) "Professional incompetency" means:
+7 (1) One or more instances involving failure to adhere to the
+8 applicable standard of care to a degree that constitutes gross negligence, as
+9 determined by the board.
+10 (2) Repeated instances involving failure to adhere to the applicable
+11 standard of care to a degree that constitutes ordinary negligence, as
+12 determined by the board.
+13 (3) A pattern of practice or other behavior that demonstrates a
+14 manifest incapacity or incompetence to practice the healing arts.
+15 (b) "Unprofessional conduct" means:
+16 (1) Solicitation of professional patronage through the use of
+17 fraudulent or false advertisements, or profiting by the acts of those
+18 representing themselves to be agents of the licensee.
+19 (2) Representing to a patient that a manifestly incurable disease,
+20 condition or injury can be permanently cured.
+21 (3) Assisting in the care or treatment of a patient without the consent
+22 of the patient, the attending physician or the patient's legal representatives.
+23 (4) The use of any letters, words or terms as an affix, on stationery, in
+24 advertisements or otherwise indicating that such person is entitled to
+25 practice a branch of the healing arts for which such person is not licensed.
+26 (5) Performing, procuring or aiding and abetting in the performance
+27 or procurement of a criminal abortion.
+28 (6) Willful betrayal of confidential information.
+29 (7) Advertising professional superiority or the performance of
+30 professional services in a superior manner.
+31 (8) Advertising to guarantee any professional service or to perform
+32 any operation painlessly.
+33 (9) Participating in any action as a staff member of a medical care
+34 facility that is designed to exclude or that results in the exclusion of any
+35 person licensed to practice medicine and surgery from the medical staff of
+36 a nonprofit medical care facility licensed in this state because of the
+37 branch of the healing arts practiced by such person or without just cause.
+38 (10) Failure to effectuate the declaration of a qualified patient as
+39 provided in K.S.A. 65-28,107(a), and amendments thereto.
+40 (11) Prescribing, ordering, dispensing, administering, selling,
+41 supplying or giving any amphetamines or sympathomimetic amines,
+42 except as authorized by K.S.A. 65-2837a, and amendments thereto.
+43 (12) Conduct likely to deceive, defraud or harm the public.
+
+HB 2071—Am. by HC 6
+1 (13) Making a false or misleading statement regarding the licensee's
+2 skill or the efficacy or value of the drug, treatment or remedy prescribed
+3 by the licensee or at the licensee's direction in the treatment of any disease
+4 or other condition of the body or mind.
+5 (14) Aiding or abetting the practice of the healing arts by an
+6 unlicensed, incompetent or impaired person.
+7 (15) Allowing another person or organization to use the licensee's
+8 license to practice the healing arts.
+9 (16) Commission of any act of sexual abuse, misconduct or other
+10 improper sexual contact that exploits the licensee-patient relationship with
+11 a patient or a person responsible for health care healthcare decisions
+12 concerning such patient.
+13 (17) The use of any false, fraudulent or deceptive statement in any
+14 document connected with the practice of the healing arts including the
+15 intentional falsifying or fraudulent altering of a patient or medical care
+16 facility record.
+17 (18) Obtaining any fee by fraud, deceit or misrepresentation.
+18 (19) Directly or indirectly giving or receiving any fee, commission,
+19 rebate or other compensation for professional services not actually and
+20 personally rendered, other than through the legal functioning of lawful
+21 professional partnerships, corporations, limited liability companies or
+22 associations.
+23 (20) Failure to transfer patient records to another licensee when
+24 requested to do so by the subject patient or by such patient's legally
+25 designated representative.
+26 (21) Performing unnecessary tests, examinations or services that have
+27 no legitimate medical purpose.
+28 (22) Charging an excessive fee for services rendered.
+29 (23) Prescribing, dispensing, administering or distributing a
+30 prescription drug or substance, including a controlled substance, in an
+31 improper or inappropriate manner, or for other than a valid medical
+32 purpose, or not in the course of the licensee's professional practice.
+33 (24) Repeated failure to practice healing arts with that level of care,
+34 skill and treatment that is recognized by a reasonably prudent similar
+35 practitioner as being acceptable under similar conditions and
+36 circumstances.
+37 (25) Failure to keep written medical records that accurately describe
+38 the services rendered to the patient, including patient histories, pertinent
+39 findings, examination results and test results.
+40 (26) Delegating professional responsibilities to a person when the
+41 licensee knows or has reason to know that such person is not qualified by
+42 training, experience or licensure to perform them.
+43 (27) Using experimental forms of therapy without proper informed
+
+HB 2071—Am. by HC 7
+1 patient consent, without conforming to generally accepted criteria or
+2 standard protocols, without keeping detailed legible records or without
+3 having periodic analysis of the study and results reviewed by a committee
+4 or peers.
+5 (28) Prescribing, dispensing, administering or distributing an anabolic
+6 steroid or human growth hormone for other than a valid medical purpose.
+7 Bodybuilding, muscle enhancement or increasing muscle bulk or strength
+8 through the use of an anabolic steroid or human growth hormone by a
+9 person who is in good health is not a valid medical purpose.
+10 (29) Referring a patient to a health care healthcare entity for services
+11 if the licensee has a significant investment interest in the health care
+12 healthcare entity, unless the licensee informs the patient in writing of such
+13 significant investment interest and that the patient may obtain such
+14 services elsewhere.
+15 (30) Failing to properly supervise, direct or delegate acts that
+16 constitute the healing arts to persons who perform professional services
+17 pursuant to such licensee's direction, supervision, order, referral,
+18 delegation or practice protocols.
+19 (31) Violating K.S.A. 65-6703, and amendments thereto.
+20 (32) Violating the help not harm act, sections 1 through 6, and
+21 amendments thereto.
+22 (33) Charging, billing or otherwise soliciting payment from any
+23 patient, patient's representative or insurer for anatomic pathology services,
+24 if such services are not personally rendered by the licensee or under such
+25 licensee's direct supervision. As used in this subsection, "anatomic
+26 pathology services" means the gross or microscopic examination of
+27 histologic processing of human organ tissue or the examination of human
+28 cells from fluids, aspirates, washings, brushings or smears, including blood
+29 banking services, and subcellular or molecular pathology services,
+30 performed by or under the supervision of a person licensed to practice
+31 medicine and surgery or a clinical laboratory. Nothing in this subsection
+32 shall be construed to prohibit billing for anatomic pathology services by:
+33 (A) A hospital;
+34 (B) a clinical laboratory when samples are transferred between
+35 clinical laboratories for the provision of anatomic pathology services; or
+36 (C) a physician providing services to a patient pursuant to a medical
+37 retainer agreement in compliance with K.S.A. 65-4978, and amendments
+38 thereto, when the bill to the patient for such services:
+39 (i) Identifies the laboratory or physician that performed the services;
+40 (ii) discloses in writing to the patient the actual amount charged by
+41 the physician or laboratory that performed the service; and
+42 (iii) is consistent with rules and regulations adopted by the board for
+43 appropriate billing standards applicable to such services when furnished
+
+HB 2071—Am. by HC 8
+1 under these agreements.
+2 (33)(34) Engaging in conduct that violates patient trust and exploits
+3 the licensee-patient relationship for personal gain.
+4 (34)(35) Obstructing a board investigation including, but not limited
+5 to, engaging in one or more of the following acts:
+6 (A) Falsifying or concealing a material fact;
+7 (B) knowingly making or causing to be made any false or misleading
+8 statement or writing; or
+9 (C) other acts or conduct likely to deceive or defraud the board.
+10 (c) "False advertisement" means any advertisement that is false,
+11 misleading or deceptive in a material respect. In determining whether any
+12 advertisement is misleading, there shall be taken into account not only
+13 representations made or suggested by statement, word, design, device,
+14 sound or any combination thereof, but also the extent to which the
+15 advertisement fails to reveal facts material in the light of such
+16 representations made.
+17 (d) "Advertisement" means all representations disseminated in any
+18 manner or by any means for the purpose of inducing, or that are likely to
+19 induce, directly or indirectly, the purchase of professional services.
+20 (e) "Licensee" for purposes of this section and K.S.A. 65-2836, and
+21 amendments thereto, means all persons issued a license, permit or special
+22 permit pursuant to article 28 of chapter 65 of the Kansas Statutes
+23 Annotated, and amendments thereto.
+24 (f) "License" for purposes of this section and K.S.A. 65-2836, and
+25 amendments thereto, means any license, permit or special permit granted
+26 under article 28 of chapter 65 of the Kansas Statutes Annotated, and
+27 amendments thereto.
+28 (g) "Health careHealthcare entity" means any corporation, firm,
+29 partnership or other business entity that provides services for diagnosis or
+30 treatment of human health conditions and that is owned separately from a
+31 referring licensee's principle practice.
+32 (h) "Significant investment interest" means ownership of at least 10%
+33 of the value of the firm, partnership or other business entity that owns or
+34 leases the health care healthcare entity, or ownership of at least 10% of the
+35 shares of stock of the corporation that owns or leases the health care
+36 healthcare entity.
+37 Sec. 8. K.S.A. 65-2837 is hereby repealed.
+38 Sec. 9. This act shall take effect and be in force from and after its
+39 publication in the statute book Kansas register.
+
+[DELETED: Aetspgcg ds fr he ps tt pe gtn tt to c; rg pl da0v1p; ag K. 67 ad rg te e2s4B5N6a7a8(9(0(1(2a3(4f5(e p" ms n il wo s l6c7he ss in te o ce of te pe of s8i9(0(d s" is an is il se of s1i2(3i4(5c]
+[DELETED: Cnet p(impNp0a1s2(3s4g5p6p7s8w9(0o1s2f3s4(5S6p7a8c9c0(1d2s3p4(5s6t7s8p9N0h1p2t3f]
+[DELETED: C(hm, , s,  o etl((ts0(1sl nt ky pm te fg sl ps o2p3f4p5(6o, v, c, v, a7m8s9(0(1t2d3(4a5(t fr is bn wh a my v6d7(8t9cs wh v, 46 XY cs wh u0v1(2d3g4s5h6(7b8s9(0c1p2d3t]
+[DELETED: C(d(it(2Ns0(1a2s3e4s5(6v7s8r9s0y1d2f3(435a6m7st ad re ay f al ad pe d8i9(0v1p2t3o4(5s6y7N8h9a0v1N2t3n]
+[DELETED: CepS2s((e or me is ig fe to ae to tad0(1s2d3(4m5(6(n of pl pe th te ue o7f8r9(0c1(2o3(4a5p6(7o8(9(g pl sy or te pe o0p1(2a3(4f5p6a7b8(9p0(, o, d, a, s1s2e3(]
+[DELETED: C(sbo(e s u(l(0i1a h h d2c3(4d5i6f7(8(9r0p1p2a3(4r5d6(7n8(9(, d, ag or dg a0p1i2p3(4s5pr as bg ae ur sr cs a6c7(8t9f0(1l2t3(]
+[DELETED: Cpsho(sBtp0(1i h2h3s4s5(g to py s, dt or de as t6c7pt to sh ls d, s, o, r8d9(0(1a2(3p4i5ls dt s. s ud in ts s, "6ps 7h8c9bg s, ad sr or mr py s0p1m2s3(4(a cl l wn ss ae td b5c6(7r8t9(0(1t2(3a]
+[DELETED: Cu(t(t((s(0(1m2a3r4s5at fs to rl fs ml in te lt of s6r7(8m9i0(1a2p3A4(5a6u7a8( e" s 9p0t1r2(3o4l5s h6h7S8S9p]

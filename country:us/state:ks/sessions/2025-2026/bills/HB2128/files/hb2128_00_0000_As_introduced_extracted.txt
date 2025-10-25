@@ -1,0 +1,1942 @@
+Title: HOUSE BILL No. 2128
+Official Title: HOUSE BILL No. 2128
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Insurance
+Requested by Eric Turek on behalf of Kansas Insurance Department
+1-28
+1 AN ACT concerning insurance; relating to the regulation thereof;
+2 authorizing the commissioner of insurance to select and announce the
+3 version of certain instructions, calculations and documents in effect for
+4 the upcoming calendar year and cause such announcement to be
+5 published in the Kansas register; allowing certain life insurers to follow
+6 health financial reports; adopting certain provisions from the national
+7 association of insurance commissioners holding company system
+8 regulatory act relating to group capital calculations and liquidity stress
+9 testing; amending K.S.A. 40-2d01, 40-3302, 40-3305, 40-3306, 40-
+10 3307 and 40-3308 and K.S.A. 2024 Supp. 40-2c01 and repealing the
+11 existing sections; also repealing K.S.A. 40-249 and 40-2c29.
+12
+13 Be it enacted by the Legislature of the State of Kansas:
+14 New Section 1. (a) The commissioner is hereby authorized to select
+15 and announce the version of insurance calculations, instructions
+16 promulgated by the NAIC or other documents required by the NAIC that
+17 shall be in effect for the next calendar year. Not later than December 1 of
+18 each year, the commissioner shall cause such announcement to be
+19 published in the Kansas register.
+20 (b) Calculations and instructions include, but are not limited to, risk-
+21 based capital instructions, as used in K.S.A. 40-2c01, and amendments
+22 thereto, risk-based capital managed care instructions, as used in K.S.A.
+23 40-2d01, and amendments thereto, and group capital calculation
+24 instructions, as used in K.S.A. 40-3302, and amendments thereto.
+25 Sec. 2. K.S.A. 2024 Supp. 40-2c01 is hereby amended to read as
+26 follows: 40-2c01. As used in this act:
+27 (a) "Adjusted RBC report" means an RBC report that has been
+28 adjusted by the commissioner in accordance with K.S.A. 40-2c04, and
+29 amendments thereto.
+30 (b) "Corrective order" means an order issued by the commissioner
+31 specifying corrective actions that the commissioner has determined are
+32 required to address an RBC level event.
+33 (c) "Domestic insurer" means any insurance company or risk
+34 retention group that is licensed and organized in this state.
+35 (d) "Foreign insurer" means any insurance company or risk retention
+HB 2128 2
+1 group not domiciled in this state that is licensed or registered to do
+2 business in this state pursuant to article 41 of chapter 40 of the Kansas
+3 Statutes Annotated, and amendments thereto, or K.S.A. 40-209, and
+4 amendments thereto.
+5 (e) "NAIC" means the national association of insurance
+6 commissioners.
+7 (f) "Life and health insurer" means any insurance company licensed
+8 under article 4 or 5 of chapter 40 of the Kansas Statutes Annotated, and
+9 amendments thereto, or a licensed property and casualty insurer writing
+10 only accident and health insurance.
+11 (g) "Property and casualty insurer" means any insurance company
+12 licensed under articles 9, 10, 11, 12, 12a, 15 or 16 of chapter 40 of the
+13 Kansas Statutes Annotated, and amendments thereto, but does not include
+14 monoline mortgage guaranty insurers, financial guaranty insurers and title
+15 insurers.
+16 (h) "Negative trend" means, with respect to a life and health insurer, a
+17 negative trend over a period of time, as determined in accordance with the
+18 "trend test calculation" included in the RBC instructions defined in
+19 subsection (j).
+20 (i) "RBC" means risk-based capital.
+21 (j) "RBC instructions" means the risk-based capital instructions
+22 promulgated by the NAIC that are in effect on December 31, 2023, or any
+23 later version promulgated by the NAIC as may be adopted by the as
+24 announced and noticed by the commissioner under K.S.A. 40-2c29
+25 pursuant to section 1, and amendments thereto.
+26 (k) "RBC level" means an insurer's company action level RBC,
+27 regulatory action level RBC, authorized control level RBC or mandatory
+28 control level RBC where:
+29 (1) "Company action level RBC" means, with respect to any insurer,
+30 the product of 2.0 and its authorized control level RBC;
+31 (2) "regulatory action level RBC" means the product of 1.5 and its
+32 authorized control level RBC;
+33 (3) "authorized control level RBC" means the number determined
+34 under the risk-based capital formula in accordance with the RBC
+35 instructions; and
+36 (4) "mandatory control level RBC" means the product of 0.70 and the
+37 authorized control level RBC.
+38 (l) "RBC plan" means a comprehensive financial plan containing the
+39 elements specified in K.S.A. 40-2c06, and amendments thereto. If the
+40 commissioner rejects the RBC plan, and it is revised by the insurer, with or
+41 without the commissioner's recommendation, the plan shall be called the
+42 "revised RBC plan."
+43 (m) "RBC report" means the report required by K.S.A. 40-2c02, and
+HB 2128 3
+1 amendments thereto.
+2 (n) "Total adjusted capital" means the sum of:
+3 (1) An insurer's capital and surplus or surplus only if a mutual
+4 insurer; and
+5 (2) such other items, if any, as the RBC instructions may provide.
+6 (o) "Commissioner" means the commissioner of insurance.
+7 Sec. 3. K.S.A. 40-2d01 is hereby amended to read as follows: 40-
+8 2d01. As used in K.S.A. 40-2d01 through 40-2d30, and amendments
+9 thereto:
+10 (a) "Adjusted RBC report" means an RBC report which that has been
+11 adjusted by the commissioner in accordance with K.S.A. 40-2d04, and
+12 amendments thereto.
+13 (b) "Corrective order" means an order issued by the commissioner
+14 specifying corrective actions which that the commissioner has determined
+15 are required.
+16 (c) "Domestic health organization" means any health organization
+17 which that is licensed and organized in this state.
+18 (d) "Foreign health organization" means any health organization not
+19 domiciled in this state which that is licensed to do business in this state
+20 pursuant to articles 19a, 19c or 32 of chapter 40 of the Kansas Statutes
+21 Annotated, and amendments thereto.
+22 (e) "NAIC" means the national association of insurance
+23 commissioners.
+24 (f) "Health organization" means a health maintenance organization,
+25 limited health service organization, dental or vision plan, hospital, medical
+26 and dental indemnity or service corporation or other managed care
+27 organization licensed under articles 19a, 19c or 32 of chapter 40 of the
+28 Kansas Statutes Annotated, and amendments thereto. This definition shall,
+29 or an organization that is licensed as a life and health insurer under
+30 article 4 of chapter 40 of the Kansas Statutes Annotated, and amendments
+31 thereto, and has been determined by the commissioner to report
+32 predominantly health lines of business in accordance with a health
+33 statement test. "Health organization" does not include an organization that
+34 is licensed as either a life and health insurer or a property and casualty
+35 insurer under articles 4, 5, 9, 10, 11, 12, 12a, 15 or 16 of chapter 40 of the
+36 Kansas Statutes Annotated, and amendments thereto, and that is otherwise
+37 subject to either the life or property and casualty RBC requirements in
+38 K.S.A. 40-2c01 et seq., and amendments thereto.
+39 (g) "RBC" means risk-based capital.
+40 (h) "RBC instructions" means the risk-based capital instructions for
+41 managed care organizations promulgated by the NAIC which that are in
+42 effect on December 31, 1999, or any later version as adopted by as
+43 announced and noticed by the commissioner in rules and regulations
+HB 2128 4
+1 pursuant to section 1, and amendments thereto.
+2 (i) "RBC level" means a health organization's company action level
+3 RBC, regulatory action level RBC, authorized control level RBC, or
+4 mandatory control level RBC where:
+5 (1) "Company action level RBC" means, with respect to any health
+6 organization, the product of 2.0 and its authorized control level RBC;
+7 (2) "regulatory action level RBC" means the product of 1.5 and its
+8 authorized control level RBC;
+9 (3) "authorized control level RBC" means the number determined
+10 under the risk-based capital formula in accordance with the RBC
+11 instructions; and
+12 (4) "mandatory control level RBC" means the product of .70 and the
+13 authorized control level RBC.
+14 (j) "RBC plan" means a comprehensive financial plan containing the
+15 elements specified in K.S.A. 40-2d05, and amendments thereto. If the
+16 commissioner rejects the RBC plan, and it is revised by the health
+17 organization, with or without the commissioner's recommendation, the
+18 plan shall be called the "revised RBC plan."
+19 (k) "RBC report" means the report required by K.S.A. 40-2d02, 40-
+20 2d03 and 40-2d04, and amendments thereto.
+21 (l) "Total adjusted capital" means the sum of:
+22 (1) A health organization's capital and surplus as determined in
+23 accordance with the annual financial statements required to be filed under
+24 articles 19a, 19c or 32 of chapter 40 of the Kansas Statutes Annotated, and
+25 amendments thereto; and
+26 (2) such other items, if any, as the RBC instructions may provide.
+27 (m) "Commissioner" means the commissioner of insurance.
+28 Sec. 4. K.S.A. 40-3302 is hereby amended to read as follows: 40-
+29 3302. As used in the insurance holding company act, unless the context
+30 otherwise requires:
+31 (a) "Affiliate" of, or person "affiliated" with, a specific person, means
+32 a person that directly, or indirectly through one or more intermediaries,
+33 controls, is controlled by, or is under common control with, the person
+34 specified.
+35 (b) "Commissioner of insurance" or "commissioner" means the
+36 commissioner of insurance, the commissioner's deputies, or the insurance
+37 department, as appropriate.
+38 (c) "Control" including the terms "controlling," "controlled by" and
+39 "under common control with," means the possession, direct or indirect, of
+40 the power to direct or cause the direction of the management or policies of
+41 a person, whether through the ownership of voting securities, by contract
+42 other than a commercial contract for goods or nonmanagement services, or
+43 otherwise, unless the power is the result of an official position with or
+HB 2128 5
+1 corporate office held by the person. Control shall be presumed to exist if
+2 any person, directly or indirectly, owns, controls, holds with the power to
+3 vote, or holds proxies representing 10% or more of the voting securities of
+4 any other person. This presumption may be rebutted by a showing made in
+5 the manner provided by K.S.A. 40-3305(k), and amendments thereto, that
+6 control does not exist in fact. The commissioner of insurance may
+7 determine, after a hearing in accordance with the provisions of the Kansas
+8 administrative procedure act, that control exists in fact, notwithstanding
+9 the absence of a presumption to that effect.
+10 (d) "Enterprise risk" means any activity, circumstance, event or series
+11 of events involving one or more affiliates of an insurer that, if not
+12 remedied promptly, is likely to have a material adverse effect upon the
+13 financial condition or liquidity of the insurer or its insurance holding
+14 company system as a whole, including, but not limited to, anything that
+15 would cause the insurer's risk-based capital to fall into company action
+16 level RBC, as such term is defined in either K.S.A. 40-2c01 et seq., and
+17 amendments thereto, or K.S.A. 40-2d01 et seq., and amendments thereto,
+18 as appropriate, or would cause the insurer to be in hazardous financial
+19 condition as set forth in K.S.A. 40-222b, 40-222c and 40-222d, and
+20 amendments thereto.
+21 (e) "Financial analysis handbook" means the version of the NAIC
+22 financial analysis handbook adopted by the NAIC and in effect that has
+23 been selected and noticed by the commissioner pursuant to section 1, and
+24 amendments thereto.
+25 (f) "Group capital calculation instructions" means the group capital
+26 calculation instructions selected and announced by the commissioner
+27 pursuant to section 1, and amendments thereto.
+28 (g) "Group-wide supervisor" means the regulatory official authorized
+29 to engage in conducting and coordinating group-wide supervision
+30 activities who is determined or acknowledged by the commissioner under
+31 K.S.A. 40-3318, and amendments thereto, to have sufficient significant
+32 contacts with the internationally active insurance group.
+33 (f)(h) "Insurance holding company system" means two or more
+34 affiliated persons, one or more of which is an insurer.
+35 (g)(i) "Insurer" means any corporation, company, association, society,
+36 fraternal benefit society, health maintenance organization, nonprofit
+37 medical and hospital service corporation, nonprofit dental service
+38 corporation, reciprocal exchange, person or partnership writing contracts
+39 of insurance, indemnity or suretyship in this state upon any type of risk or
+40 loss except lodges, societies, persons or associations transacting business
+41 pursuant to the provisions of K.S.A. 40-202, and amendments thereto.
+42 (h)(j) "Internationally active insurance group" means an insurance
+43 holding company system that:
+HB 2128 6
+1 (1) Includes an insurer registered under K.S.A. 40-3305, and
+2 amendments thereto; and
+3 (2) meets the following criteria:
+4 (A) Has premiums written in at least three countries;
+5 (B) the percentage of gross premiums written outside the United
+6 States is at least 10% of the insurance holding company system's total
+7 gross written premiums; and
+8 (C) based on a three-year rolling average, the total assets of the
+9 insurance holding company system are at least $50,000,000,000 or the
+10 total gross written premiums of the insurance holding company system are
+11 at least $10,000,000,000.
+12 (i)(k) " NAIC" means the national association of insurance
+13 commissioners.
+14 (l) "NAIC liquidity stress test framework" means the separate NAIC
+15 publication that includes the history of the NAIC's development of
+16 regulatory liquidity stress testing, the scope criteria applicable for a
+17 specific data year and the liquidity stress test instructions and reporting
+18 templates for a specific data year and such scope criteria, instructions and
+19 reporting templates as adopted by the NAIC and as amended by the NAIC
+20 from time to time in accordance with the procedures adopted by the NAIC
+21 and as selected and announced by the commissioner pursuant to section 1,
+22 and amendments thereto.
+23 (m) "Person" means an individual, corporation, a partnership, an
+24 association, a joint stock company, a trust, an unincorporated organization,
+25 any similar entity or any combination of the foregoing acting in concert.
+26 (n) "Scope criteria," as detailed in the NAIC liquidity stress test
+27 framework, are the designated exposure bases along with minimum
+28 magnitudes thereof for the specified data year, used to establish a
+29 preliminary list of insurers considered scoped into the NAIC liquidity
+30 stress test framework for such specified data year.
+31 (j)(o) "Securityholder" of a specified person means one who owns
+32 any security of such person, including common stock, preferred stock, debt
+33 obligations, and any other security convertible into or evidencing the right
+34 to acquire any of the foregoing.
+35 (k)(p) "Subsidiary" of a specified person means an affiliate controlled
+36 by such person, directly, or indirectly, through one or more intermediaries.
+37 (l)(q) "Voting security" means any security convertible into or
+38 evidencing a right to acquire a voting security.
+39 Sec. 5. K.S.A. 40-3305 is hereby amended to read as follows: 40-
+40 3305. (a) Every insurer that is authorized to do business in this state and
+41 that is a member of an insurance holding company system shall register
+42 with the commissioner of insurance, except a foreign insurer subject to
+43 registration requirements and standards adopted by statute or regulation in
+HB 2128 7
+1 the jurisdiction of its domicile that are substantially similar to those
+2 contained in this section. Any insurer that is subject to registration under
+3 this section shall register within 15 days after it becomes subject to
+4 registration, and annually thereafter by May 1 of each year unless for the
+5 previous calendar year the commissioner of insurance for good cause
+6 shown extends the time for registration, and then within such extended
+7 time. The commissioner of insurance may require any authorized insurer
+8 that is a member of an insurance holding company system and that is not
+9 subject to registration under this section to furnish a copy of the
+10 registration statement, the summary specified in subsection (c) or other
+11 information filed by such insurance company with the insurance regulatory
+12 authority of domiciliary jurisdiction.
+13 (b) Pursuant to subsection (a), every insurer subject to registration
+14 shall file a registration statement on a form provided by the commissioner
+15 of insurance, that shall contain current information about regarding:
+16 (1) The capital structure, general financial condition, ownership and
+17 management of the insurer and any person controlling the insurer;
+18 (2) the identity and relationship of every member of the insurance
+19 holding company system;
+20 (3) the following agreements in force and transactions currently
+21 outstanding or that occurred during the last calendar year between such
+22 insurer and its affiliates:
+23 (A) Loans, other investments, or purchases, sales or exchanges of
+24 securities of the affiliates by the insurer or of the insurer by its affiliates;
+25 (B) purchases, sales or exchanges of assets;
+26 (C) transactions not in the ordinary course of business;
+27 (D) guarantees or undertakings for the benefit of an affiliate that
+28 result in an actual contingent exposure of the insurer's assets to liability,
+29 other than insurance contracts entered into in the ordinary course of the
+30 insurer's business;
+31 (E) all management agreements, service contracts and cost sharing
+32 arrangements;
+33 (F) reinsurance agreements;
+34 (G) dividends and other distributions to shareholders; and
+35 (H) consolidated tax allocation agreements;
+36 (4) other matters concerning transactions between registered insurers
+37 and any affiliates as may be included from time to time in any registration
+38 forms adopted or approved by the commissioner of insurance;
+39 (5) any pledge of the insurer's stock, including stock of any
+40 subsidiary or controlling affiliate, for a loan made to any member of the
+41 insurance holding company system;
+42 (6) financial statements of or within an insurance holding company
+43 system, including all affiliates, if requested by the commissioner of
+HB 2128 8
+1 insurance. Financial statements may include, but are not be limited to,
+2 annual audited financial statements filed with the U.S. securities and
+3 exchange commission (, SEC), pursuant to the securities act of 1933, as
+4 amended, or the securities exchange act of 1934, as amended. An insurer
+5 required to file financial statements pursuant to this paragraph may satisfy
+6 the request by providing the commissioner of insurance with the most
+7 recently filed parent corporation financial statements that have been filed
+8 with the SEC;
+9 (7) statements that the insurer's board of directors and principal
+10 officers oversee corporate governance and internal controls and that the
+11 insurer's principal officers have approved, implemented and continue to
+12 maintain and monitor corporate governance and internal control
+13 procedures; and
+14 (8) any other information required by the commissioner of insurance
+15 by rules and regulations.
+16 (c) All registration statements shall be accompanied by a summary
+17 outlining all items in the current registration statement representing
+18 changes from the prior registration statement.
+19 (d) No information need be disclosed on the registration statement
+20 filed pursuant to subsection (b) if such information is not material for the
+21 purpose of this section. Unless the commissioner of insurance by rules and
+22 regulations or order provides otherwise, sales, purchases, exchanges, loans
+23 or extensions of credit, investments or guarantees, involving 0.5% or less
+24 of an insurer's admitted assets as of the December 31 immediately next
+25 preceding shall be deemed immaterial for purposes of this section.
+26 (e) Each registered insurer shall keep current the information required
+27 to be disclosed in such insurer's registration statement by reporting all
+28 material changes or additions on amendment forms provided by the
+29 commissioner of insurance within 15 days after the end of the month in
+30 which it learns of each such change or addition, except that each registered
+31 insurer shall report all dividends and other distributions to shareholders
+32 within five business days following its declaration. Any such dividend or
+33 distribution shall not be paid for at least 10 business days from the
+34 commissioner's receipt of the notice of its declaration.
+35 (f) Any person within an insurance holding company system subject
+36 to registration shall provide complete and accurate information to an
+37 insurer, where if such information is reasonably necessary to enable the
+38 insurer to comply with the provisions of this act.
+39 (g) The commissioner of insurance shall terminate the registration of
+40 any insurer that demonstrates that such insurer is no longer is a member of
+41 an insurance holding company system.
+42 (h) The commissioner of insurance may require or allow two or more
+43 affiliated insurers subject to registration hereunder to file a consolidated
+HB 2128 9
+1 registration statement.
+2 (i) The commissioner of insurance may allow an insurer that is
+3 authorized to do business in this state and that is part of an insurance
+4 holding company system to register on behalf of any affiliated insurer that
+5 is required to register under subsection (a) and to file all information and
+6 material required to be filed under this section.
+7 (j) The provisions of this section shall not apply to any information or
+8 transaction if and to the extent the commissioner of insurance by rule and
+9 regulation or order exempts the same from the provisions of this section.
+10 (k) Any person may file with the commissioner of insurance a
+11 disclaimer of affiliation with any authorized insurer or such a disclaimer
+12 may be filed by such insurer or any member of an insurance holding
+13 company system. The disclaimer shall fully disclose all material
+14 relationships and bases for affiliation between such person and such
+15 insurer as well as the basis for disclaiming such affiliation. After a
+16 disclaimer has been filed, the insurer shall be relieved of any duty to
+17 register or report under this section which that may arise out of the
+18 insurer's relationship with such person unless and until the commissioner
+19 of insurance disallows such a disclaimer. The commissioner of insurance
+20 shall disallow such a disclaimer only after furnishing all parties in interest
+21 with notice and opportunity to be heard in accordance with the provisions
+22 of the Kansas administrative procedure act.
+23 (l) (1) Except as provided in paragraph (2), the ultimate controlling
+24 person of every insurer subject to registration also shall file an annual
+25 enterprise risk report. The report, to the best of the ultimate controlling
+26 person's knowledge and belief, shall identify the material risks within the
+27 insurance holding company system that could pose enterprise risk to the
+28 insurer. The report shall be appropriate to the nature, scale and complexity
+29 of the insurer. The report shall be filed with the lead state commissioner of
+30 insurance of the insurance holding company system as determined by the
+31 procedures within the financial analysis handbook adopted by the national
+32 association of insurance commissioners NAIC. The first enterprise risk
+33 report shall be filed no not later than May 1, 2015, and annually thereafter
+34 by May 1 of each year unless the commissioner of insurance extends the
+35 time for filing for good cause shown.
+36 (2) The ultimate controlling person of a domestic insurer that is
+37 authorized, admitted or eligible to engage in the business of insurance only
+38 in this state with total direct and assumed annual premiums of less than
+39 $300 million is not required to submit an enterprise risk report under
+40 paragraph (1) unless the ultimate controlling person of the domestic
+41 insurer also controls other insurers that do not meet the requirements of
+42 this subsection. For the purposes of this subsection, an insurer is not
+43 considered to be authorized, admitted or eligible to engage in the business
+HB 2128 10
+1 of insurance only in this state if the insurer directly or indirectly writes or
+2 assumes insurance in any other manner in another state(A) Except as
+3 provided hereunder, the ultimate controlling person of every insurer
+4 subject to registration shall concurrently file with the registration an
+5 annual group capital calculation as directed by the lead state
+6 commissioner. The report shall be completed in accordance with the NAIC
+7 group capital calculation instructions, which may permit the lead state
+8 commissioner to allow a controlling person that is not the ultimate
+9 controlling person to file the group capital calculation. The report shall be
+10 filed with the lead state commissioner of the insurance holding company
+11 system as determined by the commissioner of insurance in accordance
+12 with the procedures within the financial analysis handbook. An insurance
+13 holding company system shall be exempt from filing the group capital
+14 calculation if:
+15 (i) It has only one insurer within its holding company structure, only
+16 writes business is only licensed in its domestic state and assumes no
+17 business from any other insurer;
+18 (ii) it is required to perform a group capital calculation specified by
+19 the board of governors of the federal reserve system. The lead state
+20 commissioner shall request the calculation from the federal reserve board
+21 under the terms of information sharing agreements in effect. If the federal
+22 reserve board cannot share the calculation with the lead state
+23 commissioner, the insurance holding company shall not be exempt from
+24 the group capital calculation filing;
+25 (iii) its non-United States group-wide supervisor is located within a
+26 reciprocal jurisdiction, as defined in K.S.A. 40-221a, and amendments
+27 thereto, that recognizes the United States regulatory approach to group
+28 supervision and group capital; and
+29 (iv) it is an insurance holding company system:
+30 (a) That provides information to the lead state that meets the
+31 requirements for accreditation under the NAIC financial standards and
+32 accreditation program, either directly or indirectly through the group-wide
+33 supervisor, who has determined that such information is satisfactory to
+34 allow the lead state to comply with the NAIC group supervision approach,
+35 as detailed in the NAIC financial analysis handbook; and
+36 (b) whose non-United States group-wide supervisor who is not in a
+37 reciprocal jurisdiction recognizes and accepts, as specified by the
+38 commissioner in rules and regulations, the group capital calculation as
+39 the worldwide group capital assessment for United States insurance
+40 groups that operate in that jurisdiction.
+41 (B) Notwithstanding the provisions of K.S.A. 40-3305, and
+42 amendments thereto, a lead state commissioner shall require the group
+43 capital calculation for the United States operations of any non-United
+HB 2128 11
+1 States based insurance holding company system if, after any necessary
+2 consultation with other supervisors or officials, it is deemed appropriate
+3 by the lead state commissioner for prudential oversight and solvency
+4 monitoring purposes or for ensuring the competitiveness of the insurance
+5 marketplace.
+6 (C) Notwithstanding the exemptions from filing the group capital
+7 calculation stated in K.S.A. 40-3305, and amendments thereto, the lead
+8 state commissioner has the discretion to exempt the ultimate controlling
+9 person from filing the annual group capital calculation or to accept a
+10 limited group capital filing or report in accordance with criteria specified
+11 by the commissioner in regulation.
+12 (D) If the lead state commissioner determines that an insurance
+13 holding company system no longer meets one or more of the requirements
+14 for an exemption from filing the group capital calculation under this
+15 section, the insurance holding company system shall file the group capital
+16 calculation at the next annual filing date unless given an extension by the
+17 lead state commissioner based on reasonable grounds shown.
+18 (E) The ultimate controlling person of every insurer subject to
+19 registration and also scoped into the NAIC liquidity stress test framework
+20 shall file the results of a specific year's liquidity stress test. The filing shall
+21 be made to the lead state insurance commissioner of the insurance holding
+22 company system as determined by the procedures within the financial
+23 analysis handbook and that:
+24 (i) The NAIC liquidity stress test framework includes scope criteria
+25 applicable to a specific data year. These scope criteria are reviewed at
+26 least annually by the financial stability task force or its successor. Any
+27 change to the NAIC liquidity stress test framework or to the data year for
+28 which the scope criteria are to be measured shall be effective on January
+29 1 of the year following the calendar year in which such changes are
+30 adopted. Insurers meeting at least one threshold of the scope criteria are
+31 considered scoped into the NAIC liquidity stress test framework for the
+32 specified data year, unless the lead state insurance commissioner, in
+33 consultation with the NAIC financial stability task force or its successor,
+34 determines that such insurer should not be scoped into the framework for
+35 that data year. Similarly, insurers that do not trigger at least one threshold
+36 of the scope criteria are considered scoped out of the NAIC liquidity stress
+37 test framework for the specified data year, unless the lead state insurance
+38 commissioner, in consultation with the NAIC financial stability task force
+39 or its successor, determines that the insurer should be scoped into the
+40 framework for that data year.
+41 (ii) The lead state insurance commissioner, in consultation with the
+42 financial stability task force or its successor, shall assess the concerns of
+43 regulators that wish to avoid having insurers scoped in and out of the
+HB 2128 12
+1 NAIC liquidity stress test framework on a frequent basis as part of the
+2 determination for an insurer.
+3 (F) The performance and filing of the results of a specific year's
+4 liquidity stress test shall comply with the NAIC liquidity stress test
+5 framework instructions and reporting templates for that year and any lead
+6 state insurance commissioner determinations, in consultation with the
+7 financial stability task force or its successor, provided within the
+8 framework.
+9 (m) The failure of an insurer or an ultimate controlling person of the
+10 insurer to file a registration statement, any summary of the registration
+11 statement or enterprise risk filing within the specified time for filing shall
+12 be a violation by the insurer or by the ultimate controlling person of the
+13 insurer, as applicable.
+14 Sec. 6. K.S.A. 40-3306 is hereby amended to read as follows: 40-
+15 3306. (a) Material Transactions by registered insurers with their affiliates
+16 shall be subject to the following standards:
+17 (1) The terms shall be fair and reasonable;
+18 (2) agreements for cost-sharing services and management shall
+19 include such provisions as required by rules and regulations adopted by the
+20 commissioner of insurance;
+21 (3) the charges or fees for services performed shall be reasonable;
+22 (4) expenses incurred and payment received with respect to such
+23 transactions shall be allocated to the insurer in conformity with the
+24 requirements of K.S.A. 40-225, and amendments thereto;
+25 (5) the books, accounts and records of each party to all such
+26 transactions shall be so maintained as to clearly and accurately disclose the
+27 nature and details of the transactions including such accounting
+28 information necessary to support the reasonableness of the charges or fees
+29 to the respective parties; and
+30 (6) the insurer's surplus as regards policyholders following any
+31 transactions, dividends or distributions to shareholder affiliates shall be
+32 reasonable in relation to the insurer's outstanding liabilities and adequate
+33 to its financial needs.
+34 (b) (1) If an insurer subject to this act is deemed by the commissioner
+35 of insurance to be in a hazardous financial condition as defined by K.S.A.
+36 40-222d, and amendments thereto, or a condition that would be grounds
+37 for supervision, conservation or a delinquency proceeding, then the
+38 commissioner may require the insurer to secure and maintain either a
+39 deposit, held by the commissioner, or a bond, as determined by the insurer
+40 at the insurer's discretion, for the protection of the insurer for the duration
+41 of the contract or agreement or the existence of the condition for which the
+42 commissioner required the deposit or the bond.
+43 (2) In determining whether a deposit or a bond is required, the
+HB 2128 13
+1 commissioner shall consider whether concerns exist with respect to the
+2 affiliated person's ability to fulfill the contract or agreement if the insurer
+3 were to be put into liquidation. Once the insurer is deemed to be in a
+4 hazardous financial condition or a condition that would be grounds for
+5 supervision, conservation or a delinquency proceeding and a deposit or
+6 bond is necessary, the commissioner shall have the discretion to
+7 determine the amount of the deposit or bond, not to exceed the value of the
+8 contract or agreement in any one year, and whether such deposit or bond
+9 should be required for a single contract, multiple contracts or a contract
+10 only with a specific person;
+11 (c) All records and data of the insurer held by an affiliate are and
+12 shall remain the property of the insurer, are subject to control of the
+13 insurer, are identifiable and are segregated or readily capable of
+14 segregation, at no additional cost to the insurer from all other persons'
+15 records and data. All records and data that are otherwise the property of
+16 the insurer, in whatever form maintained, including, but not limited to,
+17 claims and claim files, policyholder lists, application files, litigation files,
+18 premium records, rate books, underwriting manuals, personnel records,
+19 financial records or similar records within the possession, custody or
+20 control of the affiliate shall remain the property of the insurer. At the
+21 request of the insurer, the affiliate shall provide that the receiver may
+22 obtain a complete set of all records of any type that pertain to the insurer's
+23 business, obtain access to the operating systems upon which the data is
+24 maintained, obtain the software that runs those systems either through
+25 assumption of licensing agreements or otherwise and restrict the use of the
+26 data by the affiliate if it is not operating the insurer's business. The
+27 affiliate shall provide a waiver of any landlord lien or other encumbrance
+28 to provide the insurer with access to all records and data in the event of
+29 the affiliate's default under a lease or other agreement; and
+30 (d) Premiums or other funds belonging to the insurer that are
+31 collected or held by an affiliate shall be deemed the exclusive property of
+32 and subject to the control of such insurer. Any right of offset in the event
+33 that an insurer is placed into receivership shall be subject to K.S.A. 40-
+34 3605 et seq., and amendments thereto.
+35 (b)(e) The following transactions involving a domestic insurer and
+36 any person in such insurer's insurance holding company system, including
+37 amendments or modifications of affiliate agreements previously filed
+38 pursuant to this section, may not be entered into unless the insurer has
+39 notified the commissioner of insurance in writing of such insurer's
+40 intention to enter into such transaction at least 30 days prior thereto, or
+41 such shorter period as the commissioner of insurance may permit, and the
+42 commissioner of insurance has not disapproved such transaction within
+43 such period.
+HB 2128 14
+1 (1) Sales, purchases, exchanges, loans or extensions of credit,
+2 guarantees or investments provided such transactions are equal to or
+3 exceed:
+4 (A) With respect to nonlife insurers, the lesser of 3% of the insurer's
+5 admitted assets or 25% of surplus as regards policyholders; or
+6 (B) with respect to life insurers, 3% of the insurer's admitted assets,
+7 each as of December 31 immediately preceding.
+8 (2) Loans or extensions of credit to any person who is not an affiliate,
+9 where if the insurer makes such loans or extensions of credit with the
+10 agreement or understanding that the proceeds of such transactions, in
+11 whole or in substantial part, are to be used to make loans or extensions of
+12 credit to, purchase assets of, or make investments in, any affiliate of the
+13 insurer making such loans or extensions of credit provided if such
+14 transactions are equal to or exceed:
+15 (A) With respect to nonlife insurers, the lesser of 3% of the insurer's
+16 admitted assets or 25% of surplus as regards policyholders;
+17 (B) with respect to life insurers, 3% of the insurer's admitted assets,
+18 each as of December 31 immediately preceding.
+19 (3) Reinsurance agreements or modifications thereto, including:
+20 (A) All reinsurance pooling agreements; and
+21 (B) agreements in which the reinsurance premium or a change in the
+22 insurer's liabilities, or the projected reinsurance premium or a projected
+23 change in the insurer's liabilities in any of the next three consecutive years
+24 equals or exceeds 5% of the insurer's surplus as regards policyholders, as
+25 of December 31 immediately preceding, including those agreements which
+26 that may require as consideration the transfer of assets from an insurer to a
+27 nonaffiliate, if an agreement or understanding exists between the insurer
+28 and nonaffiliate that any portion of such assets will be transferred to one or
+29 more affiliates of the insurer;
+30 (4) all management agreements, service contracts, tax allocation
+31 agreements and all cost-sharing arrangements; and
+32 (5) any material transactions, specified by rules and regulations,
+33 which that the commissioner of insurance determines may adversely affect
+34 the interests of an insurer's policyholders.
+35 Nothing herein contained in this subsection shall be deemed to
+36 authorize or permit any transactions which, that in the case of an insurer
+37 not a member of the same insurance holding company system, would be
+38 otherwise contrary to law.
+39 (c)(f) A domestic insurer may shall not enter into transactions which
+40 that are part of a plan or series of like transactions with persons within the
+41 insurance holding company system if the purpose of those separate
+42 transactions is to avoid the threshold amount required under this section
+43 and thus avoid the review that would occur otherwise. If the commissioner
+HB 2128 15
+1 of insurance determines that such separate transactions were entered into
+2 over any 12-month period for such purpose, the commissioner of insurance
+3 may exercise authority under K.S.A. 40-3311, and amendments thereto.
+4 (d)(g) The commissioner of insurance, in reviewing transactions
+5 pursuant to subsection (b)(e), shall consider whether the transactions
+6 comply with the standards set forth in subsection (a), and whether such
+7 transactions may adversely affect the interests of policyholders.
+8 (e)(h) The commissioner of insurance shall be notified within 30 days
+9 of any investment of the domestic insurer in any one corporation if the
+10 total investment in such corporation by the insurance holding company
+11 system exceeds 10% of such corporation's voting securities.
+12 (f)(i) A transaction subject to approval by the commissioner of
+13 insurance pursuant to K.S.A. 40-3304, and amendments thereto, shall not
+14 be subject to the requirements of this section.
+15 (g)(j) (1) No insurer subject to registration under K.S.A. 40-3305, and
+16 amendments thereto, shall pay any extraordinary dividend or make any
+17 other extraordinary distribution to such insurer's shareholders until:
+18 (A) 30 days after the commissioner of insurance has received notice
+19 of the declaration thereof and has not within such period disapproved such
+20 payment; or
+21 (B) the commissioner of insurance has approved such payment within
+22 such 30-day period.
+23 (2) (A) For purposes of this section, an extraordinary dividend or
+24 distribution includes any dividend or distribution of cash or other property,
+25 the fair market value of which, together with that of other dividends or
+26 distributions made within the preceding 12 months, exceeds the greater of:
+27 (i) 10% of such insurer's surplus as regards policyholders as of
+28 December 31 immediately preceding; or
+29 (ii) the net gain from operations of such insurer, if such insurer is a
+30 life insurer, or the net income, if such insurer is not a life insurer, not
+31 including realized capital gains for the 12-month period ending December
+32 31 immediately next preceding, but shall not include pro rata distributions
+33 of any class of the insurer's own securities.
+34 (B) In determining whether a dividend or distribution is
+35 extraordinary, an insurer, other than a life insurer, may carry forward net
+36 income from the previous two calendar years that has not already been
+37 paid out as dividends. This carry-forward carryforward shall be computed
+38 by taking the net income from the second and third preceding calendar
+39 years, not including realized capital gains, less dividends paid in the
+40 second and immediately preceding calendar years.
+41 (C) An extraordinary dividend or distribution shall also include any
+42 dividend or distribution made or paid out of any funds other than earned
+43 surplus arising from the insurer's business, as defined in K.S.A. 40-233,
+HB 2128 16
+1 and amendments thereto. The provisions of K.S.A. 40-233, and
+2 amendments thereto, shall not be construed so as to prohibit an insurer,
+3 subject to registration under K.S.A. 40-3305, and amendments thereto,
+4 from making or paying an extraordinary dividend or distribution in
+5 accordance with this section.
+6 (3) Notwithstanding any other provisions of law, an insurer may
+7 declare an extraordinary dividend or distribution which that is conditional
+8 upon the approval of the commissioner of insurance. No declaration shall
+9 confer any rights upon shareholders until:
+10 (A) The commissioner of insurance has approved the payment of
+11 such dividend or distribution; or
+12 (B) the commissioner of insurance has not disapproved such payment
+13 within the 30-day period referred to above.
+14 (h)(k) (1) Notwithstanding the control of a domestic insurer by any
+15 person, the officers and directors of the insurer shall not thereby be
+16 relieved of any obligation or liability to which they would otherwise be
+17 subject by law, and the insurer shall be managed so as to assure its separate
+18 operating identity consistent with this act.
+19 (2) Nothing herein shall preclude a domestic insurer from having or
+20 sharing a common management or cooperative or joint use of personnel,
+21 property or services with one or more other persons under arrangements
+22 meeting the standards of K.S.A. 40-3306, and amendments thereto.
+23 (i) For purposes of this act, in determining whether an insurer's
+24 surplus as regards policyholders is reasonable in relation to the insurer's
+25 outstanding liabilities and adequate to such insurer's financial needs, the
+26 following factors, among others, shall be considered:
+27 (1) The size of the insurer as measured by such insurer's assets,
+28 capital and surplus, reserves, premium writings, insurance in force and
+29 other appropriate criteria;
+30 (2) the extent to which the insurer's business is diversified among the
+31 several lines of insurance;
+32 (3) the number and size of risks insured in each line of business;
+33 (4) the extent of the geographical dispersion of the insurer's insured
+34 risks;
+35 (5) the nature and extent of the insurer's reinsurance program;
+36 (6) the quality, diversification and liquidity of the insurer's investment
+37 portfolio;
+38 (7) the recent past and projected future trend in the size and
+39 performance of the insurer's surplus as regards policyholders;
+40 (8) the surplus as regards policyholders maintained by other
+41 comparable insurers;
+42 (9) the adequacy of the insurer's reserves;
+43 (10) the quality and liquidity of investments in affiliates. The
+HB 2128 17
+1 commissioner of insurance may treat any such investment as a disallowed
+2 asset for purposes of determining the adequacy of surplus as regards
+3 policyholders whenever in the judgment of the commissioner of insurance
+4 such investment so warrants; and
+5 (11) the quality of the insurer's earnings and the extent to which the
+6 reported earnings include extraordinary items.
+7 Sec. 7. K.S.A. 40-3307 is hereby amended to read as follows: 40-
+8 3307. (a) Subject to the limitation contained in this section and in addition
+9 to the powers which that the commissioner of insurance has under K.S.A.
+10 40-222 and K.S.A. 40-222a, and amendments thereto, relating to the
+11 examination of insurers, the commissioner of insurance shall have the
+12 power to examine any insurer registered under K.S.A. 40-3305, and
+13 amendments thereto, and such insurer's affiliates to ascertain the financial
+14 condition, including enterprise risk, of such insurer including the
+15 enterprise risk to the insurer by the ultimate controlling party or by any
+16 entity or combination of entities within the insurance holding company
+17 system or by the insurance holding company system on a consolidated
+18 basis.
+19 (b) (1) The commissioner of insurance may order any insurer
+20 registered under K.S.A. 40-3305, and amendments thereto, to produce
+21 such records, books or other information in the possession of the insurer or
+22 its affiliates as are reasonably necessary to determine compliance with this
+23 act.
+24 (2) To determine compliance with this act, the commissioner of
+25 insurance may order any insurer registered under K.S.A. 40-3305, and
+26 amendments thereto, to produce information not in the possession of the
+27 insurer, if the insurer can obtain access to such information pursuant to
+28 contractual relationships, statutory obligations or another method. In the
+29 event that the insurer cannot obtain the information requested by the
+30 commissioner of insurance, the insurer shall provide the commissioner of
+31 insurance a detailed explanation of the reason that the insurer cannot
+32 obtain the information and the identity of the holder of information.
+33 Whenever it appears to the commissioner of insurance that the detailed
+34 explanation is without merit, the commissioner of insurance may require,
+35 after notice and hearing, the insurer to pay a penalty of not more than
+36 $1,000 for each day's delay, or may suspend or revoke the license of the
+37 insurer.
+38 (c) The commissioner of insurance may retain at the registered
+39 insurer's expense such attorneys, actuaries, accountants and other experts
+40 not otherwise a part of the staff of the commissioner of insurance as the
+41 commissioner of insurance shall determine to be reasonably necessary to
+42 assist in the conduct of the examination under subsection (a). Any persons
+43 so retained shall be under the direction and control of the commissioner of
+HB 2128 18
+1 insurance and shall act in a purely advisory capacity.
+2 (d) Each registered insurer producing examination records, books and
+3 papers pursuant to subsection (a) shall be liable for and shall pay the
+4 expense of such examination in accordance with K.S.A. 40-223 and
+5 K.S.A. 40-253, and amendments thereto.
+6 (e) The commissioner of insurance shall have the power to issue
+7 subpoenas, administer oaths and examine under oath any person for
+8 purposes of determining compliance with this section. Upon the failure or
+9 refusal of any person to obey a subpoena, the commissioner of insurance
+10 may petition a court of competent jurisdiction, and upon proper showing,
+11 the court may enter an order compelling the witness to appear and testify
+12 or produce documentary evidence. Failure to obey the court order shall be
+13 punishable as contempt of court. Every person subpoenaed shall be
+14 obliged to attend as a witness at the place specified in the subpoena, when
+15 subpoenaed, anywhere within the state. Such subpoenaed person shall be
+16 entitled to the same fees and mileage, if claimed, as a witness in K.S.A.
+17 28-125, and amendments thereto. Fees, mileage and actual expense, if any,
+18 necessarily incurred in securing the attendance and testimony of witnesses
+19 shall be itemized, charged against and paid by the company being
+20 examined.
+21 Sec. 8. K.S.A. 40-3308 is hereby amended to read as follows: 40-
+22 3308. (a) Documents, materials or other information obtained by or
+23 disclosed to the commissioner of insurance or any other person in the
+24 course of an examination or investigation made pursuant to K.S.A. 40-
+25 3307, and amendments thereto, and all information reported pursuant to
+26 K.S.A. 40-3304, 40-3305 and 40-3306, and amendments thereto, shall:
+27 (1) Be confidential and privileged;
+28 (2) not be subject to disclosure under the Kansas open records act,
+29 K.S.A. 45-215 et seq., and amendments thereto;
+30 (3) not be subject to subpoena; and
+31 (4) not be subject to discovery or admissible in evidence in any
+32 private civil action.
+33 (b) (1) The commissioner of insurance shall not otherwise make the
+34 documents, materials or other information public without the prior written
+35 consent of the insurer to which it pertains unless the commissioner of
+36 insurance, after giving the insurer and its affiliates who would be affected
+37 thereby notice and opportunity to be heard in accordance with the
+38 provisions of the Kansas administrative procedure act, determines that the
+39 interests of policyholders, shareholders or the public would be served by
+40 the publication thereof, in which event, the commissioner of insurance
+41 may publish all or any part thereof in such a manner as the commissioner
+42 of insurance may deem appropriate. In making such determination, the
+43 commissioner of insurance also shall take into consideration any potential
+HB 2128 19
+1 adverse consequences of the disclosure thereof.
+2 (2) For purposes of the information reported and provided to the
+3 commissioner pursuant to K.S.A. 40-3304 through 40-3307, and
+4 amendments thereto, the commissioner shall maintain the confidentiality
+5 of the:
+6 (A) Group capital calculation and group capital ratio produced
+7 within the calculation and any group capital information received from an
+8 insurance holding company supervised by the federal reserve board or any
+9 United States group-wide supervisor; and
+10 (B) liquidity stress test results and supporting disclosures and any
+11 liquidity stress test information received from an insurance holding
+12 company supervised by the federal reserve board and non-United States
+13 group-wide supervisors.
+14 (c) Neither the commissioner of insurance nor any person who
+15 received documents, materials or other information while acting under the
+16 authority of the commissioner of insurance or with whom such documents,
+17 materials or other information are shared pursuant to this section shall be
+18 permitted or required to testify in any private civil action concerning any
+19 confidential documents, materials or information subject to subsection (a).
+20 (d) In order to assist in the performance of the commissioner of
+21 insurance's duties, the commissioner of insurance:
+22 (1) May share documents, materials or other information, including
+23 the confidential and privileged documents, materials or information
+24 subject to subsection (a), with other state, federal and international
+25 regulatory agencies, with the national association of insurance
+26 commissioners and its affiliates and subsidiaries, and with state, federal
+27 and international law enforcement authorities, including members of any
+28 supervisory college described in K.S.A. 40-3316, and amendments thereto,
+29 provided that the recipient agrees in writing to maintain the confidentiality
+30 and privileged status of the document, material or other information, and
+31 has verified in writing the legal authority to maintain confidentiality;
+32 (2) notwithstanding the provisions of paragraph (1) above, the
+33 commissioner of insurance may only share confidential and privileged
+34 documents, material or information reported pursuant to subsection (1) of
+35 K.S.A. 40-3305, and amendments thereto, with the commissioner of
+36 insurance or corresponding official of any state having statutes or
+37 regulations substantially similar to subsections (a) and, (b) and (c), and
+38 who has agreed in writing not to not disclose such information;
+39 (3) may receive documents, materials or information, including
+40 otherwise confidential and privileged documents, materials or information
+41 from the national association of insurance commissioners, and its affiliates
+42 and subsidiaries, and from regulatory and law enforcement officials of
+43 other foreign or domestic jurisdictions, and shall maintain as confidential
+HB 2128 20
+1 or privileged any document, material or information received with notice
+2 or the understanding that it is confidential or privileged under the laws of
+3 the jurisdiction that is the source of the document, material or information.
+4 Documents received pursuant to this section shall not be subject to
+5 disclosure pursuant to the open records act, K.S.A. 45-215 et seq., and
+6 amendments thereto; and
+7 (4) shall enter into written agreements with the national association of
+8 insurance commissioners governing sharing and use of information
+9 provided pursuant to this act consistent with this subsection that shall:
+10 (i) Specify procedures and protocols regarding the confidentiality and
+11 security of information shared with the national association of insurance
+12 commissioners and its affiliates and subsidiaries pursuant to this act,
+13 including procedures and protocols for sharing by the national association
+14 of insurance commissioners with other state, federal or international
+15 regulators;
+16 (ii) specify that ownership of information shared with the national
+17 association of insurance commissioners and its affiliates and subsidiaries
+18 pursuant to this act remains with the commissioner of insurance, and that
+19 the national association of insurance commissioners' NAIC's use of the
+20 information is subject to the direction of the commissioner of insurance;
+21 (iii) exclude documents, material or information reported pursuant to
+22 K.S.A. 40-3305, and amendments thereto, and prohibit the NAIC and its
+23 affiliates and subsidiaries from storing the information shared pursuant to
+24 the insurance holding company act in a permanent database after the
+25 underlying analysis is completed;
+26 (iv) require prompt notice to be given to an insurer and its affiliates
+27 whose confidential information in the possession of the national
+28 association of insurance commissioners NAIC, pursuant to this act, is
+29 subject to a request or subpoena to the national association of insurance
+30 commissioners NAIC for disclosure or production; and
+31 (iv)(v) require the national association of insurance commissioners
+32 NAIC and its affiliates and subsidiaries to consent to intervention by an
+33 insurer in any judicial or administrative action in which the national
+34 association of insurance commissioners NAIC and its affiliates and
+35 subsidiaries may be required to disclose confidential information about the
+36 insurer and its affiliates that are shared with the national association of
+37 insurance commissioners NAIC and its affiliates and subsidiaries pursuant
+38 to this the insurance holding company act; and
+39 (vi) for documents, material or information reporting pursuant to
+40 K.S.A. 40-3305, and amendments thereto, in the case of an agreement
+41 involving a third-party consultant, provide for notification of the identity
+42 of the consultant to the applicable insurers.
+43 (e) The sharing of information by the commissioner of insurance,
+HB 2128 21
+1 pursuant to this act, shall not constitute a delegation of regulatory authority
+2 or rule-making rulemaking authority, and the commissioner of insurance is
+3 solely responsible for the administration, execution and enforcement of the
+4 provisions of this act.
+5 (f) No waiver of any applicable privilege or claim of confidentiality
+6 in the documents, materials or information shall occur as a result of
+7 disclosure to the commissioner of insurance under this act or as a result of
+8 sharing as authorized in subsection (d).
+9 (g) Documents, materials or other information in the possession or
+10 control of the national association of insurance commissioners shall be
+11 confidential by law and privileged, shall not be subject to the open records
+12 act, K.S.A. 45-215 et seq., and amendments thereto, shall not be subject to
+13 subpoena, and shall not be subject to discovery or admissible in evidence
+14 in any private civil action.
+15 (h) (1) The group capital calculation and resulting group capital
+16 ratio required under K.S.A. 40-3305, and amendments thereto, and the
+17 liquidity stress test along with its results and supporting disclosures
+18 required under K.S.A. 40-3305, and amendments thereto, shall be deemed
+19 regulatory tools for assessing group risks and capital adequacy and group
+20 liquidity risks, respectively, and shall not be construed as a means to rank
+21 insurers or insurance holding company systems.
+22 (2) Except as otherwise may be required under the provisions of the
+23 insurance holding company act, the making, publishing, disseminating,
+24 circulating, placing before the public or causing directly or indirectly to
+25 be made, published, disseminated, circulated or placed before the public
+26 in a newspaper, magazine or other publication, in the form of a notice,
+27 circular, pamphlet, letter or poster, broadcast by any radio or television
+28 station or by any electronic means of communication available to the
+29 public, or in any other way as an advertisement, announcement or
+30 statement containing a representation or statement with regard to the
+31 group capital calculation, group capital ratio, the liquidity stress test
+32 results, or supporting disclosures for the liquidity stress test of any insurer
+33 or any insurer group, or of any component derived in the calculation by
+34 any insurer, broker, or other person engaged in any manner in the
+35 insurance business could be misleading and is therefore prohibited.
+36 (3) If any materially false statement with respect to the group capital
+37 calculation, resulting group capital ratio, an inappropriate comparison of
+38 any amount to an insurer's or insurance group's group capital calculation
+39 or resulting group capital ratio, liquidity stress test result, supporting
+40 disclosures for the liquidity stress test or an inappropriate comparison of
+41 any amount to an insurer's or insurance group's liquidity stress test result
+42 or supporting disclosures is published in any written publication and the
+43 insurer is able to demonstrate to the commissioner with substantial proof
+HB 2128 22
+1 the falsity or inappropriateness of such statement, then the insurer may
+2 publish announcements in a written publication if the sole purpose of the
+3 announcement is to rebut the materially false statement.
+4 (i) The provisions of this section shall not be subject to the provisions
+5 of K.S.A. 45-229, and amendments thereto.
+6 Sec. 9. K.S.A. 40-249, 40-2c29, 40-2d01, 40-3302, 40-3305, 40-
+7 3306, 40-3307 and 40-3308 and K.S.A. 2024 Supp. 40-2c01 are hereby
+8 repealed.
+9 Sec. 10. This act shall take effect and be in force from and after its
+10 publication in the statute book.
+[DELETED: AN T cg i; rg to te rn tavtphan of ie cs hg cy srt031e3B4N5ad ae te vn of ie c, i6p7s8eh y, te cr sl ce sh at to b9p0(1b2t34, ad as t, ad gp cl c4i5S6f7(8a9a0(1s2r3(c i" ms ay ie cy or r4r5(]
+[DELETED: 8gbSa(" ms te nl an of ic(ua0o1(2l3K4m5i6(7n8"9s0(1(C i" ms te rd cl i2p3l4ae  u5p6(7r8c9(0t1(2a3(4ur te rd cl fa in ae wh te R5i6(7a8(9e0c1w2"3(]
+[DELETED: 8a((i((S2t0(1a2a3(4s5a6(7w8(9d0p1A2(" ms te nl an of i3c4(5l6al 7o8K9o0a1t, ad hs bn dd by te cr to r2p3s4i5i6K7s8K9(0(1m2e oy  a3ay  i]
+[DELETED: 8p(Rm(o(a(0ur te rd cl fa in ae wh te R1i2(3a4(5e6c7o8p9(021(2(3a4a5a6(7(8S930o1(2a3c4s5(r of i" or "" ms t6c7d8(9"0t1a2o3o]
+[DELETED: 8cavatcdat0(1o2r3f4c5w6l7a8a9c0a1(2f3b4a5(6c7p8(9to ee in cg ad cg ge s0a1K2c3(s 4a5(6fl bt s, hh me o, n7ml ad hl se c, nt dl s8c9o0l1p2(3h]
+[DELETED: 8(s an ir rd ur K. 4, aa(((Sg(i0t1a2(" N" ms te nl an of i3c4(5pt s e f s t 6r7s8t9r0f1a2a3(4a5a6(7f8m, 9p0s1(2a3o4t5(6b7(g s" ms ay sy ce io o8e9S031t2w3r]
+[DELETED: 8tctrp tsttst t r ur ts s t f a c of t0r1i2a3(4s5o6(7m8(9h0(1o2i3(4s5(6(7(8r9o0i1(2a3(4(5(6(7a8f9(y pe of te is s, ig sk of a0s1i2(3s]
+[DELETED: 8i naeartrw(0o1i2mn ad mr ce ge ad il c3p4(5b6(7ot t 8c9(0f1p2r3o4o5p6(7t8m9c0w1i2w3d4c5(6t7i8i9(0a1a2(3a]
+[DELETED: 8r( o mahim(tr0( o a1d2m3cy s. Te dr sl fy de al m4r5i6d7r w t m8i9o0s1w2o3(4p5e6p7i8i9o0i1p2a N3r4b5t6(7a8i9$0p1i2t3c]
+[DELETED: 81oapsal gp cl cn as dd by te ld scgcc0f1s2w3h4c5(6w7b8(9t0c1u2re bd ct se te cn wh te ld s3c4t5(6r7t8s9(0(t s e  se t s 1r2a3s4a5a6(7rl jn rs ad a, as sd by t8c9t0g1(g te ps of K. 4, a2a3c]
+[DELETED: 81Scbmm(csp0l1b2(3h4fp 5s6c7l8(r 9r0s1b2c3a4(5a6l7c8w910a1c2s3c4d5t6o7t8c9o0f1(2f3r]
+[DELETED: 81Nd(lfsfl sy tk fe or is s, pd wn tf(0i1s2b3i4S536s7(8(s fr cg ss ad mt s9i0c1(2(3t4r5(e  as a rs o eh  al 6t7ne ad ds of te ts ig sh a8i9t0(e is s s rs ps 1t2r3t4(5o647f8c9d0a1o2c3(]
+[DELETED: 81cawhsbd s n, te r  sl e te n dcs0o1(2s3i, ae ie ad ae sd or ry ce o4s5r6t7c8p9f0c1r2o3b4m5a6d7a8t9t0(1c2a3t435(6a7a8p9n0i1s2c3s]
+[DELETED: 81(, p, e, ls or es of cge(a(e(w0a1w2c3i p i s4t5(6a7(8e9(0(1(2i3c4e5o6t7n8a9m0(l 1a2( m t3w4t5N h c i ts s sl be d 6a7n8o9(0t1i2t3a]
+[DELETED: 81oom(p (ct(o0t1s2(3i4b5(6a7o8(9o0p1(2s3(4d5t6d7(8D9(0l1i233o4(n dg wr a dd or dn i5e6i7p8b9y0s1(2d3s]
+[DELETED: 81ad as t. Te ps of K. 4, aasfa(duc0(1s2(3w4(5p6r7s8o9(0s1p2m3(4s5o6f7(8c9o0(1s2(3(4r5(6(7p8(e rt pt ad pd fe td in te se a9p0(e ss as rs ps md by o1c2(3(e qy ad ly of is in a. T]
+[DELETED: 81caps(rS3t041e2p3a4c, ig ee r of sh i ig t5e6e7s8b9() (e cr of ie my or ay i0r1s2i3a4(5i6a7i8c9e t t0c1i2o3W4e5a6$7i8(9i0n1c2a3s]
+[DELETED: 81i(peK(spr0m1t2o3p4o5s6e728n9s0e1S233d4c536K7(8(9K0(1(2p3(4d5c6i7t8p9i0t t1m2o3c]
+[DELETED: 81a(cr pt to K. 44 th 4, aao(wiU0(1ls t 2c3g4(5r6a7m8p9c0(1i2(3te cl ad pd d, ms or i4st 5ry a w te nl an of i6c7a8s9p0a1h2(g te ps of ph ( a, t3c4d5K6ie or cg ol of ay se hg ss o7r8w9(y re d, ms or i, i0o1f2a3o]
+[DELETED: 82ootDda(ie cs gg sg ad ue of ip0(1s2c3i4o5r6(7a8p9t n u0i1(2K3a4t5u6(7we cl in in te pn of t n8a N9s0c1( n2N3i n4an of ie c N ad is as a5s6i7i8t9(0K1i2o3(]
+[DELETED: 82posp(ids(0c1c2a3s4i5( (6r7ld 8r9r0l1i2(3i4c5b6i7c8s9p0s1g2r3o4a5i6(7c8a9o0d1a2o3i]
+[DELETED: 82tpa(oS3rS0p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2128
+By Committee on Insurance
+Requested by Eric Turek on behalf of Kansas Insurance Department
+1-28
+1 AN ACT concerning insurance; relating to the regulation thereof;
+2 authorizing the commissioner of insurance to select and announce the
+3 version of certain instructions, calculations and documents in effect for
+4 the upcoming calendar year and cause such announcement to be
+5 published in the Kansas register; allowing certain life insurers to follow
+6 health financial reports; adopting certain provisions from the national
+7 association of insurance commissioners holding company system
+8 regulatory act relating to group capital calculations and liquidity stress
+9 testing; amending K.S.A. 40-2d01, 40-3302, 40-3305, 40-3306, 40-
+10 3307 and 40-3308 and K.S.A. 2024 Supp. 40-2c01 and repealing the
+11 existing sections; also repealing K.S.A. 40-249 and 40-2c29.
+12
+13 Be it enacted by the Legislature of the State of Kansas:
+14 New Section 1. (a) The commissioner is hereby authorized to select
+15 and announce the version of insurance calculations, instructions
+16 promulgated by the NAIC or other documents required by the NAIC that
+17 shall be in effect for the next calendar year. Not later than December 1 of
+18 each year, the commissioner shall cause such announcement to be
+19 published in the Kansas register.
+20 (b) Calculations and instructions include, but are not limited to, risk-
+21 based capital instructions, as used in K.S.A. 40-2c01, and amendments
+22 thereto, risk-based capital managed care instructions, as used in K.S.A.
+23 40-2d01, and amendments thereto, and group capital calculation
+24 instructions, as used in K.S.A. 40-3302, and amendments thereto.
+25 Sec. 2. K.S.A. 2024 Supp. 40-2c01 is hereby amended to read as
+26 follows: 40-2c01. As used in this act:
+27 (a) "Adjusted RBC report" means an RBC report that has been
+28 adjusted by the commissioner in accordance with K.S.A. 40-2c04, and
+29 amendments thereto.
+30 (b) "Corrective order" means an order issued by the commissioner
+31 specifying corrective actions that the commissioner has determined are
+32 required to address an RBC level event.
+33 (c) "Domestic insurer" means any insurance company or risk
+34 retention group that is licensed and organized in this state.
+35 (d) "Foreign insurer" means any insurance company or risk retention
+
+HB 2128 2
+1 group not domiciled in this state that is licensed or registered to do
+2 business in this state pursuant to article 41 of chapter 40 of the Kansas
+3 Statutes Annotated, and amendments thereto, or K.S.A. 40-209, and
+4 amendments thereto.
+5 (e) "NAIC" means the national association of insurance
+6 commissioners.
+7 (f) "Life and health insurer" means any insurance company licensed
+8 under article 4 or 5 of chapter 40 of the Kansas Statutes Annotated, and
+9 amendments thereto, or a licensed property and casualty insurer writing
+10 only accident and health insurance.
+11 (g) "Property and casualty insurer" means any insurance company
+12 licensed under articles 9, 10, 11, 12, 12a, 15 or 16 of chapter 40 of the
+13 Kansas Statutes Annotated, and amendments thereto, but does not include
+14 monoline mortgage guaranty insurers, financial guaranty insurers and title
+15 insurers.
+16 (h) "Negative trend" means, with respect to a life and health insurer, a
+17 negative trend over a period of time, as determined in accordance with the
+18 "trend test calculation" included in the RBC instructions defined in
+19 subsection (j).
+20 (i) "RBC" means risk-based capital.
+21 (j) "RBC instructions" means the risk-based capital instructions
+22 promulgated by the NAIC that are in effect on December 31, 2023, or any
+23 later version promulgated by the NAIC as may be adopted by the as
+24 announced and noticed by the commissioner under K.S.A. 40-2c29
+25 pursuant to section 1, and amendments thereto.
+26 (k) "RBC level" means an insurer's company action level RBC,
+27 regulatory action level RBC, authorized control level RBC or mandatory
+28 control level RBC where:
+29 (1) "Company action level RBC" means, with respect to any insurer,
+30 the product of 2.0 and its authorized control level RBC;
+31 (2) "regulatory action level RBC" means the product of 1.5 and its
+32 authorized control level RBC;
+33 (3) "authorized control level RBC" means the number determined
+34 under the risk-based capital formula in accordance with the RBC
+35 instructions; and
+36 (4) "mandatory control level RBC" means the product of 0.70 and the
+37 authorized control level RBC.
+38 (l) "RBC plan" means a comprehensive financial plan containing the
+39 elements specified in K.S.A. 40-2c06, and amendments thereto. If the
+40 commissioner rejects the RBC plan, and it is revised by the insurer, with or
+41 without the commissioner's recommendation, the plan shall be called the
+42 "revised RBC plan."
+43 (m) "RBC report" means the report required by K.S.A. 40-2c02, and
+
+HB 2128 3
+1 amendments thereto.
+2 (n) "Total adjusted capital" means the sum of:
+3 (1) An insurer's capital and surplus or surplus only if a mutual
+4 insurer; and
+5 (2) such other items, if any, as the RBC instructions may provide.
+6 (o) "Commissioner" means the commissioner of insurance.
+7 Sec. 3. K.S.A. 40-2d01 is hereby amended to read as follows: 40-
+8 2d01. As used in K.S.A. 40-2d01 through 40-2d30, and amendments
+9 thereto:
+10 (a) "Adjusted RBC report" means an RBC report which that has been
+11 adjusted by the commissioner in accordance with K.S.A. 40-2d04, and
+12 amendments thereto.
+13 (b) "Corrective order" means an order issued by the commissioner
+14 specifying corrective actions which that the commissioner has determined
+15 are required.
+16 (c) "Domestic health organization" means any health organization
+17 which that is licensed and organized in this state.
+18 (d) "Foreign health organization" means any health organization not
+19 domiciled in this state which that is licensed to do business in this state
+20 pursuant to articles 19a, 19c or 32 of chapter 40 of the Kansas Statutes
+21 Annotated, and amendments thereto.
+22 (e) "NAIC" means the national association of insurance
+23 commissioners.
+24 (f) "Health organization" means a health maintenance organization,
+25 limited health service organization, dental or vision plan, hospital, medical
+26 and dental indemnity or service corporation or other managed care
+27 organization licensed under articles 19a, 19c or 32 of chapter 40 of the
+28 Kansas Statutes Annotated, and amendments thereto. This definition shall,
+29 or an organization that is licensed as a life and health insurer under
+30 article 4 of chapter 40 of the Kansas Statutes Annotated, and amendments
+31 thereto, and has been determined by the commissioner to report
+32 predominantly health lines of business in accordance with a health
+33 statement test. "Health organization" does not include an organization that
+34 is licensed as either a life and health insurer or a property and casualty
+35 insurer under articles 4, 5, 9, 10, 11, 12, 12a, 15 or 16 of chapter 40 of the
+36 Kansas Statutes Annotated, and amendments thereto, and that is otherwise
+37 subject to either the life or property and casualty RBC requirements in
+38 K.S.A. 40-2c01 et seq., and amendments thereto.
+39 (g) "RBC" means risk-based capital.
+40 (h) "RBC instructions" means the risk-based capital instructions for
+41 managed care organizations promulgated by the NAIC which that are in
+42 effect on December 31, 1999, or any later version as adopted by as
+43 announced and noticed by the commissioner in rules and regulations
+
+HB 2128 4
+1 pursuant to section 1, and amendments thereto.
+2 (i) "RBC level" means a health organization's company action level
+3 RBC, regulatory action level RBC, authorized control level RBC, or
+4 mandatory control level RBC where:
+5 (1) "Company action level RBC" means, with respect to any health
+6 organization, the product of 2.0 and its authorized control level RBC;
+7 (2) "regulatory action level RBC" means the product of 1.5 and its
+8 authorized control level RBC;
+9 (3) "authorized control level RBC" means the number determined
+10 under the risk-based capital formula in accordance with the RBC
+11 instructions; and
+12 (4) "mandatory control level RBC" means the product of .70 and the
+13 authorized control level RBC.
+14 (j) "RBC plan" means a comprehensive financial plan containing the
+15 elements specified in K.S.A. 40-2d05, and amendments thereto. If the
+16 commissioner rejects the RBC plan, and it is revised by the health
+17 organization, with or without the commissioner's recommendation, the
+18 plan shall be called the "revised RBC plan."
+19 (k) "RBC report" means the report required by K.S.A. 40-2d02, 40-
+20 2d03 and 40-2d04, and amendments thereto.
+21 (l) "Total adjusted capital" means the sum of:
+22 (1) A health organization's capital and surplus as determined in
+23 accordance with the annual financial statements required to be filed under
+24 articles 19a, 19c or 32 of chapter 40 of the Kansas Statutes Annotated, and
+25 amendments thereto; and
+26 (2) such other items, if any, as the RBC instructions may provide.
+27 (m) "Commissioner" means the commissioner of insurance.
+28 Sec. 4. K.S.A. 40-3302 is hereby amended to read as follows: 40-
+29 3302. As used in the insurance holding company act, unless the context
+30 otherwise requires:
+31 (a) "Affiliate" of, or person "affiliated" with, a specific person, means
+32 a person that directly, or indirectly through one or more intermediaries,
+33 controls, is controlled by, or is under common control with, the person
+34 specified.
+35 (b) "Commissioner of insurance" or "commissioner" means the
+36 commissioner of insurance, the commissioner's deputies, or the insurance
+37 department, as appropriate.
+38 (c) "Control" including the terms "controlling," "controlled by" and
+39 "under common control with," means the possession, direct or indirect, of
+40 the power to direct or cause the direction of the management or policies of
+41 a person, whether through the ownership of voting securities, by contract
+42 other than a commercial contract for goods or nonmanagement services, or
+43 otherwise, unless the power is the result of an official position with or
+
+HB 2128 5
+1 corporate office held by the person. Control shall be presumed to exist if
+2 any person, directly or indirectly, owns, controls, holds with the power to
+3 vote, or holds proxies representing 10% or more of the voting securities of
+4 any other person. This presumption may be rebutted by a showing made in
+5 the manner provided by K.S.A. 40-3305(k), and amendments thereto, that
+6 control does not exist in fact. The commissioner of insurance may
+7 determine, after a hearing in accordance with the provisions of the Kansas
+8 administrative procedure act, that control exists in fact, notwithstanding
+9 the absence of a presumption to that effect.
+10 (d) "Enterprise risk" means any activity, circumstance, event or series
+11 of events involving one or more affiliates of an insurer that, if not
+12 remedied promptly, is likely to have a material adverse effect upon the
+13 financial condition or liquidity of the insurer or its insurance holding
+14 company system as a whole, including, but not limited to, anything that
+15 would cause the insurer's risk-based capital to fall into company action
+16 level RBC, as such term is defined in either K.S.A. 40-2c01 et seq., and
+17 amendments thereto, or K.S.A. 40-2d01 et seq., and amendments thereto,
+18 as appropriate, or would cause the insurer to be in hazardous financial
+19 condition as set forth in K.S.A. 40-222b, 40-222c and 40-222d, and
+20 amendments thereto.
+21 (e) "Financial analysis handbook" means the version of the NAIC
+22 financial analysis handbook adopted by the NAIC and in effect that has
+23 been selected and noticed by the commissioner pursuant to section 1, and
+24 amendments thereto.
+25 (f) "Group capital calculation instructions" means the group capital
+26 calculation instructions selected and announced by the commissioner
+27 pursuant to section 1, and amendments thereto.
+28 (g) "Group-wide supervisor" means the regulatory official authorized
+29 to engage in conducting and coordinating group-wide supervision
+30 activities who is determined or acknowledged by the commissioner under
+31 K.S.A. 40-3318, and amendments thereto, to have sufficient significant
+32 contacts with the internationally active insurance group.
+33 (f)(h) "Insurance holding company system" means two or more
+34 affiliated persons, one or more of which is an insurer.
+35 (g)(i) "Insurer" means any corporation, company, association, society,
+36 fraternal benefit society, health maintenance organization, nonprofit
+37 medical and hospital service corporation, nonprofit dental service
+38 corporation, reciprocal exchange, person or partnership writing contracts
+39 of insurance, indemnity or suretyship in this state upon any type of risk or
+40 loss except lodges, societies, persons or associations transacting business
+41 pursuant to the provisions of K.S.A. 40-202, and amendments thereto.
+42 (h)(j) "Internationally active insurance group" means an insurance
+43 holding company system that:
+
+HB 2128 6
+1 (1) Includes an insurer registered under K.S.A. 40-3305, and
+2 amendments thereto; and
+3 (2) meets the following criteria:
+4 (A) Has premiums written in at least three countries;
+5 (B) the percentage of gross premiums written outside the United
+6 States is at least 10% of the insurance holding company system's total
+7 gross written premiums; and
+8 (C) based on a three-year rolling average, the total assets of the
+9 insurance holding company system are at least $50,000,000,000 or the
+10 total gross written premiums of the insurance holding company system are
+11 at least $10,000,000,000.
+12 (i)(k) " NAIC" means the national association of insurance
+13 commissioners.
+14 (l) "NAIC liquidity stress test framework" means the separate NAIC
+15 publication that includes the history of the NAIC's development of
+16 regulatory liquidity stress testing, the scope criteria applicable for a
+17 specific data year and the liquidity stress test instructions and reporting
+18 templates for a specific data year and such scope criteria, instructions and
+19 reporting templates as adopted by the NAIC and as amended by the NAIC
+20 from time to time in accordance with the procedures adopted by the NAIC
+21 and as selected and announced by the commissioner pursuant to section 1,
+22 and amendments thereto.
+23 (m) "Person" means an individual, corporation, a partnership, an
+24 association, a joint stock company, a trust, an unincorporated organization,
+25 any similar entity or any combination of the foregoing acting in concert.
+26 (n) "Scope criteria," as detailed in the NAIC liquidity stress test
+27 framework, are the designated exposure bases along with minimum
+28 magnitudes thereof for the specified data year, used to establish a
+29 preliminary list of insurers considered scoped into the NAIC liquidity
+30 stress test framework for such specified data year.
+31 (j)(o) "Securityholder" of a specified person means one who owns
+32 any security of such person, including common stock, preferred stock, debt
+33 obligations, and any other security convertible into or evidencing the right
+34 to acquire any of the foregoing.
+35 (k)(p) "Subsidiary" of a specified person means an affiliate controlled
+36 by such person, directly, or indirectly, through one or more intermediaries.
+37 (l)(q) "Voting security" means any security convertible into or
+38 evidencing a right to acquire a voting security.
+39 Sec. 5. K.S.A. 40-3305 is hereby amended to read as follows: 40-
+40 3305. (a) Every insurer that is authorized to do business in this state and
+41 that is a member of an insurance holding company system shall register
+42 with the commissioner of insurance, except a foreign insurer subject to
+43 registration requirements and standards adopted by statute or regulation in
+
+HB 2128 7
+1 the jurisdiction of its domicile that are substantially similar to those
+2 contained in this section. Any insurer that is subject to registration under
+3 this section shall register within 15 days after it becomes subject to
+4 registration, and annually thereafter by May 1 of each year unless for the
+5 previous calendar year the commissioner of insurance for good cause
+6 shown extends the time for registration, and then within such extended
+7 time. The commissioner of insurance may require any authorized insurer
+8 that is a member of an insurance holding company system and that is not
+9 subject to registration under this section to furnish a copy of the
+10 registration statement, the summary specified in subsection (c) or other
+11 information filed by such insurance company with the insurance regulatory
+12 authority of domiciliary jurisdiction.
+13 (b) Pursuant to subsection (a), every insurer subject to registration
+14 shall file a registration statement on a form provided by the commissioner
+15 of insurance, that shall contain current information about regarding:
+16 (1) The capital structure, general financial condition, ownership and
+17 management of the insurer and any person controlling the insurer;
+18 (2) the identity and relationship of every member of the insurance
+19 holding company system;
+20 (3) the following agreements in force and transactions currently
+21 outstanding or that occurred during the last calendar year between such
+22 insurer and its affiliates:
+23 (A) Loans, other investments, or purchases, sales or exchanges of
+24 securities of the affiliates by the insurer or of the insurer by its affiliates;
+25 (B) purchases, sales or exchanges of assets;
+26 (C) transactions not in the ordinary course of business;
+27 (D) guarantees or undertakings for the benefit of an affiliate that
+28 result in an actual contingent exposure of the insurer's assets to liability,
+29 other than insurance contracts entered into in the ordinary course of the
+30 insurer's business;
+31 (E) all management agreements, service contracts and cost sharing
+32 arrangements;
+33 (F) reinsurance agreements;
+34 (G) dividends and other distributions to shareholders; and
+35 (H) consolidated tax allocation agreements;
+36 (4) other matters concerning transactions between registered insurers
+37 and any affiliates as may be included from time to time in any registration
+38 forms adopted or approved by the commissioner of insurance;
+39 (5) any pledge of the insurer's stock, including stock of any
+40 subsidiary or controlling affiliate, for a loan made to any member of the
+41 insurance holding company system;
+42 (6) financial statements of or within an insurance holding company
+43 system, including all affiliates, if requested by the commissioner of
+
+HB 2128 8
+1 insurance. Financial statements may include, but are not be limited to,
+2 annual audited financial statements filed with the U.S. securities and
+3 exchange commission (, SEC), pursuant to the securities act of 1933, as
+4 amended, or the securities exchange act of 1934, as amended. An insurer
+5 required to file financial statements pursuant to this paragraph may satisfy
+6 the request by providing the commissioner of insurance with the most
+7 recently filed parent corporation financial statements that have been filed
+8 with the SEC;
+9 (7) statements that the insurer's board of directors and principal
+10 officers oversee corporate governance and internal controls and that the
+11 insurer's principal officers have approved, implemented and continue to
+12 maintain and monitor corporate governance and internal control
+13 procedures; and
+14 (8) any other information required by the commissioner of insurance
+15 by rules and regulations.
+16 (c) All registration statements shall be accompanied by a summary
+17 outlining all items in the current registration statement representing
+18 changes from the prior registration statement.
+19 (d) No information need be disclosed on the registration statement
+20 filed pursuant to subsection (b) if such information is not material for the
+21 purpose of this section. Unless the commissioner of insurance by rules and
+22 regulations or order provides otherwise, sales, purchases, exchanges, loans
+23 or extensions of credit, investments or guarantees, involving 0.5% or less
+24 of an insurer's admitted assets as of the December 31 immediately next
+25 preceding shall be deemed immaterial for purposes of this section.
+26 (e) Each registered insurer shall keep current the information required
+27 to be disclosed in such insurer's registration statement by reporting all
+28 material changes or additions on amendment forms provided by the
+29 commissioner of insurance within 15 days after the end of the month in
+30 which it learns of each such change or addition, except that each registered
+31 insurer shall report all dividends and other distributions to shareholders
+32 within five business days following its declaration. Any such dividend or
+33 distribution shall not be paid for at least 10 business days from the
+34 commissioner's receipt of the notice of its declaration.
+35 (f) Any person within an insurance holding company system subject
+36 to registration shall provide complete and accurate information to an
+37 insurer, where if such information is reasonably necessary to enable the
+38 insurer to comply with the provisions of this act.
+39 (g) The commissioner of insurance shall terminate the registration of
+40 any insurer that demonstrates that such insurer is no longer is a member of
+41 an insurance holding company system.
+42 (h) The commissioner of insurance may require or allow two or more
+43 affiliated insurers subject to registration hereunder to file a consolidated
+
+HB 2128 9
+1 registration statement.
+2 (i) The commissioner of insurance may allow an insurer that is
+3 authorized to do business in this state and that is part of an insurance
+4 holding company system to register on behalf of any affiliated insurer that
+5 is required to register under subsection (a) and to file all information and
+6 material required to be filed under this section.
+7 (j) The provisions of this section shall not apply to any information or
+8 transaction if and to the extent the commissioner of insurance by rule and
+9 regulation or order exempts the same from the provisions of this section.
+10 (k) Any person may file with the commissioner of insurance a
+11 disclaimer of affiliation with any authorized insurer or such a disclaimer
+12 may be filed by such insurer or any member of an insurance holding
+13 company system. The disclaimer shall fully disclose all material
+14 relationships and bases for affiliation between such person and such
+15 insurer as well as the basis for disclaiming such affiliation. After a
+16 disclaimer has been filed, the insurer shall be relieved of any duty to
+17 register or report under this section which that may arise out of the
+18 insurer's relationship with such person unless and until the commissioner
+19 of insurance disallows such a disclaimer. The commissioner of insurance
+20 shall disallow such a disclaimer only after furnishing all parties in interest
+21 with notice and opportunity to be heard in accordance with the provisions
+22 of the Kansas administrative procedure act.
+23 (l) (1) Except as provided in paragraph (2), the ultimate controlling
+24 person of every insurer subject to registration also shall file an annual
+25 enterprise risk report. The report, to the best of the ultimate controlling
+26 person's knowledge and belief, shall identify the material risks within the
+27 insurance holding company system that could pose enterprise risk to the
+28 insurer. The report shall be appropriate to the nature, scale and complexity
+29 of the insurer. The report shall be filed with the lead state commissioner of
+30 insurance of the insurance holding company system as determined by the
+31 procedures within the financial analysis handbook adopted by the national
+32 association of insurance commissioners NAIC. The first enterprise risk
+33 report shall be filed no not later than May 1, 2015, and annually thereafter
+34 by May 1 of each year unless the commissioner of insurance extends the
+35 time for filing for good cause shown.
+36 (2) The ultimate controlling person of a domestic insurer that is
+37 authorized, admitted or eligible to engage in the business of insurance only
+38 in this state with total direct and assumed annual premiums of less than
+39 $300 million is not required to submit an enterprise risk report under
+40 paragraph (1) unless the ultimate controlling person of the domestic
+41 insurer also controls other insurers that do not meet the requirements of
+42 this subsection. For the purposes of this subsection, an insurer is not
+43 considered to be authorized, admitted or eligible to engage in the business
+
+HB 2128 10
+1 of insurance only in this state if the insurer directly or indirectly writes or
+2 assumes insurance in any other manner in another state(A) Except as
+3 provided hereunder, the ultimate controlling person of every insurer
+4 subject to registration shall concurrently file with the registration an
+5 annual group capital calculation as directed by the lead state
+6 commissioner. The report shall be completed in accordance with the NAIC
+7 group capital calculation instructions, which may permit the lead state
+8 commissioner to allow a controlling person that is not the ultimate
+9 controlling person to file the group capital calculation. The report shall be
+10 filed with the lead state commissioner of the insurance holding company
+11 system as determined by the commissioner of insurance in accordance
+12 with the procedures within the financial analysis handbook. An insurance
+13 holding company system shall be exempt from filing the group capital
+14 calculation if:
+15 (i) It has only one insurer within its holding company structure, only
+16 writes business is only licensed in its domestic state and assumes no
+17 business from any other insurer;
+18 (ii) it is required to perform a group capital calculation specified by
+19 the board of governors of the federal reserve system. The lead state
+20 commissioner shall request the calculation from the federal reserve board
+21 under the terms of information sharing agreements in effect. If the federal
+22 reserve board cannot share the calculation with the lead state
+23 commissioner, the insurance holding company shall not be exempt from
+24 the group capital calculation filing;
+25 (iii) its non-United States group-wide supervisor is located within a
+26 reciprocal jurisdiction, as defined in K.S.A. 40-221a, and amendments
+27 thereto, that recognizes the United States regulatory approach to group
+28 supervision and group capital; and
+29 (iv) it is an insurance holding company system:
+30 (a) That provides information to the lead state that meets the
+31 requirements for accreditation under the NAIC financial standards and
+32 accreditation program, either directly or indirectly through the group-wide
+33 supervisor, who has determined that such information is satisfactory to
+34 allow the lead state to comply with the NAIC group supervision approach,
+35 as detailed in the NAIC financial analysis handbook; and
+36 (b) whose non-United States group-wide supervisor who is not in a
+37 reciprocal jurisdiction recognizes and accepts, as specified by the
+38 commissioner in rules and regulations, the group capital calculation as
+39 the worldwide group capital assessment for United States insurance
+40 groups that operate in that jurisdiction.
+41 (B) Notwithstanding the provisions of K.S.A. 40-3305, and
+42 amendments thereto, a lead state commissioner shall require the group
+43 capital calculation for the United States operations of any non-United
+
+HB 2128 11
+1 States based insurance holding company system if, after any necessary
+2 consultation with other supervisors or officials, it is deemed appropriate
+3 by the lead state commissioner for prudential oversight and solvency
+4 monitoring purposes or for ensuring the competitiveness of the insurance
+5 marketplace.
+6 (C) Notwithstanding the exemptions from filing the group capital
+7 calculation stated in K.S.A. 40-3305, and amendments thereto, the lead
+8 state commissioner has the discretion to exempt the ultimate controlling
+9 person from filing the annual group capital calculation or to accept a
+10 limited group capital filing or report in accordance with criteria specified
+11 by the commissioner in regulation.
+12 (D) If the lead state commissioner determines that an insurance
+13 holding company system no longer meets one or more of the requirements
+14 for an exemption from filing the group capital calculation under this
+15 section, the insurance holding company system shall file the group capital
+16 calculation at the next annual filing date unless given an extension by the
+17 lead state commissioner based on reasonable grounds shown.
+18 (E) The ultimate controlling person of every insurer subject to
+19 registration and also scoped into the NAIC liquidity stress test framework
+20 shall file the results of a specific year's liquidity stress test. The filing shall
+21 be made to the lead state insurance commissioner of the insurance holding
+22 company system as determined by the procedures within the financial
+23 analysis handbook and that:
+24 (i) The NAIC liquidity stress test framework includes scope criteria
+25 applicable to a specific data year. These scope criteria are reviewed at
+26 least annually by the financial stability task force or its successor. Any
+27 change to the NAIC liquidity stress test framework or to the data year for
+28 which the scope criteria are to be measured shall be effective on January
+29 1 of the year following the calendar year in which such changes are
+30 adopted. Insurers meeting at least one threshold of the scope criteria are
+31 considered scoped into the NAIC liquidity stress test framework for the
+32 specified data year, unless the lead state insurance commissioner, in
+33 consultation with the NAIC financial stability task force or its successor,
+34 determines that such insurer should not be scoped into the framework for
+35 that data year. Similarly, insurers that do not trigger at least one threshold
+36 of the scope criteria are considered scoped out of the NAIC liquidity stress
+37 test framework for the specified data year, unless the lead state insurance
+38 commissioner, in consultation with the NAIC financial stability task force
+39 or its successor, determines that the insurer should be scoped into the
+40 framework for that data year.
+41 (ii) The lead state insurance commissioner, in consultation with the
+42 financial stability task force or its successor, shall assess the concerns of
+43 regulators that wish to avoid having insurers scoped in and out of the
+
+HB 2128 12
+1 NAIC liquidity stress test framework on a frequent basis as part of the
+2 determination for an insurer.
+3 (F) The performance and filing of the results of a specific year's
+4 liquidity stress test shall comply with the NAIC liquidity stress test
+5 framework instructions and reporting templates for that year and any lead
+6 state insurance commissioner determinations, in consultation with the
+7 financial stability task force or its successor, provided within the
+8 framework.
+9 (m) The failure of an insurer or an ultimate controlling person of the
+10 insurer to file a registration statement, any summary of the registration
+11 statement or enterprise risk filing within the specified time for filing shall
+12 be a violation by the insurer or by the ultimate controlling person of the
+13 insurer, as applicable.
+14 Sec. 6. K.S.A. 40-3306 is hereby amended to read as follows: 40-
+15 3306. (a) Material Transactions by registered insurers with their affiliates
+16 shall be subject to the following standards:
+17 (1) The terms shall be fair and reasonable;
+18 (2) agreements for cost-sharing services and management shall
+19 include such provisions as required by rules and regulations adopted by the
+20 commissioner of insurance;
+21 (3) the charges or fees for services performed shall be reasonable;
+22 (4) expenses incurred and payment received with respect to such
+23 transactions shall be allocated to the insurer in conformity with the
+24 requirements of K.S.A. 40-225, and amendments thereto;
+25 (5) the books, accounts and records of each party to all such
+26 transactions shall be so maintained as to clearly and accurately disclose the
+27 nature and details of the transactions including such accounting
+28 information necessary to support the reasonableness of the charges or fees
+29 to the respective parties; and
+30 (6) the insurer's surplus as regards policyholders following any
+31 transactions, dividends or distributions to shareholder affiliates shall be
+32 reasonable in relation to the insurer's outstanding liabilities and adequate
+33 to its financial needs.
+34 (b) (1) If an insurer subject to this act is deemed by the commissioner
+35 of insurance to be in a hazardous financial condition as defined by K.S.A.
+36 40-222d, and amendments thereto, or a condition that would be grounds
+37 for supervision, conservation or a delinquency proceeding, then the
+38 commissioner may require the insurer to secure and maintain either a
+39 deposit, held by the commissioner, or a bond, as determined by the insurer
+40 at the insurer's discretion, for the protection of the insurer for the duration
+41 of the contract or agreement or the existence of the condition for which the
+42 commissioner required the deposit or the bond.
+43 (2) In determining whether a deposit or a bond is required, the
+
+HB 2128 13
+1 commissioner shall consider whether concerns exist with respect to the
+2 affiliated person's ability to fulfill the contract or agreement if the insurer
+3 were to be put into liquidation. Once the insurer is deemed to be in a
+4 hazardous financial condition or a condition that would be grounds for
+5 supervision, conservation or a delinquency proceeding and a deposit or
+6 bond is necessary, the commissioner shall have the discretion to
+7 determine the amount of the deposit or bond, not to exceed the value of the
+8 contract or agreement in any one year, and whether such deposit or bond
+9 should be required for a single contract, multiple contracts or a contract
+10 only with a specific person;
+11 (c) All records and data of the insurer held by an affiliate are and
+12 shall remain the property of the insurer, are subject to control of the
+13 insurer, are identifiable and are segregated or readily capable of
+14 segregation, at no additional cost to the insurer from all other persons'
+15 records and data. All records and data that are otherwise the property of
+16 the insurer, in whatever form maintained, including, but not limited to,
+17 claims and claim files, policyholder lists, application files, litigation files,
+18 premium records, rate books, underwriting manuals, personnel records,
+19 financial records or similar records within the possession, custody or
+20 control of the affiliate shall remain the property of the insurer. At the
+21 request of the insurer, the affiliate shall provide that the receiver may
+22 obtain a complete set of all records of any type that pertain to the insurer's
+23 business, obtain access to the operating systems upon which the data is
+24 maintained, obtain the software that runs those systems either through
+25 assumption of licensing agreements or otherwise and restrict the use of the
+26 data by the affiliate if it is not operating the insurer's business. The
+27 affiliate shall provide a waiver of any landlord lien or other encumbrance
+28 to provide the insurer with access to all records and data in the event of
+29 the affiliate's default under a lease or other agreement; and
+30 (d) Premiums or other funds belonging to the insurer that are
+31 collected or held by an affiliate shall be deemed the exclusive property of
+32 and subject to the control of such insurer. Any right of offset in the event
+33 that an insurer is placed into receivership shall be subject to K.S.A. 40-
+34 3605 et seq., and amendments thereto.
+35 (b)(e) The following transactions involving a domestic insurer and
+36 any person in such insurer's insurance holding company system, including
+37 amendments or modifications of affiliate agreements previously filed
+38 pursuant to this section, may not be entered into unless the insurer has
+39 notified the commissioner of insurance in writing of such insurer's
+40 intention to enter into such transaction at least 30 days prior thereto, or
+41 such shorter period as the commissioner of insurance may permit, and the
+42 commissioner of insurance has not disapproved such transaction within
+43 such period.
+
+HB 2128 14
+1 (1) Sales, purchases, exchanges, loans or extensions of credit,
+2 guarantees or investments provided such transactions are equal to or
+3 exceed:
+4 (A) With respect to nonlife insurers, the lesser of 3% of the insurer's
+5 admitted assets or 25% of surplus as regards policyholders; or
+6 (B) with respect to life insurers, 3% of the insurer's admitted assets,
+7 each as of December 31 immediately preceding.
+8 (2) Loans or extensions of credit to any person who is not an affiliate,
+9 where if the insurer makes such loans or extensions of credit with the
+10 agreement or understanding that the proceeds of such transactions, in
+11 whole or in substantial part, are to be used to make loans or extensions of
+12 credit to, purchase assets of, or make investments in, any affiliate of the
+13 insurer making such loans or extensions of credit provided if such
+14 transactions are equal to or exceed:
+15 (A) With respect to nonlife insurers, the lesser of 3% of the insurer's
+16 admitted assets or 25% of surplus as regards policyholders;
+17 (B) with respect to life insurers, 3% of the insurer's admitted assets,
+18 each as of December 31 immediately preceding.
+19 (3) Reinsurance agreements or modifications thereto, including:
+20 (A) All reinsurance pooling agreements; and
+21 (B) agreements in which the reinsurance premium or a change in the
+22 insurer's liabilities, or the projected reinsurance premium or a projected
+23 change in the insurer's liabilities in any of the next three consecutive years
+24 equals or exceeds 5% of the insurer's surplus as regards policyholders, as
+25 of December 31 immediately preceding, including those agreements which
+26 that may require as consideration the transfer of assets from an insurer to a
+27 nonaffiliate, if an agreement or understanding exists between the insurer
+28 and nonaffiliate that any portion of such assets will be transferred to one or
+29 more affiliates of the insurer;
+30 (4) all management agreements, service contracts, tax allocation
+31 agreements and all cost-sharing arrangements; and
+32 (5) any material transactions, specified by rules and regulations,
+33 which that the commissioner of insurance determines may adversely affect
+34 the interests of an insurer's policyholders.
+35 Nothing herein contained in this subsection shall be deemed to
+36 authorize or permit any transactions which, that in the case of an insurer
+37 not a member of the same insurance holding company system, would be
+38 otherwise contrary to law.
+39 (c)(f) A domestic insurer may shall not enter into transactions which
+40 that are part of a plan or series of like transactions with persons within the
+41 insurance holding company system if the purpose of those separate
+42 transactions is to avoid the threshold amount required under this section
+43 and thus avoid the review that would occur otherwise. If the commissioner
+
+HB 2128 15
+1 of insurance determines that such separate transactions were entered into
+2 over any 12-month period for such purpose, the commissioner of insurance
+3 may exercise authority under K.S.A. 40-3311, and amendments thereto.
+4 (d)(g) The commissioner of insurance, in reviewing transactions
+5 pursuant to subsection (b)(e), shall consider whether the transactions
+6 comply with the standards set forth in subsection (a), and whether such
+7 transactions may adversely affect the interests of policyholders.
+8 (e)(h) The commissioner of insurance shall be notified within 30 days
+9 of any investment of the domestic insurer in any one corporation if the
+10 total investment in such corporation by the insurance holding company
+11 system exceeds 10% of such corporation's voting securities.
+12 (f)(i) A transaction subject to approval by the commissioner of
+13 insurance pursuant to K.S.A. 40-3304, and amendments thereto, shall not
+14 be subject to the requirements of this section.
+15 (g)(j) (1) No insurer subject to registration under K.S.A. 40-3305, and
+16 amendments thereto, shall pay any extraordinary dividend or make any
+17 other extraordinary distribution to such insurer's shareholders until:
+18 (A) 30 days after the commissioner of insurance has received notice
+19 of the declaration thereof and has not within such period disapproved such
+20 payment; or
+21 (B) the commissioner of insurance has approved such payment within
+22 such 30-day period.
+23 (2) (A) For purposes of this section, an extraordinary dividend or
+24 distribution includes any dividend or distribution of cash or other property,
+25 the fair market value of which, together with that of other dividends or
+26 distributions made within the preceding 12 months, exceeds the greater of:
+27 (i) 10% of such insurer's surplus as regards policyholders as of
+28 December 31 immediately preceding; or
+29 (ii) the net gain from operations of such insurer, if such insurer is a
+30 life insurer, or the net income, if such insurer is not a life insurer, not
+31 including realized capital gains for the 12-month period ending December
+32 31 immediately next preceding, but shall not include pro rata distributions
+33 of any class of the insurer's own securities.
+34 (B) In determining whether a dividend or distribution is
+35 extraordinary, an insurer, other than a life insurer, may carry forward net
+36 income from the previous two calendar years that has not already been
+37 paid out as dividends. This carry-forward carryforward shall be computed
+38 by taking the net income from the second and third preceding calendar
+39 years, not including realized capital gains, less dividends paid in the
+40 second and immediately preceding calendar years.
+41 (C) An extraordinary dividend or distribution shall also include any
+42 dividend or distribution made or paid out of any funds other than earned
+43 surplus arising from the insurer's business, as defined in K.S.A. 40-233,
+
+HB 2128 16
+1 and amendments thereto. The provisions of K.S.A. 40-233, and
+2 amendments thereto, shall not be construed so as to prohibit an insurer,
+3 subject to registration under K.S.A. 40-3305, and amendments thereto,
+4 from making or paying an extraordinary dividend or distribution in
+5 accordance with this section.
+6 (3) Notwithstanding any other provisions of law, an insurer may
+7 declare an extraordinary dividend or distribution which that is conditional
+8 upon the approval of the commissioner of insurance. No declaration shall
+9 confer any rights upon shareholders until:
+10 (A) The commissioner of insurance has approved the payment of
+11 such dividend or distribution; or
+12 (B) the commissioner of insurance has not disapproved such payment
+13 within the 30-day period referred to above.
+14 (h)(k) (1) Notwithstanding the control of a domestic insurer by any
+15 person, the officers and directors of the insurer shall not thereby be
+16 relieved of any obligation or liability to which they would otherwise be
+17 subject by law, and the insurer shall be managed so as to assure its separate
+18 operating identity consistent with this act.
+19 (2) Nothing herein shall preclude a domestic insurer from having or
+20 sharing a common management or cooperative or joint use of personnel,
+21 property or services with one or more other persons under arrangements
+22 meeting the standards of K.S.A. 40-3306, and amendments thereto.
+23 (i) For purposes of this act, in determining whether an insurer's
+24 surplus as regards policyholders is reasonable in relation to the insurer's
+25 outstanding liabilities and adequate to such insurer's financial needs, the
+26 following factors, among others, shall be considered:
+27 (1) The size of the insurer as measured by such insurer's assets,
+28 capital and surplus, reserves, premium writings, insurance in force and
+29 other appropriate criteria;
+30 (2) the extent to which the insurer's business is diversified among the
+31 several lines of insurance;
+32 (3) the number and size of risks insured in each line of business;
+33 (4) the extent of the geographical dispersion of the insurer's insured
+34 risks;
+35 (5) the nature and extent of the insurer's reinsurance program;
+36 (6) the quality, diversification and liquidity of the insurer's investment
+37 portfolio;
+38 (7) the recent past and projected future trend in the size and
+39 performance of the insurer's surplus as regards policyholders;
+40 (8) the surplus as regards policyholders maintained by other
+41 comparable insurers;
+42 (9) the adequacy of the insurer's reserves;
+43 (10) the quality and liquidity of investments in affiliates. The
+
+HB 2128 17
+1 commissioner of insurance may treat any such investment as a disallowed
+2 asset for purposes of determining the adequacy of surplus as regards
+3 policyholders whenever in the judgment of the commissioner of insurance
+4 such investment so warrants; and
+5 (11) the quality of the insurer's earnings and the extent to which the
+6 reported earnings include extraordinary items.
+7 Sec. 7. K.S.A. 40-3307 is hereby amended to read as follows: 40-
+8 3307. (a) Subject to the limitation contained in this section and in addition
+9 to the powers which that the commissioner of insurance has under K.S.A.
+10 40-222 and K.S.A. 40-222a, and amendments thereto, relating to the
+11 examination of insurers, the commissioner of insurance shall have the
+12 power to examine any insurer registered under K.S.A. 40-3305, and
+13 amendments thereto, and such insurer's affiliates to ascertain the financial
+14 condition, including enterprise risk, of such insurer including the
+15 enterprise risk to the insurer by the ultimate controlling party or by any
+16 entity or combination of entities within the insurance holding company
+17 system or by the insurance holding company system on a consolidated
+18 basis.
+19 (b) (1) The commissioner of insurance may order any insurer
+20 registered under K.S.A. 40-3305, and amendments thereto, to produce
+21 such records, books or other information in the possession of the insurer or
+22 its affiliates as are reasonably necessary to determine compliance with this
+23 act.
+24 (2) To determine compliance with this act, the commissioner of
+25 insurance may order any insurer registered under K.S.A. 40-3305, and
+26 amendments thereto, to produce information not in the possession of the
+27 insurer, if the insurer can obtain access to such information pursuant to
+28 contractual relationships, statutory obligations or another method. In the
+29 event that the insurer cannot obtain the information requested by the
+30 commissioner of insurance, the insurer shall provide the commissioner of
+31 insurance a detailed explanation of the reason that the insurer cannot
+32 obtain the information and the identity of the holder of information.
+33 Whenever it appears to the commissioner of insurance that the detailed
+34 explanation is without merit, the commissioner of insurance may require,
+35 after notice and hearing, the insurer to pay a penalty of not more than
+36 $1,000 for each day's delay, or may suspend or revoke the license of the
+37 insurer.
+38 (c) The commissioner of insurance may retain at the registered
+39 insurer's expense such attorneys, actuaries, accountants and other experts
+40 not otherwise a part of the staff of the commissioner of insurance as the
+41 commissioner of insurance shall determine to be reasonably necessary to
+42 assist in the conduct of the examination under subsection (a). Any persons
+43 so retained shall be under the direction and control of the commissioner of
+
+HB 2128 18
+1 insurance and shall act in a purely advisory capacity.
+2 (d) Each registered insurer producing examination records, books and
+3 papers pursuant to subsection (a) shall be liable for and shall pay the
+4 expense of such examination in accordance with K.S.A. 40-223 and
+5 K.S.A. 40-253, and amendments thereto.
+6 (e) The commissioner of insurance shall have the power to issue
+7 subpoenas, administer oaths and examine under oath any person for
+8 purposes of determining compliance with this section. Upon the failure or
+9 refusal of any person to obey a subpoena, the commissioner of insurance
+10 may petition a court of competent jurisdiction, and upon proper showing,
+11 the court may enter an order compelling the witness to appear and testify
+12 or produce documentary evidence. Failure to obey the court order shall be
+13 punishable as contempt of court. Every person subpoenaed shall be
+14 obliged to attend as a witness at the place specified in the subpoena, when
+15 subpoenaed, anywhere within the state. Such subpoenaed person shall be
+16 entitled to the same fees and mileage, if claimed, as a witness in K.S.A.
+17 28-125, and amendments thereto. Fees, mileage and actual expense, if any,
+18 necessarily incurred in securing the attendance and testimony of witnesses
+19 shall be itemized, charged against and paid by the company being
+20 examined.
+21 Sec. 8. K.S.A. 40-3308 is hereby amended to read as follows: 40-
+22 3308. (a) Documents, materials or other information obtained by or
+23 disclosed to the commissioner of insurance or any other person in the
+24 course of an examination or investigation made pursuant to K.S.A. 40-
+25 3307, and amendments thereto, and all information reported pursuant to
+26 K.S.A. 40-3304, 40-3305 and 40-3306, and amendments thereto, shall:
+27 (1) Be confidential and privileged;
+28 (2) not be subject to disclosure under the Kansas open records act,
+29 K.S.A. 45-215 et seq., and amendments thereto;
+30 (3) not be subject to subpoena; and
+31 (4) not be subject to discovery or admissible in evidence in any
+32 private civil action.
+33 (b) (1) The commissioner of insurance shall not otherwise make the
+34 documents, materials or other information public without the prior written
+35 consent of the insurer to which it pertains unless the commissioner of
+36 insurance, after giving the insurer and its affiliates who would be affected
+37 thereby notice and opportunity to be heard in accordance with the
+38 provisions of the Kansas administrative procedure act, determines that the
+39 interests of policyholders, shareholders or the public would be served by
+40 the publication thereof, in which event, the commissioner of insurance
+41 may publish all or any part thereof in such a manner as the commissioner
+42 of insurance may deem appropriate. In making such determination, the
+43 commissioner of insurance also shall take into consideration any potential
+
+HB 2128 19
+1 adverse consequences of the disclosure thereof.
+2 (2) For purposes of the information reported and provided to the
+3 commissioner pursuant to K.S.A. 40-3304 through 40-3307, and
+4 amendments thereto, the commissioner shall maintain the confidentiality
+5 of the:
+6 (A) Group capital calculation and group capital ratio produced
+7 within the calculation and any group capital information received from an
+8 insurance holding company supervised by the federal reserve board or any
+9 United States group-wide supervisor; and
+10 (B) liquidity stress test results and supporting disclosures and any
+11 liquidity stress test information received from an insurance holding
+12 company supervised by the federal reserve board and non-United States
+13 group-wide supervisors.
+14 (c) Neither the commissioner of insurance nor any person who
+15 received documents, materials or other information while acting under the
+16 authority of the commissioner of insurance or with whom such documents,
+17 materials or other information are shared pursuant to this section shall be
+18 permitted or required to testify in any private civil action concerning any
+19 confidential documents, materials or information subject to subsection (a).
+20 (d) In order to assist in the performance of the commissioner of
+21 insurance's duties, the commissioner of insurance:
+22 (1) May share documents, materials or other information, including
+23 the confidential and privileged documents, materials or information
+24 subject to subsection (a), with other state, federal and international
+25 regulatory agencies, with the national association of insurance
+26 commissioners and its affiliates and subsidiaries, and with state, federal
+27 and international law enforcement authorities, including members of any
+28 supervisory college described in K.S.A. 40-3316, and amendments thereto,
+29 provided that the recipient agrees in writing to maintain the confidentiality
+30 and privileged status of the document, material or other information, and
+31 has verified in writing the legal authority to maintain confidentiality;
+32 (2) notwithstanding the provisions of paragraph (1) above, the
+33 commissioner of insurance may only share confidential and privileged
+34 documents, material or information reported pursuant to subsection (1) of
+35 K.S.A. 40-3305, and amendments thereto, with the commissioner of
+36 insurance or corresponding official of any state having statutes or
+37 regulations substantially similar to subsections (a) and, (b) and (c), and
+38 who has agreed in writing not to not disclose such information;
+39 (3) may receive documents, materials or information, including
+40 otherwise confidential and privileged documents, materials or information
+41 from the national association of insurance commissioners, and its affiliates
+42 and subsidiaries, and from regulatory and law enforcement officials of
+43 other foreign or domestic jurisdictions, and shall maintain as confidential
+
+HB 2128 20
+1 or privileged any document, material or information received with notice
+2 or the understanding that it is confidential or privileged under the laws of
+3 the jurisdiction that is the source of the document, material or information.
+4 Documents received pursuant to this section shall not be subject to
+5 disclosure pursuant to the open records act, K.S.A. 45-215 et seq., and
+6 amendments thereto; and
+7 (4) shall enter into written agreements with the national association of
+8 insurance commissioners governing sharing and use of information
+9 provided pursuant to this act consistent with this subsection that shall:
+10 (i) Specify procedures and protocols regarding the confidentiality and
+11 security of information shared with the national association of insurance
+12 commissioners and its affiliates and subsidiaries pursuant to this act,
+13 including procedures and protocols for sharing by the national association
+14 of insurance commissioners with other state, federal or international
+15 regulators;
+16 (ii) specify that ownership of information shared with the national
+17 association of insurance commissioners and its affiliates and subsidiaries
+18 pursuant to this act remains with the commissioner of insurance, and that
+19 the national association of insurance commissioners' NAIC's use of the
+20 information is subject to the direction of the commissioner of insurance;
+21 (iii) exclude documents, material or information reported pursuant to
+22 K.S.A. 40-3305, and amendments thereto, and prohibit the NAIC and its
+23 affiliates and subsidiaries from storing the information shared pursuant to
+24 the insurance holding company act in a permanent database after the
+25 underlying analysis is completed;
+26 (iv) require prompt notice to be given to an insurer and its affiliates
+27 whose confidential information in the possession of the national
+28 association of insurance commissioners NAIC, pursuant to this act, is
+29 subject to a request or subpoena to the national association of insurance
+30 commissioners NAIC for disclosure or production; and
+31 (iv)(v) require the national association of insurance commissioners
+32 NAIC and its affiliates and subsidiaries to consent to intervention by an
+33 insurer in any judicial or administrative action in which the national
+34 association of insurance commissioners NAIC and its affiliates and
+35 subsidiaries may be required to disclose confidential information about the
+36 insurer and its affiliates that are shared with the national association of
+37 insurance commissioners NAIC and its affiliates and subsidiaries pursuant
+38 to this the insurance holding company act; and
+39 (vi) for documents, material or information reporting pursuant to
+40 K.S.A. 40-3305, and amendments thereto, in the case of an agreement
+41 involving a third-party consultant, provide for notification of the identity
+42 of the consultant to the applicable insurers.
+43 (e) The sharing of information by the commissioner of insurance,
+
+HB 2128 21
+1 pursuant to this act, shall not constitute a delegation of regulatory authority
+2 or rule-making rulemaking authority, and the commissioner of insurance is
+3 solely responsible for the administration, execution and enforcement of the
+4 provisions of this act.
+5 (f) No waiver of any applicable privilege or claim of confidentiality
+6 in the documents, materials or information shall occur as a result of
+7 disclosure to the commissioner of insurance under this act or as a result of
+8 sharing as authorized in subsection (d).
+9 (g) Documents, materials or other information in the possession or
+10 control of the national association of insurance commissioners shall be
+11 confidential by law and privileged, shall not be subject to the open records
+12 act, K.S.A. 45-215 et seq., and amendments thereto, shall not be subject to
+13 subpoena, and shall not be subject to discovery or admissible in evidence
+14 in any private civil action.
+15 (h) (1) The group capital calculation and resulting group capital
+16 ratio required under K.S.A. 40-3305, and amendments thereto, and the
+17 liquidity stress test along with its results and supporting disclosures
+18 required under K.S.A. 40-3305, and amendments thereto, shall be deemed
+19 regulatory tools for assessing group risks and capital adequacy and group
+20 liquidity risks, respectively, and shall not be construed as a means to rank
+21 insurers or insurance holding company systems.
+22 (2) Except as otherwise may be required under the provisions of the
+23 insurance holding company act, the making, publishing, disseminating,
+24 circulating, placing before the public or causing directly or indirectly to
+25 be made, published, disseminated, circulated or placed before the public
+26 in a newspaper, magazine or other publication, in the form of a notice,
+27 circular, pamphlet, letter or poster, broadcast by any radio or television
+28 station or by any electronic means of communication available to the
+29 public, or in any other way as an advertisement, announcement or
+30 statement containing a representation or statement with regard to the
+31 group capital calculation, group capital ratio, the liquidity stress test
+32 results, or supporting disclosures for the liquidity stress test of any insurer
+33 or any insurer group, or of any component derived in the calculation by
+34 any insurer, broker, or other person engaged in any manner in the
+35 insurance business could be misleading and is therefore prohibited.
+36 (3) If any materially false statement with respect to the group capital
+37 calculation, resulting group capital ratio, an inappropriate comparison of
+38 any amount to an insurer's or insurance group's group capital calculation
+39 or resulting group capital ratio, liquidity stress test result, supporting
+40 disclosures for the liquidity stress test or an inappropriate comparison of
+41 any amount to an insurer's or insurance group's liquidity stress test result
+42 or supporting disclosures is published in any written publication and the
+43 insurer is able to demonstrate to the commissioner with substantial proof
+
+HB 2128 22
+1 the falsity or inappropriateness of such statement, then the insurer may
+2 publish announcements in a written publication if the sole purpose of the
+3 announcement is to rebut the materially false statement.
+4 (i) The provisions of this section shall not be subject to the provisions
+5 of K.S.A. 45-229, and amendments thereto.
+6 Sec. 9. K.S.A. 40-249, 40-2c29, 40-2d01, 40-3302, 40-3305, 40-
+7 3306, 40-3307 and 40-3308 and K.S.A. 2024 Supp. 40-2c01 are hereby
+8 repealed.
+9 Sec. 10. This act shall take effect and be in force from and after its
+10 publication in the statute book.
+
+[DELETED: AN T cg i; rg to te rn tavtphan of ie cs hg cy srt031e3B4N5ad ae te vn of ie c, i6p7s8eh y, te cr sl ce sh at to b9p0(1b2t34, ad as t, ad gp cl c4i5S6f7(8a9a0(1s2r3(c i" ms ay ie cy or r4r5(]
+[DELETED: 8gbSa(" ms te nl an of ic(ua0o1(2l3K4m5i6(7n8"9s0(1(C i" ms te rd cl i2p3l4ae  u5p6(7r8c9(0t1(2a3(4ur te rd cl fa in ae wh te R5i6(7a8(9e0c1w2"3(]
+[DELETED: 8a((i((S2t0(1a2a3(4s5a6(7w8(9d0p1A2(" ms te nl an of i3c4(5l6al 7o8K9o0a1t, ad hs bn dd by te cr to r2p3s4i5i6K7s8K9(0(1m2e oy  a3ay  i]
+[DELETED: 8p(Rm(o(a(0ur te rd cl fa in ae wh te R1i2(3a4(5e6c7o8p9(021(2(3a4a5a6(7(8S930o1(2a3c4s5(r of i" or "" ms t6c7d8(9"0t1a2o3o]
+[DELETED: 8cavatcdat0(1o2r3f4c5w6l7a8a9c0a1(2f3b4a5(6c7p8(9to ee in cg ad cg ge s0a1K2c3(s 4a5(6fl bt s, hh me o, n7ml ad hl se c, nt dl s8c9o0l1p2(3h]
+[DELETED: 8(s an ir rd ur K. 4, aa(((Sg(i0t1a2(" N" ms te nl an of i3c4(5pt s e f s t 6r7s8t9r0f1a2a3(4a5a6(7f8m, 9p0s1(2a3o4t5(6b7(g s" ms ay sy ce io o8e9S031t2w3r]
+[DELETED: 8tctrp tsttst t r ur ts s t f a c of t0r1i2a3(4s5o6(7m8(9h0(1o2i3(4s5(6(7(8r9o0i1(2a3(4(5(6(7a8f9(y pe of te is s, ig sk of a0s1i2(3s]
+[DELETED: 8i naeartrw(0o1i2mn ad mr ce ge ad il c3p4(5b6(7ot t 8c9(0f1p2r3o4o5p6(7t8m9c0w1i2w3d4c5(6t7i8i9(0a1a2(3a]
+[DELETED: 8r( o mahim(tr0( o a1d2m3cy s. Te dr sl fy de al m4r5i6d7r w t m8i9o0s1w2o3(4p5e6p7i8i9o0i1p2a N3r4b5t6(7a8i9$0p1i2t3c]
+[DELETED: 81oapsal gp cl cn as dd by te ld scgcc0f1s2w3h4c5(6w7b8(9t0c1u2re bd ct se te cn wh te ld s3c4t5(6r7t8s9(0(t s e  se t s 1r2a3s4a5a6(7rl jn rs ad a, as sd by t8c9t0g1(g te ps of K. 4, a2a3c]
+[DELETED: 81Scbmm(csp0l1b2(3h4fp 5s6c7l8(r 9r0s1b2c3a4(5a6l7c8w910a1c2s3c4d5t6o7t8c9o0f1(2f3r]
+[DELETED: 81Nd(lfsfl sy tk fe or is s, pd wn tf(0i1s2b3i4S536s7(8(s fr cg ss ad mt s9i0c1(2(3t4r5(e  as a rs o eh  al 6t7ne ad ds of te ts ig sh a8i9t0(e is s s rs ps 1t2r3t4(5o647f8c9d0a1o2c3(]
+[DELETED: 81cawhsbd s n, te r  sl e te n dcs0o1(2s3i, ae ie ad ae sd or ry ce o4s5r6t7c8p9f0c1r2o3b4m5a6d7a8t9t0(1c2a3t435(6a7a8p9n0i1s2c3s]
+[DELETED: 81(, p, e, ls or es of cge(a(e(w0a1w2c3i p i s4t5(6a7(8e9(0(1(2i3c4e5o6t7n8a9m0(l 1a2( m t3w4t5N h c i ts s sl be d 6a7n8o9(0t1i2t3a]
+[DELETED: 81oom(p (ct(o0t1s2(3i4b5(6a7o8(9o0p1(2s3(4d5t6d7(8D9(0l1i233o4(n dg wr a dd or dn i5e6i7p8b9y0s1(2d3s]
+[DELETED: 81ad as t. Te ps of K. 4, aasfa(duc0(1s2(3w4(5p6r7s8o9(0s1p2m3(4s5o6f7(8c9o0(1s2(3(4r5(6(7p8(e rt pt ad pd fe td in te se a9p0(e ss as rs ps md by o1c2(3(e qy ad ly of is in a. T]
+[DELETED: 81caps(rS3t041e2p3a4c, ig ee r of sh i ig t5e6e7s8b9() (e cr of ie my or ay i0r1s2i3a4(5i6a7i8c9e t t0c1i2o3W4e5a6$7i8(9i0n1c2a3s]
+[DELETED: 81i(peK(spr0m1t2o3p4o5s6e728n9s0e1S233d4c536K7(8(9K0(1(2p3(4d5c6i7t8p9i0t t1m2o3c]
+[DELETED: 81a(cr pt to K. 44 th 4, aao(wiU0(1ls t 2c3g4(5r6a7m8p9c0(1i2(3te cl ad pd d, ms or i4st 5ry a w te nl an of i6c7a8s9p0a1h2(g te ps of ph ( a, t3c4d5K6ie or cg ol of ay se hg ss o7r8w9(y re d, ms or i, i0o1f2a3o]
+[DELETED: 82ootDda(ie cs gg sg ad ue of ip0(1s2c3i4o5r6(7a8p9t n u0i1(2K3a4t5u6(7we cl in in te pn of t n8a N9s0c1( n2N3i n4an of ie c N ad is as a5s6i7i8t9(0K1i2o3(]
+[DELETED: 82posp(ids(0c1c2a3s4i5( (6r7ld 8r9r0l1i2(3i4c5b6i7c8s9p0s1g2r3o4a5i6(7c8a9o0d1a2o3i]
+[DELETED: 82tpa(oS3rS0p]

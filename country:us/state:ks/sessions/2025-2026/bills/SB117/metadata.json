@@ -272,6 +272,7 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-24T23:29:35Z"
+    "logs_latest_update": "2025-10-24T23:29:35Z",
+    "text_extraction_latest_update": "2025-10-25T05:16:52.273819Z"
   }
 }

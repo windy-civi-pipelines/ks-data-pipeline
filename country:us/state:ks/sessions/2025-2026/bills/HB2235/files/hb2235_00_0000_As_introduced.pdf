@@ -1,0 +1,695 @@
+Session of 2025
+HOUSE BILL No. 2235
+By Committee on Financial Institutions and Pensions
+Requested by Representative Hoheisel
+2-4
+1 AN ACT concerning financial institutions; relating to the technology-
+2 enabled fiduciary financial institutions act; making the act part of the
+3 state banking code; defining certain terms; reducing the fiduciary
+4 financial institution charter application fee; providing due dates for
+5 reports to the office of the state bank commissioner; exempting
+6 fiduciary financial institutions from certain records retention
+7 requirements; authorizing the issuance of certificates and trust
+8 certificates; providing for the supervision of fiduciary financial
+9 institutions by the bank commissioner; including Kansas nonprofit
+10 corporations as qualified charities for purposes of the fiduciary
+11 financial institution income tax credit; amending K.S.A. 9-542, 9-2303,
+12 9-2307, 9-2309, 9-2310, 9-2311, 9-2312 and 9-2322 and K.S.A. 2024
+13 Supp. 9-2301 and 79-32,283 and repealing the existing sections.
+14
+15 Be it enacted by the Legislature of the State of Kansas:
+16 Section 1. K.S.A. 9-542 is hereby amended to read as follows: 9-542.
+17 Articles 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 and, 21 and 23
+18 of chapter 9 of the Kansas Statutes Annotated, and K.S.A. 74-3004, 74-
+19 3005, 74-3006, 75-1304, 75-1305 and, 75-1306, and 75-1308, and K.S.A.
+20 9-814, 9-815, 9-816, 9-1141, 9-1409, 9-1725, 9-1726, 9-1810, 9-1811, 9-
+21 1919, 9-1920, 9-1921 and 9-2019, and amendments thereto, shall
+22 constitute and may be cited as the state banking code.
+23 Sec. 2. K.S.A. 2024 Supp. 9-2301 is hereby amended to read as
+24 follows: 9-2301. (a) The provisions of K.S.A. 9-2301 through 9-2327, and
+25 amendments thereto, shall be known and may be cited as the technology-
+26 enabled fiduciary financial institutions act. The technology-enabled
+27 fiduciary financial institutions act shall be a part of and supplemental to
+28 chapter 9 of the Kansas Statutes Annotated, and amendments thereto.
+29 (b) For purposes of the technology-enabled fiduciary financial
+30 institutions act:
+31 (1) "Act" means the technology-enabled fiduciary financial
+32 institutions act;
+33 (2) "alternative asset" means professionally managed investment
+34 assets that are not publicly traded, including, but not limited to, private
+35 equity, venture capital, leveraged buyouts, special situations, structured
+
+HB 2235 2
+1 credit, private debt, private real estate funds and natural resources,
+2 including any economic or beneficial interest therein and any items that
+3 may be held by an alternative asset custody account;
+4 (3) "alternative asset custody account" means an account created by
+5 the owner of an alternative asset that designates a fiduciary financial
+6 institution as custodian or agent and into which the owner transfers,
+7 electronically or otherwise, content, materials, data, information,
+8 documents, reports and contracts in any form, including, without
+9 limitation, evidence of ownership, subscription agreements, private
+10 placement memoranda, limited partnership agreements, limited liability
+11 company agreements, stock agreements in companies and attendant
+12 documents (including investor questionnaire, side letters, regulatory
+13 filings, confidentiality agreements, legal opinions, capitalization tables,
+14 joinder agreements, business plans and offering memorandums),
+15 certificates, depositary receipts, currency, operating agreements, financial
+16 statements, annual and quarterly reports, capital account statements, tax
+17 statements, correspondence from the general partner, manager or
+18 investment advisor of the alternative asset, an investment contract as
+19 defined in K.S.A. 17-12a102(28)(E), and amendments thereto, any digital
+20 or hard copy representation of the foregoing, including smart contracts,
+21 and any digital asset as defined in K.S.A. 58-4802, and amendments
+22 thereto, controllable electronic record, controllable account or
+23 controllable payment intangible whether such information and evidence of
+24 ownership is in hard copy form or a representation of such information
+25 that ownership is stored in a computer readable format from which the
+26 custodian may create and issue a certificate to the beneficial owner;
+27 (4) "charitable beneficiaries" means one or more charities,
+28 contributions to which are allowable as a deduction pursuant to section
+29 170 of the federal internal revenue code that are designated as
+30 beneficiaries of a fidfin trust"certificate" means a certificate representing
+31 the beneficial ownership of a trust or an asset held in an alternative asset
+32 custody account that may be implemented by a digitization process,
+33 including a machine-based system in which a record of ownership and
+34 transactions is maintained with the use of distributed ledger technology,
+35 smart contracts, peer-to-peer networks or other technologies that can
+36 generate a digital replication of the certificate which digital replication
+37 may be divided by such machine-based system as necessary to represent
+38 one or more beneficial owners and which may be secured, accessed or
+39 transferred by means of private keys, electronic signatures or other
+40 analogues comprised of code, script or programming language. Each
+41 digital certificate or divided replication thereof, may, depending on its
+42 terms, constitute a digital asset as defined in K.S.A. 58-4802, and
+43 amendments thereto, a controllable electronic record, a controllable
+
+HB 2235 3
+1 account or a controllable payment intangible and to the extent involved in
+2 a transaction shall be subject to K.S.A. 84-1-301, and amendments thereto;
+3 (5) "controllable account" means an account as defined in K.S.A. 84-
+4 9-102(a)(2)(A) through (D), and amendments thereto, evidenced by a
+5 controllable electronic record that provides that the account debtor
+6 undertakes to pay the person who has control of the controllable
+7 electronic record;
+8 (6) "controllable electronic record" means a record as defined in
+9 K.S.A. 84-9-102(a)(69), and amendments thereto, stored in an electronic
+10 medium that may be subject to control by:
+11 (A) Giving a person:
+12 (i) Power to avail such person of substantially all the benefit from the
+13 electronic record; and
+14 (ii) exclusive power to:
+15 (a) Prevent others from availing themselves of substantially all the
+16 benefit from the electronic record; and
+17 (b) transfer control of the electronic record to another person or
+18 cause another person to obtain control of another controllable electronic
+19 record as a result of the transfer of the electronic record; and
+20 (B) enabling the person readily to identify in any way, including by
+21 name, identifying number, cryptographic key, office or account number, as
+22 having the powers specified in subparagraph (A).
+23 "Controllable electronic record" does not include a controllable
+24 account, a controllable payment intangible, a deposit account, an
+25 electronic copy of a record evidencing chattel paper, an electronic
+26 document of title, electronic money, investment property or a transferable
+27 record.
+28 (7) "controllable payment intangible" means a payment intangible as
+29 defined in K.S.A. 84-9-102(a)(61), and amendments thereto, evidenced by
+30 a controllable electronic record that provides that the account debtor
+31 undertakes to pay the person who has control of the controllable
+32 electronic record;
+33 (8) "custodial services" means the safekeeping and management of an
+34 alternative asset custody account, including the execution of customer
+35 instructions, serving as agent, issuing depositary receipts, fund
+36 administrative services and overall decision-making and management of
+37 the account by a fiduciary financial institution and "custodial services"
+38 shall be deemed to involve the exercise of fiduciary and trust powers;
+39 (6)(9) "director" means a person designated as a member of the board
+40 of directors pursuant to K.S.A. 9-2306, and amendments thereto;
+41 (7)(10) "economic growth zone" means an incorporated community
+42 with a population of not more than 5,000 people located within one of the
+43 following counties: Allen, Anderson, Barber, Bourbon, Brown, Chase,
+
+HB 2235 4
+1 Chautauqua, Cherokee, Cheyenne, Clark, Clay, Cloud, Coffey, Comanche,
+2 Decatur, Doniphan, Edwards, Elk, Ellsworth, Gove, Graham, Grant, Gray,
+3 Greeley, Greenwood, Hamilton, Harper, Harvey, Haskell, Hodgeman,
+4 Jackson, Jewell, Kearny, Kingman, Kiowa, Labette, Lane, Lincoln, Linn,
+5 Logan, Marion, Marshall, Meade, Mitchell, Montgomery, Morris, Morton,
+6 Nemaha, Neosho, Ness, Norton, Osborne, Ottawa, Pawnee, Phillips, Pratt,
+7 Rawlins, Republic, Rice, Rooks, Rush, Russell, Scott, Sheridan, Sherman,
+8 Smith, Stafford, Stanton, Stevens, Sumner, Trego, Thomas, Wabaunsee,
+9 Wallace, Washington, Wichita, Wilson or Woodson;
+10 (8)(11) "excluded fiduciary" means a fiduciary financial institution in
+11 its capacity as trustee of a fidfin trust, provided that a fiduciary financial
+12 institution shall only be deemed an "excluded fiduciary" to the extent the
+13 fiduciary financial institution is excluded from exercising certain powers
+14 under the instrument that may be exercised by the trust advisor or other
+15 persons designated in the instrument;
+16 (9)(12) "fidfin," "fidfin services" or "fidfin transactions" means the
+17 financing of a fidfin trust or the acquisition of alternative assets on behalf
+18 of and through a fidfin trust, or both, as provided in K.S.A. 9-2311, and
+19 amendments thereto, including loans, extensions of credit and direct
+20 investments;
+21 (10)(13) "fidfin trust" means a trust created to facilitate the delivery
+22 of fidfin services by a fiduciary financial institution;
+23 (11)(14) "fiduciary" means a trustee, a trust advisor or a custodian of
+24 an alternative asset custody account appointed under an instrument that is
+25 acting in a fiduciary capacity for any person, trust or estate;
+26 (12)(15) "instrument" means any document creating a fidfin trust or
+27 alternative asset custody account;
+28 (13)(16) "officer" means a person who participates or has authority to
+29 participate, other than in the capacity of a director, in major policymaking
+30 functions of a bank, trust company or fiduciary financial institution,
+31 whether or not the officer has an official title or if the officer is serving
+32 without salary or other compensation. "Officer" includes the chairperson
+33 of the board, president, vice president, cashier, secretary and treasurer of a
+34 bank, trust company or fiduciary financial institution;
+35 (14)(17) "organizer" means a person who filed the fiduciary financial
+36 institution formation documents;
+37 (15)(18) "out-of-state bank" means a national or state bank, savings
+38 and loan association or savings bank not incorporated under the laws of
+39 Kansas;
+40 (16)(19) "out-of-state financial institution" means an out-of-state
+41 bank or an out-of-state trust company;
+42 (17)(20) "out-of-state trust company" means a national or state trust
+43 company not incorporated under the laws of Kansas;
+
+HB 2235 5
+1 (18)(21) "qualified charities" means the same as defined in K.S.A.
+2 79-32,283, and amendments thereto;
+3 (22) (A) "qualified investment" means the purchase or development,
+4 in the aggregate, of at least 10,000 square feet of commercial, industrial,
+5 multiuse or multifamily real estate in the economic growth zone where the
+6 fiduciary financial institution maintains its principal office pursuant to
+7 K.S.A. 9-2309, and amendments thereto, provided that such community
+8 has committed to develop the necessary infrastructure to support a
+9 "qualified investment." A "qualified investment":
+10 (i) May include, as part of satisfying the square footage requirements,
+11 the suitable office space of such fiduciary financial institution, as provided
+12 in K.S.A. 9-2309, and amendments thereto, if owned by the fiduciary
+13 financial institution;
+14 (ii) shall be exempt from the provisions and limitations of K.S.A. 9-
+15 1102, and amendments thereto;
+16 (iii) may be retained by a fiduciary financial institution for as long as
+17 the fiduciary financial institution operates in this state; and
+18 (iv) may be sold, transferred or otherwise disposed of, including a
+19 sale or transfer to an affiliate of the fiduciary financial institution, if the
+20 fiduciary financial institution continues to maintain its principal office in
+21 an economic growth zone pursuant to K.S.A. 9-2309, and amendments
+22 thereto;
+23 (B) notwithstanding the foregoing provisions, if a fiduciary financial
+24 institution leases any portion of a qualified investment made by another
+25 fiduciary financial institution as the lessee fiduciary financial institution's
+26 suitable office space:
+27 (i) The lessee fiduciary financial institution shall make, or cause to be
+28 made, a qualified investment in an economic growth zone other than the
+29 economic growth zone where such fiduciary financial institution maintains
+30 its principal office;
+31 (ii) the leased square footage shall count toward the square footage
+32 requirement applicable to a qualified investment under this section, if such
+33 lease has an initial term of not less than five years; and
+34 (iii) the square footage requirement otherwise applicable to a
+35 qualified investment of the lessee fiduciary financial institution shall be
+36 reduced from 10,000 square feet to 5,000 square feet;
+37 (19)(23) "technology-enabled fiduciary financial institution" or
+38 "fiduciary financial institution" means any limited liability company,
+39 limited partnership or corporation that:
+40 (A) Is organized to perform any one or more of the activities and
+41 services authorized by this act;
+42 (B) has been authorized to conduct business as a fiduciary financial
+43 institution under this chapter pursuant to the provisions of K.S.A. 9-2302,
+
+HB 2235 6
+1 and amendments thereto;
+2 (C) has made, committed to make or caused to be made a qualified
+3 investment; and
+4 (D) has committed, in or as a part of the application provided in
+5 K.S.A. 9-2302, and amendments thereto, to conduct any fidfin transactions
+6 in accordance with K.S.A. 9-2311, and amendments thereto, including the
+7 distributions required therein;
+8 (20)(24) "trust" means a trust created pursuant to the Kansas uniform
+9 trust code, K.S.A. 58a-101 et seq., and amendments thereto, or a trust
+10 created or otherwise authorized to transact business pursuant to the
+11 Kansas business trust act of 1961, K.S.A. 17-2707 et seq. 17-2030, and
+12 amendments thereto, the beneficial ownership of which may be
+13 represented by a trust certificate;
+14 (21)(25) "trust advisor" means a fiduciary granted authority by an
+15 instrument to exercise, consent, direct, including the power to direct as
+16 provided in K.S.A. 58a-808, and amendments thereto, or approve all or
+17 any portion of the powers and discretion conferred upon the trustee of a
+18 fidfin trust, including the power to invest the assets of a fidfin trust or
+19 make or cause distributions to be made from such fidfin trust; and
+20 (22)(26) the definitions of K.S.A. 9-701, and amendments thereto,
+21 apply to fiduciary financial institutions except as otherwise provided in
+22 this act.
+23 Sec. 3. K.S.A. 9-2303 is hereby amended to read as follows: 9-2303.
+24 (a) An application for a fiduciary financial institution charter shall include
+25 a nonrefundable fee to be remitted in a manner prescribed by the
+26 commissioner. Until July 1, 2025, the application fee shall be $250,000.
+27 On and after July 1, 2025, the application fee shall be $100,000 $50,000.
+28 The expense of every annual regular fiduciary financial institution
+29 examination, together with the expense of administering fiduciary
+30 financial institution laws, including salaries, travel expenses, third-party
+31 fees for consultants or other entities necessary to assist the commissioner,
+32 supplies and equipment, shall be paid by the fiduciary financial institutions
+33 of this state. Prior to the beginning of each fiscal year, the commissioner
+34 shall make an estimate of the fiduciary financial institution expenses to be
+35 incurred by the office of the state bank commissioner during such fiscal
+36 year in an amount not less than $1,000,000. The commissioner shall
+37 allocate and assess each fiduciary financial institution in this state on the
+38 basis of such fiduciary financial institution's total fidfin transaction
+39 balances, consisting of the aggregate fidfin financing balances of the
+40 fiduciary financial institution reflected in the last December 31 report filed
+41 with the commissioner pursuant to K.S.A. 9-1704, and amendments
+42 thereto. If a fiduciary financial institution has no fidfin transaction
+43 balances, but such fiduciary financial institution is otherwise providing
+
+HB 2235 7
+1 custodial services or trust services, the commissioner shall allocate and
+2 assess such fiduciary financial institution in a manner the commissioner
+3 deems reasonable and appropriate. A fiduciary financial institution that has
+4 no fidfin transaction balances and no alternative asset custody accounts
+5 reflected in the last December 31 report filed with the commissioner may
+6 be granted inactive status by the commissioner. The annual assessment
+7 shall not exceed $10,000 for such an inactive fiduciary financial
+8 institution. The annual fee shall be first assessed for the year immediately
+9 following the year the fiduciary financial institution received authority to
+10 engage in fidfin transactions, custodial services and trust business and for
+11 each year thereafter.
+12 (b) (1) A statement of each assessment made under the provisions of
+13 subsection (a) shall be sent by the commissioner on July 1 or the next
+14 business day thereafter to each fiduciary financial institution. When the
+15 commissioner issues such a statement, payment shall be made within 15
+16 business days after the date the statement was sent in a manner prescribed
+17 by the commissioner, which may include such installment periods as the
+18 commissioner deems appropriate but not more frequently than monthly.
+19 (2) The commissioner shall remit all moneys received from such fees
+20 and assessments to the state treasurer in accordance with the provisions of
+21 K.S.A. 75-4215, and amendments thereto. Upon receipt of each such
+22 remittance, the state treasurer shall deposit the entire amount in the state
+23 treasury and credit 75% of each remittance to the bank commissioner fee
+24 fund and 25% to the technology-enabled fiduciary financial institutions
+25 development and expansion fund established in K.S.A. 9-2324, and
+26 amendments thereto.
+27 Sec. 4. K.S.A. 9-2307 is hereby amended to read as follows: 9-2307.
+28 (a) A fiduciary financial institution shall make a report to the
+29 commissioner pursuant to the provisions of K.S.A. 9-1704, and
+30 amendments thereto, except that such report required by K.S.A. 9-1704(b),
+31 and amendments thereto, shall not be due until March 1 of each year. All
+32 other financial reports of a fiduciary financial institution shall be due not
+33 earlier than 60 days after the request for such report is made by the
+34 commissioner. In making such a report, a fiduciary financial institution
+35 shall:
+36 (1) Report the fiduciary financial institution's fidfin transactions
+37 pursuant to generally accepted accounting principles; and
+38 (2) calculate such fiduciary financial institution's capital solvency by
+39 including the value of all tangible and intangible assets owned by the
+40 fiduciary financial institution, regardless of use.
+41 (b) In regulating, supervising and examining a fiduciary financial
+42 institution, the state banking board and the commissioner shall:
+43 (1) Consider that the collateral or underlying assets associated with
+
+HB 2235 8
+1 fidfin transactions are volatile in nature and that such volatility has been
+2 accepted by the members and customers of the fiduciary financial
+3 institution;
+4 (2) respect the form, treatment and character of fidfin transactions
+5 under the laws of this state notwithstanding the treatment or
+6 characterization of such transactions under generally accepted accounting
+7 principles or for tax purposes;
+8 (3) evaluate whether available capital, including the agreement of a
+9 fiduciary financial institution's members to contribute capital pursuant to
+10 K.S.A. 9-2305, and amendments thereto, exceeds the fiduciary financial
+11 institution's obligations, determined in accordance with generally accepted
+12 accounting principles;
+13 (4) evaluate the background and qualifications of a fiduciary financial
+14 institution's executive officers and directors, the internal controls and audit
+15 processes enacted by the fiduciary financial institution and adherence to its
+16 policies and procedures;
+17 (5) evaluate the profitability of a fiduciary financial institution in
+18 accordance with subsection (c);
+19 (6) evaluate a fiduciary financial institution's compliance with
+20 applicable state and federal laws; and
+21 (7) evaluate a fiduciary financial institution's information technology
+22 systems, policies and practices.
+23 (c) Profitability shall not be a consideration in evaluating a fiduciary
+24 financial institution if sufficient capital and equity exist in the business,
+25 including, without limitation, membership capital, surplus, undivided
+26 profits and commitments by members to contribute additional capital to
+27 the fiduciary financial institution pursuant to K.S.A. 9-2305, and
+28 amendments thereto, to satisfy the fiduciary financial institution's
+29 obligations.
+30 (d) The provisions of K.S.A. 9-1130(b), and amendments thereto, and
+31 K.A.R. 17-12-2 shall not apply to a fiduciary financial institution.
+32 Sec. 5. K.S.A. 9-2309 is hereby amended to read as follows: 9-2309.
+33 (a) A fiduciary financial institution shall:
+34 (1) Maintain suitable office space in an economic growth zone, as
+35 defined in K.S.A. 9-2301, and amendments thereto, for fidfin transactions,
+36 custodial services and trust business and for the storage of, and access to,
+37 fiduciary financial institution records;
+38 (2) employ, engage or contract with at least three employees to
+39 provide services for the fiduciary financial institution in Kansas related to
+40 the powers of the fiduciary financial institution and to facilitate the
+41 examinations required by this act; and
+42 (3) perform fidfin transactions, custodial services and trust business
+43 in Kansas, and a fiduciary financial institution may also engage in fidfin
+
+HB 2235 9
+1 transactions, custodial services and trust business in other states to the
+2 extent permitted by applicable law.
+3 (b) As used in this section, the term "suitable office space" means at
+4 least 2,000 square feet of class A office space located in an economic
+5 growth zone selected by the fiduciary financial institution that the
+6 fiduciary financial institution utilizes as such fiduciary financial
+7 institution's principal office.
+8 (c) The fiduciary financial institution's principal office shall:
+9 (1) Be in premises distinct and divided from the office space of any
+10 other entity;
+11 (2) be located in an economic growth zone selected by the fiduciary
+12 financial institution;
+13 (3) have the name, charter and certificate of authority of the fiduciary
+14 financial institution prominently displayed;
+15 (4) have access to premises in or adjacent to the office space
+16 sufficient to facilitate on-site examinations and supervision by the state
+17 banking board or commissioner;
+18 (5) to the extent the fiduciary financial institution maintains hard
+19 copies of any documents required to be maintained under this chapter,
+20 have a secure fireproof file cabinet that contains all such hard copies; and
+21 (6) to the extent the fiduciary financial institution maintains any
+22 record electronically, have a secure computer terminal or other secure
+23 electronic device that provides access to such records, including account
+24 information, as necessary to facilitate an efficient and effective
+25 examination.
+26 (d) Fidfin transactions, custodial services and trust business is
+27 deemed to have been performed in Kansas for purposes of this section if
+28 fidfin transaction or custodial service agreements are approved or signed
+29 in this state on behalf of the fiduciary financial institution and at least three
+30 of the following acts are performed by a technology platform wholly or
+31 partly operated in this state:
+32 (1) Annual account reviews;
+33 (2) annual investment reviews;
+34 (3) trust or custodial accounting;
+35 (4) account correspondence;
+36 (5) reviewing and signing trust account or custodial account tax
+37 returns; or
+38 (6) distributing account statements.
+39 Sec. 6. K.S.A. 9-2310 is hereby amended to read as follows: 9-2310.
+40 Any fiduciary financial institution is hereby authorized to exercise by its
+41 board of directors or duly authorized officers or agents, subject to law, the
+42 following powers:
+43 (a) To engage in fidfin transactions in accordance with K.S.A. 9-
+
+HB 2235 10
+1 2311, and amendments thereto;
+2 (b) to receive, retain and manage alternative asset custody accounts in
+3 accordance with K.S.A. 9-2313, and amendments thereto, and to issue
+4 certificates associated with such accounts or the underlying alternative
+5 assets; and
+6 (c) to engage in trust business as defined in K.S.A. 9-701, and
+7 amendments thereto, as incidental to the activities in subsections (a) and
+8 (b), including, as trustee, issuing trust certificates on behalf of a trust.
+9 Sec. 7. K.S.A. 9-2311 is hereby amended to read as follows: 9-2311.
+10 (a) If authorized by the terms of an instrument as such term is defined in
+11 K.S.A. 9-2301, and amendments thereto, a fiduciary financial institution
+12 may:
+13 (1) Extend financing, such as through loans or extensions of credit to
+14 a fidfin trust when:
+15 (A) The fiduciary financial institution serves as trustee of the
+16 borrowing fidfin trust;
+17 (B) the financing is collateralized or supported by the assets of such
+18 fidfin trust;
+19 (C) the financing is nonrecourse as to the fiduciary financial
+20 institution's customer and is not otherwise guaranteed by such customer;
+21 (D) the fiduciary financial institution agrees, in the applicable
+22 financing agreement or other written document, that the fiduciary financial
+23 institution is providing financing in a fiduciary capacity; and
+24 (E) the fiduciary financial institution agrees that such fiduciary
+25 financial institution will manage the collateral or assets underlying the
+26 financing in a fiduciary capacity; and
+27 (2) acquire or invest in an alternative asset on behalf of and through a
+28 fidfin trust; and
+29 (3) undertake such actions with regard to a trust as defined in K.S.A.
+30 9-2301, and amendments thereto.
+31 (b) The financing of a fidfin trust pursuant to subsection (a)(1) and
+32 (a)(2) shall be considered a fiduciary finance or fidfin transaction.
+33 (c) If authorized or directed by the terms of an instrument, no
+34 fiduciary financial institution shall be deemed to have a conflict of interest,
+35 to have violated a duty to a fidfin trust or the beneficiaries thereof or to
+36 have engaged in self-dealing by entering into a fidfin transaction.
+37 (d) The combination rules provisions of K.S.A. 9-1104(f), and
+38 amendments thereto, shall be inapplicable to a fiduciary financial
+39 institution's fidfin transactions regardless of the identity of the fidfin trust
+40 beneficiary if:
+41 (1) The borrower is a fidfin trust; and
+42 (2) the fiduciary financial institution serves as trustee of the
+43 borrowing fidfin trust.
+
+HB 2235 11
+1 (e) A fiduciary financial institution that engages in a fidfin transaction
+2 shall be a fiduciary. Subject to the duties and standards of utmost care and
+3 loyalty that are associated with serving as a fiduciary, a fiduciary financial
+4 institution shall be deemed to be exercising fiduciary powers. All income
+5 generated by such fidfin transactions, including interest and investment
+6 income, shall be deemed to be income derived from the exercise of such
+7 fiduciary powers.
+8 (f) A fiduciary financial institution that engages in fidfin transactions
+9 shall distribute, cause to be distributed or otherwise facilitate the
+10 distribution of the required distribution amount as provided by this section.
+11 For purposes of this section, "required distribution amount" means cash,
+12 beneficial interests or other assets with a value equal to 2.5% of such
+13 fiduciary financial institution's fidfin transactions originated during the
+14 calendar year. Such transactions shall exclude any renewals, extensions of
+15 credit or accruals associated with transactions made in a prior calendar
+16 year, less any credit available to such fiduciary financial institution
+17 pursuant to K.S.A. 9-2302, and amendments thereto. The required
+18 distribution amount shall be distributed as follows:
+19 (1) (A) To the department of commerce:
+20 Required distribution amount Percentage to department of commerce
+21 $0 to $500,000 90%
+22 $500,001 to $1,000,000 50%
+23 Above $1,000,000 10%
+24 (B) the amounts specified in subparagraph (A) shall apply to
+25 fiduciary financial institutions chartered prior to January 1, 2023. For
+26 fiduciary financial institutions chartered after such date, the department of
+27 commerce may publish one or more schedules in the Kansas register as the
+28 department of commerce deems reasonably necessary to facilitate
+29 economic growth and development in one or more economic growth
+30 zones. No such schedule shall be effective until after its publication in the
+31 Kansas register. The department of commerce shall timely submit any
+32 schedule published under this section to the commissioner. The
+33 commissioner shall provide a copy of such schedule to any applicant for a
+34 fiduciary financial institution charter prior to the issuance of such charter.
+35 A fiduciary financial institution shall be subject to the schedule in
+36 existence on the date such fiduciary financial institution's charter is issued
+37 and shall not be subject to any schedules published after such date; and
+38 (C) the department of commerce shall remit all distributions under
+39 this subsection to the state treasurer in accordance with the provisions of
+40 K.S.A. 75-4215, and amendments thereto. Upon receipt of each such
+41 remittance, the state treasurer shall deposit the entire amount in the state
+42 treasury to the credit of the technology-enabled fiduciary financial
+43 institutions development and expansion fund established in K.S.A. 9-2324,
+
+HB 2235 12
+1 and amendments thereto; and
+2 (2) the balance of the required distribution amount shall be distributed
+3 to one or more qualified charities as defined in K.S.A. 2024 Supp. 79-
+4 32,283, and amendments thereto, as shall be selected by the fiduciary
+5 financial institution. An economic growth zone or qualified charity shall
+6 have no obligation to repay any distributions received under this act or to
+7 make any contributions to a fiduciary financial institution.
+8 (g) The form, treatment and character of fidfin transactions under the
+9 laws of this state shall be respected for all purposes of this act
+10 notwithstanding the treatment or characterization of such transactions
+11 under generally accepted accounting principles or for tax purposes.
+12 (h) A fiduciary financial institution shall disclose to a customer the
+13 information required by rules and regulations adopted by the
+14 commissioner pursuant to K.S.A. 9-2322, and amendments thereto, to
+15 ensure that the customer is informed regarding the nature of the customer's
+16 transactions with the fiduciary financial institution, taking into account the
+17 level of sophistication of the customer.
+18 Sec. 8. K.S.A. 9-2312 is hereby amended to read as follows: 9-2312.
+19 (a) Subject to the requirements of K.S.A. 9-2309(d), and amendments
+20 thereto, a fiduciary financial institution may:
+21 (1) Employ attorneys, accountants, investment advisors, agents or
+22 other persons, even if they are affiliated or associated with the fiduciary
+23 financial institution, to advise or assist the fiduciary financial institution in
+24 the performance of such fiduciary financial institution's fidfin transactions,
+25 custodial services and trust business and act without independent
+26 investigation upon such recommendations;
+27 (2) employ one or more agents to perform any act of fidfin
+28 transactions, custodial services or trust business;
+29 (3) license internet-related services, including web services, software,
+30 mobile applications, technology-enabled platforms and processes to or
+31 from affiliates, third parties, other fiduciary financial institutions and their
+32 affiliates;
+33 (4) license fidfin products and forms, as defined in K.S.A. 9-2321,
+34 and amendments thereto, to or from other fiduciary financial institutions
+35 and their affiliates;
+36 (5) perform any services that a fiduciary financial institution is
+37 authorized to perform under the laws of this state on behalf of another
+38 fiduciary financial institution; and
+39 (6) employ another fiduciary financial institution to perform any
+40 services that a fiduciary financial institution is authorized to perform under
+41 the laws of this state.
+42 (b) A party engaged by a fiduciary financial institution pursuant to
+43 subsection (a) shall not be deemed to have engaged in fidfin transactions,
+
+HB 2235 13
+1 custodial services or trust business in this state nor shall such party be
+2 deemed a trust service office of the fiduciary financial institution under
+3 K.S.A. 9-2108, and amendments thereto, or a trust facility or out-of-state
+4 facility under K.S.A. 9-2111, and amendments thereto, by reason of
+5 providing services to a fiduciary financial institution or licensing products,
+6 platforms, systems or processes to such fiduciary financial institution.
+7 (c) A fiduciary financial institution that provides services or licenses
+8 fidfin products or forms pursuant to subsection (a) shall not be deemed a
+9 trust service office of the fiduciary financial institution that has acquired
+10 such services or licensed such products or forms.
+11 (d) If a fiduciary financial institution offers its technology-enabled
+12 platform to provide fidfin services to residents of other states, neither the
+13 marketing, use and deployment of such platform by parties in other states
+14 nor the origination of fidfin services through such platform shall constitute
+15 an out-of-state trust facility under K.S.A. 9-2111, and amendments thereto,
+16 if the fiduciary financial institution complies with the provisions of K.S.A.
+17 9-2309, and amendments thereto.
+18 (e) A fiduciary financial institution shall provide notice to the
+19 commissioner pursuant to the provisions of K.S.A. 9-2103(a)(12), and
+20 amendments thereto, if such fiduciary financial institution engages a party
+21 pursuant to the provisions of subsection (a).
+22 (f) Whenever a fiduciary financial institution causes to be performed
+23 for such fiduciary financial institution, by contract or otherwise, any
+24 service authorized under this act or the state banking code, such
+25 performance shall be subject to regulation, supervision and examination by
+26 the commissioner to the same extent as if such service was being
+27 performed by the fiduciary financial institution itself.
+28 Sec. 9. K.S.A. 9-2322 is hereby amended to read as follows: 9-2322.
+29 (a) Pursuant to K.S.A. 9-1713, and amendments thereto, the commissioner
+30 shall adopt rules and regulations on or before January 1, 2022, as are
+31 necessary to administer this act and supervise and examine a fiduciary
+32 financial institution.
+33 (b) The office of the state bank commissioner may enter into
+34 contracts for technical assistance and professional services as are
+35 necessary to administer the provisions of this act and to meet the deadline
+36 for the adoption of rules and regulations provided by this section. Such
+37 contracts shall be exempt from the requirements of K.S.A. 75-3739, 75-
+38 37,102 and 75-37,132, and amendments thereto, or any other statute
+39 relating to the procurement of such services.
+40 Sec. 10. K.S.A. 2024 Supp. 79-32,283 is hereby amended to read as
+41 follows: 79-32,283. (a) For taxable years commencing after December 31,
+42 2020, there shall be allowed as a credit against the tax liability of a
+43 fiduciary financial institution imposed pursuant to the Kansas income tax
+
+HB 2235 14
+1 act or the privilege tax imposed upon a fiduciary financial institution
+2 pursuant to article 11 of chapter 79 of the Kansas Statutes Annotated, and
+3 amendments thereto, in an amount equal to the qualified charitable
+4 distributions made in connection with the fiduciary financial institution's
+5 fidfin activities during such taxable year if the fiduciary financial
+6 institution maintained such fiduciary financial institution's principal office
+7 in an economic growth zone during such taxable year in accordance with
+8 the provisions of K.S.A. 9-2309, and amendments thereto.
+9 (b) For purposes of this section:
+10 (1) "Economic growth zone" and "fidfin" means the same as defined
+11 in K.S.A. 9-2301, and amendments thereto;
+12 (2) "qualified charitable distributions" means distributions of cash,
+13 beneficial interests or other assets to one or more qualified charities having
+14 an aggregate value equal to at least 2.5% of the fiduciary financial
+15 institution's transactions originated during the taxable year. Such
+16 transactions shall exclude any renewals, extensions of credit or accruals
+17 associated with transactions made in a prior taxable year; and
+18 (3) (A) "qualified charities" means one or more:
+19 (i) Charities, in to which contributions are allowable as a deduction
+20 pursuant to section 170 of the federal internal revenue code if such
+21 charities have:; or
+22 (ii) Kansas nonprofit corporations regardless of their federal income
+23 tax treatment.
+24 (B) Such "qualified charities" shall have:
+25 (A)(i) Been organized pursuant to a charter promulgated by the
+26 department of commerce for the purposes of making distributions for the
+27 benefit of economic growth zones;
+28 (B)(ii) committed in writing to utilize the entire amount of the
+29 qualified charitable distributions, excluding reasonable administrative
+30 expenses, exclusively for the benefit of charitable causes located in one or
+31 more economic growth zones or postsecondary educational institutions as
+32 defined in K.S.A. 74-3201b, and amendments thereto; and
+33 (C)(iii) agreed to provide an annual report to the department of
+34 commerce detailing qualified distributions received during such year,
+35 distributions made pursuant to this subparagraph (B) and the remaining
+36 balance of qualified distributions as of the end of the reporting year.
+37 (C) The requirements of subparagraph (A)(B)(i) shall not apply to a
+38 charity, contributions to which are allowable as a deduction pursuant to
+39 section 170 of the federal internal revenue code, that has committed in
+40 writing to utilize the entire amount of the qualified charitable distributions,
+41 excluding reasonable administrative expenses, exclusively for the benefit
+42 of the economic growth zone identified in K.S.A. 9-2325(a)(2), and
+43 amendments thereto.
+
+HB 2235 15
+1 (c) No credit shall be allowed under this section if the fiduciary
+2 financial institution's tax return on which the credit is claimed is not timely
+3 filed, including any extension.
+4 (d) A distribution or remittance to the department of commerce
+5 pursuant to K.S.A. 9-2311, and amendments thereto, shall be deemed a
+6 qualified charitable distribution for purposes of this section.
+7 (e) A fiduciary financial institution shall not be required to ensure that
+8 qualified charitable distributions are made solely for the benefit of the
+9 economic growth zones where such fiduciary financial institution has:
+10 (1) Established such fiduciary financial institution's principal office
+11 pursuant to K.S.A. 9-2309, and amendments thereto; or
+12 (2) made qualified investments as defined in K.S.A. 9-2301, and
+13 amendments thereto. Qualified charitable distributions may be made for
+14 the benefit of any one or more economic growth zones.
+15 (f) If a fiduciary financial institution is a pass-through entity for
+16 Kansas tax purposes and the credit allowed by this section for a taxable
+17 year is greater than the fiduciary financial institution's tax liability against
+18 which the tax credit may be applied, a member of the entity or any other
+19 party who is required to report such income on a Kansas income tax return
+20 is entitled to a tax credit equal to the tax credit determined for the fiduciary
+21 financial institution for the taxable year in excess of the fiduciary financial
+22 institution's tax liability under the Kansas income tax act or privilege tax
+23 under article 11 of chapter 79 of the Kansas Statutes Annotated, and
+24 amendments thereto, for the taxable year multiplied by the percentage of
+25 the fiduciary financial institution's distributive income to which the
+26 member is entitled. Tax credits allowed and earned under this section shall
+27 not be sold, assigned, conveyed or otherwise transferred.
+28 (g) If the amount of a tax credit allowed a member or other party
+29 under this section exceeds the taxpayer's income tax liability for the
+30 taxable year in which the tax credit is allowed, the amount thereof that
+31 exceeds such tax liability may be carried over for deduction from the
+32 taxpayer's income or privilege tax liability in the next succeeding taxable
+33 year or years until the total amount of the tax credit has been deducted
+34 from tax liability, except that no such tax credit shall be carried over for
+35 deduction after the 5th taxable year succeeding the taxable year in which
+36 the tax credit is first allowed.
+37 (h) In any taxable year, a fiduciary financial institution shall pay the
+38 greater of the qualified charitable distributions made during such taxable
+39 year or the tax liability of a fiduciary financial institution imposed
+40 pursuant to the Kansas income tax act or the privilege tax imposed upon a
+41 fiduciary financial institution pursuant to article 11 of chapter 79 of the
+42 Kansas Statutes Annotated, and amendments thereto.
+43 (i) This section shall be a part of and supplemental to the Kansas
+
+HB 2235 16
+1 income tax act.
+2 Sec. 11. K.S.A. 9-542, 9-2303, 9-2307, 9-2309, 9-2310, 9-2311, 9-
+3 2312 and 9-2322 and K.S.A. 2024 Supp. 9-2301 and 79-32,283 are hereby
+4 repealed.
+5 Sec. 12. This act shall take effect and be in force from and after its
+6 publication in the statute book.
+
+[DELETED: Aesfrs ; fy fl is fm cn rs rr; ag te ie of cs ad tc; pg fr te sn of fy fi0cs as qd cs fr ps of te f1f293S5B6S7A8o930911, 9, 91 ad 9 ad as t, s2c3S4f5a6ed fy fl is a. Te t7f8c9(r ps of te td fy f0i1(" ms te td fy f2i3(e a" ms p md i4a5e]
+[DELETED: 5cim(tiey or o, c, m, d, id, rs ad cs in ay f, i, wl, ee of o, sn a, p0p, 1cy k s s a2ds (g ir q, se l, r3f4jr a, bs ps ad og m5c6s7s, ce fm te gl p, mr o8i9d0o1a2t, e ec r, ce at o3c4o5t6c7(e b" ms oe or me c8c910 of te fl il re ce tt ae dd a0b1t2c3i4t5s6g7m8o9t0a1d2t3a  ]
+[DELETED: 5aa(9cus t py te pn wo hs cl of te ce(K0m1(2(3e4(5(6b7(8c9r0(1n2h3"e ec r" ds nt ie a c4a, a ce pt i, a dt a, a5ef 6d7r8(9d0a1us t py te pn wo hs cl of te c2e3(4a5i, sg as a, g dy r, 6a7t8s9(0o1(2w3f]
+[DELETED: 5CDGJLNRSW0(1i2i3f4u5p6(7f8o9a0i1(2o3(4a5a6(7a8(9p0f1w2w3o4b5(6i7(8a9K0(e fl i" ms an o1b2(3c]
+[DELETED: 5(7(imfKhs t "0(1t2i3f4(516(7t8(9s0f1a2t3(4i5f6s7(8m9e0i1(2r3l4(e se fe rt oe ae to a5q6r7(d fy fl i" o8"9l0(1s2(3i]
+[DELETED: 5a(i(Kid(t0cd s 1K2as t, te bl op of wh my b3r4(5i6p7a8f9m0(1a2t3S4(5a6c7O8Te ee of ey al rr fy fl i9e, tr wh te ee of ag f0f1f2s3o4s5i6y7a8bs of h l s tl n 9b0f1w2tf a l s 3b]
+[DELETED: 5cadnrbsl nt ed $0 fr sh an ie fy fif0e1e2(3s4b5c6b7b8c9(0a1K2r3t4f5d6a7S8() A fy fl in sl me a rt to t9cr pt to te ps of K. 9, a0a1a2o3e4c5s6(t e l s n t7p8(9i0f1(n d 2i3(]
+[DELETED: 5fad b te ms ad cs of te f fi(ur te ls of ts se ng te tt ocp(f0K1i2a3(4i5p6p7(8a9(e a fy fl is ce w0a1(2s3(4f5it 6p7te fy fl in pt to K. 9, a8as t, to sy te fy fl i9o0(1K2S3(4(5d6c7f8(9p0t1e2(3i]
+[DELETED: 5te(lgh ze sd b te f fl in tt tfy fl in us as sh fy fi((0o1(2f3(4f5(s 6s7b8(9c0h1(2r3e4i, as ny to fe an et ad e5e6(n t, cl ss ad tt bs i7d8f9i0o1p2(3(4(5(6(7r8(9S0A1b2f3(]
+[DELETED: 512(aca(a(S0(1K2m3(4a5(e fy fl in ss as te of t6b7(8f9(e fg is ne as to te fy f0i1(e fy fl in a, in te a2f3i4(e l n s tt sh 5f6f7(8f9(091(2(3(4f5t6h7( cn r p of K. 9, a8as t, sl be ie to a fy f9i0b1(2(e fy fl in ss as te of t3b]
+[DELETED: 51(sligif(sl d, ce to be dd or oe fe t0d1F2b3f4c5c6y7pt to K. 9, ad as t. Te r8d9(0Rt 1$092$053A014(e as sd in sh () sl ay t5f6f7c8dt of ce ds ry ny to f9e0z1K2se pd ur ts sn to te c. T3c4f5A6e7a8(9t0K1r2ty to te ct of te td fy f3i]
+[DELETED: 51a(t3fhm(ls of ts se sl be rd fr al ps of ts a0n1u2(3in rd by rs ad rs ad by t4c5e6t7l8S9(0t1(2o3f4t5cl ss ad tt bs ad at wt i6i7(y oe or me as to pm ay at of f8t9(0m1f2a3(4a5a6(7a8f9(0s1t2(3s]
+[DELETED: 51cdKfpp(ft0s1(2p3m4n5a6i798( f fl in sl pe ne to t9c0a1p2(3f4se ad ur ts at or te se bg c, s5p6t7p8S9(0s o a1n2f3(e oe of te se bk cr m er i4cs fr tl ae ad pl ss as a5n6f7c839r0S1f223f]
+[DELETED: 51apadfn as dg sh te yr if te fy fiit(0(1i2(3b4a5is ts od dg te te y. S6t7a8(9(0p i1c2(3t4(5(6d7b8(9qd ce d, eg re a0e1m2d3(4c5d6b7(8c9s0w1e2o3a]
+[DELETED: 51(ff(pq(qe0(1p2(3a4t5(6K7y8w9p0i1f2i3u4a5tl s e e 6m7n8(9u0t1e2t3y4f5d5 6t7(8g9y0p1f2K3(]
+[DELETED: 51iS2rSp]

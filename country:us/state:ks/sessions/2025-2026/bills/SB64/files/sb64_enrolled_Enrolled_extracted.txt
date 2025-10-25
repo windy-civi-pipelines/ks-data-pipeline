@@ -1,0 +1,1889 @@
+Title: SENATE BILL No. 64
+Official Title: SENATE BILL No. 64
+Number of Sections: 21
+Source: versions - Enrolled
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+AN ACT concerning retirement and pensions; relating to the Kansas public employees
+retirement system; adjusting certain internal references; extending the time for filing
+administrative appeals; updating provisions relating to compliance with the federal
+internal revenue code; amending K.S.A. 74-4902 and 74-4904 and K.S.A. 2024
+Supp. 74-49,123 and repealing the existing sections.
+Be it enacted by the Legislature of the State of Kansas:
+
+Section 2:
+Section 1. K.S.A. 74-4902 is hereby amended to read as follows:
+74-4902. As used in articles 49 and 49a of chapter 74 of the Kansas
+Statutes Annotated, and amendments thereto, unless otherwise provided
+or the context otherwise requires:
+(1) "Accumulated contributions" means the sum of all
+contributions by a member to the system which are credited to the
+member's account, with interest allowed thereon;
+(2) "acts" means the provisions of articles 49 and 49a of the
+Kansas Statutes Annotated, and amendments thereto;
+(3) "actuarial equivalent" means an annuity or benefit of equal
+value to the accumulated contributions, annuity or benefit, when
+computed upon the basis of the actuarial tables in use by the system.
+Whenever the amount of any benefit is to be determined on the basis of
+actuarial assumptions, the assumptions shall be specified in a way that
+precludes employer discretion;
+(4) "actuarial tables" means the actuarial tables approved and in
+use by the board at any given time;
+(5) "actuary" means the actuary or firm of actuaries employed or
+retained by the board at any given time;
+(6) "agent" means the individual designated by each participating
+employer through whom system transactions and communication are
+directed;
+(7) "beneficiary" means, subject to the provisions of K.S.A. 74-
+4927, and amendments thereto, any natural person or persons, estate or
+trust, or any combination thereof, named by a member to receive any
+benefits as provided for by this act. Designations of beneficiaries by a
+member who is a member of more than one retirement system made on
+or after July 1, 1987, shall be the basis of any benefits payable under all
+systems unless otherwise provided by law. Except as otherwise
+provided by subsection (33) of this section (32), if there is no named
+beneficiary living at the time of the member's death, any benefits
+provided for by this act shall be paid to: (A) The member's surviving
+spouse; (B) the member's dependent child or children; (C) the member's
+dependent parent or parents; (D) the member's nondependent child or
+children; (E) the member's nondependent parent or parents; or (F) the
+estate of the deceased member; in the order of preference as specified
+in this subsection;
+(8) "board of trustees," "board" or "trustees" means the managing
+body of the system which is known as the Kansas public employees
+retirement system board of trustees;
+(9) "compensation" means, except as otherwise provided, all
+salary, wages and other remuneration payable to a member for personal
+services performed for a participating employer, including maintenance
+or any allowance in lieu thereof provided a member as part of
+compensation, but not including reimbursement for travel or moving
+expenses or on and after July 1, 1994, payment pursuant to an early
+retirement incentive program made prior to the retirement of the
+member. Beginning with the employer's fiscal year which that begins in
+calendar year 1991 or for employers other than the state of Kansas,
+beginning with the fiscal year which that begins in calendar year 1992,
+when the compensation of a member who remains in substantially the
+same position during any two consecutive years of participating service
+used in calculating final average salary is increased by an amount
+SENATE BILL No. 64—page 2
+which exceeds 15%, then the amount of such increase which exceeds
+15% shall not be included in compensation, except that: (A) Any
+amount of compensation for accumulated sick leave or vacation or
+annual leave paid to the member; (B) any increase in compensation for
+any member due to a reclassification or reallocation of such member's
+position or a reassignment of such member's job classification to a
+higher range or level; and (C) any increase in compensation as provided
+in any contract entered into prior to January 1, 1991, and still in force
+on the effective date of this act, pursuant to an early retirement
+incentive program as provided in K.S.A. 72-5395 et seq., and
+amendments thereto, shall be included in the amount of compensation
+of such member used in determining such member's final average
+salary and shall not be subject to the 15% limitation provided in this
+subsection. Any contributions by such member on the amount of such
+increase which exceeds 15% which is not included in compensation
+shall be returned to the member. Unless otherwise provided by law,
+beginning with the employer's fiscal year coinciding with or following
+July 1, 1985, compensation shall include any amounts for tax sheltered
+annuities or deferred compensation plans. Beginning with the
+employer's fiscal year which that begins in calendar year 1991,
+compensation shall include amounts under sections 403b, 457 and 125
+of the federal internal revenue code of 1986 and, as the board deems
+appropriate, any other section of the federal internal revenue code of
+1986 which defers or excludes amounts from inclusion in income. For
+purposes of applying limits under the federal internal revenue code
+"compensation" shall have the meaning as provided in K.S.A. 74-
+49,123, and amendments thereto. For purposes of this subsection and
+application to the provisions of subsection (4) of K.S.A. 74-4927(4),
+and amendments thereto, "compensation" shall not include any
+payments made by the state board of regents pursuant to the provisions
+of subsection (5) of K.S.A. 74-4927a(5), and amendments thereto, to a
+member of the faculty or other person defined in subsection (1)(a) of
+K.S.A. 74-4925(1)(a), and amendments thereto;
+(10) "credited service" means the sum of participating service and
+prior service and in no event shall credited service include any service
+which that is credited under another retirement plan authorized under
+any law of this state;
+(11) "dependent" means a parent or child of a member who is
+dependent upon the member for at least 1/ of such parent or child's
+2
+support;
+(12) "effective date" means the date upon which the system
+becomes effective by operation of law;
+(13) "eligible employer" means the state of Kansas, and any
+county, city, township, special district or any instrumentality of any one
+or several of the aforementioned or any noncommercial public
+television or radio station located in this state which that receives state
+funds allocated by the Kansas public broadcasting commission whose
+employees are covered by social security. If a class or several classes of
+employees of any above defined employer are not covered by social
+security, such employer shall be deemed an eligible employer only with
+respect to such class or those classes of employees who are covered by
+social security;
+(14) "employee" means any appointed or elective officer or
+employee of a participating employer whose employment is not
+seasonal or temporary and whose employment requires at least 1,000
+hours of work per year, and any such officer or employee who is
+concurrently employed performing similar or related tasks by two or
+more participating employers, who each remit employer and employee
+contributions on behalf of such officer or employee to the system, and
+SENATE BILL No. 64—page 3
+whose combined employment is not seasonal or temporary, and whose
+combined employment requires at least 1,000 hours of work per year,
+but not including: (A) Any employee who is a contributing member of
+the United States civil service retirement system; (B) any employee
+who is a contributing member of the federal employees retirement
+system; (C) any employee who is a leased employee as provided in
+
+Section 3:
+section 414 of the federal internal revenue code of a participating
+employer; and (D) any employee or class of employees specifically
+exempted by law. After June 30, 1975, no person who is otherwise
+eligible for membership in the Kansas public employees retirement
+system shall be barred from such membership by reason of coverage
+by, eligibility for or future eligibility for a retirement annuity under the
+provisions of K.S.A. 74-4925, and amendments thereto, except that no
+person shall receive service credit under the Kansas public employees
+retirement system for any period of service for which benefits accrue or
+are granted under a retirement annuity plan under the provisions of
+K.S.A. 74-4925, and amendments thereto. After June 30, 1982, no
+person who is otherwise eligible for membership in the Kansas public
+employees retirement system shall be barred from such membership by
+reason of coverage by, eligibility for or future eligibility for any benefit
+under another retirement plan authorized under any law of this state,
+except that no such person shall receive service credit under the Kansas
+public employees retirement system for any period of service for which
+any benefit accrues or is granted under any such retirement plan.
+Employee shall include persons who are in training at or employed by,
+or both, a sheltered workshop for the blind operated by the secretary for
+children and families. The entry date for such persons shall be the
+beginning of the first pay period of the fiscal year commencing in
+calendar year 1986. Such persons shall be granted prior service credit
+in accordance with K.S.A. 74-4913, and amendments thereto. However,
+such persons classified as home industry employees shall not be
+covered by the retirement system. Employees shall include any member
+of a board of county commissioners of any county and any council
+member or commissioner of a city whose compensation is equal to or
+exceeds $5,000 per year;
+(15) "entry date" means the date as of which an eligible employer
+joins the system. The first entry date pursuant to this act is January 1,
+1962;
+(16) "executive director" means the managing officer of the
+system employed by the board under this act;
+(17) "final average salary" means in the case of a member who
+retires prior to January 1, 1977, and in the case of a member who retires
+after January 1, 1977, and who has less than five years of participating
+service after January 1, 1967, the average highest annual compensation
+paid to such member for any five years of the last 10 years of
+participating service immediately preceding retirement or termination
+of employment, or in the case of a member who retires on or after
+January 1, 1977, and who has five or more years of participating
+service after January 1, 1967, the average highest annual compensation
+paid to such member on or after January 1, 1967, for any five years of
+participating service preceding retirement or termination of
+employment, or, in any case, if participating service is less than five
+years, then the average annual compensation paid to the member during
+the full period of participating service, or, in any case, if the member
+has less than one calendar year of participating service such member's
+final average salary shall be computed by multiplying such member's
+highest monthly salary received in that year by 12; in the case of a
+member who became a member under subsection (3) of K.S.A. 74-
+4925(3), and amendments thereto, or who became a member with a
+SENATE BILL No. 64—page 4
+participating employer as defined in subsection (3) of K.S.A. 74-
+4931(3), and amendments thereto, and who elects to have
+compensation paid in other than 12 equal installments, such
+compensation shall be annualized as if the member had elected to
+receive 12 equal installments for any such periods preceding
+retirement; in the case of a member who retires after July 1, 1987, the
+average highest annual compensation paid to such member for any four
+years of participating service preceding retirement or termination of
+employment; in the case of a member who retires on or after July 1,
+1993, whose date of membership in the system is prior to July 1, 1993,
+and any member who is in such member's membership waiting period
+on July 1, 1993, and whose date of membership in the system is on or
+after July 1, 1993, the average highest annual compensation, as defined
+in subsection (9), paid to such member for any four years of
+participating service preceding retirement or termination of
+employment or the average highest annual salary, as defined in
+subsection (34) (33), paid to such member for any three years of
+participating service preceding retirement or termination of
+employment, whichever is greater; and in the case of a member who
+retires on or after July 1, 1993, and whose date of membership in the
+system is on or after July 1, 1993, the average highest annual salary, as
+defined in subsection (34) (33), paid to such member for any three
+years of participating service preceding retirement or termination of
+employment. Final average salary shall not include any purchase of
+participating service credit by a member as provided in subsection (2)
+of K.S.A. 74-4919h(2), and amendments thereto, which is completed
+within five years of retirement. For any application to purchase or
+repurchase service credit for a certain period of service as provided by
+law received by the system after May 17, 1994, for any member who
+will have contributions deducted from such member's compensation at
+a percentage rate equal to two or three times the employee's rate of
+contribution or will begin paying to the system a lump-sum amount for
+such member's purchase or repurchase and such deductions or lump-
+sum payment commences after the commencement of the first payroll
+period in the third quarter, "final average salary" shall not include any
+amount of compensation or salary which is based on such member's
+purchase or repurchase. Any application to purchase or repurchase
+multiple periods of service shall be treated as multiple applications. For
+purposes of this subsection, the date that such member is first hired as
+an employee for members who are employees of employers that elected
+to participate in the system on or after January 1, 1994, shall be the date
+that such employee's employer elected to participate in the system. In
+the case of any former member who was eligible for assistance
+pursuant to K.S.A. 74-4925, and amendments thereto, prior to July 1,
+1998, for the purpose of calculating final average salary of such
+member, such member's final average salary shall be based on such
+member's salary while a member of the system or while eligible for
+assistance pursuant to K.S.A. 74-4925, and amendments thereto,
+whichever is greater;
+(18) "fiscal year" means, for the Kansas public employees
+retirement system, the period commencing July 1 of any year and
+ending June 30 of the next;
+(19) "Kansas public employees retirement fund" means the fund
+created by this act for payment of expenses and benefits under the
+system and referred to as the fund;
+(20) "leave of absence" means a period of absence from
+employment without pay, authorized and approved by the employer,
+and which after the effective date does not exceed one year;
+(21) "member" means an eligible employee who is in the system
+SENATE BILL No. 64—page 5
+and is making the required employee contributions; any former
+employee who has made the required contributions to the system and
+has not received a refund if such member is within five years of
+termination of employment with a participating employer; or any
+former employee who has made the required contributions to the
+system, has not yet received a refund and has been granted a vested
+benefit;
+(22) "military service" means service in the uniformed forces of
+the United States, for which retirement benefit credit must be given
+under the provisions of USERRA or service in the armed forces of the
+United States or in the commissioned corps of the United States public
+health service, which service is immediately preceded by a period of
+employment as an employee or by entering into an employment
+contract with a participating employer and is followed by return to
+employment as an employee with the same or another participating
+employer within 12 months immediately following discharge from such
+military service, except that if the board determines that such return
+within 12 months was made impossible by reason of a service-
+connected disability, the period within which the employee must return
+to employment with a participating employer shall be extended not
+more than two years from the date of discharge or separation from
+military service;
+(23) "normal retirement date" means the date on or after which a
+member may retire with full retirement benefits pursuant to K.S.A. 74-
+4914, and amendments thereto;
+(24) "participating employer" means an eligible employer who has
+agreed to make contributions to the system on behalf of its employees;
+(25) "participating service" means the period of employment after
+the entry date for which credit is granted a member;
+(26) "prior service" means the period of employment of a member
+prior to the entry date for which credit is granted a member under this
+act;
+(27) "prior service annual salary" means the highest annual salary,
+not including any amounts received as payment for overtime or as
+reimbursement for travel or moving expense, received for personal
+services by the member from the current employer in any one of the
+three calendar years immediately preceding January 1, 1962, or the
+entry date of the employer, whichever is later, except that if a member
+entered the employment of the state during the calendar year 1961, the
+prior service annual salary shall be computed by multiplying such
+member's highest monthly salary received in that year by 12;
+(28) "retirant" means a member who has retired under this system;
+(29) "retirement benefit" means a monthly income or the actuarial
+equivalent thereof paid in such manner as specified by the member
+pursuant to this act or as otherwise allowed to be paid at the discretion
+of the board, with benefits accruing from the first day of the month
+coinciding with or following retirement and ending on the last day of
+the month in which death occurs. Upon proper identification a
+surviving spouse may negotiate the warrant issued in the name of the
+retirant. If there is no surviving spouse, the last warrant shall be
+payable to the designated beneficiary;
+(30) "retirement system" or "system" means the Kansas public
+employees retirement system as established by this act and as it may be
+amended;
+(31) "social security" means the old age, survivors and disability
+insurance section of the federal social security act;
+(32) "trust" means an express trust, created by a trust instrument,
+including a will, designated by a member to receive payment of the
+insured death benefit under K.S.A. 74-4927, and amendments thereto,
+SENATE BILL No. 64—page 6
+and payment of the member's accumulated contributions under
+subsection (1) of K.S.A. 74-4916(1), and amendments thereto. A
+designation of a trust shall be filed with the board. If no will is admitted
+to probate within six months after the death of the member or no trustee
+qualifies within such six months or if the designated trust fails, for any
+reason whatsoever, the insured death benefit under K.S.A. 74-4927, and
+amendments thereto, and the member's accumulated contributions
+under subsection (1) of K.S.A. 74-4916(1), and amendments thereto,
+shall be paid in accordance with the provisions of subsection (7) of this
+
+Section 4:
+section as in other cases where there is no named beneficiary living at
+the time of the member's death and any payments so made shall be a
+full discharge and release to the system from any further claims;
+(33) "salary" means all salary and wages payable to a member for
+personal services performed for a participating employer, including
+maintenance or any allowance in lieu thereof provided a member as
+part of salary. Salary shall not include reimbursement for travel or
+moving expenses, payment for accumulated sick leave or vacation or
+annual leave, severance pay or any other payments to the member
+determined by the board to not be payments for personal services
+performed for a participating employer constituting salary or on and
+after July 1, 1994, payment pursuant to an early retirement incentive
+program made prior to the retirement of the member. When the salary
+of a member who remains in substantially the same position during any
+two consecutive years of participating service used in calculating final
+average salary is increased by an amount which exceeds 15%, then the
+amount of such increase which exceeds 15% shall not be included in
+salary. Any contributions by such member on the amount of such
+increase which exceeds 15% which is not included in compensation
+shall be returned to the member. Unless otherwise provided by law,
+salary shall include any amounts for tax sheltered annuities or deferred
+compensation plans. Salary shall include amounts under sections 403b,
+457 and 125 of the federal internal revenue code of 1986 and, as the
+board deems appropriate, any other section of the federal internal
+revenue code of 1986 which that defers or excludes amounts from
+inclusion in income. For purposes of applying limits under the federal
+internal revenue code "salary" shall have the meaning as provided in
+K.S.A. 74-49,123, and amendments thereto. In any case, if participating
+service is less than three years, then the average annual salary paid to
+the member during the full period of participating service, or, in any
+case, if the member has less than one calendar year of participating
+service such member's final average salary shall be computed by
+multiplying such member's highest monthly salary received in that year
+by 12;
+(34) "federal internal revenue code" means the federal internal
+revenue code of 1954 or 1986, as in effect on July 1, 2008, and as
+applicable to a governmental plan; and
+(35) "USERRA" means the federal uniformed services
+employment and reemployment rights act of 1994 as in effect on July 1,
+
+Section 5:
+2008.
+Sec. 2. K.S.A. 74-4904 is hereby amended to read as follows: 74-
+
+Section 6:
+4904. (1) The system may sue and be sued in its official name, but its
+trustees, officers, employees and agents shall not be personally liable
+for acts of the system unless such person acted with willful, wanton or
+fraudulent misconduct or intentionally tortious conduct. Any agreement
+in settlement of litigation involving the system and the investment of
+moneys of the fund is a public record as provided in K.S.A. 45-215 et
+seq., and amendments thereto, and subject to the provisions of that act.
+The service of all legal process and of all notices which may be
+required to be in writing, whether legal proceedings or otherwise, shall
+SENATE BILL No. 64—page 7
+be had on the executive director at such executive director's office. All
+actions or proceedings directly or indirectly against the system shall be
+brought in Shawnee county.
+(2) Any person aggrieved by any order or decision of the board
+made without a hearing, may, within 30 60 days after notice of the
+order or decision of the board make written request to the board for a
+hearing thereon. The board shall hear such party or parties in
+accordance with the provisions of the Kansas administrative procedure
+act at its next regular meeting or at a special meeting within 60 days
+after receipt of such request. For the purpose of any hearing under this
+
+Section 7:
+section, the board may appoint the executive director or use a presiding
+officer from the office of administrative hearings. The board shall
+review an initial order resulting from a hearing under this section. The
+board is hereby authorized to enter into a contract with the office of
+administrative hearings and to provide for reimbursement for actual and
+necessary expenses and compensation for such person serving as a
+presiding officer.
+Sec. 3. K.S.A. 2024 Supp. 74-49,123 is hereby amended to read as
+follows: 74-49,123. (a) This section applies to the Kansas public
+employees retirement system and to all other public retirement plans
+administered by the board of trustees.
+(b) As used in this section:
+(1) "Federal internal revenue code" means the federal internal
+revenue code of 1954 or 1986, as amended and as applicable to a
+governmental plan as in effect on July 1, 2008; and
+(2) "retirement plan" includes the Kansas public employees
+retirement system and all other Kansas public retirement plans and
+benefit structures, which are administered by the board.
+(c) In addition to the federal internal revenue code provisions
+otherwise noted in each retirement plan's law, and in order to satisfy the
+applicable requirements under the federal internal revenue code, the
+retirement plans shall be subject to the following provisions,
+notwithstanding any other provision of the retirement plan's law:
+(1) The board shall distribute the corpus and income of the
+retirement plan to the members and their beneficiaries in accordance
+with the retirement plan's law. At no time prior to the satisfaction of all
+liabilities with respect to members and their beneficiaries shall any part
+of the corpus and income be used for, or diverted to, purposes other
+than the exclusive benefit of the members and their beneficiaries.
+(2) Forfeitures arising from severance of employment, death or for
+any other reason may not be applied to increase the benefits any
+member would otherwise receive under the retirement plan's law.
+However, forfeitures may be used to reduce an employer's contribution.
+(3) All benefits paid from the retirement plan shall be distributed
+in accordance with a good faith interpretation of the requirements of
+
+Section 8:
+section 401(a)(9) of the federal internal revenue code and the
+regulations under that section. Notwithstanding any other provision of
+these rules and regulations, effective on and after January 1, 2003, the
+retirement plan is subject to the following provisions:
+(A) Benefits must begin by the required beginning date, which is
+the later of April 1 of the calendar year following the calendar year in
+which the member reaches 72 years of age, or 701/ years of age if the
+2
+member was born before July 1, 1949, the applicable age or April 1 of
+the calendar year following the calendar year in which the member
+terminates employment. If a member fails to apply for retirement
+benefits by April 1 of the calendar year following the calendar year in
+which such member reaches 72 years of age, or 701/ years of age if the
+2
+member was born before July 1, 1949, the applicable age or April 1 of
+the calendar year following the calendar year in which such member
+SENATE BILL No. 64—page 8
+terminates employment, whichever is later, the board will begin
+distributing the benefit as required by this section. For purposes of this
+
+Section 9:
+section, the applicable age is 701/ if the member was born before July
+2
+1, 1949, age 72 if the member was born on or after July 1, 1949, but
+before January 1, 1951, age 73 if the member was born on or after
+January 1, 1951, but before January 1, 1959, and age 75 if the member
+was born on or after January 1, 1960.
+(B) The member's entire interest must be distributed over the
+member's life or the lives of the member and a designated beneficiary,
+or over a period not extending beyond the life expectancy of the
+member or of the member and a designated beneficiary. Death benefits
+must be distributed in accordance with section 401(a)(9) of the federal
+internal revenue code, including the incidental death benefit
+requirement in section 401(a)(9)(G) of the federal internal revenue
+code, and the regulations implementing that section.
+(C) Except as allowed under section 401(a)(9) of the federal
+internal revenue code and applicable regulations thereunder, the life
+expectancy of a member, the member's spouse or the member's
+beneficiary may not be recalculated after the initial determination for
+purposes of determining benefits.
+(D) If a member dies after the required distribution of benefits has
+begun, the remaining portion of the member's interest must be
+distributed at least as rapidly as under the method of distribution before
+the member's death and no longer than the remaining period over which
+distributions commenced.
+(E) If a member dies before required distribution of the member's
+benefits has begun, the member's entire interest must be either:
+(i) In accordance with federal regulations, distributed over the life
+or life expectancy of the designated beneficiary, with the distributions
+beginning no later than December 31 of the calendar year immediately
+following the calendar year of the member's death; or
+(ii) distributed by December 31 of the calendar year containing the
+fifth anniversary of the member's death.
+(F) The amount of an annuity paid to a member's beneficiary may
+not exceed the maximum determined under the incidental death benefit
+requirement of the federal internal revenue code.
+(G) The death and disability benefits provided by a retirement
+plan are limited by the incidental benefit rule set forth in section 401(a)
+(9)(G) of the federal internal revenue code and applicable treasury
+regulation 1.401-1(b)(l)(i) regulations.
+(H) Distributions from a defined contribution or deferred
+compensation plan shall be made in accordance with the rules under
+
+Section 10:
+section 401(a)(9) of the federal internal revenue code that are specific
+to such plans.
+(4) Distributions from the retirement plans may be made only
+upon retirement, separation from service, disability or death.
+(5) The board or its designee may not:
+(A) Determine eligibility for benefits;
+(B) compute rates of contribution; or
+(C) compute benefits of members or beneficiaries, in a manner
+that discriminates in favor of members who are considered officers,
+supervisors or highly compensated, as prohibited under section 401(a)
+(4) of the federal internal revenue code.
+(6) Subject to the provisions of this subsection, benefits paid from,
+and employee contributions made to, the retirement plans shall not
+exceed the maximum benefits and the maximum annual additions,
+respectively, permissible under section 415 of the federal internal
+revenue code.
+(A) Before January 1, 1995, a member may not receive an annual
+SENATE BILL No. 64—page 9
+benefit that exceeds the limits specified in section 415(b) of the federal
+internal revenue code, subject to the applicable adjustments in that
+
+Section 11:
+section. Beginning January 1, 1995, a participant may not receive an
+annual benefit that exceeds the dollar amount specified in section
+415(b)(1)(A) of the federal internal revenue code, subject to the
+applicable adjustments in section 415 of the federal internal revenue
+code.
+(B) Notwithstanding any other provision of law to the contrary,
+the board may modify a request by a participant to make a contribution
+to the retirement plans if the amount of the contribution would exceed
+the limits under section 415(c) or 415(n) of the federal internal revenue
+code subject to the following:
+(i) Where the retirement plan's law requires a lump-sum payment,
+for the purchase of service credit, the board may establish a periodic
+payment plan in order to avoid a contribution in excess of the limits
+under section 415(c) or 415(n) of the federal internal revenue code.
+(ii) If the board's option under clause (i) will not avoid a
+contribution in excess of the limits under section 415(c) or 415(n) of
+the federal internal revenue code, the board shall reduce or deny the
+contribution.
+(C) Effective for permissive service credit contributions made in
+limitation years beginning after December 31, 1997, if an active
+member makes one or more contributions to purchase permissive
+service credit under a retirement plan, then the requirements of this
+
+Section 12:
+section shall be treated as met only if:
+(i) The requirements of section 415(b) of the federal internal
+revenue code are met, determined by treating the accrued benefit
+derived from all such contributions as an annual benefit for purposes of
+such section; or
+(ii) the requirements of section 415(c) of the federal internal
+revenue code are met, determined by treating all such contributions as
+annual additions for purposes of such section. For purposes of applying
+clause (i) a retirement plan shall not fail to meet the reduced limit under
+
+Section 13:
+section 415(b)(2)(C) of the federal internal revenue code solely by
+reason of this subparagraph (C), and for purposes of applying clause
+(ii), a retirement plan shall not fail to meet the percentage limitation
+under section 415(c)(1)(B) of the federal internal revenue code solely
+by reason of this paragraph.
+(iii) For purposes of this clause, the term "permissive service
+credit" means service credit:
+(a) Specifically recognized by a retirement plan's law for purposes
+of calculating a member's benefit under that retirement plan;
+(b) that such member has not received under a retirement plan;
+and
+(c) that such member may receive under a retirement plan's law
+only by making a voluntary additional contribution, in an amount
+determined under the retirement plan's law and procedures established
+by the board, that does not exceed the amount necessary to fund the
+benefit attributable to such service credit.
+(iv) A retirement plan shall fail to meet the requirements of this
+clause if the retirement plan's law specifically provides for a purchase
+of nonqualified service purchase, and if:
+(a) More than five years of nonqualified service credit are taken
+into account for purposes of this subclause; or
+(b) any nonqualified service credit is taken into account under this
+subclause before the member has at least five years of participation
+under a retirement plan. For purposes of this subclause, effective for
+permissive service credit contributions made in limitation years
+beginning after December 31, 1997, the term "nonqualified service
+SENATE BILL No. 64—page 10
+credit" means the same as provided in section 415(n)(3)(C) of the
+federal internal revenue code.
+(v) In the case of a trustee-to-trustee transfer after December 31,
+2001, to which section 403(b)(13)(A) or 457(e)(17)(A) of the federal
+internal revenue code applies, without regard to whether the transfer is
+made between plans maintained by the same employer:
+(a) The limitations of clause (iv) shall not apply in determining
+whether the transfer is for the purchase of permissive service credit;
+and
+(b) the distribution rules applicable under federal law to a
+retirement plan shall apply to such amounts and any benefits
+attributable to such amounts.
+(vi) For an eligible member, the limitation of section 415(c)(1) of
+the federal internal revenue code shall not be applied to reduce the
+amount of permissive service credit which may be purchased to an
+amount less than the amount which was allowed to be purchased under
+the terms of the statute as in effect on August 5, 1997. For purposes of
+this clause, an eligible member is an individual who first became a
+member in the retirement plan before January 1, 1998.
+(D) Subject to approval by the internal revenue service, the board
+shall maintain a qualified governmental excess benefit arrangement
+under section 415(m) of the federal internal revenue code. The board
+shall establish the necessary and appropriate procedures for the
+administration of such benefit arrangement under the federal internal
+revenue code. The amount of any annual benefit that would exceed the
+limitations imposed by section 415 of the federal internal revenue code
+shall be paid from this benefit arrangement. The amount of any
+contribution that would exceed the limitations imposed by section 415
+of the federal internal revenue code shall be credited to this benefit
+arrangement. The qualified excess benefit arrangement shall be a
+separate portion of the retirement plan. The qualified excess benefit
+arrangement is subject to the following requirements:
+(i) The benefit arrangement shall be maintained solely for the
+purpose of providing to participants in the retirement plans that part of
+the participant's annual benefit otherwise payable under the terms of the
+act that exceeds the limitations on benefits imposed by section 415 of
+the federal internal revenue code; and
+(ii) participants do not have an election, directly or indirectly, to
+defer compensation to the excess benefit arrangement.
+(E) For purposes of applying these limits only and for no other
+purpose, the definition of compensation where applicable shall be
+compensation actually paid or made available during a limitation year,
+except as noted below and as permitted by treasury regulation section
+
+Section 14:
+1.415(c)-2. Specifically, compensation shall be defined as wages within
+the meaning of section 3401(a) of the federal internal revenue code and
+all other payments of compensation to an employee by an employer for
+which the employer is required to furnish the employee a written
+statement under sections 6041(d), 6051(a)(3) and 6052 of the federal
+internal revenue code. Compensation shall be determined without
+regard to any rules under section 3401(a) of the federal internal revenue
+code that limit the remuneration included in wages based on the nature
+or location of the employment or the services performed, such as the
+exception for agricultural labor in section 3401(a)(2) of the federal
+internal revenue code.
+(i) However, for limitation years beginning after December 31,
+1997, compensation shall also include amounts that would otherwise be
+included in compensation but for an election under sections 125(a),
+402(e)(3), 402(h)(1)(B), 402(k) or 457(b) of the federal internal
+revenue code. For limitation years beginning after December 30, 2000,
+SENATE BILL No. 64—page 11
+compensation shall also include any elective amounts that are not
+includable in the gross income of the employee by reason of section
+132(f)(4) of the federal internal revenue code.
+(ii) The definition of compensation shall exclude employee
+contributions picked up under section 414(h)(2) of the federal internal
+revenue code.
+(iii) For limitation years beginning on and after January 1, 2007,
+compensation for the limitation year will also include compensation
+paid by the later of two and a half months after an employee's
+severance from employment or the end of the limitation year that
+includes the date of the employee's severance from employment if:
+(a) The payment is regular compensation for services during the
+employee's regular working hours or compensation for services outside
+the employee's regular working hours, such as overtime or shift
+differential, commissions, bonuses or other similar payments, and
+absent a severance from employment, the payments would have been
+paid to the employee while the employee continues in employment
+with the employer;
+(b) the payment is for unused accrued bona fide sick, vacation or
+other leave that the employee would have been able to use if
+employment had continued; or
+(c) for limitation years beginning on and after January 1, 2012, the
+payment is made pursuant to a nonqualified unfunded deferred
+compensation plan, but only if the payment would have been paid to
+the member at the same time if the member had continued employment
+with the employer and only to the extent that the payment is includable
+in the member's gross income.
+(iv) Any payments not described in clause (iii) are not considered
+compensation if paid after severance from employment, even if they are
+paid within two and a half months following severance from
+employment, except for payments to the individual who does not
+currently perform services for the employer by reason of qualified
+military service, within the meaning of section 414(u)(1) of the federal
+internal revenue code, to the extent these payments do not exceed the
+amounts the individual would have received if the individual had
+continued to perform services for the employer rather than entering
+qualified military service.
+(v) An employee who is in qualified military service, within the
+meaning of section 414(u)(1) of the federal internal revenue code, shall
+be treated as receiving compensation from the employer during such
+period of qualified military service equal to: (a) The compensation the
+employee would have received during such period if the employee
+were not in qualified military service, determined based on the rate of
+pay the employee would have received from the employer but for the
+absence during the period of qualified military service; or (b) if the
+compensation the employee would have received during such period
+was not reasonably certain, the employee's average compensation from
+the employer during the 12-month period immediately preceding the
+qualified military service, or if shorter, the period of employment
+immediately preceding the qualified military service.
+(vi) Back pay, within the meaning of treasury regulation section
+
+Section 15:
+1.415(c)-2(g)(8), shall be treated as compensation for the limitation
+year to which the back pay relates to the extent the back pay represents
+wages and compensation that would otherwise be included under this
+definition.
+(7) On and after January 1, 2009, for purposes of applying the
+limits under section 415(b) of the federal internal revenue code, the
+following shall apply:
+(A) A member's applicable limit shall be applied to the member's
+SENATE BILL No. 64—page 12
+annual benefit in the first limitation year without regard to any
+automatic cost-of-living increases;
+(B) to the extent the member's annual benefit equals or exceeds
+such limit, the member shall no longer be eligible for cost-of-living
+increases until such time as the benefit plus the accumulated increases
+are less than such limit;
+(C) thereafter, in any subsequent limitation year, the member's
+annual benefit including any automatic cost-of-living increase
+applicable shall be tested under the then applicable benefit limit
+including any adjustment to the dollar limit under section 415(b)(1)(A)
+or 415(d) of the federal internal revenue code and the regulations
+thereunder; and
+(D) in no event shall a member's annual benefit payable from a
+retirement plan in any limitation year be greater than the limit
+applicable at the annuity starting date, as increased in subsequent years
+pursuant to section 415(d) of the federal internal revenue code and the
+regulations thereunder. If the form of benefit without regard to the
+automatic benefit increase feature is not a straight life annuity, then the
+preceding sentence is applied by reducing the limit under section
+415(b) of the federal internal revenue code applicable at the annuity
+starting date to an actuarially equivalent amount determined using the
+assumptions specified in treasury regulation section 1.415(b)-1(c)(2)(ii)
+that take into account the death benefits under the form of benefit. This
+subsection applies to distributions made on and after January 1, 1993. A
+distributee may elect to have any portion of an eligible rollover
+distribution paid directly to an eligible retirement plan specified by the
+distributee in a transfer made from the retirement system.
+(i) An eligible rollover distribution is any distribution of all or any
+portion of the balance to the credit of the distributee, except that an
+eligible rollover distribution does not include: (a) Any distribution that
+is one of a series of substantially equal periodic payments, not less
+frequently than annually, made for the life or the life expectancy of the
+distributee or the joint lives or joint life expectancies of the distributee
+and the distributee's designated beneficiary or for a specified period of
+10 years or more; (b) any distribution to the extent such distribution is
+required under section 401(a)(9) of the federal internal revenue code;
+(c) the portion of any distribution that is not includable in gross
+income; and (d) any other distribution that is reasonably expected to
+total less than $200 during the year. Effective January 1, 2002, a
+portion of a distribution shall not fail to be an eligible rollover
+distribution merely because the portion consists of after-tax employee
+contributions that are not includable in gross income. However, such
+portion may be transferred only to an individual retirement account or
+annuity described in section 408(a) or (b) of the federal internal
+revenue code, or to a qualified defined contribution plan described in
+
+Section 16:
+section 401(a) of the federal internal revenue code or to a qualified plan
+described in section 403(a) of the federal internal revenue code, that
+agrees to separately account for amounts so transferred and earnings on
+such amounts, including separately accounting for the portion of the
+distribution that is includable in gross income and the portion of the
+distribution that is not so includable, or on or after January 1, 2007, to a
+qualified defined benefit plan described in section 401(a) of the federal
+internal revenue code or to an annuity contract described in section
+403(b) of the federal internal revenue code, that agrees to separately
+account for amounts so transferred and earnings thereon, including
+separately accounting for the portion of the distribution that is
+includable in gross income and the portion of the distribution that is not
+so includable.
+(ii) An eligible retirement plan is any of the following that accepts
+SENATE BILL No. 64—page 13
+the distributee's eligible rollover distribution:
+(a) An individual retirement account described in section 408(a) of
+the federal internal revenue code;
+(b) an individual retirement annuity described in section 408(b) of
+the federal internal revenue code;
+(c) an annuity plan described in section 403(a) of the federal
+internal revenue code;
+(d) a qualified trust described in section 401(a) of the federal
+internal revenue code;
+(e) effective January 1, 2002, an annuity contract described in
+
+Section 17:
+section 403(b) of the federal internal revenue code;
+(f) effective January 1, 2002, a plan eligible under section 457(b)
+of the federal internal revenue code that is maintained by a state,
+political subdivision of a state or any agency or instrumentality of a
+state or a political subdivision of a state that agrees to separately
+account for amounts transferred into the plan from a retirement plan; or
+(g) effective January 1, 2008, a roth IRA described in section
+408(A) of the federal internal revenue code; or
+(h) effective January 1, 2016, a SIMPLE IRA, as described in
+
+Section 18:
+section 408(p) of the federal internal revenue code, provided that the
+rollover contribution is made after the two-year period described in
+
+Section 19:
+section 72(t)(6) of the federal internal revenue code.
+(iii) Effective January 1, 2002, the definition of eligible rollover
+distribution also includes a distribution to a surviving spouse, or to a
+spouse or former spouse who is an alternate payee under a domestic
+relations order, as defined in section 414(p) of the federal internal
+revenue code.
+(iv) A distributee includes an employee or former employee. It
+also includes the employee's or former employee's surviving spouse
+and the employee's or former employee's spouse or former spouse who
+is the alternate payee under a qualified domestic relations order, as
+defined in section 414(p) of the federal internal revenue code. Effective
+July 1, 2007, a distributee further includes a nonspouse beneficiary who
+is a designated beneficiary as defined by section 401(a)(9)(E) of the
+federal internal revenue code. However, a nonspouse beneficiary may
+rollover the distribution only to an individual retirement account or
+individual retirement annuity established for the purpose of receiving
+the distribution and the account or annuity will be treated as an
+"inherited" individual retirement account or annuity.
+(v) A direct rollover is a payment by the retirement system to the
+eligible retirement plan specified by the distributee.
+(8) Notwithstanding any law to the contrary, the board may accept
+a direct or indirect eligible rollover distributions for the purpose of the
+purchase of service credit. In addition, the board may accept a direct
+trustee to trustee transfer from a deferred compensation plan under
+
+Section 20:
+section 457(b) of the federal internal revenue code or a tax sheltered
+annuity under section 403(b) of the federal internal revenue code for:
+(A) The purchase of permissive service credit, as defined under section
+415(n)(3)(A) of the federal internal revenue code; or (B) a repayment to
+which section 415 of the federal internal revenue code does not apply
+pursuant to section 415(k)(3) of the federal internal revenue code. Any
+such transfer shall be allowed as provided in this subsection to the
+extent permitted by law, subject to any conditions, proofs or acceptance
+established or required by the board or the board's designee.
+(9) Where required by the act, an employer shall pick up and pay
+contributions that would otherwise be payable by members of a
+retirement plan in accordance with section 414(h)(2) of the federal
+internal revenue code as follows:
+(A) The contributions, although designated as employee
+SENATE BILL No. 64—page 14
+contributions, are being paid by the employer in lieu of contributions
+by the employee;
+(B) the employee must not have been given the option of receiving
+the amounts directly instead of having them paid to the retirement plan;
+and
+(C) the pickup shall apply to amounts that a member elects to
+contribute to receive credit for prior or participating service if the
+election is irrevocable and applies to amounts contributed before
+retirement.
+(10) (A) Notwithstanding any provision of this plan to the
+contrary, contributions, benefits and service credit with respect to
+qualified military service will be provided in accordance with section
+414(u) of the federal internal revenue code and the uniformed services
+employment and reemployment rights act of 1994.
+(B) Effective with respect to deaths occurring on or after January
+1, 2007, while a member is performing qualified military service, as
+defined in chapter 43 of title 38, United States code, to the extent
+required by section 401(a)(37) of the federal internal revenue code,
+survivors of a member in the system, are entitled to any additional
+benefits that the system would provide if the member had resumed
+employment and then died, such as accelerated vesting or survivor
+benefits that are contingent on the member's death while employed. A
+deceased member's period of qualified military service must be counted
+for vesting purposes.
+(C) Effective with respect to deaths or disabilities, or both,
+occurring on or after January 1, 2007, while a member is performing
+qualified military service, as defined in chapter 43 of title 38, United
+States code, to the extent permitted by section 414(u)(9) of the federal
+internal revenue code, for the benefit accrual purposes and in the case
+of death, for vesting purposes, the member will be treated as having
+earned years of service for the period of qualified military service,
+having returned to employment on the day before the death or
+disability, or both, and then having terminated on the date of death or
+disability. This provision shall be applied to all similarly situated
+individuals in a reasonably equivalent manner.
+(D) Beginning January 1, 2009, to the extent required by section
+414(u)(12) of the federal internal revenue code, an individual receiving
+differential wage payments, as defined under section 3401(h)(2) of the
+federal internal revenue code, from an employer shall be treated as
+employed by that employer, and the differential wage payment shall be
+treated as compensation for purposes of applying the limits on annual
+additions under section 415(c) of the federal internal revenue code.
+This provision shall be applied to all similarly situated individuals in a
+reasonably equivalent manner.
+(11) Upon the complete or partial termination of a retirement plan,
+the rights of members to benefits accrued to the date of termination, to
+the extent funded, or to the amounts in their accounts are
+nonforfeitable, and amounts in their accounts may be distributed to
+them.
+(d) The plan year for the retirement plan begins on July 1.
+(e) The limitation year for purposes of section 415 of the federal
+internal revenue code is the calendar year.
+(f) The board may not engage in a transaction prohibited by
+
+Section 21:
+section 503(b) of the federal internal revenue code.
+(g) (1) For purposes of determining an "actuarial equivalent" or of
+an "actuarial computation" for members hired prior to July 1, 2009, the
+board shall use the following:
+(A) The applicable mortality table is specified in revenue ruling
+2001-62 or revenue ruling 2007-67, as applicable; and
+SENATE BILL No. 64—page 15
+(B) the applicable interest factor is the actuarially assumed rate of
+return established by the board.
+(2) For purposes of determining an "actuarial equivalent" or an
+"actuarial computation" for members hired on or after July 1, 2009, the
+board shall use the following:
+(A) The applicable mortality table is the 50/ male/female blend of
+50
+the RP 2000 health annuitant mortality table, projected to 2025; and
+(B) the applicable interest factor is the actuarially assumed rate of
+return established by the board.
+(3) For converting amounts payable under the partial lump sum
+option, the board shall use the following:
+(A) The applicable mortality table is a 50/ male/female blend of
+50
+the 1983 group annuity mortality table; and
+(B) the applicable interest factor is the actuarially assumed rate of
+return established by the board.
+(4) For benefit testing under section 415(b) of the federal internal
+revenue code, the factors required by treasury regulations shall be used.
+The applicable mortality table is specified in revenue ruling 2001-62
+for years prior to January 1, 2009, and notice 2008-85 for years after
+December 31, 2008.
+Sec. 4. K.S.A. 74-4902 and 74-4904 and K.S.A. 2024 Supp. 74-
+49,123 are hereby repealed.
+Sec. 5. This act shall take effect and be in force from and after its
+publication in the statute book.
+I hereby certify that the above BILL originated in the
+SENATE, and passed that body
+__________________________
+SENATE adopted
+________________
+Conference Committee Report
+_________________________
+President of the Senate.
+_________________________
+Secretary of the Senate.
+Passed the HOUSE
+_________________________
+as amended
+HOUSE adopted
+________________
+Conference Committee Report
+_________________________
+Speaker of the House.
+_________________________
+Chief Clerk of the House.
+_____________________________
+APPROVED
+_________________________
+Governor.
+[DELETED:  A Cd c" ms te sm of as us e pd b l. Et as oe " m, et as oe p, ay m n d ]
+[DELETED: n e e pm as pd n K. 75 et s, ah s or dd cn p. Bg wh ts  w t bs s " d as t, " sl nt ie a / r sl f te ad or ay nl p" ms a ad or ee or oe f a pr we t s n]
+[DELETED: e d" ms te mg or of to e g se pg rt or n o]
+[DELETED:  s K, d as t, ad wo es to hn pd in r tn 12 el i, ss e 12 el is fr ay sh s pn sn (, pd to sh mr fr a fr ys og e pg rt or tn ot oe e t l , s dd  ( (h g se pg rt r tn o ( (r n n r r g e pt to K. 7, ad as l y" m, fr te Ks pc ee of a" ms a pd of ae f]
+[DELETED: d is mg te rd ee c; ay fe mh in wh dh o. Un pr in a]
+[DELETED: d t of te ms ad cs u)  Kd s f , e h e  w t ds " ms te fl ud se ]
+[DELETED: g . e bd sl hr sh py or ps if d r t p" is te Ks pc et ps sl be st to te fg pn ) of te fl il re e ad t0/ s 0/ ]
+[DELETED: s , wr s l, te bd l b0/ l re c, ig te il dh bf a e s r e , te rg pn of te ms it mt b) d  ts fm a dd cn or d]
+[DELETED: f te bs on ur ce () wl nt ad an e e ct cs me in ln yr ]
+[DELETED: e e dn rs ae ur fl lw to at pn sl ay to sh as ad ay bf l eh te ny ad ae ps fr t, , 4) r 4) f te fl i]
+[DELETED: e dn of cn sl ee er le tt te ee wd he bn ae to u it is me pt to a nd ud dd wn to ad a hf ms fg se f, m d e ]
+[DELETED: t l bt ig ay ac cg it pn  a l yr e r n  ly ag fr te pn of te dn tt i]
+[DELETED: f a e c, ah dd as e]
+[DELETED: ) (g ay pn of ts pn to te w rt t ds r , o bd t e e et f, or to te as in tr as a]
+[DELETED:  /  / B ,  ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL No. 64
+AN ACT concerning retirement and pensions; relating to the Kansas public employees
+retirement system; adjusting certain internal references; extending the time for filing
+administrative appeals; updating provisions relating to compliance with the federal
+internal revenue code; amending K.S.A. 74-4902 and 74-4904 and K.S.A. 2024
+Supp. 74-49,123 and repealing the existing sections.
+Be it enacted by the Legislature of the State of Kansas:
+Section 1. K.S.A. 74-4902 is hereby amended to read as follows:
+74-4902. As used in articles 49 and 49a of chapter 74 of the Kansas
+Statutes Annotated, and amendments thereto, unless otherwise provided
+or the context otherwise requires:
+(1) "Accumulated contributions" means the sum of all
+contributions by a member to the system which are credited to the
+member's account, with interest allowed thereon;
+(2) "acts" means the provisions of articles 49 and 49a of the
+Kansas Statutes Annotated, and amendments thereto;
+(3) "actuarial equivalent" means an annuity or benefit of equal
+value to the accumulated contributions, annuity or benefit, when
+computed upon the basis of the actuarial tables in use by the system.
+Whenever the amount of any benefit is to be determined on the basis of
+actuarial assumptions, the assumptions shall be specified in a way that
+precludes employer discretion;
+(4) "actuarial tables" means the actuarial tables approved and in
+use by the board at any given time;
+(5) "actuary" means the actuary or firm of actuaries employed or
+retained by the board at any given time;
+(6) "agent" means the individual designated by each participating
+employer through whom system transactions and communication are
+directed;
+(7) "beneficiary" means, subject to the provisions of K.S.A. 74-
+4927, and amendments thereto, any natural person or persons, estate or
+trust, or any combination thereof, named by a member to receive any
+benefits as provided for by this act. Designations of beneficiaries by a
+member who is a member of more than one retirement system made on
+or after July 1, 1987, shall be the basis of any benefits payable under all
+systems unless otherwise provided by law. Except as otherwise
+provided by subsection (33) of this section (32), if there is no named
+beneficiary living at the time of the member's death, any benefits
+provided for by this act shall be paid to: (A) The member's surviving
+spouse; (B) the member's dependent child or children; (C) the member's
+dependent parent or parents; (D) the member's nondependent child or
+children; (E) the member's nondependent parent or parents; or (F) the
+estate of the deceased member; in the order of preference as specified
+in this subsection;
+(8) "board of trustees," "board" or "trustees" means the managing
+body of the system which is known as the Kansas public employees
+retirement system board of trustees;
+(9) "compensation" means, except as otherwise provided, all
+salary, wages and other remuneration payable to a member for personal
+services performed for a participating employer, including maintenance
+or any allowance in lieu thereof provided a member as part of
+compensation, but not including reimbursement for travel or moving
+expenses or on and after July 1, 1994, payment pursuant to an early
+retirement incentive program made prior to the retirement of the
+member. Beginning with the employer's fiscal year which that begins in
+calendar year 1991 or for employers other than the state of Kansas,
+beginning with the fiscal year which that begins in calendar year 1992,
+when the compensation of a member who remains in substantially the
+same position during any two consecutive years of participating service
+used in calculating final average salary is increased by an amount
+
+SENATE BILL No. 64—page 2
+which exceeds 15%, then the amount of such increase which exceeds
+15% shall not be included in compensation, except that: (A) Any
+amount of compensation for accumulated sick leave or vacation or
+annual leave paid to the member; (B) any increase in compensation for
+any member due to a reclassification or reallocation of such member's
+position or a reassignment of such member's job classification to a
+higher range or level; and (C) any increase in compensation as provided
+in any contract entered into prior to January 1, 1991, and still in force
+on the effective date of this act, pursuant to an early retirement
+incentive program as provided in K.S.A. 72-5395 et seq., and
+amendments thereto, shall be included in the amount of compensation
+of such member used in determining such member's final average
+salary and shall not be subject to the 15% limitation provided in this
+subsection. Any contributions by such member on the amount of such
+increase which exceeds 15% which is not included in compensation
+shall be returned to the member. Unless otherwise provided by law,
+beginning with the employer's fiscal year coinciding with or following
+July 1, 1985, compensation shall include any amounts for tax sheltered
+annuities or deferred compensation plans. Beginning with the
+employer's fiscal year which that begins in calendar year 1991,
+compensation shall include amounts under sections 403b, 457 and 125
+of the federal internal revenue code of 1986 and, as the board deems
+appropriate, any other section of the federal internal revenue code of
+1986 which defers or excludes amounts from inclusion in income. For
+purposes of applying limits under the federal internal revenue code
+"compensation" shall have the meaning as provided in K.S.A. 74-
+49,123, and amendments thereto. For purposes of this subsection and
+application to the provisions of subsection (4) of K.S.A. 74-4927(4),
+and amendments thereto, "compensation" shall not include any
+payments made by the state board of regents pursuant to the provisions
+of subsection (5) of K.S.A. 74-4927a(5), and amendments thereto, to a
+member of the faculty or other person defined in subsection (1)(a) of
+K.S.A. 74-4925(1)(a), and amendments thereto;
+(10) "credited service" means the sum of participating service and
+prior service and in no event shall credited service include any service
+which that is credited under another retirement plan authorized under
+any law of this state;
+(11) "dependent" means a parent or child of a member who is
+dependent upon the member for at least 1/ of such parent or child's
+2
+support;
+(12) "effective date" means the date upon which the system
+becomes effective by operation of law;
+(13) "eligible employer" means the state of Kansas, and any
+county, city, township, special district or any instrumentality of any one
+or several of the aforementioned or any noncommercial public
+television or radio station located in this state which that receives state
+funds allocated by the Kansas public broadcasting commission whose
+employees are covered by social security. If a class or several classes of
+employees of any above defined employer are not covered by social
+security, such employer shall be deemed an eligible employer only with
+respect to such class or those classes of employees who are covered by
+social security;
+(14) "employee" means any appointed or elective officer or
+employee of a participating employer whose employment is not
+seasonal or temporary and whose employment requires at least 1,000
+hours of work per year, and any such officer or employee who is
+concurrently employed performing similar or related tasks by two or
+more participating employers, who each remit employer and employee
+contributions on behalf of such officer or employee to the system, and
+
+SENATE BILL No. 64—page 3
+whose combined employment is not seasonal or temporary, and whose
+combined employment requires at least 1,000 hours of work per year,
+but not including: (A) Any employee who is a contributing member of
+the United States civil service retirement system; (B) any employee
+who is a contributing member of the federal employees retirement
+system; (C) any employee who is a leased employee as provided in
+section 414 of the federal internal revenue code of a participating
+employer; and (D) any employee or class of employees specifically
+exempted by law. After June 30, 1975, no person who is otherwise
+eligible for membership in the Kansas public employees retirement
+system shall be barred from such membership by reason of coverage
+by, eligibility for or future eligibility for a retirement annuity under the
+provisions of K.S.A. 74-4925, and amendments thereto, except that no
+person shall receive service credit under the Kansas public employees
+retirement system for any period of service for which benefits accrue or
+are granted under a retirement annuity plan under the provisions of
+K.S.A. 74-4925, and amendments thereto. After June 30, 1982, no
+person who is otherwise eligible for membership in the Kansas public
+employees retirement system shall be barred from such membership by
+reason of coverage by, eligibility for or future eligibility for any benefit
+under another retirement plan authorized under any law of this state,
+except that no such person shall receive service credit under the Kansas
+public employees retirement system for any period of service for which
+any benefit accrues or is granted under any such retirement plan.
+Employee shall include persons who are in training at or employed by,
+or both, a sheltered workshop for the blind operated by the secretary for
+children and families. The entry date for such persons shall be the
+beginning of the first pay period of the fiscal year commencing in
+calendar year 1986. Such persons shall be granted prior service credit
+in accordance with K.S.A. 74-4913, and amendments thereto. However,
+such persons classified as home industry employees shall not be
+covered by the retirement system. Employees shall include any member
+of a board of county commissioners of any county and any council
+member or commissioner of a city whose compensation is equal to or
+exceeds $5,000 per year;
+(15) "entry date" means the date as of which an eligible employer
+joins the system. The first entry date pursuant to this act is January 1,
+1962;
+(16) "executive director" means the managing officer of the
+system employed by the board under this act;
+(17) "final average salary" means in the case of a member who
+retires prior to January 1, 1977, and in the case of a member who retires
+after January 1, 1977, and who has less than five years of participating
+service after January 1, 1967, the average highest annual compensation
+paid to such member for any five years of the last 10 years of
+participating service immediately preceding retirement or termination
+of employment, or in the case of a member who retires on or after
+January 1, 1977, and who has five or more years of participating
+service after January 1, 1967, the average highest annual compensation
+paid to such member on or after January 1, 1967, for any five years of
+participating service preceding retirement or termination of
+employment, or, in any case, if participating service is less than five
+years, then the average annual compensation paid to the member during
+the full period of participating service, or, in any case, if the member
+has less than one calendar year of participating service such member's
+final average salary shall be computed by multiplying such member's
+highest monthly salary received in that year by 12; in the case of a
+member who became a member under subsection (3) of K.S.A. 74-
+4925(3), and amendments thereto, or who became a member with a
+
+SENATE BILL No. 64—page 4
+participating employer as defined in subsection (3) of K.S.A. 74-
+4931(3), and amendments thereto, and who elects to have
+compensation paid in other than 12 equal installments, such
+compensation shall be annualized as if the member had elected to
+receive 12 equal installments for any such periods preceding
+retirement; in the case of a member who retires after July 1, 1987, the
+average highest annual compensation paid to such member for any four
+years of participating service preceding retirement or termination of
+employment; in the case of a member who retires on or after July 1,
+1993, whose date of membership in the system is prior to July 1, 1993,
+and any member who is in such member's membership waiting period
+on July 1, 1993, and whose date of membership in the system is on or
+after July 1, 1993, the average highest annual compensation, as defined
+in subsection (9), paid to such member for any four years of
+participating service preceding retirement or termination of
+employment or the average highest annual salary, as defined in
+subsection (34) (33), paid to such member for any three years of
+participating service preceding retirement or termination of
+employment, whichever is greater; and in the case of a member who
+retires on or after July 1, 1993, and whose date of membership in the
+system is on or after July 1, 1993, the average highest annual salary, as
+defined in subsection (34) (33), paid to such member for any three
+years of participating service preceding retirement or termination of
+employment. Final average salary shall not include any purchase of
+participating service credit by a member as provided in subsection (2)
+of K.S.A. 74-4919h(2), and amendments thereto, which is completed
+within five years of retirement. For any application to purchase or
+repurchase service credit for a certain period of service as provided by
+law received by the system after May 17, 1994, for any member who
+will have contributions deducted from such member's compensation at
+a percentage rate equal to two or three times the employee's rate of
+contribution or will begin paying to the system a lump-sum amount for
+such member's purchase or repurchase and such deductions or lump-
+sum payment commences after the commencement of the first payroll
+period in the third quarter, "final average salary" shall not include any
+amount of compensation or salary which is based on such member's
+purchase or repurchase. Any application to purchase or repurchase
+multiple periods of service shall be treated as multiple applications. For
+purposes of this subsection, the date that such member is first hired as
+an employee for members who are employees of employers that elected
+to participate in the system on or after January 1, 1994, shall be the date
+that such employee's employer elected to participate in the system. In
+the case of any former member who was eligible for assistance
+pursuant to K.S.A. 74-4925, and amendments thereto, prior to July 1,
+1998, for the purpose of calculating final average salary of such
+member, such member's final average salary shall be based on such
+member's salary while a member of the system or while eligible for
+assistance pursuant to K.S.A. 74-4925, and amendments thereto,
+whichever is greater;
+(18) "fiscal year" means, for the Kansas public employees
+retirement system, the period commencing July 1 of any year and
+ending June 30 of the next;
+(19) "Kansas public employees retirement fund" means the fund
+created by this act for payment of expenses and benefits under the
+system and referred to as the fund;
+(20) "leave of absence" means a period of absence from
+employment without pay, authorized and approved by the employer,
+and which after the effective date does not exceed one year;
+(21) "member" means an eligible employee who is in the system
+
+SENATE BILL No. 64—page 5
+and is making the required employee contributions; any former
+employee who has made the required contributions to the system and
+has not received a refund if such member is within five years of
+termination of employment with a participating employer; or any
+former employee who has made the required contributions to the
+system, has not yet received a refund and has been granted a vested
+benefit;
+(22) "military service" means service in the uniformed forces of
+the United States, for which retirement benefit credit must be given
+under the provisions of USERRA or service in the armed forces of the
+United States or in the commissioned corps of the United States public
+health service, which service is immediately preceded by a period of
+employment as an employee or by entering into an employment
+contract with a participating employer and is followed by return to
+employment as an employee with the same or another participating
+employer within 12 months immediately following discharge from such
+military service, except that if the board determines that such return
+within 12 months was made impossible by reason of a service-
+connected disability, the period within which the employee must return
+to employment with a participating employer shall be extended not
+more than two years from the date of discharge or separation from
+military service;
+(23) "normal retirement date" means the date on or after which a
+member may retire with full retirement benefits pursuant to K.S.A. 74-
+4914, and amendments thereto;
+(24) "participating employer" means an eligible employer who has
+agreed to make contributions to the system on behalf of its employees;
+(25) "participating service" means the period of employment after
+the entry date for which credit is granted a member;
+(26) "prior service" means the period of employment of a member
+prior to the entry date for which credit is granted a member under this
+act;
+(27) "prior service annual salary" means the highest annual salary,
+not including any amounts received as payment for overtime or as
+reimbursement for travel or moving expense, received for personal
+services by the member from the current employer in any one of the
+three calendar years immediately preceding January 1, 1962, or the
+entry date of the employer, whichever is later, except that if a member
+entered the employment of the state during the calendar year 1961, the
+prior service annual salary shall be computed by multiplying such
+member's highest monthly salary received in that year by 12;
+(28) "retirant" means a member who has retired under this system;
+(29) "retirement benefit" means a monthly income or the actuarial
+equivalent thereof paid in such manner as specified by the member
+pursuant to this act or as otherwise allowed to be paid at the discretion
+of the board, with benefits accruing from the first day of the month
+coinciding with or following retirement and ending on the last day of
+the month in which death occurs. Upon proper identification a
+surviving spouse may negotiate the warrant issued in the name of the
+retirant. If there is no surviving spouse, the last warrant shall be
+payable to the designated beneficiary;
+(30) "retirement system" or "system" means the Kansas public
+employees retirement system as established by this act and as it may be
+amended;
+(31) "social security" means the old age, survivors and disability
+insurance section of the federal social security act;
+(32) "trust" means an express trust, created by a trust instrument,
+including a will, designated by a member to receive payment of the
+insured death benefit under K.S.A. 74-4927, and amendments thereto,
+
+SENATE BILL No. 64—page 6
+and payment of the member's accumulated contributions under
+subsection (1) of K.S.A. 74-4916(1), and amendments thereto. A
+designation of a trust shall be filed with the board. If no will is admitted
+to probate within six months after the death of the member or no trustee
+qualifies within such six months or if the designated trust fails, for any
+reason whatsoever, the insured death benefit under K.S.A. 74-4927, and
+amendments thereto, and the member's accumulated contributions
+under subsection (1) of K.S.A. 74-4916(1), and amendments thereto,
+shall be paid in accordance with the provisions of subsection (7) of this
+section as in other cases where there is no named beneficiary living at
+the time of the member's death and any payments so made shall be a
+full discharge and release to the system from any further claims;
+(33) "salary" means all salary and wages payable to a member for
+personal services performed for a participating employer, including
+maintenance or any allowance in lieu thereof provided a member as
+part of salary. Salary shall not include reimbursement for travel or
+moving expenses, payment for accumulated sick leave or vacation or
+annual leave, severance pay or any other payments to the member
+determined by the board to not be payments for personal services
+performed for a participating employer constituting salary or on and
+after July 1, 1994, payment pursuant to an early retirement incentive
+program made prior to the retirement of the member. When the salary
+of a member who remains in substantially the same position during any
+two consecutive years of participating service used in calculating final
+average salary is increased by an amount which exceeds 15%, then the
+amount of such increase which exceeds 15% shall not be included in
+salary. Any contributions by such member on the amount of such
+increase which exceeds 15% which is not included in compensation
+shall be returned to the member. Unless otherwise provided by law,
+salary shall include any amounts for tax sheltered annuities or deferred
+compensation plans. Salary shall include amounts under sections 403b,
+457 and 125 of the federal internal revenue code of 1986 and, as the
+board deems appropriate, any other section of the federal internal
+revenue code of 1986 which that defers or excludes amounts from
+inclusion in income. For purposes of applying limits under the federal
+internal revenue code "salary" shall have the meaning as provided in
+K.S.A. 74-49,123, and amendments thereto. In any case, if participating
+service is less than three years, then the average annual salary paid to
+the member during the full period of participating service, or, in any
+case, if the member has less than one calendar year of participating
+service such member's final average salary shall be computed by
+multiplying such member's highest monthly salary received in that year
+by 12;
+(34) "federal internal revenue code" means the federal internal
+revenue code of 1954 or 1986, as in effect on July 1, 2008, and as
+applicable to a governmental plan; and
+(35) "USERRA" means the federal uniformed services
+employment and reemployment rights act of 1994 as in effect on July 1,
+2008.
+Sec. 2. K.S.A. 74-4904 is hereby amended to read as follows: 74-
+4904. (1) The system may sue and be sued in its official name, but its
+trustees, officers, employees and agents shall not be personally liable
+for acts of the system unless such person acted with willful, wanton or
+fraudulent misconduct or intentionally tortious conduct. Any agreement
+in settlement of litigation involving the system and the investment of
+moneys of the fund is a public record as provided in K.S.A. 45-215 et
+seq., and amendments thereto, and subject to the provisions of that act.
+The service of all legal process and of all notices which may be
+required to be in writing, whether legal proceedings or otherwise, shall
+
+SENATE BILL No. 64—page 7
+be had on the executive director at such executive director's office. All
+actions or proceedings directly or indirectly against the system shall be
+brought in Shawnee county.
+(2) Any person aggrieved by any order or decision of the board
+made without a hearing, may, within 30 60 days after notice of the
+order or decision of the board make written request to the board for a
+hearing thereon. The board shall hear such party or parties in
+accordance with the provisions of the Kansas administrative procedure
+act at its next regular meeting or at a special meeting within 60 days
+after receipt of such request. For the purpose of any hearing under this
+section, the board may appoint the executive director or use a presiding
+officer from the office of administrative hearings. The board shall
+review an initial order resulting from a hearing under this section. The
+board is hereby authorized to enter into a contract with the office of
+administrative hearings and to provide for reimbursement for actual and
+necessary expenses and compensation for such person serving as a
+presiding officer.
+Sec. 3. K.S.A. 2024 Supp. 74-49,123 is hereby amended to read as
+follows: 74-49,123. (a) This section applies to the Kansas public
+employees retirement system and to all other public retirement plans
+administered by the board of trustees.
+(b) As used in this section:
+(1) "Federal internal revenue code" means the federal internal
+revenue code of 1954 or 1986, as amended and as applicable to a
+governmental plan as in effect on July 1, 2008; and
+(2) "retirement plan" includes the Kansas public employees
+retirement system and all other Kansas public retirement plans and
+benefit structures, which are administered by the board.
+(c) In addition to the federal internal revenue code provisions
+otherwise noted in each retirement plan's law, and in order to satisfy the
+applicable requirements under the federal internal revenue code, the
+retirement plans shall be subject to the following provisions,
+notwithstanding any other provision of the retirement plan's law:
+(1) The board shall distribute the corpus and income of the
+retirement plan to the members and their beneficiaries in accordance
+with the retirement plan's law. At no time prior to the satisfaction of all
+liabilities with respect to members and their beneficiaries shall any part
+of the corpus and income be used for, or diverted to, purposes other
+than the exclusive benefit of the members and their beneficiaries.
+(2) Forfeitures arising from severance of employment, death or for
+any other reason may not be applied to increase the benefits any
+member would otherwise receive under the retirement plan's law.
+However, forfeitures may be used to reduce an employer's contribution.
+(3) All benefits paid from the retirement plan shall be distributed
+in accordance with a good faith interpretation of the requirements of
+section 401(a)(9) of the federal internal revenue code and the
+regulations under that section. Notwithstanding any other provision of
+these rules and regulations, effective on and after January 1, 2003, the
+retirement plan is subject to the following provisions:
+(A) Benefits must begin by the required beginning date, which is
+the later of April 1 of the calendar year following the calendar year in
+which the member reaches 72 years of age, or 701/ years of age if the
+2
+member was born before July 1, 1949, the applicable age or April 1 of
+the calendar year following the calendar year in which the member
+terminates employment. If a member fails to apply for retirement
+benefits by April 1 of the calendar year following the calendar year in
+which such member reaches 72 years of age, or 701/ years of age if the
+2
+member was born before July 1, 1949, the applicable age or April 1 of
+the calendar year following the calendar year in which such member
+
+SENATE BILL No. 64—page 8
+terminates employment, whichever is later, the board will begin
+distributing the benefit as required by this section. For purposes of this
+section, the applicable age is 701/ if the member was born before July
+2
+1, 1949, age 72 if the member was born on or after July 1, 1949, but
+before January 1, 1951, age 73 if the member was born on or after
+January 1, 1951, but before January 1, 1959, and age 75 if the member
+was born on or after January 1, 1960.
+(B) The member's entire interest must be distributed over the
+member's life or the lives of the member and a designated beneficiary,
+or over a period not extending beyond the life expectancy of the
+member or of the member and a designated beneficiary. Death benefits
+must be distributed in accordance with section 401(a)(9) of the federal
+internal revenue code, including the incidental death benefit
+requirement in section 401(a)(9)(G) of the federal internal revenue
+code, and the regulations implementing that section.
+(C) Except as allowed under section 401(a)(9) of the federal
+internal revenue code and applicable regulations thereunder, the life
+expectancy of a member, the member's spouse or the member's
+beneficiary may not be recalculated after the initial determination for
+purposes of determining benefits.
+(D) If a member dies after the required distribution of benefits has
+begun, the remaining portion of the member's interest must be
+distributed at least as rapidly as under the method of distribution before
+the member's death and no longer than the remaining period over which
+distributions commenced.
+(E) If a member dies before required distribution of the member's
+benefits has begun, the member's entire interest must be either:
+(i) In accordance with federal regulations, distributed over the life
+or life expectancy of the designated beneficiary, with the distributions
+beginning no later than December 31 of the calendar year immediately
+following the calendar year of the member's death; or
+(ii) distributed by December 31 of the calendar year containing the
+fifth anniversary of the member's death.
+(F) The amount of an annuity paid to a member's beneficiary may
+not exceed the maximum determined under the incidental death benefit
+requirement of the federal internal revenue code.
+(G) The death and disability benefits provided by a retirement
+plan are limited by the incidental benefit rule set forth in section 401(a)
+(9)(G) of the federal internal revenue code and applicable treasury
+regulation 1.401-1(b)(l)(i) regulations.
+(H) Distributions from a defined contribution or deferred
+compensation plan shall be made in accordance with the rules under
+section 401(a)(9) of the federal internal revenue code that are specific
+to such plans.
+(4) Distributions from the retirement plans may be made only
+upon retirement, separation from service, disability or death.
+(5) The board or its designee may not:
+(A) Determine eligibility for benefits;
+(B) compute rates of contribution; or
+(C) compute benefits of members or beneficiaries, in a manner
+that discriminates in favor of members who are considered officers,
+supervisors or highly compensated, as prohibited under section 401(a)
+(4) of the federal internal revenue code.
+(6) Subject to the provisions of this subsection, benefits paid from,
+and employee contributions made to, the retirement plans shall not
+exceed the maximum benefits and the maximum annual additions,
+respectively, permissible under section 415 of the federal internal
+revenue code.
+(A) Before January 1, 1995, a member may not receive an annual
+
+SENATE BILL No. 64—page 9
+benefit that exceeds the limits specified in section 415(b) of the federal
+internal revenue code, subject to the applicable adjustments in that
+section. Beginning January 1, 1995, a participant may not receive an
+annual benefit that exceeds the dollar amount specified in section
+415(b)(1)(A) of the federal internal revenue code, subject to the
+applicable adjustments in section 415 of the federal internal revenue
+code.
+(B) Notwithstanding any other provision of law to the contrary,
+the board may modify a request by a participant to make a contribution
+to the retirement plans if the amount of the contribution would exceed
+the limits under section 415(c) or 415(n) of the federal internal revenue
+code subject to the following:
+(i) Where the retirement plan's law requires a lump-sum payment,
+for the purchase of service credit, the board may establish a periodic
+payment plan in order to avoid a contribution in excess of the limits
+under section 415(c) or 415(n) of the federal internal revenue code.
+(ii) If the board's option under clause (i) will not avoid a
+contribution in excess of the limits under section 415(c) or 415(n) of
+the federal internal revenue code, the board shall reduce or deny the
+contribution.
+(C) Effective for permissive service credit contributions made in
+limitation years beginning after December 31, 1997, if an active
+member makes one or more contributions to purchase permissive
+service credit under a retirement plan, then the requirements of this
+section shall be treated as met only if:
+(i) The requirements of section 415(b) of the federal internal
+revenue code are met, determined by treating the accrued benefit
+derived from all such contributions as an annual benefit for purposes of
+such section; or
+(ii) the requirements of section 415(c) of the federal internal
+revenue code are met, determined by treating all such contributions as
+annual additions for purposes of such section. For purposes of applying
+clause (i) a retirement plan shall not fail to meet the reduced limit under
+section 415(b)(2)(C) of the federal internal revenue code solely by
+reason of this subparagraph (C), and for purposes of applying clause
+(ii), a retirement plan shall not fail to meet the percentage limitation
+under section 415(c)(1)(B) of the federal internal revenue code solely
+by reason of this paragraph.
+(iii) For purposes of this clause, the term "permissive service
+credit" means service credit:
+(a) Specifically recognized by a retirement plan's law for purposes
+of calculating a member's benefit under that retirement plan;
+(b) that such member has not received under a retirement plan;
+and
+(c) that such member may receive under a retirement plan's law
+only by making a voluntary additional contribution, in an amount
+determined under the retirement plan's law and procedures established
+by the board, that does not exceed the amount necessary to fund the
+benefit attributable to such service credit.
+(iv) A retirement plan shall fail to meet the requirements of this
+clause if the retirement plan's law specifically provides for a purchase
+of nonqualified service purchase, and if:
+(a) More than five years of nonqualified service credit are taken
+into account for purposes of this subclause; or
+(b) any nonqualified service credit is taken into account under this
+subclause before the member has at least five years of participation
+under a retirement plan. For purposes of this subclause, effective for
+permissive service credit contributions made in limitation years
+beginning after December 31, 1997, the term "nonqualified service
+
+SENATE BILL No. 64—page 10
+credit" means the same as provided in section 415(n)(3)(C) of the
+federal internal revenue code.
+(v) In the case of a trustee-to-trustee transfer after December 31,
+2001, to which section 403(b)(13)(A) or 457(e)(17)(A) of the federal
+internal revenue code applies, without regard to whether the transfer is
+made between plans maintained by the same employer:
+(a) The limitations of clause (iv) shall not apply in determining
+whether the transfer is for the purchase of permissive service credit;
+and
+(b) the distribution rules applicable under federal law to a
+retirement plan shall apply to such amounts and any benefits
+attributable to such amounts.
+(vi) For an eligible member, the limitation of section 415(c)(1) of
+the federal internal revenue code shall not be applied to reduce the
+amount of permissive service credit which may be purchased to an
+amount less than the amount which was allowed to be purchased under
+the terms of the statute as in effect on August 5, 1997. For purposes of
+this clause, an eligible member is an individual who first became a
+member in the retirement plan before January 1, 1998.
+(D) Subject to approval by the internal revenue service, the board
+shall maintain a qualified governmental excess benefit arrangement
+under section 415(m) of the federal internal revenue code. The board
+shall establish the necessary and appropriate procedures for the
+administration of such benefit arrangement under the federal internal
+revenue code. The amount of any annual benefit that would exceed the
+limitations imposed by section 415 of the federal internal revenue code
+shall be paid from this benefit arrangement. The amount of any
+contribution that would exceed the limitations imposed by section 415
+of the federal internal revenue code shall be credited to this benefit
+arrangement. The qualified excess benefit arrangement shall be a
+separate portion of the retirement plan. The qualified excess benefit
+arrangement is subject to the following requirements:
+(i) The benefit arrangement shall be maintained solely for the
+purpose of providing to participants in the retirement plans that part of
+the participant's annual benefit otherwise payable under the terms of the
+act that exceeds the limitations on benefits imposed by section 415 of
+the federal internal revenue code; and
+(ii) participants do not have an election, directly or indirectly, to
+defer compensation to the excess benefit arrangement.
+(E) For purposes of applying these limits only and for no other
+purpose, the definition of compensation where applicable shall be
+compensation actually paid or made available during a limitation year,
+except as noted below and as permitted by treasury regulation section
+1.415(c)-2. Specifically, compensation shall be defined as wages within
+the meaning of section 3401(a) of the federal internal revenue code and
+all other payments of compensation to an employee by an employer for
+which the employer is required to furnish the employee a written
+statement under sections 6041(d), 6051(a)(3) and 6052 of the federal
+internal revenue code. Compensation shall be determined without
+regard to any rules under section 3401(a) of the federal internal revenue
+code that limit the remuneration included in wages based on the nature
+or location of the employment or the services performed, such as the
+exception for agricultural labor in section 3401(a)(2) of the federal
+internal revenue code.
+(i) However, for limitation years beginning after December 31,
+1997, compensation shall also include amounts that would otherwise be
+included in compensation but for an election under sections 125(a),
+402(e)(3), 402(h)(1)(B), 402(k) or 457(b) of the federal internal
+revenue code. For limitation years beginning after December 30, 2000,
+
+SENATE BILL No. 64—page 11
+compensation shall also include any elective amounts that are not
+includable in the gross income of the employee by reason of section
+132(f)(4) of the federal internal revenue code.
+(ii) The definition of compensation shall exclude employee
+contributions picked up under section 414(h)(2) of the federal internal
+revenue code.
+(iii) For limitation years beginning on and after January 1, 2007,
+compensation for the limitation year will also include compensation
+paid by the later of two and a half months after an employee's
+severance from employment or the end of the limitation year that
+includes the date of the employee's severance from employment if:
+(a) The payment is regular compensation for services during the
+employee's regular working hours or compensation for services outside
+the employee's regular working hours, such as overtime or shift
+differential, commissions, bonuses or other similar payments, and
+absent a severance from employment, the payments would have been
+paid to the employee while the employee continues in employment
+with the employer;
+(b) the payment is for unused accrued bona fide sick, vacation or
+other leave that the employee would have been able to use if
+employment had continued; or
+(c) for limitation years beginning on and after January 1, 2012, the
+payment is made pursuant to a nonqualified unfunded deferred
+compensation plan, but only if the payment would have been paid to
+the member at the same time if the member had continued employment
+with the employer and only to the extent that the payment is includable
+in the member's gross income.
+(iv) Any payments not described in clause (iii) are not considered
+compensation if paid after severance from employment, even if they are
+paid within two and a half months following severance from
+employment, except for payments to the individual who does not
+currently perform services for the employer by reason of qualified
+military service, within the meaning of section 414(u)(1) of the federal
+internal revenue code, to the extent these payments do not exceed the
+amounts the individual would have received if the individual had
+continued to perform services for the employer rather than entering
+qualified military service.
+(v) An employee who is in qualified military service, within the
+meaning of section 414(u)(1) of the federal internal revenue code, shall
+be treated as receiving compensation from the employer during such
+period of qualified military service equal to: (a) The compensation the
+employee would have received during such period if the employee
+were not in qualified military service, determined based on the rate of
+pay the employee would have received from the employer but for the
+absence during the period of qualified military service; or (b) if the
+compensation the employee would have received during such period
+was not reasonably certain, the employee's average compensation from
+the employer during the 12-month period immediately preceding the
+qualified military service, or if shorter, the period of employment
+immediately preceding the qualified military service.
+(vi) Back pay, within the meaning of treasury regulation section
+1.415(c)-2(g)(8), shall be treated as compensation for the limitation
+year to which the back pay relates to the extent the back pay represents
+wages and compensation that would otherwise be included under this
+definition.
+(7) On and after January 1, 2009, for purposes of applying the
+limits under section 415(b) of the federal internal revenue code, the
+following shall apply:
+(A) A member's applicable limit shall be applied to the member's
+
+SENATE BILL No. 64—page 12
+annual benefit in the first limitation year without regard to any
+automatic cost-of-living increases;
+(B) to the extent the member's annual benefit equals or exceeds
+such limit, the member shall no longer be eligible for cost-of-living
+increases until such time as the benefit plus the accumulated increases
+are less than such limit;
+(C) thereafter, in any subsequent limitation year, the member's
+annual benefit including any automatic cost-of-living increase
+applicable shall be tested under the then applicable benefit limit
+including any adjustment to the dollar limit under section 415(b)(1)(A)
+or 415(d) of the federal internal revenue code and the regulations
+thereunder; and
+(D) in no event shall a member's annual benefit payable from a
+retirement plan in any limitation year be greater than the limit
+applicable at the annuity starting date, as increased in subsequent years
+pursuant to section 415(d) of the federal internal revenue code and the
+regulations thereunder. If the form of benefit without regard to the
+automatic benefit increase feature is not a straight life annuity, then the
+preceding sentence is applied by reducing the limit under section
+415(b) of the federal internal revenue code applicable at the annuity
+starting date to an actuarially equivalent amount determined using the
+assumptions specified in treasury regulation section 1.415(b)-1(c)(2)(ii)
+that take into account the death benefits under the form of benefit. This
+subsection applies to distributions made on and after January 1, 1993. A
+distributee may elect to have any portion of an eligible rollover
+distribution paid directly to an eligible retirement plan specified by the
+distributee in a transfer made from the retirement system.
+(i) An eligible rollover distribution is any distribution of all or any
+portion of the balance to the credit of the distributee, except that an
+eligible rollover distribution does not include: (a) Any distribution that
+is one of a series of substantially equal periodic payments, not less
+frequently than annually, made for the life or the life expectancy of the
+distributee or the joint lives or joint life expectancies of the distributee
+and the distributee's designated beneficiary or for a specified period of
+10 years or more; (b) any distribution to the extent such distribution is
+required under section 401(a)(9) of the federal internal revenue code;
+(c) the portion of any distribution that is not includable in gross
+income; and (d) any other distribution that is reasonably expected to
+total less than $200 during the year. Effective January 1, 2002, a
+portion of a distribution shall not fail to be an eligible rollover
+distribution merely because the portion consists of after-tax employee
+contributions that are not includable in gross income. However, such
+portion may be transferred only to an individual retirement account or
+annuity described in section 408(a) or (b) of the federal internal
+revenue code, or to a qualified defined contribution plan described in
+section 401(a) of the federal internal revenue code or to a qualified plan
+described in section 403(a) of the federal internal revenue code, that
+agrees to separately account for amounts so transferred and earnings on
+such amounts, including separately accounting for the portion of the
+distribution that is includable in gross income and the portion of the
+distribution that is not so includable, or on or after January 1, 2007, to a
+qualified defined benefit plan described in section 401(a) of the federal
+internal revenue code or to an annuity contract described in section
+403(b) of the federal internal revenue code, that agrees to separately
+account for amounts so transferred and earnings thereon, including
+separately accounting for the portion of the distribution that is
+includable in gross income and the portion of the distribution that is not
+so includable.
+(ii) An eligible retirement plan is any of the following that accepts
+
+SENATE BILL No. 64—page 13
+the distributee's eligible rollover distribution:
+(a) An individual retirement account described in section 408(a) of
+the federal internal revenue code;
+(b) an individual retirement annuity described in section 408(b) of
+the federal internal revenue code;
+(c) an annuity plan described in section 403(a) of the federal
+internal revenue code;
+(d) a qualified trust described in section 401(a) of the federal
+internal revenue code;
+(e) effective January 1, 2002, an annuity contract described in
+section 403(b) of the federal internal revenue code;
+(f) effective January 1, 2002, a plan eligible under section 457(b)
+of the federal internal revenue code that is maintained by a state,
+political subdivision of a state or any agency or instrumentality of a
+state or a political subdivision of a state that agrees to separately
+account for amounts transferred into the plan from a retirement plan; or
+(g) effective January 1, 2008, a roth IRA described in section
+408(A) of the federal internal revenue code; or
+(h) effective January 1, 2016, a SIMPLE IRA, as described in
+section 408(p) of the federal internal revenue code, provided that the
+rollover contribution is made after the two-year period described in
+section 72(t)(6) of the federal internal revenue code.
+(iii) Effective January 1, 2002, the definition of eligible rollover
+distribution also includes a distribution to a surviving spouse, or to a
+spouse or former spouse who is an alternate payee under a domestic
+relations order, as defined in section 414(p) of the federal internal
+revenue code.
+(iv) A distributee includes an employee or former employee. It
+also includes the employee's or former employee's surviving spouse
+and the employee's or former employee's spouse or former spouse who
+is the alternate payee under a qualified domestic relations order, as
+defined in section 414(p) of the federal internal revenue code. Effective
+July 1, 2007, a distributee further includes a nonspouse beneficiary who
+is a designated beneficiary as defined by section 401(a)(9)(E) of the
+federal internal revenue code. However, a nonspouse beneficiary may
+rollover the distribution only to an individual retirement account or
+individual retirement annuity established for the purpose of receiving
+the distribution and the account or annuity will be treated as an
+"inherited" individual retirement account or annuity.
+(v) A direct rollover is a payment by the retirement system to the
+eligible retirement plan specified by the distributee.
+(8) Notwithstanding any law to the contrary, the board may accept
+a direct or indirect eligible rollover distributions for the purpose of the
+purchase of service credit. In addition, the board may accept a direct
+trustee to trustee transfer from a deferred compensation plan under
+section 457(b) of the federal internal revenue code or a tax sheltered
+annuity under section 403(b) of the federal internal revenue code for:
+(A) The purchase of permissive service credit, as defined under section
+415(n)(3)(A) of the federal internal revenue code; or (B) a repayment to
+which section 415 of the federal internal revenue code does not apply
+pursuant to section 415(k)(3) of the federal internal revenue code. Any
+such transfer shall be allowed as provided in this subsection to the
+extent permitted by law, subject to any conditions, proofs or acceptance
+established or required by the board or the board's designee.
+(9) Where required by the act, an employer shall pick up and pay
+contributions that would otherwise be payable by members of a
+retirement plan in accordance with section 414(h)(2) of the federal
+internal revenue code as follows:
+(A) The contributions, although designated as employee
+
+SENATE BILL No. 64—page 14
+contributions, are being paid by the employer in lieu of contributions
+by the employee;
+(B) the employee must not have been given the option of receiving
+the amounts directly instead of having them paid to the retirement plan;
+and
+(C) the pickup shall apply to amounts that a member elects to
+contribute to receive credit for prior or participating service if the
+election is irrevocable and applies to amounts contributed before
+retirement.
+(10) (A) Notwithstanding any provision of this plan to the
+contrary, contributions, benefits and service credit with respect to
+qualified military service will be provided in accordance with section
+414(u) of the federal internal revenue code and the uniformed services
+employment and reemployment rights act of 1994.
+(B) Effective with respect to deaths occurring on or after January
+1, 2007, while a member is performing qualified military service, as
+defined in chapter 43 of title 38, United States code, to the extent
+required by section 401(a)(37) of the federal internal revenue code,
+survivors of a member in the system, are entitled to any additional
+benefits that the system would provide if the member had resumed
+employment and then died, such as accelerated vesting or survivor
+benefits that are contingent on the member's death while employed. A
+deceased member's period of qualified military service must be counted
+for vesting purposes.
+(C) Effective with respect to deaths or disabilities, or both,
+occurring on or after January 1, 2007, while a member is performing
+qualified military service, as defined in chapter 43 of title 38, United
+States code, to the extent permitted by section 414(u)(9) of the federal
+internal revenue code, for the benefit accrual purposes and in the case
+of death, for vesting purposes, the member will be treated as having
+earned years of service for the period of qualified military service,
+having returned to employment on the day before the death or
+disability, or both, and then having terminated on the date of death or
+disability. This provision shall be applied to all similarly situated
+individuals in a reasonably equivalent manner.
+(D) Beginning January 1, 2009, to the extent required by section
+414(u)(12) of the federal internal revenue code, an individual receiving
+differential wage payments, as defined under section 3401(h)(2) of the
+federal internal revenue code, from an employer shall be treated as
+employed by that employer, and the differential wage payment shall be
+treated as compensation for purposes of applying the limits on annual
+additions under section 415(c) of the federal internal revenue code.
+This provision shall be applied to all similarly situated individuals in a
+reasonably equivalent manner.
+(11) Upon the complete or partial termination of a retirement plan,
+the rights of members to benefits accrued to the date of termination, to
+the extent funded, or to the amounts in their accounts are
+nonforfeitable, and amounts in their accounts may be distributed to
+them.
+(d) The plan year for the retirement plan begins on July 1.
+(e) The limitation year for purposes of section 415 of the federal
+internal revenue code is the calendar year.
+(f) The board may not engage in a transaction prohibited by
+section 503(b) of the federal internal revenue code.
+(g) (1) For purposes of determining an "actuarial equivalent" or of
+an "actuarial computation" for members hired prior to July 1, 2009, the
+board shall use the following:
+(A) The applicable mortality table is specified in revenue ruling
+2001-62 or revenue ruling 2007-67, as applicable; and
+
+SENATE BILL No. 64—page 15
+(B) the applicable interest factor is the actuarially assumed rate of
+return established by the board.
+(2) For purposes of determining an "actuarial equivalent" or an
+"actuarial computation" for members hired on or after July 1, 2009, the
+board shall use the following:
+(A) The applicable mortality table is the 50/ male/female blend of
+50
+the RP 2000 health annuitant mortality table, projected to 2025; and
+(B) the applicable interest factor is the actuarially assumed rate of
+return established by the board.
+(3) For converting amounts payable under the partial lump sum
+option, the board shall use the following:
+(A) The applicable mortality table is a 50/ male/female blend of
+50
+the 1983 group annuity mortality table; and
+(B) the applicable interest factor is the actuarially assumed rate of
+return established by the board.
+(4) For benefit testing under section 415(b) of the federal internal
+revenue code, the factors required by treasury regulations shall be used.
+The applicable mortality table is specified in revenue ruling 2001-62
+for years prior to January 1, 2009, and notice 2008-85 for years after
+December 31, 2008.
+Sec. 4. K.S.A. 74-4902 and 74-4904 and K.S.A. 2024 Supp. 74-
+49,123 are hereby repealed.
+Sec. 5. This act shall take effect and be in force from and after its
+publication in the statute book.
+I hereby certify that the above BILL originated in the
+SENATE, and passed that body
+__________________________
+SENATE adopted
+________________
+Conference Committee Report
+_________________________
+President of the Senate.
+_________________________
+Secretary of the Senate.
+Passed the HOUSE
+_________________________
+as amended
+HOUSE adopted
+________________
+Conference Committee Report
+_________________________
+Speaker of the House.
+_________________________
+Chief Clerk of the House.
+_____________________________
+APPROVED
+_________________________
+Governor.
+
+[DELETED:  A Cd c" ms te sm of as us e pd b l. Et as oe " m, et as oe p, ay m n d ]
+[DELETED: n e e pm as pd n K. 75 et s, ah s or dd cn p. Bg wh ts  w t bs s " d as t, " sl nt ie a / r sl f te ad or ay nl p" ms a ad or ee or oe f a pr we t s n]
+[DELETED: e d" ms te mg or of to e g se pg rt or n o]
+[DELETED:  s K, d as t, ad wo es to hn pd in r tn 12 el i, ss e 12 el is fr ay sh s pn sn (, pd to sh mr fr a fr ys og e pg rt or tn ot oe e t l , s dd  ( (h g se pg rt r tn o ( (r n n r r g e pt to K. 7, ad as l y" m, fr te Ks pc ee of a" ms a pd of ae f]
+[DELETED: d is mg te rd ee c; ay fe mh in wh dh o. Un pr in a]
+[DELETED: d t of te ms ad cs u)  Kd s f , e h e  w t ds " ms te fl ud se ]
+[DELETED: g . e bd sl hr sh py or ps if d r t p" is te Ks pc et ps sl be st to te fg pn ) of te fl il re e ad t0/ s 0/ ]
+[DELETED: s , wr s l, te bd l b0/ l re c, ig te il dh bf a e s r e , te rg pn of te ms it mt b) d  ts fm a dd cn or d]
+[DELETED: f te bs on ur ce () wl nt ad an e e ct cs me in ln yr ]
+[DELETED: e e dn rs ae ur fl lw to at pn sl ay to sh as ad ay bf l eh te ny ad ae ps fr t, , 4) r 4) f te fl i]
+[DELETED: e dn of cn sl ee er le tt te ee wd he bn ae to u it is me pt to a nd ud dd wn to ad a hf ms fg se f, m d e ]
+[DELETED: t l bt ig ay ac cg it pn  a l yr e r n  ly ag fr te pn of te dn tt i]
+[DELETED: f a e c, ah dd as e]
+[DELETED: ) (g ay pn of ts pn to te w rt t ds r , o bd t e e et f, or to te as in tr as a]
+[DELETED:  /  / B ,  ]

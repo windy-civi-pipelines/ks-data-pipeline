@@ -1,0 +1,1024 @@
+Title: House Substitute for SENATE BILL No. 9
+Official Title: House Substitute for SENATE BILL No. 9
+Number of Sections: 1
+Source: versions - H Sub for
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Commerce, Labor and Economic Development
+3-5
+1 AN ACT concerning property; relating to certain lands and military
+2 installations; enacting the Kansas land and military installation
+3 protection act; prohibiting foreign principals from countries of concern
+4 from acquiring any interest in certain real property in this state;
+5 authorizing the fusion center oversight board to adopt rules and
+6 regulations to add or remove federally designated foreign terrorist
+7 organizations from the definition of country of concern; prohibiting
+8 foreign principals from countries of concern from receiving any
+9 economic development program benefits; relating to drones and drone
+10 technology; prohibiting the acquisition of critical components of drone
+11 technology from countries of concern; amending K.S.A. 2024 Supp.
+12 60-4104 and 60-4106 and repealing the existing sections.
+13
+14 Be it enacted by the Legislature of the State of Kansas:
+15 New Section 1. (a) Sections 1 through 8, and amendments thereto,
+16 shall be known and may be cited as the Kansas land and military
+17 installation protection act.
+18 (b) The purpose of this act is to protect certain real property and
+19 military installations located in this state by prohibiting countries of
+20 concern and any agent thereof from acquiring any interest in such real
+21 property.
+22 New Sec. 2. As used in sections 1 through 8, and amendments
+23 thereto:
+24 (a) "Attorney general" means the attorney general of the state of
+25 Kansas.
+26 (b) "Company" means any:
+27 (1) For-profit corporation, partnership, limited partnership, limited
+28 liability partnership, limited liability company, joint venture, trust,
+29 association, sole proprietorship or other organization, including any:
+30 (A) Subsidiary of such company, a majority ownership interest of
+31 which is held by such company;
+32 (B) parent company that holds a majority ownership interest of such
+33 company;
+34 (C) other affiliate or business association of such company whose
+35 primary purpose is to make a profit; and
+36 (D) representative agent of such company; or
+H Sub SB 9 2
+1 (2) nonprofit organization.
+2 (c) (1) "Country of concern" means the following:
+3 (A) (i) People's republic of China, including the Hong Kong special
+4 administrative region;
+5 (ii) republic of Cuba;
+6 (iii) islamic republic of Iran;
+7 (iv) democratic people's republic of Korea;
+8 (v) Russian federation; and
+9 (vi) Bolivarian republic of Venezuela.
+10 (B) "Country of concern" does not include the republic of China
+11 (Taiwan); and
+12 (2) any organization that is designated as a foreign terrorist
+13 organization as of July 1, 2025, pursuant to 8 U.S.C. § 1189, as in effect on
+14 July 1, 2025, except as otherwise provided by rules and regulations
+15 adopted by the fusion center oversight board pursuant to section 7, and
+16 amendments thereto.
+17 (d) "De minimis interest" means any interest in real property that is:
+18 (1) The result of ownership of registered securities in a publicly
+19 traded company; and
+20 (2) such ownership is:
+21 (A) Less than 10% of any class of registered securities or less than
+22 10% of the aggregate registered securities of multiple classes of securities;
+23 or
+24 (B) a noncontrolling interest in an entity that is controlled by a
+25 company that is registered with the United States securities and exchange
+26 commission as an investment adviser under the investment advisers act of
+27 1940, P.L. 117-263 and is not a foreign entity.
+28 (e) "Domicile" means the country where:
+29 (1) A company is organized;
+30 (2) a company completes a substantial portion of its business; or
+31 (3) a majority of a company's ownership interest is held.
+32 (f) "Economic development incentive program" means:
+33 (1) Any economic development incentive program administered
+34 wholly or in part by the secretary of commerce;
+35 (2) any tax credit, except for social and domestic tax credits,
+36 regardless of the administering state agency;
+37 (3) property that has been exempted from ad valorem taxation under
+38 the provisions of section 13 of article 11 of the constitution of the state of
+39 Kansas;
+40 (4) property that has been purchased, acquired, constructed,
+41 reconstructed, improved, equipped, furnished, repaired, enlarged or
+42 remodeled with all or any part of the proceeds of revenue bonds issued
+43 under any authority granted in article 17 of chapter 12 of the Kansas
+H Sub SB 9 3
+1 Statutes Annotated, and amendments thereto;
+2 (5) any economic development fund, including, but not limited to, the
+3 job creation program fund established by K.S.A. 74-50,224, and
+4 amendments thereto, and the economic development initiatives fund
+5 established by K.S.A. 79-4804, and amendments thereto; and
+6 (6) any other economic development incentive program that provides
+7 any form of tax credit, abatement or exemption or financial assistance
+8 provided by or authorized by a governmental entity.
+9 (g) "Foreign entity" means any company whose domicile is any
+10 country other than the United States.
+11 (h) "Foreign principal" means:
+12 (1) The government or any official of the government of a country of
+13 concern;
+14 (2) any political party, subdivision thereof or any member of a
+15 political party of a country of concern;
+16 (3) any corporation, partnership, association, organization or other
+17 combination of persons organized under the laws of or having its principal
+18 place of business in a country of concern. "Foreign principal" includes any
+19 subsidiary owned or wholly controlled by any such entity;
+20 (4) any agent of or any entity otherwise under the control of a country
+21 of concern;
+22 (5) any individual who is a citizen or resident of a country of concern
+23 and is not a citizen or lawful permanent resident of the United States; or
+24 (6) any individual, entity or combination thereof described in
+25 paragraphs (1) through (5) that has a controlling interest in any company
+26 formed for the purpose of holding any interest in real property.
+27 (i) "Fusion center oversight board" means the fusion center oversight
+28 board established in K.S.A. 2024 Supp. 48-3705, and amendments thereto.
+29 (j) "Interest in real property" means any:
+30 (1) Ownership interest in any parcel of real property acquired by
+31 purchase, gift, grant, devise, bequest or other transfer of such interest;
+32 (2) ownership or other interest in any easement or other right of
+33 egress onto or across any parcel of real property;
+34 (3) ownership or other interest in any right to any oil, gas, minerals or
+35 water located on or under any parcel of real property; and
+36 (4) any interest or right to possess or use any parcel of real property
+37 acquired by the execution of a lease, lease-purchase or any other form of
+38 rental agreement.
+39 (k) "Military installation" means any land, buildings or other
+40 structures owned or controlled by any division of the United States
+41 department of defense, Kansas national guard or any other federal or state
+42 agency that is critical to the safety and security of Kansas or the United
+43 States.
+H Sub SB 9 4
+1 (l) "Non-notified transaction" means any transaction involving
+2 foreign investment in the United States that is not voluntarily submitted to
+3 the committee on foreign investment in the United States for review
+4 pursuant to 50 U.S.C. § 4565.
+5 (m) "Real property" means any real estate located in this state except
+6 residential real property.
+7 (n) "Residential real property" means real property that is used
+8 exclusively as a place of residence for human habitation.
+9 (o) "Social and domestic tax credits" means the adoption credit
+10 created pursuant to K.S.A. 79-32,202a, and amendments thereto, the
+11 earned income tax credit created pursuant to K.S.A. 79-32,205, and
+12 amendments thereto, the food sales tax credit created pursuant to K.S.A.
+13 79-32,271, and amendments thereto, the child and dependent care tax
+14 credit created pursuant to K.S.A. 79-32,111c, and amendments thereto, and
+15 the homestead property tax refund created pursuant to K.S.A. 79-4501 et
+16 seq., and amendments thereto.
+17 (p) "State agency" means any department, authority, bureau, division,
+18 office or other governmental agency of this state.
+19 (q) "Tax credit" means any credit allowed against the tax imposed by
+20 the Kansas income tax act, the premium or privilege fees imposed
+21 pursuant to K.S.A. 40-252, and amendments thereto, or the privilege tax as
+22 measured by net income of financial institutions imposed pursuant to
+23 article 11 of chapter 79 of the Kansas Statutes Annotated, and amendments
+24 thereto.
+25 New Sec. 3. (a) Except as provided in subsections (d) and (e), no
+26 foreign principal shall directly or indirectly acquire any interest in any real
+27 property located within 100 miles of the boundary of any military
+28 installation located in this state or any adjacent state, except a de minimis
+29 interest in such real property.
+30 (b) Any foreign principal that owns any interest in real property as
+31 described in subsection (a) or directly or indirectly acquires any interest in
+32 real property as described in subsection (a) shall file registration of such
+33 interest with the attorney general in such form and manner as prescribed
+34 by the attorney general not later than 90 days after the effective date of this
+35 act or the date such interest is acquired, whichever occurs later. Such filing
+36 shall include:
+37 (1) The name of the individual or entity holding such interest;
+38 (2) the date of acquisition;
+39 (3) the address and legal description of the real property; and
+40 (4) the number of acres comprising the real property.
+41 (c) (1) Any foreign principal that fails to file the registration as
+42 required under subsection (b) or directly or indirectly acquires any interest
+43 in real property as described in subsection (a) shall divest such interest in
+H Sub SB 9 5
+1 such real property.
+2 (2) A copy of all documentation evidencing such divestiture shall be
+3 submitted to the attorney general in such manner as prescribed by the
+4 attorney general not later than 30 days after the effective date of such
+5 divestiture.
+6 (d) A foreign principal may acquire an interest in real property by
+7 devise or bequest, through the enforcement of any security interest or
+8 through the collection of a debt. Any such acquisition shall be subject to
+9 the provisions of subsections (b) and (c).
+10 New Sec. 4. (a) The attorney general shall investigate any suspected
+11 violation of section 3, and amendments thereto.
+12 (b) A foreign principal who is subject to the requirements of section
+13 3, and amendments thereto, may enter into an agreement with the attorney
+14 general to divest such foreign principal's interest in real property not more
+15 than 360 days from entering into such agreement.
+16 (c) The attorney general may commence an action in a court of
+17 competent jurisdiction to enforce the provisions of section 3, and
+18 amendments thereto. In any such action, the attorney general may seek:
+19 (1) A court order directing the defendant to divest such defendant's
+20 interest in such real property;
+21 (2) injunctive relief;
+22 (3) civil forfeiture of the defendant's interest in such real property
+23 pursuant to K.S.A. 60-4101 et seq., and amendments thereto; and
+24 (4) reasonable attorney fees and court costs.
+25 (d) Upon a determination by a court of competent jurisdiction that the
+26 defendant has violated the requirements of section 3, and amendments
+27 thereto, the defendant shall divest such defendant's interest in such real
+28 property within 180 days after the day such court order is issued.
+29 New Sec. 5. No foreign principal shall receive any direct benefit
+30 related to any economic development program regardless of the form of
+31 such benefit.
+32 New Sec. 6. (a) The attorney general shall establish policies and
+33 procedures for the reporting of information concerning non-notified
+34 transactions to the attorney general. Any person may report information
+35 concerning such transactions in such form and manner as prescribed by the
+36 attorney general.
+37 (b) The attorney general shall prepare and submit a report on any
+38 identified non-notified transactions to the committee on foreign investment
+39 in the United States. A copy of such report shall be submitted to the
+40 governor, the adjutant general and the standing committees on federal and
+41 state affairs of the senate and the house of representatives or any successor
+42 committee of either such standing committee.
+43 (c) On or before February 1 of each year, the attorney general shall
+H Sub SB 9 6
+1 prepare and submit a report to the governor, the adjutant general, the
+2 standing committee on commerce, labor and economic development of the
+3 house of representatives, the standing committee on commerce of the
+4 senate, the standing committee on federal and state affairs of the house of
+5 representatives and the standing committee on federal and state affairs of
+6 the senate or any successor committee of such standing committees. Such
+7 report shall detail the implementation of the Kansas land and military
+8 installation protection act and include the attorney general's recommended
+9 amendments to the definition of country of concern, if any.
+10 (d) The attorney general shall retain copies of any documents that are
+11 made a part of or otherwise submitted to the committee on foreign
+12 investment in the United States along with the report required under
+13 subsection (b).
+14 (e) On or before January 1, 2026, the attorney general shall adopt
+15 rules and regulations to implement the provisions of this section.
+16 New Sec. 7. (a) Upon any occasion when an organization is
+17 designated as a foreign terrorist organization or has such designation
+18 revoked pursuant to 8 U.S.C. § 1189, the fusion center oversight board
+19 may adopt rules and regulations to reflect such designation or revocation
+20 of such designation, but only after giving due consideration to the risks to
+21 state and national security and the economic costs and benefits of such
+22 action.
+23 (b) In no case shall the fusion center oversight board adopt any rule
+24 or regulation pursuant to this section that would designate an organization
+25 as a foreign terrorist organization that is not designated as a foreign
+26 terrorist organization pursuant to 8 U.S.C. § 1189.
+27 New Sec. 8. On or before March 1 of each year, Kansas state
+28 university shall use available data and resources to prepare and submit a
+29 report to the legislature and the attorney general detailing the status and
+30 trends of all foreign land holdings of real property within the state of
+31 Kansas.
+32 New Sec. 9. Sections 1 through 8, and amendments thereto, are
+33 declared severable. Any provision of sections 1 through 8, and
+34 amendments thereto, or the application thereof to any person or
+35 circumstance that is held to be unconstitutional or invalid shall not affect
+36 the validity of any remaining provisions of sections 1 through 8, and
+37 amendments thereto, or the applicability of such provisions to any person
+38 or circumstance.
+39 Sec. 10. K.S.A. 2024 Supp. 60-4104 is hereby amended to read as
+40 follows: 60-4104. Conduct and offenses giving rise to forfeiture under this
+41 act, whether or not there is a prosecution or conviction related to the
+42 offense, are:
+43 (a) All offenses which statutorily and specifically authorize forfeiture;
+H Sub SB 9 7
+1 (b) violations involving controlled substances, as described in K.S.A.
+2 21-5703, 21-5705, 21-5707, 21-5708(b), 21-5709(a), (b)(1), (c) and (d),
+3 21-5710, 21-5713(a), 21-5714 and 21-5716, and amendments thereto;
+4 (c) theft, as defined in K.S.A. 21-5801, and amendments thereto;
+5 (d) criminal discharge of a firearm, as defined in K.S.A. 21-6308(a)
+6 (1) and (a)(2), and amendments thereto;
+7 (e) gambling, as defined in K.S.A. 21-6404, and amendments thereto,
+8 and commercial gambling, as defined in K.S.A. 21-6406(a)(1), and
+9 amendments thereto;
+10 (f) counterfeiting, as defined in K.S.A. 21-5825, and amendments
+11 thereto;
+12 (g) unlawful possession or use of a scanning device or reencoder, as
+13 described in K.S.A. 21-6108, and amendments thereto;
+14 (h) medicaid fraud, as described in K.S.A. 21-5925 through 21-5934,
+15 and amendments thereto;
+16 (i) an act or omission occurring outside this state, which would be a
+17 violation in the place of occurrence and would be described in this section
+18 if the act occurred in this state, whether or not it is prosecuted in any state;
+19 (j) an act or omission committed in furtherance of any act or omission
+20 described in this section including any inchoate or preparatory offense,
+21 whether or not there is a prosecution or conviction related to the act or
+22 omission;
+23 (k) any solicitation or conspiracy to commit any act or omission
+24 described in this section, whether or not there is a prosecution or
+25 conviction related to the act or omission;
+26 (l) terrorism, as defined in K.S.A. 21-5421, and amendments thereto,
+27 illegal use of weapons of mass destruction, as defined in K.S.A. 21-5422,
+28 and amendments thereto, and furtherance of terrorism or illegal use of
+29 weapons of mass destruction, as described in K.S.A. 21-5423, and
+30 amendments thereto;
+31 (m) unlawful conduct of dog fighting and unlawful possession of dog
+32 fighting paraphernalia, as defined in K.S.A. 21-6414(a) and (b), and
+33 amendments thereto;
+34 (n) unlawful conduct of cockfighting and unlawful possession of
+35 cockfighting paraphernalia, as defined in K.S.A. 21-6417(a) and (b), and
+36 amendments thereto;
+37 (o) selling sexual relations, as defined in K.S.A. 21-6419, and
+38 amendments thereto, promoting the sale of sexual relations, as defined in
+39 K.S.A. 21-6420, and amendments thereto, and buying sexual relations, as
+40 defined in K.S.A. 21-6421, and amendments thereto;
+41 (p) human trafficking and aggravated human trafficking, as defined in
+42 K.S.A. 21-5426, and amendments thereto;
+43 (q) violations of the banking code, as described in K.S.A. 9-2012, and
+H Sub SB 9 8
+1 amendments thereto;
+2 (r) mistreatment of a dependent adult, as defined in K.S.A. 21-5417,
+3 and amendments thereto;
+4 (s) giving a worthless check, as defined in K.S.A. 21-5821, and
+5 amendments thereto;
+6 (t) forgery, as defined in K.S.A. 21-5823, and amendments thereto;
+7 (u) making false information, as defined in K.S.A. 21-5824, and
+8 amendments thereto;
+9 (v) criminal use of a financial card, as defined in K.S.A. 21-5828, and
+10 amendments thereto;
+11 (w) unlawful acts concerning computers, as described in K.S.A. 21-
+12 5839, and amendments thereto;
+13 (x) identity theft and identity fraud, as defined in K.S.A. 21-6107(a)
+14 and (b), and amendments thereto;
+15 (y) electronic solicitation, as defined in K.S.A. 21-5509, and
+16 amendments thereto;
+17 (z) felony violations of fleeing or attempting to elude a police officer,
+18 as described in K.S.A. 8-1568, and amendments thereto;
+19 (aa) commercial sexual exploitation of a child, as defined in K.S.A.
+20 21-6422, and amendments thereto;
+21 (bb) violations of the Kansas racketeer influenced and corrupt
+22 organization act, as described in K.S.A. 21-6329, and amendments thereto;
+23 (cc) indecent solicitation of a child and aggravated indecent
+24 solicitation of a child, as defined in K.S.A. 21-5508, and amendments
+25 thereto;
+26 (dd) sexual exploitation of a child, as defined in K.S.A. 21-5510, and
+27 amendments thereto; and
+28 (ee) violation of a consumer protection order as defined in K.S.A. 21-
+29 6423, and amendments thereto; and
+30 (ff) violation of the Kansas land and military installation protection
+31 act as described in section 3, and amendments thereto.
+32 Sec. 11. K.S.A. 2024 Supp. 60-4106 is hereby amended to read as
+33 follows: 60-4106. (a) Except as provided in this subsection, all property,
+34 including all interests in property, described in K.S.A. 60-4105, and
+35 amendments thereto, is subject to forfeiture subject to all mortgages, deeds
+36 of trust, financing statements or security agreements properly of record
+37 prior to the forfeiture held by an interest holder.
+38 (1) No real property or conveyance, or an interest therein, may be
+39 forfeited under this act unless the offense or conduct giving rise to
+40 forfeiture constitutes a felony, except as provided in the Kansas land and
+41 military installation protection act, section 1 et seq., and amendments
+42 thereto.
+43 (2) No conveyance used by any person as a common carrier in the
+H Sub SB 9 9
+1 transaction of business as a common carrier is subject to forfeiture under
+2 this act unless the owner or other person in charge of the conveyance is a
+3 consenting party or privy to a violation of this act.
+4 (3) No property is subject to forfeiture under this act if the owner or
+5 interest holder acquired the property before or during the conduct giving
+6 rise to the property's forfeiture, and such owner or interest holder:
+7 (A) Did not know and could not have reasonably known of the act or
+8 omission or that it was likely to occur; or
+9 (B) acted reasonably to prevent the conduct giving rise to forfeiture.
+10 (4) No property is subject to forfeiture if the owner or interest holder
+11 acquired the property after the conduct giving rise to the property's
+12 forfeiture, including acquisition of proceeds of conduct giving rise to
+13 forfeiture, and such owner or interest holder:
+14 (A) Acquired the property in good faith, for value; and
+15 (B) was not knowingly taking part in an illegal transaction.
+16 (5) (A) An interest in property acquired in good faith by an attorney
+17 as reasonable payment or to secure payment for legal services in a criminal
+18 matter relating to violations of this act or for the reimbursement of
+19 reasonable expenses related to the legal services is exempt from forfeiture
+20 unless before the interest was acquired the attorney knew of a judicial
+21 determination of probable cause that the property is subject to forfeiture.
+22 (B) The state bears the burden of proving that an exemption claimed
+23 under this section is not applicable. Evidence made available by the
+24 compelled disclosure of confidential communications between an attorney
+25 and a client other than nonprivileged information relating to attorney fees,
+26 is not admissible to satisfy the state's burden of proof.
+27 (b) Notwithstanding subsection (a), property is not exempt from
+28 forfeiture, even though the owner or interest holder lacked knowledge or
+29 reason to know that the conduct giving rise to property's forfeiture had
+30 occurred or was likely to occur, if the:
+31 (1) Person whose conduct gave rise to the property's forfeiture had
+32 authority to convey the property of the person claiming the exemption to a
+33 good faith purchaser for value at the time of the conduct;
+34 (2) owner or interest holder is criminally responsible for the conduct
+35 giving rise to the property's forfeiture, whether or not there is a prosecution
+36 or conviction; or
+37 (3) owner or interest holder acquired the property with notice of the
+38 property's actual or constructive seizure for forfeiture under this act, or
+39 with reason to believe that the property was subject to forfeiture under this
+40 act.
+41 (c) Prior to final judgment in a judicial forfeiture proceeding, the
+42 court shall determine whether the proposed forfeiture is unconstitutionally
+43 excessive pursuant to K.S.A. 60-4112(g), and amendments thereto, if the
+H Sub SB 9 10
+1 court has not made such determination earlier in the proceeding as a result
+2 of a petition filed pursuant to K.S.A. 60-4112(g), and amendments thereto.
+3 New Sec. 12. (a) In addition to the provisions of K.S.A. 75-3739, and
+4 amendments thereto, and any other applicable statutes concerning
+5 purchases, a governmental agency shall not purchase or acquire any drone
+6 or any related services, maintenance agreements or equipment, the critical
+7 components of which were:
+8 (1) Produced in any country of concern; or
+9 (2) produced or owned by any foreign principal.
+10 (b) Any critical components for drones or any related services or
+11 equipment that were acquired prior to July 1, 2025, and that are not in
+12 compliance with subsection (a) may continue to be used by the
+13 governmental agency that acquired such critical components. When a
+14 governmental agency determines that a critical component must be
+15 replaced, the governmental agency may use any replacement component
+16 acquired prior to July 1, 2025, but no new replacement component shall be
+17 acquired from any foreign principal.
+18 (c) Any acquisition that is otherwise prohibited under subsection (a)
+19 or (b) may be completed by a governmental agency if:
+20 (1) There is no other reasonable means to acquire such critical
+21 components or of addressing the needs of the governmental agency
+22 necessitating such acquisition;
+23 (2) the agreement for such acquisition is approved by the secretary of
+24 administration after consultation with the adjutant general; and
+25 (3) failure to acquire such critical components or otherwise address
+26 the needs of the governmental agency would pose a greater threat to the
+27 safety and security of this state than that posed by entering into such
+28 acquisition agreement.
+29 (d) The provisions of this section shall not apply to any contract or
+30 agreement entered into prior to July 1, 2025.
+31 New Sec. 13. As used in section 12, and amendments thereto:
+32 (a) "Company" means any:
+33 (1) For-profit corporation, partnership, limited partnership, limited
+34 liability partnership, limited liability company, joint venture, trust,
+35 association, sole proprietorship or other organization, including any:
+36 (A) Subsidiary of such company, a majority ownership interest of
+37 which is held by such company;
+38 (B) parent company that holds a majority ownership interest of such
+39 company;
+40 (C) other affiliate or business association of such company whose
+41 primary purpose is to make a profit; and
+42 (D) representative agent of such company; or
+43 (2) nonprofit organization.
+H Sub SB 9 11
+1 (b) (1) "Country of concern" means the following:
+2 (A) People's republic of China, including the Hong Kong special
+3 administrative region;
+4 (B) republic of Cuba;
+5 (C) islamic republic of Iran;
+6 (D) democratic people's republic of Korea;
+7 (E) Russian federation; and
+8 (F) Bolivarian republic of Venezuela.
+9 (2) "Country of concern" does not include the republic of China
+10 (Taiwan).
+11 (c) (1) "Critical component" means those components or
+12 subcomponents that are:
+13 (A) Distinct and serviceable articles; and
+14 (B) the primary component or subcomponent of an identifiable
+15 process or subprocess necessary to the recording, storing or transmitting of
+16 data or any other form of information.
+17 (2) "Critical component" includes any software installed in a drone or
+18 in any device or network device used in support of the operations of a
+19 drone.
+20 (d) "Domicile" means the country where a:
+21 (1) Company is organized;
+22 (2) company completes a substantial portion of its business; or
+23 (3) majority of a company's ownership interest is held.
+24 (e) "Drone" means an unmanned aircraft that is controlled remotely
+25 by a human operator or operates autonomously through computer software
+26 or other programming.
+27 (f) "Foreign principal" means:
+28 (1) The government or any official of the government of a country of
+29 concern;
+30 (2) any political party, subdivision thereof or any member of a
+31 political party of a country of concern;
+32 (3) any corporation, partnership, association, organization or other
+33 combination of persons organized under the laws of or having its principal
+34 place of business in a country of concern. "Foreign principal" includes any
+35 subsidiary owned or wholly controlled by any such entity;
+36 (4) any agent of or any entity otherwise under the control of a country
+37 of concern;
+38 (5) any individual whose residence is in a country of concern and
+39 who is not a citizen or lawful permanent resident of the United States; or
+40 (6) any individual, entity or combination thereof described in
+41 paragraphs (1) through (5) that has a controlling interest in any company
+42 formed for the purpose of manufacturing, distributing, transporting or
+43 selling critical components for drones and related services and equipment.
+H Sub SB 9 12
+1 (g) "Governmental agency" means the state or any political or taxing
+2 subdivision of the state or any office, agency or instrumentality thereof.
+3 Sec. 14. K.S.A. 2024 Supp. 60-4104 and 60-4106 are hereby
+4 repealed.
+5 Sec. 15. This act shall take effect and be in force from and after its
+6 publication in the statute book.
+[DELETED: Ai; eg te Ks ld ad my ipfat rofn s fm cs o c fm re0t1t264B5N6s7i8(9m0c1p2N3t4(5K6(7(8ly p, ld ly c, jt v, t9a0(1w2(3c4(5p6(]
+[DELETED: 9(((a(((((0(1(2(y on tt is dd as a fn t3o4J5a6a7(8(9t0(1(213o4(5c6c718(9(0(1(2(3(y ec dt ie pm a4w5( tx c, et fr sl ad dc tx c6r7(8t9K0(y tt hs bn p, a, c1r, i, e, f, r, ed o2r3u]
+[DELETED: 9S(jb cn pm fd ed by K. 7, aas e(ap(0c1(2(3c4(5p6(7c8p9s0(1o2(3a4(y i, ey or cn tf dd i5p6f7(8b9(0(1p2(3e4(5w6(7a8r9(y i" ms ay l, bs or o0s1d2a3S]
+[DELETED: 9(d t" ms ay tn iftp(r(e(0c1e2a374c5t6s7(8o9(0t1p2m3a4t5N6f7p8i9i0(1d2r3i4b5a6s7(8(9(0(1(2r3i]
+[DELETED: 9s(sad(dtt0N1v2(334g5t6(7ct jn to ee te ps of sn 3, a8a9(0i1(2(3p4(5(6d7t8p9N0r1s2N3ps fr te rg of in c n4t5c6a7(8i9i0g1s2c3(]
+[DELETED: 9pshsrtria0(1m2i3s4(5r6Nw S. 7) Un ay on wn an on i7d8r9m0o1s2a3(4o5a6t7N8u9r0t1K2N. 3dd s. Ay pn of ss 1 th 8, a4as t, or te an tf to ay pn o5c6t7a8o9S0f1a2o3(]
+[DELETED: 9(22((((ad l g as dd  2 aa0(1t2(3d4(5a6(7v8i9(0d1w2o3(4d5c6(7i8a9ws f s s d 0a1(2f3a4(5c6a7( sl r as dd in K 2 a8a9K0d1(2K3(]
+[DELETED: 9a(a(a((a(0a1(253(4a5(c s, as dd in K. 2, a6a7(8a9(021(s of te Ks rr id ad c2o3(t sn of a cd ad ad i4s5t6(7a8(960(1a2S3f4i5a6o7p8(9f0f1m2t3(]
+[DELETED: 9ttc(ir(o(0(1a2f3f4(5(6(7a8m9r0u1d2(3u4c5a6i7(8f9r0o1(2a3g4(5g6o7(8p9w0a1(2c3e]
+[DELETED: 91coNas t, ad ay or ae ss cpoc((0(1e2ce wh sn () my ce to be ud by t3g a4gl a ds tt  cl ct mt b5r6a7a8(9o0(1c2n3(4a5(6t7s8a9(0a1N2(3(4ly p, ld ly c, jt v, t5a6(7w8(9c0(1p2(3(]
+[DELETED: 91((a((((((0(1() (l c" ms te cs o2s3(4(e  ct r st of n i5p6d7(8i9d0(1(2(3(4(5b6o7(8(9c0(1p2(3c4p5s6(7o8(9w0(y i, ey or cn tf dd i1p2f3s]
+[DELETED: 91(sS. . 24 S. 64 ad 66 ae hrSp]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+House Substitute for SENATE BILL No. 9
+By Committee on Commerce, Labor and Economic Development
+3-5
+1 AN ACT concerning property; relating to certain lands and military
+2 installations; enacting the Kansas land and military installation
+3 protection act; prohibiting foreign principals from countries of concern
+4 from acquiring any interest in certain real property in this state;
+5 authorizing the fusion center oversight board to adopt rules and
+6 regulations to add or remove federally designated foreign terrorist
+7 organizations from the definition of country of concern; prohibiting
+8 foreign principals from countries of concern from receiving any
+9 economic development program benefits; relating to drones and drone
+10 technology; prohibiting the acquisition of critical components of drone
+11 technology from countries of concern; amending K.S.A. 2024 Supp.
+12 60-4104 and 60-4106 and repealing the existing sections.
+13
+14 Be it enacted by the Legislature of the State of Kansas:
+15 New Section 1. (a) Sections 1 through 8, and amendments thereto,
+16 shall be known and may be cited as the Kansas land and military
+17 installation protection act.
+18 (b) The purpose of this act is to protect certain real property and
+19 military installations located in this state by prohibiting countries of
+20 concern and any agent thereof from acquiring any interest in such real
+21 property.
+22 New Sec. 2. As used in sections 1 through 8, and amendments
+23 thereto:
+24 (a) "Attorney general" means the attorney general of the state of
+25 Kansas.
+26 (b) "Company" means any:
+27 (1) For-profit corporation, partnership, limited partnership, limited
+28 liability partnership, limited liability company, joint venture, trust,
+29 association, sole proprietorship or other organization, including any:
+30 (A) Subsidiary of such company, a majority ownership interest of
+31 which is held by such company;
+32 (B) parent company that holds a majority ownership interest of such
+33 company;
+34 (C) other affiliate or business association of such company whose
+35 primary purpose is to make a profit; and
+36 (D) representative agent of such company; or
+
+H Sub SB 9 2
+1 (2) nonprofit organization.
+2 (c) (1) "Country of concern" means the following:
+3 (A) (i) People's republic of China, including the Hong Kong special
+4 administrative region;
+5 (ii) republic of Cuba;
+6 (iii) islamic republic of Iran;
+7 (iv) democratic people's republic of Korea;
+8 (v) Russian federation; and
+9 (vi) Bolivarian republic of Venezuela.
+10 (B) "Country of concern" does not include the republic of China
+11 (Taiwan); and
+12 (2) any organization that is designated as a foreign terrorist
+13 organization as of July 1, 2025, pursuant to 8 U.S.C. § 1189, as in effect on
+14 July 1, 2025, except as otherwise provided by rules and regulations
+15 adopted by the fusion center oversight board pursuant to section 7, and
+16 amendments thereto.
+17 (d) "De minimis interest" means any interest in real property that is:
+18 (1) The result of ownership of registered securities in a publicly
+19 traded company; and
+20 (2) such ownership is:
+21 (A) Less than 10% of any class of registered securities or less than
+22 10% of the aggregate registered securities of multiple classes of securities;
+23 or
+24 (B) a noncontrolling interest in an entity that is controlled by a
+25 company that is registered with the United States securities and exchange
+26 commission as an investment adviser under the investment advisers act of
+27 1940, P.L. 117-263 and is not a foreign entity.
+28 (e) "Domicile" means the country where:
+29 (1) A company is organized;
+30 (2) a company completes a substantial portion of its business; or
+31 (3) a majority of a company's ownership interest is held.
+32 (f) "Economic development incentive program" means:
+33 (1) Any economic development incentive program administered
+34 wholly or in part by the secretary of commerce;
+35 (2) any tax credit, except for social and domestic tax credits,
+36 regardless of the administering state agency;
+37 (3) property that has been exempted from ad valorem taxation under
+38 the provisions of section 13 of article 11 of the constitution of the state of
+39 Kansas;
+40 (4) property that has been purchased, acquired, constructed,
+41 reconstructed, improved, equipped, furnished, repaired, enlarged or
+42 remodeled with all or any part of the proceeds of revenue bonds issued
+43 under any authority granted in article 17 of chapter 12 of the Kansas
+
+H Sub SB 9 3
+1 Statutes Annotated, and amendments thereto;
+2 (5) any economic development fund, including, but not limited to, the
+3 job creation program fund established by K.S.A. 74-50,224, and
+4 amendments thereto, and the economic development initiatives fund
+5 established by K.S.A. 79-4804, and amendments thereto; and
+6 (6) any other economic development incentive program that provides
+7 any form of tax credit, abatement or exemption or financial assistance
+8 provided by or authorized by a governmental entity.
+9 (g) "Foreign entity" means any company whose domicile is any
+10 country other than the United States.
+11 (h) "Foreign principal" means:
+12 (1) The government or any official of the government of a country of
+13 concern;
+14 (2) any political party, subdivision thereof or any member of a
+15 political party of a country of concern;
+16 (3) any corporation, partnership, association, organization or other
+17 combination of persons organized under the laws of or having its principal
+18 place of business in a country of concern. "Foreign principal" includes any
+19 subsidiary owned or wholly controlled by any such entity;
+20 (4) any agent of or any entity otherwise under the control of a country
+21 of concern;
+22 (5) any individual who is a citizen or resident of a country of concern
+23 and is not a citizen or lawful permanent resident of the United States; or
+24 (6) any individual, entity or combination thereof described in
+25 paragraphs (1) through (5) that has a controlling interest in any company
+26 formed for the purpose of holding any interest in real property.
+27 (i) "Fusion center oversight board" means the fusion center oversight
+28 board established in K.S.A. 2024 Supp. 48-3705, and amendments thereto.
+29 (j) "Interest in real property" means any:
+30 (1) Ownership interest in any parcel of real property acquired by
+31 purchase, gift, grant, devise, bequest or other transfer of such interest;
+32 (2) ownership or other interest in any easement or other right of
+33 egress onto or across any parcel of real property;
+34 (3) ownership or other interest in any right to any oil, gas, minerals or
+35 water located on or under any parcel of real property; and
+36 (4) any interest or right to possess or use any parcel of real property
+37 acquired by the execution of a lease, lease-purchase or any other form of
+38 rental agreement.
+39 (k) "Military installation" means any land, buildings or other
+40 structures owned or controlled by any division of the United States
+41 department of defense, Kansas national guard or any other federal or state
+42 agency that is critical to the safety and security of Kansas or the United
+43 States.
+
+H Sub SB 9 4
+1 (l) "Non-notified transaction" means any transaction involving
+2 foreign investment in the United States that is not voluntarily submitted to
+3 the committee on foreign investment in the United States for review
+4 pursuant to 50 U.S.C. § 4565.
+5 (m) "Real property" means any real estate located in this state except
+6 residential real property.
+7 (n) "Residential real property" means real property that is used
+8 exclusively as a place of residence for human habitation.
+9 (o) "Social and domestic tax credits" means the adoption credit
+10 created pursuant to K.S.A. 79-32,202a, and amendments thereto, the
+11 earned income tax credit created pursuant to K.S.A. 79-32,205, and
+12 amendments thereto, the food sales tax credit created pursuant to K.S.A.
+13 79-32,271, and amendments thereto, the child and dependent care tax
+14 credit created pursuant to K.S.A. 79-32,111c, and amendments thereto, and
+15 the homestead property tax refund created pursuant to K.S.A. 79-4501 et
+16 seq., and amendments thereto.
+17 (p) "State agency" means any department, authority, bureau, division,
+18 office or other governmental agency of this state.
+19 (q) "Tax credit" means any credit allowed against the tax imposed by
+20 the Kansas income tax act, the premium or privilege fees imposed
+21 pursuant to K.S.A. 40-252, and amendments thereto, or the privilege tax as
+22 measured by net income of financial institutions imposed pursuant to
+23 article 11 of chapter 79 of the Kansas Statutes Annotated, and amendments
+24 thereto.
+25 New Sec. 3. (a) Except as provided in subsections (d) and (e), no
+26 foreign principal shall directly or indirectly acquire any interest in any real
+27 property located within 100 miles of the boundary of any military
+28 installation located in this state or any adjacent state, except a de minimis
+29 interest in such real property.
+30 (b) Any foreign principal that owns any interest in real property as
+31 described in subsection (a) or directly or indirectly acquires any interest in
+32 real property as described in subsection (a) shall file registration of such
+33 interest with the attorney general in such form and manner as prescribed
+34 by the attorney general not later than 90 days after the effective date of this
+35 act or the date such interest is acquired, whichever occurs later. Such filing
+36 shall include:
+37 (1) The name of the individual or entity holding such interest;
+38 (2) the date of acquisition;
+39 (3) the address and legal description of the real property; and
+40 (4) the number of acres comprising the real property.
+41 (c) (1) Any foreign principal that fails to file the registration as
+42 required under subsection (b) or directly or indirectly acquires any interest
+43 in real property as described in subsection (a) shall divest such interest in
+
+H Sub SB 9 5
+1 such real property.
+2 (2) A copy of all documentation evidencing such divestiture shall be
+3 submitted to the attorney general in such manner as prescribed by the
+4 attorney general not later than 30 days after the effective date of such
+5 divestiture.
+6 (d) A foreign principal may acquire an interest in real property by
+7 devise or bequest, through the enforcement of any security interest or
+8 through the collection of a debt. Any such acquisition shall be subject to
+9 the provisions of subsections (b) and (c).
+10 New Sec. 4. (a) The attorney general shall investigate any suspected
+11 violation of section 3, and amendments thereto.
+12 (b) A foreign principal who is subject to the requirements of section
+13 3, and amendments thereto, may enter into an agreement with the attorney
+14 general to divest such foreign principal's interest in real property not more
+15 than 360 days from entering into such agreement.
+16 (c) The attorney general may commence an action in a court of
+17 competent jurisdiction to enforce the provisions of section 3, and
+18 amendments thereto. In any such action, the attorney general may seek:
+19 (1) A court order directing the defendant to divest such defendant's
+20 interest in such real property;
+21 (2) injunctive relief;
+22 (3) civil forfeiture of the defendant's interest in such real property
+23 pursuant to K.S.A. 60-4101 et seq., and amendments thereto; and
+24 (4) reasonable attorney fees and court costs.
+25 (d) Upon a determination by a court of competent jurisdiction that the
+26 defendant has violated the requirements of section 3, and amendments
+27 thereto, the defendant shall divest such defendant's interest in such real
+28 property within 180 days after the day such court order is issued.
+29 New Sec. 5. No foreign principal shall receive any direct benefit
+30 related to any economic development program regardless of the form of
+31 such benefit.
+32 New Sec. 6. (a) The attorney general shall establish policies and
+33 procedures for the reporting of information concerning non-notified
+34 transactions to the attorney general. Any person may report information
+35 concerning such transactions in such form and manner as prescribed by the
+36 attorney general.
+37 (b) The attorney general shall prepare and submit a report on any
+38 identified non-notified transactions to the committee on foreign investment
+39 in the United States. A copy of such report shall be submitted to the
+40 governor, the adjutant general and the standing committees on federal and
+41 state affairs of the senate and the house of representatives or any successor
+42 committee of either such standing committee.
+43 (c) On or before February 1 of each year, the attorney general shall
+
+H Sub SB 9 6
+1 prepare and submit a report to the governor, the adjutant general, the
+2 standing committee on commerce, labor and economic development of the
+3 house of representatives, the standing committee on commerce of the
+4 senate, the standing committee on federal and state affairs of the house of
+5 representatives and the standing committee on federal and state affairs of
+6 the senate or any successor committee of such standing committees. Such
+7 report shall detail the implementation of the Kansas land and military
+8 installation protection act and include the attorney general's recommended
+9 amendments to the definition of country of concern, if any.
+10 (d) The attorney general shall retain copies of any documents that are
+11 made a part of or otherwise submitted to the committee on foreign
+12 investment in the United States along with the report required under
+13 subsection (b).
+14 (e) On or before January 1, 2026, the attorney general shall adopt
+15 rules and regulations to implement the provisions of this section.
+16 New Sec. 7. (a) Upon any occasion when an organization is
+17 designated as a foreign terrorist organization or has such designation
+18 revoked pursuant to 8 U.S.C. § 1189, the fusion center oversight board
+19 may adopt rules and regulations to reflect such designation or revocation
+20 of such designation, but only after giving due consideration to the risks to
+21 state and national security and the economic costs and benefits of such
+22 action.
+23 (b) In no case shall the fusion center oversight board adopt any rule
+24 or regulation pursuant to this section that would designate an organization
+25 as a foreign terrorist organization that is not designated as a foreign
+26 terrorist organization pursuant to 8 U.S.C. § 1189.
+27 New Sec. 8. On or before March 1 of each year, Kansas state
+28 university shall use available data and resources to prepare and submit a
+29 report to the legislature and the attorney general detailing the status and
+30 trends of all foreign land holdings of real property within the state of
+31 Kansas.
+32 New Sec. 9. Sections 1 through 8, and amendments thereto, are
+33 declared severable. Any provision of sections 1 through 8, and
+34 amendments thereto, or the application thereof to any person or
+35 circumstance that is held to be unconstitutional or invalid shall not affect
+36 the validity of any remaining provisions of sections 1 through 8, and
+37 amendments thereto, or the applicability of such provisions to any person
+38 or circumstance.
+39 Sec. 10. K.S.A. 2024 Supp. 60-4104 is hereby amended to read as
+40 follows: 60-4104. Conduct and offenses giving rise to forfeiture under this
+41 act, whether or not there is a prosecution or conviction related to the
+42 offense, are:
+43 (a) All offenses which statutorily and specifically authorize forfeiture;
+
+H Sub SB 9 7
+1 (b) violations involving controlled substances, as described in K.S.A.
+2 21-5703, 21-5705, 21-5707, 21-5708(b), 21-5709(a), (b)(1), (c) and (d),
+3 21-5710, 21-5713(a), 21-5714 and 21-5716, and amendments thereto;
+4 (c) theft, as defined in K.S.A. 21-5801, and amendments thereto;
+5 (d) criminal discharge of a firearm, as defined in K.S.A. 21-6308(a)
+6 (1) and (a)(2), and amendments thereto;
+7 (e) gambling, as defined in K.S.A. 21-6404, and amendments thereto,
+8 and commercial gambling, as defined in K.S.A. 21-6406(a)(1), and
+9 amendments thereto;
+10 (f) counterfeiting, as defined in K.S.A. 21-5825, and amendments
+11 thereto;
+12 (g) unlawful possession or use of a scanning device or reencoder, as
+13 described in K.S.A. 21-6108, and amendments thereto;
+14 (h) medicaid fraud, as described in K.S.A. 21-5925 through 21-5934,
+15 and amendments thereto;
+16 (i) an act or omission occurring outside this state, which would be a
+17 violation in the place of occurrence and would be described in this section
+18 if the act occurred in this state, whether or not it is prosecuted in any state;
+19 (j) an act or omission committed in furtherance of any act or omission
+20 described in this section including any inchoate or preparatory offense,
+21 whether or not there is a prosecution or conviction related to the act or
+22 omission;
+23 (k) any solicitation or conspiracy to commit any act or omission
+24 described in this section, whether or not there is a prosecution or
+25 conviction related to the act or omission;
+26 (l) terrorism, as defined in K.S.A. 21-5421, and amendments thereto,
+27 illegal use of weapons of mass destruction, as defined in K.S.A. 21-5422,
+28 and amendments thereto, and furtherance of terrorism or illegal use of
+29 weapons of mass destruction, as described in K.S.A. 21-5423, and
+30 amendments thereto;
+31 (m) unlawful conduct of dog fighting and unlawful possession of dog
+32 fighting paraphernalia, as defined in K.S.A. 21-6414(a) and (b), and
+33 amendments thereto;
+34 (n) unlawful conduct of cockfighting and unlawful possession of
+35 cockfighting paraphernalia, as defined in K.S.A. 21-6417(a) and (b), and
+36 amendments thereto;
+37 (o) selling sexual relations, as defined in K.S.A. 21-6419, and
+38 amendments thereto, promoting the sale of sexual relations, as defined in
+39 K.S.A. 21-6420, and amendments thereto, and buying sexual relations, as
+40 defined in K.S.A. 21-6421, and amendments thereto;
+41 (p) human trafficking and aggravated human trafficking, as defined in
+42 K.S.A. 21-5426, and amendments thereto;
+43 (q) violations of the banking code, as described in K.S.A. 9-2012, and
+
+H Sub SB 9 8
+1 amendments thereto;
+2 (r) mistreatment of a dependent adult, as defined in K.S.A. 21-5417,
+3 and amendments thereto;
+4 (s) giving a worthless check, as defined in K.S.A. 21-5821, and
+5 amendments thereto;
+6 (t) forgery, as defined in K.S.A. 21-5823, and amendments thereto;
+7 (u) making false information, as defined in K.S.A. 21-5824, and
+8 amendments thereto;
+9 (v) criminal use of a financial card, as defined in K.S.A. 21-5828, and
+10 amendments thereto;
+11 (w) unlawful acts concerning computers, as described in K.S.A. 21-
+12 5839, and amendments thereto;
+13 (x) identity theft and identity fraud, as defined in K.S.A. 21-6107(a)
+14 and (b), and amendments thereto;
+15 (y) electronic solicitation, as defined in K.S.A. 21-5509, and
+16 amendments thereto;
+17 (z) felony violations of fleeing or attempting to elude a police officer,
+18 as described in K.S.A. 8-1568, and amendments thereto;
+19 (aa) commercial sexual exploitation of a child, as defined in K.S.A.
+20 21-6422, and amendments thereto;
+21 (bb) violations of the Kansas racketeer influenced and corrupt
+22 organization act, as described in K.S.A. 21-6329, and amendments thereto;
+23 (cc) indecent solicitation of a child and aggravated indecent
+24 solicitation of a child, as defined in K.S.A. 21-5508, and amendments
+25 thereto;
+26 (dd) sexual exploitation of a child, as defined in K.S.A. 21-5510, and
+27 amendments thereto; and
+28 (ee) violation of a consumer protection order as defined in K.S.A. 21-
+29 6423, and amendments thereto; and
+30 (ff) violation of the Kansas land and military installation protection
+31 act as described in section 3, and amendments thereto.
+32 Sec. 11. K.S.A. 2024 Supp. 60-4106 is hereby amended to read as
+33 follows: 60-4106. (a) Except as provided in this subsection, all property,
+34 including all interests in property, described in K.S.A. 60-4105, and
+35 amendments thereto, is subject to forfeiture subject to all mortgages, deeds
+36 of trust, financing statements or security agreements properly of record
+37 prior to the forfeiture held by an interest holder.
+38 (1) No real property or conveyance, or an interest therein, may be
+39 forfeited under this act unless the offense or conduct giving rise to
+40 forfeiture constitutes a felony, except as provided in the Kansas land and
+41 military installation protection act, section 1 et seq., and amendments
+42 thereto.
+43 (2) No conveyance used by any person as a common carrier in the
+
+H Sub SB 9 9
+1 transaction of business as a common carrier is subject to forfeiture under
+2 this act unless the owner or other person in charge of the conveyance is a
+3 consenting party or privy to a violation of this act.
+4 (3) No property is subject to forfeiture under this act if the owner or
+5 interest holder acquired the property before or during the conduct giving
+6 rise to the property's forfeiture, and such owner or interest holder:
+7 (A) Did not know and could not have reasonably known of the act or
+8 omission or that it was likely to occur; or
+9 (B) acted reasonably to prevent the conduct giving rise to forfeiture.
+10 (4) No property is subject to forfeiture if the owner or interest holder
+11 acquired the property after the conduct giving rise to the property's
+12 forfeiture, including acquisition of proceeds of conduct giving rise to
+13 forfeiture, and such owner or interest holder:
+14 (A) Acquired the property in good faith, for value; and
+15 (B) was not knowingly taking part in an illegal transaction.
+16 (5) (A) An interest in property acquired in good faith by an attorney
+17 as reasonable payment or to secure payment for legal services in a criminal
+18 matter relating to violations of this act or for the reimbursement of
+19 reasonable expenses related to the legal services is exempt from forfeiture
+20 unless before the interest was acquired the attorney knew of a judicial
+21 determination of probable cause that the property is subject to forfeiture.
+22 (B) The state bears the burden of proving that an exemption claimed
+23 under this section is not applicable. Evidence made available by the
+24 compelled disclosure of confidential communications between an attorney
+25 and a client other than nonprivileged information relating to attorney fees,
+26 is not admissible to satisfy the state's burden of proof.
+27 (b) Notwithstanding subsection (a), property is not exempt from
+28 forfeiture, even though the owner or interest holder lacked knowledge or
+29 reason to know that the conduct giving rise to property's forfeiture had
+30 occurred or was likely to occur, if the:
+31 (1) Person whose conduct gave rise to the property's forfeiture had
+32 authority to convey the property of the person claiming the exemption to a
+33 good faith purchaser for value at the time of the conduct;
+34 (2) owner or interest holder is criminally responsible for the conduct
+35 giving rise to the property's forfeiture, whether or not there is a prosecution
+36 or conviction; or
+37 (3) owner or interest holder acquired the property with notice of the
+38 property's actual or constructive seizure for forfeiture under this act, or
+39 with reason to believe that the property was subject to forfeiture under this
+40 act.
+41 (c) Prior to final judgment in a judicial forfeiture proceeding, the
+42 court shall determine whether the proposed forfeiture is unconstitutionally
+43 excessive pursuant to K.S.A. 60-4112(g), and amendments thereto, if the
+
+H Sub SB 9 10
+1 court has not made such determination earlier in the proceeding as a result
+2 of a petition filed pursuant to K.S.A. 60-4112(g), and amendments thereto.
+3 New Sec. 12. (a) In addition to the provisions of K.S.A. 75-3739, and
+4 amendments thereto, and any other applicable statutes concerning
+5 purchases, a governmental agency shall not purchase or acquire any drone
+6 or any related services, maintenance agreements or equipment, the critical
+7 components of which were:
+8 (1) Produced in any country of concern; or
+9 (2) produced or owned by any foreign principal.
+10 (b) Any critical components for drones or any related services or
+11 equipment that were acquired prior to July 1, 2025, and that are not in
+12 compliance with subsection (a) may continue to be used by the
+13 governmental agency that acquired such critical components. When a
+14 governmental agency determines that a critical component must be
+15 replaced, the governmental agency may use any replacement component
+16 acquired prior to July 1, 2025, but no new replacement component shall be
+17 acquired from any foreign principal.
+18 (c) Any acquisition that is otherwise prohibited under subsection (a)
+19 or (b) may be completed by a governmental agency if:
+20 (1) There is no other reasonable means to acquire such critical
+21 components or of addressing the needs of the governmental agency
+22 necessitating such acquisition;
+23 (2) the agreement for such acquisition is approved by the secretary of
+24 administration after consultation with the adjutant general; and
+25 (3) failure to acquire such critical components or otherwise address
+26 the needs of the governmental agency would pose a greater threat to the
+27 safety and security of this state than that posed by entering into such
+28 acquisition agreement.
+29 (d) The provisions of this section shall not apply to any contract or
+30 agreement entered into prior to July 1, 2025.
+31 New Sec. 13. As used in section 12, and amendments thereto:
+32 (a) "Company" means any:
+33 (1) For-profit corporation, partnership, limited partnership, limited
+34 liability partnership, limited liability company, joint venture, trust,
+35 association, sole proprietorship or other organization, including any:
+36 (A) Subsidiary of such company, a majority ownership interest of
+37 which is held by such company;
+38 (B) parent company that holds a majority ownership interest of such
+39 company;
+40 (C) other affiliate or business association of such company whose
+41 primary purpose is to make a profit; and
+42 (D) representative agent of such company; or
+43 (2) nonprofit organization.
+
+H Sub SB 9 11
+1 (b) (1) "Country of concern" means the following:
+2 (A) People's republic of China, including the Hong Kong special
+3 administrative region;
+4 (B) republic of Cuba;
+5 (C) islamic republic of Iran;
+6 (D) democratic people's republic of Korea;
+7 (E) Russian federation; and
+8 (F) Bolivarian republic of Venezuela.
+9 (2) "Country of concern" does not include the republic of China
+10 (Taiwan).
+11 (c) (1) "Critical component" means those components or
+12 subcomponents that are:
+13 (A) Distinct and serviceable articles; and
+14 (B) the primary component or subcomponent of an identifiable
+15 process or subprocess necessary to the recording, storing or transmitting of
+16 data or any other form of information.
+17 (2) "Critical component" includes any software installed in a drone or
+18 in any device or network device used in support of the operations of a
+19 drone.
+20 (d) "Domicile" means the country where a:
+21 (1) Company is organized;
+22 (2) company completes a substantial portion of its business; or
+23 (3) majority of a company's ownership interest is held.
+24 (e) "Drone" means an unmanned aircraft that is controlled remotely
+25 by a human operator or operates autonomously through computer software
+26 or other programming.
+27 (f) "Foreign principal" means:
+28 (1) The government or any official of the government of a country of
+29 concern;
+30 (2) any political party, subdivision thereof or any member of a
+31 political party of a country of concern;
+32 (3) any corporation, partnership, association, organization or other
+33 combination of persons organized under the laws of or having its principal
+34 place of business in a country of concern. "Foreign principal" includes any
+35 subsidiary owned or wholly controlled by any such entity;
+36 (4) any agent of or any entity otherwise under the control of a country
+37 of concern;
+38 (5) any individual whose residence is in a country of concern and
+39 who is not a citizen or lawful permanent resident of the United States; or
+40 (6) any individual, entity or combination thereof described in
+41 paragraphs (1) through (5) that has a controlling interest in any company
+42 formed for the purpose of manufacturing, distributing, transporting or
+43 selling critical components for drones and related services and equipment.
+
+H Sub SB 9 12
+1 (g) "Governmental agency" means the state or any political or taxing
+2 subdivision of the state or any office, agency or instrumentality thereof.
+3 Sec. 14. K.S.A. 2024 Supp. 60-4104 and 60-4106 are hereby
+4 repealed.
+5 Sec. 15. This act shall take effect and be in force from and after its
+6 publication in the statute book.
+
+[DELETED: Ai; eg te Ks ld ad my ipfat rofn s fm cs o c fm re0t1t264B5N6s7i8(9m0c1p2N3t4(5K6(7(8ly p, ld ly c, jt v, t9a0(1w2(3c4(5p6(]
+[DELETED: 9(((a(((((0(1(2(y on tt is dd as a fn t3o4J5a6a7(8(9t0(1(213o4(5c6c718(9(0(1(2(3(y ec dt ie pm a4w5( tx c, et fr sl ad dc tx c6r7(8t9K0(y tt hs bn p, a, c1r, i, e, f, r, ed o2r3u]
+[DELETED: 9S(jb cn pm fd ed by K. 7, aas e(ap(0c1(2(3c4(5p6(7c8p9s0(1o2(3a4(y i, ey or cn tf dd i5p6f7(8b9(0(1p2(3e4(5w6(7a8r9(y i" ms ay l, bs or o0s1d2a3S]
+[DELETED: 9(d t" ms ay tn iftp(r(e(0c1e2a374c5t6s7(8o9(0t1p2m3a4t5N6f7p8i9i0(1d2r3i4b5a6s7(8(9(0(1(2r3i]
+[DELETED: 9s(sad(dtt0N1v2(334g5t6(7ct jn to ee te ps of sn 3, a8a9(0i1(2(3p4(5(6d7t8p9N0r1s2N3ps fr te rg of in c n4t5c6a7(8i9i0g1s2c3(]
+[DELETED: 9pshsrtria0(1m2i3s4(5r6Nw S. 7) Un ay on wn an on i7d8r9m0o1s2a3(4o5a6t7N8u9r0t1K2N. 3dd s. Ay pn of ss 1 th 8, a4as t, or te an tf to ay pn o5c6t7a8o9S0f1a2o3(]
+[DELETED: 9(22((((ad l g as dd  2 aa0(1t2(3d4(5a6(7v8i9(0d1w2o3(4d5c6(7i8a9ws f s s d 0a1(2f3a4(5c6a7( sl r as dd in K 2 a8a9K0d1(2K3(]
+[DELETED: 9a(a(a((a(0a1(253(4a5(c s, as dd in K. 2, a6a7(8a9(021(s of te Ks rr id ad c2o3(t sn of a cd ad ad i4s5t6(7a8(960(1a2S3f4i5a6o7p8(9f0f1m2t3(]
+[DELETED: 9ttc(ir(o(0(1a2f3f4(5(6(7a8m9r0u1d2(3u4c5a6i7(8f9r0o1(2a3g4(5g6o7(8p9w0a1(2c3e]
+[DELETED: 91coNas t, ad ay or ae ss cpoc((0(1e2ce wh sn () my ce to be ud by t3g a4gl a ds tt  cl ct mt b5r6a7a8(9o0(1c2n3(4a5(6t7s8a9(0a1N2(3(4ly p, ld ly c, jt v, t5a6(7w8(9c0(1p2(3(]
+[DELETED: 91((a((((((0(1() (l c" ms te cs o2s3(4(e  ct r st of n i5p6d7(8i9d0(1(2(3(4(5b6o7(8(9c0(1p2(3c4p5s6(7o8(9w0(y i, ey or cn tf dd i1p2f3s]
+[DELETED: 91(sS. . 24 S. 64 ad 66 ae hrSp]

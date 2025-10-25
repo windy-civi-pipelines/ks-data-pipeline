@@ -1,0 +1,813 @@
+Title: HOUSE BILL No. 2355
+Official Title: HOUSE BILL No. 2355
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Judiciary
+Requested by Representative L. Williams on behalf of the Kansas Chamber
+2-7
+1 AN ACT concerning limited liability companies; relating to series limited
+2 liability companies; authorizing a limited liability company and any of
+3 its series to elect to consolidate its operations as a single taxpayer and
+4 elect to be treated as a single business for certain purposes; permitting
+5 operating agreements to impose restrictions, duties and obligations on
+6 members; specifying that wrongful transfer of property with intent to
+7 hinder, delay or defraud creditors or to defraud shall be deemed void;
+8 amending K.S.A. 17-76,143 and repealing the existing section.
+9
+10 Be it enacted by the Legislature of the State of Kansas:
+11 Section 1. K.S.A. 17-76,143 is hereby amended to read as follows:
+12 17-76,143. (a) An operating agreement may establish or provide for the
+13 establishment of one or more designated series of members, managers,
+14 limited liability company interests or assets. If an operating agreement so
+15 provides for the establishment or formation of one or more series, then a
+16 series may be formed by complying with this section. Any such series may
+17 have separate rights, powers or duties with respect to specified property or
+18 obligations of the limited liability company or profits and losses associated
+19 with specified property or obligations, and to the extent provided in the
+20 operating agreement, any such series may have a separate business
+21 purpose or investment objective. A series is formed by the filing of a
+22 certificate of designation in the office of the secretary of state. Other than
+23 pursuant to K.S.A. 17-76,143a, and amendments thereto, a series may not
+24 merge, convert, or consolidate pursuant to any section of the Kansas
+25 revised limited liability company act, the business entity transactions act,
+26 K.S.A. 17-78-101 et seq., and amendments thereto, or any other statute of
+27 this state.
+28 (b) Notice of the limitation on liabilities of a series as referenced in
+29 subsection (c) shall be set forth in the articles of organization of the limited
+30 liability company. Notice in articles of organization of the limitation on
+31 liabilities of a series as referenced in subsection (c) shall be sufficient for
+32 all purposes of this subsection whether or not the limited liability company
+33 has formed any series when such notice is included in the articles of
+34 organization, and there shall be no requirement that any specific series of
+35 the limited liability company be referenced in such notice. The fact that
+HB 2355 2
+1 articles of organization that contain the foregoing notice of the limitation
+2 on liabilities of a series is on file in the office of the secretary of state shall
+3 constitute notice of such limitation on liabilities of a series.
+4 (c) Notwithstanding anything to the contrary set forth in the Kansas
+5 revised limited liability company act or under other applicable law, in the
+6 event that an operating agreement establishes or provides for the
+7 establishment of one or more series, and if to the extent the records
+8 maintained for any series account for the assets associated with such series
+9 separately from the other assets of the limited liability company, or any
+10 other series thereof, and if the operating agreement so provides, and if
+11 notice of the limitation on liabilities of a series as referenced in this
+12 subsection is set forth in the articles of organization of the limited liability
+13 company and if the limited liability company has filed a certificate of
+14 designation for each series which is to have limited liability under this
+15 section, then the debts, liabilities, obligations and expenses incurred,
+16 contracted for or otherwise existing with respect to such series shall be
+17 enforceable against the assets of such series only, and not against the assets
+18 of the limited liability company generally or any other series thereof, and,
+19 unless otherwise provided in the operating agreement, none of the debts,
+20 liabilities, obligations and expenses incurred, contracted for or otherwise
+21 existing with respect to the limited liability company generally or any
+22 other series thereof shall be enforceable against the assets of such series.
+23 Neither the preceding sentences nor any provision pursuant thereto in an
+24 operating agreement, articles of organization or certificate of designation
+25 shall: Restrict a series or limited liability company on behalf of a series
+26 from agreeing in the operating agreement or otherwise that any or all of
+27 the debts, liabilities, obligations, and expenses incurred, contracted for, or
+28 otherwise existing with respect to the limited liability company generally
+29 or any other series thereof shall be enforceable against the assets of such
+30 series; or restrict a limited liability company from agreeing in the
+31 operating agreement or otherwise that any or all of the debts, liabilities,
+32 obligations, and expenses incurred, contracted for, or otherwise existing
+33 with respect to a series shall be enforceable against the assets of the
+34 limited liability company generally. Assets associated with a series may be
+35 held directly or indirectly, including in the name of such series, in the
+36 name of the limited liability company, through a nominee or otherwise.
+37 Records maintained for a series that reasonably identify its assets,
+38 including by specific listing, category, type, quantity, computational, or
+39 allocational formula or procedure, including a percentage or share of any
+40 asset or assets, or by any other method where the identity of such assets is
+41 objectively determinable, will be deemed to account for the assets
+42 associated with such series separately from the other assets of the limited
+43 liability company, or any other series thereof. As used in the Kansas
+HB 2355 3
+1 revised limited liability company act, a reference to assets of a series
+2 includes assets associated with such series, a reference to assets associated
+3 with a series includes assets of such series, a reference to members or
+4 managers of a series includes members or managers associated with such
+5 series, and a reference to members or managers associated with a series
+6 includes members or managers of such series. The following shall apply to
+7 a series:
+8 (1) A series may carry on any lawful business, purpose or activity,
+9 whether or not for profit, with the exception of the business of granting
+10 policies of insurance, assuming insurance risks, or banking as defined in
+11 K.S.A. 9-702, and amendments thereto. Unless otherwise provided in an
+12 operating agreement, a series shall have the power and capacity to, in its
+13 own name, contract, hold title to assets, including real, personal, and
+14 intangible property, grant liens and security interests, and sue and be sued
+15 and otherwise conduct business and exercise the power of a limited
+16 liability company under this article. The limited liability company and any
+17 of its series may elect to consolidate its operations as a single taxpayer to
+18 the extent required to file consolidated tax returns as permitted under
+19 applicable law and elect to be treated as a single business for the purposes
+20 of qualification or authorization to do business in this or any other state.
+21 Such elections shall not affect the limitation of liability set forth in this
+22 section except to the extent that the series have specifically accepted joint
+23 liability by contract.
+24 (2) Except as otherwise provided by the Kansas revised limited
+25 liability company act, no member or manager of a series shall be obligated
+26 personally for any debt, obligation or liability of such series, whether
+27 arising in contract, tort or otherwise, solely by reason of being a member
+28 or acting as manager of such series. Notwithstanding the preceding
+29 sentence, under an operating agreement or under another agreement, a
+30 member or manager may agree to be obligated personally for any or all of
+31 the debts, obligations and liabilities of one or more series.
+32 (3) An operating agreement may provide for classes or groups of
+33 members or managers associated with a series having such relative rights,
+34 powers and duties as the operating agreement may provide, and may make
+35 provision for the future creation in the manner provided in the operating
+36 agreement of additional classes or groups of members or managers
+37 associated with such series having such relative rights, powers and duties
+38 as may from time to time be established, including rights, powers and
+39 duties senior to existing classes and groups of members or managers
+40 associated with such series. An operating agreement may provide for the
+41 taking of an action, including the amendment of the operating agreement,
+42 without the vote, consent or approval of any member or manager or class
+43 or group of members or managers, including an action to create under the
+HB 2355 4
+1 provisions of the operating agreement a class or group of a series of
+2 limited liability company interests that was not previously outstanding. An
+3 operating agreement may provide that any member or class or group of
+4 members associated with a series shall have no voting rights or ability to
+5 otherwise participate in the management or governance of such series, but
+6 any such member or class or group of members are owners of the series.
+7 (4) An operating agreement may grant to all or certain identified
+8 members or managers or a specified class or group of the members or
+9 managers associated with a series the right to vote separately or with all or
+10 any class or group of the members or managers associated with such
+11 series, on any matter. Voting by members or managers associated with a
+12 series may be on a per capita, number, financial interest, class, group or
+13 any other basis.
+14 (5) Unless otherwise provided in an operating agreement, the
+15 management of a series shall be vested in the members associated with
+16 such series in proportion to the then-current percentage or other interest of
+17 members in the profits of such series owned by all of the members
+18 associated with such series, the decision of members owning more than
+19 50% of such percentage or other interest in the profits controlling, except
+20 that if an operating agreement provides for the management of a series, in
+21 whole or in part, by a manager or managers, the management of such
+22 series, to the extent so provided, shall be vested in the manager or
+23 managers who shall be chosen in the manner provided in the operating
+24 agreement. The manager of a series shall also hold the offices and have the
+25 responsibilities accorded to the manager as set forth in an operating
+26 agreement. A series may have more than one manager. Subject to K.S.A.
+27 17-76,105, and amendments thereto, a manager shall cease to be a
+28 manager with respect to a series as provided in an operating agreement.
+29 Except as otherwise provided in an operating agreement, any event under
+30 the Kansas revised limited liability company act or in an operating
+31 agreement that causes a manager to cease to be a manager with respect to a
+32 series shall not, in itself, cause such manager to cease to be a manager of
+33 the limited liability company or with respect to any other series thereof.
+34 (6) Notwithstanding K.S.A. 17-76,109, and amendments thereto, but
+35 subject to subsections (c)(7) and (c)(10), and unless otherwise provided in
+36 an operating agreement, at the time a member of a series becomes entitled
+37 to receive a distribution with respect to such series, the member has the
+38 status of, and is entitled to all remedies available to, a creditor of such
+39 series, with respect to the distribution. An operating agreement may
+40 provide for the establishment of a record date with respect to allocations
+41 and distributions with respect to a series.
+42 (7) Notwithstanding K.S.A. 17-76,110(a), and amendments thereto, a
+43 limited liability company may make a distribution with respect to a series.
+HB 2355 5
+1 A limited liability company shall not make a distribution with respect to a
+2 series to a member to the extent that at the time of the distribution, after
+3 giving effect to the distribution, all liabilities of such series, other than
+4 liabilities to members on account of their limited liability company
+5 interests with respect to such series and liabilities for which the recourse of
+6 creditors is limited to specified property of such series, exceed the fair
+7 value of the assets associated with such series, except that the fair value of
+8 property of such series that is subject to a liability for which the recourse
+9 of creditors is limited shall be included in the assets associated with such
+10 series only to the extent that the fair value of that property exceeds that
+11 liability. For purposes of the immediately preceding sentence, the term
+12 "distribution" shall not include amounts constituting reasonable
+13 compensation for present or past services or reasonable payments made in
+14 the ordinary course of business pursuant to a bona fide retirement plan or
+15 other benefits program. A member who receives a distribution in violation
+16 of this subsection, and who knew at the time of the distribution that the
+17 distribution violated this subsection, shall be liable to the series for the
+18 amount of the distribution. A member who receives a distribution in
+19 violation of this subsection, and who did not know at the time of the
+20 distribution that the distribution violated this subsection, shall not be liable
+21 for the amount of the distribution. Subject to K.S.A. 17-76,110(c), and
+22 amendments thereto, which shall apply to any distribution made with
+23 respect to a series under this subsection, this subsection shall not affect any
+24 obligation or liability of a member under an agreement or other applicable
+25 law for the amount of a distribution.
+26 (8) Unless otherwise provided in the operating agreement, a member
+27 shall cease to be associated with a series and to have the power to exercise
+28 any rights or powers of a member with respect to such series upon the
+29 assignment of all of the member's limited liability company interest with
+30 respect to such series. Except as otherwise provided in an operating
+31 agreement, any event under the Kansas revised limited liability company
+32 act or an operating agreement that causes a member to cease to be
+33 associated with a series shall not, in itself, cause such member to cease to
+34 be associated with any other series or terminate the continued membership
+35 of a member in the limited liability company or cause the dissolution of
+36 the series, regardless of whether such member was the last remaining
+37 member associated with such series.
+38 (9) Subject to K.S.A. 17-76,116, and amendments thereto, except to
+39 the extent otherwise provided in the operating agreement, a series may be
+40 dissolved and its affairs wound up without causing the dissolution of the
+41 limited liability company. The dissolution of a series shall not affect the
+42 limitation on liabilities of such series provided by this subsection (c). A
+43 series is dissolved and its affairs shall be wound up upon the dissolution of
+HB 2355 6
+1 the limited liability company under K.S.A. 17-76,116, and amendments
+2 thereto, or otherwise upon the first to occur of the following:
+3 (A) At the time specified in the operating agreement;
+4 (B) upon the happening of events specified in the operating
+5 agreement;
+6 (C) unless otherwise provided in the operating agreement, upon the
+7 vote, consent or approval of members associated with such series who own
+8 2/ or more of the then-current percentage or other interest in the profits of
+3
+9 such series of the limited liability company owned by all of the members
+10 associated with such series; or
+11 (D) the dissolution of such series under subsection (c)(11).
+12 (10) Notwithstanding K.S.A. 17-76,118(a), and amendments thereto,
+13 unless otherwise provided in the operating agreement, a manager
+14 associated with a series who has not wrongfully dissolved such series or, if
+15 none, the members associated with such series or a person consented to or
+16 approved by the members associated with such series, in either case, by
+17 members who own more than 50% of the then-current percentage or other
+18 interest in the profits of such series owned by all of the members
+19 associated with such series, may wind up the affairs of such series, but the
+20 district court, upon cause shown, may wind up the affairs of a series upon
+21 application of any member or manager associated with such series, or the
+22 member's personal representative or assignee, and in connection therewith,
+23 may appoint a liquidating trustee. The persons winding up the affairs of a
+24 series may, in the name of the limited liability company and for and on
+25 behalf of the limited liability company and such series, take all actions
+26 with respect to such series as are permitted under K.S.A. 17-76,118(b), and
+27 amendments thereto. The persons winding up the affairs of a series shall
+28 provide for the claims and obligations of such series and distribute the
+29 assets of such series as provided in K.S.A. 17-76,119, and amendments
+30 thereto, which section shall apply to the winding up and distribution of
+31 assets of a series. Actions taken in accordance with this subsection shall
+32 not affect the liability of members and shall not impose liability on a
+33 liquidating trustee.
+34 (11) On application by or for a member or manager associated with a
+35 series, the district court may decree dissolution of such series whenever it
+36 is not reasonably practicable to carry on the business of such series in
+37 conformity with an operating agreement.
+38 (12) For all purposes of the laws of the state of Kansas, a series is an
+39 association, regardless of the number of members or managers, if any, of
+40 such series.
+41 (d) In order to form a series of a limited liability company, a
+42 certificate of designation must be filed in accordance with this subsection.
+43 (1) (A) A certificate of designation shall set forth:
+HB 2355 7
+1 (i) The name of the limited liability company; and
+2 (ii) the name of the series.
+3 (B) A certificate of designation may include any other matter that the
+4 members of such series determine to include therein.
+5 (C) A certificate of designation properly filed with the secretary of
+6 state prior to July 1, 2020, shall be deemed to comply with the
+7 requirements of this paragraph.
+8 (2) A certificate of designation shall be executed in accordance with
+9 K.S.A. 17-7908(b), and amendments thereto, and shall be filed in the
+10 office of the secretary of state in accordance with K.S.A. 17-7910, and
+11 amendments thereto. A certificate of designation is not an amendment to
+12 the articles of organization of the limited liability company.
+13 (3) A certificate of designation may be amended by filing a certificate
+14 of amendment thereto in the office of the secretary of state.
+15 (A) The certificate of amendment shall set forth:
+16 (i) The name of the limited liability company;
+17 (ii) the name of the series; and
+18 (iii) the amendment to the certificate of designation.
+19 (B) A certificate of designation properly filed with the secretary of
+20 state prior to July 1, 2020, that changed a previously filed certificate of
+21 designation shall be deemed to be a certificate of amendment thereto for
+22 purposes of this paragraph.
+23 (4) A manager of a series or, if there is no manager, then any member
+24 of a series who becomes aware that any statement in a certificate of
+25 designation filed with respect to such series was false when made, or that
+26 any matter described therein has changed making the certificate of
+27 designation false in any material respect, shall promptly amend the
+28 certificate of designation.
+29 (5) A certificate of designation may be amended at any time for any
+30 other proper purpose.
+31 (6) Unless otherwise provided in the Kansas revised limited liability
+32 company act or unless a later effective date or time, which shall be a date
+33 or time certain, is provided for in the certificate of amendment, a
+34 certificate of amendment shall be effective at the time of its filing with the
+35 secretary of state.
+36 (7) A certificate of designation shall be canceled upon the
+37 cancellation of the articles of organization of the limited liability company
+38 named in the certificate of designation, or upon the filing of a certificate of
+39 cancellation of the certificate of designation, or upon the future effective
+40 date or time of a certificate of cancellation of the certificate of designation,
+41 or as provided in K.S.A. 17-76,139(d), and amendments thereto, or upon
+42 the filing of a certificate of merger or consolidation if the series is not the
+43 surviving or resulting series in a merger or consolidation or upon the future
+HB 2355 8
+1 effective date or time of a certificate of merger or consolidation if the
+2 series is not the surviving or resulting series in a merger or consolidation.
+3 A certificate of cancellation of the certificate of designation may be filed at
+4 any time, and shall be filed, in the office of the secretary of state to
+5 accomplish the cancellation of a certificate of designation upon the
+6 dissolution of a series for which a certificate of designation was filed and
+7 completion of the winding up of such series.
+8 (A) A certificate of cancellation of the certificate of designation shall
+9 set forth:
+10 (i) The name of the limited liability company;
+11 (ii) the name of the series;
+12 (iii) the future effective date or time, which shall be a date or time
+13 certain, of cancellation if it is not to be effective upon the filing of the
+14 certificate of cancellation; and
+15 (iv) any other information the person filing the certificate of
+16 cancellation of the certificate of designation determines.
+17 (B) A certificate of designation properly filed with the secretary of
+18 state prior to July 1, 2020, that dissolved a series shall be deemed to be a
+19 certificate of cancellation thereto for purposes of this paragraph.
+20 (8) A certificate of cancellation of the certificate of designation that is
+21 filed in the office of the secretary of state prior to the dissolution or the
+22 completion of winding up of a series may be corrected as an erroneously
+23 executed certificate of cancellation of the certificate of designation by
+24 filing with the office of the secretary of state a certificate of correction of
+25 such certificate of cancellation of the certificate of designation in
+26 accordance with K.S.A. 17-7912, and amendments thereto.
+27 (9) The secretary of state shall not issue a certificate of good standing
+28 with respect to a series if the certificate of designation is canceled or the
+29 limited liability company has ceased to be in good standing.
+30 (e) The name of each series as set forth in its certificate of
+31 designation:
+32 (1) Shall include the name of the limited liability company, including
+33 any word, abbreviation or designation required by K.S.A. 17-7920, and
+34 amendments thereto;
+35 (2) may contain the name of a member or manager;
+36 (3) must comply with the requirements of K.S.A. 17-7918, and
+37 amendments thereto, to the same extent as a covered entity; and
+38 (4) may contain any word permitted by K.S.A. 17-7920, and
+39 amendments thereto, and may not contain any word prohibited to be
+40 included in the name of a limited liability company under Kansas law.
+41 (f) If a foreign limited liability company that is registered to do
+42 business in this state in accordance with K.S.A. 17-7931, and amendments
+43 thereto, is governed by an operating agreement that establishes or provides
+HB 2355 9
+1 for the establishment of a series of members, managers, limited liability
+2 company interests or assets having separate rights, powers or duties with
+3 respect to specified property or obligations of the foreign limited liability
+4 company or profits and losses associated with specified property or
+5 obligations, that fact shall be so stated on the application for registration as
+6 a foreign limited liability company. In addition, the foreign limited liability
+7 company shall state on such application whether the debts, liabilities and
+8 obligations incurred, contracted for or otherwise existing with respect to a
+9 particular series, if any, are enforceable against the assets of such series
+10 only, and not against the assets of the foreign limited liability company
+11 generally or any other series thereof, and whether any of the debts,
+12 liabilities, obligations and expenses incurred, contracted for or otherwise
+13 existing with respect to the foreign limited liability company generally or
+14 any other series thereof shall be enforceable against the assets of such
+15 series.
+16 (g) An operating agreement may impose restrictions, duties and
+17 obligations on members of the limited liability company or any series
+18 thereof as a manner of internal governance, including, without limitation,
+19 those with regard to:
+20 (1) Choice of law, forum selection or consent to personal
+21 jurisdiction;
+22 (2) capital contributions;
+23 (3) restrictions on, or terms and conditions of, the transfer of
+24 membership interests;
+25 (4) restrictive covenants, including noncompetition, nonsolicitation
+26 and confidentiality provisions;
+27 (5) fiduciary duties; and
+28 (6) restrictions, duties or obligations to or for the benefit of the
+29 limited liability company, other series thereof or their affiliates.
+30 (h) The wrongful transfer of property from a series to another series
+31 or the limited liability company as a whole with intent to hinder, delay or
+32 defraud creditors of their just and lawful debts or damages, or to defraud
+33 shall be subject to K.S.A. 33-102, and amendments thereto.
+34 Sec. 2. K.S.A. 17-76,143 is hereby repealed.
+35 Sec. 3. This act shall take effect and be in force from and after its
+36 publication in the statute book.
+[DELETED: Alieomha0B1S213e4l5p6s7h8o9w0o1p2c3p4m5r6K7t8(9s0l1l2a3h4o5t]
+[DELETED: 5aoc(ret tt an og at es or ps fr tems0o1n2s3c4d5s6c7e8o9u0l1e2o3N4o5s6f7t8o9o0s1o2o3w4l5h6n7Rs md fr a ss tt r i is a8i9a0a1o d, wl e d o t r te 2a3l]
+[DELETED: 5riwmsia(w0p1K2o3o4i5a6l7o8t9a0o1S2s3l4(5l6p7a8o9s0m1t2(3m4p5p6a7a8a9d0a1t2w3o]
+[DELETED: 5plomoa(mm0a1s2s3a4(s oe pd in an og a, t5m6s7m8a950t1w2s o3m4a5r6a718m9E0t1a2s3t4(5s6a7t8s9s0p1a2(3l]
+[DELETED: 5Asglicvpo0s1l2"" sl nt ie as cg r3c4t5o6o7d8a9v0d1f2a3r4o5l6(7s8a9a0r1a2a3a4b5o6t7m8(9t0d1l2l3s]
+[DELETED: 5tt((n te hg of es sd in te oa(v/ s0a1(2(3us oe pd in te og a, a m4a5n6a7m8i9a0d1a2m3m4s5b6w7a8p9a0t1a2n3l4(5s6i7c8(9a0s1(2c3(]
+[DELETED: 5(((m(se pr to J 1, 2, sl be dd to c wh tr(K0o1a2t3(4o5(6(7(8(9(0s1d2p3(4o5d6as 7d8c9(0o1(2c3o4c5s6(A ce of dn sl be cd un t7c8n9c0d1o2t3s]
+[DELETED: 5esAaadc(s0(1(2(3c4c5(y or in te pn fg te ce o6c7(8s9c0(1f2c3e4f5sh ce of cn of te ce of dn i6a7(8w9l0(e ne of eh ss as st fh in is ce o1d2(3a4a5(6(7a8(y cn ay wd pd by K. 1, a9a0i1(2b3t]
+[DELETED: 5fcrcoacop0o1g2l3e4a5s6(7o8t9t0(e of l, fm sn or ct to p1j2(3(s r s r 4m5(6a7(8(9l0(1o2d3s4S5S6p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2355
+By Committee on Judiciary
+Requested by Representative L. Williams on behalf of the Kansas Chamber
+2-7
+1 AN ACT concerning limited liability companies; relating to series limited
+2 liability companies; authorizing a limited liability company and any of
+3 its series to elect to consolidate its operations as a single taxpayer and
+4 elect to be treated as a single business for certain purposes; permitting
+5 operating agreements to impose restrictions, duties and obligations on
+6 members; specifying that wrongful transfer of property with intent to
+7 hinder, delay or defraud creditors or to defraud shall be deemed void;
+8 amending K.S.A. 17-76,143 and repealing the existing section.
+9
+10 Be it enacted by the Legislature of the State of Kansas:
+11 Section 1. K.S.A. 17-76,143 is hereby amended to read as follows:
+12 17-76,143. (a) An operating agreement may establish or provide for the
+13 establishment of one or more designated series of members, managers,
+14 limited liability company interests or assets. If an operating agreement so
+15 provides for the establishment or formation of one or more series, then a
+16 series may be formed by complying with this section. Any such series may
+17 have separate rights, powers or duties with respect to specified property or
+18 obligations of the limited liability company or profits and losses associated
+19 with specified property or obligations, and to the extent provided in the
+20 operating agreement, any such series may have a separate business
+21 purpose or investment objective. A series is formed by the filing of a
+22 certificate of designation in the office of the secretary of state. Other than
+23 pursuant to K.S.A. 17-76,143a, and amendments thereto, a series may not
+24 merge, convert, or consolidate pursuant to any section of the Kansas
+25 revised limited liability company act, the business entity transactions act,
+26 K.S.A. 17-78-101 et seq., and amendments thereto, or any other statute of
+27 this state.
+28 (b) Notice of the limitation on liabilities of a series as referenced in
+29 subsection (c) shall be set forth in the articles of organization of the limited
+30 liability company. Notice in articles of organization of the limitation on
+31 liabilities of a series as referenced in subsection (c) shall be sufficient for
+32 all purposes of this subsection whether or not the limited liability company
+33 has formed any series when such notice is included in the articles of
+34 organization, and there shall be no requirement that any specific series of
+35 the limited liability company be referenced in such notice. The fact that
+
+HB 2355 2
+1 articles of organization that contain the foregoing notice of the limitation
+2 on liabilities of a series is on file in the office of the secretary of state shall
+3 constitute notice of such limitation on liabilities of a series.
+4 (c) Notwithstanding anything to the contrary set forth in the Kansas
+5 revised limited liability company act or under other applicable law, in the
+6 event that an operating agreement establishes or provides for the
+7 establishment of one or more series, and if to the extent the records
+8 maintained for any series account for the assets associated with such series
+9 separately from the other assets of the limited liability company, or any
+10 other series thereof, and if the operating agreement so provides, and if
+11 notice of the limitation on liabilities of a series as referenced in this
+12 subsection is set forth in the articles of organization of the limited liability
+13 company and if the limited liability company has filed a certificate of
+14 designation for each series which is to have limited liability under this
+15 section, then the debts, liabilities, obligations and expenses incurred,
+16 contracted for or otherwise existing with respect to such series shall be
+17 enforceable against the assets of such series only, and not against the assets
+18 of the limited liability company generally or any other series thereof, and,
+19 unless otherwise provided in the operating agreement, none of the debts,
+20 liabilities, obligations and expenses incurred, contracted for or otherwise
+21 existing with respect to the limited liability company generally or any
+22 other series thereof shall be enforceable against the assets of such series.
+23 Neither the preceding sentences nor any provision pursuant thereto in an
+24 operating agreement, articles of organization or certificate of designation
+25 shall: Restrict a series or limited liability company on behalf of a series
+26 from agreeing in the operating agreement or otherwise that any or all of
+27 the debts, liabilities, obligations, and expenses incurred, contracted for, or
+28 otherwise existing with respect to the limited liability company generally
+29 or any other series thereof shall be enforceable against the assets of such
+30 series; or restrict a limited liability company from agreeing in the
+31 operating agreement or otherwise that any or all of the debts, liabilities,
+32 obligations, and expenses incurred, contracted for, or otherwise existing
+33 with respect to a series shall be enforceable against the assets of the
+34 limited liability company generally. Assets associated with a series may be
+35 held directly or indirectly, including in the name of such series, in the
+36 name of the limited liability company, through a nominee or otherwise.
+37 Records maintained for a series that reasonably identify its assets,
+38 including by specific listing, category, type, quantity, computational, or
+39 allocational formula or procedure, including a percentage or share of any
+40 asset or assets, or by any other method where the identity of such assets is
+41 objectively determinable, will be deemed to account for the assets
+42 associated with such series separately from the other assets of the limited
+43 liability company, or any other series thereof. As used in the Kansas
+
+HB 2355 3
+1 revised limited liability company act, a reference to assets of a series
+2 includes assets associated with such series, a reference to assets associated
+3 with a series includes assets of such series, a reference to members or
+4 managers of a series includes members or managers associated with such
+5 series, and a reference to members or managers associated with a series
+6 includes members or managers of such series. The following shall apply to
+7 a series:
+8 (1) A series may carry on any lawful business, purpose or activity,
+9 whether or not for profit, with the exception of the business of granting
+10 policies of insurance, assuming insurance risks, or banking as defined in
+11 K.S.A. 9-702, and amendments thereto. Unless otherwise provided in an
+12 operating agreement, a series shall have the power and capacity to, in its
+13 own name, contract, hold title to assets, including real, personal, and
+14 intangible property, grant liens and security interests, and sue and be sued
+15 and otherwise conduct business and exercise the power of a limited
+16 liability company under this article. The limited liability company and any
+17 of its series may elect to consolidate its operations as a single taxpayer to
+18 the extent required to file consolidated tax returns as permitted under
+19 applicable law and elect to be treated as a single business for the purposes
+20 of qualification or authorization to do business in this or any other state.
+21 Such elections shall not affect the limitation of liability set forth in this
+22 section except to the extent that the series have specifically accepted joint
+23 liability by contract.
+24 (2) Except as otherwise provided by the Kansas revised limited
+25 liability company act, no member or manager of a series shall be obligated
+26 personally for any debt, obligation or liability of such series, whether
+27 arising in contract, tort or otherwise, solely by reason of being a member
+28 or acting as manager of such series. Notwithstanding the preceding
+29 sentence, under an operating agreement or under another agreement, a
+30 member or manager may agree to be obligated personally for any or all of
+31 the debts, obligations and liabilities of one or more series.
+32 (3) An operating agreement may provide for classes or groups of
+33 members or managers associated with a series having such relative rights,
+34 powers and duties as the operating agreement may provide, and may make
+35 provision for the future creation in the manner provided in the operating
+36 agreement of additional classes or groups of members or managers
+37 associated with such series having such relative rights, powers and duties
+38 as may from time to time be established, including rights, powers and
+39 duties senior to existing classes and groups of members or managers
+40 associated with such series. An operating agreement may provide for the
+41 taking of an action, including the amendment of the operating agreement,
+42 without the vote, consent or approval of any member or manager or class
+43 or group of members or managers, including an action to create under the
+
+HB 2355 4
+1 provisions of the operating agreement a class or group of a series of
+2 limited liability company interests that was not previously outstanding. An
+3 operating agreement may provide that any member or class or group of
+4 members associated with a series shall have no voting rights or ability to
+5 otherwise participate in the management or governance of such series, but
+6 any such member or class or group of members are owners of the series.
+7 (4) An operating agreement may grant to all or certain identified
+8 members or managers or a specified class or group of the members or
+9 managers associated with a series the right to vote separately or with all or
+10 any class or group of the members or managers associated with such
+11 series, on any matter. Voting by members or managers associated with a
+12 series may be on a per capita, number, financial interest, class, group or
+13 any other basis.
+14 (5) Unless otherwise provided in an operating agreement, the
+15 management of a series shall be vested in the members associated with
+16 such series in proportion to the then-current percentage or other interest of
+17 members in the profits of such series owned by all of the members
+18 associated with such series, the decision of members owning more than
+19 50% of such percentage or other interest in the profits controlling, except
+20 that if an operating agreement provides for the management of a series, in
+21 whole or in part, by a manager or managers, the management of such
+22 series, to the extent so provided, shall be vested in the manager or
+23 managers who shall be chosen in the manner provided in the operating
+24 agreement. The manager of a series shall also hold the offices and have the
+25 responsibilities accorded to the manager as set forth in an operating
+26 agreement. A series may have more than one manager. Subject to K.S.A.
+27 17-76,105, and amendments thereto, a manager shall cease to be a
+28 manager with respect to a series as provided in an operating agreement.
+29 Except as otherwise provided in an operating agreement, any event under
+30 the Kansas revised limited liability company act or in an operating
+31 agreement that causes a manager to cease to be a manager with respect to a
+32 series shall not, in itself, cause such manager to cease to be a manager of
+33 the limited liability company or with respect to any other series thereof.
+34 (6) Notwithstanding K.S.A. 17-76,109, and amendments thereto, but
+35 subject to subsections (c)(7) and (c)(10), and unless otherwise provided in
+36 an operating agreement, at the time a member of a series becomes entitled
+37 to receive a distribution with respect to such series, the member has the
+38 status of, and is entitled to all remedies available to, a creditor of such
+39 series, with respect to the distribution. An operating agreement may
+40 provide for the establishment of a record date with respect to allocations
+41 and distributions with respect to a series.
+42 (7) Notwithstanding K.S.A. 17-76,110(a), and amendments thereto, a
+43 limited liability company may make a distribution with respect to a series.
+
+HB 2355 5
+1 A limited liability company shall not make a distribution with respect to a
+2 series to a member to the extent that at the time of the distribution, after
+3 giving effect to the distribution, all liabilities of such series, other than
+4 liabilities to members on account of their limited liability company
+5 interests with respect to such series and liabilities for which the recourse of
+6 creditors is limited to specified property of such series, exceed the fair
+7 value of the assets associated with such series, except that the fair value of
+8 property of such series that is subject to a liability for which the recourse
+9 of creditors is limited shall be included in the assets associated with such
+10 series only to the extent that the fair value of that property exceeds that
+11 liability. For purposes of the immediately preceding sentence, the term
+12 "distribution" shall not include amounts constituting reasonable
+13 compensation for present or past services or reasonable payments made in
+14 the ordinary course of business pursuant to a bona fide retirement plan or
+15 other benefits program. A member who receives a distribution in violation
+16 of this subsection, and who knew at the time of the distribution that the
+17 distribution violated this subsection, shall be liable to the series for the
+18 amount of the distribution. A member who receives a distribution in
+19 violation of this subsection, and who did not know at the time of the
+20 distribution that the distribution violated this subsection, shall not be liable
+21 for the amount of the distribution. Subject to K.S.A. 17-76,110(c), and
+22 amendments thereto, which shall apply to any distribution made with
+23 respect to a series under this subsection, this subsection shall not affect any
+24 obligation or liability of a member under an agreement or other applicable
+25 law for the amount of a distribution.
+26 (8) Unless otherwise provided in the operating agreement, a member
+27 shall cease to be associated with a series and to have the power to exercise
+28 any rights or powers of a member with respect to such series upon the
+29 assignment of all of the member's limited liability company interest with
+30 respect to such series. Except as otherwise provided in an operating
+31 agreement, any event under the Kansas revised limited liability company
+32 act or an operating agreement that causes a member to cease to be
+33 associated with a series shall not, in itself, cause such member to cease to
+34 be associated with any other series or terminate the continued membership
+35 of a member in the limited liability company or cause the dissolution of
+36 the series, regardless of whether such member was the last remaining
+37 member associated with such series.
+38 (9) Subject to K.S.A. 17-76,116, and amendments thereto, except to
+39 the extent otherwise provided in the operating agreement, a series may be
+40 dissolved and its affairs wound up without causing the dissolution of the
+41 limited liability company. The dissolution of a series shall not affect the
+42 limitation on liabilities of such series provided by this subsection (c). A
+43 series is dissolved and its affairs shall be wound up upon the dissolution of
+
+HB 2355 6
+1 the limited liability company under K.S.A. 17-76,116, and amendments
+2 thereto, or otherwise upon the first to occur of the following:
+3 (A) At the time specified in the operating agreement;
+4 (B) upon the happening of events specified in the operating
+5 agreement;
+6 (C) unless otherwise provided in the operating agreement, upon the
+7 vote, consent or approval of members associated with such series who own
+8 2/ or more of the then-current percentage or other interest in the profits of
+3
+9 such series of the limited liability company owned by all of the members
+10 associated with such series; or
+11 (D) the dissolution of such series under subsection (c)(11).
+12 (10) Notwithstanding K.S.A. 17-76,118(a), and amendments thereto,
+13 unless otherwise provided in the operating agreement, a manager
+14 associated with a series who has not wrongfully dissolved such series or, if
+15 none, the members associated with such series or a person consented to or
+16 approved by the members associated with such series, in either case, by
+17 members who own more than 50% of the then-current percentage or other
+18 interest in the profits of such series owned by all of the members
+19 associated with such series, may wind up the affairs of such series, but the
+20 district court, upon cause shown, may wind up the affairs of a series upon
+21 application of any member or manager associated with such series, or the
+22 member's personal representative or assignee, and in connection therewith,
+23 may appoint a liquidating trustee. The persons winding up the affairs of a
+24 series may, in the name of the limited liability company and for and on
+25 behalf of the limited liability company and such series, take all actions
+26 with respect to such series as are permitted under K.S.A. 17-76,118(b), and
+27 amendments thereto. The persons winding up the affairs of a series shall
+28 provide for the claims and obligations of such series and distribute the
+29 assets of such series as provided in K.S.A. 17-76,119, and amendments
+30 thereto, which section shall apply to the winding up and distribution of
+31 assets of a series. Actions taken in accordance with this subsection shall
+32 not affect the liability of members and shall not impose liability on a
+33 liquidating trustee.
+34 (11) On application by or for a member or manager associated with a
+35 series, the district court may decree dissolution of such series whenever it
+36 is not reasonably practicable to carry on the business of such series in
+37 conformity with an operating agreement.
+38 (12) For all purposes of the laws of the state of Kansas, a series is an
+39 association, regardless of the number of members or managers, if any, of
+40 such series.
+41 (d) In order to form a series of a limited liability company, a
+42 certificate of designation must be filed in accordance with this subsection.
+43 (1) (A) A certificate of designation shall set forth:
+
+HB 2355 7
+1 (i) The name of the limited liability company; and
+2 (ii) the name of the series.
+3 (B) A certificate of designation may include any other matter that the
+4 members of such series determine to include therein.
+5 (C) A certificate of designation properly filed with the secretary of
+6 state prior to July 1, 2020, shall be deemed to comply with the
+7 requirements of this paragraph.
+8 (2) A certificate of designation shall be executed in accordance with
+9 K.S.A. 17-7908(b), and amendments thereto, and shall be filed in the
+10 office of the secretary of state in accordance with K.S.A. 17-7910, and
+11 amendments thereto. A certificate of designation is not an amendment to
+12 the articles of organization of the limited liability company.
+13 (3) A certificate of designation may be amended by filing a certificate
+14 of amendment thereto in the office of the secretary of state.
+15 (A) The certificate of amendment shall set forth:
+16 (i) The name of the limited liability company;
+17 (ii) the name of the series; and
+18 (iii) the amendment to the certificate of designation.
+19 (B) A certificate of designation properly filed with the secretary of
+20 state prior to July 1, 2020, that changed a previously filed certificate of
+21 designation shall be deemed to be a certificate of amendment thereto for
+22 purposes of this paragraph.
+23 (4) A manager of a series or, if there is no manager, then any member
+24 of a series who becomes aware that any statement in a certificate of
+25 designation filed with respect to such series was false when made, or that
+26 any matter described therein has changed making the certificate of
+27 designation false in any material respect, shall promptly amend the
+28 certificate of designation.
+29 (5) A certificate of designation may be amended at any time for any
+30 other proper purpose.
+31 (6) Unless otherwise provided in the Kansas revised limited liability
+32 company act or unless a later effective date or time, which shall be a date
+33 or time certain, is provided for in the certificate of amendment, a
+34 certificate of amendment shall be effective at the time of its filing with the
+35 secretary of state.
+36 (7) A certificate of designation shall be canceled upon the
+37 cancellation of the articles of organization of the limited liability company
+38 named in the certificate of designation, or upon the filing of a certificate of
+39 cancellation of the certificate of designation, or upon the future effective
+40 date or time of a certificate of cancellation of the certificate of designation,
+41 or as provided in K.S.A. 17-76,139(d), and amendments thereto, or upon
+42 the filing of a certificate of merger or consolidation if the series is not the
+43 surviving or resulting series in a merger or consolidation or upon the future
+
+HB 2355 8
+1 effective date or time of a certificate of merger or consolidation if the
+2 series is not the surviving or resulting series in a merger or consolidation.
+3 A certificate of cancellation of the certificate of designation may be filed at
+4 any time, and shall be filed, in the office of the secretary of state to
+5 accomplish the cancellation of a certificate of designation upon the
+6 dissolution of a series for which a certificate of designation was filed and
+7 completion of the winding up of such series.
+8 (A) A certificate of cancellation of the certificate of designation shall
+9 set forth:
+10 (i) The name of the limited liability company;
+11 (ii) the name of the series;
+12 (iii) the future effective date or time, which shall be a date or time
+13 certain, of cancellation if it is not to be effective upon the filing of the
+14 certificate of cancellation; and
+15 (iv) any other information the person filing the certificate of
+16 cancellation of the certificate of designation determines.
+17 (B) A certificate of designation properly filed with the secretary of
+18 state prior to July 1, 2020, that dissolved a series shall be deemed to be a
+19 certificate of cancellation thereto for purposes of this paragraph.
+20 (8) A certificate of cancellation of the certificate of designation that is
+21 filed in the office of the secretary of state prior to the dissolution or the
+22 completion of winding up of a series may be corrected as an erroneously
+23 executed certificate of cancellation of the certificate of designation by
+24 filing with the office of the secretary of state a certificate of correction of
+25 such certificate of cancellation of the certificate of designation in
+26 accordance with K.S.A. 17-7912, and amendments thereto.
+27 (9) The secretary of state shall not issue a certificate of good standing
+28 with respect to a series if the certificate of designation is canceled or the
+29 limited liability company has ceased to be in good standing.
+30 (e) The name of each series as set forth in its certificate of
+31 designation:
+32 (1) Shall include the name of the limited liability company, including
+33 any word, abbreviation or designation required by K.S.A. 17-7920, and
+34 amendments thereto;
+35 (2) may contain the name of a member or manager;
+36 (3) must comply with the requirements of K.S.A. 17-7918, and
+37 amendments thereto, to the same extent as a covered entity; and
+38 (4) may contain any word permitted by K.S.A. 17-7920, and
+39 amendments thereto, and may not contain any word prohibited to be
+40 included in the name of a limited liability company under Kansas law.
+41 (f) If a foreign limited liability company that is registered to do
+42 business in this state in accordance with K.S.A. 17-7931, and amendments
+43 thereto, is governed by an operating agreement that establishes or provides
+
+HB 2355 9
+1 for the establishment of a series of members, managers, limited liability
+2 company interests or assets having separate rights, powers or duties with
+3 respect to specified property or obligations of the foreign limited liability
+4 company or profits and losses associated with specified property or
+5 obligations, that fact shall be so stated on the application for registration as
+6 a foreign limited liability company. In addition, the foreign limited liability
+7 company shall state on such application whether the debts, liabilities and
+8 obligations incurred, contracted for or otherwise existing with respect to a
+9 particular series, if any, are enforceable against the assets of such series
+10 only, and not against the assets of the foreign limited liability company
+11 generally or any other series thereof, and whether any of the debts,
+12 liabilities, obligations and expenses incurred, contracted for or otherwise
+13 existing with respect to the foreign limited liability company generally or
+14 any other series thereof shall be enforceable against the assets of such
+15 series.
+16 (g) An operating agreement may impose restrictions, duties and
+17 obligations on members of the limited liability company or any series
+18 thereof as a manner of internal governance, including, without limitation,
+19 those with regard to:
+20 (1) Choice of law, forum selection or consent to personal
+21 jurisdiction;
+22 (2) capital contributions;
+23 (3) restrictions on, or terms and conditions of, the transfer of
+24 membership interests;
+25 (4) restrictive covenants, including noncompetition, nonsolicitation
+26 and confidentiality provisions;
+27 (5) fiduciary duties; and
+28 (6) restrictions, duties or obligations to or for the benefit of the
+29 limited liability company, other series thereof or their affiliates.
+30 (h) The wrongful transfer of property from a series to another series
+31 or the limited liability company as a whole with intent to hinder, delay or
+32 defraud creditors of their just and lawful debts or damages, or to defraud
+33 shall be subject to K.S.A. 33-102, and amendments thereto.
+34 Sec. 2. K.S.A. 17-76,143 is hereby repealed.
+35 Sec. 3. This act shall take effect and be in force from and after its
+36 publication in the statute book.
+
+[DELETED: Alieomha0B1S213e4l5p6s7h8o9w0o1p2c3p4m5r6K7t8(9s0l1l2a3h4o5t]
+[DELETED: 5aoc(ret tt an og at es or ps fr tems0o1n2s3c4d5s6c7e8o9u0l1e2o3N4o5s6f7t8o9o0s1o2o3w4l5h6n7Rs md fr a ss tt r i is a8i9a0a1o d, wl e d o t r te 2a3l]
+[DELETED: 5riwmsia(w0p1K2o3o4i5a6l7o8t9a0o1S2s3l4(5l6p7a8o9s0m1t2(3m4p5p6a7a8a9d0a1t2w3o]
+[DELETED: 5plomoa(mm0a1s2s3a4(s oe pd in an og a, t5m6s7m8a950t1w2s o3m4a5r6a718m9E0t1a2s3t4(5s6a7t8s9s0p1a2(3l]
+[DELETED: 5Asglicvpo0s1l2"" sl nt ie as cg r3c4t5o6o7d8a9v0d1f2a3r4o5l6(7s8a9a0r1a2a3a4b5o6t7m8(9t0d1l2l3s]
+[DELETED: 5tt((n te hg of es sd in te oa(v/ s0a1(2(3us oe pd in te og a, a m4a5n6a7m8i9a0d1a2m3m4s5b6w7a8p9a0t1a2n3l4(5s6i7c8(9a0s1(2c3(]
+[DELETED: 5(((m(se pr to J 1, 2, sl be dd to c wh tr(K0o1a2t3(4o5(6(7(8(9(0s1d2p3(4o5d6as 7d8c9(0o1(2c3o4c5s6(A ce of dn sl be cd un t7c8n9c0d1o2t3s]
+[DELETED: 5esAaadc(s0(1(2(3c4c5(y or in te pn fg te ce o6c7(8s9c0(1f2c3e4f5sh ce of cn of te ce of dn i6a7(8w9l0(e ne of eh ss as st fh in is ce o1d2(3a4a5(6(7a8(y cn ay wd pd by K. 1, a9a0i1(2b3t]
+[DELETED: 5fcrcoacop0o1g2l3e4a5s6(7o8t9t0(e of l, fm sn or ct to p1j2(3(s r s r 4m5(6a7(8(9l0(1o2d3s4S5S6p]

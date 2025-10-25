@@ -1,0 +1,443 @@
+Title: HOUSE BILL No. 2108
+Official Title: HOUSE BILL No. 2108
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Energy, Utilities and Telecommunications
+Requested by Claudia Hissong on behalf of Kansas Farm Bureau
+1-28
+1 AN ACT concerning energy; relating to the state corporation commission;
+2 requiring the commission to establish and enforce a code of conduct
+3 and agricultural mitigation protocols for the development, construction,
+4 operation and decommissioning of certain large energy facilities in
+5 rural areas of the state.
+6
+7 Be it enacted by the Legislature of the State of Kansas:
+8 Section 1. As used in sections 1 through 4, and amendments thereto:
+9 (a) "Battery energy storage system" means an electrochemical device
+10 that is capable of absorbing and storing electrical energy and discharging
+11 such energy at a later time.
+12 (b) "Commercial battery energy storage system" means a battery
+13 energy storage system that can store and then discharge one megawatt or
+14 more of electrical energy over a one-hour duration.
+15 (c) "Commercial solar energy conversion system" means a solar
+16 energy conversion system that has a total system-rated generating capacity
+17 of one megawatt or more and all appurtenant facilities of such system,
+18 including, but not limited to, the solar collectors, battery storage units,
+19 substations and operations and maintenance buildings.
+20 (d) "Commission" means the state corporation commission.
+21 (e) "Electric transmission lines" means the same as defined in K.S.A.
+22 66-1,177, and amendments thereto.
+23 (f) "Large energy facility" means any:
+24 (1) Commercial battery energy storage system;
+25 (2) commercial solar energy conversion system;
+26 (3) electric transmission lines; or
+27 (4) wind energy conversion system.
+28 (g) "Large energy facility owner" means any person or entity that
+29 owns or operates a large energy facility and any employees, agents,
+30 contractors, subcontractors or assigns thereof, including any person or
+31 entity that seeks the necessary rights, permits or approvals for the
+32 construction and operation of a large energy facility regardless of whether
+33 such person or entity will own or operate the large energy facility after
+34 construction.
+35 (h) "Rural area" means any area located one mile or more outside of:
+HB 2108 2
+1 (1) The corporate limits of any city; or
+2 (2) any unincorporated area having a housing density of three
+3 dwelling units per acre or more.
+4 (i) "Solar energy conversion system" means any device, component
+5 or system required to convert solar energy into electric or thermal energy.
+6 (j) "Wind energy conversion system" means the same as defined in
+7 K.S.A. 66-1289, and amendments thereto.
+8 Sec. 2. (a) The commission, after consultation with the Kansas
+9 department of agriculture, shall establish a code of conduct and
+10 agricultural impact mitigation protocols for the development, construction,
+11 operation and decommissioning of large energy facilities in rural areas of
+12 the state.
+13 (b) The code of conduct shall, at a minimum, contain provisions that
+14 require each large energy facility owner to:
+15 (1) Be truthful and honest in all communications with landowners;
+16 (2) be transparent about the large energy facility project;
+17 (3) provide appropriate contact information for the large energy
+18 facility owner and any employees, agents, contractors, subcontractors or
+19 assigns thereof that are associated with the project;
+20 (4) ensure that all communications with landowners do not contain
+21 any threat or coercion;
+22 (5) abide by the request of any landowner who requests that the large
+23 energy facility owner, or any employees, agents, contractors,
+24 subcontractors or assigns thereof, vacate the landowner's property or cease
+25 communications with the landowner;
+26 (6) not disclose communications from a landowner unless such
+27 disclosure is otherwise agreed to in writing;
+28 (7) establish procedures to provide early and meaningful landowner
+29 involvement in the siting process for the large energy facility, including
+30 both public and private meetings with affected landowners and
+31 individuals;
+32 (8) provide and make accessible project maps to landowners and the
+33 public during the siting process;
+34 (9) establish procedures to consider and accept any landowner-
+35 requested micro-siting modifications to the project;
+36 (10) ensure that property appraisals and offers to landowners are
+37 consistent and based on the attributes and use of the land;
+38 (11) offer each landowner an amount that is greater than the fair
+39 market value of the property interest whenever the large facility owner
+40 possesses the authority of eminent domain for the project;
+41 (12) allow the landowner to elect to receive a one-time payment or
+42 annual payments for the life of the project for any payment made to the
+43 landowner that is associated with the acquisition of any property interest;
+HB 2108 3
+1 (13) compensate landowners for any and all damages to land and
+2 agricultural operations resulting from the development, construction,
+3 operation or decommissioning of the project and establish procedures to
+4 determine and calculate compensation for such damages;
+5 (14) establish an optional appeal process when the large energy
+6 facility owner's offer for the landowner's property interest is deemed
+7 inadequate by the landowner;
+8 (15) establish setbacks from residential and agricultural structures
+9 that are based on scientifically proven health and safety information;
+10 (16) remediate communication circuits that are diminished or
+11 disrupted due to communication interference caused by the project;
+12 (17) track the obligations that are owed to landowners based on the
+13 terms negotiated by landowners and provide a map of such obligations
+14 showing the energy company's obligations by each individual parcel of
+15 land;
+16 (18) establish a decommissioning plan that ensures infrastructure
+17 removal and land restoration when the project is retired or abandoned;
+18 (19) provide adequate financial assurance to ensure the full and
+19 complete decommissioning of the project and the completion of any wind-
+20 up activities; and
+21 (20) indemnify and hold harmless any affected landowner or tenant,
+22 and any heirs, successors, legal representatives or assigns thereof, from
+23 any and all liability associated with the development, construction,
+24 operation or decommissioning of the energy project, unless such liability
+25 arises from the intentional or willful acts of the indemnitee.
+26 (c) The agricultural impact mitigation protocols shall, at a minimum,
+27 contain provisions that require each large energy facility owner to:
+28 (1) Provide advance notice to and coordinate with any landowner or
+29 tenant whenever the large energy facility owner needs to access private
+30 property;
+31 (2) designate one or more contacts for the large energy facility owner
+32 who have experience in agriculture and who may be contacted by any
+33 landowner when any agricultural impact mitigation work is inferior;
+34 (3) establish standards for facilities and support structures to
+35 minimize the impact to agricultural land and operations;
+36 (4) establish procedures to mitigate and address any impacts to
+37 important agricultural improvements caused by the project, including, but
+38 not limited to, impacts to drainage tiles, terraces and irrigation systems and
+39 lightning and stray voltage mitigation measures;
+40 (5) establish soil protection measures, including, but not limited to,
+41 decompaction, fertilization, stabilization, repair damaged soil conservation
+42 and erosion prevention projects and removal of construction debris;
+43 (6) establish soil restoration measures that shall apply following
+HB 2108 4
+1 construction activities, operational activities and decommissioning
+2 activities, including, but not limited to, segregation and replacement of
+3 topsoil and reestablishment of the vegetative growth that existed prior to
+4 disturbance;
+5 (7) adhere to scientific standards for all agricultural impact mitigation
+6 work such as the standards established by the natural resources
+7 conservation service, the United States department of agriculture farm
+8 service agency, agricultural extension offices or land grant universities;
+9 (8) establish procedures for installation and maintenance of any
+10 necessary gates to the facility or facility structures;
+11 (9) for any project involving the electric transmission lines, construct
+12 the electric transmission lines with an adequate transmission line height to
+13 ensure that any existing agricultural operations may continue under and
+14 around the transmission line in a safe manner;
+15 (10) establish procedures for tree and brush removal, including, but
+16 not limited to, compensation for removal of trees with commercial value;
+17 (11) establish procedures for controlling noxious weeds and other
+18 growth within any lease or easement; and
+19 (12) provide compensation to any landowner or tenant for lost
+20 revenue when the landowner or tenant is forced to withdraw from any
+21 agricultural or conservation program due to the construction and operation
+22 of the large energy facility.
+23 Sec. 3. (a) On and after January 1, 2026, no large energy facility
+24 owner may begin site preparation for or construction of a large energy
+25 facility, or exercise the right of eminent domain to acquire any interest in
+26 land for the construction of such facility, in any rural area of the state until
+27 the large energy facility owner has obtained from the commission a code
+28 of conduct permit to construct the large energy facility. Whenever any
+29 large energy facility owner seeks to obtain such a permit, the large energy
+30 facility owner shall file an application with the commission that specifies:
+31 (1) The proposed location of the large energy facility;
+32 (2) that the large energy facility owner, and any employees, agents,
+33 contractors, subcontractors or assigns thereof, agrees to abide by and
+34 adhere to the code of conduct and agricultural impact mitigation protocols
+35 established by the commission pursuant to section 2, and amendments
+36 thereto, throughout the life and decommissioning of the project.
+37 (b) The commission may further condition such permit as the
+38 commission may deem just and reasonable to best protect the rights of all
+39 interested parties and the general public.
+40 (c) (1) In addition to any penalty established pursuant to the terms
+41 and conditions of any code of conduct permit issued by the commission
+42 pursuant to this section, upon complaint by a landowner or upon the
+43 commission's own motion, the commission may impose a civil penalty not
+HB 2108 5
+1 to exceed $10,000 upon finding that a large energy facility owner has
+2 violated the provisions of this act, the provisions of a code of conduct
+3 permit or any rule and regulation or order of the commission. Such penalty
+4 shall constitute an actual and substantial economic deterrent to the
+5 violation for which the penalty is assessed. In the case of a continuing
+6 violation, the commission may deem every day such violation continues as
+7 a separate violation.
+8 (2) No penalty shall be imposed pursuant to this subsection except
+9 upon the written order of the commission to the large energy facility owner
+10 who committed the violation. The order shall state the violation, the
+11 penalty imposed and the right to appeal such order to the commission. Any
+12 such facility owner, within 30 days after service of such order, may make
+13 written request to the commission for a hearing. The commission shall
+14 conduct a hearing in accordance with the provisions of the Kansas
+15 administrative procedure act within 30 days after receipt of such request.
+16 (3) Any large energy facility owner aggrieved by any order issued
+17 pursuant to this subsection may appeal such order in accordance with the
+18 provisions of the Kansas judicial review act.
+19 (4) The commission may order a large energy facility owner to pay
+20 any costs and reasonable attorney fees incurred by the commission in
+21 imposing and collecting any penalty pursuant to this subsection and may
+22 collect interest on any portion of such penalty, costs and attorney fees that
+23 remains unpaid more than 30 days after imposition, at the rate provided by
+24 K.S.A. 16-204, and amendments thereto, for interest on judgments.
+25 (5) All moneys received from penalties imposed and costs and
+26 attorney fees assessed pursuant to this section shall be remitted to the state
+27 treasurer in accordance with the provisions of K.S.A. 75-4215, and
+28 amendments thereto. Upon receipt of each such remittance, the state
+29 treasurer shall deposit the entire amount in the state treasury to the credit
+30 of the state general fund.
+31 Sec. 4. The commission may adopt rules and regulations to
+32 administer sections 1 through 3, and amendments thereto.
+33 Sec. 5. This act shall take effect and be in force from and after its
+34 publication in the statute book.
+[DELETED: AraorBS(0t1s2(3e4m5(6e7o8i9s0(1(263(4(5(6(7(8(9o0c1et s 2c3s4c5(]
+[DELETED: 8(( ud aa hg a h d of td(o(KSdt of a, sl eh a ce of ct a0a1o2t3(4r5(6(7(8f9a0(1a2(3ey fy o, or ay e, a, c4s5c6(t  cs m a  us 7d8(9i0bh pc ad pe ms wh ad ls a1i2(3p4(s t cr d t 5r6(7c8(9m0p1(2a3l]
+[DELETED: 8(al os r fm te d, cod(fi(t0(e cn cs tt ae dd o1d2(3t4s5l6(7r8(9c0u1(2a3a ad al l ad wh te d, c4o5a6(7c8(9t0p1(2w3l4(h ss fr fs ad st ss t5m6(7i8n9l0(1d2a3(]
+[DELETED: 8cn a, ol as ad datd(wk sh as te ss ed by te nl rcs(0n1(2t3e4a5(6n7(8g9(r t r 0r1a2o3S4o5f6l7t8o9l0f1(2(3c4a5e6t7(e cn my fr cn sh pt as t8c9i0(1a2p3c]
+[DELETED: 8tvpsl l t vva(u0w1p2s3w4c5a6(7p8p9(0a1i2c3r4K5(s 6a7t8a9t0o1S. 4e cn my at rs ad rs t2a3S4p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+HOUSE BILL No. 2108
+By Committee on Energy, Utilities and Telecommunications
+Requested by Claudia Hissong on behalf of Kansas Farm Bureau
+1-28
+1 AN ACT concerning energy; relating to the state corporation commission;
+2 requiring the commission to establish and enforce a code of conduct
+3 and agricultural mitigation protocols for the development, construction,
+4 operation and decommissioning of certain large energy facilities in
+5 rural areas of the state.
+6
+7 Be it enacted by the Legislature of the State of Kansas:
+8 Section 1. As used in sections 1 through 4, and amendments thereto:
+9 (a) "Battery energy storage system" means an electrochemical device
+10 that is capable of absorbing and storing electrical energy and discharging
+11 such energy at a later time.
+12 (b) "Commercial battery energy storage system" means a battery
+13 energy storage system that can store and then discharge one megawatt or
+14 more of electrical energy over a one-hour duration.
+15 (c) "Commercial solar energy conversion system" means a solar
+16 energy conversion system that has a total system-rated generating capacity
+17 of one megawatt or more and all appurtenant facilities of such system,
+18 including, but not limited to, the solar collectors, battery storage units,
+19 substations and operations and maintenance buildings.
+20 (d) "Commission" means the state corporation commission.
+21 (e) "Electric transmission lines" means the same as defined in K.S.A.
+22 66-1,177, and amendments thereto.
+23 (f) "Large energy facility" means any:
+24 (1) Commercial battery energy storage system;
+25 (2) commercial solar energy conversion system;
+26 (3) electric transmission lines; or
+27 (4) wind energy conversion system.
+28 (g) "Large energy facility owner" means any person or entity that
+29 owns or operates a large energy facility and any employees, agents,
+30 contractors, subcontractors or assigns thereof, including any person or
+31 entity that seeks the necessary rights, permits or approvals for the
+32 construction and operation of a large energy facility regardless of whether
+33 such person or entity will own or operate the large energy facility after
+34 construction.
+35 (h) "Rural area" means any area located one mile or more outside of:
+
+HB 2108 2
+1 (1) The corporate limits of any city; or
+2 (2) any unincorporated area having a housing density of three
+3 dwelling units per acre or more.
+4 (i) "Solar energy conversion system" means any device, component
+5 or system required to convert solar energy into electric or thermal energy.
+6 (j) "Wind energy conversion system" means the same as defined in
+7 K.S.A. 66-1289, and amendments thereto.
+8 Sec. 2. (a) The commission, after consultation with the Kansas
+9 department of agriculture, shall establish a code of conduct and
+10 agricultural impact mitigation protocols for the development, construction,
+11 operation and decommissioning of large energy facilities in rural areas of
+12 the state.
+13 (b) The code of conduct shall, at a minimum, contain provisions that
+14 require each large energy facility owner to:
+15 (1) Be truthful and honest in all communications with landowners;
+16 (2) be transparent about the large energy facility project;
+17 (3) provide appropriate contact information for the large energy
+18 facility owner and any employees, agents, contractors, subcontractors or
+19 assigns thereof that are associated with the project;
+20 (4) ensure that all communications with landowners do not contain
+21 any threat or coercion;
+22 (5) abide by the request of any landowner who requests that the large
+23 energy facility owner, or any employees, agents, contractors,
+24 subcontractors or assigns thereof, vacate the landowner's property or cease
+25 communications with the landowner;
+26 (6) not disclose communications from a landowner unless such
+27 disclosure is otherwise agreed to in writing;
+28 (7) establish procedures to provide early and meaningful landowner
+29 involvement in the siting process for the large energy facility, including
+30 both public and private meetings with affected landowners and
+31 individuals;
+32 (8) provide and make accessible project maps to landowners and the
+33 public during the siting process;
+34 (9) establish procedures to consider and accept any landowner-
+35 requested micro-siting modifications to the project;
+36 (10) ensure that property appraisals and offers to landowners are
+37 consistent and based on the attributes and use of the land;
+38 (11) offer each landowner an amount that is greater than the fair
+39 market value of the property interest whenever the large facility owner
+40 possesses the authority of eminent domain for the project;
+41 (12) allow the landowner to elect to receive a one-time payment or
+42 annual payments for the life of the project for any payment made to the
+43 landowner that is associated with the acquisition of any property interest;
+
+HB 2108 3
+1 (13) compensate landowners for any and all damages to land and
+2 agricultural operations resulting from the development, construction,
+3 operation or decommissioning of the project and establish procedures to
+4 determine and calculate compensation for such damages;
+5 (14) establish an optional appeal process when the large energy
+6 facility owner's offer for the landowner's property interest is deemed
+7 inadequate by the landowner;
+8 (15) establish setbacks from residential and agricultural structures
+9 that are based on scientifically proven health and safety information;
+10 (16) remediate communication circuits that are diminished or
+11 disrupted due to communication interference caused by the project;
+12 (17) track the obligations that are owed to landowners based on the
+13 terms negotiated by landowners and provide a map of such obligations
+14 showing the energy company's obligations by each individual parcel of
+15 land;
+16 (18) establish a decommissioning plan that ensures infrastructure
+17 removal and land restoration when the project is retired or abandoned;
+18 (19) provide adequate financial assurance to ensure the full and
+19 complete decommissioning of the project and the completion of any wind-
+20 up activities; and
+21 (20) indemnify and hold harmless any affected landowner or tenant,
+22 and any heirs, successors, legal representatives or assigns thereof, from
+23 any and all liability associated with the development, construction,
+24 operation or decommissioning of the energy project, unless such liability
+25 arises from the intentional or willful acts of the indemnitee.
+26 (c) The agricultural impact mitigation protocols shall, at a minimum,
+27 contain provisions that require each large energy facility owner to:
+28 (1) Provide advance notice to and coordinate with any landowner or
+29 tenant whenever the large energy facility owner needs to access private
+30 property;
+31 (2) designate one or more contacts for the large energy facility owner
+32 who have experience in agriculture and who may be contacted by any
+33 landowner when any agricultural impact mitigation work is inferior;
+34 (3) establish standards for facilities and support structures to
+35 minimize the impact to agricultural land and operations;
+36 (4) establish procedures to mitigate and address any impacts to
+37 important agricultural improvements caused by the project, including, but
+38 not limited to, impacts to drainage tiles, terraces and irrigation systems and
+39 lightning and stray voltage mitigation measures;
+40 (5) establish soil protection measures, including, but not limited to,
+41 decompaction, fertilization, stabilization, repair damaged soil conservation
+42 and erosion prevention projects and removal of construction debris;
+43 (6) establish soil restoration measures that shall apply following
+
+HB 2108 4
+1 construction activities, operational activities and decommissioning
+2 activities, including, but not limited to, segregation and replacement of
+3 topsoil and reestablishment of the vegetative growth that existed prior to
+4 disturbance;
+5 (7) adhere to scientific standards for all agricultural impact mitigation
+6 work such as the standards established by the natural resources
+7 conservation service, the United States department of agriculture farm
+8 service agency, agricultural extension offices or land grant universities;
+9 (8) establish procedures for installation and maintenance of any
+10 necessary gates to the facility or facility structures;
+11 (9) for any project involving the electric transmission lines, construct
+12 the electric transmission lines with an adequate transmission line height to
+13 ensure that any existing agricultural operations may continue under and
+14 around the transmission line in a safe manner;
+15 (10) establish procedures for tree and brush removal, including, but
+16 not limited to, compensation for removal of trees with commercial value;
+17 (11) establish procedures for controlling noxious weeds and other
+18 growth within any lease or easement; and
+19 (12) provide compensation to any landowner or tenant for lost
+20 revenue when the landowner or tenant is forced to withdraw from any
+21 agricultural or conservation program due to the construction and operation
+22 of the large energy facility.
+23 Sec. 3. (a) On and after January 1, 2026, no large energy facility
+24 owner may begin site preparation for or construction of a large energy
+25 facility, or exercise the right of eminent domain to acquire any interest in
+26 land for the construction of such facility, in any rural area of the state until
+27 the large energy facility owner has obtained from the commission a code
+28 of conduct permit to construct the large energy facility. Whenever any
+29 large energy facility owner seeks to obtain such a permit, the large energy
+30 facility owner shall file an application with the commission that specifies:
+31 (1) The proposed location of the large energy facility;
+32 (2) that the large energy facility owner, and any employees, agents,
+33 contractors, subcontractors or assigns thereof, agrees to abide by and
+34 adhere to the code of conduct and agricultural impact mitigation protocols
+35 established by the commission pursuant to section 2, and amendments
+36 thereto, throughout the life and decommissioning of the project.
+37 (b) The commission may further condition such permit as the
+38 commission may deem just and reasonable to best protect the rights of all
+39 interested parties and the general public.
+40 (c) (1) In addition to any penalty established pursuant to the terms
+41 and conditions of any code of conduct permit issued by the commission
+42 pursuant to this section, upon complaint by a landowner or upon the
+43 commission's own motion, the commission may impose a civil penalty not
+
+HB 2108 5
+1 to exceed $10,000 upon finding that a large energy facility owner has
+2 violated the provisions of this act, the provisions of a code of conduct
+3 permit or any rule and regulation or order of the commission. Such penalty
+4 shall constitute an actual and substantial economic deterrent to the
+5 violation for which the penalty is assessed. In the case of a continuing
+6 violation, the commission may deem every day such violation continues as
+7 a separate violation.
+8 (2) No penalty shall be imposed pursuant to this subsection except
+9 upon the written order of the commission to the large energy facility owner
+10 who committed the violation. The order shall state the violation, the
+11 penalty imposed and the right to appeal such order to the commission. Any
+12 such facility owner, within 30 days after service of such order, may make
+13 written request to the commission for a hearing. The commission shall
+14 conduct a hearing in accordance with the provisions of the Kansas
+15 administrative procedure act within 30 days after receipt of such request.
+16 (3) Any large energy facility owner aggrieved by any order issued
+17 pursuant to this subsection may appeal such order in accordance with the
+18 provisions of the Kansas judicial review act.
+19 (4) The commission may order a large energy facility owner to pay
+20 any costs and reasonable attorney fees incurred by the commission in
+21 imposing and collecting any penalty pursuant to this subsection and may
+22 collect interest on any portion of such penalty, costs and attorney fees that
+23 remains unpaid more than 30 days after imposition, at the rate provided by
+24 K.S.A. 16-204, and amendments thereto, for interest on judgments.
+25 (5) All moneys received from penalties imposed and costs and
+26 attorney fees assessed pursuant to this section shall be remitted to the state
+27 treasurer in accordance with the provisions of K.S.A. 75-4215, and
+28 amendments thereto. Upon receipt of each such remittance, the state
+29 treasurer shall deposit the entire amount in the state treasury to the credit
+30 of the state general fund.
+31 Sec. 4. The commission may adopt rules and regulations to
+32 administer sections 1 through 3, and amendments thereto.
+33 Sec. 5. This act shall take effect and be in force from and after its
+34 publication in the statute book.
+
+[DELETED: AraorBS(0t1s2(3e4m5(6e7o8i9s0(1(263(4(5(6(7(8(9o0c1et s 2c3s4c5(]
+[DELETED: 8(( ud aa hg a h d of td(o(KSdt of a, sl eh a ce of ct a0a1o2t3(4r5(6(7(8f9a0(1a2(3ey fy o, or ay e, a, c4s5c6(t  cs m a  us 7d8(9i0bh pc ad pe ms wh ad ls a1i2(3p4(s t cr d t 5r6(7c8(9m0p1(2a3l]
+[DELETED: 8(al os r fm te d, cod(fi(t0(e cn cs tt ae dd o1d2(3t4s5l6(7r8(9c0u1(2a3a ad al l ad wh te d, c4o5a6(7c8(9t0p1(2w3l4(h ss fr fs ad st ss t5m6(7i8n9l0(1d2a3(]
+[DELETED: 8cn a, ol as ad datd(wk sh as te ss ed by te nl rcs(0n1(2t3e4a5(6n7(8g9(r t r 0r1a2o3S4o5f6l7t8o9l0f1(2(3c4a5e6t7(e cn my fr cn sh pt as t8c9i0(1a2p3c]
+[DELETED: 8tvpsl l t vva(u0w1p2s3w4c5a6(7p8p9(0a1i2c3r4K5(s 6a7t8a9t0o1S. 4e cn my at rs ad rs t2a3S4p]

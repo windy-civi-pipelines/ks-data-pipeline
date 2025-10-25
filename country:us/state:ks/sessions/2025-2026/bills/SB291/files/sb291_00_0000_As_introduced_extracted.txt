@@ -1,0 +1,718 @@
+Title: SENATE BILL No. 291
+Official Title: SENATE BILL No. 291
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Assessment and Taxation
+3-6
+1 AN ACT concerning health professions and practices; relating to
+2 optometry; modifying certain provisions of the optometry law related to
+3 scope of practice, definitions and credentialing requirements; amending
+4 K.S.A. 65-1501, 65-1509a, 65-1512, 65-1523 and 74-1504 and K.S.A.
+5 2024 Supp. 65-1501a and 65-1505 and repealing the existing sections;
+6 also repealing K.S.A. 65-1514 and 74-1505.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 Section 1. K.S.A. 65-1501 is hereby amended to read as follows: 65-
+10 1501. (a) The practice of optometry means:
+11 (1) The examination of the human eye and its adnexae adnexa and
+12 the employment of objective or subjective means or methods, (including
+13 the administering, prescribing or dispensing, of topical pharmaceutical
+14 drugs), for the purpose of diagnosing the refractive, muscular, or
+15 pathological condition thereof;
+16 (2) the use of medical devices and the prescribing, dispensing or
+17 adapting of lenses, (including any ophthalmic lenses which that are
+18 classified as drugs by any law of the United States or of this state), prisms,
+19 low vision rehabilitation services, orthoptic exercises and visual training
+20 therapy for the relief of any insufficiencies or abnormal conditions of the
+21 human eye and its adnexae adnexa; and
+22 (3) the use of medical devices and the prescribing, administering or
+23 dispensing of topical pharmaceutical drugs and oral drugs through all
+24 routes of administration, except intraocular injections, for the
+25 examination, diagnosis and treatment of ocular conditions and any
+26 insufficiencies or abnormal conditions of the human eye and its adnexae
+27 including adult open-angle glaucoma adnexa;
+28 (4) the removal of non‐perforating foreign bodies from the cornea,
+29 conjunctiva or eyelids, removal of eyelashes, scraping the cornea for
+30 diagnostic tests, smears or cultures, the dilation, probing, irrigation or
+31 closing the tear drainage structure of the eye, expression of conjunctival
+32 follicles or cysts, debridement of the corneal epithelium, incision and
+33 curettage of a chalazion, removal and biopsy of skin lesions without
+34 known malignancy, laser capsulotomy, laser trabeculoplasty and laser
+35 peripheral iridotomy; and
+36 (5) the performance of additional procedures that are not otherwise
+SB 291 2
+1 prohibited by subsection (b) that are within the scope of a licensee's
+2 education and training for the treatment of any insufficiencies or
+3 abnormal conditions of the human eye and its adnexa as authorized
+4 pursuant to rules and regulations adopted by the board.
+5 (b) The practice of optometry shall not include the performance of
+6 the following procedures: (1) The management and treatment of glaucoma,
+7 except as provided in subsection (a); (2) the performance of surgery,
+8 including the use of lasers for surgical purposes, except that licensees may
+9 remove non-perforating foreign bodies from the cornea, conjunctiva or
+10 eyelids; remove eyelashes; scrape the cornea for diagnostic tests, smears or
+11 cultures; dilate, probe, irrigate or close by punctal plug the tear drainage
+12 structures of the eye; express conjunctival follicles or cysts; debridement
+13 of the corneal epithelium and co-management of post-operative care; or
+14 (3) the performance of procedures requiring anesthesia administered by
+15 injection or general anesthesia Retinal surgery, penetrating keratoplasty or
+16 corneal transplant, administration of or surgery performed under general
+17 anesthesia, surgery related to the removal of the eye from a living human
+18 being, surgical extraction of the crystalline lens, surgical intraocular
+19 implants, incisional or excisional surgery of the extraocular muscles,
+20 surgery of the bony orbit, laser‐assisted in situ keratomileusis or
+21 photorefractive keratectomy, YAG laser vitreolysis, and surgery of the
+22 eyelid for cosmetic or mechanical repair of blepharochalasis, ptosis and
+23 tarsorrhaphy. However, an optometrist may provide pre-operative and
+24 post-operative care for the procedures in this subsection.
+25 (c) A licensee shall be held to a standard of care in the diagnosis and
+26 treatment of adult open-angle glaucoma commensurate to with that of a
+27 person licensed to practice medicine and surgery, who exercises that
+28 degree of skill and proficiency commonly exercised by an ordinary,
+29 skillful, careful and prudent person licensed to practice medicine and
+30 surgery.
+31 (d) Under the direction and supervision of a licensee, a licensed
+32 professional nurse, licensed practical nurse, licensed physical therapist and
+33 licensed occupational therapist may assist in the provision of low vision
+34 rehabilitation services in addition to such other services which that such
+35 licensed professional nurse, licensed practical nurse, licensed physical
+36 therapist and licensed occupational therapist is authorized by law to
+37 provide under subsection (d) of K.S.A. 65-1113(d), subsection (h) of
+38 K.S.A. 65-1124(h), subsection (b) of K.S.A. 65-2901(b) and subsection (b)
+39 of K.S.A. 65-5402(b), and amendments thereto.
+40 Sec. 2. K.S.A. 2024 Supp. 65-1501a is hereby amended to read as
+41 follows: 65-1501a. For the purposes of this act the following terms shall
+42 have the meanings respectively ascribed to them As used in the optometry
+43 law, unless the context requires otherwise:
+SB 291 3
+1 (a) "Board" means the board of examiners in optometry established
+2 under K.S.A. 74-1501, and amendments thereto.
+3 (b) "License" means a license to practice optometry granted under the
+4 optometry law.
+5 (c) "Licensee" means a person licensed under the optometry law to
+6 practice optometry.
+7 (d) "Adapt" means the determination, selection, fitting or use of
+8 lenses, prisms, orthoptic exercises or visual training therapy or the
+9 modification of lenses using light or other means for the aid of any
+10 insufficiencies or abnormal conditions of the eyes after or by examination
+11 or testing.
+12 (e) "Lenses" means any type of ophthalmic lenses, which are lenses
+13 prescribed or used for the aid of any insufficiencies or abnormal conditions
+14 of the eyes.
+15 (f) "Prescription" means a verbal, written or electronic order
+16 transmitted directly or by electronic means from a licensee giving or
+17 containing the name and address of the prescriber, the license registration
+18 number of the licensee, the name and address of the patient, the
+19 specifications and directions for lenses, prisms, orthoptic exercises, low
+20 vision rehabilitation services or visual training therapy to be used for the
+21 aid of any insufficiencies or abnormal conditions of the eyes, including
+22 instructions necessary for the fabrication or use thereof and the date of
+23 issue.
+24 (g) "Prescription for topical pharmaceutical drugs or oral drugs"
+25 means a verbal, written or electronic order transmitted directly or by
+26 electronic means from a licensee giving or containing the name and
+27 address of the prescriber, the license registration number of the licensee,
+28 the name and address of the patient, the name and quantity of the drug
+29 prescribed, directions for use, the number of refills permitted, the date of
+30 issue and expiration date.
+31 (h) "Topical pharmaceutical drugs" means drugs administered
+32 topically and not by other means.
+33 (i) "Dispense" means to deliver prescription-only medication or
+34 ophthalmic lenses to the ultimate user pursuant to the lawful prescription
+35 of a licensee and dispensing of prescription-only medication by a licensee
+36 shall be limited to a twenty-four hour 24-hour supply or minimal quantity
+37 necessary until a prescription can be filled by a licensed pharmacist,
+38 except that the twenty-four hour 24-hour supply or minimal quantity shall
+39 not apply to lenses described in subsection (a)(2) of K.S.A. 65-1501(a)(2),
+40 and amendments thereto.
+41 (j)(i) "False advertisement" means any advertisement which that is
+42 false, misleading or deceptive in a material respect. In determining
+43 whether any advertisement is misleading, there shall be taken into account
+SB 291 4
+1 not only representations made or suggested by statement, word, design,
+2 device, sound or any combination thereof, but also the extent to which the
+3 advertisement fails to reveal facts material in the light of such
+4 representations made.
+5 (k)(j) "Advertisement" means all representations disseminated in any
+6 manner or by any means, for the purpose of inducing, or which that are
+7 likely to induce, directly or indirectly, the purchase of professional services
+8 or ophthalmic goods.
+9 (l)(k) "Health careHealthcare provider" shall have the meaning
+10 ascribed to that term means the same as defined in subsection (f) of K.S.A.
+11 40-3401(f), and amendments thereto.
+12 (m)(l) "Medical facility" shall have the meaning ascribed to that term
+13 means the same as defined in subsection (c) of K.S.A. 65-411(c), and
+14 amendments thereto.
+15 (n)(m) "Medical care facility" shall have the meaning ascribed to that
+16 term means the same as defined in K.S.A. 65-425, and amendments
+17 thereto.
+18 (o)(n) "Ophthalmologist" means a person licensed to practice
+19 medicine and surgery by the state board of healing arts who specializes in
+20 the diagnosis and medical and surgical treatment of diseases and defects of
+21 the human eye and related structures.
+22 (p)(o) "Low vision rehabilitation services" means the evaluation,
+23 diagnosis, management and care of the low vision patient including low
+24 vision rehabilitation therapy, education and interdisciplinary consultation
+25 under the direction and supervision of an ophthalmologist or optometrist.
+26 (q) "Oral drugs" means oral antibacterial drugs, oral antiviral drugs,
+27 oral antihistamines, oral analgesic drugs, oral steroids, oral antiglaucoma
+28 drugs and other oral drugs with clinically accepted ocular uses.
+29 Sec. 3. K.S.A. 2024 Supp. 65-1505 is hereby amended to read as
+30 follows: 65-1505. (a) Persons entitled to practice optometry in Kansas
+31 shall be those persons licensed in accordance with the provisions of the
+32 optometry law. A person shall be qualified to be licensed and to receive a
+33 license as an optometrist: (1) Who is of good moral character; and in
+34 determining the moral character of any such person, the board may take
+35 into consideration any felony conviction of such person, but such
+36 conviction shall not automatically operate as a bar to licensure; (2) who
+37 has graduated from a school or college of optometry approved by the
+38 board; and (3) who successfully meets and completes the requirements set
+39 by the board and passes an examination given by the board.
+40 (b) All applicants for licensure, in addition to successfully completing
+41 all other requirements for licensure, shall submit evidence satisfactory to
+42 the board of professional liability insurance in an amount acceptable to the
+43 board.
+SB 291 5
+1 (c) Any person applying for examination by the board shall fill out
+2 and swear to an application furnished by the board, accompanied by a fee
+3 fixed by the board by rules and regulations in an amount of not to exceed
+4 $450, and file the same with the secretary of the board at least 30 days
+5 prior to the holding of the examination. At such examinations the board
+6 shall examine each applicant in subjects taught in schools or colleges of
+7 optometry approved by the board, as may be required by the board. If such
+8 person complies with the other qualifications for licensing and passes such
+9 examination, such person shall receive from the board, upon the payment
+10 of a fee fixed by the board by rules and regulations in an amount of not to
+11 exceed $150, a license entitling such person to practice optometry. In the
+12 event of the failure on the part of the applicant to pass the first
+13 examination, such person may, with the consent of the board, within 18
+14 months, by filing an application accompanied by a fee fixed by the board
+15 by rules and regulations in an amount of not to exceed $150, take a second
+16 examination; for the third and each subsequent examination a fee fixed by
+17 the board by rules and regulations in an amount of not to exceed $150.
+18 Any examination fee and license fee fixed by the board under this
+19 subsection which that is in effect on the day preceding the effective date of
+20 this act shall continue in effect until the board adopts rules and regulations
+21 under this subsection fixing a different fee therefor.
+22 (d) Any applicant for reciprocal licensure may in the board's
+23 discretion be licensed and issued a license without examination if the
+24 applicant has been in the active practice of optometry in another state for
+25 at least the three-year period immediately preceding the application for
+26 reciprocal licensure and the applicant:
+27 (1) Presents a certified copy of a certificate of registration or license
+28 which that has been issued to the applicant by another state where the
+29 requirements for licensure are deemed by the board to be equivalent to the
+30 requirements for licensure under this act, if such state accords a like
+31 privilege to holders of a license issued by the board;
+32 (2) submits a sworn statement of the licensing authority of such other
+33 state that the applicant's license has never been limited, suspended or
+34 revoked and that the applicant has never been censured or had other
+35 disciplinary action taken;
+36 (3) successfully passes an examination of Kansas law administered
+37 by the board and such clinical practice examination as the board deems
+38 necessary; and
+39 (4) pays the reciprocal license fixed by the board by rules and
+40 regulations in an amount of not to exceed $450. The reciprocal license fee
+41 fixed by the board under this subsection which that is in effect on the day
+42 preceding the effective date of this act shall continue in effect until the
+43 board adopts rules and regulations under this subsection fixing a different
+SB 291 6
+1 fee therefor.
+2 (e) The board shall adopt rules and regulations establishing the
+3 criteria which that a school or college of optometry shall satisfy in meeting
+4 the requirement of approval by the board established under subsection (a).
+5 The board may send a questionnaire developed by the board to any school
+6 or college of optometry for which the board does not have sufficient
+7 information to determine whether the school or college meets the
+8 requirements for approval and rules and regulations adopted under this act.
+9 The questionnaire providing the necessary information shall be completed
+10 and returned to the board in order for the school or college to be
+11 considered for approval. The board may contract with investigative
+12 agencies, commissions or consultants to assist the board in obtaining
+13 information about schools or colleges. In entering such contracts the
+14 authority to approve schools or colleges shall remain solely with the board.
+15 (f) (1) The board may require an applicant for licensure or a licensee
+16 in connection with an investigation of the licensee to be fingerprinted and
+17 submit to a state and national criminal history record check in accordance
+18 with K.S.A. 2024 Supp. 22-4714, and amendments thereto.
+19 (2) (A) The board shall fix a fee for fingerprinting applicants or
+20 licensees in an amount necessary to reimburse the board for the cost of the
+21 fingerprinting. Fees collected under this subsection shall be deposited in
+22 the criminal history and fingerprinting fund.
+23 (B) There is hereby created in the state treasury the criminal history
+24 and fingerprinting fund. All moneys credited to the fund shall be used to
+25 pay all costs and fees associated with processing of fingerprints and
+26 criminal history checks for the board of examiners in optometry. The fund
+27 shall be administered by the board. All expenditures from the fund shall be
+28 made in accordance with appropriation acts upon warrants of the director
+29 of accounts and reports issued pursuant to vouchers approved by the
+30 president of the board or a person designated by the president.
+31 (g) Any licensee applying for credentialing by the board shall
+32 complete and swear to an application form furnished by the board
+33 accompanied by an additional fee fixed by the board by rules and
+34 regulations in an amount necessary to reimburse the board for the cost of
+35 credentialing.
+36 Sec. 4. K.S.A. 65-1509a is hereby amended to read as follows: 65-
+37 1509a. (a) In addition to the payment of the license renewal fee, each
+38 licensee applying for license renewal shall furnish to the secretary of the
+39 board satisfactory evidence of successfully completing a minimum of 24
+40 hours of continuing education annually, five hours of which shall relate to
+41 ocular pharmacology, therapeutics or related topics of study, approved by
+42 the board in the year just preceding such application for the renewal of the
+43 license. The board, in its discretion, may increase the required hours of
+SB 291 7
+1 continuing education by rules and regulations adopted by the board. On or
+2 before April 1 of each year, the secretary of the board shall send a written
+3 notice of continuing education requirements to this effect to every person
+4 holding a valid license to practice optometry within the state as provided
+5 in subsection (a) of K.S.A. 65-1509(a), and amendments thereto.
+6 (b) The board shall establish credentialing requirements for a
+7 licensee to administer or perform the procedures described in K.S.A. 65-
+8 1501(a)(4), and amendments thereto.
+9 Sec. 5. K.S.A. 65-1512 is hereby amended to read as follows: 65-
+10 1512. This actThe provisions of article 15 of chapter 65 of the Kansas
+11 Statutes Annotated, and amendments thereto, shall be known and may be
+12 cited as the optometry law.
+13 Sec. 6. K.S.A. 65-1523 is hereby amended to read as follows: 65-
+14 1523. The board in its discretion, in addition to any other remedies
+15 provided in this act, may apply to a court of competent jurisdiction for
+16 injunctive relief against any person to restrain violations of the provisions
+17 of this act, and the lawful rules and regulations promulgated by the board
+18 under authority of this act.
+19 Sec. 7. K.S.A. 74-1504 is hereby amended to read as follows: 74-
+20 1504. (a) The board shall administer and enforce the provisions of the
+21 optometry law, and the board is hereby granted such specific powers as are
+22 necessary for the purpose of administering and enforcing such law. In
+23 addition, the board may:
+24 (1) Employ agents, attorneys and inspectors under such rules and
+25 regulations as the board may prescribe in accordance with the provisions
+26 of the optometry law, except that no state officer shall be eligible for
+27 employment by the board.
+28 (2) Make all necessary disbursements, to carry out the provisions of
+29 this act, including payment for stationery supplies, acquire and acquiring
+30 all necessary optical instruments to be used in the conducting of
+31 examination, print and distribute to all optometrists in the state a yearbook
+32 of the names and addresses of all optometrists licensed by the board
+33 maintain and make available to the public a directory including the names
+34 and addresses of all optometrists licensed by the board.
+35 (3) Grant all licenses as seem just and proper and to suspend, limit,
+36 revoke or refuse to renew any such licenses granted for any of the causes
+37 specified under K.S.A. 65-1506, and amendments thereto.
+38 (4) Administer oaths and take testimony upon granting or refusing to
+39 grant, revoking, limiting or suspending licenses.
+40 (5) Issue subpoenas, compel the attendance of witnesses and the
+41 production of any papers, books, accounts, documents and testimony, and
+42 to cause the deposition of witnesses, either residing within or without the
+43 state, to be taken in the manner prescribed by law for taking depositions in
+SB 291 8
+1 civil actions in the district courts. In case of disobedience on the part of
+2 any person to comply with any subpoena issued in behalf of the board, or
+3 on the refusal of any witness to testify to any matters regarding which such
+4 witness may be lawfully interrogated, the judge of the district court of any
+5 county, on application of a member of the board, may compel obedience
+6 by proceedings for contempt, as in the case of disobedience of the
+7 requirements of a subpoena issued from such court or a refusal to testify in
+8 such court. Each witness who appears before the board by the board's
+9 order or subpoena, other than a state officer or employee, shall receive for
+10 attendance the fees and mileage provided for witnesses in civil cases in
+11 courts of record, which shall be audited and paid upon the presentation of
+12 proper vouchers sworn to by such witnesses and approved by the president
+13 and secretary-treasurer of the board.
+14 (6) Adopt rules and regulations for the procedure and conduct of the
+15 board and for the administration of the optometry law, which rules and
+16 regulations shall that are not be inconsistent consistent with the provisions
+17 of the optometry law.
+18 (b) The board shall meet at least annually for the purpose of
+19 examining applicants for licensure. Such meetings shall be held in Topeka.
+20 At least 30 days prior to the examination, the board shall cause a special
+21 notice to be published in the Kansas register stating the date and hour for
+22 holding such examination. Special meetings shall be held at such times
+23 and places as the board may direct.
+24 (c) The board shall preserve an accurate record of all meetings and
+25 proceedings of the board, including receipts and disbursements with
+26 vouchers therefor and complete minutes of all prosecutions and violations
+27 of the optometry law and of examinations held under the provisions of the
+28 optometry law and an accurate inventory of all property of the board. All
+29 such records shall be kept in the office of the board and made accessible to
+30 the public.
+31 Sec. 8. K.S.A. 65-1501, 65-1509a, 65-1512, 65-1514, 65-1523, 74-
+32 1504 and 74-1505 and K.S.A. 2024 Supp. 65-1501a and 65-1505 are
+33 hereby repealed.
+34 Sec. 9. This act shall take effect and be in force from and after its
+35 publication in the statute book.
+[DELETED: AN T cg hh ps ad p; rg tosK2aBS011(2t3t of l 4d fr te pe of dg te r, m, o5p6(d 7a ( w t a8c9l0t1h2(3d t p a t4rs of a, et ir i fr t5e, ds ad tt of r cs ad 6i7i8(np9cr 0d1c2f3c4k5p6(]
+[DELETED: 1pen ad tg fr te tt of ay is oap(ten ire  f c o0e1c2s3o4(5i6c7a8b9i0sra1p2e3t4p5(6t7p8d9s0s1(2p3l4r5l6t7pr  K s8K9o0S1f2h3l]
+[DELETED: 1(u(o(p(l om f0i1o2(3p4o5(" ms a v w or e o6td  o f7c8nr of te l, te ne ad as of te p, t9s0v1a2i3i4( t p o5m w o o t d o6e f7a8t9p0i1(l pl d" ms ds a2t3(" ms to dr p mn o4o5o6s7n8e9n0a1(2f3w]
+[DELETED: 1ndat s to rl fs ml in te lt of sr(mlo(h c p sl he te m0a142(3m i s K a4a5(6t m i a7t8(" ms a pn ld to p9m0t1t2(3d4v5u6(7o8d9S. 0f. 1s2o3l4d5io cn ay f cn of sh p, bt s6c7h8b9b0(1a2t3b]
+[DELETED: 1(af$psope0o1e2et t s 3e4m5b6e7t8A9s0t1u2(y at fr rl le my in te b3d4a5a6r7(8w9r0r1p2(3s4r5d6(7b8n9(0r1f2p3b]
+[DELETED: 1f(ctToin to de wr te sl or ce ms trT0a1cd r e d t 2a3i4a5(6i7s8w9(0l1f2t3(4a5p6c7s8m9o0p1(y le a fr cg b te bd s2c3a4r5c6S718l9b0h1o2t3l]
+[DELETED: 1cbnhi(e bd sl eh cg rs fr al1S011S2c3S415p6i7o8u9S011o2n3a4(5r6o7e8(9t0al ny ol is to be ud in te cg o1e2o3m4a5(6r7s8(9g0(1p2t3s]
+[DELETED: 1caowcbrso0a1c2p3a4(5b6r7o8(e  sl t at lt r  pe 9e0A1n2h3a4(5p i6v7o8o9s0t1S213h4S5p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 291
+By Committee on Assessment and Taxation
+3-6
+1 AN ACT concerning health professions and practices; relating to
+2 optometry; modifying certain provisions of the optometry law related to
+3 scope of practice, definitions and credentialing requirements; amending
+4 K.S.A. 65-1501, 65-1509a, 65-1512, 65-1523 and 74-1504 and K.S.A.
+5 2024 Supp. 65-1501a and 65-1505 and repealing the existing sections;
+6 also repealing K.S.A. 65-1514 and 74-1505.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 Section 1. K.S.A. 65-1501 is hereby amended to read as follows: 65-
+10 1501. (a) The practice of optometry means:
+11 (1) The examination of the human eye and its adnexae adnexa and
+12 the employment of objective or subjective means or methods, (including
+13 the administering, prescribing or dispensing, of topical pharmaceutical
+14 drugs), for the purpose of diagnosing the refractive, muscular, or
+15 pathological condition thereof;
+16 (2) the use of medical devices and the prescribing, dispensing or
+17 adapting of lenses, (including any ophthalmic lenses which that are
+18 classified as drugs by any law of the United States or of this state), prisms,
+19 low vision rehabilitation services, orthoptic exercises and visual training
+20 therapy for the relief of any insufficiencies or abnormal conditions of the
+21 human eye and its adnexae adnexa; and
+22 (3) the use of medical devices and the prescribing, administering or
+23 dispensing of topical pharmaceutical drugs and oral drugs through all
+24 routes of administration, except intraocular injections, for the
+25 examination, diagnosis and treatment of ocular conditions and any
+26 insufficiencies or abnormal conditions of the human eye and its adnexae
+27 including adult open-angle glaucoma adnexa;
+28 (4) the removal of non‐perforating foreign bodies from the cornea,
+29 conjunctiva or eyelids, removal of eyelashes, scraping the cornea for
+30 diagnostic tests, smears or cultures, the dilation, probing, irrigation or
+31 closing the tear drainage structure of the eye, expression of conjunctival
+32 follicles or cysts, debridement of the corneal epithelium, incision and
+33 curettage of a chalazion, removal and biopsy of skin lesions without
+34 known malignancy, laser capsulotomy, laser trabeculoplasty and laser
+35 peripheral iridotomy; and
+36 (5) the performance of additional procedures that are not otherwise
+
+SB 291 2
+1 prohibited by subsection (b) that are within the scope of a licensee's
+2 education and training for the treatment of any insufficiencies or
+3 abnormal conditions of the human eye and its adnexa as authorized
+4 pursuant to rules and regulations adopted by the board.
+5 (b) The practice of optometry shall not include the performance of
+6 the following procedures: (1) The management and treatment of glaucoma,
+7 except as provided in subsection (a); (2) the performance of surgery,
+8 including the use of lasers for surgical purposes, except that licensees may
+9 remove non-perforating foreign bodies from the cornea, conjunctiva or
+10 eyelids; remove eyelashes; scrape the cornea for diagnostic tests, smears or
+11 cultures; dilate, probe, irrigate or close by punctal plug the tear drainage
+12 structures of the eye; express conjunctival follicles or cysts; debridement
+13 of the corneal epithelium and co-management of post-operative care; or
+14 (3) the performance of procedures requiring anesthesia administered by
+15 injection or general anesthesia Retinal surgery, penetrating keratoplasty or
+16 corneal transplant, administration of or surgery performed under general
+17 anesthesia, surgery related to the removal of the eye from a living human
+18 being, surgical extraction of the crystalline lens, surgical intraocular
+19 implants, incisional or excisional surgery of the extraocular muscles,
+20 surgery of the bony orbit, laser‐assisted in situ keratomileusis or
+21 photorefractive keratectomy, YAG laser vitreolysis, and surgery of the
+22 eyelid for cosmetic or mechanical repair of blepharochalasis, ptosis and
+23 tarsorrhaphy. However, an optometrist may provide pre-operative and
+24 post-operative care for the procedures in this subsection.
+25 (c) A licensee shall be held to a standard of care in the diagnosis and
+26 treatment of adult open-angle glaucoma commensurate to with that of a
+27 person licensed to practice medicine and surgery, who exercises that
+28 degree of skill and proficiency commonly exercised by an ordinary,
+29 skillful, careful and prudent person licensed to practice medicine and
+30 surgery.
+31 (d) Under the direction and supervision of a licensee, a licensed
+32 professional nurse, licensed practical nurse, licensed physical therapist and
+33 licensed occupational therapist may assist in the provision of low vision
+34 rehabilitation services in addition to such other services which that such
+35 licensed professional nurse, licensed practical nurse, licensed physical
+36 therapist and licensed occupational therapist is authorized by law to
+37 provide under subsection (d) of K.S.A. 65-1113(d), subsection (h) of
+38 K.S.A. 65-1124(h), subsection (b) of K.S.A. 65-2901(b) and subsection (b)
+39 of K.S.A. 65-5402(b), and amendments thereto.
+40 Sec. 2. K.S.A. 2024 Supp. 65-1501a is hereby amended to read as
+41 follows: 65-1501a. For the purposes of this act the following terms shall
+42 have the meanings respectively ascribed to them As used in the optometry
+43 law, unless the context requires otherwise:
+
+SB 291 3
+1 (a) "Board" means the board of examiners in optometry established
+2 under K.S.A. 74-1501, and amendments thereto.
+3 (b) "License" means a license to practice optometry granted under the
+4 optometry law.
+5 (c) "Licensee" means a person licensed under the optometry law to
+6 practice optometry.
+7 (d) "Adapt" means the determination, selection, fitting or use of
+8 lenses, prisms, orthoptic exercises or visual training therapy or the
+9 modification of lenses using light or other means for the aid of any
+10 insufficiencies or abnormal conditions of the eyes after or by examination
+11 or testing.
+12 (e) "Lenses" means any type of ophthalmic lenses, which are lenses
+13 prescribed or used for the aid of any insufficiencies or abnormal conditions
+14 of the eyes.
+15 (f) "Prescription" means a verbal, written or electronic order
+16 transmitted directly or by electronic means from a licensee giving or
+17 containing the name and address of the prescriber, the license registration
+18 number of the licensee, the name and address of the patient, the
+19 specifications and directions for lenses, prisms, orthoptic exercises, low
+20 vision rehabilitation services or visual training therapy to be used for the
+21 aid of any insufficiencies or abnormal conditions of the eyes, including
+22 instructions necessary for the fabrication or use thereof and the date of
+23 issue.
+24 (g) "Prescription for topical pharmaceutical drugs or oral drugs"
+25 means a verbal, written or electronic order transmitted directly or by
+26 electronic means from a licensee giving or containing the name and
+27 address of the prescriber, the license registration number of the licensee,
+28 the name and address of the patient, the name and quantity of the drug
+29 prescribed, directions for use, the number of refills permitted, the date of
+30 issue and expiration date.
+31 (h) "Topical pharmaceutical drugs" means drugs administered
+32 topically and not by other means.
+33 (i) "Dispense" means to deliver prescription-only medication or
+34 ophthalmic lenses to the ultimate user pursuant to the lawful prescription
+35 of a licensee and dispensing of prescription-only medication by a licensee
+36 shall be limited to a twenty-four hour 24-hour supply or minimal quantity
+37 necessary until a prescription can be filled by a licensed pharmacist,
+38 except that the twenty-four hour 24-hour supply or minimal quantity shall
+39 not apply to lenses described in subsection (a)(2) of K.S.A. 65-1501(a)(2),
+40 and amendments thereto.
+41 (j)(i) "False advertisement" means any advertisement which that is
+42 false, misleading or deceptive in a material respect. In determining
+43 whether any advertisement is misleading, there shall be taken into account
+
+SB 291 4
+1 not only representations made or suggested by statement, word, design,
+2 device, sound or any combination thereof, but also the extent to which the
+3 advertisement fails to reveal facts material in the light of such
+4 representations made.
+5 (k)(j) "Advertisement" means all representations disseminated in any
+6 manner or by any means, for the purpose of inducing, or which that are
+7 likely to induce, directly or indirectly, the purchase of professional services
+8 or ophthalmic goods.
+9 (l)(k) "Health careHealthcare provider" shall have the meaning
+10 ascribed to that term means the same as defined in subsection (f) of K.S.A.
+11 40-3401(f), and amendments thereto.
+12 (m)(l) "Medical facility" shall have the meaning ascribed to that term
+13 means the same as defined in subsection (c) of K.S.A. 65-411(c), and
+14 amendments thereto.
+15 (n)(m) "Medical care facility" shall have the meaning ascribed to that
+16 term means the same as defined in K.S.A. 65-425, and amendments
+17 thereto.
+18 (o)(n) "Ophthalmologist" means a person licensed to practice
+19 medicine and surgery by the state board of healing arts who specializes in
+20 the diagnosis and medical and surgical treatment of diseases and defects of
+21 the human eye and related structures.
+22 (p)(o) "Low vision rehabilitation services" means the evaluation,
+23 diagnosis, management and care of the low vision patient including low
+24 vision rehabilitation therapy, education and interdisciplinary consultation
+25 under the direction and supervision of an ophthalmologist or optometrist.
+26 (q) "Oral drugs" means oral antibacterial drugs, oral antiviral drugs,
+27 oral antihistamines, oral analgesic drugs, oral steroids, oral antiglaucoma
+28 drugs and other oral drugs with clinically accepted ocular uses.
+29 Sec. 3. K.S.A. 2024 Supp. 65-1505 is hereby amended to read as
+30 follows: 65-1505. (a) Persons entitled to practice optometry in Kansas
+31 shall be those persons licensed in accordance with the provisions of the
+32 optometry law. A person shall be qualified to be licensed and to receive a
+33 license as an optometrist: (1) Who is of good moral character; and in
+34 determining the moral character of any such person, the board may take
+35 into consideration any felony conviction of such person, but such
+36 conviction shall not automatically operate as a bar to licensure; (2) who
+37 has graduated from a school or college of optometry approved by the
+38 board; and (3) who successfully meets and completes the requirements set
+39 by the board and passes an examination given by the board.
+40 (b) All applicants for licensure, in addition to successfully completing
+41 all other requirements for licensure, shall submit evidence satisfactory to
+42 the board of professional liability insurance in an amount acceptable to the
+43 board.
+
+SB 291 5
+1 (c) Any person applying for examination by the board shall fill out
+2 and swear to an application furnished by the board, accompanied by a fee
+3 fixed by the board by rules and regulations in an amount of not to exceed
+4 $450, and file the same with the secretary of the board at least 30 days
+5 prior to the holding of the examination. At such examinations the board
+6 shall examine each applicant in subjects taught in schools or colleges of
+7 optometry approved by the board, as may be required by the board. If such
+8 person complies with the other qualifications for licensing and passes such
+9 examination, such person shall receive from the board, upon the payment
+10 of a fee fixed by the board by rules and regulations in an amount of not to
+11 exceed $150, a license entitling such person to practice optometry. In the
+12 event of the failure on the part of the applicant to pass the first
+13 examination, such person may, with the consent of the board, within 18
+14 months, by filing an application accompanied by a fee fixed by the board
+15 by rules and regulations in an amount of not to exceed $150, take a second
+16 examination; for the third and each subsequent examination a fee fixed by
+17 the board by rules and regulations in an amount of not to exceed $150.
+18 Any examination fee and license fee fixed by the board under this
+19 subsection which that is in effect on the day preceding the effective date of
+20 this act shall continue in effect until the board adopts rules and regulations
+21 under this subsection fixing a different fee therefor.
+22 (d) Any applicant for reciprocal licensure may in the board's
+23 discretion be licensed and issued a license without examination if the
+24 applicant has been in the active practice of optometry in another state for
+25 at least the three-year period immediately preceding the application for
+26 reciprocal licensure and the applicant:
+27 (1) Presents a certified copy of a certificate of registration or license
+28 which that has been issued to the applicant by another state where the
+29 requirements for licensure are deemed by the board to be equivalent to the
+30 requirements for licensure under this act, if such state accords a like
+31 privilege to holders of a license issued by the board;
+32 (2) submits a sworn statement of the licensing authority of such other
+33 state that the applicant's license has never been limited, suspended or
+34 revoked and that the applicant has never been censured or had other
+35 disciplinary action taken;
+36 (3) successfully passes an examination of Kansas law administered
+37 by the board and such clinical practice examination as the board deems
+38 necessary; and
+39 (4) pays the reciprocal license fixed by the board by rules and
+40 regulations in an amount of not to exceed $450. The reciprocal license fee
+41 fixed by the board under this subsection which that is in effect on the day
+42 preceding the effective date of this act shall continue in effect until the
+43 board adopts rules and regulations under this subsection fixing a different
+
+SB 291 6
+1 fee therefor.
+2 (e) The board shall adopt rules and regulations establishing the
+3 criteria which that a school or college of optometry shall satisfy in meeting
+4 the requirement of approval by the board established under subsection (a).
+5 The board may send a questionnaire developed by the board to any school
+6 or college of optometry for which the board does not have sufficient
+7 information to determine whether the school or college meets the
+8 requirements for approval and rules and regulations adopted under this act.
+9 The questionnaire providing the necessary information shall be completed
+10 and returned to the board in order for the school or college to be
+11 considered for approval. The board may contract with investigative
+12 agencies, commissions or consultants to assist the board in obtaining
+13 information about schools or colleges. In entering such contracts the
+14 authority to approve schools or colleges shall remain solely with the board.
+15 (f) (1) The board may require an applicant for licensure or a licensee
+16 in connection with an investigation of the licensee to be fingerprinted and
+17 submit to a state and national criminal history record check in accordance
+18 with K.S.A. 2024 Supp. 22-4714, and amendments thereto.
+19 (2) (A) The board shall fix a fee for fingerprinting applicants or
+20 licensees in an amount necessary to reimburse the board for the cost of the
+21 fingerprinting. Fees collected under this subsection shall be deposited in
+22 the criminal history and fingerprinting fund.
+23 (B) There is hereby created in the state treasury the criminal history
+24 and fingerprinting fund. All moneys credited to the fund shall be used to
+25 pay all costs and fees associated with processing of fingerprints and
+26 criminal history checks for the board of examiners in optometry. The fund
+27 shall be administered by the board. All expenditures from the fund shall be
+28 made in accordance with appropriation acts upon warrants of the director
+29 of accounts and reports issued pursuant to vouchers approved by the
+30 president of the board or a person designated by the president.
+31 (g) Any licensee applying for credentialing by the board shall
+32 complete and swear to an application form furnished by the board
+33 accompanied by an additional fee fixed by the board by rules and
+34 regulations in an amount necessary to reimburse the board for the cost of
+35 credentialing.
+36 Sec. 4. K.S.A. 65-1509a is hereby amended to read as follows: 65-
+37 1509a. (a) In addition to the payment of the license renewal fee, each
+38 licensee applying for license renewal shall furnish to the secretary of the
+39 board satisfactory evidence of successfully completing a minimum of 24
+40 hours of continuing education annually, five hours of which shall relate to
+41 ocular pharmacology, therapeutics or related topics of study, approved by
+42 the board in the year just preceding such application for the renewal of the
+43 license. The board, in its discretion, may increase the required hours of
+
+SB 291 7
+1 continuing education by rules and regulations adopted by the board. On or
+2 before April 1 of each year, the secretary of the board shall send a written
+3 notice of continuing education requirements to this effect to every person
+4 holding a valid license to practice optometry within the state as provided
+5 in subsection (a) of K.S.A. 65-1509(a), and amendments thereto.
+6 (b) The board shall establish credentialing requirements for a
+7 licensee to administer or perform the procedures described in K.S.A. 65-
+8 1501(a)(4), and amendments thereto.
+9 Sec. 5. K.S.A. 65-1512 is hereby amended to read as follows: 65-
+10 1512. This actThe provisions of article 15 of chapter 65 of the Kansas
+11 Statutes Annotated, and amendments thereto, shall be known and may be
+12 cited as the optometry law.
+13 Sec. 6. K.S.A. 65-1523 is hereby amended to read as follows: 65-
+14 1523. The board in its discretion, in addition to any other remedies
+15 provided in this act, may apply to a court of competent jurisdiction for
+16 injunctive relief against any person to restrain violations of the provisions
+17 of this act, and the lawful rules and regulations promulgated by the board
+18 under authority of this act.
+19 Sec. 7. K.S.A. 74-1504 is hereby amended to read as follows: 74-
+20 1504. (a) The board shall administer and enforce the provisions of the
+21 optometry law, and the board is hereby granted such specific powers as are
+22 necessary for the purpose of administering and enforcing such law. In
+23 addition, the board may:
+24 (1) Employ agents, attorneys and inspectors under such rules and
+25 regulations as the board may prescribe in accordance with the provisions
+26 of the optometry law, except that no state officer shall be eligible for
+27 employment by the board.
+28 (2) Make all necessary disbursements, to carry out the provisions of
+29 this act, including payment for stationery supplies, acquire and acquiring
+30 all necessary optical instruments to be used in the conducting of
+31 examination, print and distribute to all optometrists in the state a yearbook
+32 of the names and addresses of all optometrists licensed by the board
+33 maintain and make available to the public a directory including the names
+34 and addresses of all optometrists licensed by the board.
+35 (3) Grant all licenses as seem just and proper and to suspend, limit,
+36 revoke or refuse to renew any such licenses granted for any of the causes
+37 specified under K.S.A. 65-1506, and amendments thereto.
+38 (4) Administer oaths and take testimony upon granting or refusing to
+39 grant, revoking, limiting or suspending licenses.
+40 (5) Issue subpoenas, compel the attendance of witnesses and the
+41 production of any papers, books, accounts, documents and testimony, and
+42 to cause the deposition of witnesses, either residing within or without the
+43 state, to be taken in the manner prescribed by law for taking depositions in
+
+SB 291 8
+1 civil actions in the district courts. In case of disobedience on the part of
+2 any person to comply with any subpoena issued in behalf of the board, or
+3 on the refusal of any witness to testify to any matters regarding which such
+4 witness may be lawfully interrogated, the judge of the district court of any
+5 county, on application of a member of the board, may compel obedience
+6 by proceedings for contempt, as in the case of disobedience of the
+7 requirements of a subpoena issued from such court or a refusal to testify in
+8 such court. Each witness who appears before the board by the board's
+9 order or subpoena, other than a state officer or employee, shall receive for
+10 attendance the fees and mileage provided for witnesses in civil cases in
+11 courts of record, which shall be audited and paid upon the presentation of
+12 proper vouchers sworn to by such witnesses and approved by the president
+13 and secretary-treasurer of the board.
+14 (6) Adopt rules and regulations for the procedure and conduct of the
+15 board and for the administration of the optometry law, which rules and
+16 regulations shall that are not be inconsistent consistent with the provisions
+17 of the optometry law.
+18 (b) The board shall meet at least annually for the purpose of
+19 examining applicants for licensure. Such meetings shall be held in Topeka.
+20 At least 30 days prior to the examination, the board shall cause a special
+21 notice to be published in the Kansas register stating the date and hour for
+22 holding such examination. Special meetings shall be held at such times
+23 and places as the board may direct.
+24 (c) The board shall preserve an accurate record of all meetings and
+25 proceedings of the board, including receipts and disbursements with
+26 vouchers therefor and complete minutes of all prosecutions and violations
+27 of the optometry law and of examinations held under the provisions of the
+28 optometry law and an accurate inventory of all property of the board. All
+29 such records shall be kept in the office of the board and made accessible to
+30 the public.
+31 Sec. 8. K.S.A. 65-1501, 65-1509a, 65-1512, 65-1514, 65-1523, 74-
+32 1504 and 74-1505 and K.S.A. 2024 Supp. 65-1501a and 65-1505 are
+33 hereby repealed.
+34 Sec. 9. This act shall take effect and be in force from and after its
+35 publication in the statute book.
+
+[DELETED: AN T cg hh ps ad p; rg tosK2aBS011(2t3t of l 4d fr te pe of dg te r, m, o5p6(d 7a ( w t a8c9l0t1h2(3d t p a t4rs of a, et ir i fr t5e, ds ad tt of r cs ad 6i7i8(np9cr 0d1c2f3c4k5p6(]
+[DELETED: 1pen ad tg fr te tt of ay is oap(ten ire  f c o0e1c2s3o4(5i6c7a8b9i0sra1p2e3t4p5(6t7p8d9s0s1(2p3l4r5l6t7pr  K s8K9o0S1f2h3l]
+[DELETED: 1(u(o(p(l om f0i1o2(3p4o5(" ms a v w or e o6td  o f7c8nr of te l, te ne ad as of te p, t9s0v1a2i3i4( t p o5m w o o t d o6e f7a8t9p0i1(l pl d" ms ds a2t3(" ms to dr p mn o4o5o6s7n8e9n0a1(2f3w]
+[DELETED: 1ndat s to rl fs ml in te lt of sr(mlo(h c p sl he te m0a142(3m i s K a4a5(6t m i a7t8(" ms a pn ld to p9m0t1t2(3d4v5u6(7o8d9S. 0f. 1s2o3l4d5io cn ay f cn of sh p, bt s6c7h8b9b0(1a2t3b]
+[DELETED: 1(af$psope0o1e2et t s 3e4m5b6e7t8A9s0t1u2(y at fr rl le my in te b3d4a5a6r7(8w9r0r1p2(3s4r5d6(7b8n9(0r1f2p3b]
+[DELETED: 1f(ctToin to de wr te sl or ce ms trT0a1cd r e d t 2a3i4a5(6i7s8w9(0l1f2t3(4a5p6c7s8m9o0p1(y le a fr cg b te bd s2c3a4r5c6S718l9b0h1o2t3l]
+[DELETED: 1cbnhi(e bd sl eh cg rs fr al1S011S2c3S415p6i7o8u9S011o2n3a4(5r6o7e8(9t0al ny ol is to be ud in te cg o1e2o3m4a5(6r7s8(9g0(1p2t3s]
+[DELETED: 1caowcbrso0a1c2p3a4(5b6r7o8(e  sl t at lt r  pe 9e0A1n2h3a4(5p i6v7o8o9s0t1S213h4S5p]

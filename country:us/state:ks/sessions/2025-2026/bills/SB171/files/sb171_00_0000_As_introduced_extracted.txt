@@ -1,0 +1,993 @@
+Title: SENATE BILL No. 171
+Official Title: SENATE BILL No. 171
+Number of Sections: 1
+Source: versions - As introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+Session of 2025
+By Committee on Utilities
+2-3
+1 AN ACT concerning the department of health and environment; relating to
+2 radiation protection and control; authorizing the secretary of health and
+3 environment to license nuclear fusion systems; establishing such
+4 licensure fee; authorizing the secretary to impose late fees for any
+5 expired radiation protection and control license; amending K.S.A. 2024
+6 Supp. 48-1603 and 48-1606 and repealing the existing sections.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 Section 1. K.S.A. 2024 Supp. 48-1603 is hereby amended to read as
+10 follows: 48-1603. As used in this act:
+11 (a) "By-product material" means: (1) Any radioactive material, except
+12 special nuclear material, yielded in or made radioactive by exposure to the
+13 radiation incident to the process of producing or utilizing special nuclear
+14 material;
+15 (2) the tailings or wastes produced by the extraction or concentration
+16 of uranium or thorium from any ore processed primarily for its source
+17 material content;
+18 (3) (A) any discrete source of radium-226 that is produced, extracted
+19 or converted after extraction for use for a commercial, medical or research
+20 activity; or
+21 (B) any material that:
+22 (i) Has been made radioactive by use of a particle accelerator; and
+23 (ii) is produced, extracted or converted after extraction for use for a
+24 commercial, medical or research activity; or
+25 (4) any discrete source of naturally occurring radioactive material,
+26 other than source material, that:
+27 (A) The secretary declares by order would pose a threat to the public
+28 health and safety or the common defense and security similar to the threat
+29 posed by a discrete source of radium-226 after the United States nuclear
+30 regulatory commission, or any successor thereto, determines the same; and
+31 (B) is extracted or converted after extraction for use in a commercial,
+32 medical or research activity.
+33 (b) "Department" means the Kansas department of health and
+34 environment.
+35 (c) "Civil penalty" means any monetary penalty levied on a licensee
+36 or registrant because of violations of statutes, regulations, licenses or
+SB 171 2
+1 registration certificates, but does not include criminal penalties.
+2 (d) "Closure" or "site closure" means all activities performed at a
+3 waste disposal site, such as stabilization and contouring, to assure that the
+4 site is in a stable condition so that only minor custodial care, surveillance
+5 and monitoring are necessary at the site following termination of licensed
+6 operation.
+7 (e) "Decommissioning" means final operational activities at a facility
+8 to dismantle site structures, to decontaminate site surfaces and remaining
+9 structures, to stabilize and contain residual radioactive material and to
+10 carry out any other activities to prepare the site for postoperational care.
+11 (f) "Disposal of low-level radioactive waste" means the isolation of
+12 such waste from the biosphere.
+13 (g) "Electronic product" means any manufactured or assembled:
+14 (1) Product which, when in operation, contains or acts as part of an
+15 electronic circuit and emits, or in the absence of effective shielding or
+16 other controls would emit, electronic product radiation; or
+17 (2) article which that is intended for use as a component part, or
+18 accessory of a product described in this subsection and which that in
+19 operation emits, or in the absence of effective shielding or other controls
+20 would emit, such radiation.
+21 (h) "Electronic product radiation" means any ionizing or nonionizing,
+22 electromagnetic or particulate radiation, or any sonic, infrasonic, or
+23 ultrasonic wave, which that is emitted from an electronic product as the
+24 result of the operation of an electronic circuit in such product.
+25 (i) "General license" means a license effective pursuant to rules and
+26 regulations promulgated by the secretary of health and environment,
+27 without the filing of an application to transfer, acquire, own, possess or use
+28 quantities of, or devices or equipment utilizing by-product, source, special
+29 nuclear materials, or other radioactive material occurring naturally or
+30 produced artificially.
+31 (j) "High-level radioactive waste" means:
+32 (1) Irradiated reactor fuel;
+33 (2) liquid wastes resulting from the operation of the first cycle solvent
+34 extraction system, or equivalent, and the concentrated wastes from
+35 subsequent extraction cycles, or equivalent, in a facility for uranium
+36 processing irradiated reactor fuel; and
+37 (3) solids into which such liquid wastes have been converted.
+38 (k) "Low-level radioactive waste" means radioactive waste not
+39 classified as:
+40 (1) NORM waste or TENORM waste at concentrations and from
+41 sources established in rules and regulations adopted by the secretary on or
+42 before July 1, 2016;
+43 (2) high-level radioactive waste;
+SB 171 3
+1 (3) transuranic waste;
+2 (4) spent nuclear fuel; or
+3 (5) by-product material as defined in subsection (a)(2).
+4 (l) "Person" means any individual, corporation, partnership, firm,
+5 association, trust, estate, public or private institution, group, agency,
+6 political subdivision of this state, or any other state or political subdivision
+7 or agency thereof, and any legal successor, representative, agency, or
+8 agency of the foregoing, other than. "Person" does not include the United
+9 States nuclear regulatory commission, or any successor thereto, and other
+10 than or any federal government agencies agency licensed by the United
+11 States nuclear regulatory commission, or any successor thereto.
+12 (m) "Radiation" means:
+13 (1) Ionizing radiation including gamma rays, X-rays, alpha particles,
+14 beta particles, and including neutrons;
+15 (2) any electromagnetic radiation other than ionizing radiation which
+16 that is generated during the operation of an electronic product; or
+17 (3) any sonic, ultrasonic, or infrasonic wave which that is emitted
+18 from an electronic product as a result of the operation of an electronic
+19 circuit in such product.
+20 (n) "Radioactive material" means any material, solid, liquid or gas,
+21 which that emits ionizing radiation spontaneously. It "Radioactive
+22 material" includes accelerator produced, by-product, naturally occurring,
+23 source and special nuclear materials.
+24 (o) "Secretary" means the secretary of the Kansas department of
+25 health and environment.
+26 (p) "Source material" means:
+27 (1) Uranium, thorium or any other material which that the secretary
+28 declares by order to be source material after the United States nuclear
+29 regulatory commission, or any successor thereto, has determined the
+30 material to be such; or
+31 (2) ores containing one or more of the foregoing materials, in such
+32 concentration as the secretary declares by order to be source material after
+33 the United States nuclear regulatory commission, or any successor thereto,
+34 has determined the material in such concentration to be source material.
+35 (q) "Source material mill tailings" means the tailings or waste
+36 produced by the extraction or concentration of uranium or thorium from
+37 any ore processed primarily for its source material content, including
+38 discrete surface wastes resulting from underground solution extraction
+39 processes but not including underground ore bodies depleted by such
+40 solution extraction process.
+41 (r) "Source material milling" means any processing of ore, including
+42 underground solution extraction of unmined ore, primarily for the purpose
+43 of extracting or concentrating uranium or thorium therefrom and which
+SB 171 4
+1 that results in the production of source material mill tailings.
+2 (s) "Sources of radiation" means, collectively, radioactive material
+3 and radiation generating equipment.
+4 (t) "Special nuclear material" means:
+5 (1) Plutonium, uranium 233, uranium enriched in the isotope 233 or
+6 in the isotope 235, and any other material which that the secretary declares
+7 by order to be special nuclear material after the United States nuclear
+8 regulatory commission, or any successor thereto, has determined the
+9 material to be such, but does not include source material; or
+10 (2) any material artificially enriched by any of the foregoing, but does
+11 not include source material.
+12 (u) "Specific license" means a license issued after application, to use,
+13 manufacture, produce, transfer, receive, acquire, own or possess quantities
+14 of, or devices or equipment utilizing by-product, source, special nuclear
+15 materials, or other radioactive material occurring naturally or produced
+16 artificially.
+17 (v) "Spent nuclear fuel" means irradiated nuclear fuel that has
+18 undergone at least one year's decay since being used as a source of energy
+19 in a power reactor. "Spent nuclear fuel" includes the special nuclear
+20 material, by-product material, source material and other radioactive
+21 material associated with fuel assemblies.
+22 (w) "Transuranic waste" means radioactive waste containing alpha
+23 emitting transuranic elements, with radioactive half-lives greater than five
+24 years, in excess of 10 nanocuries per gram.
+25 (x) "Naturally occurring radioactive material" or "NORM" means any
+26 nuclide that is radioactive in the nuclide's natural physical state. "NORM"
+27 does not include accelerator produced, by-product, source or special
+28 nuclear material.
+29 (y) "NORM waste" means solid waste as defined in K.S.A. 65-3402,
+30 and amendments thereto, that is contaminated with NORM.
+31 (z) "Technologically enhanced NORM" or "TENORM" means
+32 NORM whose radionuclide concentrations are increased by or as a result
+33 of past or present human practices. "TENORM" does not include
+34 accelerator produced, by-product, source or special nuclear material.
+35 (aa) "TENORM waste" means solid waste as defined in K.S.A. 65-
+36 3402, and amendments thereto, that is contaminated with TENORM.
+37 (bb) "Fusion system" means a system that, through use of byproduct
+38 material or production of byproduct material, induces fusion reactions.
+39 "Fusion system" includes particle accelerators that induce fusion
+40 reactions and any radiation, radioactive material and supporting
+41 structures, systems and components that are used to contain, process or
+42 control radiation and radioactive materials used in or resulting from
+43 fusion reactions.
+SB 171 5
+1 Sec. 2. K.S.A. 2024 Supp. 48-1606 is hereby amended to read as
+2 follows: 48-1606. (a) The secretary of health and environment shall be
+3 responsible for state radiation control.
+4 (b) The secretary, for the protection of the public health and safety,
+5 shall develop programs for evaluation of hazards associated with use of
+6 sources of radiation.
+7 (c) The secretary may:
+8 (1) Advise, consult and cooperate with other agencies of the state, the
+9 federal government, other states and interstate agencies, political
+10 subdivisions and with groups concerned with control of sources of
+11 radiation;
+12 (2) accept and administer grants or gifts, conditional or otherwise, in
+13 furtherance of its functions, from the federal government and from other
+14 sources, public or private;
+15 (3) collect and disseminate information relating to control of sources
+16 of radiation;
+17 (4) encourage, participate in, or conduct studies, investigations,
+18 training, research and demonstrations relating to control of sources of
+19 radiation;
+20 (5) in accordance with the laws of the state, employ, compensate and
+21 prescribe the powers and duties of such individuals as may be necessary to
+22 carry out the responsibilities set forth herein;
+23 (6) institute training programs for the purpose of qualifying personnel
+24 to carry out the provisions of this act, and make personnel available for
+25 participation in any program or programs of the federal government, other
+26 states or interstate agencies in furtherance of the purposes of this act;
+27 (7) fix, charge and collect fees for licenses and registrations, and
+28 renewals thereof, issued under the nuclear energy development and
+29 radiation control act to cover all or any part of the cost of administering
+30 such act; and
+31 (8) receive any moneys in the form of grants, gifts, licensing or
+32 registration fees, or as paid under an agreement with the secretary or as
+33 reimbursement for remedial action costs.
+34 (d) Subject to the following limitations, the secretary may assess a fee
+35 for the following categories of radiation protection services:
+36 Fee Category:
+37 1. Special nuclear material
+38 A. Licenses for possession and use of special nuclear material in
+39 sealed sources contained in devices used in industrial
+40 measuring systems
+41 Maximum annual fee..........................................................$950
+42 B. Any licenses not otherwise specified in this table for
+43 possession and use of special nuclear material, except licenses
+SB 171 6
+1 authorizing special nuclear material in unsealed form in
+2 combination that would constitute a critical mass
+3 Maximum annual fee.......................................................$2,250
+4 2. Source material
+5 A. Licenses that authorize only the possession, use and/or
+6 installation of source material for shielding
+7 Maximum annual fee..........................................................$365
+8 B. All other source material licenses not otherwise specified in
+9 this table
+10 Maximum annual fee.......................................................$5,700
+11 3. Radioactive or byproduct material
+12 A. Licenses of broad scope for possession and use of radioactive
+13 or byproduct material issued for processing or manufacturing
+14 of items containing radioactive or byproduct material for
+15 commercial distribution
+16 Maximum annual fee.....................................................$10,900
+17 B. Other licenses for possession and use of radioactive or
+18 byproduct material issued for processing or manufacturing of
+19 items containing radioactive or byproduct material for
+20 commercial distribution
+21 Maximum annual fee.......................................................$3,300
+22 C. Licenses authorizing the processing or manufacturing and
+23 distribution or redistribution of radiopharmaceuticals,
+24 generators, reagent kits and/or sources and devices containing
+25 radioactive or byproduct material. This category also includes
+26 the possession and use of source material for shielding when
+27 included on the same license
+28 Maximum annual fee.......................................................$5,450
+29 D. Licenses and approvals authorizing distribution or
+30 redistribution of radiopharmaceuticals, generators, reagent kits
+31 and/or sources or devices not involving processing of
+32 radioactive or byproduct material. This category also includes
+33 the possession and use of source material for shielding when
+34 included on the same license
+35 Maximum annual fee.......................................................$2,350
+36 E. Licenses for possession and use of radioactive or byproduct
+37 material in sealed sources for irradiation of materials in which
+38 the source is not removed from its shield (self-shielded units)
+39 Maximum annual fee.......................................................$1,800
+40 F. Licenses for possession and use of less than 10,000 curies of
+41 radioactive or byproduct material in sealed sources for
+42 irradiation of materials in which the source is exposed for
+43 irradiation purposes. This category also includes underwater
+SB 171 7
+1 irradiators for irradiation of materials in which the source is
+2 not exposed for irradiation purposes
+3 Maximum annual fee.......................................................$3,300
+4 G. Licenses for possession and use of 10,000 curies or more of
+5 radioactive or byproduct material in sealed sources for
+6 irradiation of materials in which the source is exposed for
+7 irradiation purposes. This category also includes underwater
+8 irradiators for irradiation of materials in which the source is
+9 not exposed for irradiation purposes
+10 Maximum annual fee.....................................................$12,050
+11 H. Licenses issued to distribute items containing radioactive or
+12 byproduct material that require device review to persons
+13 exempt from licensing, except specific licenses authorizing
+14 redistribution of items that have been authorized for
+15 distribution to persons exempt from licensing
+16 Maximum annual fee.......................................................$3,000
+17 I. Licenses issued to distribute items containing radioactive or
+18 byproduct material or quantities of radioactive or byproduct
+19 material that do not require device review to persons exempt
+20 from licensing, except for specific licenses authorizing
+21 redistribution of items that have been authorized for
+22 distribution to persons exempt from licensing
+23 Maximum annual fee.......................................................$3,050
+24 J. Licenses issued to distribute items containing radioactive or
+25 byproduct material that require sealed source and/or device
+26 review to persons generally licensed, except specific licenses
+27 authorizing redistribution of items that have been authorized
+28 for distribution to persons generally licensed
+29 Maximum annual fee.......................................................$1,100
+30 K. Licenses issued to distribute items containing radioactive or
+31 byproduct material or quantities of radioactive or byproduct
+32 material that do not require sealed source and/or device review
+33 to persons generally licensed, except specific licenses
+34 authorizing redistribution of items that have been authorized
+35 for distribution to persons generally licensed
+36 Maximum annual fee..........................................................$700
+37 L. Licenses of broad scope for possession and use of radioactive
+38 or byproduct material issued for research and development that
+39 do not authorize commercial distribution
+40 Maximum annual fee.......................................................$5,900
+41 M. Other licenses for possession and use of radioactive or
+42 byproduct material issued for research and development that
+43 do not authorize commercial distribution
+SB 171 8
+1 Maximum annual fee.......................................................$2,800
+2 N. Licenses that authorize services for other licensees, except (1)
+3 Licenses that authorize only calibration and/or leak testing
+4 services are subject to the fees specified in fee category 3P;
+5 and (2) licenses that authorize waste disposal services are
+6 subject to the fees specified in fee categories 4A, 4B and 4C
+7 Maximum annual fee.......................................................$3,050
+8 O. Licenses for possession and use of radioactive or byproduct
+9 material for industrial radiography operations. This category
+10 also includes the possession and use of source material for
+11 shielding when authorized on the same license
+12 Maximum annual fee.......................................................$6,100
+13 P. All other specific radioactive or byproduct material licenses
+14 not otherwise specified in this table
+15 Maximum annual fee.......................................................$1,250
+16 Q. Registration of generally licensed devices or sources
+17 Maximum annual fee..........................................................$225
+18 4. Waste disposal and processing
+19 A. Licenses authorizing the possession and use of waste
+20 radioactive, by-product, source or special nuclear material for a
+21 commercial low-level radioactive waste disposal facility.
+22 Maximum annual fee....................................................Full cost
+23 i. Amendment to license concerning safety and environmental
+24 questions
+25 Maximum amendment fee.........................................Full cost
+26 ii. Amendment to license concerning administration questions
+27 (no safety or environment questions)
+28 Maximum amendment fee.........................................Full cost
+29 B. Licenses specifically authorizing the receipt of waste
+30 radioactive or byproduct material, source material or special
+31 nuclear material from other persons for the purpose of
+32 packaging or repackaging the material. The licensee will
+33 dispose of the material by transfer to another person authorized
+34 to receive or dispose of the material
+35 Maximum annual fee.......................................................$5,150
+36 C. Licenses specifically authorizing the receipt of prepackaged
+37 waste radioactive or byproduct material, source material or
+38 special nuclear material from other persons. The licensee will
+39 dispose of the material by transfer to another person authorized
+40 to receive or dispose of the material
+41 Maximum annual fee.......................................................$3,700
+42 5. Well logging
+43 A. Licenses for possession and use of radioactive or byproduct
+SB 171 9
+1 material, source material and/or special nuclear material for
+2 well logging, well surveys and tracer studies other than field
+3 flooding tracer studies
+4 Maximum annual fee.......................................................$2,350
+5 B. Licenses for possession and use of radioactive or byproduct
+6 material for field flooding tracer studies
+7 Maximum annual fee.......................................................$2,350
+8 6. Nuclear laundries
+9 A. Licenses for commercial collection and laundry of items
+10 contaminated with radioactive or byproduct material, source
+11 material or special nuclear material
+12 Maximum annual fee.....................................................$11,550
+13 7. Medical licenses
+14 A. Licenses issued for human use of radioactive or byproduct
+15 material, source material or special nuclear material in sealed
+16 sources contained in teletherapy devices. This category also
+17 includes the possession and use of source material for shielding
+18 when authorized on the same license
+19 Maximum annual fee.......................................................$5,500
+20 B. Licenses of broad scope issued to medical institutions or two
+21 or more physicians authorizing research and development,
+22 including human use of radioactive or byproduct material
+23 except licenses for radioactive or byproduct material, source
+24 material or special nuclear material in sealed sources contained
+25 in teletherapy devices. This category also includes the
+26 possession and use of source material for shielding when
+27 authorized on the same license. Separate annual fees will not
+28 be assessed for pacemaker licenses issued to medical
+29 institutions who also hold nuclear medicine licenses under
+30 categories 7B or 7C
+31 Maximum annual fee.....................................................$12,350
+32 C. Other license issued for human use of radioactive or byproduct
+33 material, source material and/or special nuclear material except
+34 licenses for radioactive or byproduct material, source material
+35 or special nuclear material in sealed sources contained in
+36 teletherapy devices. This category also includes the possession
+37 and use of source material for shielding when authorized on
+38 the same license. Separate annual fees will not be assessed for
+39 pacemaker licenses issued to medical institutions who also
+40 hold nuclear medicine licenses under categories 7B or 7C
+41 Maximum annual fee.......................................................$2,300
+42 8. Civil defense
+43 A. Licenses for possession and use of radioactive or byproduct
+SB 171 10
+1 material, source material or special nuclear material for civil
+2 defense activities
+3 Maximum annual fee..........................................................$650
+4 9. Device, product or sealed source safety evaluation
+5 A. Safety evaluation review of devices or products containing
+6 radioactive or byproduct material, source material or special
+7 nuclear material, except reactor fuel devices, for commercial
+8 distribution. This fee shall apply to each device or product
+9 Maximum annual fee.......................................................$3,500
+10 B. Safety evaluation review of devices or products containing
+11 radioactive or byproduct material, source material or special
+12 nuclear material manufactured in accordance with the unique
+13 specifications of, and for use by, a single applicant, except
+14 reactor fuel devices. This fee shall apply to each device or
+15 product
+16 Maximum annual fee.......................................................$3,500
+17 C. Safety evaluation of sealed sources containing radioactive or
+18 byproduct material, source material or special nuclear material,
+19 except reactor fuel, for commercial distribution. This fee shall
+20 apply to each device or product
+21 Maximum annual fee.......................................................$1,100
+22 D. Registrations issued for the safety evaluation of sealed sources
+23 containing radioactive or byproduct material, source material
+24 or special nuclear material, manufactured in accordance with
+25 the unique specifications of, and for use by, a single applicant.
+26 This fee shall apply to each device or product
+27 Maximum annual fee..........................................................$365
+28 10. Special projects
+29 A. Hourly rate for radiation control program activities for which
+30 there is not an established fee category or for radiation
+31 protection services provided to nonlicensees and nonregistrants
+32 Maximum hourly rate...........................................................$79
+33 11. Reciprocity
+34 A. Licensees who conduct activities under a reciprocal agreement
+35 Maximum annual fee..........................................................$750
+36 B. Registrants who conduct activities under a reciprocal
+37 agreement
+38 Maximum annual fee..........................................................$200
+39 12. X-ray machines
+40 A. Base registration fee per facility
+41 Maximum annual fee..........................................................$200
+42 B. Registration fee for each x-ray tube at a facility. This fee is in
+43 addition to the base registration fee
+SB 171 11
+1 Maximum annual fee per x-ray tube.....................................$50
+2 13. Accelerators
+3 A. Particle accelerators
+4 Maximum annual fee..........................................................$300
+5 14. New license and registration applications
+6 A. New license and registration applications. Equal to annual fee
+7 of applicable category
+8 15. Fusion system
+9 A. Licenses that authorize only the possession, use
+10 or installation of a fusion system
+11 Maximum annual fee ....................................................$40,000
+12 For licenses or registrations that authorize more than one activity, an
+13 annual fee shall be assessed for each of the applicable categories.
+14 (e) (1) An additional fee up to 50% of the maximum annual fee shall
+15 be assessed for each noncontiguous site where radioactive material is
+16 stored or used under the same license, per category.
+17 (2) As used in this subsection, "noncontiguous site" means a location
+18 more than one mile away from the main safety office where licensure
+19 records are maintained.
+20 (f) The secretary may assess a late fee for any license or registration
+21 that is not timely renewed. Such late fee may be assessed as follows:
+22 (1) For any license or registration that is renewed one to 30 days
+23 after the expiration date of a license or registration, the secretary may
+24 assess a maximum late fee in an amount not to exceed 25% of the annual
+25 license or registration fee; and
+26 (2) for any license or registration that is renewed 31 days or more
+27 after the expiration date of a license or registration, the secretary may
+28 assess a maximum late fee in an amount not to exceed 50% of the annual
+29 license or registration fee.
+30 (g) The secretary shall adopt rules and regulations fixing the fees for
+31 the radiation protection services provided under this act and shall
+32 periodically increase or decrease such fees consistent with the need to
+33 cover all or any part of the cost of administering such act.
+34 Sec. 3. K.S.A. 2024 Supp. 48-1603 and 48-1606 are hereby repealed.
+35 Sec. 4. This act shall take effect and be in force from and after its
+36 publication in the statute book.
+[DELETED: Aret to le nr fn s; eg sleSBS0f1(2s3r4m5(6o7m8(9o0a1(2(3(4c5(6o7(8h9p0r1(2m3(" ms te Ks dt of hh a4e5(6o]
+[DELETED: 1r(wsao(ts0c1(2s3(4(5e6o7( w t i8a w t i9o0w1(2e o3u4r5(6r7w8q9n o0p1(2(3(4en s, or e, ad te cd ws f5s6p7(8(l re w" ms re we n9c0(1s2b3(]
+[DELETED: 1((((apo oaS0t1S2(3(4b5(6t7(8f9c0(1w t es ig rn s I "2m3s4(5h6(7(8d9r0m1(2c3t4h5(e ml ml t" ms te ts or w6p7a8d9p0s1(2u3o]
+[DELETED: 1t(a((ibrm0(1n2(3m4o5m6a7(t nr f" ms id nr fl tt h8u9i.  i0m, bt m, se ml ad or r1m2(3e4y5(6n7d8n9(0a1(y ed N" or "" m2N3of pt or pt hn p. "" ds nt i4a5(637(8m9"n s" is pe as tt ie f0rs ad ay r, re ml ad s1s2c3f]
+[DELETED: 1Sfr(ss((fl g, or ss ad ie a, p0ss l s 1r2(3f4s5(6o7(, pe i, or ct s, i8t9r0(1p2c3(4t5p6s7(8rs , d r t 9r0s1(2r3r4(5f6F718A.L9s0m1M2B.A3p]
+[DELETED: 1acM2A.LiMB.At0M132A.L3o4o5c6M7B.O8b9i0c1M2C.L3d4g5r6t7i8M9D.L0r1a2r3t4i5M6E.L7m8t9M0F.L1r2i3i]
+[DELETED: 1inMG.Lriiin0M1H.L2b3e4r5d6M7I.L8b9m0f1r2d3M4J.L5b6r7a8f9M0K.L1b2m3t4a5f6M7L.L8o9d0M1M.O2b3d]
+[DELETED: 1MN.LLsasMO.Lm0a1s2M3P.A4n5M6Q.R7M849A.L0r1c2M3i.A4q5M6i.A7(8M9B.L0r1n2p3d4t5M6C.L7w8s9d0t1M253A.L]
+[DELETED: 1mwfMB.LmM6A.L0c1m2M374A.L5m6s7i8w9M0B.L1o2i3e4m5i6p7a8b9i0c1M2C.O3m4l5o6t7a8t9p0h1M283A.L]
+[DELETED: 11mdM9A.SrndM0B.S1r2n3s4r5p6M7C.S8b9e0a1M2D.R3c4o5t6T7M819A.H0t1p2M314A.L5M6B.R7a8M910A.B1M2B.R3a]
+[DELETED: 11M1A.PM1A.No1A.L0o1M2F3a4(5b6s7(8m9r0(1t2(3a4a5l6(7a8a9l0(1te rn pn ss pd ur ts at ad s2p3c4S5S6p]
+
+
+================================================================================
+
+Raw Text:
+Session of 2025
+SENATE BILL No. 171
+By Committee on Utilities
+2-3
+1 AN ACT concerning the department of health and environment; relating to
+2 radiation protection and control; authorizing the secretary of health and
+3 environment to license nuclear fusion systems; establishing such
+4 licensure fee; authorizing the secretary to impose late fees for any
+5 expired radiation protection and control license; amending K.S.A. 2024
+6 Supp. 48-1603 and 48-1606 and repealing the existing sections.
+7
+8 Be it enacted by the Legislature of the State of Kansas:
+9 Section 1. K.S.A. 2024 Supp. 48-1603 is hereby amended to read as
+10 follows: 48-1603. As used in this act:
+11 (a) "By-product material" means: (1) Any radioactive material, except
+12 special nuclear material, yielded in or made radioactive by exposure to the
+13 radiation incident to the process of producing or utilizing special nuclear
+14 material;
+15 (2) the tailings or wastes produced by the extraction or concentration
+16 of uranium or thorium from any ore processed primarily for its source
+17 material content;
+18 (3) (A) any discrete source of radium-226 that is produced, extracted
+19 or converted after extraction for use for a commercial, medical or research
+20 activity; or
+21 (B) any material that:
+22 (i) Has been made radioactive by use of a particle accelerator; and
+23 (ii) is produced, extracted or converted after extraction for use for a
+24 commercial, medical or research activity; or
+25 (4) any discrete source of naturally occurring radioactive material,
+26 other than source material, that:
+27 (A) The secretary declares by order would pose a threat to the public
+28 health and safety or the common defense and security similar to the threat
+29 posed by a discrete source of radium-226 after the United States nuclear
+30 regulatory commission, or any successor thereto, determines the same; and
+31 (B) is extracted or converted after extraction for use in a commercial,
+32 medical or research activity.
+33 (b) "Department" means the Kansas department of health and
+34 environment.
+35 (c) "Civil penalty" means any monetary penalty levied on a licensee
+36 or registrant because of violations of statutes, regulations, licenses or
+
+SB 171 2
+1 registration certificates, but does not include criminal penalties.
+2 (d) "Closure" or "site closure" means all activities performed at a
+3 waste disposal site, such as stabilization and contouring, to assure that the
+4 site is in a stable condition so that only minor custodial care, surveillance
+5 and monitoring are necessary at the site following termination of licensed
+6 operation.
+7 (e) "Decommissioning" means final operational activities at a facility
+8 to dismantle site structures, to decontaminate site surfaces and remaining
+9 structures, to stabilize and contain residual radioactive material and to
+10 carry out any other activities to prepare the site for postoperational care.
+11 (f) "Disposal of low-level radioactive waste" means the isolation of
+12 such waste from the biosphere.
+13 (g) "Electronic product" means any manufactured or assembled:
+14 (1) Product which, when in operation, contains or acts as part of an
+15 electronic circuit and emits, or in the absence of effective shielding or
+16 other controls would emit, electronic product radiation; or
+17 (2) article which that is intended for use as a component part, or
+18 accessory of a product described in this subsection and which that in
+19 operation emits, or in the absence of effective shielding or other controls
+20 would emit, such radiation.
+21 (h) "Electronic product radiation" means any ionizing or nonionizing,
+22 electromagnetic or particulate radiation, or any sonic, infrasonic, or
+23 ultrasonic wave, which that is emitted from an electronic product as the
+24 result of the operation of an electronic circuit in such product.
+25 (i) "General license" means a license effective pursuant to rules and
+26 regulations promulgated by the secretary of health and environment,
+27 without the filing of an application to transfer, acquire, own, possess or use
+28 quantities of, or devices or equipment utilizing by-product, source, special
+29 nuclear materials, or other radioactive material occurring naturally or
+30 produced artificially.
+31 (j) "High-level radioactive waste" means:
+32 (1) Irradiated reactor fuel;
+33 (2) liquid wastes resulting from the operation of the first cycle solvent
+34 extraction system, or equivalent, and the concentrated wastes from
+35 subsequent extraction cycles, or equivalent, in a facility for uranium
+36 processing irradiated reactor fuel; and
+37 (3) solids into which such liquid wastes have been converted.
+38 (k) "Low-level radioactive waste" means radioactive waste not
+39 classified as:
+40 (1) NORM waste or TENORM waste at concentrations and from
+41 sources established in rules and regulations adopted by the secretary on or
+42 before July 1, 2016;
+43 (2) high-level radioactive waste;
+
+SB 171 3
+1 (3) transuranic waste;
+2 (4) spent nuclear fuel; or
+3 (5) by-product material as defined in subsection (a)(2).
+4 (l) "Person" means any individual, corporation, partnership, firm,
+5 association, trust, estate, public or private institution, group, agency,
+6 political subdivision of this state, or any other state or political subdivision
+7 or agency thereof, and any legal successor, representative, agency, or
+8 agency of the foregoing, other than. "Person" does not include the United
+9 States nuclear regulatory commission, or any successor thereto, and other
+10 than or any federal government agencies agency licensed by the United
+11 States nuclear regulatory commission, or any successor thereto.
+12 (m) "Radiation" means:
+13 (1) Ionizing radiation including gamma rays, X-rays, alpha particles,
+14 beta particles, and including neutrons;
+15 (2) any electromagnetic radiation other than ionizing radiation which
+16 that is generated during the operation of an electronic product; or
+17 (3) any sonic, ultrasonic, or infrasonic wave which that is emitted
+18 from an electronic product as a result of the operation of an electronic
+19 circuit in such product.
+20 (n) "Radioactive material" means any material, solid, liquid or gas,
+21 which that emits ionizing radiation spontaneously. It "Radioactive
+22 material" includes accelerator produced, by-product, naturally occurring,
+23 source and special nuclear materials.
+24 (o) "Secretary" means the secretary of the Kansas department of
+25 health and environment.
+26 (p) "Source material" means:
+27 (1) Uranium, thorium or any other material which that the secretary
+28 declares by order to be source material after the United States nuclear
+29 regulatory commission, or any successor thereto, has determined the
+30 material to be such; or
+31 (2) ores containing one or more of the foregoing materials, in such
+32 concentration as the secretary declares by order to be source material after
+33 the United States nuclear regulatory commission, or any successor thereto,
+34 has determined the material in such concentration to be source material.
+35 (q) "Source material mill tailings" means the tailings or waste
+36 produced by the extraction or concentration of uranium or thorium from
+37 any ore processed primarily for its source material content, including
+38 discrete surface wastes resulting from underground solution extraction
+39 processes but not including underground ore bodies depleted by such
+40 solution extraction process.
+41 (r) "Source material milling" means any processing of ore, including
+42 underground solution extraction of unmined ore, primarily for the purpose
+43 of extracting or concentrating uranium or thorium therefrom and which
+
+SB 171 4
+1 that results in the production of source material mill tailings.
+2 (s) "Sources of radiation" means, collectively, radioactive material
+3 and radiation generating equipment.
+4 (t) "Special nuclear material" means:
+5 (1) Plutonium, uranium 233, uranium enriched in the isotope 233 or
+6 in the isotope 235, and any other material which that the secretary declares
+7 by order to be special nuclear material after the United States nuclear
+8 regulatory commission, or any successor thereto, has determined the
+9 material to be such, but does not include source material; or
+10 (2) any material artificially enriched by any of the foregoing, but does
+11 not include source material.
+12 (u) "Specific license" means a license issued after application, to use,
+13 manufacture, produce, transfer, receive, acquire, own or possess quantities
+14 of, or devices or equipment utilizing by-product, source, special nuclear
+15 materials, or other radioactive material occurring naturally or produced
+16 artificially.
+17 (v) "Spent nuclear fuel" means irradiated nuclear fuel that has
+18 undergone at least one year's decay since being used as a source of energy
+19 in a power reactor. "Spent nuclear fuel" includes the special nuclear
+20 material, by-product material, source material and other radioactive
+21 material associated with fuel assemblies.
+22 (w) "Transuranic waste" means radioactive waste containing alpha
+23 emitting transuranic elements, with radioactive half-lives greater than five
+24 years, in excess of 10 nanocuries per gram.
+25 (x) "Naturally occurring radioactive material" or "NORM" means any
+26 nuclide that is radioactive in the nuclide's natural physical state. "NORM"
+27 does not include accelerator produced, by-product, source or special
+28 nuclear material.
+29 (y) "NORM waste" means solid waste as defined in K.S.A. 65-3402,
+30 and amendments thereto, that is contaminated with NORM.
+31 (z) "Technologically enhanced NORM" or "TENORM" means
+32 NORM whose radionuclide concentrations are increased by or as a result
+33 of past or present human practices. "TENORM" does not include
+34 accelerator produced, by-product, source or special nuclear material.
+35 (aa) "TENORM waste" means solid waste as defined in K.S.A. 65-
+36 3402, and amendments thereto, that is contaminated with TENORM.
+37 (bb) "Fusion system" means a system that, through use of byproduct
+38 material or production of byproduct material, induces fusion reactions.
+39 "Fusion system" includes particle accelerators that induce fusion
+40 reactions and any radiation, radioactive material and supporting
+41 structures, systems and components that are used to contain, process or
+42 control radiation and radioactive materials used in or resulting from
+43 fusion reactions.
+
+SB 171 5
+1 Sec. 2. K.S.A. 2024 Supp. 48-1606 is hereby amended to read as
+2 follows: 48-1606. (a) The secretary of health and environment shall be
+3 responsible for state radiation control.
+4 (b) The secretary, for the protection of the public health and safety,
+5 shall develop programs for evaluation of hazards associated with use of
+6 sources of radiation.
+7 (c) The secretary may:
+8 (1) Advise, consult and cooperate with other agencies of the state, the
+9 federal government, other states and interstate agencies, political
+10 subdivisions and with groups concerned with control of sources of
+11 radiation;
+12 (2) accept and administer grants or gifts, conditional or otherwise, in
+13 furtherance of its functions, from the federal government and from other
+14 sources, public or private;
+15 (3) collect and disseminate information relating to control of sources
+16 of radiation;
+17 (4) encourage, participate in, or conduct studies, investigations,
+18 training, research and demonstrations relating to control of sources of
+19 radiation;
+20 (5) in accordance with the laws of the state, employ, compensate and
+21 prescribe the powers and duties of such individuals as may be necessary to
+22 carry out the responsibilities set forth herein;
+23 (6) institute training programs for the purpose of qualifying personnel
+24 to carry out the provisions of this act, and make personnel available for
+25 participation in any program or programs of the federal government, other
+26 states or interstate agencies in furtherance of the purposes of this act;
+27 (7) fix, charge and collect fees for licenses and registrations, and
+28 renewals thereof, issued under the nuclear energy development and
+29 radiation control act to cover all or any part of the cost of administering
+30 such act; and
+31 (8) receive any moneys in the form of grants, gifts, licensing or
+32 registration fees, or as paid under an agreement with the secretary or as
+33 reimbursement for remedial action costs.
+34 (d) Subject to the following limitations, the secretary may assess a fee
+35 for the following categories of radiation protection services:
+36 Fee Category:
+37 1. Special nuclear material
+38 A. Licenses for possession and use of special nuclear material in
+39 sealed sources contained in devices used in industrial
+40 measuring systems
+41 Maximum annual fee..........................................................$950
+42 B. Any licenses not otherwise specified in this table for
+43 possession and use of special nuclear material, except licenses
+
+SB 171 6
+1 authorizing special nuclear material in unsealed form in
+2 combination that would constitute a critical mass
+3 Maximum annual fee.......................................................$2,250
+4 2. Source material
+5 A. Licenses that authorize only the possession, use and/or
+6 installation of source material for shielding
+7 Maximum annual fee..........................................................$365
+8 B. All other source material licenses not otherwise specified in
+9 this table
+10 Maximum annual fee.......................................................$5,700
+11 3. Radioactive or byproduct material
+12 A. Licenses of broad scope for possession and use of radioactive
+13 or byproduct material issued for processing or manufacturing
+14 of items containing radioactive or byproduct material for
+15 commercial distribution
+16 Maximum annual fee.....................................................$10,900
+17 B. Other licenses for possession and use of radioactive or
+18 byproduct material issued for processing or manufacturing of
+19 items containing radioactive or byproduct material for
+20 commercial distribution
+21 Maximum annual fee.......................................................$3,300
+22 C. Licenses authorizing the processing or manufacturing and
+23 distribution or redistribution of radiopharmaceuticals,
+24 generators, reagent kits and/or sources and devices containing
+25 radioactive or byproduct material. This category also includes
+26 the possession and use of source material for shielding when
+27 included on the same license
+28 Maximum annual fee.......................................................$5,450
+29 D. Licenses and approvals authorizing distribution or
+30 redistribution of radiopharmaceuticals, generators, reagent kits
+31 and/or sources or devices not involving processing of
+32 radioactive or byproduct material. This category also includes
+33 the possession and use of source material for shielding when
+34 included on the same license
+35 Maximum annual fee.......................................................$2,350
+36 E. Licenses for possession and use of radioactive or byproduct
+37 material in sealed sources for irradiation of materials in which
+38 the source is not removed from its shield (self-shielded units)
+39 Maximum annual fee.......................................................$1,800
+40 F. Licenses for possession and use of less than 10,000 curies of
+41 radioactive or byproduct material in sealed sources for
+42 irradiation of materials in which the source is exposed for
+43 irradiation purposes. This category also includes underwater
+
+SB 171 7
+1 irradiators for irradiation of materials in which the source is
+2 not exposed for irradiation purposes
+3 Maximum annual fee.......................................................$3,300
+4 G. Licenses for possession and use of 10,000 curies or more of
+5 radioactive or byproduct material in sealed sources for
+6 irradiation of materials in which the source is exposed for
+7 irradiation purposes. This category also includes underwater
+8 irradiators for irradiation of materials in which the source is
+9 not exposed for irradiation purposes
+10 Maximum annual fee.....................................................$12,050
+11 H. Licenses issued to distribute items containing radioactive or
+12 byproduct material that require device review to persons
+13 exempt from licensing, except specific licenses authorizing
+14 redistribution of items that have been authorized for
+15 distribution to persons exempt from licensing
+16 Maximum annual fee.......................................................$3,000
+17 I. Licenses issued to distribute items containing radioactive or
+18 byproduct material or quantities of radioactive or byproduct
+19 material that do not require device review to persons exempt
+20 from licensing, except for specific licenses authorizing
+21 redistribution of items that have been authorized for
+22 distribution to persons exempt from licensing
+23 Maximum annual fee.......................................................$3,050
+24 J. Licenses issued to distribute items containing radioactive or
+25 byproduct material that require sealed source and/or device
+26 review to persons generally licensed, except specific licenses
+27 authorizing redistribution of items that have been authorized
+28 for distribution to persons generally licensed
+29 Maximum annual fee.......................................................$1,100
+30 K. Licenses issued to distribute items containing radioactive or
+31 byproduct material or quantities of radioactive or byproduct
+32 material that do not require sealed source and/or device review
+33 to persons generally licensed, except specific licenses
+34 authorizing redistribution of items that have been authorized
+35 for distribution to persons generally licensed
+36 Maximum annual fee..........................................................$700
+37 L. Licenses of broad scope for possession and use of radioactive
+38 or byproduct material issued for research and development that
+39 do not authorize commercial distribution
+40 Maximum annual fee.......................................................$5,900
+41 M. Other licenses for possession and use of radioactive or
+42 byproduct material issued for research and development that
+43 do not authorize commercial distribution
+
+SB 171 8
+1 Maximum annual fee.......................................................$2,800
+2 N. Licenses that authorize services for other licensees, except (1)
+3 Licenses that authorize only calibration and/or leak testing
+4 services are subject to the fees specified in fee category 3P;
+5 and (2) licenses that authorize waste disposal services are
+6 subject to the fees specified in fee categories 4A, 4B and 4C
+7 Maximum annual fee.......................................................$3,050
+8 O. Licenses for possession and use of radioactive or byproduct
+9 material for industrial radiography operations. This category
+10 also includes the possession and use of source material for
+11 shielding when authorized on the same license
+12 Maximum annual fee.......................................................$6,100
+13 P. All other specific radioactive or byproduct material licenses
+14 not otherwise specified in this table
+15 Maximum annual fee.......................................................$1,250
+16 Q. Registration of generally licensed devices or sources
+17 Maximum annual fee..........................................................$225
+18 4. Waste disposal and processing
+19 A. Licenses authorizing the possession and use of waste
+20 radioactive, by-product, source or special nuclear material for a
+21 commercial low-level radioactive waste disposal facility.
+22 Maximum annual fee....................................................Full cost
+23 i. Amendment to license concerning safety and environmental
+24 questions
+25 Maximum amendment fee.........................................Full cost
+26 ii. Amendment to license concerning administration questions
+27 (no safety or environment questions)
+28 Maximum amendment fee.........................................Full cost
+29 B. Licenses specifically authorizing the receipt of waste
+30 radioactive or byproduct material, source material or special
+31 nuclear material from other persons for the purpose of
+32 packaging or repackaging the material. The licensee will
+33 dispose of the material by transfer to another person authorized
+34 to receive or dispose of the material
+35 Maximum annual fee.......................................................$5,150
+36 C. Licenses specifically authorizing the receipt of prepackaged
+37 waste radioactive or byproduct material, source material or
+38 special nuclear material from other persons. The licensee will
+39 dispose of the material by transfer to another person authorized
+40 to receive or dispose of the material
+41 Maximum annual fee.......................................................$3,700
+42 5. Well logging
+43 A. Licenses for possession and use of radioactive or byproduct
+
+SB 171 9
+1 material, source material and/or special nuclear material for
+2 well logging, well surveys and tracer studies other than field
+3 flooding tracer studies
+4 Maximum annual fee.......................................................$2,350
+5 B. Licenses for possession and use of radioactive or byproduct
+6 material for field flooding tracer studies
+7 Maximum annual fee.......................................................$2,350
+8 6. Nuclear laundries
+9 A. Licenses for commercial collection and laundry of items
+10 contaminated with radioactive or byproduct material, source
+11 material or special nuclear material
+12 Maximum annual fee.....................................................$11,550
+13 7. Medical licenses
+14 A. Licenses issued for human use of radioactive or byproduct
+15 material, source material or special nuclear material in sealed
+16 sources contained in teletherapy devices. This category also
+17 includes the possession and use of source material for shielding
+18 when authorized on the same license
+19 Maximum annual fee.......................................................$5,500
+20 B. Licenses of broad scope issued to medical institutions or two
+21 or more physicians authorizing research and development,
+22 including human use of radioactive or byproduct material
+23 except licenses for radioactive or byproduct material, source
+24 material or special nuclear material in sealed sources contained
+25 in teletherapy devices. This category also includes the
+26 possession and use of source material for shielding when
+27 authorized on the same license. Separate annual fees will not
+28 be assessed for pacemaker licenses issued to medical
+29 institutions who also hold nuclear medicine licenses under
+30 categories 7B or 7C
+31 Maximum annual fee.....................................................$12,350
+32 C. Other license issued for human use of radioactive or byproduct
+33 material, source material and/or special nuclear material except
+34 licenses for radioactive or byproduct material, source material
+35 or special nuclear material in sealed sources contained in
+36 teletherapy devices. This category also includes the possession
+37 and use of source material for shielding when authorized on
+38 the same license. Separate annual fees will not be assessed for
+39 pacemaker licenses issued to medical institutions who also
+40 hold nuclear medicine licenses under categories 7B or 7C
+41 Maximum annual fee.......................................................$2,300
+42 8. Civil defense
+43 A. Licenses for possession and use of radioactive or byproduct
+
+SB 171 10
+1 material, source material or special nuclear material for civil
+2 defense activities
+3 Maximum annual fee..........................................................$650
+4 9. Device, product or sealed source safety evaluation
+5 A. Safety evaluation review of devices or products containing
+6 radioactive or byproduct material, source material or special
+7 nuclear material, except reactor fuel devices, for commercial
+8 distribution. This fee shall apply to each device or product
+9 Maximum annual fee.......................................................$3,500
+10 B. Safety evaluation review of devices or products containing
+11 radioactive or byproduct material, source material or special
+12 nuclear material manufactured in accordance with the unique
+13 specifications of, and for use by, a single applicant, except
+14 reactor fuel devices. This fee shall apply to each device or
+15 product
+16 Maximum annual fee.......................................................$3,500
+17 C. Safety evaluation of sealed sources containing radioactive or
+18 byproduct material, source material or special nuclear material,
+19 except reactor fuel, for commercial distribution. This fee shall
+20 apply to each device or product
+21 Maximum annual fee.......................................................$1,100
+22 D. Registrations issued for the safety evaluation of sealed sources
+23 containing radioactive or byproduct material, source material
+24 or special nuclear material, manufactured in accordance with
+25 the unique specifications of, and for use by, a single applicant.
+26 This fee shall apply to each device or product
+27 Maximum annual fee..........................................................$365
+28 10. Special projects
+29 A. Hourly rate for radiation control program activities for which
+30 there is not an established fee category or for radiation
+31 protection services provided to nonlicensees and nonregistrants
+32 Maximum hourly rate...........................................................$79
+33 11. Reciprocity
+34 A. Licensees who conduct activities under a reciprocal agreement
+35 Maximum annual fee..........................................................$750
+36 B. Registrants who conduct activities under a reciprocal
+37 agreement
+38 Maximum annual fee..........................................................$200
+39 12. X-ray machines
+40 A. Base registration fee per facility
+41 Maximum annual fee..........................................................$200
+42 B. Registration fee for each x-ray tube at a facility. This fee is in
+43 addition to the base registration fee
+
+SB 171 11
+1 Maximum annual fee per x-ray tube.....................................$50
+2 13. Accelerators
+3 A. Particle accelerators
+4 Maximum annual fee..........................................................$300
+5 14. New license and registration applications
+6 A. New license and registration applications. Equal to annual fee
+7 of applicable category
+8 15. Fusion system
+9 A. Licenses that authorize only the possession, use
+10 or installation of a fusion system
+11 Maximum annual fee ....................................................$40,000
+12 For licenses or registrations that authorize more than one activity, an
+13 annual fee shall be assessed for each of the applicable categories.
+14 (e) (1) An additional fee up to 50% of the maximum annual fee shall
+15 be assessed for each noncontiguous site where radioactive material is
+16 stored or used under the same license, per category.
+17 (2) As used in this subsection, "noncontiguous site" means a location
+18 more than one mile away from the main safety office where licensure
+19 records are maintained.
+20 (f) The secretary may assess a late fee for any license or registration
+21 that is not timely renewed. Such late fee may be assessed as follows:
+22 (1) For any license or registration that is renewed one to 30 days
+23 after the expiration date of a license or registration, the secretary may
+24 assess a maximum late fee in an amount not to exceed 25% of the annual
+25 license or registration fee; and
+26 (2) for any license or registration that is renewed 31 days or more
+27 after the expiration date of a license or registration, the secretary may
+28 assess a maximum late fee in an amount not to exceed 50% of the annual
+29 license or registration fee.
+30 (g) The secretary shall adopt rules and regulations fixing the fees for
+31 the radiation protection services provided under this act and shall
+32 periodically increase or decrease such fees consistent with the need to
+33 cover all or any part of the cost of administering such act.
+34 Sec. 3. K.S.A. 2024 Supp. 48-1603 and 48-1606 are hereby repealed.
+35 Sec. 4. This act shall take effect and be in force from and after its
+36 publication in the statute book.
+
+[DELETED: Aret to le nr fn s; eg sleSBS0f1(2s3r4m5(6o7m8(9o0a1(2(3(4c5(6o7(8h9p0r1(2m3(" ms te Ks dt of hh a4e5(6o]
+[DELETED: 1r(wsao(ts0c1(2s3(4(5e6o7( w t i8a w t i9o0w1(2e o3u4r5(6r7w8q9n o0p1(2(3(4en s, or e, ad te cd ws f5s6p7(8(l re w" ms re we n9c0(1s2b3(]
+[DELETED: 1((((apo oaS0t1S2(3(4b5(6t7(8f9c0(1w t es ig rn s I "2m3s4(5h6(7(8d9r0m1(2c3t4h5(e ml ml t" ms te ts or w6p7a8d9p0s1(2u3o]
+[DELETED: 1t(a((ibrm0(1n2(3m4o5m6a7(t nr f" ms id nr fl tt h8u9i.  i0m, bt m, se ml ad or r1m2(3e4y5(6n7d8n9(0a1(y ed N" or "" m2N3of pt or pt hn p. "" ds nt i4a5(637(8m9"n s" is pe as tt ie f0rs ad ay r, re ml ad s1s2c3f]
+[DELETED: 1Sfr(ss((fl g, or ss ad ie a, p0ss l s 1r2(3f4s5(6o7(, pe i, or ct s, i8t9r0(1p2c3(4t5p6s7(8rs , d r t 9r0s1(2r3r4(5f6F718A.L9s0m1M2B.A3p]
+[DELETED: 1acM2A.LiMB.At0M132A.L3o4o5c6M7B.O8b9i0c1M2C.L3d4g5r6t7i8M9D.L0r1a2r3t4i5M6E.L7m8t9M0F.L1r2i3i]
+[DELETED: 1inMG.Lriiin0M1H.L2b3e4r5d6M7I.L8b9m0f1r2d3M4J.L5b6r7a8f9M0K.L1b2m3t4a5f6M7L.L8o9d0M1M.O2b3d]
+[DELETED: 1MN.LLsasMO.Lm0a1s2M3P.A4n5M6Q.R7M849A.L0r1c2M3i.A4q5M6i.A7(8M9B.L0r1n2p3d4t5M6C.L7w8s9d0t1M253A.L]
+[DELETED: 1mwfMB.LmM6A.L0c1m2M374A.L5m6s7i8w9M0B.L1o2i3e4m5i6p7a8b9i0c1M2C.O3m4l5o6t7a8t9p0h1M283A.L]
+[DELETED: 11mdM9A.SrndM0B.S1r2n3s4r5p6M7C.S8b9e0a1M2D.R3c4o5t6T7M819A.H0t1p2M314A.L5M6B.R7a8M910A.B1M2B.R3a]
+[DELETED: 11M1A.PM1A.No1A.L0o1M2F3a4(5b6s7(8m9r0(1t2(3a4a5l6(7a8a9l0(1te rn pn ss pd ur ts at ad s2p3c4S5S6p]
