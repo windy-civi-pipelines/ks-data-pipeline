@@ -1,6 +1,3 @@
-# Example caller workflow for text extraction
-# Copy this to your state data repo as .github/workflows/extract-text.yml
-
 name: Text Extraction from Bills
 
 on:
